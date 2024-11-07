@@ -1,7 +1,7 @@
 ---
 title: "Resolving LSA Error: Local Sec Admin Disabled Alert"
-date: 2024-09-11T01:20:50.040Z
-updated: 2024-09-12T01:20:50.040Z
+date: 2024-11-01T08:27:21.396Z
+updated: 2024-11-07T03:45:56.491Z
 tags:
   - windows10
   - windows11
@@ -47,25 +47,12 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
 ![A Windows laptop installing updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Install-Windows-11-Updates.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Several users on a [Microsoft Community forum thread](https://answers.microsoft.com/en-us/windows/forum/all/the-local-security-authority-protection-is-off/6bd9dad0-9d25-4b6e-b101-eeacac9d3b3a) reported that the bug that turns off the Local Security Authority protection feature originated with a Windows update released in March 2023, specifically, the Update for Microsoft Defender antivirus antimalware platform KB5007651\.
 
@@ -73,19 +60,12 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
  In case that doesn't resolve the issue, uninstall the KB5007651 update. Refer to our guide on [how to uninstall any Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) if you don't know how. If that doesn't resolve the issue, as some users continue to encounter it despite updating their operating system, apply the remaining fixes.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Uninstall Recently Installed Third-Party Applications
 
@@ -95,75 +75,27 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
 ![Sort Installed Apps by Date Installed in the Windows Setiings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sort-installed-apps-by-date-installed-in-the-windows-setiings-app.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 5\. Repair and Reset the Windows Security Application
 
  The problematic Windows Security app can also turn off this security feature. If you've tweaked the app's settings recently, you're also more likely to get the "Local Security Authority protection is off" error. Repairing and resetting the Windows Security app is the best way to rule out these possibilities.
 
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Resetting the app will restore its original default settings, eliminating the possibility that misconfigured settings are causing the problem. Repairing the app will fix any underlying issue with its functionality. Refer to our guide on [how to reset a Windows app](https://www.makeuseof.com/windows-reset-app/) (or [repair it)](https://www.makeuseof.com/windows-repair-apps-programs/) if this is your first time doing so.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 6\. Ensure Malware Isn't Responsible for Deactivating the Feature
 
@@ -189,11 +121,31 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
  The feature could be off for numerous reasons; a problematic Windows update, the presence of malware in your system, interference from a recently installed third-party app, problems with the Windows Security app, improper Registry Editor settings, and more. If you want to fix this issue and activate the feature again, apply the following solutions.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-level-up-your-playtime-examining-kinemaster-on-android/"><u>[Updated] 2024 Approved Level Up Your Playtime Examining KineMaster on Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-affordable-action-camera-deals-top-6-for-less-than-100-only/"><u>[Updated] Affordable Action Camera Deals Top 6 for Less Than $100 Only</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-breakthrough-tactics-for-capturing-virtual-conferences/"><u>[Updated] In 2024, Breakthrough Tactics for Capturing Virtual Conferences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-high-speed-recording-tool-with-guided-soundtracks/"><u>[Updated] In 2024, High-Speed Recording Tool with Guided Soundtracks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conversational-cars-mercedes-benz-meshes-chatgpt-and-voice-control/"><u>Conversational Cars: Mercedes-Benz Meshes ChatGPT & Voice Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-erroneous-0xa00f429f-code-in-camera-app/"><u>Fixing the Erroneous 0xA00F429F Code in Camera App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nokia-150-2023-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nokia 150 (2023) to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovate-with-ease-the-insiders-guide-to-windows-11-widgets/"><u>Innovate with Ease: The Insider's Guide to Window's 11 Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-software-glitch-audacity-error-9999/"><u>Overcoming Windows Software Glitch: Audacity Error 9999</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-your-iphones-display-difficulties-a-breakdown-of-the-top-7-challenges-and-fixes/"><u>Overcoming Your iPhone's Display Difficulties: A Breakdown of the Top 7 Challenges and Fixes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/proven-techniques-for-amplifying-tiktok-unboxing-success-for-2024/"><u>Proven Techniques for Amplifying TikTok Unboxing Success for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shielding-wireless-networks-on-windows/"><u>Shielding Wireless Networks on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-elusive-steam-auth-delays-in-rust-and-pc/"><u>Swift Remedies for Elusive Steam Auth Delays in Rust & PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-overlooked-marvels-of-windows-11-functionality/"><u>The Overlooked Marvels of Windows 11 Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steams-content-server-inaccessibility-in-windows/"><u>Troubleshooting Steam's Content Server Inaccessibility in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultra-fast-conversion-official-platinum-winx-dvd-ripper-for-speedy-dvd-to-264hevc-mp4-ripping-in-minutes/"><u>Ultra-Fast Conversion: [OFFICIAL] Platinum WinX DVD Ripper for Speedy DVD to 264/HEVC MP4 Ripping in Minutes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-limits-navigating-personal-identity-in-a-controlled-environment/"><u>Understanding Limits: Navigating Personal Identity in a Controlled Environment</u></a></li>
+</ul></div>
+

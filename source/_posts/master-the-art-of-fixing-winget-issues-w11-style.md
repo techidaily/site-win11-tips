@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Fixing Winget Issues W11 Style
-date: 2024-09-11T01:20:51.018Z
-updated: 2024-09-12T01:20:51.018Z
+date: 2024-10-31T02:57:59.595Z
+updated: 2024-11-06T22:53:36.785Z
 tags:
   - windows10
   - windows11
@@ -31,19 +31,12 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
  Now, you know the reasons behind Winget not working issue. Try out these eight methods to resolve the issue and use your favorite package manager again.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 1\. Close and Reopen Winget in the Terminal App
 
@@ -66,26 +59,14 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 ![Completely Shutdown your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/completely-shutdown-your-pc.jpg)
 3. Your system will shut down. It will take longer than a usual shutdown because Windows will close everything.
 
-
-
+4. Power on your system and try to run Winget using the Terminal app to check if it works now.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-4. Power on your system and try to run Winget using the Terminal app to check if it works now.
 
 ## 4\. Update App Installer
 
@@ -94,20 +75,6 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 ![Update App Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-app-installer.jpg)
 
  So, open Microsoft Store and check the library section for any pending updates for the App Installer. Manually search and install the update and check if Winget works now.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Enable the App Execution Alias
 
@@ -120,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 ![Enable the App Execution Alias-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-the-app-execution-alias-1.jpg)
 5. Close the Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Manually Add the Path Environment Variable
 
  Ae wrongly configured Winget path can also produce errors. So, you must manually add the correct path in Environment Variables using the Advanced System Properties window. Repeat the following steps:
@@ -130,34 +104,21 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 ![Manually Add the Path Environment Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manually-add-the-path-environment-variable.jpg)
 4. Click on the **OK** button. Restart your PC.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Open the Terminal app and check if Winget works or not.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 7\. Re-register Winget Using PowerShell
 
@@ -168,34 +129,6 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 `Add-AppxPackage -DisableDevelopmentMode -Register "C:\Program Files\WindowsApps\Microsoft.Winget.Source_2021.718.1322.843_neutral__8wekyb3d8bbwe\AppXManifest.xml" -Verbose`
 3. You won’t see any confirmation message after the command executes successfully. Close the PowerShell window and restart your PC.  
 ![Re-register Winget Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/re-register-winget-using-powershell.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -209,11 +142,33 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
  But some users report that Winget is not working on their PC. They face a "The system cannot execute the specified program" and cannot run any commands, This post will discuss multiple methods to resolve the issue and restore Winget to its working state. Let’s begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-thread-that-binds-fabric-fixing-in-a-feature-rich-app/"><u>[New] The Thread That Binds Fabric Fixing in a Feature-Rich App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-perfect-pair-5-sleek-webcams-with-built-in-microphones/"><u>[Updated] 2024 Approved Perfect Pair 5 Sleek Webcams with Built-In Microphones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-superior-video-editor-the-vimeo-edition/"><u>[Updated] 2024 Approved Superior Video Editor The Vimeo Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-boost-engagement-stream-live-from-twitch-embed-on-fb-for-2024/"><u>[Updated] Boost Engagement Stream Live From Twitch, Embed on FB for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-content-crusaders-route-to-rapid-instagram-fame/"><u>2024 Approved Content Crusader’s Route to Rapid Instagram Fame</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/acquisisci-la-licenza-completa-di-winxvideo-ai-aggiornamenti-gratuiti-inclusi/"><u>Acquisisci La Licenza Completa Di WinxVideo AI, Aggiornamenti Gratuiti Inclusi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unwanted-hotkeys-during-typing-sessions/"><u>Fixing Unwanted Hotkeys During Typing Sessions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-solve-windows-10-photos-app-crashes-effectively/"><u>How to Solve Windows 10 Photos App Crashes Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-find-x7-ultra-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo Find X7 Ultra to Roku | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-xs-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone XS Location | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-opening-the-control-panel/"><u>Mastering Windows: Opening the Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-the-unseen-masterful-recovery-of-off-screen-applications-in-win-1011-6-tips/"><u>Recovering the Unseen: Masterful Recovery of Off-Screen Applications in Win 10/11 (6 Tips)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-authentication-failures/"><u>Remedying Windows Authentication Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-data-access-onedrive-sync-w-windows-microsoft-account/"><u>Simplifying Data Access: OneDrive Sync W/ Windows Microsoft Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncomplicating-docx-to-pdf-challenges-with-easy-steps-on-win-11-os/"><u>Uncomplicating Docx to PDF Challenges with Easy Steps on Win 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-utilizing-windows-11s-volume-mixer-feature/"><u>Understanding and Utilizing Windows 11'S Volume Mixer Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmasking-the-cause-of-0x80072af9-windows-errors/"><u>Unmasking the Cause of 0X80072AF9 Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-errors-navigating-and-resolving-o365-glitches/"><u>Win 11 Errors: Navigating and Resolving O365 Glitches</u></a></li>
+</ul></div>
+

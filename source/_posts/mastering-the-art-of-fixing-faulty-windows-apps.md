@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Fixing Faulty Windows Apps
-date: 2024-09-11T01:20:45.891Z
-updated: 2024-09-12T01:20:45.891Z
+date: 2024-11-04T21:11:21.243Z
+updated: 2024-11-07T12:37:48.688Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  In conclusion, apps in Windows can stop working due to both software and hardware issues. Below, we have listed the different troubleshooting methods you can try to fix such issues, regardless of what is causing them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Run the App Troubleshooter
 
  The first course of action, after facing any kind of app-related issue on Windows should be running the built-in app troubleshooter. This utility is present in the Troubleshoot section of the Settings app and can detect and resolve issues like app crashes and compatibility problems.
@@ -39,26 +46,6 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
  To run it, launch the Settings app and head over to**System** \>**Troubleshoot** \>**Other troubleshooters** . Look for the Store apps troubleshooter and click on the**Run** button for it.
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Once the scan has started running, wait patiently for the utility to look for potential errors in the system and generate a report based on those. If any issues are found, the troubleshooter will notify you and in most cases, will also suggest relevant fixes you can try.
 
@@ -70,20 +57,6 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  You can install the latest available updates using the Microsoft Store if the program is available on the platform. Otherwise, you can also head over to the official website of the app and install the latest version from there. Several third-party apps also have a built-in update option within the interface that you can use.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 3\. Reset App Cache
 
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
@@ -93,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
  Fortunately, this is easy to fix. You can reset the app cache to resolve issues like crashes, slow performance, and other minor glitches. Doing so won’t harm any important data, but you are likely to lose any login information or custom settings that you may have configured in the app.
 
  To reset app cache,[launch the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) . Type wsreset.exe in the CMD window and hit Enter. Wait for the process to complete and once it is done, check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update Drivers
 
@@ -110,20 +90,6 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  You can then take necessary steps to remove the problematic program to avoid any issues in the future.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 6\. Repair or Reset the App
 
  Windows offers a repair and reset feature for the apps as well. If an app is malfunctioning, you can first attempt to repair it. Windows will scan the app’s files and settings during the repair process and fix any issues that are identified, automatically.
@@ -136,33 +102,12 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
 ![Reset Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-or-repair-settings-app-edit.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 7\. Reinstall the App
 
@@ -170,32 +115,22 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  However, since this action will delete all data associated with the app, make sure you create a backup of the important data. Once that is done, you can[use the Control Panel to uninstall the app](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and then reinstall a fresh version using the Microsoft Store or your browser.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Get Your Windows Apps Back on Track
 
  App issues can be a major source of headaches, especially when they occur during an important task. The troubleshooting methods listed above should help you fix most of such issues in no time. To avoid them in the future, make sure you keep your apps, system, and drivers up-to-date at all times.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -204,4 +139,23 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dish-to-screen-your-recipe-video-blueprint/"><u>[Updated] 2024 Approved Dish to Screen Your Recipe Video Blueprint</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-strategic-brand-integrations-within-youtube-realms/"><u>[Updated] 2024 Approved Strategic Brand Integrations Within YouTube Realms</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-charting-the-course-for-your-niche-in-the-youtube-world/"><u>2024 Approved Charting the Course for Your Niche in the YouTube World</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-flawless-transcription-mastery-with-googles-ai/"><u>2024 Approved Flawless Transcription Mastery with Google's AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-erroneous-0xa00f429f-code-in-camera-app/"><u>Fixing the Erroneous 0xA00F429F Code in Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recover-lost-search-output-in-win-1011-os/"><u>How to Recover Lost Search Output in Win 10/11 OS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-x100-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo X100 FRP Without Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovate-with-ease-the-insiders-guide-to-windows-11-widgets/"><u>Innovate with Ease: The Insider's Guide to Window's 11 Widgets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ify-collaboration-share-and-connect-through-playlists/"><u>Simplify Collaboration Share & Connect Through Playlists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skirting-through-wow-updates-that-freeze/"><u>Skirting Through WoW Updates That Freeze</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-mystery-code-0x0000003b-bsod-explained/"><u>Solving Windows' Mystery -Code 0X0000003B BSOD Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steams-content-server-inaccessibility-in-windows/"><u>Troubleshooting Steam's Content Server Inaccessibility in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-limits-navigating-personal-identity-in-a-controlled-environment/"><u>Understanding Limits: Navigating Personal Identity in a Controlled Environment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-to-smooth-imports-in-windows-10-os-for-2024/"><u>Unlocking the Secrets to Smooth Imports in Windows 10 OS for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo S17? | Dr.fone</u></a></li>
+</ul></div>
 

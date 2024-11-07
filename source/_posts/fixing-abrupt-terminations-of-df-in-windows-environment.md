@@ -1,7 +1,7 @@
 ---
 title: Fixing Abrupt Terminations of DF in Windows Environment
-date: 2024-10-25T18:16:35.494Z
-updated: 2024-11-01T18:29:10.242Z
+date: 2024-11-02T04:53:52.260Z
+updated: 2024-11-07T12:26:57.453Z
 tags:
   - windows10
   - windows11
@@ -43,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
  The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A common cause of crashes for the new Dwarf Fortress release is related to whether or not your dedicated graphics card is being used.
 
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 ![screenshot dwarf fortress properties disabling fullscreen optimizations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_properties_disable_fullscreen_optimizations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There's a common Windows function that can cause problems for Dwarf Fortress. To disable full-screen optimization, follow these steps:
@@ -80,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
  Now give it a go. This option doesn't actually affect the visuals or gameplay in any way, so this option is safe to turn on as a "just in case" measure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Set the Resolution to Non-Widescreen
@@ -95,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
  To do this, navigate to the video settings of Dwarf Fortress by clicking**Settings** in the main menu.
 
  The first screen that opens is the video settings screen. Simply change the**Resolution** drop-down to something below 1920x1080.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Delete Save Data
 
@@ -120,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 5. Delete all the files except for**world.sav** .
 
  By doing this, you'll be repopulating your world, history, and timeline. However, your structures and units will remain. While this isn't a desirable option, there are a handful of crashes that can only be fixed in this way.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## New Game Version, New Game Crashes
 
@@ -144,15 +150,17 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unlocking-creative-potential-a-compreeved-guide-to-appending-text-in-photos-on-pc-and-mac/"><u>[New] In 2024, Unlocking Creative Potential A Compreeved Guide to Appending Text in Photos on PC & Mac</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-world-of-virtual-backgrounds-for-online-media-professionals/"><u>[Updated] Navigating the World of Virtual Backgrounds for Online Media Professionals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battling-endless-restarts-heres-a-fix-for-constant-crashes-in-god-of-war-on-windowsmac/"><u>Battling Endless Restarts? Here's a Fix for Constant Crashes in God of War on Windows/Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-strategies-for-leveraging-desktop-utilities-and-applications-in-media-file-handling/"><u>Comprehensive Strategies for Leveraging Desktop Utilities and Applications in Media File Handling</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craft-perfect-openings-anywhere-and-anytime-for-2024/"><u>Craft Perfect Openings, Anywhere and Anytime for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-5-proven-ways-to-improve-windows-11-search-success/"><u>Discover 5 Proven Ways to Improve Windows 11 Search Success</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-logitech-device-for-gamers/"><u>Premier Logitech Device for Gamers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-file-format-adaptability-with-windows-expertise/"><u>Securing File Format Adaptability with Windows Expertise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-mitigate-temp-file-extraction-problem-in-windows/"><u>Strategies to Mitigate 'Temp File Extraction Problem' In Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-happens-when-a-windows-discord-update-fails-fixing-it/"><u>What Happens When a Windows Discord Update Fails? Fixing It</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-bridging-the-gap-between-human-perception-and-photographic-capture/"><u>[New] 2024 Approved Bridging the Gap Between Human Perception and Photographic Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-5-best-snipping-tools-for-mac/"><u>[New] In 2024, 5 Best Snipping Tools for Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-video-lessons-to-vivid-engaging-gifs-no-download-needed/"><u>[Updated] From Video Lessons to Vivid, Engaging GIFs – No Download Needed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-showcasing-brilliance-iconic-anime-intros/"><u>[Updated] In 2024, Showcasing Brilliance Iconic Anime Intros</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-revolutionize-your-social-media-game-personalizing-twitter-video-images/"><u>[Updated] Revolutionize Your Social Media Game Personalizing Twitter Video Images</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-next-gen-streaming-prosperity-for-gamers/"><u>2024 Approved Next-Gen Streaming Prosperity for Gamers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/byte-sized-hits-the-heart-of-viral-content-for-2024/"><u>Byte-Sized Hits The Heart of Viral Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-web-experience-install-windows-compatible-sites/"><u>Elevate Web Experience: Install Windows-Compatible Sites</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-reminders-winning-notepad-alternatives-for-pc/"><u>The Art of Reminders: Winning Notepad Alternatives for PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unwrapping-the-invalid-problem-solutions-for-win11-users/"><u>Unwrapping the 'Invalid' Problem: Solutions for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-gaming-experience-the-windows-11-driver-update-journey/"><u>Upgrade Your Gaming Experience: The Windows 11 Driver Update Journey</u></a></li>
 </ul></div>
 

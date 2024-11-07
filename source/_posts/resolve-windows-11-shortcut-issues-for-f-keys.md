@@ -1,7 +1,7 @@
 ---
 title: "Resolve: Windows 11 Shortcut Issues for F Keys"
-date: 2024-09-11T01:20:46.643Z
-updated: 2024-09-12T01:20:46.643Z
+date: 2024-10-31T03:49:56.266Z
+updated: 2024-11-07T02:41:19.619Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Make Sure the Fn Keys Are Not Locked
 
  Most of the time, the Fn keys stopped working because someone accidentally pressed the **Fn lock** key. The **Fn lock** key also impacts other toggle keys such as **Caps Lock** or **Num Lock** so it’s easy to find out if the Fn keys are locked.
@@ -42,19 +28,12 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
  Then, try to use one of the Function keys.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Check Your Keyboard for Dirt and Grime
 
@@ -76,25 +55,12 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Run the Keyboard Troubleshooter
 
@@ -106,20 +72,6 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 4. From **Find and fix other problems**, click **Keyboard > Run the troubleshooter**.
 
 ![Keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Turn Off Filter Keys
 
@@ -140,27 +92,27 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
 ![Device manager menu in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-driver-1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
  If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check the Human Interface Device Service
 
@@ -169,20 +121,6 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
  In the Start menu search bar, search for **services** and select **Run as administrator**. Then, double-click on the **Human Interface Device** service. Set **Startup type** to **Manual** and click **Apply > OK** to save the new system changes.
 
 ![Restart the Human Interface Device service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/services-fn-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Then, restart your computer and check if the problem is now fixed.
 
@@ -194,11 +132,31 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-hitch-youtube-sounds-into-imovie-tracks-swiftly/"><u>[New] In 2024, Hitch YouTube Sounds Into iMovie Tracks Swiftly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-learn-to-get-c-span-footage-at-no-charge/"><u>[New] Learn to Get C-Span Footage at No Charge</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/5zplus65pys5oyh5y2x77ya5aac5l2v6yen5bu66leo5yy656ob55uy5pww5o2u/"><u>基本指南：如何重建跨区磁盘数据</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-microsoft-store-with-no-barriers-on-win11/"><u>Enabling Microsoft Store with No Barriers on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-typing-experience-the-win-enter-key-fix/"><u>Enhancing Typing Experience: The Win Enter Key Fix</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-beginners-guide-top-10-youtube-editing-tricks/"><u>In 2024, Beginner's Guide Top 10 YouTube Editing Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-7-strategies-for-delicious-food-vids/"><u>In 2024, Top 7 Strategies for Delicious Food Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-parental-control-setup-in-windows-11-system/"><u>Master Parental Control Setup in Windows 11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-memory-overuse-in-windows-via-edges-webview2/"><u>Minimizing Memory Overuse in Windows via Edge's WebView2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-your-way-through-windows-hellos-fingerprint-frustration/"><u>Resetting Your Way Through Windows Hello's Fingerprint Frustration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-disk-read-failure-in-windows-os/"><u>Resolving 'Disk Read Failure' In Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-maintaining-vscode-on-windows-11/"><u>Strategies for Maintaining VSCode on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-conversion-software-roundup-for-win-users/"><u>Top Conversion Software Roundup for Win Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transformative-notetaking-the-mematic-way-for-2024/"><u>Transformative Notetaking The Mematic Way for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tutorial-facile-e-veloce-sulle-tecniche-top-di-acquisizione-screen-del-tuo-mac/"><u>Tutorial Facile E Veloce Sulle Tecniche Top Di Acquisizione Screen Del Tuo Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-network-diagnostics-how-to-execute-the-tracert-tool-in-windows/"><u>Unlocking Network Diagnostics: How to Execute the Tracert Tool in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-corporate-concerns-the-top-5-causes-for-banning-chatgpt-in-the-workplace/"><u>Unveiling Corporate Concerns: The Top 5 Causes for Banning ChatGPT in the Workplace</u></a></li>
+</ul></div>
+

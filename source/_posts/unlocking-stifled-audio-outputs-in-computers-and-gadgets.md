@@ -1,7 +1,7 @@
 ---
 title: Unlocking Stifled Audio Outputs in Computers & Gadgets
-date: 2024-10-30T17:11:01.829Z
-updated: 2024-11-01T17:20:26.460Z
+date: 2024-11-06T04:09:45.800Z
+updated: 2024-11-07T00:54:25.285Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/computer-sound-card-e1622129361351.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whether you're using wired headphones or a set of speakers with your PC, they will be connected to the computer with a traditional 3.5mm jack. This should be connected to the audio out socket.
 
  Correctly plugging the jack into the correct port is vital for getting some noise out of your computer. On older systems, a microphone port can be found beside the speaker/headphone socket. As such, it's worth taking the time to make sure your speaker isn't acting like a giant microphone!
@@ -59,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
  If the card is correctly attached to the motherboard, and its power LED appears when the PC is powered up, everything should be fine. However, if you have been using the front audio jack on your PC case, check this is internally attached to the sound card. If you want to dive deep to look into jack issues, then make sure to check[how to fix an unresponsive audio jack on Windows](https://www.makeuseof.com/windows-fix-unresponsive-audio-jack/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Still No Sound From Your Speakers? Check the Power
@@ -83,6 +76,19 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 Audio should now play on your HDMI TV.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Check Your Windows Audio Device Drivers
 
  Made all the checks to your hardware and cabling, and still getting no sound from your computer speakers? Then it's time to try a software solution. Remember the last time you did a driver update? If not, now might be the right time.
@@ -99,19 +105,6 @@ Audio should now play on your HDMI TV.
 
 ![uninstall audio drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/uninstall-audio-drivers.png)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
 ## 6\. Could Your Bluetooth Headset Be the Problem?
@@ -121,6 +114,13 @@ Audio should now play on your HDMI TV.
  For example, I use Bluetooth headphones with my laptop. When I'm not using them, I don't always remember to swap the playback device. The result is that audio is streamed to the headset, not my computer's speakers.
 
  So, if you use a Bluetooth headset, remember to switch off or disconnect the device from your computer when not in use. Also, take a moment to click the speaker icon in the system tray and choose a different audio output.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check Your Monitor's Speakers
 
@@ -137,10 +137,10 @@ Audio should now play on your HDMI TV.
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
@@ -154,15 +154,22 @@ Audio should now play on your HDMI TV.
 
 ![sfc command execution to fix speakers that are not working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/run-sfc-command.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The SFC will scan the system and fix any errors that it finds. If there really was a corruption issue with system files, it'll be resolved by the end of this scan.
 
  If you're interested in keeping Windows working smoothly, check out how to repair corrupt Windows files with built-in tools.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Disable Audio Enhancements
@@ -177,13 +184,6 @@ Audio should now play on your HDMI TV.
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
  This will turn off all enhancements that could be the cause of your speakers not working.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Your Computer Speakers Just Aren't Working
 
@@ -212,19 +212,16 @@ Audio should now play on your HDMI TV.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-budgetclouds-vault-spaceful-large-data-sanctuary/"><u>[New] BudgetCloud's Vault Spaceful Large Data Sanctuary</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-viewers-to-earnings-youtube-earning-basics/"><u>[New] In 2024, From Viewers to Earnings YouTube Earning Basics</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-inexpensive-sky-explorers-the-least-expensive-drones/"><u>[New] In 2024, Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-tackling-the-challenge-of-video-not-broadcasting-via-fb-messenger/"><u>[New] In 2024, Tackling the Challenge of Video Not Broadcasting via FB Messenger</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726226684260-pgmpng-movavi/"><u>網路無限制地免費過渡PGM到PNG - 使用Movavi改變格式</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cambia-file-wav-a-formato-aiff-gratuitamente-online-con-convertitore-wav-aiff-di-movavi/"><u>Cambia File WAV a Formato AIFF Gratuitamente Online Con Convertitore WAV-AIFF Di Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargar-y-convertir-archivos-de-audio-ogg-a-mp4-sin-costo-con-la-herramienta-online-de-movavi/"><u>Descargar Y Convertir Archivos De Audio OGG a MP4 Sin Costo Con La Herramienta Online De Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-social-media-marketing-a-10-step-guide-to-success/"><u>Mastering Social Media Marketing A 10-Step Guide to Success</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/os-melhores-ferramentas-publicas-top-9-para-a-criacao-de-discos-oticos-em-computadores-desktopportatil/"><u>Os Melhores Ferramentas Públicas Top 9 Para a Criação De Discos Óticos Em Computadores Desktop/Portátil</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-file-webm-in-gif-gratuito-fast-e-versatile-conversion-tool/"><u>Trasforma File Webm in Gif Gratuito - Fast E Versatile Conversion Tool</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unearthing-the-best-storytelling-channels-yearly-roundup-for-2024/"><u>Unearthing the Best Storytelling Channels Yearly Roundup for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unseen-no-more-enable-access-to-seagate-external-drives-on-windows-10-systems/"><u>Unseen No More: Enable Access to Seagate External Drives on Windows 10 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pcx-jpg-movavi/"><u>온라인 PCX 이미지 교체를 위한 자세하고 JPG로의 가장 좋은 방법 - 무료 Movavi 프로그램</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-comprehensive-review-of-screen-recording-tools/"><u>[New] In 2024, Comprehensive Review of Screen Recording Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamlining-the-process-keeping-track-of-your-fb-communication/"><u>[New] Streamlining the Process Keeping Track of Your FB Communication</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-integrating-twitter-promotions-into-your-digital-strategy/"><u>[Updated] In 2024, Integrating Twitter Promotions Into Your Digital Strategy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-11-strategies-for-boosting-your-youtube-videos-seo/"><u>[Updated] In 2024, Top 11 Strategies for Boosting Your YouTube Videos' SEO</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audience-wow-factor-how-to-create-spectacular-live-streams/"><u>2024 Approved Audience Wow Factor How to Create Spectacular Live Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-past-rejuvenate-with-atlasos/"><u>Cutting-Edge Past: Rejuvenate with AtlasOS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-14-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-dysfunctional-windows-outlook-automation-rules/"><u>Reinstating Dysfunctional Windows Outlook Automation Rules</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-help-process-for-windows-snags/"><u>Streamline Help Process for Windows Snags!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-10-best-free-desktop-recorders/"><u>Top 10 Best Free Desktop Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-message-behind-windows-x-mark/"><u>Unveiling: The Hidden Message Behind Windows' X-Mark</u></a></li>
 </ul></div>
 

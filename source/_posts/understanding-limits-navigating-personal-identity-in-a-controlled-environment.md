@@ -1,7 +1,7 @@
 ---
 title: "Understanding Limits: Navigating Personal Identity in a Controlled Environment"
-date: 2024-10-29T18:21:36.921Z
-updated: 2024-11-01T18:02:55.379Z
+date: 2024-11-05T06:26:26.137Z
+updated: 2024-11-06T17:51:19.220Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
  In case you need to turn off the feature again, just follow the same steps and toggle the Camera and microphone option to Off. That’s all there is to it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable the Camera and Microphone Using Registry Editor
@@ -68,10 +74,10 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 6. Right-click on Hvsi, choose**New > DWORD (32-bit) Value** , then name it**EnableCameraMicrophoneRedirection** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Now double-click on the newly created DWORD key, and you will see a pop-up window appear.
@@ -80,10 +86,10 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 9. Then click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've done editing the registry, restart your computer to apply the changes. After restarting, Edge's Application Guard will be able to access your camera and microphone hardware for websites that require it.
@@ -91,10 +97,16 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
  If you want to revert the changes, simply set the EnableCameraMicrophoneRedirection key’s value back to**0** and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Your Camera and Mic Is Now Supported in Edge Application Guard
@@ -116,22 +128,17 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-quick-solutions-for-the-crashy-windows-11-photos-app/"><u>[Updated] Quick Solutions for the Crashy Windows 11 Photos App</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-video-quality-top-8-youtube-to-avi-converters/"><u>2024 Approved Maximize Video Quality Top 8 YouTube to AVI Converters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726226721576-cr2-jpeg-movavi/"><u>免費在網站上 CR2 變更成 JPEG - Movavi 編譯器</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wmaflv-movavi/"><u>全てのビデオ形式における無料オンラインWMAとFLVへの変換 - Movaviプロセスガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertissez-facilement-des-fichiers-f4v-en-wmv-sans-frais-avec-la-solution-de-conversion-gratuite-de-movavi/"><u>Convertissez Facilement Des Fichiers F4V en WMV Sans Frais Avec La Solution De Conversion Gratuite De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defying-expectations-wow-sets-new-standards-with-3d-acceleration/"><u>Defying Expectations: WoW Sets New Standards with 3D Acceleration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-free-converter-convert-m4a-to-webm-online-with-movavi/"><u>Download Free Converter: Convert M4A to WebM Online with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-audio-file-converter-m4a-to-aiff-by-movavi/"><u>Free Online Audio File Converter: M4A to AIFF by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-tool-convert-your-files-from-mp3-to-ogg-format-with-ease/"><u>Free Online Tool: Convert Your Files From MP3 to Ogg Format with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuitamente-converti-file-pgm-in-formato-bmp-online-con-movavi-guida-istantanea/"><u>Gratuitamente Converti File PGM in Formato BMP Online Con Movavi - Guida Istantanea</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-90-pro-lock-screen-password-by-drfone-android/"><u>How To Change Honor 90 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-mix-fold-3-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Mix Fold 3 Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-forcibly-update-login-credentials-for-windows-accounts-admin-only/"><u>How To Forcibly Update Login Credentials for Windows Accounts (Admin Only)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g24-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Moto G24 Bootloader Easily</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-high-performance-pc-hardware-tips-from-toms-digital-workshop/"><u>Navigating High-Performance PC Hardware: Tips From Tom's Digital Workshop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turning-the-on-screen-keyboard-on-and-off-on-windows-11-a-step-by-step-guide/"><u>Turning the On-Screen Keyboard On and Off on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-the-12-premier-screen-capture-applications-ideal-for-enhancing-your-google-meet-experience-by-movavi/"><u>Ultimate Guide: The 12 Premier Screen Capture Applications Ideal for Enhancing Your Google Meet Experience by Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-behind-the-glamour-10-honest-insights-into-reels/"><u>[New] Behind the Glamour 10 Honest Insights Into Reels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-dissecting-the-new-features-of-camstudio/"><u>[Updated] 2024 Approved Dissecting the New Features of CamStudio</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-pulse-pounding-perfection-create-compelling-tiktok-videos-with-templates/"><u>[Updated] Pulse-Pounding Perfection Create Compelling TikTok Videos with Templates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-5-best-live-streaming-webcamscameras-for-twitch-for-2024/"><u>[Updated] Top 5 Best Live Streaming Webcams/Cameras for Twitch for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/a-tale-of-technological-time-travel-life-lessons-from-using-a-10-year-old-smartphone/"><u>A Tale of Technological Time Travel: Life Lessons From Using a 10-Year Old Smartphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-your-digital-files-linking-dropbox-googledrive-to-c/"><u>Commanding Your Digital Files: Linking Dropbox, GoogleDrive to C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-windows-handle-sound-data-separation/"><u>How Does Windows Handle Sound Data Separation?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-github-desktop-seamlessly-on-windows-11-systems/"><u>Integrating GitHub Desktop Seamlessly on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-workspace-a-guide-to-switching-window-angle-by-90-degrees/"><u>Navigate Your Workspace: A Guide to Switching Window Angle by 90 Degrees</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-troubleshoot-and-stop-non-specific-audio-on-win-10/"><u>Steps to Troubleshoot and Stop 'Non-Specific Audio' On Win 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-16-free-video-splitting-software-online-and-offline-options/"><u>Top 16 Free Video Splitting Software - Online and Offline Options</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/wszystkie-niezbawione-przygotowania-podsuchnie-dyska-twardego-do-instalacji-w-windows-11-pokoj-bez-granic/"><u>Wszystkie Niezbawione Przygotowania Podsuchnie Dyska Twardego Do Instalacji W Windows 11 - Pokój Bez Granic</u></a></li>
 </ul></div>
 

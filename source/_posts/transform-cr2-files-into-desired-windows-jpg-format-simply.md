@@ -1,7 +1,7 @@
 ---
 title: Transform CR2 Files Into Desired Windows JPG Format Simply
-date: 2024-10-30T17:28:18.720Z
-updated: 2024-11-01T19:13:20.166Z
+date: 2024-11-05T18:39:31.274Z
+updated: 2024-11-07T04:35:39.064Z
 tags:
   - windows10
   - windows11
@@ -65,17 +65,18 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![The file format conversion options in Image Converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/file-format-selection.jpg)
 4. Press the **Click to Choose** button and select a folder in which to save the JPG file. Then click the **Select Folder** option.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click the checkbox for the file you’ve selected to convert.
 6. Press the **Convert All** **Images** button.  
 ![The Image Converter app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-image-converter-app.jpg)
 7. Wait for the conversion tool to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Then open the converted JPG image from the folder you selected to save it in.
 
 ## How to Convert CR2 Images to JPG With the FreeConvert Web App
@@ -88,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 3. Select a CR2 file and click **Open**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Then select the **JPG** option on the **Output** drop-down menu.
@@ -102,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 7. Then open the folder your browser usually downloads files in to find that converted JPG image.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Convert CR2 Images to JPG With IrfanView
@@ -118,22 +119,30 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![The IrfanView download options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/irfanview-download-options.jpg)
 4. Next, click the library folder icon on the taskbar to [bring up the Windows Explorer file manager](https://www.makeuseof.com/windows-open-file-explorer/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Go to the directory that the IrfanView files were downloaded to.
 
 1. Double-click on the **iview462\_x64\_setup.exe** file to open the IrfanView setup window.  
 ![The IrfanView 64-bit Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/irfanview-setup-window.jpg)
 2. Keep on clicking **Next** to install IrfanView with default settings.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select **Done** to exit IrfanView.
 4. To install the plugin, double-click the **iview462\_plugins\_x64\_setup.exe** file.
 5. Then click **Next** to install the plugin.  
 ![The Plugins setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-plugins-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now go ahead and open the IrfanView software. Having installed its plugin, you can now open CR2 images within the software without converting them. Click **File** \> **Open** to select a CR2 file. Then click **Open** again to view it within the image viewer.
 
@@ -146,13 +155,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![The Batch Conversion option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/batch-conversion-option.jpg)
 3. Click the **Look in** drop-down menu to select the folder that includes your CR2 image.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Look in option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/look-in-menu.jpg)
 4. Next, click on the **Files of type** drop-down menu and select the **CRW/CR2/CR3** option.
 5. Select your CR2 file and click **Add**.
@@ -163,20 +165,14 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![The Start Batch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-batch-option.jpg)
 9. Click **Exit** in the "Batch Conversion done" window.
 
- Go to the folder you selected to include the converted JPG file. There you’ll see its file size is smaller than the original CR2 image. You can erase the original CR2 photo by right-clicking its file and selecting **Delete**.
-
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Go to the folder you selected to include the converted JPG file. There you’ll see its file size is smaller than the original CR2 image. You can erase the original CR2 photo by right-clicking its file and selecting **Delete**.
 
 ## Convert Your CR2 Photos to JPG Images
 
@@ -186,27 +182,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
  Instead of trying to find software with which to open CR2 images, you can convert them to the JPG file format. JPG is a universal file format you can open with many image viewers and editors. This is how you can convert CR2 images to the JPG format on Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-conveying-cinematic-dreams-through-screenwriting-for-2024/"><u>[New] Conveying Cinematic Dreams Through Screenwriting for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-from-creator-to-consumer-securing-a-spot-on-apples-listings/"><u>[Updated] 2024 Approved From Creator to Consumer Securing a Spot on Apple’s Listings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-windows-memory-not-written-problem/"><u>Counteracting Windows' Memory Not Written Problem</u></a></li>
-<li><a href="https://win-webster.techidaily.com/ein-systematischer-leitfaden-zum-installieren-von-systemklon-auf-ssd-oder-hdd-mit-secure-boot-in-4-einfachen-schritten/"><u>Ein Systematischer Leitfaden Zum Installieren Von Systemklon Auf SSD Oder HDD Mit Secure Boot - In 4 Einfachen Schritten</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/enhance-tv-viewing-with-global-news-and-events-via-fb-live-roku-style-for-2024/"><u>Enhance TV Viewing with Global News & Events via FB Live, Roku Style for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-se-2020-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone SE (2020)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-fix-handling-and-repairing-504-gateway-delays-successfully/"><u>Master the Fix: Handling and Repairing 504 Gateway Delays Successfully</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-installation-removing-signatures-adding-unsigned-drivers/"><u>Mastering Windows Installation: Removing Signatures, Adding Unsigned Drivers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/non-athlete-front-rows-the-ultimate-alternative-list-for-2024/"><u>Non-Athlete Front Rows The Ultimate Alternative List for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-edge-for-less-cpu-overhead/"><u>Optimizing Edge for Less CPU Overhead</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-high-power-demand-of-dropbox-on-windows-pc/"><u>Overcoming High Power Demand of Dropbox on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-conflicts-of-in-use-resources-in-windows-1011-153-chars/"><u>Resolving Conflicts of In-Use Resources in Windows 10/11 (153 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-sudden-self-shutdown-windows-11-issues/"><u>Solving Sudden Self-Shutdown Windows 11 Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-playability-issues-in-windows-video/"><u>Troubleshooting Playability Issues in Windows VIDEO</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-with-these-10-windows-powertoy-features/"><u>Unleash Potential with These 10 Windows PowerToy Features</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/windows-8-10-7-dell/"><u>パーティションバックアップマニュアル：Windows 8, 10, 7 および Dell復旧に特化</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -214,3 +189,19 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-memetic-mayhem-the-20-most-shared-gems/"><u>[New] 2024 Approved Memetic Mayhem The 20 Most Shared Gems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-learn-to-produce-fb-video-ads-using-free-kit/"><u>[Updated] 2024 Approved Learn to Produce FB Video Ads Using Free Kit</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sive-list-best-online-video-to-mp3-tools/"><u>Exclusive List Best Online Video to Mp3 Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-an-enhanced-run-tool-to-windows-11-and-11/"><u>How to Add an Enhanced Run Tool to Windows 11 & 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-rotate-laptop-screen/"><u>How to Rotate Laptop Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y100i-power-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-windows-gaming-setup-with-playnite-and-emulators/"><u>Optimize Your Windows Gaming Setup with Playnite and Emulators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-out-of-windows-11-and-10s-s-constraints/"><u>The Pathway Out of Windows 11 and 10'S S Constraints</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-11-hack-for-flawless-rdc-connection/"><u>The Ultimate Windows 11 Hack for Flawless RDC Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-a-guide-to-instant-definition-lookup/"><u>Windows 11: A Guide to Instant Definition Lookup</u></a></li>
+</ul></div>
+

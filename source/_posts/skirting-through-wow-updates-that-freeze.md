@@ -1,7 +1,7 @@
 ---
 title: Skirting Through WoW Updates That Freeze
-date: 2024-10-27T19:03:55.791Z
-updated: 2024-11-01T17:34:10.322Z
+date: 2024-11-04T20:50:03.997Z
+updated: 2024-11-07T02:28:18.164Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 * Set up the Battle.net desktop client to run as an administrator. As a result, the client will gain elevated system rights, allowing it to access even restricted system files. If you aren't familiar with the process, check out our guide on[how to always run an app as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 * Ensure that your device meets the minimum gaming requirements. Also, check if your video card is on[Blizzard's list of supported video cards](https://eu.battle.net/support/en/article/31372) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Ensure It's Not a Visual Glitch
 
  The Battle.net desktop client can sometimes appear stuck on initializing due to a visual glitch. This means the update may still be downloading, but the client may show the update progress bar as stuck at initializing. Therefore, it's imperative to confirm that first:
@@ -52,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 3. Then, open the folder where the game was installed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check the overall size of the WoW folder after ten minutes and note down the size of the game files.
@@ -78,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 ![Deleting Battle.net Cache on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deleting-battle-net-cache-on-windows.jpg)
 5. Restart your device and try downloading the update again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rule Out Internet Issues
 
 ![The front of a Wi-Fi router, set against a blurred background](https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5ad0376d97a1f07070c0cf22e.jpg)
@@ -99,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  If the internet is not the cause of the problem, move on to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Put an End to Other Processes
 
  Have you got any resource-hogging programs running on your computer that might be eating your network resources or bogging down your bandwidth? If so, they may be causing the WoW update to hang when it attempts to initialize.
@@ -118,15 +111,22 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
 ![disable enable defender firewall smartscreen](https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0d4d3a83638bfcc50c7ba407.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft Defender and third-party antivirus programs are great at catching and removing threats. Sometimes, however, they deem even safe-to-execute processes as threats and block them. It's at that point when things start to get frustrating.
 
  To ensure the Battle.net connection isn't halted for the same reason, you should whitelist the client in Microsoft Defender. Have you never done that before? We have a guide on[how to whitelist apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Additionally, if you're running an antivirus program, turn it off.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy Playing World of Warcraft Again
@@ -148,17 +148,19 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-exclusive-tips-for-dominating-the-instagram-story-space/"><u>[Updated] 2024 Approved Exclusive Tips for Dominating the Instagram Story Space</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mov-wav-movavi/"><u>網路上無需付費 MOV到 WAV 自動更換 - MOVAVI 電影音頻轉換器</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversao-de-video-gratuita-on-line-de-m4v-para-mp4/"><u>Conversão De Vídeo Gratuita On-Line - De M4V Para MP4</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-6-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 6? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-boosting-brand-presence-with-innovative-snapads/"><u>In 2024, Boosting Brand Presence with Innovative SnapAds</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revamp-your-profession-top-5-strategies-for-a-significant-career-advancement-zdnet/"><u>Revamp Your Profession: Top 5 Strategies for a Significant Career Advancement | ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/score-big-with-these-8-no-cost-3d-videos-apps-for-windows-and-mac-os/"><u>Score Big with These 8 No-Cost 3D Videos Apps for Windows & Mac OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-easy-way-to-use-timer-functionality-in-ios-photography/"><u>The Easy Way to Use Timer Functionality in iOS Photography</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/transcend-recoverx-a-lechelle-des-systemes-windows-options-gratuites-et-evolutives/"><u>Transcend Récoverx À L'Échelle Des Systèmes Windows : Options Gratuites Et Évolutives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-videos-effortlessly-convert-flv-to-swf-using-moveaveys-web-tool-at-no-cost/"><u>Transform Your Videos Effortlessly: Convert FLV to SWF Using Moveavey's Web Tool at No Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-mov-in-wmv-online-gratuito-con-ease-movavi/"><u>Trasforma I Tuoi File MOV in WMV Online Gratuito Con Ease - Movavi</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-harmony-essential-soundtracks-for-popular-video-shorts-for-2024/"><u>Viral Harmony Essential Soundtracks For Popular Video Shorts for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unleash-call-record-potential-essential-free-and-paid-tactics-for-skype-on-computers/"><u>[New] Unleash Call Record Potential - Essential Free & Paid Tactics for Skype on Computers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail-for-2024/"><u>[Updated] Cutting-Edge Techniques for Private YT Content Dissemination in Gmail for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlock-quick-filming-techniques-your-5-best-home-hacks-list-for-2024/"><u>[Updated] Unlock Quick Filming Techniques – Your 5 Best Home Hacks List for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-correct-sequence-viewing-star-wars-films-on-disneyplus/"><u>Discover the Correct Sequence: Viewing 'Star Wars' Films on Disney+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flip-and-twist-images-with-these-6-w11-hacks/"><u>Flip and Twist Images with These 6 W11 Hacks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-switch-windows-11-to-auto-hdr-mode/"><u>How to Switch Windows 11 To Auto HDR Mode</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-innovation-how-final-cut-x-shapes-your-tall-screen-footage/"><u>In 2024, Instagram Innovation How Final Cut X Shapes Your Tall-Screen Footage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-access-methods-for-windows-control-panel/"><u>Quick Access Methods for Windows Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-printer-availability-on-windows-11/"><u>Strategies for Printer Availability on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-tech-usage-leveraging-windows-widgets/"><u>Streamlining Tech Usage: Leveraging Windows Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-hogwarts-games-ram-overflow-issue/"><u>Troubleshooting Hogwarts Game's RAM Overflow Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-please-wait-for-the-gpsvc-loop-in-windows-and-how-do-you-fix-it/"><u>What Is the “Please Wait for the GPSVC” Loop in Windows and How Do You Fix It?</u></a></li>
 </ul></div>
 

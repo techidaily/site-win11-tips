@@ -1,7 +1,7 @@
 ---
 title: Too Much Memory Used by Antivirus? How to Manage
-date: 2024-10-27T18:04:03.982Z
-updated: 2024-11-01T19:50:17.098Z
+date: 2024-11-05T04:27:20.209Z
+updated: 2024-11-06T20:10:11.779Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
  The service helps ensure your PC stays protected against any virus, worms, and other malware by continually scanning files and programs on your PC in the background. If the Antimalware Service Executable finds a malicious file or program, it will immediately delete or quarantine the affected files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Disable the Antimalware Service Executable?
 
  Considering how integral the Antimalware Service Executable is to protect your PC, you must be wondering why you should even consider disabling it.
@@ -39,22 +46,15 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
  Ideally, you should not turn off the Antimalware Service Executable process. But if you have a reliable third-party antivirus installed, and the Antimalware Service Executable is still consuming a large chunk of your RAM or CPU, then it might make sense to disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Disable the Antimalware Service Executable
 
  There are a few different ways you can disable the Antimalware Service Executable depending on the circumstances of your system’s performance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Disable Real-time Protection
@@ -67,14 +67,14 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 ![real time protection windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/real-time-protection.jpg)
 4. Disable the**Real-time protection** toggle button by bringing it to the**Off** position.
 
- Real-time protection will be turned back on automatically by Windows Security.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Real-time protection will be turned back on automatically by Windows Security.
 
 ### Method 2: Turn Off Antimalware Service Executable Through Windows Security in the Registry Editor
 
@@ -92,10 +92,10 @@ To disable Antimalware Service Executable from the Registry Editor:
 5. Press**OK** to save your changes and restart your system for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Rely on Windows Security for Windows 10 and 11?
@@ -117,19 +117,22 @@ To disable Antimalware Service Executable from the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-elite-race-games-collection-guide/"><u>[New] Elite Race Games Collection Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pioneering-screen-capture-methods-with-adobe-captivity-unveiled/"><u>[New] Pioneering Screen Capture Methods with Adobe Captivity Unveiled</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-cost-effective-filmmaking-5-top-free-video-tools/"><u>2024 Approved Cost-Effective Filmmaking 5 Top Free Video Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-elegoo-saturn-4-ultra-revolutionizing-resin-3d-printers/"><u>Comprehensive Evaluation of the Elegoo Saturn 4 Ultra - Revolutionizing Resin 3D Printers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-a14-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy A14 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-how-to-effortlessly-access-and-apply-instagrams-best-filters/"><u>In 2024, How to Effortlessly Access and Apply Instagram's Best Filters</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a23-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/increment-in-monthly-costs-for-popular-streaming-services-disneyplus-espnplus-and-hulus-new-pricing-plan/"><u>Increment in Monthly Costs for Popular Streaming Services: Disney+, ESPN+, and Hulu's New Pricing Plan</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-management-in-windows-11-without-rename-options/"><u>Mastering File Management in Windows 11 without Rename Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-weather-icons-styling-windows-11s-system-tray/"><u>Mastering Weather Icons: Styling Windows 11'S System Tray</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-steam-library-read-only-errors-on-pcs-with-win-11/"><u>Rectifying Steam Library Read-Only Errors on PCs with Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-voice-chat-via-xbox-mic-on-windows-11-screens/"><u>Securing Voice Chat via Xbox Mic on Windows 11 Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-purging-protection-history-in-modern-windows-oses/"><u>Strategies for Purging Protection History in Modern Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-disallowed-user-access-on-your-win-pc/"><u>Troubleshooting Disallowed User Access on Your Win PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-creations-the-7-most-innovative-nft-generators/"><u>[New] Elevate Your Creations - The 7 Most Innovative NFT Generators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-art-of-perfect-video-quality-in-zoom-sessions/"><u>[Updated] 2024 Approved The Art of Perfect Video Quality in Zoom Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-script-mishaps-a-comprehensive-fix-list-for-windows/"><u>Conquer Script Mishaps: A Comprehensive Fix List for Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/crafting-impressive-videos-with-the-best-methods-for-obs-studio/"><u>Crafting Impressive Videos with the Best Methods for OBS Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-techniques-generating-sfx-archives-on-win11/"><u>Cutting Edge Techniques: Generating SFX Archives on Win11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-8-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 8</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-z-fold-5-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy Z Fold 5 online without jailbreak</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-reno-9a-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo Reno 9A?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-tecno-pop-7-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Tecno Pop 7 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-audio-transformation-apps-for-next-level-vtuber-performance/"><u>In 2024, Top 10 Audio Transformation Apps for Next-Level VTuber Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-radeon-performance-windows-11-driver-guide/"><u>Maximizing Radeon Performance: Windows 11 Driver Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-repair-protocol-for-error-code-x800704cf/"><u>Microsoft Store Repair Protocol for Error Code X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-microsoft-outlook-problems-in-windows/"><u>Navigating the Maze of Microsoft Outlook Problems in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-stop-default-path-problems-in-windows/"><u>Quick Fix: Stop 'Default Path' Problems in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-optimize-ram-allocation-in-windows-operating-system/"><u>Tips to Optimize RAM Allocation in Windows Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-down-on-typos-reverse-silence-on-your-spacebar/"><u>Turning Down on Typos: Reverse Silence on Your Spacebar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/why-testimonial-videos-boost-brand-credibility/"><u>Why Testimonial Videos Boost Brand Credibility</u></a></li>
 </ul></div>
 

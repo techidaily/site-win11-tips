@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: Stop YouTube Lagging on Chrome"
-date: 2024-09-11T01:20:44.761Z
-updated: 2024-09-12T01:20:44.761Z
+date: 2024-11-06T02:59:19.679Z
+updated: 2024-11-07T09:52:12.866Z
 tags:
   - windows10
   - windows11
@@ -22,20 +22,6 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  In January 2024, reports circulated that YouTube was slowing down videos for adblock users. Google has denied this, and states that the problem lies with the adblocking extensions. If you use any adblockers, disable them on YouTube or install the latest updates to hopefully resolve performance issues.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Perform Some Preliminary Checks
 
  Before we delve into the more complicated tips, apply the following quick and easy fixes first:
@@ -47,20 +33,6 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 * Reset flags in Chrome. To do that, go to **Chrome://flags** and click on **Reset all**.  
 ![Click on Reset all to Reset the Chrome Flags in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-reset-all-to-reset-the-chrome-flags-in-chrome.jpg)
 * [Update your Windows graphics drivers](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to allow your PC to process graphics more efficiently.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  If the above fixes don't resolve the issue and the lag persists, it's time for some more complex ones.
 
@@ -77,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  Once your RAM is freed up, try playing YouTube videos again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Close Resource-Hogging Chrome Processes
 
  If freeing up your memory doesn't reduce the video lag, look for memory-hogging Chrome processes and temporarily close them. Using Chrome's Task Manager can help you do this.
@@ -88,36 +67,9 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 ![Open Task Manager in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-task-manager-in-chrome.jpg)
 3. Look at the processes with the most **memory footprint**, such as tabs, extensions, and other processes.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. End all processes you don't want to continue running or extensions straining your memory the most. To end any process, select it and click **End task**.
 
  Now try to play videos again and see if they lag.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Change the Chrome Performance Settings
 
@@ -132,21 +84,14 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 3. Turn the toggle next to **Energy Saver** off and the toggle next to **Memory Saver** on.  
 ![Turn on Memory Saver and Disable Energy Saver in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-memory-saver-and-disable-energy-saver-in-chrome-settings.jpg)
 
- See if this reduces Chrome's RAM footprint.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+ See if this reduces Chrome's RAM footprint.
 
 ## 5\. Reduce the Video Quality
 
@@ -159,41 +104,20 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 3. Click **Quality** and select a lower quality than the current one.  
 ![Reduce the Quality of YouTube Video in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-reduce-the-quality-of-youtube-video-in-chrome.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  The video won't look as good now, but it should play better.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6\. Check Your Internet Connection
 
  If freeing up memory resources and reducing the video quality also fails to reduce lag, the issue could be related to a lack of bandwidth. Either other devices connected to your internet connection are hogging the network resources, or your internet connection is unstable for a different reason.
 
  Therefore, disconnect other devices connected to the same network connection and [check the stability of your internet connection on Windows](https://www.makeuseof.com/check-stability-internet-connection-windows/). If things look rough, check out [how to fix your Wi-Fi problems on Windows](https://www.makeuseof.com/tag/fix-windows-10-wi-fi-problems/). Alternatively, if you're wired to your router, try [how to fix your Ethernet connection on Windows](https://www.makeuseof.com/windows-11-ethernet-not-working/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Enable Hardware Acceleration in Windows
 
@@ -209,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  Now anything that uses your GPU should run better. If you notice things working worse instead, deactivate the setting.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Enable Hardware Acceleration in Chrome
 
  When you've enabled hardware acceleration in Windows, you should do the same in Chrome. To enable hardware acceleration in Chrome, follow the steps below:
@@ -219,19 +150,12 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 4. Turn on the toggle next to **Use hardware acceleration when available**.  
 ![Enable Hardware Acceleration in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-enable-hardware-acceleration-in-chrome-settings.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 9\. Ensure Chrome Is Up-to-Date
 
@@ -246,19 +170,18 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
 ![Ensure the Chrome Browser is Up to Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-ensure-the-chrome-browser-is-up-to-date.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Binge Watch YouTube Videos Once Again
 
@@ -270,11 +193,31 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  In January 2024, reports circulated that YouTube was slowing down videos for adblock users. Google has denied this, and states that the problem lies with the adblocking extensions. If you use any adblockers, disable them on YouTube or install the latest updates to hopefully resolve performance issues.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-path-to-perfecting-adobe-capture-screen-recordings/"><u>[New] The Ultimate Path to Perfecting Adobe Capture Screen Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streaming-success-recording-roblox-on-apple-devices/"><u>[Updated] 2024 Approved Streaming Success Recording Roblox on Apple Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-obsudios-ultimate-guide-to-video-recording-with-obs-for-2024/"><u>[Updated] Obsudio's Ultimate Guide to Video Recording with OBS for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-steps-for-removing-webdiscover-from-your-computer-as-recommended-by-cyberprotectors/"><u>Effective Steps for Removing WebDiscover From Your Computer as Recommended by CyberProtectors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-the-funimate-guide-for-2024/"><u>From Novice to Pro - The Funimate Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-your-vision-the-premier-6-for-artists-nfts/"><u>In 2024, Unleash Your Vision The Premier 6 for Artists' NFTs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-lock-method-for-windows-1011-custom-pin-patterns/"><u>Innovative Lock Method for Windows 10/11: Custom PIN Patterns</u></a></li>
+<li><a href="https://win-news.techidaily.com/mastering-ringtone-transfers-sharing-soundscapes-between-ipads-and-iphones/"><u>Mastering Ringtone Transfers: Sharing Soundscapes Between iPads and iPhones</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-lower-thirds-like-a-pro-tips-and-tricks-for-fcpx-users/"><u>New In 2024, Lower Thirds Like a Pro Tips and Tricks for FCPX Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/organize-ideas-visually-embracing-obsidian-canvas/"><u>Organize Ideas Visually - Embracing Obsidian Canvas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x887a0006-in-win1011-graphics/"><u>Overcoming Error 0X887A0006 in Win10/11 Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedy-for-corrupted-filesdirectories-on-windows-x70/"><u>Quick Remedy for 'Corrupted' Files/Directories on Windows X70</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-data-retrieval-windows-based-qr-code-reading-guide/"><u>Revolutionizing Data Retrieval: Windows-Based QR Code Reading Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shadows-to-self-reflection-steps-for-using-windows-undisclosed-personal-analyst/"><u>Shadows to Self-Reflection: Steps for Using Windows' Undisclosed Personal Analyst</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-systems-launch-windows-and-access-notes-instantly/"><u>Speedy Systems: Launch Windows & Access Notes Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-art-of-screenshotting-uac-dialogues/"><u>Understanding the Art of Screenshotting UAC Dialogues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/visionary-voices-celebrating-innovative-female-creators-on-youtube-for-2024/"><u>Visionary Voices Celebrating Innovative Female Creators on YouTube for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Web Experience Unleashed: Creating Windows Programs From Sites"
-date: 2024-10-25T19:44:46.888Z
-updated: 2024-11-01T18:13:13.731Z
+date: 2024-11-03T12:32:47.374Z
+updated: 2024-11-06T16:45:52.464Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,6 @@ To install a website and app using Microsoft Edge:
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 5. To change the app icon, click the**Edit** button and select an icon from your local drive.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**Install** and wait for the app to be installed.
 
  Once installed, the app will auto-start with a few options to customize. The app will now run safely in its own window. You can launch it from the Start menu, Windows taskbar, or your desktop.
@@ -64,13 +57,26 @@ To install a website and app using Microsoft Edge:
 
 ![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also[remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Install Websites as App Using Google Chrome
@@ -85,13 +91,6 @@ To add a shortcut to a website as an app in Chrome:
 3. Next, go to**More Tools** and select**Create a shortcut** .  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 4. In the**Create a shortcut** pop-up, type a name for the app. Again, if you leave it default, Chrome will use the default web page name for the app.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Next, select the**Open as window** option.
 6. Finally, click**Create to create** the website shortcut as an app.
@@ -110,8 +109,29 @@ To change the app icon:
 3. Click the**Change icon** button at the bottom.  
 ![website-app-properties-shortcut-change-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut-change-icon.jpg)
 4. Click**Browse** and select a custom icon from your local drive. To use an existing icon from Windows's library, paste the following path in the**Change icon** dialog and click**Browse** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 C:\Windows\System32\imageres.dll
 5. The**Imageres.dll** file consists of the default icons pack for Windows. Select an icon from the library and click**OK** .
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Turn Websites Into Desktop Apps With WebCatalog
 
@@ -127,16 +147,10 @@ To install a website as an app using WebCatalog:
 3. To install an app, search for its existing library. If an app doesn't exist, you create a custom app.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the**Create custom app** option.  
@@ -144,10 +158,10 @@ To install a website as an app using WebCatalog:
 5. Enter a name for the app and then add the URL to the website.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Next, click**Select Local Image** and select an icon for the app.
@@ -161,13 +175,6 @@ To install a website as an app using WebCatalog:
  Conversely, WebCatalog takes more space than an Edge or Chrome app. Also, the free version lets you use ten apps with two sessions per app.
 
 **Download** :[WebCatalog](https://webcatalog.io/pricing/) (Free, Premium $5 per month)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Convert Websites to Windows Apps Using Web2Desk
 
@@ -210,18 +217,21 @@ To create a desktop app using Web2Desk:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-formulate-funny-imagery-with-adobe-for-2024/"><u>[Updated] Formulate Funny Imagery with Adobe for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-transcending-huge-video-sizes-iphone-mac-connection/"><u>[Updated] Mastering the Art of Transcending Huge Video Sizes IPhone-Mac Connection</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-quick-guide-embedding-dates-into-photographs-for-2024/"><u>[Updated] Quick Guide Embedding Dates Into Photographs for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/gifs-to-webm-movavi/"><u>全面無限制地自由移動 GIFs to WebM - 利用 Movavi 簡便轉換器</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-endurance-top-8-settings-tweaks-that-enhance-battery-performance-insights/"><u>Boost Your Apple Watch's Endurance: Top 8 Settings Tweaks That Enhance Battery Performance - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-remedying-frozen-asana-windows-instances/"><u>Diagnosing and Remedying Frozen Asana Windows Instances</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-bluetooth-devices-not-showing-in-device-manager-for-windows/"><u>How to Fix Bluetooth Devices Not Showing in Device Manager for Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-preferred-ms-store-programs-on-windows-devices/"><u>Restore Your Preferred MS Store Programs on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-non-responsive-ctrl-keys-on-modern-windows-11-pcs/"><u>Tackling Non-Responsive Ctrl Keys on Modern Windows 11 PCs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-arlo-doorbell-guide-comprehensive-review-of-dual-function-security-cameras-and-alarms/"><u>Ultimate Arlo Doorbell Guide: Comprehensive Review of Dual-Function Security Cameras and Alarms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/universal-accessibility-for-win11s-sticky-notes-feature/"><u>Universal Accessibility for Win11's Sticky Notes Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/visual-enhancement-for-desktops-inserting-this-pc-signpost/"><u>Visual Enhancement for Desktops: Inserting 'This PC' Signpost</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-navigate-the-past-reversing-media-on-iphones-for-2024/"><u>[Updated] Navigate the Past Reversing Media on iPhones for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/captureking-high-definition-edition/"><u>CaptureKing High Definition Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/creating-smooth-motion-flows-the-ken-burns-effect-walkthrough/"><u>Creating Smooth Motion Flows The Ken Burns Effect Walkthrough</u></a></li>
+<li><a href="https://win-top.techidaily.com/effortless-email-marketing-for-spring-sales-using-massmails-free-customizable-templates/"><u>Effortless Email Marketing for Spring Sales Using MassMail's Free Customizable Templates</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/essential-cybersecurity-strategies-for-e-commerce-protecting-yourself-while-shopping-online-powered-by-massmail-solutions/"><u>Essential Cybersecurity Strategies for E-Commerce: Protecting Yourself While Shopping Online, Powered by MassMail Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-your-device-usage-options-in-windows-11/"><u>How to Change Your Device Usage Options in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-unknown-device-alerts-on-win-oses/"><u>Remedying Unknown Device Alerts on Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-windows-default-video-chipset/"><u>Removing Windows' Default Video Chipset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repair-disabled-chill-functionality-on-computers/"><u>Repair Disabled Chill Functionality on Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolve-driver-issues-comprehensive-instructions-for-downloading-and-updating-intel-optane-software-for-your-pc/"><u>Resolve Driver Issues: Comprehensive Instructions for Downloading & Updating Intel Optane Software for Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silencing-windows-update-prompts/"><u>Silencing Windows Update Prompts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-app-management-in-windows-11/"><u>Simplifying App Management in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-steps-to-resurrect-your-windows-11-settings-search-functionality/"><u>Unveiling Steps to Resurrect Your Windows 11 Settings Search Functionality</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-avidemux-sound-not-working-try-these-troubleshooting-tips-for-2024/"><u>Updated Avidemux Sound Not Working? Try These Troubleshooting Tips for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-new-in-ios-18-explore-the-no-cost-update-featuring-advanced-capabilities-and-recent-news/"><u>What's New in iOS 18? Explore the No-Cost Update Featuring Advanced Capabilities & Recent News</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-expert-guide-update-grafikprozessor-treiber-auf-windows/"><u>WinxVideo AI Expert Guide - Update Grafikprozessor Treiber Auf Windows</u></a></li>
 </ul></div>
 

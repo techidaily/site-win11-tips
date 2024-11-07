@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Efficiency: Embrace Windows 11 Tiny"
-date: 2024-09-11T01:20:47.342Z
-updated: 2024-09-12T01:20:47.342Z
+date: 2024-11-02T01:06:07.985Z
+updated: 2024-11-07T14:22:40.316Z
 tags:
   - windows10
   - windows11
@@ -26,21 +26,14 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 
 ![Tiny11 OS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/tiny11-os.jpg)
 
-
-
-
+ NTDEV released its version of Windows 11 named Tiny11 in February 2023 which works like a normal Windows 11 installation. It is a freely available ISO image file that you can download and use on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
- NTDEV released its version of Windows 11 named Tiny11 in February 2023 which works like a normal Windows 11 installation. It is a freely available ISO image file that you can download and use on your computer.
 
 ## Can You Run It on Any Old PC?
 
@@ -48,43 +41,16 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 
  If you have an old desktop or laptop with 2-4 GB RAM and 32-64 GB storage, you can run Tiny 11 without any issues. Moreover, you don't need to worry about using a system with TPM 2.0 and Secure Boot because Tiny11 bypasses both these stern requirements before installation.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Set Up Tiny11
 
  If you're ready to go, here's how to get started with Tiny11:
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 1\. Downloading Tiny11 ISO File and Creating a Bootable USB Drive
 
@@ -95,26 +61,6 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
  However, the download speed is excruciatingly slow and if you use a torrent client, you can use the magnet URL and download the ISO file much faster. In addition, you can even use software hosting websites like FileHippo. After you download the Tiny11 ISO image file, you need to create a bootable USB drive to install the operating system on any computer.
 
  Rufus offers the most convenient method to[create a Windows 11 USB installation media](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) in a few minutes. After that, eject the device from your system and insert it into the target computer.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 2\. Installing Tiny11
 
@@ -128,30 +74,18 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 5. Select the drive for Windows 11 installation and click on the**Format** option to wipe the drive. Then click on the**Next** button.  
 ![Selecting Drive for Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/selecting-drive-for-tiny11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Windows installation will begin instantly. If the system has an HDD drive, the installation will take a while. Your computer will restart a few times during the installation process.
 2. Select your country or region and click on the**Yes** button. Then, pick your preferred keyboard layout and click on the**Yes** button. Click on the**Skip** button when the setup asks for selecting a second keyboard layout.
 3. Click on the**I don’t have internet** option. Then click on**Continue with limited setup** option.  
 ![Installing Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-windows-11.jpg)
 4. Type in your device name and enter a password for the same. Click on the**Next** button and re-enter your password.
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 5. After that, select any three security questions, type in their corresponding answers, and click on the**Next** button.
 6. On the Privacy settings for your device page,**uncheck** all the options and click on the**Next** button.
@@ -160,45 +94,18 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 
  The setup will prepare your device for the first boot. It will boot to the desktop after a while. Now, your lightweight Windows 11 system is ready for use.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Tiny11: The Good Points
 
  When the system booted to the desktop for the first time, it was difficult to notice any visual difference. But as soon as you press the Start button, you will notice the difference. The start menu is almost blank with only a few basic apps like Notepad, Microsoft Store, Calculator, File Explorer, Photos, and Settings.
 
 ![List of installed apps in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/list-of-installed-apps-in-tiny11.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Many pinned apps which are mostly bloatware, appear on the Start menu, and you can unpin them. You don’t need to sign in to the Microsoft account and can use[a local account on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) instead. OneDrive is also out of the picture. Even the persistent Edge browser is missing from the OS. But how will you browse the web? Thankfully, the Microsoft Store app is still there, and you can use it to download a web browser like[Chrome or Firefox](https://www.makeuseof.com/tag/chrome-vs-firefox-android-browser/) .
 
@@ -206,19 +113,12 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 
 ![Web browsing experience in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/web-browsing-experience-in-tiny11.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Some Glaring Concerns With Tiny11
 
@@ -236,8 +136,6 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +143,22 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-insiders-look-at-mac-preview-software/"><u>[New] 2024 Approved The Insider's Look at Mac Preview Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-trim-youtube-videos-for-2024/"><u>[New] How to Trim YouTube Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-pathway-to-boot-your-pc-with-intel-network-hardware/"><u>Easy Pathway to Boot Your PC with Intel Network Hardware</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-hd-imagery-comprehensive-guide-for-windows-enthusiasts/"><u>Elevate HD Imagery Comprehensive Guide for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-pc-info-retrieval-with-everythingapp/"><u>Fast PC Info Retrieval with EverythingApp</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidance-to-tackle-windows-loading-library-error-87paramerr/"><u>Guidance to Tackle Windows Loading Library Error 87:ParamErr</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-loaderror-87-on-windows-libraries-misalignment/"><u>Handling LoadError 87 on Windows Libraries Misalignment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-now-ready-on-windows/"><u>Hardware Now Ready on Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/immediate-access-to-top-notch-iphone-data-restoration-solutions-get-yours-today/"><u>Immediate Access to Top-Notch iPhone Data Restoration Solutions – Get Yours Today!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-srt-primer-for-enthusiasts/"><u>In 2024, The Ultimate SRT Primer for Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-jpeg-to-gif-discover-the-top-10-free-options-for-2024/"><u>Mastering JPEG-to-GIF Discover the Top 10 Free Options for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-your-steam-game-victories/"><u>Refreshing Your Steam Game Victories</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-synchronizing-sticky-notes-on-w11/"><u>Troubleshooting Non-Synchronizing Sticky Notes on W11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlimited-storage-insights-premium-recommendations-for-2024/"><u>Unlimited Storage Insights Premium Recommendations for 2024</u></a></li>
+</ul></div>
 

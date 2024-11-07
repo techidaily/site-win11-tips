@@ -1,7 +1,7 @@
 ---
 title: Personalized Keybinding Strategies for Predefined Text in Windows 11
-date: 2024-10-30T17:19:22.227Z
-updated: 2024-11-01T18:03:37.791Z
+date: 2024-10-31T09:40:21.491Z
+updated: 2024-11-07T03:01:08.399Z
 tags:
   - windows10
   - windows11
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
@@ -68,33 +61,34 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Macro** and the**Paste text** option.  
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
 8. Enter a title for the hotkey in the**Description** box.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
@@ -105,10 +99,23 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating Other Hotkeys With HotkeyP
@@ -140,20 +147,18 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-friendly-facebook-files-top-eight-free-extractors/"><u>[New] 2024 Approved Friendly Facebook Files - Top Eight Free Extractors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-mediasphere-app-user-experience-report/"><u>[New] MediaSphere App User Experience Report</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/2024windows-10-top-photo-viewer-recommendations/"><u>2024年度最搶手的Windows 10影像鑒別程式 - Top Photo Viewer Recommendations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/approach-recall-the-sensory-distribution-of-the-ulnar-nerve-in-the-hand/"><u>Approach: Recall the Sensory Distribution of the Ulnar Nerve in the Hand.</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/az-capture-in-depth-app-analysis-and-reviews/"><u>AZ Capture In-Depth App Analysis & Reviews</u></a></li>
-<li><a href="https://win-studio.techidaily.com/comment-installer-et-activer-la-copie-dombre-sur-windows-11-un-tutoriel-complet/"><u>Comment Installer Et Activer La Copie D'Ombre Sur Windows 11 : Un Tutoriel Complet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-pdf-editing-skills/"><u>In 2024, Ultimate PDF Editing Skills</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviflvmpeg/"><u>Movaviで気軽に行うFLVとMPEGファイル間の自由配布変換サービス</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp4-compression-techniques-how-to-minimize-file-size-without-compromising-quality/"><u>MP4 Compression Techniques: How to Minimize File Size Without Compromising Quality</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/peek-at-all-shared-images-and-videos-in-chats/"><u>Peek at All Shared Images & Videos in Chats</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/start-chatting-across-cultures-at-just-475-percent-more/"><u>Start Chatting Across Cultures at Just 4.75 Percent More!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-selecting-premium-webcam-recording-tools-for-microsofts-latest-os-windows-11/"><u>The Ultimate Guide to Selecting Premium Webcam Recording Tools for Microsoft's Latest OS, Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-facilmente-il-tuo-contenuto-multimediali-m4v-in-formato-compatibile-e-ottimizzato-mp4-gratis-movavi-converter-online/"><u>Trasforma Facilmente Il Tuo Contenuto Multimediali M4V in Formato Compatibile E Ottimizzato MP4, Gratis – Movavi Converter Online</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-12-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 12 Passcode without a Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/vesi-vastainen-2024-parasta-ilmaista-videoedittiota-ilman-sisallolaismme/"><u>Vesi-Vastainen 2024 - Parasta Ilmaista VideoEdittiota Ilman Sisälloläismme</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-techniques-for-screen-recording-games-on-win10-for-2024/"><u>[Updated] Ultimate Techniques for Screen Recording Games on Win10 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/extend-your-devices-lifespan-with-oppos-innovative-regenerating-phone-battery-technology/"><u>Extend Your Device's Lifespan with Oppo's Innovative, Regenerating Phone Battery Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-troubleshooting-non-functional-headphones-in-windows-10/"><u>Fixing the Issue: Troubleshooting Non-Functional Headphones in Windows 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-xs-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone XS Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-enable-end-task-option-in-windows-11-settings/"><u>Guide to Enable End Task Option in Windows 11 Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-play-40c-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor Play 40C Phones? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-free-and-paid-unveiling-the-top-10-essential-transcribing-tools-for-podcast-creators/"><u>In 2024, Free & Paid Unveiling the Top 10 Essential Transcribing Tools for Podcast Creators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-journey-through-filmora-editing-10-standout-functions/"><u>In 2024, Journey Through Filmora Editing 10 Standout Functions</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/preserve-windows-while-cleaning-your-hard-drive-learn-these-2-simple-techniques-for-data-security/"><u>Preserve Windows While Cleaning Your Hard Drive: Learn These 2 Simple Techniques for Data Security</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/seamless-replay-on-iphone-a-how-to-guide-for-2024/"><u>Seamless Replay on iPhone A How-To Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-defense-line-critical-steps-for-uac-security/"><u>The Defense Line: Critical Steps for UAC Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-runtime-broker-and-what-is-its-purpose-on-my-pc/"><u>What Is Runtime Broker and What Is Its Purpose on My PC?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-settings-how-to-prevent-discord-startup/"><u>Windows Settings: How To Prevent Discord Startup</u></a></li>
 </ul></div>
 

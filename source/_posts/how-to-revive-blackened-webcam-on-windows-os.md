@@ -1,7 +1,7 @@
 ---
 title: How to Revive Blackened Webcam on Windows OS
-date: 2024-09-11T01:20:46.844Z
-updated: 2024-09-12T01:20:46.844Z
+date: 2024-11-01T01:25:15.279Z
+updated: 2024-11-06T19:04:27.560Z
 tags:
   - windows10
   - windows11
@@ -45,20 +45,6 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
  So, if your webcam was working fine before but suddenly shows a black screen, [reboot your computer](http://www.makeuseof.com/windows-restart-methods/) and see if that works.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 4\. Update Webcam Drivers
 
  Another possible cause of a black screen on your Windows webcam is outdated or corrupted drivers.
@@ -75,19 +61,12 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
  If Windows can't find a new driver, go to your webcam manufacturer's website and download the latest one.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Roll Back Drivers
 
@@ -98,43 +77,30 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 ![Open Webcam Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-webcam-properties.jpg)
 3. In the Properties window, switch to the **Driver** tab.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Roll Back Camera Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-camera-driver.jpg)
 4. Here, you'll find the **Roll Back Driver** button. Click on it. If the button is grayed out, there's no driver version to roll back to.
 
- A new window will pop up asking why you want to roll back. Choose a reason that fits your situation, then click **Yes**. Windows will now restore the previous driver version. After doing this, restart your computer to apply the changes.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ A new window will pop up asking why you want to roll back. Choose a reason that fits your situation, then click **Yes**. Windows will now restore the previous driver version. After doing this, restart your computer to apply the changes.
 
-
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall Webcam Drivers
 
@@ -149,38 +115,11 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 ![Uninstall Camera driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/uninstall-camera-driver.jpg)
 5. After finishing the process, restart your computer.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. When your computer starts, open Device Manager again and click **Action** on the toolbar.  
 ![Scan for hardware changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scan-for-hardware-changes.jpg)
 7. Select **Scan for hardware changes**. This will prompt Windows to detect your webcam and install drivers automatically.
 
  Once that's done, test your webcam again. It shouldn't show a black screen anymore.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 7\. Check App Permissions
 
@@ -192,38 +131,32 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 2. In the Settings window, click **Privacy & security**.  
 ![Camera in Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-in-privacy-settings.jpg)
 3. On the right panel, scroll down to **App permissions** and select **Camera**. Here, you'll see a list of apps that access your webcam.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Check App Permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-app-permissions.jpg)
 4. Make sure the apps you use for video chatting or conferencing can access your camera. If not, toggle the switch to turn on camera access for these apps.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  After adjusting the permissions, restart your computer and check if the webcam black screen is resolved.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 8\. Scan for Malicious Programs
 
@@ -243,25 +176,6 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 4. In the Command Prompt window, enter the following command and press **Enter**:  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 `msdt.exe -id DeviceDiagnostic`
 
  Wait for the troubleshooter to complete its process. If you find any issues, follow the on-screen prompts to resolve them. After that, restart your computer and see if it works.
@@ -272,11 +186,26 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
  Start with the basic checks and then move on to more technical fixes if needed. Hopefully, one of these solutions worked and resolved the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-deciphering-youtube-conversations/"><u>[Updated] Deciphering YouTube Conversations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-the-clouds-and-crowds-stream-from-dji-to-facebook/"><u>2024 Approved Navigating the Clouds and Crowds Stream From DJI to Facebook</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/back-up-prodotto-top-recommendato-per-la-posta-elettronica-di-microsoft-per-windows-gratuitamente-installazione-facile/"><u>Back-Up Prodotto Top Recommendato per La Posta Elettronica Di Microsoft per Windows Gratuitamente – Installazione Facile!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-secrets-of-god-mode-in-windows-11/"><u>Discovering the Secrets of God Mode in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismantling-windows-11-security-features-with-rufus-mastery/"><u>Dismantling Windows 11 Security Features with Rufus Mastery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-no-more-crashes-in-tormented-souls-on-windows/"><u>Enhance Your Gaming: No More Crashes in Tormented Souls on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/masking-task-view-button-on-win-11-bar/"><u>Masking Task View Button on Win 11 Bar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-performance-stop-svchostexe-from-consuming-too-much-cpu-in-windows-10/"><u>Optimizing System Performance: Stop svchost.exe From Consuming Too Much CPU in Windows 10</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/streaming-audio-integration-with-videos-at-no-cost-top-six-techniques-for-2024/"><u>Streaming Audio Integration with Videos at No Cost Top Six Techniques for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performer-alert-laptop-rivals-macbook-features-yet-remains-a-non-apple-contender-tech-insights-by-zdnet/"><u>Top Performer Alert! Laptop Rivals MacBook Features, Yet Remains a Non-Apple Contender | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-server-stumbled-problem-on-windows-store/"><u>Troubleshooting the Server Stumbled Problem on Windows Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-mystery-of-your-missing-windows-patch-key/"><u>Uncover the Mystery of Your Missing Windows Patch Key</u></a></li>
+</ul></div>
+

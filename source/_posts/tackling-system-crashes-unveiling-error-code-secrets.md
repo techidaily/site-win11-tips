@@ -1,7 +1,7 @@
 ---
 title: "Tackling System Crashes: Unveiling Error Code Secrets"
-date: 2024-10-30T18:05:41.511Z
-updated: 2024-11-01T17:03:58.253Z
+date: 2024-11-03T02:59:50.537Z
+updated: 2024-11-07T09:09:12.180Z
 tags:
   - windows10
   - windows11
@@ -31,23 +31,9 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
  Using a simple command, you can search and learn more about the nature of the error code. Microsoft Error Lookup tool is only available for Windows OS versions 8.1 and above. So, if you are still using Windows 7, searching the web remains your only option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Download and Run Microsoft Error Lookup Tool
 
  Microsoft Error Lookup is a lightweight command-line tool. You don’t need a copious amount of system resources to run it on your system. Here’s how to download and set up the tool on your system:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Downloading and Renaming the Tool
 
@@ -71,10 +57,25 @@ Here’s how to do it:
 2. Go to the C drive and paste the tool. Grant permissions to place the tool in C drive.  
 ![Placing Microsoft Error Lookup Tool in C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placing-microsoft-error-lookup-tool-in-c-drive.jpg)
 3. Now, press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** in the text box and press enter key.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In the Command Prompt window, type the following command and press the enter key:**cd C:\\** .
 5. Now, you will be in the parent directory. Type**Err** and press enter.  
 ![Running Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/running-microsoft-error-lookup-tool.jpg)
 6. Microsoft Error Lookup Tool will run and display the format to look up error codes along with other available parameters. Don’t close the tool yet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Check Error Codes Using Microsoft Error Lookup Tool
 
@@ -88,10 +89,10 @@ Here’s how to do it:
  An error code can have multiple meanings and the error lookup tool will list all of them. You can use this information to narrow down your search and try to fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Export the Output of Microsoft Error Code Tool
@@ -106,29 +107,30 @@ Repeat the following steps:
 4. So, your final command will become:**Err 0x80070490 > D:\\error.txt** .  
 ![Exporting Error Code Lookup results in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-microsoft-error-lookup-tool.jpg)
 5. It will export the results to the text file named error on D drive. If the file doesn’t exist, the tool will create it with the same name. However, it won’t display any search result in the Command Prompt and just display the number of matches found.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Exporting Error Code Lookup results in a text file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-a-text-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, open the file, and you can read the entire list of error code results and begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can the Microsoft Error Lookup Tool Display Information About All Error Codes?
 
  Microsoft updates the tool to the latest version in 2019\. Since then, it hasn’t received an update. So, as newer builds or a[new version of Windows](https://www.makeuseof.com/windows-12-improve-upon-windows-11/) comes out, the tool may fail to produce results for a specific error code. But the chances of that are very slim. Moreover, it contains information only about Windows and some other Microsoft error codes. Don’t expect it to display information about errors you face inside a third-party application or program.
 
  So, you can use the error lookup tool without any worries and patiently wait for Microsoft to release a new build. You can check for the latest available build by visiting the official download page of the Microsoft Error Lookup Tool. Or, you can try a bunch of third-party options like Winerr or Error Lookup Tool for a more presentable error code lookup and troubleshooting experience.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Lookup Error Details With Ease
 
@@ -149,16 +151,20 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-dji-flight-pattern-review-phantom-3/"><u>[New] In 2024, DJI Flight Pattern Review - Phantom 3</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effortless-steps-to-blur-distractions-in-google-meets/"><u>[Updated] Effortless Steps to Blur Distractions in Google Meets</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-comprehensive-introduction-to-color-grading-and-luts-in-pscc/"><u>[Updated] In 2024, A Comprehensive Introduction to Color Grading and LUTs in PSCC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-film-enhancements-15-best-luts-to-boost-gopro-cinematography/"><u>[Updated] In 2024, Film Enhancements 15 Best LUTs to Boost GoPro Cinematography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cele-mai-eficiente-instrumente-pentru-crestere-a-volumului-video-online-si-offline/"><u>Cele Mai Eficiente Instrumente Pentru Creștere a Volumului Video Online Și Offline</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-rapide-de-fichiers-asf-vers-wmv-gratuite-sur-le-web-avec-movavi-suivez-les-etapes-faciles/"><u>Conversion Rapide De Fichiers ASF Vers WMV Gratuite Sur Le Web Avec Movavi – Suivez Les Étapes Faciles !</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/la-selection-finale-decouvrez-les-9-premiers-candidats-aux-meilleurs-logiciels-dedition-video-sur-chrome-os/"><u>La Sélection Finale: Découvrez Les 9 Premiers Candidats Aux Meilleurs Logiciels D'Edition Vidéo Sur Chrome OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-aiffjpegpng/"><u>Movavi - 今すぐ手軽に無料でAIFFファイルをJPEG/PNGへ自動変換</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/os-13-aplicativos-padrao-de-graca-para-conversao-perfeita-do-formato-mkv-para-mp4/"><u>Os 13 Aplicativos Padrão De Graça Para Conversão Perfeita Do Formato MKV Para MP4</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-guide-to-converting-mkv-files-to-avi-format-using-vlc-player-without-any-watermarks/"><u>Quick Guide to Converting MKV Files to AVI Format Using VLC Player without Any Watermarks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-steady-shot-enhancer-for-traveling-filmmakers/"><u>[Updated] Steady Shot Enhancer for Traveling Filmmakers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-pros-picks-top-10-mic-technology-for-podcasters-for-2024/"><u>[Updated] The Pros' Picks Top 10 Mic Technology for Podcasters for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-perfect-match-zebra-gk420d-printed-circuit-board-pcb-drivers-instantly/"><u>Download the Perfect Match: Zebra GK420D Printed Circuit Board (PCB) Drivers Instantly!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-rid-of-the-redundant-essential-app-removals-in-windows/"><u>Get Rid of the Redundant: Essential App Removals in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-integrating-ai-in-windows-via-vivetool/"><u>Guide to Integrating AI in Windows via ViveTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-and-remedying-winscombsvrdll-issues/"><u>Guide to Overcoming and Remedying WinscombSvr.dll Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rescue-corrupt-data-overcoming-windows-error-x70/"><u>How To Rescue Corrupt Data: Overcoming Windows Error X70</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-professional-insights-crafting-youtube-trailers-using-filmora/"><u>In 2024, Professional Insights Crafting YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-networks-secretive-windows-wireless-hiding/"><u>Keep Networks Secretive: Windows Wireless Hiding</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-dex-galaxy-windows-integration-made-simple/"><u>Navigating DeX: Galaxy-Windows Integration Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-pc-setup-with-these-3-efficient-steps-for-a-bootable-win-11-usb/"><u>Optimize Your PC Setup with These 3 Efficient Steps for a Bootable Win 11 USB</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-startup-problems-in-microsoft-configurations-on-your-windows-10-pc-step-by-step/"><u>Resolving Startup Problems in Microsoft Configurations on Your Windows 10 PC [Step-by-Step]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/stylish-selfies-with-iosandroid-the-leading-10-sticker-apps/"><u>Stylish Selfies with iOS/Android The Leading 10 Sticker Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-tecno-phantom-v-fold-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Tecno Phantom V Fold to iPhone 14/15 | Dr.fone</u></a></li>
 </ul></div>
 

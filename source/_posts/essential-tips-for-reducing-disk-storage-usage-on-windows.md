@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Reducing Disk Storage Usage on Windows
-date: 2024-09-11T01:20:48.984Z
-updated: 2024-09-12T01:20:48.984Z
+date: 2024-11-01T18:32:33.630Z
+updated: 2024-11-06T16:13:34.540Z
 tags:
   - windows10
   - windows11
@@ -19,20 +19,6 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
  Does your device run out of memory frequently? Do you often scratch your head, wondering what is taking up all that space on your drive but can't figure out what it is? It's nothing out of the ordinary; every Windows user faces the issue of insufficient disk space sooner or later.
 
  Thanks to Microsoft, finding the apps, documents, and files taking up most of your disk space on Windows and cleaning that space by removing extraneous clutter is now easier than ever. If that's your goal, read on to find out how to get there.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## First, Locate the Overpopulated Disk Drive
 
@@ -57,25 +43,25 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 5. Click on**Show more categories** to view other categories that occupy the most real estate.  
 ![Opening the Show More Categories Option in the Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-opening-the-show-more-categories-option-in-the-storage-tab-of-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Ideally, you should start clearing space from the category that consumes the most space on your hard drive. For instance, if apps and features occupy the bulk of your storage, you should free that up first.
 
 ## How to Free Up Your Windows Storage Drive
 
  Typically, three data types take up most of your drive space: apps and features, system and reserved files, and temporary files. Hence, reducing the burden of these data types can effectively free up your drive space. Let's see how you can accomplish that.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 1\. Manage Your Apps and Features
 
@@ -89,58 +75,31 @@ Follow these steps to remove extra apps and features:
 ![Sorting the Installed Apps by Size in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-sorting-the-installed-apps-by-size-in-windows-settings-app.jpg)
 6. Determine which apps are redundant and taking up the most disk space.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 7. Click the**three vertical dots** next to each app and click**Uninstall** .  
 ![Uninstalling the App by Clicking on Three Vertical Dots Next to it in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-uninstalling-the-app-by-clicking-on-three-vertical-dots-next-to-it-in-windows-settings.jpg)
 8. Repeat the above step for all apps you find hefty, and you should be able to free up quite a bit of space.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  If your operating system lives on the same overcrowded disk, the system and reserved files could be the next big space eater.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 2\. Manage System and Reserved Files Storage
 
@@ -153,20 +112,6 @@ Follow these steps to remove extra apps and features:
  Although you can disable the hibernation mode, you shouldn't do so if you frequently use this feature for keeping in-use apps open while the device is in hibernation. However, this feature takes up a lot of space in GBs, so if you aren't using it, you can free some room. Our guide on[if you should delete the Hiberfil.sys file on Windows](https://www.makeuseof.com/tag/delete-hiberfil-sys-windows-10/) will walk you through every step.
 
  Likewise, restore points consume a considerable amount of storage, but it is worth it since it allows you to restore your device to a previous point in time if something goes wrong. However, having multiple restore points would be a waste of space on the hard drive. Therefore, it is recommended to[delete any extra restore points on Windows](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) you created.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 3\. Manage Temporary Files Storage
 
@@ -189,14 +134,11 @@ Follow these steps to remove extra apps and features:
 
  If they are safe to delete, wipe them out. If not, move them to a different drive with more disk space left and relieve some of the pressure from an overfilled drive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -205,4 +147,18 @@ Follow these steps to remove extra apps and features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-embark-on-a-funimate-adventure/"><u>[New] 2024 Approved Embark on a Funimate Adventure</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-comprehensible-guide-to-earnings-as-a-youtube-channel/"><u>[New] In 2024, The Comprehensible Guide to Earnings as a YouTube Channel</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-sony-a6400-why-is-my-video-playback-failed/"><u>[Updated] Sony A6400 Why Is My Video Playback Failed?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-zero-30-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Zero 30 5G.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-building-a-community-through-periscope-streams/"><u>In 2024, Building a Community Through Periscope Streams</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-phantom-v-flip-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Phantom V Flip Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-system-performance-with-fewer-processes/"><u>Optimizing System Performance with Fewer Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-the-secrets-to-a-spotlighted-mouse-cursor/"><u>Revealing the Secrets to a Spotlighted Mouse Cursor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-winstore-failure-error-0x800704cf/"><u>Reversing WinStore Failure: Error 0X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-methods-to-address-steam-logins-delay-rust-and-windows-focus/"><u>Strategic Methods to Address Steam Logins Delay: Rust & Windows Focus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-reactivate-taskbar-icons/"><u>Tactics to Reactivate Taskbar Icons</u></a></li>
+</ul></div>
 

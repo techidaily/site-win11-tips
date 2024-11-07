@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Window's Appearance - Add Custom Photo Touches
-date: 2024-09-11T01:20:44.845Z
-updated: 2024-09-12T01:20:44.845Z
+date: 2024-11-03T10:46:59.846Z
+updated: 2024-11-06T21:46:28.712Z
 tags:
   - windows10
   - windows11
@@ -30,19 +30,12 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  Fortunately, you can easily customize Mail and Calendar on your Windows PC, so let's explore how.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Personalize Your Mail App with a Colorful Background or Favorite Picture
 
@@ -59,34 +52,6 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 5. The next 12 thumbnails are of background themes that come with the color of the left pane matched to the image. Select the one you like and you will see the theme appear on the right pane change along with its matching color on the left pane.  
 ![Background Theme Selected in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-background-theme-mail-app.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Set a Favorite Picture as Your Mail Background
 
  You can add easily add a favorite picture to the Mail app on your Windows PC. You could choose a heartwarming photo of a memorable family holiday, an exciting moment from a music concert you went to, or even a pic to reflect your signature style or passion. Let's see how.
@@ -97,63 +62,39 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 3. Click on**Open,** and the**Mail** app will open again with your picture on the right pane. The picture's thumbnail will be at the bottom of the**Background** section.  
 ![Chosen Picture On Right Pane in the Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/chosen-picture-on-right-pane-mail-app.jpg)
 4. Your favorite picture will appear on the right pane when no email is selected and you can choose to match the color of the left pane with this picture. So scroll up to the**Colors** sections in the**Personalization** flyout, where you can choose from one of the 10 colors for the left pane. You'll find the option to choose your Windows accent color too.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Left Pane Color Matching With Picture in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-left-pane-color-to-match-picture.jpg)  
  Remember, if you choose Dark Mode for the Mail or Calendar apps, the left pane will not show the selected color as its solid color background. Instead, it will use the color black.
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. You can also have a background theme or your favorite picture spread across the Mail app screen and also appear on the left pane instead of a color. In the**Background** section, turn on the toggle to**Fill entire window** with your background picture, as you can see in the screenshot below.  
 ![Picture Extending to Left Pane in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extend-picture-to-left-pane-mail-app.jpg)  
  Your chosen background picture will appear with a blurred effect on the left pane so that the text is legible on it. With the Dark Mode on, the picture will appear behind a dark blurred background on the left pane.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. To enjoy your favorite picture to the max, you can hide most of the left pane by clicking on the**three-lines icon** on the top left of the Mail app.  
 ![Enjoy a Bigger Picture on Your Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enjoy-bigger-picture-on-mail-app-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Now your chosen picture will appear bigger, in a wider area on the Mail app.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Add a New Background or Picture to the Calendar App
 
@@ -177,14 +118,11 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  Microsoft also offers the Outlook email client. So if you're wondering which one to choose between Mail and Outlook, do check out our comparison detailing their differences and advantages.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,4 +131,21 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-elevate-your-content-game-studio-aptitude-essentials/"><u>[New] In 2024, Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-infusing-fun-in-conversations-step-by-step-for-snapchat-gifs/"><u>[Updated] 2024 Approved Infusing Fun in Conversations Step-by-Step for Snapchat Gifs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enrich-your-video-narratives-with-background-melodies-on-fb-for-2024/"><u>[Updated] Enrich Your Video Narratives with Background Melodies on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fast-track-to-facebooks-latest-viewing-history-2e23-for-2024/"><u>[Updated] Fast Track to Facebook’s Latest Viewing History (2E23) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-principles-of-filming-inspirational-daily-living-documentaries/"><u>[Updated] Principles of Filming Inspirational Daily Living Documentaries</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-tints-shades-and-tones-practical-application-in-art/"><u>[Updated] Tints, Shades & Tones Practical Application in Art</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-ancient-code-to-modern-design-7-timeless-traits-in-windows-11/"><u>From Ancient Code to Modern Design: 7 Timeless Traits in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-approaches-to-disguise-taskview-on-bar/"><u>Innovative Approaches to Disguise TaskView on Bar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-files-with-these-gpt-interaction-apps/"><u>Master Your Files with These GPT Interaction Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-recovery-post-lifes-peak-for-windows-users/"><u>Mastering Recovery Post-Life's Peak: For Windows Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mp3-player-unboxing-agpteks-beginner-model/"><u>MP3 Player Unboxing: AGPTEK's Beginner Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-gaming-odyssey-of-yesteryear-using-dosbox-x/"><u>The Gaming Odyssey of Yesteryear: Using DOSBox-X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-troubled-games-decipher-vac-failed-steam-alert/"><u>Unlocking Troubled Games: Decipher VAC Failed Steam Alert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-codes-zeroing-out-the-0x800f0831-blight/"><u>WinError Codes: Zeroing Out the 0X800F0831 Blight</u></a></li>
+</ul></div>
 

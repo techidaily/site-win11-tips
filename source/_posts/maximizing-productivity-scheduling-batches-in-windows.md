@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Productivity: Scheduling Batches in Windows"
-date: 2024-10-27T18:34:17.256Z
-updated: 2024-11-01T18:19:16.082Z
+date: 2024-11-05T08:26:33.717Z
+updated: 2024-11-07T02:15:10.762Z
 tags:
   - windows10
   - windows11
@@ -31,18 +31,18 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
  It is an efficient way to ensure that you don't forget to run the batch file at specific times or when certain events happen. Not to mention that it also saves you time and effort, especially if you have a lot of batch files to run, allowing you to be more productive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scheduling a Batch File to Run Automatically on Windows
 
  To start the batch file automation process, you'll have to [open Task Scheduler](https://www.makeuseof.com/windows-11-open-task-scheduler/). To do that, click on **Search** in the Taskbar and enter **task scheduler** in the search box. In the results, click **Task Scheduler** to open the app.
 
 ![the Task Scheduler in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/task-scheduler-in-windows-search.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the right panel, under **Actions**, click on **Create Basic Task**.
 
@@ -56,9 +56,29 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![choosing a trigger in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-trigger-in-task-scheduler.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Each trigger has its own parameters that you need to set. For the **Daily** trigger, you have to pick the day and time it starts, as well as how many days the task will recur. Once you set those, click **Next**.
 
 ![setting the preferences for the daily trigger in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-the-preferences-for-the-daily-trigger-in-task-scheduler.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, you need to select an action, and for our batch file, will are going to select the **Start a program** radio button and click **Next**.
 
@@ -70,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
  Finally, click **Finish**. Now, Task Scheduler will run that batch depending on the trigger you set, which is **Daily** in our case
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Removing the Batch File From the Task Scheduler
 
  When you no longer wish to run the batch file, you can easily disable the task, which will just stop it until you enable it again, or remove it from Task Scheduler completely.
@@ -86,51 +99,21 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 ![a scheduled Task in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/a-scheduled-task-in-task-scheduler.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you clicked on **Delete**, confirm your action by clicking **Yes** in the popup. That means if you want to automate the batch file again, you'll have to do the scheduling process all over (as shown in the previous section).
 
  If you clicked on **Disable** instead, you can enable it again by selecting the task in Task Scheduler and clicking on **Enable** (where the **Delete** button used to be). This will resume running the batch file at the times you scheduled or after the event you told it to look out for.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Run Your Batch Files Automatically on Windows
 
  If you're getting tired of running the same batch files over and over or know you're prone to forgetting to run them, then you should consider automating them. You don't need special knowledge to do so either, as Windows makes it easy to do with the Task Scheduler. You can also stop the automation process at any time by disabling or deleting the task.
 
  In this guide, we're going to show you how to automate a batch file using Task Scheduler.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-secure-smooth-cinematography-the-best-stabilizer-brands-guide/"><u>[New] Secure Smooth Cinematography The Best Stabilizer Brands Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-perfecting-virtual-presentations-key-practices-for-using-skypes-screen-share-feature/"><u>[Updated] 2024 Approved Perfecting Virtual Presentations Key Practices for Using Skype’s Screen Share Feature</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-websites-for-acoustic-phone-alerts/"><u>2024 Approved Leading Websites for Acoustic Phone Alerts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-display-quality-with-windows-11s-auto-hdr/"><u>Elevating Display Quality with Windows 11'S Auto HDR</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/guidelines-pour-sauvegarder-vos-emails-utiliser-aomei-backupper/"><u>Guidelines Pour Sauvegarder Vos Emails : Utiliser AOMEI Backupper</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-honor-magic-6-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Honor Magic 6 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-content-strategy-unleashed-top-8-youtube-ranks-explored/"><u>In 2024, Content Strategy Unleashed - Top 8 YouTube Ranks Explored</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-screen-capture-showdown-obs-vs-shadow/"><u>In 2024, Screen Capture Showdown OBS vs Shadow</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-spark-20-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Spark 20 Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovate-your-workspace-learn-how-to-customize-windows-using-winbubble/"><u>Innovate Your Workspace: Learn How to Customize Windows Using WinBubble</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-new-windows-interface-add-folder-to-menu/"><u>Navigating the New Windows Interface - Add Folder to Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-invisible-second-display-in-w11/"><u>Resolving Invisible Second Display in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-utilizing-lav-filters-for-optimized-windows-performance/"><u>The Art of Utilizing LAV Filters for Optimized Windows Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-rejuvenate-stuck-hibernate-mode-on-pcs/"><u>Tips to Rejuvenate Stuck Hibernate Mode on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-context-menu-into-a-god-mode-hub/"><u>Transform Context Menu Into a God Mode Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-potential-of-windows-updates-with-these-solutions/"><u>Unlock the Potential of Windows Updates with These Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-ai-via-vivetool-instructions/"><u>Unlock Windows AI via ViveTool Instructions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/zombie-sketch-specialist-for-2024/"><u>Zombie Sketch Specialist for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -139,3 +122,22 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-capturing-adventures-in-high-definition-with-intova-x/"><u>[New] Capturing Adventures in High Definition With Intova X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-classroom-vids-essential-editing-strategies/"><u>[New] Classroom Vids Essential Editing Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-choreographing-narrative-news-wrappers/"><u>[Updated] In 2024, Choreographing Narrative News Wrappers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digital-dialysis-bringing-back-bygone-gaming-era/"><u>Digital Dialysis: Bringing Back Bygone Gaming Era</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-top-8-video-cuts-software/"><u>Essential Guide to Top 8 Video Cuts Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breaking-barriers-joining-games-via-xbox-zoom/"><u>In 2024, Breaking Barriers Joining Games via Xbox Zoom</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/maximize-your-photo-and-video-library-with-these-apps-for-2024/"><u>Maximize Your Photo and Video Library with These Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-method-to-stop-blanking-screens-in-windows-11/"><u>Quick Method to Stop Blanking Screens in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-a-fresh-look-for-terminal-window/"><u>Selecting a Fresh Look for Terminal Window</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-earth-pressure-balance-shield-tunnel-epb/"><u>The Earth Pressure Balance Shield Tunnel (EPB)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-endless-scroll-issues-in-excel-on-windows/"><u>Troubleshoot: Endless Scroll Issues in Excel on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-top-ranked-iphone-ipad-file-sync-software-effortlessly-move-photos-music-and-videos-between-devices-and-pc/"><u>Ultimate Guide: Top-Ranked iPhone iPad File Sync Software - Effortlessly Move Photos, Music & Videos Between Devices and PC</u></a></li>
+</ul></div>
+

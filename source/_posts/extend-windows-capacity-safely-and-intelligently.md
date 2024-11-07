@@ -1,7 +1,7 @@
 ---
 title: Extend Windows Capacity Safely & Intelligently
-date: 2024-09-11T01:20:51.000Z
-updated: 2024-09-12T01:20:51.000Z
+date: 2024-11-01T13:38:39.243Z
+updated: 2024-11-06T21:05:59.551Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 
  Here's how you can fix that issue and bring back the grayed-out "Extend Volume" option without erasing your precious data.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Why Is the Extend Volume Option Grayed Out?
 
  There are many reasons why the "Extend Volume" option in Disk Management is grayed out, but the common ones include:
@@ -49,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 
  However, if your partition uses a supported file system, let's discuss how you can bring back the option to extend volumes on Windows without erasing your data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Shrink a Volume to Create Unallocated Space
 
  If you don't have unallocated space on any of your drives to extend a volume, you can simply shrink one of the existing volumes to create it. This can also help if the unallocated space on one drive is not large enough for volume extension since it will shrink the other volumes to create more unallocated space.
@@ -57,79 +50,31 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 
 ![Opening the Computer Management Tool using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Computer-Management-Tool-using-the-Run-command-dialog-box.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  In the **Storage** section of the left panel, select **Disk Management**.
 
 ![the Disk Management section of Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-disk-management-section-of-computer-management-on-windows.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  In the right panel, right-click the volume you want to shrink and select **Shrink Volume**.
 
 ![selecting the option to shrink a volume in Disk Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/selecting-the-option-to-shrink-volume-in-disk-management-on-windows.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Enter the amount of space you want to shrink (keeping in mind that you cannot exceed the amount that is available to shrink) and then click on **Shrink**.
 
 ![the dialog box to shrink a volume on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/dialog-box-shrink-volume-on-windows.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  It will take a few seconds to shrink the volume, but when it's done, you should have some unallocated space. Now, check to see if the option is available when you right-click the volume you want to extend.
 
@@ -152,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
  From here, you can select the disk you want using the numbers in the **Disk ###** column.
 
 ![selecting a disk in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/selecting-a-disk-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So, if you want to select disk drive #1, you'd run the below command:
 
@@ -183,20 +135,6 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 
 ![choosing how much of the volume to resize in Magic Partition Resizer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choosing-how-much-of-the-volume-to-resize-in-magic-partition-resizer-on-windows.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  It should take a few seconds to resize the volume, and when it finishes, you should be able to see some unallocated space, allowing you to extend the volume you want to in the first place.
 
 ## Regain Your Ability to Extend Volumes on Windows
@@ -205,11 +143,33 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 
  Here's how you can fix that issue and bring back the grayed-out "Extend Volume" option without erasing your precious data.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-timecode-alignment-and-text-modification-in-srt-using-macos-for-2024/"><u>[Updated] Mastering Timecode Alignment & Text Modification in SRT Using macOS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-removing-inaudible-voices-from-obs-recording-for-2024/"><u>[Updated] Removing Inaudible Voices From OBS Recording for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-collection-for-collage-crafting/"><u>2024 Approved Comprehensive Collection for Collage Crafting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-dell-wd19-driver-step-by-step-guide/"><u>Download & Install Dell WD19 Driver: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-browsing-experience-installing-the-defender-guard-on-windows-11-edge/"><u>Elevate Your Browsing Experience: Installing the Defender Guard on Windows 11 Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-11-efficiency-fixing-slowdowns-instantly/"><u>Enhance Windows 11 Efficiency - Fixing Slowdowns Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-the-power-of-sound-windows-11-spatial-configuration-guide/"><u>Harnessing the Power of Sound: Windows 11 Spatial Configuration Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/726997-9780307798138-how-to-handle-trouble/"><u>How to Handle Trouble | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-14-pro-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi 14 Pro Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-note-visibility-in-win-1011/"><u>Maximizing Note Visibility in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/premier-windows-temperature-tracker-tips/"><u>Premier Windows Temperature Tracker Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refresh-your-desktop-a-step-by-step-on-adding-customizable-weather-icons-in-windows-11/"><u>Refresh Your Desktop: A Step-by-Step on Adding Customizable Weather Icons in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-league-of-legends-lag-speeding-up-downloads-seamlessly/"><u>Resolve Your League of Legends Lag: Speeding Up Downloads Seamlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-chrome-from-converting-images-into-webp-format-for-windows/"><u>Stop Chrome From Converting Images Into WebP Format for Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-sync-successful/"><u>Surface Sync Successful</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-correcting-avcodecdll-absence-and-detection-failures/"><u>The Ultimate Guide to Correcting Avcodec.dll Absence & Detection Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-display-driver-troubleshooting-in-win1011-environments/"><u>Unlocking Display Driver Troubleshooting in Win10/11 Environments</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-fitbit-charge-4-where-aesthetics-meet-athletic-tracking-excellence/"><u>Unveiling the Fitbit Charge 4: Where Aesthetics Meet Athletic Tracking Excellence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-slow-signal-boost-performance-with-these-8-remedies/"><u>Win11's Slow Signal? Boost Performance with These 8 Remedies</u></a></li>
+</ul></div>
+

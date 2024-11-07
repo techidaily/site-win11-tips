@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Efficiency in Accessibility: Insider Secrets for Using Narrator Shortcuts"
-date: 2024-09-11T01:20:48.325Z
-updated: 2024-09-12T01:20:48.325Z
+date: 2024-11-03T08:14:08.769Z
+updated: 2024-11-07T08:40:22.669Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  In this article, we've put together a complete list of legacy keyboard shortcuts that you can use to make your Narrator experience more seamless.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
 
  There are two popular keyboard layouts for Narrator: Legacy and Standard. The Legacy keyboard layout was traditionally used on computers before the widespread adoption of the Standard layout. It's still in use today and offers advantages at certain times.
@@ -45,43 +31,16 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 3. Select**Keyboard layout** from the drop-down menu.  
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## All the Narrator Legacy Keyboard Shortcuts
 
@@ -206,32 +165,22 @@ This way, you can switch between the Legacy and Standard layouts.
 | Ctrl + Narrator + Down arrow                | Navigate to first child (when structural navigation is provided)      |
 | Narrator + Q                                | Move to last item in containing area                                  |
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -240,4 +189,20 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-superior-webcam-gear-for-podcasters/"><u>[Updated] Superior Webcam Gear for Podcasters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-admin-controlled-errors-in-windows-11-configuration/"><u>Correcting Admin Controlled Errors in Windows 11 Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-directdraw-error-on-windows-10-and-11/"><u>How to Fix the DirectDraw Error on Windows 10 & 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 14</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-dusk-to-dawn-iphone-night-photography-essentials/"><u>In 2024, Dusk to Dawn IPhone Night Photography Essentials</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-glitches-comprehensive-solutions-to-stop-amongus-from-crashing/"><u>Overcome Glitches! Comprehensive Solutions to Stop 'Amongus' From Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvent-windows-application-performance-through-simple-internet-solutions/"><u>Reinvent Windows Application Performance Through Simple Internet Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-tech-timetable-avoiding-unscheduled-surprises-with-windows-11-settings/"><u>Tailoring Your Tech Timetable: Avoiding Unscheduled Surprises with Windows 11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-case-against-upgrading-from-windows-10-to-11/"><u>The Case Against Upgrading From Windows 10 to 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ironclad-guide-to-bio-and-profile-url-association-in-tiktok/"><u>The Ironclad Guide to Bio and Profile URL Association in TikTok</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-unresponsive-web-browsers/"><u>Troubleshooting Guide: Dealing with Unresponsive Web Browsers</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-winxdvd-setup-mastery-a-step-by-step-user-manual/"><u>Ultimate WinXDVD Setup Mastery: A Step-by-Step User Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-mystery-of-office-365-problem-30015-26-on-devices/"><u>Unveiling the Mystery of Office 365 Problem 30015-26 on Devices</u></a></li>
+</ul></div>
 

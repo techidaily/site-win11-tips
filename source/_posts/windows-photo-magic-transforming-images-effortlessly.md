@@ -1,7 +1,7 @@
 ---
 title: "Windows Photo Magic: Transforming Images Effortlessly"
-date: 2024-10-31T17:56:20.142Z
-updated: 2024-11-01T17:10:42.504Z
+date: 2024-11-04T11:30:17.950Z
+updated: 2024-11-07T02:24:52.381Z
 tags:
   - windows10
   - windows11
@@ -30,18 +30,18 @@ thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f7
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Windows Photos Generative Erase?
 
  The name is pretty self-explanatory in this case. Generative Erase is a tool built into the Windows Photos app that lets you select and remove objects from an image. The AI-powered feature does so without disrupting the background, using machine learning to gauge what the photo would be like without the object.
 
  You don't need expensive photo editing software or a high-end phone. The Photos app is available on all Windows 10 and 11 machines. You should see the Erase tool after [updating the Windows Photos app](https://www.makeuseof.com/tag/update-windows-software-guide/) to version 2024.11020.21001.0 or higher.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Generative Erase in Windows Photos
 
@@ -49,35 +49,35 @@ thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f7
 
 ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the **Edit** button in the top bar and select **Erase**. If you want to get granular with your edit, you can adjust the brush size and zoom in on the picture.
 
 ![Erase button in the Edit tool in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/erase-button-in-the-edit-tool.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **Auto Erase** toggle is enabled by default and erases objects as you go. To erase multiple objects, toggle off **Auto Erase**, use the brush to highlight everything you want to remove, and then tap **Erase**.
 
 ![Using the Erase tool on Windows Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/using-the-erase-tool-on-windows-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You have to be precise with the brush tool, but the option to adjust the size makes highlighting objects relatively easy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Generative Erase on Windows Photos Any Good?
@@ -101,21 +101,6 @@ Close
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-google-pixel-8-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Google Pixel 8</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/automating-your-outlook-emails-with-veloce-a-simple-guide/"><u>Automating Your Outlook Emails with Veloce: A Simple Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/brighten-your-video-with-android-tricks/"><u>Brighten Your Video with Android Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/controlling-biometrics-for-domain-admins-on-windows-11/"><u>Controlling Biometrics for Domain Admins on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-underperforming-machines-addressing-intel-hd-specs-issues/"><u>Correcting Underperforming Machines: Addressing Intel HD Specs Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-guide-to-resolving-sluggish-windows-11-update-issues/"><u>Expert Guide to Resolving Sluggish Windows 11 Update Issues</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expertly-choosing-the-best-screen-snipers-on-windows/"><u>Expertly Choosing The Best Screen Snipers on Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-reno-11-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo Reno 11 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefining-user-expectations-in-windows-11/"><u>Redefining User Expectations in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-creative-industries-with-chatgpt/"><u>Revolutionizing Creative Industries with ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-against-steam-login-time-outs-in-rust-on-pc/"><u>Winning Strategies Against Steam Login Time-Outs in Rust on PC</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,3 +108,25 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elevating-titles-in-after-effects-best-practices/"><u>[New] 2024 Approved Elevating Titles in After Effects Best Practices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-playbook-skyrocket-your-youtube-shorts-traffic-and-engagement/"><u>[New] The Ultimate Playbook Skyrocket Your YouTube Shorts Traffic and Engagement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-meme-world-for-iphone-enthusiasts/"><u>[Updated] 2024 Approved Meme World for iPhone Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comment-corriger-la-deformation-de-laspect-dans-le-tirage-dvd-vob-en-mp4-a-laide-dhandbrake/"><u>Comment Corriger La Déformation De L’Aspect Dans Le Tirage DVD VOB en MP4 À L'aide D'HandBrake?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failed-directx-updates-on-windows/"><u>Correcting Failed DirectX Updates on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-fixes-for-media-maker-tool-errors-x8007043c/"><u>Finding Fixes for Media Maker Tool Errors: X.8007043C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-onedrives-the-tag-present-in-the-reparse-point-buffer-is-invalid-error-on-windows/"><u>How to Fix OneDrive’s The Tag Present in the Reparse Point Buffer Is Invalid Error on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-turn-off-method-for-windows-11-alerts/"><u>Immediate Turn-Off Method for Windows 11 Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-3d-paint-keyboard-essentials/"><u>Mastering the Art of 3D Paint: Keyboard Essentials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-free-web-based-tool-transform-mef-images-into-jpeg-format-instantly/"><u>Movavi's Free Web-Based Tool: Transform MEF Images Into JPEG Format Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-for-stopping-repeat-teams-sign-ins/"><u>Quick Steps for Stopping Repeat Teams Sign-Ins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-engaging-your-flaccid-windows-start-icon/"><u>Re-Engaging Your Flaccid Window's Start Icon</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-recommended-web-hosts-of-2024-comprehensive-expert-analysis-and-rankings-techradar/"><u>Top Recommended Web Hosts of 2024: Comprehensive Expert Analysis & Rankings - TechRadar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-to-windows-11-enable-tpm-activate-secure-boot-pre-upgrade/"><u>Transitioning to Windows 11: Enable TPM, Activate Secure Boot Pre-Upgrade</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unihertz-atom-xl-reviewed-how-this-small-smartphone-packs-a-mighty-punch/"><u>Unihertz Atom XL Reviewed: How This Small Smartphone Packs a Mighty Punch</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-sudden-closures-insights-into-correcting-error-solved-code-1067-on-windows-systems/"><u>Winning the Battle Against Sudden Closures: Insights Into Correcting Error ([SOLVED]) Code 1067 on Windows Systems</u></a></li>
+</ul></div>
+

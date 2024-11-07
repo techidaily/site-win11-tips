@@ -1,7 +1,7 @@
 ---
 title: "Windows-to-Linux Transition: Building Linux Virtual Machines in Hyper-V"
-date: 2024-10-27T16:48:45.659Z
-updated: 2024-11-01T16:14:05.934Z
+date: 2024-11-05T06:01:44.716Z
+updated: 2024-11-06T17:14:39.680Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Enable Virtualization for Windows Virtual Machine in VMware
@@ -70,10 +70,10 @@ To enable Virtualization, do as follows:
 6. Click on the**OK** button to install the feature on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. **Restart** your system to apply changes when the installation completes.
@@ -101,10 +101,10 @@ To create an Ubuntu virtual machine, do as follows:
 9. Click on the**Next** button and review the virtual machine configuration. Then, click on the**Finish** button to create the virtual machine.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that the virtual machine is ready, it's time to get Ubuntu up and running:
@@ -119,19 +119,19 @@ To create an Ubuntu virtual machine, do as follows:
 ![Ubuntu Virtual Machine Running Using Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ubuntu-virtual-machine-running-using-hyper-v.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Few Things to Remember
@@ -161,21 +161,19 @@ To create an Ubuntu virtual machine, do as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ransforming-channels-via-youtube-music-upload/"><u>[New] Transforming Channels via Youtube Music Upload</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-art-of-sustaining-snapstreaks-for-hours-on-end/"><u>[Updated] 2024 Approved The Art of Sustaining Snapstreaks for Hours on End</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hasty-thumbnail-crafting-for-fortnite-gameplay-for-2024/"><u>[Updated] Hasty Thumbnail Crafting for Fortnite Gameplay for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pure-entertainment-kids-fun-games-roundup/"><u>[Updated] In 2024, Pure Entertainment Kids' Fun Games Roundup</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210762192-9781787830783-all-you-need-is-less/"><u>All You Need is Less | Free Book</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-itel-a60s-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Itel A60s Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-terminals-magic-five-playful-powers/"><u>Discover the Terminal's Magic: Five Playful Powers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-browsing-speeds-with-microsoft-edge-win10w11/"><u>Enhancing Browsing Speeds with Microsoft Edge, Win10/W11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/facing-challenges-with-your-apple-device-updates-use-our-9-top-tips/"><u>Facing Challenges with Your Apple Device Updates? Use Our 9 Top Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-recognize-and-implement-execution-monikers/"><u>How to Recognize and Implement Execution Monikers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-approaches-to-connecting-via-windows-11-rdc/"><u>Innovative Approaches to Connecting via Windows 11 RDC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-lowering-high-cpu-demand-in-windows-by-tiworkerexe/"><u>Methods for Lowering High CPU Demand in Windows by TiWorker.exe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-eliminate-spontaneous-key-press-responses/"><u>Methods to Eliminate Spontaneous Key Press Responses</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/say-goodbye-to-bloatware-with-these-44-superb-android-video-reducers/"><u>Say Goodbye to Bloatware with These 44 Superb Android Video Reducers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>Streamline Your Slide Show Enable Voice Input with PowerPoint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-error-code-fixing-unreachable-wifi-connections/"><u>Windows 11 Error Code - Fixing Unreachable WiFi Connections</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-accelerate-document-creation-learning-ms-words-speech-feature/"><u>[New] Accelerate Document Creation Learning MS Word's Speech Feature</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-professional-posting-hacks-for-instagram-tv-for-2024/"><u>[New] Professional Posting Hacks for Instagram TV for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-triple-check-for-profitability-guiding-principles-for-measuring-youtube-income/"><u>[Updated] In 2024, Triple Check for Profitability Guiding Principles for Measuring YouTube Income</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/a-guide-to-modifying-the-bottom-strip-color-in-flipbuilder-widget-plugin/"><u>A Guide To Modifying The Bottom Strip Color In FlipBuilder Widget Plugin</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-time-manipulation-5-windows-applications-at-your-fingertips/"><u>File Time Manipulation: 5 Windows Applications at Your Fingertips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-reno-11f-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo Reno 11F 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-infinix-smart-8-plus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Infinix Smart 8 Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-usb-drives-into-file-system-navigation/"><u>Integrating USB Drives Into File System Navigation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-timecode-alignment-and-text-modification-in-srt-using-macos/"><u>Mastering Timecode Alignment & Text Modification in SRT Using macOS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/stream-smart-a-detailed-comparison-of-chromecast-vs-roku/"><u>Stream Smart: A Detailed Comparison of Chromecast Vs. Roku</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-file-explorer-launch/"><u>Streamlining Your File Explorer Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tablet-tools-best-notes-companions-in-win/"><u>Top Tablet Tools: Best Notes' Companions in Win</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-full-picture-potential-on-instagram-the-ultimate-guide/"><u>Unlocking Full Picture Potential on Instagram: The Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-windows-companion-vivetool-method/"><u>Utilizing Windows Companion: ViveTool Method</u></a></li>
 </ul></div>
 

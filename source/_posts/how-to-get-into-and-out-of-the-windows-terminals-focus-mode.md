@@ -1,7 +1,7 @@
 ---
 title: How to Get Into and Out of the Windows Terminal’s Focus Mode
-date: 2024-09-11T01:20:46.544Z
-updated: 2024-09-12T01:20:46.544Z
+date: 2024-11-02T06:15:44.875Z
+updated: 2024-11-06T20:50:24.918Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 
  This guide will show you a few handy ways to get into and out of Focus Mode in Windows Terminal.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Use Windows Terminal Settings
 
  Entering Focus Mode in Windows Terminal is easy. all you need to do is make a few adjustments to the settings. Here's how:
@@ -44,36 +30,16 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 ![Use Windows Terminal Settings to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-windows-terminal-settings-to-enable-focus-mode.jpg)
 4. Go to**Launch mode** and click on the drop-down menu, then select**Focus** from the list.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 5. Next, click on the**Save** button to apply the changes.
 
  After saving your changes, the Windows Terminal will automatically enter Focus Mode and hide the tabs and title bar every time you launch it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Use the Run Command
 
@@ -83,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 2. In the Run dialog box, type**wt.exe /focus** , and hit Enter.
 
  This will open the Windows Terminal with Focus Mode enabled. To turn off Focus Mode, press**Ctrl + Shift + P** on your keyboard. Then search for**Toggle focus mode** and click on it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use the Command Palette
 
@@ -105,43 +78,17 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 ![Create a Shortcut Key to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-a-shortcut-key-to-enable-focus-mode.jpg)
 3. Next, scroll down and select**Toggle focus mode** from the option list.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Now, assign your preferred shortcut (e.g.,**Ctrl + Alt + F**) to the Toggle focus mode command.
 5. Finally, click**Save** to apply the changes and close the Settings window.
 
  Once you create the shortcut key, you can press it to switch between Focus Mode and normal mode in Windows Terminal.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Use Windows File Explorer
 
@@ -153,25 +100,12 @@ wt.exe /focus
 
  This will open the Windows Terminal in Focus Mode, with all tabs and title bars hidden. To switch back to normal mode, press**Ctrl + Shift + P** and select Toggle focus mode from the Command Palette.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Switch to the Windows Terminal Focus Mode Quickly on Windows
 
@@ -183,8 +117,6 @@ wt.exe /focus
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +124,19 @@ wt.exe /focus
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-download-screen-recorder-pro-for-windows-10/"><u>[New] 2024 Approved Download Screen Recorder Pro for Windows 10</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-step-by-step-to-faster-tiktok-videos/"><u>[New] 2024 Approved Step-by-Step to Faster TikTok Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-the-time-travel-of-facebook-memories-via-devices/"><u>[New] In 2024, Navigating the Time Travel of Facebook Memories via Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pro-tips-and-hidden-tricks-revolutionize-your-whatsapp-experience/"><u>[Updated] Pro Tips and Hidden Tricks Revolutionize Your WhatsApp Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-rises-google-crafting-its-own-linguistic-masterpiece/"><u>Bard Rises: Google Crafting Its Own Linguistic Masterpiece</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-email-errors-steps-to-counteract-0x80072746/"><u>Eliminating Email Errors: Steps to Counteract 0X80072746</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-surround-to-3d-installing-dolby-atmos-on-pc/"><u>From Surround to 3D: Installing Dolby Atmos on PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oneplus-nord-ce-3-lite-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on OnePlus Nord CE 3 Lite 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-phone-mic-for-pc-windows/"><u>Maximizing Phone Mic for PC Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-iphone-data-recovery-utility-for-macos-get-back-lost-pictures-movies-and-contact-details/"><u>Professional iPhone Data Recovery Utility for macOS: Get Back Lost Pictures, Movies, and Contact Details</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-for-effective-youtubers-game-sessions-for-2024/"><u>The Ultimate Guide for Effective YouTubers' Game Sessions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-on-prioritizing-and-displaying-notes-in-the-os-window/"><u>Tips on Prioritizing and Displaying Notes in the OS Window</u></a></li>
+</ul></div>
 

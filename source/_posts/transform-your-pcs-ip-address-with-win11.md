@@ -1,7 +1,7 @@
 ---
 title: Transform Your PC's IP Address with Win11
-date: 2024-10-26T19:56:59.940Z
-updated: 2024-11-01T17:20:36.229Z
+date: 2024-11-04T03:38:15.591Z
+updated: 2024-11-06T19:30:46.163Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/0afe9beb0b64de5cc7a966e66ff258745b01178cd
 
  Now that you know how to find the subnet mask on your computer, let's check out how to change it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Change the Subnet Mask Using the Windows Settings
 
  The settings menu is the central hub of a Windows operating system. It's a place to configure different settings of your computer and manage the network. You can also use it to change the subnet mask.
@@ -65,6 +58,13 @@ Here's how to do it:
 6. Enter the details, including the subnet mask, and click**Save.**  
 ![Entering the new Subnet Mask in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/entering-the-new-subnet-mask.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Change the Subnet Mask Using the Control Panel
 
  The Control Panel is the go-to place to configure window settings and make changes to your device. To use it to change the subnet mask, follow the below instructions:
@@ -75,33 +75,20 @@ Here's how to do it:
 4. Click on your network next to**Connections.**  
 ![Network name in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-name.jpg)
 5. Choose**Properties** from the window that appears.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select the IP version you're using. For instance, if you're using IPv4, select**Internet Protocol Version 4 (TCP/IPv4)** and click the**Properties** button.  
 ![IPv4 properties option in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ipv4-properties.jpg)
 7. Select the**Use the following address** option and enter the details.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Changing the Subnet Mask in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/changing-the-subnet-mask.jpg)
 8. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Change the Subnet Mask Using Windows PowerShell
 
@@ -117,6 +104,20 @@ Here's how to do it:
 `Set-NetIPAddress -InterfaceIndex 3 -PrefixLength 24`
 
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Changing the Subnet Mask in Windows 11
 
@@ -139,24 +140,22 @@ Here's how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-3-ways-to-record-lectures-on-mac/"><u>[New] In 2024, 3 Ways to Record Lectures on Mac</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-your-guide-to-studio-lights-and-equipment-17/"><u>[New] In 2024, Your Guide to Studio Lights & Equipment (#17)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-transformative-tales-a-compendium-of-the-best-inspirational-movies-for-2024/"><u>[Updated] Transformative Tales A Compendium of the Best Inspirational Movies for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-13-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 13 Pro Max? How to Fix it?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-convert-and-optimize-esd-files-into-windows-iso-format/"><u>Efficiently Convert and Optimize ESD Files Into Windows ISO Format</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/embracing-innovation-with-a-newer-windows-11-build/"><u>Embracing Innovation with a Newer Windows 11 Build</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-file-browsing-selecting-with-checkbox-in-win11/"><u>Enhance File Browsing: Selecting with Checkbox in Win11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y100-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y100 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-size-computation-powershell-on-windows/"><u>Mastering File Size Computation: PowerShell on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-win-11-games-top-strategies-for-peak-performance/"><u>Mastering Win 11 Games: Top Strategies for Peak Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-google-chrome-efficiency-activating-the-power-saving-feature-explained-insights/"><u>Maximize Your Google Chrome Efficiency: Activating the Power-Saving Feature Explained - Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pc-gaming-silence-broken-fix-the-soundless-mystery-in-borderlands-3/"><u>PC Gaming Silence Broken: Fix the Soundless Mystery in Borderlands 3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-pen-tab-malfunctions-in-windows/"><u>Resolve Pen-Tab Malfunctions in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-strategies-for-fixing-internal-error-in-remote-desktop-windows-11/"><u>Tips & Strategies for Fixing Internal Error in Remote Desktop Windows 11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/transforming-videos-with-ease-10-steps-from-youtube-to-mpeg/"><u>Transforming Videos with Ease 10 Steps From YouTube to MPEG</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-creativity-with-windows-11s-developer-tools-hub/"><u>Unleashing Creativity with Windows 11'S Developer Tools Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-virtual-living-room/"><u>Unveiling Windows 11'S Virtual Living Room</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-enhancing-social-engagement-with-zoom-fb-live-streams/"><u>[New] 2024 Approved Enhancing Social Engagement with Zoom-FB Live Streams</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-learning-the-ropes-of-lunapics-user-interface/"><u>[New] In 2024, Learning the Ropes of LunaPic's User Interface</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-streamline-twitters-from-video-to-audible-format/"><u>[New] Streamline Twitters From Video to Audible Format</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-how-to-use-snapchat-to-send-a-snap-with-cartoon-face-lens/"><u>[Updated] 2024 Approved How to Use Snapchat to Send a Snap with Cartoon Face Lens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-the-chaos-reconnect-lost-nexus-on-steam/"><u>Controlling the Chaos: Reconnect Lost Nexus on Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-your-digital-space-a-guide-to-alomwares-utilities/"><u>Customize Your Digital Space - A Guide to AlomWare's Utilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-deep-into-windows-iscsi-initiator-mechanics/"><u>Delving Deep Into Windows iSCSI Initiator Mechanics</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-m-audio-fast-track-driver-here-for-windows-11-7881/"><u>Get Your M-Audio Fast Track Driver Here for Windows 11, 7/8/8.1!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-win11-sticky-notes-on-multiple-platforms/"><u>Integrating WIN11 Sticky Notes on Multiple Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/navigating-the-maze-of-massive-content-movement-from-iphones-to-mac/"><u>Navigating the Maze of Massive Content Movement From iPhones to Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ten-techniques-to-restore-vanished-windows-data/"><u>Ten Techniques to Restore Vanished Windows Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-inaccessible-window-writable-solution-reopen-your-notepad-efficiently/"><u>The Inaccessible Window' Writable Solution: Reopen Your Notepad Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-mute-games-on-windows-11-suggests/"><u>Tips to Mute Games on Windows 11 Suggests</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/k-from-youtube-shorts-follow-this-plan-for-2024/"><u>Unlink From YouTube Shorts - Follow This Plan for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-fixes-keyboard-shortcuts-for-rapid-problem-solving/"><u>Unlock Windows 11 Fixes: Keyboard Shortcuts for Rapid Problem Solving</u></a></li>
 </ul></div>
 

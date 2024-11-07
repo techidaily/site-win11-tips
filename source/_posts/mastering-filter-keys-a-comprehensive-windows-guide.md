@@ -1,7 +1,7 @@
 ---
 title: "Mastering Filter Keys: A Comprehensive Windows Guide"
-date: 2024-09-11T01:20:45.531Z
-updated: 2024-09-12T01:20:45.531Z
+date: 2024-11-05T11:26:53.442Z
+updated: 2024-11-06T17:03:36.156Z
 tags:
   - windows10
   - windows11
@@ -30,23 +30,16 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 2. Click**Yes** to enable the Filter Keys.  
 ![Turn Filter Keys On or Off via the Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-keyboard-shortcut.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  On the other hand, if you want to disable Filter Keys, click on **Disable this keyboard shortcut in Ease of Access keyboard settings** . Then, disable the toggle next to Filter keys.
 
  Like using keyboard shortcuts on Windows? Why not check our[ultimate guide to Windows keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. How to Enable or Disable Filter Keys via the Settings App
 
@@ -58,39 +51,19 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 4. Use the toggle next to the**Filter keys** to enable or disable it. You can click on Filter keys to further customize the feature to your liking.  
 ![Turn Filter Keys On or Off via the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-settings-app.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. How to Enable or Disable Filter Keys Using the Control Panel
 
@@ -108,19 +81,12 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 8. Click**Apply** followed by**OK** to save the changes.  
 ![Turn Filter Keys On or Off via the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-control-panel.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. How to Enable or Disable Filter Keys From the Sign-In Screen
 
@@ -130,35 +96,7 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 2. Use the toggle next to**Filter keys** to enable or disable it.  
 ![Turn Filter Keys On or Off via the Sign-in Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-sign-in-screen.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Similarly, you can also enable or disable Sticky Keys from the sign-in screen. For more information on this, check our guide on[different ways to turn Sticky Keys on or off on Windows 11](https://www.makeuseof.com/windows-11-sticky-keys-on-off/) .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Enabling or Disabling Filter Keys on Windows Is Easy
 
@@ -166,14 +104,11 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
  Filter Keys isn’t the only accessibility feature available in Windows. If you need some extra help using your computer, there are plenty of useful accessibility options on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +117,17 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-perfect-date-trackers-for-your-wedding-ios-and-android-edition/"><u>[New] Perfect Date Trackers for Your Wedding, iOS and Android Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-diy-youtube-music-collection-a-comprehensive-online-and-app-method/"><u>[Updated] DIY YouTube Music Collection A Comprehensive Online & App Method</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-screen-guards-protect-your-device-capture-better/"><u>2024 Approved Screen Guards Protect Your Device, Capture Better</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-out-the-wait-fasten-upstart-in-your-windows-11-pc/"><u>Cut Out the Wait: Fasten Upstart in Your Windows 11 PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-vive-cosmos-exceptional-virtual-reality-gear-facing-intense-market-challenges/"><u>Exploring the Vive Cosmos: Exceptional Virtual Reality Gear Facing Intense Market Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-sync-side-by-side-application-settings-on-win10/"><u>How to Sync Side-by-Side Application Settings on Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increase-number-of-visible-pin-items-in-w11-menu/"><u>Increase Number of Visible Pin Items in W11 Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-system-fix-unheard-link-app-notifications/"><u>Mending Windows System: Fix Unheard Link App Notifications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-insiders-guide-to-professional-vsco-usage-for-2024/"><u>The Insider's Guide to Professional VSCO Usage for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-facilitate-engaging-and-efficient-virtual-team-conferences/"><u>Utilizing ChatGPT to Facilitate Engaging and Efficient Virtual Team Conferences</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win10/11's Network Woe: How to Resolve Error Code: 0X800704B3"
-date: 2024-09-11T01:20:49.384Z
-updated: 2024-09-12T01:20:49.384Z
+date: 2024-11-03T13:02:12.009Z
+updated: 2024-11-06T21:20:49.438Z
 tags:
   - windows10
   - windows11
@@ -34,62 +34,10 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 ![Windows 11 troubleshoot other troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Windows-11-troubleshoot-other-troubleshooter.jpg)
 4. In the following window, look for the Network troubleshooter and click on the **Run** button for it. The troubleshooter will now start scanning the system for potential errors. If it finds anything, it will notify you.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Run network troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-troubleshooter-1.jpg)
 5. Once the scan completes, check the results. If the troubleshooter has suggested fixes, click on **Apply this fix**.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Enable the Related Services
 
@@ -106,20 +54,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 6. Ensure the Startup type is set to **Automatic**.  
 ![Restart the DHCP service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-dhcp-service.jpg)
 7. Click **Apply** \> **OK** to save the changes.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  Perform the same steps for these services:
 
@@ -143,11 +77,26 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 3. Navigate to **Advanced network settings** \> **More network adapter options**.  
 ![Click on More network adapter options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/more-network-adapter-options.jpg)
 4. You should now see a list of available network adapters. Right-click on the one you are currently using and choose **Disable** from the context menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable your adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-adapter.jpg)
 5. Wait for a few before right-clicking on it again and choosing **Enable**.
 6. Once done, close the Settings window and try to perform the action that was initially triggering the error.
 
  If the problem was being caused by issues with the adapter, this should fix them.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable SMB 1.0 Protocol
 
@@ -164,33 +113,19 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 ![Locate SMB 1.0 and uncheck the box associated with it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-smb-protocol.jpg)
 5. Click **OK** to save the changes and restart your computer. Upon reboot, check if the issue is resolved.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Reset TCP/IP Stack
 
@@ -217,11 +152,26 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
  Below, we discuss the different solutions that you can try to fix this problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-trend-driven-infographics-the-leaders-in-23-for-2024/"><u>[Updated] Trend-Driven Infographics The Leaders in '23 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-muting-pc-sound-boosting-options/"><u>Guide to Muting PC Sound Boosting Options</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-a-missing-windows-update-service-on-windows/"><u>How to Restore a Missing Windows Update Service on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-gionee-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Gionee Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-manipulation-opening-and-exploring-mouse-in-win11/"><u>Masterful Manipulation: Opening and Exploring Mouse in Win11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-time-manipulation-in-final-cut-pro-x-for-2024/"><u>New The Art of Time Manipulation in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-chrome-lag-and-crashes-in-windows-11-effective-solutions-for-seamless-internet-use/"><u>Overcome Chrome Lag and Crashes in Windows 11: Effective Solutions for Seamless Internet Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pictureweaver-pro-online-illustration-hub-for-2024/"><u>PictureWeaver Pro Online Illustration Hub for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-on-your-computer-how-to-restore-speaker-functionality-in-windows-e10/"><u>Solving Sound Problems on Your Computer: How to Restore Speaker Functionality in Windows E10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-making-your-windows-clicklock-work-better/"><u>Step-by-Step Guide: Making Your Windows ClickLock Work Better</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unrecognized-writing-flaws-by-ai/"><u>Unrecognized Writing Flaws by AI</u></a></li>
+</ul></div>
+

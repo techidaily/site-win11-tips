@@ -1,7 +1,7 @@
 ---
 title: "Invisible Handshakes: Encrypted Transfers for WS11/W10 Users"
-date: 2024-10-28T16:46:00.830Z
-updated: 2024-11-01T18:01:29.326Z
+date: 2024-11-01T18:18:12.215Z
+updated: 2024-11-06T16:15:51.847Z
 tags:
   - windows10
   - windows11
@@ -58,16 +58,10 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
@@ -91,16 +85,23 @@ Here's what you need to do:
 6. Select the**Enabled** option.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Under**Options** , select the drive you want to hide.
 8. Click**Apply** followed by**OK** .
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
@@ -121,27 +122,20 @@ Here's what you need to do:
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
 
  You can also use this method to hide multiple drives at the same time. To do so, add the decimal numbers for both drives and enter the total in the Value data field. For example, if you're looking to hide drive**G:** and**H:** from your computer, you should enter**192** (64 + 128) in the Value data field.
 
  You'll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the**NoDrives** DWORD.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Hiding Drives in Windows Is Easy
 
@@ -164,24 +158,22 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-immediate-ios-screen-playback-guide/"><u>[New] 2024 Approved Immediate iOS Screen Playback Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-optimal-steadicams-matched-with-dslr-cameras/"><u>[New] 2024 Approved Optimal Steadicams Matched with DSLR Cameras</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-when-does-instagram-get-most-active-a-comprehensive-look/"><u>[New] 2024 Approved When Does Instagram Get Most Active? A Comprehensive Look</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-video-formats-for-maximum-youtube-engagement/"><u>[Updated] 2024 Approved Top Video Formats for Maximum YouTube Engagement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/2024nun-en-guclu-yabanci-teknikli-ucretlessan-video-donusturme-programi/"><u>2024'Nun En Güçlü Yabancı Teknikli Ücretlessan Video Dönüştürme Programı</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/50plus-text-wonders-in-video-editing/"><u>50+ Text Wonders in Video Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wavswfmovavi/"><u>免費在線WAV/SWF音訊格式變更者：Movavi 上的方便轉換器選擇</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726226973578-mp3mp4-movavi/"><u>如何快速免费地将MP3文件转换为MP4 - Movavi秘技</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/5lia6iis5lq644gm5l244ge44ke44gz44ge5pya6auy44gu5yuv55s757eo6zug44oe44o844or44oz44k544oi44k744ow44oz/"><u>一般人が使いやすい最高の動画編集ツールベストセブン</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-no-cost-2d-design-programs-to-enhance-creativity-with-transparency-features-software-and-applications-year-2024/"><u>Best No-Cost 2D Design Programs to Enhance Creativity with Transparency Features (Software & Applications) – Year 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descubra-os-seus-melhores-ferramentas-pdf-reader-a-lista-dos-6-mais-indispensaveis-para-editores-e-lectores/"><u>Descubra Os Seus Melhores Ferramentas PDF Reader: A Lista Dos 6 Mais Indispensáveis Para Editores E Lectores</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-eyes-for-economic-advantage/"><u>Digital Eyes for Economic Advantage</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-reno-11-pro-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Reno 11 Pro 5G Phone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-lut-applications-in-ae-for-2024/"><u>Mastering LUT Applications in AE for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-developer-mistake-5573-in-call-of-duty-vanguard-how-to-fix-it/"><u>Resolved: Developer Mistake 5573 in Call of Duty: Vanguard - How to Fix It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-free-video-editing-tools-compatible-with-windows-7/"><u>Top Free Video Editing Tools Compatible with Windows 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tutorial-de-conversion-dvd-a-avi-comment-utiliser-le-programme-movavi-video-converter/"><u>Tutorial De Conversion DVD À AVI: Comment Utiliser Le Programme Movavi Video Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upload-and-convert-your-tiff-files-to-bmp-gratis-expert-online-tools-by-movavi/"><u>Upload & Convert Your TIFF Files to BMP Gratis - Expert Online Tools by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/webp-jpg/"><u>WebP 그림을 JPG로 무료 강조한 웹 편집 도구 - 모바이비</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-essential-skills-for-harvesting-and-storing-gifs-from-facebooks-feed/"><u>[Updated] Essential Skills for Harvesting and Storing GIFs From Facebook's Feed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-source-guide-4-top-skype-ringtones/"><u>2024 Approved The Ultimate Source Guide 4 Top Skype Ringtones</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-interconnected-scribbling-across-devices/"><u>Enabling Interconnected Scribbling Across Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-panoramic-versus-full-immersion-visual-media-tech/"><u>Exploring Panoramic Versus Full-Immersion Visual Media Tech</u></a></li>
+<li><a href="https://win-blog.techidaily.com/forza-horizon-5-on-your-computer-stability-solutions-for-gameplay-interruptions-and-crashing-issues/"><u>Forza Horizon 5 on Your Computer Stability: Solutions for Gameplay Interruptions and Crashing Issues</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro with/without SIM Card</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-new-tesla-automaton-explore-projections-for-price-tag-release-window-and-capabilities/"><u>Inside Scoop on the New Tesla Automaton – Explore Projections for Price Tag, Release Window, and Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-output-top-5-must-have-windows-productivity-apps/"><u>Maximize Your Output: Top 5 Must-Have Windows Productivity Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-speed-with-intels-ethernet-driver-on-fedora/"><u>Maximizing Speed with Intel's Ethernet Driver on Fedora</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-nonfunctional-logitech-g430-headset/"><u>Step-by-Step Solutions for a Nonfunctional Logitech G430 Headset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-windowscape-custom-monitor-aesthetics-with-wallpapers-in-win-1011/"><u>Tailored Windowscape: Custom Monitor Aesthetics with Wallpapers in WIN 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-dealing-with-non-powershell-availability-in-windows/"><u>Tips for Dealing with Non-PowerShell Availability in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-frozen-wsreset-utility-for-windows-users/"><u>Unlocking Frozen WSReset Utility for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-and-dolby-atmos-setup-guide/"><u>Win 11 & Dolby Atmos Setup Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win32keygen-alert-understanding-the-threat-and-cleanup-strategies/"><u>Win32/Keygen Alert: Understanding the Threat and Cleanup Strategies</u></a></li>
 </ul></div>
 

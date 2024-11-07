@@ -1,7 +1,7 @@
 ---
 title: Supercharge Your Computer Setup with Unified Folders in Win11
-date: 2024-10-26T19:49:58.023Z
-updated: 2024-11-01T17:01:14.541Z
+date: 2024-11-05T00:09:23.843Z
+updated: 2024-11-07T14:03:59.937Z
 tags:
   - windows10
   - windows11
@@ -67,19 +67,6 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
 
  Finally, close the Powershell window and check if the folders have been created.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
  Though it may come as a surprise, the Windows Notepad can perform more advanced technical operations than just writing to-do lists.
@@ -95,20 +82,36 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
 md "MUOJan"\"Windows" "MUOFeb"\"Android"`  
 ![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click **OK** and close the Notepad.
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
 
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
@@ -130,23 +133,17 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 3. Click **Yes** in the confirmation prompt.  
 ![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create Multiple Folders in a Few Clicks on Windows
 
@@ -156,27 +153,6 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
  There is more than one method of creating multiple files and folders in Windows, and we have outlined the best ways of doing so for you below. Read through the methods and proceed with the one you want.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-experience-ultra-clarity-in-xiaomis-screen-capture-technology/"><u>[New] 2024 Approved Experience Ultra Clarity in Xiaomi's Screen Capture Technology</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leading-presentation-to-film-tools/"><u>[New] 2024 Approved Leading Presentation-to-Film Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-beats-lasting-impact-navigating-the-world-of-short-music/"><u>[New] In 2024, Quick Beats, Lasting Impact Navigating the World of Short Music</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-expand-picture-size-maintain-original-quality-for-2024/"><u>[Updated] Expand Picture Size - Maintain Original Quality for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-the-clutter-updating-and-refreshing-outdated-windows-tech/"><u>Clear the Clutter: Updating and Refreshing Outdated Windows Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-advice-for-overcoming-iphone-images-not-uploading-problem/"><u>Comprehensive Advice for Overcoming iPhone Images Not Uploading Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-systray-ui-adding-key-indicators-on-win11/"><u>Enhancing SysTray UI: Adding Key Indicators on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guaranteeing-winrar-compression-validity-with-corrected-sums/"><u>Guaranteeing WinRAR Compression Validity with Corrected Sums</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unblock-the-application-couldnt-start-error-xc000003e-in-win11/"><u>How to Unblock The Application Couldn't Start: Error Xc000003e in Win11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-guide-to-creating-compact-engaging-youtube-content/"><u>In 2024, Expert Guide to Creating Compact, Engaging YouTube Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-speaking-through-screens-effective-communication-on-youtube/"><u>In 2024, Speaking Through Screens Effective Communication on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keyboard-troubles-heres-a-list-of-solutions-to-rescue-ineffectual-shortcuts-in-windows/"><u>Keyboard Troubles? Here's a List of Solutions to Rescue Ineffectual Shortcuts in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reducing-chromium-noise-on-your-windows-pc/"><u>Reducing Chromium Noise on Your Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-procedure-elevating-to-virtualbox-version-70-on-windows-11/"><u>Stepwise Procedure: Elevating to VirtualBox Version 7.0 on Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210133174-9781644112212-the-ancestral-power-of-amulets-talismans-and-mascots/"><u>The Ancestral Power of Amulets, Talismans, and Mascots | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tweaking-pixel-density-on-win11/"><u>Tweaking Pixel Density on Win11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -184,3 +160,17 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovative-tips-for-multisnap-creation-on-snapchat/"><u>[New] Innovative Tips for Multisnap Creation on Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-updater-problem-code-0x8019-on-pc/"><u>Fixing Updater Problem - Code 0X8019 on PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-discover-how-to-get-sounds-from-twitter-vids/"><u>In 2024, Discover How to Get Sounds From Twitter Vids</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-11-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-access-windows-lately-used-documents/"><u>Mastering Access: Windows' Lately Used Documents</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/recover-accidentally-deleted-pictures-from-your-iphone-using-top-software-solutions/"><u>Recover Accidentally Deleted Pictures From Your iPhone Using Top Software Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/snowflakes-splendor-beijings-winter-wonder/"><u>Snowflakes Splendor Beijing's Winter Wonder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-systems-savior-top-13-methods-to-revive-your-pc/"><u>The System's Savior: Top 13 Methods to Revive Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wi-fi-woes-no-more-12-fixes-for-unseen-networks-in-microsoft-os/"><u>Wi-Fi Woes No More: 12 Fixes for Unseen Networks in Microsoft OS</u></a></li>
+</ul></div>
+

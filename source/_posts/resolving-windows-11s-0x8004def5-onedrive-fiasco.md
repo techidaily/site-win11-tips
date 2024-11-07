@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows 11'S 0X8004DEF5 Onedrive Fiasco
-date: 2024-10-26T19:35:58.696Z
-updated: 2024-11-01T16:15:45.929Z
+date: 2024-11-06T10:35:25.402Z
+updated: 2024-11-06T22:31:21.867Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 ![Terminate OneDrive and Restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/terminate-onedrive-and-restart.jpg)
 5. Open the Start menu and type OneDrive. Click on the**Open** option and check if the error pops up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check if OneDrive Servers Are Down
 
  OneDrive stores all your data in a dedicated cloud server maintained by Microsoft. Despite promising 99% uptime, it is common for cloud services like OneDrive to encounter outages. Or the service could be down due to scheduled maintenance.
@@ -55,20 +62,13 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 ![Perform a complete system shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perform-a-complete-system-shutdown.jpg)
 3. A complete shutdown will take longer than usual. Wait for the system to Restart and boot to the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Now, launch OneDrive and check if you can access your files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Switch Network Connections
@@ -91,6 +91,13 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 6. Close the File Explorer and restart your system.
 7. Launch OneDrive and then check if it encounters the same error code.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reset OneDrive
 
  You can reset some Windows apps by accessing their advanced settings. But OneDrive doesn't have an advanced settings option in the Settings app. So, you need to reset it manually using the command prompt. Here's how:
@@ -103,17 +110,10 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 4. Close the app after you see the "Reset completed" message. Restart your system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall OneDrive Using Winget
@@ -133,10 +133,10 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 3. Wait for the tool to download and install OneDrive on your system. You don't need to interact with the installer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Close** the command prompt window after seeing the "**Successfully installed** " message.
@@ -170,14 +170,21 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-android-for-ultimate-3d-playback/"><u>2024 Approved Innovative Android for Ultimate 3D Playback</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-srgb-vs-standard-rgb/"><u>2024 Approved Srgb vs Standard Rgb</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/commanding-control-in-windows-11-filtering-tasks-and-implementing-new-theme-vibes/"><u>Commanding Control in Windows 11: Filtering Tasks & Implementing New Theme Vibes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conceal-ctrl-invisible-control-panel-in-1011-edition/"><u>Conceal CTRL: Invisible Control Panel in 10/11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-task-management-positioning-this-pc-on-screen/"><u>Elevate Task Management: Positioning 'This PC' On Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-pc-accessibility-restoring-ea-server-link/"><u>Enhancing PC Accessibility: Restoring EA Server Link</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-a23-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy A23 5G? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Hot 40 Phone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-recording-movies-best-practices-with-windows-11/"><u>[New] 2024 Approved Recording Movies Best Practices with Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-yesteryears-visions-with-reverse-scans-in-social-media-world-facebook/"><u>[New] In 2024, Unlocking Yesteryear's Visions with Reverse Scans in Social Media World (Facebook)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-exploring-top-tier-gopro-cameras-max-vs-hero-11/"><u>[Updated] In 2024, Exploring Top-Tier GoPro Cameras Max Vs. Hero 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-typography-online-a-curated-list-of-the-best-9-websites-for-innovative-texts/"><u>2024 Approved Pioneering Typography Online A Curated List of The Best 9 Websites for Innovative Texts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-microsoft-store-crashes-error-code-0x80072f17-guide/"><u>Correcting Microsoft Store Crashes: Error Code 0X80072f17 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-fixes-for-the-instant-folder-addition-failure-on-onedrive/"><u>Easy Fixes for the Instant Folder Addition Failure on OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-methods-to-erase-windows-11-printers/"><u>Effective Methods to Erase Windows 11 Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-app-issues-with-expert-error-handling/"><u>Eliminate Windows App Issues with Expert Error Handling</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-activate-auto-hdr-setting-in-windows-11/"><u>How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-maze-of-managing-your-windows-11-pc-with-precision/"><u>Navigate the Maze of Managing Your Windows 11 PC with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-attaching-reminders-windows-1110-tutorial/"><u>Securely Attaching Reminders: Windows 11/10 Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-approaches-to-merging-windows-partitions/"><u>Strategic Approaches to Merging Windows Partitions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unleash-the-power-of-pixels-expert-tips-on-live-tv-recording-with-windows-pc-for-2024/"><u>Unleash the Power of Pixels Expert Tips on Live TV Recording with Windows PC for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/viral-video-venues-clash-youtube-shorts-vs-tiktoks-rapid-rise-for-2024/"><u>Viral Video Venues Clash YouTube Shorts Vs. TikTok's Rapid Rise for 2024</u></a></li>
 </ul></div>
 

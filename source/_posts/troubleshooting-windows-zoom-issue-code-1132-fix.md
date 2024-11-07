@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows Zoom Issue: Code 1132 Fix"
-date: 2024-10-30T17:14:15.536Z
-updated: 2024-11-01T19:20:53.884Z
+date: 2024-10-31T18:22:44.883Z
+updated: 2024-11-07T06:50:49.110Z
 tags:
   - windows10
   - windows11
@@ -38,16 +38,10 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
  Those instructions are for 2-in-1 modem routers. If you have a separate modem, you’ll also need to unplug that modem and reconnect it.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update the Zoom App
@@ -63,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 5. Wait for the Zoom updater to finish.
 6. Sign back into Zoom after the update, and try joining a meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Change Windows Defender Firewall Settings
 
  Internet connectivity is essential for the Zoom app. Windows Defender Firewall can feasibly cause error 1132 by blocking Zoom from establishing a connection. You could just try turning that firewall off to see if doing so makes a difference. However, you may be able to resolve error 1132 by adjusting a setting for Zoom firewall rules like this:
@@ -84,6 +71,14 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 7. Click the**Protocol Type** drop-down menu to select**Any** .  
 ![The Protocols and Ports tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/protocols-and-ports-tab.jpg)
 8. Select**Apply** to set the rule’s new protocol option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click**OK** to exit the rule’s properties window.
 10. Repeat steps five to nine for all Zoom rules within Windows Defender Firewall with Advanced Security.
 
@@ -100,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
  Some users have also said resetting their antivirus apps’ firewalls fixed error 1132 for them. So, that’s another option worth considering. Look for and select an option that restores the default firewall settings in your security software.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall the Zoom App
@@ -115,26 +110,20 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 3. Click the menu button for the Zoom app to select**Uninstall** . You can select the app and click**Uninstall** in Windows 10.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-option.jpg)
 4. Open[the Zoom](https://zoom.us/download#client%5F4meeting) download center.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**Download** for the Zoom Desktop Client.  
 ![The Download option for Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-option-1.jpg)
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Set Up a New Windows Account
 
@@ -150,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 7. Select to join a Zoom meeting again.
 
  If this solution works, you can sign in to the new Windows account to use Zoom whenever needed. However, some users who need to utilize Zoom regularly may prefer to migrate files from their old accounts to new ones.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Join Your Zoom Meetings Again on Windows
 
@@ -170,19 +166,20 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-pro-tips-effortless-video-upload-from-pcmac/"><u>[Updated] In 2024, Instagram Pro Tips Effortless Video Upload From PC/Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-drone-enthusiasts-guide-to-vibration-reduction-and-image-quality-for-2024/"><u>[Updated] The Drone Enthusiast's Guide to Vibration Reduction and Image Quality for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/como-resolver-el-error-al-crear-una-copia-de-seguridad-del-disco-tres-estrategias-esenciales/"><u>Cómo Resolver El Error Al Crear Una Copia De Seguridad Del Disco: Tres Estrategias Esenciales</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-motorola-g54-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola G54 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-windows-update-issue-x8019/"><u>Eradicating Windows Update Issue X8019</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-70-lite-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor 70 Lite 5G Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-yuzu-emulator-fps-window-users/"><u>Maximize Yuzu Emulator FPS, Window Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-network-info-via-powershell-in-windows/"><u>Navigating Network Info via PowerShell in Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/recording-review-and-examination/"><u>Recording Review and Examination</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-the-basics-customizing-windows-11-for-you/"><u>Revamping the Basics: Customizing Windows 11 for You</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-your-files-enable-controlled-access-in-windows-11/"><u>Secure Your Files: Enable Controlled Access in Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-performance-and-features-of-the-netgear-nighthawk-rax80-a-complete-analysis/"><u>Unpacking the Performance and Features of the Netgear Nighthawk RAX80 – A Complete Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-video-editing-best-tools-for-short-forms/"><u>[New] The Ultimate Guide to Video Editing Best Tools for Short Forms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-evaluating-the-strengths-of-notion-ai-against-chatgpt-for-optimal-performance/"><u>AI Showdown: Evaluating the Strengths of Notion AI Against ChatGPT for Optimal Performance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-perfection-with-canons-paired-lut-gifts-for-2024/"><u>Capture Perfection with Canon's Paired LUT Gifts for 2024</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/enhancing-your-web-experience-through-cutting-edge-cookiebot-features/"><u>Enhancing Your Web Experience Through Cutting-Edge Cookiebot Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guaranteeing-smooth-operation-of-windows-touchpad-gestures/"><u>Guaranteeing Smooth Operation of Windows Touchpad Gestures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-silencing-alerts-and-alarms-on-smartphones/"><u>Guide to Silencing Alerts and Alarms on Smartphones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-defy-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Defy 2 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ai-art-with-paint-tool-sai-in-windows-11/"><u>Mastering AI Art with Paint Tool SAI in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-report-generation-and-examination-techniques/"><u>Mastering Windows Report: Generation & Examination Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-troubleshooting-guide-for-http-overload-on-windows-apps/"><u>Quick Troubleshooting Guide for HTTP Overload on Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-what-was-lost-recovering-disappeared-features-in-windows-11/"><u>Regain What Was Lost: Recovering Disappeared Features in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-code-0x0000004e-on-windows-11/"><u>Resolving Error Code 0X0000004E on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screen-replay-spotlight-how-vidma-measures-up-against-others-for-2024/"><u>Screen Replay Spotlight How Vidma Measures Up Against Others for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/travel-tech-hacks-mastering-your-roku-setup-for-school-trips-and-hotel-getaways/"><u>Travel Tech Hacks: Mastering Your Roku Setup for School Trips and Hotel Getaways</u></a></li>
 </ul></div>
 

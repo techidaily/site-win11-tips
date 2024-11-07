@@ -1,7 +1,7 @@
 ---
 title: Turn Off Microsoft's Intelligent Assistance
-date: 2024-09-11T01:20:48.929Z
-updated: 2024-09-12T01:20:48.929Z
+date: 2024-11-03T07:27:13.486Z
+updated: 2024-11-07T13:14:50.288Z
 tags:
   - windows10
   - windows11
@@ -18,61 +18,20 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 
  Windows Copilot, Microsoft's new AI assistant, can assist you with a variety of tasks, such as answering questions, changing system settings, and creating AI images. However, if you're not a fan of Copilot or simply don't need it, you can remove its taskbar icon or disable it entirely on your Windows 11 PC. Here, we'll show you how.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Remove the Copilot Icon From the Windows 11 Taskbar
 
  By default, the Copilot icon appears in the Windows 11 taskbar. However, if you prefer not to have it there but still want to use it occasionally, it's easy to hide the Copilot icon. Simply right-click anywhere on an empty spot on your taskbar and select **Taskbar settings**. In the Settings window that appears, turn off the toggle next to **Copilot**.
 
 ![Remove Copilot Icon From Windows 11 Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/remove-copilot-icon-from-windows-11-taskbar.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  This should remove the Copilot icon from the taskbar. You can still access Copilot by pressing the **Win + C** keyboard shortcut in Windows 11\.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Completely Disable Copilot via Group Policy Settings
 
@@ -89,25 +48,12 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 7. Hit **Apply** followed by **OK**.  
 ![Turn Off Windows Copilot Using the Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-windows-copilot-using-the-group-policy-editor.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Once you complete the above steps, Copilot will be disabled on your Windows 11 PC and you won't be able to access it even with the keyboard shortcut. If you want to re-enable Copilot later, repeat the above steps and set the **Turn off Windows Copilot** policy to **Not configured** or **Disabled**.
 
@@ -127,41 +73,25 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 8. Restart your PC for the changes to take effect.  
 ![Turn Off Windows Copilot Using the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-windows-copilot-using-the-registry-editor.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  And that’s about it. Windows Copilot will be disabled on your PC. To re-enable it in the future, repeat the above steps and set the **TurnOffWindowsCopilot** DWORD value to 0\. You can also delete the **TurnOffWindowsCopilot** DWORD instead.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Get Rid of Copilot on Windows 11
 
  While Windows Copilot is a powerful tool, not everyone may want to use it. Fortunately, it’s possible to get rid of it. The above steps will help you achieve your goal, whether you want to keep Copilot out of sight or turn it off entirely.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -169,3 +99,27 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-google-chats-mastery-key-elements-4-ways/"><u>[New] Google Chats Mastery Key Elements, #4 Ways</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-quintessential-list-of-top-15-masterpieces-in-stop-motion-for-2024/"><u>[New] The Quintessential List of Top 15 Masterpieces in Stop Motion for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-streamlining-video-content-with-effective-xml-ttml-and-srt-solutions/"><u>[Updated] Streamlining Video Content with Effective XML, TTML & SRT Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-poco-m6-pro-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Poco M6 Pro 4G?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-solving-windows-pen-tablet-faults/"><u>Deciphering and Solving Windows Pen Tablet Faults</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-moto-g73-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola Moto G73 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-x-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone X to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c12-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C12 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/organize-ideas-visually-embracing-obsidian-canvas/"><u>Organize Ideas Visually - Embracing Obsidian Canvas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x887a0006-in-win1011-graphics/"><u>Overcoming Error 0X887A0006 in Win10/11 Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedy-for-corrupted-filesdirectories-on-windows-x70/"><u>Quick Remedy for 'Corrupted' Files/Directories on Windows X70</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-11-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-data-retrieval-windows-based-qr-code-reading-guide/"><u>Revolutionizing Data Retrieval: Windows-Based QR Code Reading Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shadows-to-self-reflection-steps-for-using-windows-undisclosed-personal-analyst/"><u>Shadows to Self-Reflection: Steps for Using Windows' Undisclosed Personal Analyst</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/smartphones-how-often-should-you-update/"><u>Smartphones: How Often Should You Update?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-overlap-camera-error-code-0xa00f4243-on-windows/"><u>Solving Overlap Camera Error Code 0xA00F4243 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-systems-launch-windows-and-access-notes-instantly/"><u>Speedy Systems: Launch Windows & Access Notes Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-docu-series-featuring-maximillian-what-were-watching-in-july-2024/"><u>Top Docu-Series Featuring Maximillian: What We're Watching in July 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-art-of-screenshotting-uac-dialogues/"><u>Understanding the Art of Screenshotting UAC Dialogues</u></a></li>
+</ul></div>
+

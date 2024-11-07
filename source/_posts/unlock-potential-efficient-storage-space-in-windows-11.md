@@ -1,7 +1,7 @@
 ---
 title: "Unlock Potential: Efficient Storage Space in Windows 11"
-date: 2024-10-26T16:09:26.250Z
-updated: 2024-11-01T17:15:02.042Z
+date: 2024-11-06T07:22:59.659Z
+updated: 2024-11-06T22:43:10.875Z
 tags:
   - windows10
   - windows11
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
 ![The drive selection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-selection-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Defrag a Hard Drive With the Command Prompt
 
  Alternatively, you can utilize a defragger command-line tool within the Command Prompt. That tool is more flexible because it has various parameters you can set in commands. This is how to defrag your hard drive with the Command Prompt in Windows 11.
@@ -70,16 +63,16 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 ![The defrag c command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-c-command.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As mentioned, this command-line tool has numerous parameters for configuring the defragment operation. Those parameters give you extra optimization options and enable you to tweak the defragging more. You can view the parameter switches by inputting and executing this command:
@@ -89,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
  Entering that command displays a list of all parameters with explanations for them. You can input additional parameters to perform boot optimization, slab consolidation, retrim, and space consolidation operations. Look at the examples shown at the bottom of the list to see how to input defrag commands with parameters included.
 
 ![The defrag help command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-parameter-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Defrag a Hard Drive With Defraggler
 
@@ -108,6 +94,20 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 5. Select Defraggler’s**Install** option.  
 ![The Install button for Defraggler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-button2.jpg)
 6. Click**Run Defraggler** in the Piriform window.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Next, click the**Analyze** button to view a report with a fragmentation percentage figure.  
 ![The Defraggler tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-defraggler-tool.jpg)
 8. Press the**Defrag** button. Or you click that button’s arrow to select**Quick defrag** if preferred.
@@ -117,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 ![The Drive Map tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-map-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you prefer to defrag a specific folder or file, click the**Actions** menu. Click either the**Defrag Folder** or**Defrag File** option there. Select a directory or file to optimize and click**OK** .
@@ -130,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
  To set automatic drive optimization, click the**Settings** menu and select**Schedule** ; choose a drive in the drop-down menu and select**Schedule drive optimization for chosen volume** . Then choose one of the period options to configure according to preference. You can also select one of four optimization settings on the**Defrag type** drop-down menu. Click**OK** to set the schedule.
 
 ![The Schedule window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-schedule-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can I Defrag a Solid-State Drive?
 
@@ -156,21 +163,18 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-budding-builders-simple-stylish-mc-habitats/"><u>[New] In 2024, Budding Builders Simple, Stylish MC Habitats</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-professional-tips-for-perfectly-recording-your-powerpoint-sessions/"><u>[New] In 2024, Professional Tips for Perfectly Recording Your PowerPoint Sessions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-secrets-of-successful-recording-3-approaches-for-discos-broadcast/"><u>[New] Secrets of Successful Recording 3 Approaches for Disco's Broadcast</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-illuminate-photos-10-premium-luts-revealed/"><u>[Updated] Illuminate Photos 10 Premium LUTs Revealed</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-small-screen-experience-with-these-leading-and-affordable-tools-to-download-youtubes-tiny-videos/"><u>2024 Approved Elevate Small Screen Experience with These Leading & Affordable Tools to Download YouTubes' Tiny Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-gaming-and-productivity-top-6-gpu-load-checkers-in-windows/"><u>Essential Gaming & Productivity: Top 6 GPU Load Checkers in Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-thwarting-vr-discomfort-tips-for-a-smooth-experience/"><u>In 2024, Thwarting VR Discomfort Tips for a Smooth Experience</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-listening-to-your-favorite-talk-shows/"><u>In 2024, Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Listening to Your Favorite Talk Shows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-the-load-strategies-to-reduce-ums-impact-on-your-system/"><u>Lowering the Load: Strategies to Reduce UMS Impact on Your System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-visuals-adjust-win11-scaling/"><u>Maximize Visuals: Adjust Win11 Scaling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-vintage-boot-settings-on-windows/"><u>Restoring Vintage BOOT Settings on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-windows-11-menus-interactive-functionality/"><u>Restoring Windows 11 Menus' Interactive Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-crashing-beast-flawless-fullscreen-in-windows-11s-sonic-games/"><u>Taming The Crashing Beast: Flawless Fullscreen in Windows 11'S Sonic Games</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/the-elite-lineup-top-computer-brands-to-watch/"><u>The Elite Lineup: Top Computer Brands to Watch</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-overcoming-key-issues-on-win11/"><u>Understanding and Overcoming Key Issues on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-error-0x80041015-in-ms-office-for-windows-users/"><u>Unlocking Error 0X80041015 in MS Office for Windows Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-path-to-retrospective-facebook-content-mobile-plus-laptop/"><u>[New] 2024 Approved The Path to Retrospective Facebook Content (Mobile + Laptop)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevate-storytelling-free-soundtrack-options-available/"><u>[Updated] In 2024, Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/5-creative-tiktok-caption-ideas-for-maximum-impact-for-2024/"><u>5 Creative TikTok Caption Ideas for Maximum Impact for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparative-analysis-is-pickup-the-best-editor-for-your-android-device/"><u>Comparative Analysis Is PickUp The Best Editor for Your Android Device?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprerante-tactics-bring-alive-dormant-wsreset-utility/"><u>Comprerante Tactics: Bring Alive Dormant WSReset Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-browser-memory-top-7-eco-friendly-alternatives-unveiled/"><u>Decoding Browser Memory: Top 7 Eco-Friendly Alternatives Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-error-code-microsoft-marketplace-0x80131500/"><u>Disabling Error Code: Microsoft Marketplace #0X80131500</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-code-0x800f0831-error-in-modern-windows/"><u>Fixing Code 0X800F0831 Error in Modern Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme Narzo 60 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-reliable-security-on-stalled-systems/"><u>Restoring Reliable Security on Stalled Systems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-fix-for-iphones-caught-in-attempting-data-recovery-loop/"><u>Step-by-Step Fix for iPhones Caught in Attempting Data Recovery Loop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-aggregatorhostexe-do-on-windows-os-safety-analysis/"><u>What Does AggregatorHost.exe Do on Windows OS? Safety Analysis</u></a></li>
 </ul></div>
 

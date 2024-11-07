@@ -1,7 +1,7 @@
 ---
 title: The Seamless Way to Change Your Windows 11 Identity
-date: 2024-10-27T16:20:01.516Z
-updated: 2024-11-01T17:31:33.787Z
+date: 2024-10-30T17:03:31.227Z
+updated: 2024-11-07T09:19:26.927Z
 tags:
   - windows10
   - windows11
@@ -42,24 +42,38 @@ To change your username using the Control Panel, follow these steps:
 4. Click on**Change your account name** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Click on Change Your Account Name in User Account Settings in Windows Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-on-change-your-account-name-in-user-account-settings-in-windows-control-panel.jpg)
 5. Click**Yes** in the**User Account Control (UAC)** window.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. In the**New account name** field, type your new username.
 7. After that, click on**Change Name** .  
 ![Click on Change Name After Entering the New Username](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-on-change-username-after-entering-the-new-username.jpg)
 8. For this change to take effect, you need to sign out of your account and sign back in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Change Your Username Using the Run Command
@@ -82,6 +96,20 @@ To change your username using the Run command, follow these steps:
 ![Click OK After Adding the New Name in the User Accounts Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-adding-the-new-name-in-the-user-accounts-window.jpg)
 8. Then, log out of your account, and you'll be greeted with your new username on the sign-in screen when you sign in.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Change Your Username From Local User and Group Management Tool
 
  If the "netplwiz" command does not work or gives an error when accessing the user account manager, you can use the local user and group management tool to change the username. This is the easiest way to modify your Windows username, as it allows you to simply rename your username directly—like you rename any folder.
@@ -93,27 +121,20 @@ To change your username using the Run command, follow these steps:
 ![Run lusrmgr.msc Command in Windows Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-run-lusrmgr-msc-command-in-windows-run-command.jpg)
 3. Click**"Yes"** in the**User Account Control (UAC)** window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select the**Users** tab in the left sidebar.
 5. Find your account in the right pane.
 6. Right-click the username and click**Rename** .  
 ![Click Rename by Right-clicking on the Account Name in the Local User and Group Management Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-click-rename-by-right-clicking-on-the-account-name-in-the-local-user-and-group-management-tool.jpg)
 7. Enter the new username you want to use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Afterward, close the local user and group management tool, sign out of your account once, and you'll see your new username on the sign-in screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Change Your Username Using Windows PowerShell
 
@@ -143,22 +164,8 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 ![Click on Your info and Edit name to Change Username of a Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-your-info-and-edit-name-to-change-username-of-a-microsoft-account.jpg)
 5. Remove your current username and add the one you wish to switch to.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. After that, click**Save** .  
 ![Click on Save to Change the Username of Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-save-to-change-the-username-of-microsoft-account.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Changing the username associated with your Microsoft account may not take effect immediately. Sometimes, you may not see the new username after signing out from your account once, as we do in the other methods. To prevent that from happening, we recommend[restarting your device](https://www.makeuseof.com/windows-restart-methods/) instead of just signing out.
 
@@ -183,17 +190,16 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-complete-manual-to-perfect-proportions-in-youtube-videosshortsads/"><u>[New] The Complete Manual to Perfect Proportions in YouTube Videos/Shorts/Ads</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-download-instagram-reels-effortlessly-anytime/"><u>[Updated] In 2024, Download Instagram Reels Effortlessly, Anytime</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>[Updated] In 2024, Guffaw Generation Generating 7 Hilarious Video Moments Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-level-up-with-no-hassle-the-prime-free-voice-change-for-valorant-gamers/"><u>2024 Approved Level Up with No Hassle The Prime Free Voice Change for Valorant Gamers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-how-to-use-microsofts-phone-link-for-devices/"><u>Decoding How to Use Microsoft's ‘Phone Link’ for Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/end-infinite-scroll-loop-in-microsoft-excel-windows/"><u>End Infinite Scroll Loop in Microsoft Excel (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-your-license-expires-message-in-windows/"><u>Fixing the Your License Expires Message in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975122770-get-your-steelseries-mouse-up-to-speed-with-latest-firmware-update/"><u>Get Your SteelSeries Mouse Up to Speed with Latest Firmware Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-mend-steam-installation-problems-in-win11/"><u>How to Mend Steam Installation Problems in Win11</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ct-plating-guided-path-to-home-cooking-videos-for-2024/"><u>Perfect Plating Guided Path to Home Cooking Videos for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/sanctioned-resistance-fb-groups-defy-immunization-bans/"><u>Sanctioned Resistance: FB Groups Defy Immunization Bans</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-file-locations-top-6-ways-to-copy-paths-in-windows-11-systems/"><u>Unveiling File Locations: Top 6 Ways to Copy Paths in Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-2023-play-facebook-videos-on-tv/"><u>[New] 2024 Approved 2023 | Play Facebook Videos on TV?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-captivating-cinematic-experiences-exploring-top-6-genres/"><u>[New] Captivating Cinematic Experiences Exploring Top 6 Genres</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-vct-pro-capture-assessment-full-review/"><u>[Updated] 2024 Approved VCT Pro Capture Assessment Full Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-audio-layers-for-professional-videography-premiere-pro-edition/"><u>[Updated] Audio Layers for Professional Videography Premiere Pro Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-re-establish-steam-online-status-in-windows/"><u>How to Re-Establish Steam Online Status in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-win11-to-elevated-privileged-powershell-state/"><u>Navigate Win11 to Elevated Privileged PowerShell State</u></a></li>
+<li><a href="https://article-files.techidaily.com/steps-to-acquire-free-picture-frame-videos-for-2024/"><u>Steps to Acquire Free Picture Frame Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-disk-formatting-required-error-on-windows/"><u>Troubleshooting Disk Formatting Required Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-creativity-embedding-personalized-weather-icons-on-taskbar/"><u>Unleash Creativity: Embedding Personalized Weather Icons on Taskbar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Nokia C210 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Experience with Windows 11 User-Tuned Controls
-date: 2024-10-30T19:17:57.332Z
-updated: 2024-11-01T16:01:11.729Z
+date: 2024-10-31T12:18:33.942Z
+updated: 2024-11-06T21:56:31.631Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 ![The Extract compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/extract-compressed-window.png)
 7. Press the **Extract** button to [extract the ZIP archive in Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up a Mute Hotkey
 
  When you’ve extracted NirCmd’s archive, no program installation is required. Nor do you even need to launch it in any way. You will, however, need to note down, or copy, NirCmd’s extracted path. Then you can set up volume control shortcuts based on that utility’s commands. This is how you can establish a mute hotkey with NirCmd.
@@ -59,23 +52,9 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 ![The Shortcut context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-option.png)
 5. Press the **Ctrl + V** keyboard shortcut to paste the copied NirCmd path into the location box.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Then press **Space** key once after the NirCmd path, and enter **mutesysvolume 2** in the location box as shown directly below. The location box should then include: **“NirCmd folder path\\nircmd.exe” mutesysvolume 2**.  
 ![The mutesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/mutesysvolume-command.png)
 7. Click **Next** to continue.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Enter **Mute** in the shortcut name box, and select the **Finish** option.
 
@@ -86,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 3. Press **M** to set up a **Ctrl + Alt + M** hotkey.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-key-box3.png)
 4. Select **Apply** to save.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Start playing a video, and press the **Ctrl + Alt + M** keyboard shortcut. You can unmute the sound by pressing **Ctrl + Alt + M** again. Pressing that hotkey both mutes and unmutes audio.
 
@@ -104,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
  The 65,535 in that command is NirCmd’s maximum decibel value. Clicking your new maximum audio desktop shortcut will max out playback volume. Thereafter, you can apply a hotkey to the max volume desktop shortcut just the same as for the mute one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create Volume Up and Down Hotkeys
@@ -120,15 +106,22 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 
 ![The changesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/changesysvolume-command.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that you can change the unit values in those commands. To configure a shortcut to increase volume more, for example, you could input **changesysvolume 5000** in the location box instead. Or enter **changesysvolume -10000** to decrease the decibel level by twice as much. However, all values must be below the maximum of 65,535\.
 
  When you’ve set up some desktop shortcuts for increasing and reducing volume, right-click them and select **Properties**. You can add new hotkeys to them with their **Shortcut key** boxes as outlined for the mute command. Then press the NirCmd volume up and down hotkeys to your heart’s content to increase and lower the decibel level.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up Custom Volume Control Hotkeys for a Specific App
@@ -153,6 +146,14 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 3. Click the **Mixer** tab to view a list of open apps.  
 ![The Mixer tab in Volume Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-mixer-tab.jpg)
 4. Press the **Select** button beside the software to which you want to assign the custom hotkeys.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the **Lock** checkbox to ensure the volume control hotkeys always remain assigned to the selected software.
 
  Try out the custom volume hotkeys you’ve set for the software. Play a video within your software if you can. Press the keyboard shortcuts you’ve assigned to the app to raise, lower, and mute its volume. Those hotkeys will only affect the app’s volume level and won’t change the general system sound beyond it. The Volume bar within the **Mixer** tab shows you the audio level for the software.
@@ -169,29 +170,6 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-audiovisual-power-evaluating-mirrorless-vs-dslr-cameras-for-2024/"><u>[New] Audiovisual Power Evaluating Mirrorless vs DSLR Cameras for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-dynamic-volume-control-tips-for-producers/"><u>[New] Dynamic Volume Control Tips for Producers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-guide-to-profiting-from-youtube-shorts-and-earning-potential-for-2024/"><u>[New] The Ultimate Guide to Profiting From Youtube Shorts & Earning Potential for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevate-your-streams-with-seamless-obspluszoom-integration/"><u>2024 Approved Elevate Your Streams with Seamless OBS+Zoom Integration</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtube-conversion-made-simple-learn-how-without-spending-a-dime/"><u>2024 Approved YouTube Conversion Made Simple – Learn How Without Spending a Dime</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-basics-of-windows-call-logging/"><u>Deciphering the Basics of Windows Call Logging</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/downloading-episodes-from-apple-daily-a-users-manual-to-obtaining-mp4-files-on-windows-and-macos-systems/"><u>Downloading Episodes From Apple Daily: A User's Manual to Obtaining MP4 Files on Windows and macOS Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unresponsive-context-menus-in-windows-oses/"><u>Fixing Unresponsive Context Menus in Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-nvidia-control-saving-functionality/"><u>Guidelines for Restoring Nvidia Control Saving Functionality</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insider-tips-for-finding-gpo-settings-on-pc/"><u>Insider Tips for Finding GPO Settings on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installation-tutorial-for-microsoft-pc-manager-in-win11/"><u>Installation Tutorial for Microsoft PC Manager in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-reactivating-your-ctrl-key/"><u>Mastering the Art of Reactivating Your Ctrl Key</u></a></li>
-<li><a href="https://article-posts.techidaily.com/superior-cameras-for-stop-motion-shorts/"><u>Superior Cameras for Stop Motion Shorts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-pairing-and-syncing-an-xbox-one-controller-when-connected-problems-arise/"><u>The Ultimate Guide to Pairing and Syncing an Xbox One Controller When Connected Problems Arise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-failed-app-launches-on-windows-systems/"><u>Troubleshooting Failed App Launches on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-fingertip-input-capabilities-in-windows-os/"><u>Unleashing Fingertip Input Capabilities in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-locked-windows-protection-in-windows-11/"><u>Unlocking Locked Windows Protection in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -199,3 +177,23 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-edit-like-a-pro-with-any-of-these-top-7-free-options/"><u>[New] 2024 Approved Edit Like a Pro with Any of These Top 7 Free Options</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-twitter-to-whatsapp-a-guide-to-sharing-online-videos/"><u>[Updated] 2024 Approved From Twitter to WhatsApp A Guide to Sharing Online Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ding-3d-video-entrance-design-tools/"><u>5 Leading 3D Video Entrance Design Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-clarity-to-unknown-direct-x-quirks-on-league-of-legends/"><u>Bringing Clarity to Unknown Direct X Quirks on League of Legends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-hp-officejet-pro-6968-printer-drivers-secure-download/"><u>Easy Access to HP OfficeJet Pro 6968 Printer Drivers - Secure Download</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-clear-filesfolders-from-your-pc-with-windows-10s-command-line/"><u>Efficiently Clear Files/Folders From Your PC with Windows 10'S Command Line</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-youtube-experience-with-chrome-tweaks/"><u>Enhance Your YouTube Experience with Chrome Tweaks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-find-x6-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo Find X6 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-strategies-rectifying-top-6-auto-gpt-hiccups/"><u>Key Strategies: Rectifying Top 6 Auto-GPT Hiccups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cursor-customization-in-windows-os/"><u>Mastering Cursor Customization in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-security-maze-windows-file-password-hacks/"><u>Navigating the Security Maze: Windows File Password Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obscured-wireless-connections-windows/"><u>Overcoming Obscured Wireless Connections Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-windows-alt-code-errors-53-characters/"><u>Steps to Recover Windows ALT Code Errors (53 Characters)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-immediately-restart-the-explorer-ui/"><u>Strategies to Immediately Restart the Explorer UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-11-snipping-tool-edits/"><u>The Ultimate Guide to Windows 11 Snipping Tool Edits</u></a></li>
+</ul></div>
+

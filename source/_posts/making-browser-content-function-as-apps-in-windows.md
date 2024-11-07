@@ -1,7 +1,7 @@
 ---
 title: Making Browser Content Function as Apps in Windows
-date: 2024-10-26T18:22:03.402Z
-updated: 2024-11-01T19:04:40.696Z
+date: 2024-11-03T09:03:59.445Z
+updated: 2024-11-07T00:56:25.757Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
  These apps are also often free of all the clutter that web browsers bring, including bookmarks, menus, and more. Then there is a full-screen benefit that allows you to use all the real estate for a distraction-free experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install a Website as an App Using Microsoft Edge
 
  Microsoft Edge has a handy feature to turn a website into an app. This is by far the easiest way to install a website as an app on Windows.
@@ -50,19 +43,6 @@ To install a website and app using Microsoft Edge:
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 4. In the**Install app** dialog, enter a name for the app. It is important to enter a custom name as Edge by default will use the web page name and not the website name.  
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 5. To change the app icon, click the**Edit** button and select an icon from your local drive.
 6. Click**Install** and wait for the app to be installed.
@@ -73,24 +53,25 @@ To install a website and app using Microsoft Edge:
 
  You can open the installed apps from the Start menu. Use the three-dots menu in the app's top right corner to access print, zoom, casting, and share options.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Uninstall An App in Microsoft Edge
 
 ![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also[remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Install Websites as App Using Google Chrome
 
@@ -104,13 +85,6 @@ To add a shortcut to a website as an app in Chrome:
 3. Next, go to**More Tools** and select**Create a shortcut** .  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 4. In the**Create a shortcut** pop-up, type a name for the app. Again, if you leave it default, Chrome will use the default web page name for the app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Next, select the**Open as window** option.
 6. Finally, click**Create to create** the website shortcut as an app.
@@ -129,10 +103,10 @@ To change the app icon:
 3. Click the**Change icon** button at the bottom.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![website-app-properties-shortcut-change-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut-change-icon.jpg)
@@ -157,10 +131,10 @@ To install a website as an app using WebCatalog:
 5. Enter a name for the app and then add the URL to the website.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Next, click**Select Local Image** and select an icon for the app.
@@ -175,9 +149,23 @@ To install a website as an app using WebCatalog:
 
 **Download** :[WebCatalog](https://webcatalog.io/pricing/) (Free, Premium $5 per month)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Convert Websites to Windows Apps Using Web2Desk
 
 ![web2 desk create app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/web2-desk-create-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Web2Desk lets you convert your favorite website to desktop apps. You can use it to create native app packages for desktop platforms, including OSX, Windows, and Linux.
 
@@ -216,24 +204,22 @@ To create a desktop app using Web2Desk:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-creating-momentum-in-life-coaching-video-series/"><u>[New] 2024 Approved Creating Momentum in Life Coaching Video Series</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-become-a-master-of-virtual-persona-design-metaverse-edition/"><u>[New] In 2024, Become a Master of Virtual Persona Design - Metaverse Edition</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/cambia-facilmente-tus-archivos-wma-a-mp3-sin-coste-con-el-convertidor-online-de-movavi/"><u>Cambia Fácilmente Tus Archivos WMA a Mp3 Sin Coste Con El Convertidor Online De Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deploying-ai-agents-using-agentgpt-from-a-web-browser-a-comprehensive-guide/"><u>Deploying AI Agents Using AgentGPT From a Web Browser: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/direct-platform-comparison-choosing-between-obs-and-twitch-studio-for-2024/"><u>Direct Platform Comparison Choosing Between OBS & Twitch Studio for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-elimination-preventing-wwe-crashes-on-your-pc/"><u>Efficient Elimination: Preventing WWE Crashes on Your PC</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/experience-unparalleled-playback-with-gom-player-on-windows-11-get-it-now-for-free/"><u>Experience Unparalleled Playback with GOM Player on Windows 11 - Get It Now, For Free!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-infinix-hot-40-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Hot 40 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ignite-your-windows-handbrake-magic/"><u>Ignite Your Windows HandBrake Magic</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-secure-your-gaming-memories-5-essential-vr-recording-methods/"><u>In 2024, Secure Your Gaming Memories 5 Essential VR Recording Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-solution-counteracting-windows-update-0x800f0922/"><u>Mastering the Solution: Counteracting Windows Update 0X800f0922</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-spotify-connectivity-woes-on-w10w11-computers/"><u>Resolving Spotify Connectivity Woes on W10/W11 Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secret-menu-sorcery-for-mastering-windows-11-stealth-features/"><u>Secret Menu Sorcery for Mastering Windows 11 Stealth Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-a-stuck-or-freezing-windows-itunes-app/"><u>Strategies for Fixing a Stuck or Freezing Windows iTunes App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-stopping-non-scrolling-wheel-woes/"><u>The Ultimate Guide to Stopping Non-Scrolling Wheel Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-bypassing-the-prohibited-feature-on-windows/"><u>Tips for Bypassing the 'Prohibited' Feature on Windows</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-mysql-repair-by-administrator-augusto-destrero-video-guide/"><u>Top MySQL Repair by Administrator Augusto Destrero - Video Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/whys-my-screen-mute-tips-for-google-meet-microphone-windows/"><u>Why's My Screen Mute? Tips for Google Meet Microphone (Windows)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-zippyzoom-tortoisepic-timestretch/"><u>[New] 2024 Approved ZippyZoom TortoisePic TimeStretch</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-prime-list-top-rated-camcorders-reviewed-for-2024/"><u>[New] The Prime List Top-Rated Camcorders Reviewed for 2024</u></a></li>
+<li><a href="https://techidaily.com/beginners-tutorial-on-boosting-cpu-performance-with-overclocking/"><u>Beginner's Tutorial on Boosting CPU Performance with Overclocking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-your-pcs-performance-horizon-with-cpu/"><u>Commanding Your PC's Performance Horizon with CPU</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-cities-skylines-crashing-problems-with-proven-solutions/"><u>Conquering Cities: Skylines Crashing Problems with Proven Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-speed-and-latency-monitors/"><u>Effective Speed and Latency Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-a-fully-active-windows-11-system/"><u>Ensuring a Fully-Active Windows 11 System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-swf-to-mpeg-converter-by-movavi-no-download-required/"><u>Free Online SWF to MPEG Converter by Movavi - No Download Required</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-recover-lost-or-absent-user32dll-files-effectively/"><u>Guide to Recover Lost or Absent User32.dll Files Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-check-the-stability-of-your-internet-connection-on-windows/"><u>How to Check the Stability of Your Internet Connection on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-arma-n-war-from-stuttering-advanced-user-guidelines/"><u>How to Prevent Arma N' War From Stuttering : Advanced User Guidelines</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ideal-choices-11-beginner-waterproof-cams-for-child-videographers/"><u>In 2024, Ideal Choices 11 Beginner Waterproof Cams For Child Videographers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stumbling-blocks-for-anydesk-on-win11/"><u>Overcoming Stumbling Blocks for AnyDesk on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-store-crashes-with-error-0x80073cf3/"><u>Tackling Microsoft Store Crashes with Error 0X80073CF3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-elderly-directx-experience-via-advanced-dxvk-support/"><u>Transforming Elderly DirectX Experience via Advanced DXVK Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-stop-ea-server-connections-problem/"><u>Troubleshooting Windows: Stop EA Server Connections Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-features-with-msixbundle-and-msix-package-installations/"><u>Unlocking Features with MSixBundle & MSIX Package Installations</u></a></li>
 </ul></div>
 

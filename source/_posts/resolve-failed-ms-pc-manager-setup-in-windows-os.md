@@ -1,7 +1,7 @@
 ---
 title: Resolve Failed MS PC Manager Setup in Windows OS
-date: 2024-09-05T19:32:01.459Z
-updated: 2024-09-06T19:32:01.459Z
+date: 2024-11-01T21:52:42.058Z
+updated: 2024-11-07T03:59:34.634Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fix MS PC Mgr Setup Failure,Resolve Computer Management Error,Stop MS 
 thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea52210199eb42f08b362eadc3328953.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolve Failed MS PC Manager Setup in Windows OS
 
  Microsoft PC Manager is a maintenance app that lets you optimize your system performance. It offers superfast malware removal, a one-click speed boost, and a full computer security check. At the time of writing, the app is in open beta. Therefore, it's very common to face issues with it.
@@ -32,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  If you still can't install the application after a system restart, try the next solution on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Temporarily Disable Your Antivirus
 
  Most antivirus programs come with a security feature that stops installing malicious applications onto the computer. Unfortunately, they can sometimes block trusted applications like the Microsoft PC Manager. If this is the case with you as well, consider disabling the antivirus program temporarily as a solution.
@@ -54,11 +42,12 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you're using a third-party antivirus program, you can disable it by right-clicking on its icon in the system tray and choosing the "Disable" option from the context menu. You can also go through the antivirus support pages to learn more about how to disable it.
 
  After disabling the security program, give a quick restart to your computer and check if the problem continues.
@@ -96,18 +85,6 @@ To delete the Temp folder, follow the below instructions:
 3. Select everything inside the Temp folder by pressing the**Ctrl + A** hotkeys.
 4. Press the**Shift + Delete** hotkeys to clear the Temp folder's content permanently.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 . Download Any Available Windows Updates
 
  Windows regularly releases updates to add new features and fix bugs and glitches. And from what it looks like, Microsoft PC Manager can fail to install on your computer due to a temporary glitch.
@@ -118,20 +95,22 @@ To delete the Temp folder, follow the below instructions:
 2. Click the**Check for updates** option.  
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows will now look for and download any available updates. Once the update is installed, restart your computer and check for the issue.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Fix Any Corrupted Files on Your Computer
 
  Another reason behind this issue is corruption within the system files. Fortunately, you can detect and fix these files by running an SFC scan. However, before we run the SFC scan, it is best to do a preliminary scan to ensure that the SFC tool is working properly.
@@ -148,11 +127,12 @@ To delete the Temp folder, follow the below instructions:
 ![Reset PC button in Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Reset-PC-.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you're still unable to install the Microsoft PC Manager, you can use the Windows Reset function. This will reinstall Windows, but it will keep all your personal files intact. Here's how to do it:
 
 1. Navigate to Settings > System > Recovery.
@@ -160,12 +140,6 @@ To delete the Temp folder, follow the below instructions:
 
 Next, follow the on-screen to complete the reset process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Optimize Your System With Microsoft PC Manager
 
  Microsoft PC Manager is the new way to optimize your system performance. The application is still in the beta phase; thus, it's common for it to run into issues now and then. If the Microsoft PC Manager fails to install on your computer, you now know what's causing the problem and how to fix it.
@@ -176,8 +150,6 @@ Next, follow the on-screen to complete the reset process.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +157,23 @@ Next, follow the on-screen to complete the reset process.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-state-of-the-art-gaming-capture-systems-not-just-fbx-files-for-2024/"><u>[New] State-of-the-Art Gaming Capture Systems, Not Just FBX Files for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-professionally-recorded-audio-via-audacity-for-2024/"><u>[Updated] Crafting Professionally Recorded Audio via Audacity for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/a-curators-choice-top-12-websites-to-steal-millions-of-favorite-pixels-for-2024/"><u>A Curator's Choice Top 12 Websites to Steal Millions of Favorite Pixels for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-pc-stability-fixes-top-tips-to-stop-game-crashes-now/"><u>Cyberpunk 2077 PC Stability Fixes – Top Tips to Stop Game Crashes Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-connect-your-pc-and-phone-using-unison-w11/"><u>How to Effortlessly Connect Your PC and Phone Using Unison W11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-13-pro-max-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 13 Pro Max using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-androids-video-recording-techniques-explored/"><u>In 2024, Android's Video Recording Techniques Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-misalignment-of-dual-apps-on-pc/"><u>Overcoming Misalignment of Dual Apps on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tips-for-text-modification-in-the-snipping-app/"><u>Pro Tips for Text Modification in the Snipping App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-1drive-errors-on-windows-11/"><u>Resolving 1Drive Errors on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-connectivity-woes-solutions-for-attempt-errors/"><u>Sidestep Connectivity Woes: Solutions for 'Attempt' Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-drivers-new-lenovo-yoga-rollout/"><u>Swift Drivers: New Lenovo Yoga Rollout</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/twelve-south-compass-pro-examination-innovatively-engineered-for-optimal-balance/"><u>Twelve South Compass Pro Examination: Innovatively Engineered for Optimal Balance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-classic-diablo-combat/"><u>Unraveling the Mystery of Classic Diablo Combat</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-shaky-cam-fcpx-video-stabilization-made-easy/"><u>Updated Say Goodbye to Shaky Cam FCPX Video Stabilization Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-elevating-valorant-gameplay/"><u>Winning Strategies: Elevating Valorant Gameplay</u></a></li>
+</ul></div>
 

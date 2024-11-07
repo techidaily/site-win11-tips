@@ -1,7 +1,7 @@
 ---
 title: "Revitalize Your Text Editor Experience: 7 Troubleshooting Tips for Windows"
-date: 2024-10-27T16:37:45.140Z
-updated: 2024-11-01T16:43:10.816Z
+date: 2024-11-02T18:36:48.716Z
+updated: 2024-11-06T19:44:43.047Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set Notepad as the Default Text Editor
 
  If Notepad is not set as the default text editor app on Windows, your text files may open in a different app. If you don't want that, use these steps to set Notepad as the default text editor app.
@@ -55,7 +48,27 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 7. Select**Notepad** and click the**Set default** button.  
 ![Set Notepad as Default Text Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-notepad-as-default-text-editor-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Try opening a few text files and see if they open in Notepad.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Repair or Reset the Notepad App
 
@@ -70,6 +83,13 @@ To repair the Notepad app on Windows:
 5. Scroll down to the Reset section and click the**Repair** button.  
 ![Repair or Reset the Notepad App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-notepad-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You should see a checkmark next to the Repair button once the process is complete. Then, try to[open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
 
  If repairing the Notepad app does not make any difference, you can try resetting it. Here are the steps for the same.
@@ -79,6 +99,19 @@ To repair the Notepad app on Windows:
 3. Under the Reset section, click the**Reset** button.
 
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Notepad App
 
@@ -91,31 +124,11 @@ To repair the Notepad app on Windows:
 ![Uninstall Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-notepad-app-on-windows.jpg)
 5. Wait for Windows to uninstall Notepad from your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Next, click the**View features** button at the top.
 7. Type**Notepad** in the search box.
 8. Tick the**Notepad (system)** checkbox and click**Next** .
 9. Click**Install** .  
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
 
@@ -158,22 +171,15 @@ To create a new user account on Windows:
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Start Using Notepad Again
 
@@ -194,20 +200,24 @@ To create a new user account on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-beginning-usage-of-google-meet-services/"><u>2024 Approved Beginning Usage of Google Meet Services</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-balancing-act-creative-freedom-vs-major-company-support/"><u>2024 Approved The Balancing Act Creative Freedom vs Major Company Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/debugging-code-0xc0000142-on-windows-oses/"><u>Debugging Code 0XC0000142 on Windows OSes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/dynamic-display-and-distribution/"><u>Dynamic Display and Distribution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-system-performance-with-clean-media-consumption/"><u>Enhancing System Performance with Clean Media Consumption</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tuning-memory-allocation-by-antivirus-software/"><u>Fine-Tuning Memory Allocation by Antivirus Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/glide-3-duel-illusionist-4-emerges/"><u>Glide 3 Duel Illusionist 4 Emerges</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-v2-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Magic V2 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-modify-user-numbers-in-tiktok/"><u>In 2024, Innovative Approaches to Modify User Numbers in TikTok</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-xs-100-i-the-ultimate-polaroid-for-action-enthusiasts/"><u>In 2024, XS 100 I - The Ultimate Polaroid for Action Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterclass-on-customizing-programs-for-windows-11-users/"><u>Masterclass on Customizing Programs for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-reopening-calendars-and-mail/"><u>Mastering the Art of Reopening Calendars and Mail</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/l-media-shifts-yearly-data-visualization-guide/"><u>Social Media Shifts Yearly Data Visualization Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-the-best-voice-changer-for-youtubers-for-2024/"><u>What’s the Best Voice Changer for YouTubers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11s-start-menu-uncluttered-by-ads/"><u>Win 11'S Start Menu - Uncluttered by Ads</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-learn-how-to-solve-common-issues-for-youtube-shorts/"><u>[New] 2024 Approved Learn How to Solve Common Issues for YouTube Shorts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-stabilizing-handheld-gopro-videos/"><u>[New] Mastering the Art of Stabilizing Handheld GoPro Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pixel-perfection-combining-computer-photos/"><u>[New] Pixel Perfection Combining Computer Photos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-diving-deep-into-quality-top-cameras-reviewed/"><u>[Updated] 2024 Approved Diving Deep Into Quality Top Cameras Reviewed</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-borrow-it-free-a-step-by-step-guide-to-retrieving-lost-footage-from-your-dji-drone/"><u>1. [Borrow It Free!]: A Step-by-Step Guide to Retrieving Lost Footage From Your DJI Drone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-share-multiple-pictures-on-facebook-expert-strategies-revealed/"><u>Effortlessly Share Multiple Pictures on Facebook: Expert Strategies Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ending-cortana-interaction-in-windows-11/"><u>Ending Cortana Interaction in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-paste-as-plain-text-and-mouse-jump-features-in-powertoys/"><u>How to Use the Paste as Plain Text and Mouse Jump Features in PowerToys</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-error-code-0x80072f8f-detailed-walkthroughs-to-overcome-issues-in-windows-11-and-10/"><u>Mastering Error Code 0X80072f8f: Detailed Walkthroughs to Overcome Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-note-visualization-obsidian-canvas-techniques/"><u>Mastering Note Visualization: Obsidian Canvas Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rediscover-the-hidden-bring-off-screen-windows-into-view-in-win10win11/"><u>Rediscover the Hidden: Bring Off-Screen Windows Into View in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-up-productivity-employing-flow-launcher-in-windows-operations/"><u>Step Up Productivity: Employing Flow Launcher in Windows Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/success-strategies-to-fixed-installation-failure-in-oculus-ws11ws10/"><u>Success Strategies to Fixed Installation Failure in Oculus WS11/WS10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-definitive-guide-to-reactivating-explore-in-windows-11/"><u>The Definitive Guide to Reactivating Explore in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-blueprint-for-striking-youtube-channel-designs-for-2024/"><u>The Ultimate Blueprint for Striking YouTube Channel Designs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-mastering-partition-unification-in-windows/"><u>The Ultimate Guide to Mastering Partition Unification in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-methods-for-converting-wmv-files-to-premium-quality-mp3-on-your-mac/"><u>Top Methods for Converting WMV Files to Premium-Quality MP3 on Your Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-win-text-storage-potential-incorrante-passwords/"><u>Unlocking Win Text Storage Potential: Incorrante Passwords</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
 </ul></div>
 

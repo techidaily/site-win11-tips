@@ -1,7 +1,7 @@
 ---
 title: Perfecting Wins Alert Settings on Windows 11
-date: 2024-09-11T01:20:51.798Z
-updated: 2024-09-12T01:20:51.798Z
+date: 2024-11-05T21:26:37.362Z
+updated: 2024-11-07T02:52:43.357Z
 tags:
   - windows10
   - windows11
@@ -20,37 +20,9 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  Read on as we discuss what widgets are and how you can manage widget notifications on Windows 11\.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## What Are Widgets in Windows 11?
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Widgets are your personalized gateway to essential information updates on topics that interest you. On Windows 11, you’re presented with a dedicated Widgets panel filled with a dynamic array of cards and quickly accessible through the taskbar. You can also [add widgets to Windows 11's desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
 
@@ -62,19 +34,12 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  If you haven't yet, we recommend [getting started with Windows 11's widgets](https://www.makeuseof.com/windows-11-widgets-starter-tips/). Once you're all set up with a selection of widgets that are relevant to your interests, you can then refine them further by tweaking how their notifications appear.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## The Two Different Kinds of Widget Notifications on Windows 11
 
@@ -84,25 +49,12 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  Furthermore, widgets make use of a badge notification to catch your eye when there are important updates about the weather or news. If you want to know more about the notification, you can open the Widgets panel and see what caused the notification to appear.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Change the Notification Settings for Widgets on Windows 11
 
@@ -116,36 +68,23 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 ![change widget notifications on Windows 11 through the Widgets panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/whatsapp-image-2023-08-13-at-20-26-38.jpeg)
 2. Click on the profile picture icon to open Widget settings.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 3. Under the **Widget taskbar behaviors**, toggle the **Show notification badges** and **Show announcements** options as per your preference.
 
  Ideally, you want to show announcements for widgets that are very relevant to your interests—the topics you want instant updates on. Badge notifications without announcements are good for more casual interests that you don't want disturbing you every time something happens, and rarely-used widgets can have all of these disabled.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Widgets Make Using Windows 11 Easy
 
@@ -153,11 +92,33 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  Read on as we discuss what widgets are and how you can manage widget notifications on Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-skype-call-recording-for-windows-os-x-users/"><u>[New] 2024 Approved Skype Call Recording for Windows, OS X Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-assemble-unique-meme-creations-with-ease/"><u>[New] Assemble Unique Meme Creations with Ease</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-perfecting-the-art-of-twitter-broadcasts/"><u>[New] In 2024, Perfecting the Art of Twitter Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors/"><u>[New] Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-iphones-leading-selfie-aids-8-edition/"><u>2024 Approved Iphone's Leading Selfie Aids - #8 Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-essentials-of-earning-on-youtube-platforms/"><u>2024 Approved The Essentials of Earning on YouTube Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-new-microsoft-surface-go-3-cpu-upgrade-and-drawbacks/"><u>Dissecting the New Microsoft Surface Go 3: CPU Upgrade & Drawbacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-frustration-of-frequent-ps4-remote-disconnects-on-pc/"><u>Eliminating the Frustration of Frequent PS4 Remote Disconnects on PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/youtube-endings-that-stand-out-ranked-for-2024/"><u>Free YouTube Endings That Stand Out - Ranked for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-principles-for-activating-windows-11s-higher-power/"><u>Guiding Principles for Activating Windows 11'S Higher Power</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-youtube-content-management-for-instagram-profiles/"><u>In 2024, YouTube Content Management for Instagram Profiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/manipulate-your-search-and-highlight-settings-in-windows-11/"><u>Manipulate Your Search & Highlight Settings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-wintoys-an-efficient-and-comprehensive-guide-to-a-versatile-window-utility/"><u>Mastering 'WinToys': An Efficient and Comprehensive Guide to a Versatile Window Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reprogramming-fn-keys-in-windows-11-systems/"><u>Reprogramming FN Keys in Windows 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-2010-spreadsheet-disappears-after-opening-stellar-by-stellar-guide/"><u>Solved Excel 2010 Spreadsheet Disappears after Opening | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-choose-best-timeclock-saver-apps/"><u>Speed Up Your PC: Choose Best Time/Clock Saver Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-flapping-windows-task-timer/"><u>Swift Fixes for Flapping Windows Task Timer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-10-fixes-reconnect-your-controller-with-steam-on-pc/"><u>Top 10 Fixes: Reconnect Your Controller with Steam on PC</u></a></li>
+</ul></div>
+

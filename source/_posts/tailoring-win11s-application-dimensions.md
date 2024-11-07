@@ -1,7 +1,7 @@
 ---
 title: Tailoring Win11's Application Dimensions
-date: 2024-10-30T19:33:55.870Z
-updated: 2024-11-01T16:05:50.621Z
+date: 2024-11-05T03:10:17.813Z
+updated: 2024-11-06T21:12:47.665Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Custom Sizes for Software With WinSize2
 
  WinSize2 is another free tool for setting preset window sizes. This one is a portable app, which means it can run with no installation needed.
@@ -72,16 +79,10 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 6. Make sure**Show extracted files** is selected within the extraction utility.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
@@ -93,16 +94,10 @@ Now it's time to use WinSize2 to size our windows:
 2. Then open the software window for which to set the size.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Make sure the software window you’ve opened is the selected (active) window.
@@ -113,13 +108,6 @@ Now it's time to use WinSize2 to size our windows:
  The**always** checkbox for width and height will be selected by default, which locks the window's size so you can’t resize it with the cursor. If you prefer that option to be disabled, deselect the**always** box. Press the**Change** button, and click**OK** to apply.
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
 
@@ -134,10 +122,10 @@ Now it's time to use WinSize2 to size our windows:
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
@@ -159,17 +147,24 @@ Now it's time to use WinSize2 to size our windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-cutting-edge-tools-for-next-gen-live-streams-for-2024/"><u>[New] Cutting-Edge Tools for Next-Gen Live Streams for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-roadmap-to-increasing-traffic-top-techniques-for-fb-video-ads/"><u>[New] In 2024, The Roadmap to Increasing Traffic Top Techniques for FB Video Ads</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream-for-2024/"><u>[New] SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-ultimate-3d-experience-guide-to-top-blu-ray-players/"><u>[Updated] Ultimate 3D Experience Guide to Top Blu-Ray Players</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-animators-toolkit-samples-for-2024/"><u>Advanced Animator's Toolkit Samples for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-budget-friendly-methods-for-youtube-card-creation/"><u>In 2024, Budget-Friendly Methods for YouTube Card Creation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-gaming-potential-tackling-fps-challenges-in-valorant/"><u>Maximize Gaming Potential: Tackling FPS Challenges in Valorant</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-sleep-how-to-schedule-idle-time-out-on-windows-11/"><u>Secure Sleep: How to Schedule Idle Time-Out on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-0xc0000005-problem-in-windows/"><u>Strategies to Resolve 0Xc0000005 Problem in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-overcoming-windows-11-error/"><u>Understanding and Overcoming Windows 11 Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-the-yearly-update-plan-means-for-your-windows-11-experience/"><u>What The Yearly Update Plan Means for Your Windows 11 Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-4k-hdtv-monitors-for-gameplay-excellence/"><u>[New] Best 4K HDTV Monitors for Gameplay Excellence</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-origami-inspired-miniature-asian-abodes-in-mc/"><u>[Updated] 2024 Approved Origami-Inspired, Miniature Asian Abodes in MC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-ultimate-ff-downloader-suite-for-social-video-grabs/"><u>[Updated] 2024 Approved Ultimate FF Downloader Suite for Social Video Grabs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-androids-best-shot-fixer-duo-for-2024/"><u>[Updated] Android's Best Shot Fixer Duo for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-choosing-channels-tiktok-vs-youtube-shorts-insights/"><u>[Updated] In 2024, Choosing Channels TikTok vs YouTube Shorts Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/chrome-funktion-erlaubt-nun-das-automatische-loschen-heruntergeladener-dateien-und-mediendateien/"><u>Chrome-Funktion Erlaubt Nun Das Automatische Löschen Heruntergeladener Dateien Und Mediendateien</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparable-digital-painting-apps-for-windows/"><u>Comparable Digital Painting Apps for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-sandisk-software-for-windows-11-a-step-by-step-tutorial/"><u>Download & Install SanDisk Software for Windows 11 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-windows-update-due-to-0x800f0845/"><u>Fixing Failed Windows Update Due to 0X800f0845</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-x8b-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor X8b is off? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintain-an-organized-filespace-configuring-auto-delete-on-windows-11/"><u>Maintain an Organized Filespace: Configuring Auto Delete on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-opening-system32-in-win11/"><u>Steps for Opening System32 in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-increase-windows-10-and-11-pin-size/"><u>Strategies to Increase Windows 10 & 11 Pin Size</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-top-8-benefits-of-integrating-artificial-intelligence-in-education-a-guide-for-teachers/"><u>The Top 8 Benefits of Integrating Artificial Intelligence in Education: A Guide for Teachers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-lost-screen-mirroring-on-pc/"><u>Troubleshooting Lost Screen Mirroring on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-veiled-query-power-of-windows-11-bar/"><u>Unleashing Veiled Query Power of Windows 11 Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-interface-overhaul-explorer-upgrades/"><u>Unveiling Windows 11'S Interface Overhaul: Explorer Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-embrace-dxvk-for-a-better-windows-gaming-experience/"><u>Why Embrace DXVK for a Better Windows Gaming Experience?</u></a></li>
 </ul></div>
 

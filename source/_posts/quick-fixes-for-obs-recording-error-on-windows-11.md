@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for OBS Recording Error on Windows 11
-date: 2024-10-29T17:57:51.962Z
-updated: 2024-11-01T16:11:24.227Z
+date: 2024-10-31T12:19:16.252Z
+updated: 2024-11-07T08:23:51.104Z
 tags:
   - windows10
   - windows11
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
  To restart OBS Studio, open the**Task Manager** (see how to[open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ), right-click on OBS Studio, and choose**End Task.** Then, search for OBS Studio in the**Start Menu** and choose**Open** from the right pane.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Temporarily Disable Your Graphics Driver
@@ -64,14 +58,14 @@ Here's what you need to do:
 
 ![Enable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-device.jpg)
 
- That's it! Return to OBS Studio and check if you are able to record.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ That's it! Return to OBS Studio and check if you are able to record.
 
 ## 3\. Allow OBS Studio Through Your Firewall
 
@@ -87,10 +81,10 @@ Here's what you need to do:
 6. Navigate to the location where you have installed the OBS Studio.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Select the**obs-ffmpeg-mux** executable file and click**Open.**  
@@ -100,6 +94,19 @@ Here's what you need to do:
 ![Private and Public boxes for OBS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/private-and-public-boxes.jpg)
 
 Restart your computer and check if the problem continues.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fix the Missing DLL Files
 
@@ -116,6 +123,13 @@ swresample-2.dll`
 3. Follow our guide on[how to fix DLL files missing on Windows](https://www.makeuseof.com/tag/dll-files-missing-errors/) to repair the missing file.
 
 Restart your computer and check for the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Edit the OBS-Ffmpeg-Mux Installation Folder
 
@@ -134,14 +148,14 @@ You can do that by following the below instructions:
 `C:\Program Files (x86)\obs-studio\bin\32bit;`  
 ![Edit Variable in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-variable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it! Now, start recording in OBS Studio and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check for Corrupted or Missing Files
 
@@ -157,37 +171,11 @@ You can do that by following the below instructions:
 
  While you're at the OBS Studio home screen, check for and download any available updates. To do that, click**Help** and choose**Check for Updates** .
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall OBS Studio
 
  If you're still getting the error message, you're left with no option other than reinstalling OBS Studio. To do that, first[uninstall OBS Studio from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
  Then, visit the[OBS Studio official website](https://obsproject.com/) , and download and install the latest version on your computer.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Seamless Recording With OBS Studio
 
@@ -208,24 +196,20 @@ You can do that by following the below instructions:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-screen-selection-simplified-find-the-best-display-for-xbox-series-x/"><u>[New] In 2024, Screen Selection Simplified - Find the Best Display for Xbox Series X</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-bumper-bliss-kids-car-games-galore-for-2024/"><u>[Updated] Bumper Bliss Kids Car Games Galore for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-iphoneipad-advanced-screen-recording-tips-new-methods-2023-for-2024/"><u>[Updated] IPhone/iPad Advanced Screen Recording Tips - New Methods 2023 for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-master-your-mp3-ultimate-guide-to-youtube-converters/"><u>[Updated] Master Your MP3 Ultimate Guide to YouTube Converters</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-guide-on-downloading-and-installing-epson-v600-printer-drivers/"><u>Complete Guide on Downloading and Installing Epson V600 Printer Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fortifying-your-system-tpm-and-secure-boot-before-w11-installation/"><u>Fortifying Your System: TPM and Secure Boot Before W11 Installation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-ensure-your-iphones-alarm-works-every-time-solutions-inside/"><u>How To Ensure Your iPhone's Alarm Works Every Time – Solutions Inside</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-cursor-display-clarity-in-windows-oses/"><u>Improving Cursor Display Clarity in Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-in-minutes-5-quick-command-prompt-tricks/"><u>Mastery in Minutes: 5 Quick Command Prompt Tricks</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/merging-footage-in-davinci-resolve-made-simple-and-best-alternative-methods/"><u>Merging Footage in DaVinci Resolve Made Simple & Best Alternative Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-exit-code-1-on-pc-with-minecraft/"><u>Overcoming Exit Code 1 on PC with Minecraft</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unrecognized-interfaces-with-ease-in-windows/"><u>Overcoming Unrecognized Interfaces with Ease in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-broken-huion-pen-top-5-quick-fixes-for-immediate-relief/"><u>Revive Your Broken Huion Pen - Top 5 Quick Fixes for Immediate Relief</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-virtualization-your-guide-to-implementing-hyper-v-in-win-11-homes/"><u>Simplify Virtualization: Your Guide to Implementing Hyper-V in Win 11 Homes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocketing-vm-efficiency-on-windows-with-six-tips/"><u>Skyrocketing VM Efficiency on Windows with Six Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-the-0x0000011b-error-in-win11/"><u>Troubleshooting: Resolving the 0X0000011B Error in Win11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/ultimate-directory-where-to-download-youtube-ringtones-for-2024/"><u>Ultimate Directory Where to Download YouTube Ringtones for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-for-qt-engine-startup-failure-in-programming/"><u>Unveiling Solutions for Qt Engine Startup Failure in Programming</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y56-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y56 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-digital-symphony-adding-tracks-to-youtube-hub/"><u>[New] In 2024, Digital Symphony Adding Tracks to Youtube Hub</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-navigating-the-soundscape-downloading-and-instaling-vrecorder-for-2024/"><u>[New] Navigating the Soundscape Downloading and Instaling VRecorder for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-how-to-use-story-remix-to-edit-a-video-in-windows-10-photos/"><u>[Updated] In 2024, How to Use Story Remix to Edit a Video in Windows 10 Photos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-tutorial-acquiring-and-implementing-arduino-control-software-for-windows-users/"><u>Comprehensive Tutorial: Acquiring & Implementing Arduino Control Software for Windows Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-6-plus-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dispatching-opengl-problem-code-3-on-nvidia-windows/"><u>Dispatching OpenGL Problem Code 3 on Nvidia, Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-share-error-messages-with-nvidias-gui/"><u>Eliminating Share Error Messages with NVIDIA’s GUI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-flaky-snipshot-commands-on-pc/"><u>Enabling Flaky Snipshot Commands on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-ignoring-invalid-security-notices-from-chrome-browser/"><u>Guide: Ignoring Invalid Security Notices From Chrome Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-supercharge-system-controls-running-task-manager-admin-wise-on-win11/"><u>How to Supercharge System Controls: Running Task Manager Admin-Wise on Win11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-superb-online-stores-where-to-find-and-purchase-youtube-ringtones/"><u>In 2024, Superb Online Stores Where to Find & Purchase YouTube Ringtones?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-not-an-empty-directory-error-code-0x80070091-in-windows-11/"><u>Overcome Not an Empty Directory Error Code 0X80070091 in Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-rated-motion-graphics-software-for-text-tracking/"><u>Updated In 2024, Top-Rated Motion Graphics Software for Text Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/whats-behind-win32keygen-understanding-its-effect-on-pc-safety/"><u>What's Behind Win32/Keygen? Understanding Its Effect on PC Safety</u></a></li>
 </ul></div>
 

@@ -1,0 +1,169 @@
+---
+title: "Streamline Storage: Recognizing Excessive Disk Use Windows Style"
+date: 2024-11-05T00:47:33.608Z
+updated: 2024-11-07T07:59:21.991Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Streamline Storage: Recognizing Excessive Disk Use Windows Style"
+excerpt: "This Article Describes Streamline Storage: Recognizing Excessive Disk Use Windows Style"
+keywords: Streamlined Storage,Excess Disk Usage,Windows Disk Space,Optimize File Management,Minimize Hard Drive Clutter,Efficient Storage Solutions,Reduce Disk Consumption
+thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643d60a66bb372b318524a5b70.jpg
+---
+
+## Streamline Storage: Recognizing Excessive Disk Use Windows Style
+
+ Does your device run out of memory frequently? Do you often scratch your head, wondering what is taking up all that space on your drive but can't figure out what it is? It's nothing out of the ordinary; every Windows user faces the issue of insufficient disk space sooner or later.
+
+ Thanks to Microsoft, finding the apps, documents, and files taking up most of your disk space on Windows and cleaning that space by removing extraneous clutter is now easier than ever. If that's your goal, read on to find out how to get there.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## First, Locate the Overpopulated Disk Drive
+
+ Have you partitioned your hard disk into several drives? If you have, check which drive(s) consumes the most space. Do not let the percentage of occupied space fool you; instead, look at the size of the filled territory in GBs. The partition containing more GB of data is more crowded. However, how can you find out which drives are overloaded?
+
+ Open Windows File Explorer and click on**This PC** . Among all the partitions you've created on your drive, identify the ones that contain the most data.
+
+![Viewing Storage Space Filled in Different Drives on File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/viewing-storage-space-filled-in-different-drives-on-file-explorer.jpg)
+
+ Having found that, let's look at how to find the data type that occupies the most space.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Identify the Data Type Occupying the Most Space on Your Crowded Drive
+
+ Applications and games, system and temporary files, garbage on the desktop, and other data do not take up the same amount of disk space. While some consume hardly any space, others occupy a considerable amount.
+
+ Determining which type of data consumes the most space on your drive can help free up space more effectively. Here's how you can find out:
+
+1. Right-click on the Windows**Start** button and then click**Settings** .
+2. From the left sidebar, select the**System** tab.
+3. In the right pane, click**Storage** .
+4. In this section, you can see what type of data occupies the most space on your currently crowded and other drives.
+5. Click on**Show more categories** to view other categories that occupy the most real estate.  
+![Opening the Show More Categories Option in the Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-opening-the-show-more-categories-option-in-the-storage-tab-of-windows-settings-app.jpg)
+
+ Ideally, you should start clearing space from the category that consumes the most space on your hard drive. For instance, if apps and features occupy the bulk of your storage, you should free that up first.
+
+## How to Free Up Your Windows Storage Drive
+
+ Typically, three data types take up most of your drive space: apps and features, system and reserved files, and temporary files. Hence, reducing the burden of these data types can effectively free up your drive space. Let's see how you can accomplish that.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 1\. Manage Your Apps and Features
+
+Follow these steps to remove extra apps and features:
+
+1. Navigate to**Settings > System > Storage** .
+2. Select the drive you wish to free up space on.
+3. Click on**Show more categories** .
+4. Then click on**Apps and Features** .
+5. Select**Size (Large to small)** from the dropdown menu next to**Sort by** .  
+![Sorting the Installed Apps by Size in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-sorting-the-installed-apps-by-size-in-windows-settings-app.jpg)
+6. Determine which apps are redundant and taking up the most disk space.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+7. Click the**three vertical dots** next to each app and click**Uninstall** .  
+![Uninstalling the App by Clicking on Three Vertical Dots Next to it in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-uninstalling-the-app-by-clicking-on-three-vertical-dots-next-to-it-in-windows-settings.jpg)
+8. Repeat the above step for all apps you find hefty, and you should be able to free up quite a bit of space.
+
+ If your operating system lives on the same overcrowded disk, the system and reserved files could be the next big space eater.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2\. Manage System and Reserved Files Storage
+
+ Be cautious when managing the disk space used by the system and reserved files, as deleting essential files could cause unexpected problems. The overall storage occupied by the system and reserved files is normally divided into five categories: system files, reserved storage, virtual memory, hibernation file, and system restore files.
+
+![Managing System and Reserved Files Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-managing-system-and-reserved-files-storage-in-storage-tab-of-windows-settings-app.jpg)
+
+ Space consumed by system files, reserved storage, and virtual memory is actually used by your device to perform its functions; refrain from deleting files contained therein. Therefore, there are only two types of storage left to manage; the hibernation file and the space reserved for System Restore. This raises the question: can you free this up?
+
+ Although you can disable the hibernation mode, you shouldn't do so if you frequently use this feature for keeping in-use apps open while the device is in hibernation. However, this feature takes up a lot of space in GBs, so if you aren't using it, you can free some room. Our guide on[if you should delete the Hiberfil.sys file on Windows](https://www.makeuseof.com/tag/delete-hiberfil-sys-windows-10/) will walk you through every step.
+
+ Likewise, restore points consume a considerable amount of storage, but it is worth it since it allows you to restore your device to a previous point in time if something goes wrong. However, having multiple restore points would be a waste of space on the hard drive. Therefore, it is recommended to[delete any extra restore points on Windows](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) you created.
+
+### 3\. Manage Temporary Files Storage
+
+ Temporary files usually consume the most space on your drives after system files and installed applications. As their name implies, they are temporary files that only speed up Windows processes. Does that mean you can safely delete them? Yes, but you'll need to be careful. Here are some tips for clearing temporary files wisely:
+
+* Delete temporary files from the**Downloads** folder only if you have moved them elsewhere already and all that is left are duplicates.
+* Delete**Windows upgrade log files** only if you are not experiencing any problems upgrading Windows.
+* Delete**Thumbnails** ,**Delivery Optimization Files** , and**Temporary Internet Files** .
+* Don't delete**Recycle Bin** data unless you're confident you won't need to restore it later.
+
+![Managing the Temporary File Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/6-managing-the-temporary-file-storage-in-storage-tab-of-windows-settings-app.jpg)
+
+ With these tips, you'll hopefully be able to free up a significant amount of space that was previously unnecessarily occupied. Are you still running low on disk space? If so, then your device's storage drive is not large enough. So, upgrade it to accommodate your data more effectively.
+
+ If you decide to go this route, check out our roundup of[best NVMe SSDs for faster performance](https://www.makeuseof.com/tag/best-nvme-ssds/) first.
+
+## Avoid Cluttering Up Your Precious Disk Space
+
+ Having insufficient disk space and not knowing what's causing it can be a horrible experience. Hopefully, using the tips in this article, you will be able to identify what apps and files are draining your disk storage the most.
+
+ If they are safe to delete, wipe them out. If not, move them to a different drive with more disk space left and relieve some of the pressure from an overfilled drive.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-10-top-picks-for-no-cost-zoom-and-screenshare-for-2024/"><u>[New] 10 Top Picks for No-Cost Zoom & Screenshare for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-dissecting-shake-mitigation-is-it-vital-for-photoshop-users/"><u>[New] 2024 Approved Dissecting 'Shake' Mitigation - Is It Vital for Photoshop Users?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-understanding-the-impact-of-macos-11-big-sur-on-users/"><u>[New] 2024 Approved Understanding the Impact of macOS 11 Big Sur on Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-your-virtual-connections-with-zoom/"><u>[New] Streamline Your Virtual Connections with Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-2023s-ios-leading-psp-emulators-ranked-the-creme-de-la-creme/"><u>[Updated] In 2024, 2023'S iOS Leading PSP Emulators Ranked The Crème De La Crème</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-sound-loads-in-inshot-editing-software-for-2024/"><u>[Updated] Mastering Sound Loads in InShot Editing Software for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-enabledisable-registry-access-in-win11/"><u>Command: Enable/Disable Registry Access in Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-fix-for-the-elusive-mfc4eb0adll-not-found-or-missing-error/"><u>Detailed Fix for the Elusive MFC4EB0A.dll: Not Found or Missing Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-add-outlook-preview-on-pcs/"><u>Essential Tips to Add Outlook Preview on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-multilingual-typography-downloading-windows-fonts/"><u>Mastering Multilingual Typography: Downloading Windows Fonts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-winos-isdonedll-issues/"><u>Navigating Through WinOS ISDone.dll Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-error-lost-files-permission-in-steam-window-11/"><u>Remedy Error: Lost Files Permission in Steam, Window 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-superior-control-over-window-panel/"><u>Securing Superior Control Over Window Panel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-dilemma-of-missing-d3dx928dll-files-a-comprehensive-guide/"><u>Solving the Dilemma of Missing d3dx9_28.dll Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-your-steam-games-inability-to-start-under-windows-11-operating-system/"><u>Solving Your Steam Games' Inability to Start Under Windows 11 Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unseen-solutions-to-windows-monitoring-woes/"><u>Unseen Solutions to Windows Monitoring Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-file-harmony-aoemis-sync-solution-tutorial/"><u>Windows File Harmony: AOEMi's Sync Solution Tutorial</u></a></li>
+</ul></div>
+

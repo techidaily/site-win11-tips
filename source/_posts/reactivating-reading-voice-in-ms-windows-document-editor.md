@@ -1,7 +1,7 @@
 ---
 title: Reactivating Reading Voice in MS Windows Document Editor
-date: 2024-09-05T19:32:01.801Z
-updated: 2024-09-06T19:32:01.801Z
+date: 2024-11-05T22:29:21.578Z
+updated: 2024-11-07T08:19:01.991Z
 tags:
   - windows10
   - windows11
@@ -14,30 +14,12 @@ keywords: Reading Voice Edit,MS Word Reactive Use,MS Windows Readback,Doc Editor
 thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065dd6fb56cbf786d1e09002e10.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reactivating Reading Voice in MS Windows Document Editor
 
  Read Aloud is a great productivity feature, especially when you want to give your eyes a break. You can have Word read the document for you starting from your cursor and even pause or skip forward and backward to re-listen to important parts.
 
  So it’s definitely inconvenient when Word’s Read Aloud feature stops working. If this happened to you, there’s no need to fret. We’ve put together a quick guide that will help you fix the issue.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart Microsoft Word
 
  As always, when dealing with a program malfunction, you should restart it. If there’s a temporary glitch, closing and re-launching Microsoft Word might be enough to fix the issue. Once you close Microsoft Word, make sure there’s no background process still running.
@@ -46,26 +28,8 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 
 ![Stop Word processes from running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/end-word-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open Word and check if the problem is now solved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Enable the Read Aloud Feature
 
  You can also have Word read the document for you by pressing **Ctrl + Alt + Space**. If nothing happens when using this keyboard shortcut and Read Aloud seems to be missing from the Ribbon menu, you should enable the feature. Here’s how you can do it:
@@ -82,11 +46,12 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 ![Enable Word's read aloud feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-read-aloud-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, the Read Aloud feature should be available in the **Review** tab, within the **Speech** menu.
 
 ## 3\. Check Volume Mixer Settings
@@ -98,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 ![Check Volume Mixer settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/word-mixer-1.jpg)
 
  If there’s nothing wrong with the Volume Mixer settings, move on to the next solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update Microsoft 365
 
@@ -113,6 +85,7 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Repair the Word Doc
 
  If you notice the Read Aloud issue is limited to an individual document, there’s a chance you’re dealing with a corrupted Word doc. If possible, re-download the document or ask the sender for a different version.
@@ -128,11 +101,12 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
  Microsoft Word will now search and automatically fix any detected issues.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Repair Microsoft 365
 
 [Windows has plenty of built-in repair tools](https://www.makeuseof.com/tag/5-free-tools-fix-problem-windows-10/) to help you when running into a problem. So if Word is still giving you the silent treatment, go through the steps below:
@@ -145,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 6. Select **Quick Repair** and click **Repair** to start the process.
 
 ![Repair Microsoft 365 in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the Read Aloudfeature is still not working, go through the steps again and select **Online Repair**.
 
@@ -162,12 +143,6 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 
 ![Manage word add-ins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/word-addins-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Word Reading Your Docs Aloud
 
  Hopefully, one or more of the fixes above helped you fix the problem. If you’re facing the same issue, it might be time to reinstall Microsoft 365 or contact Microsoft support and let them know about the problem.
@@ -176,11 +151,27 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 
  So it’s definitely inconvenient when Word’s Read Aloud feature stops working. If this happened to you, there’s no need to fret. We’ve put together a quick guide that will help you fix the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-practical-ways-to-archive-online-discussions/"><u>[New] 2024 Approved Practical Ways to Archive Online Discussions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-ultimate-collection-5-outstanding-book-tts/"><u>[New] 2024 Approved The Ultimate Collection 5 Outstanding Book TTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersion-boosting-backdrops-for-broadcasts/"><u>[Updated] Immersion-Boosting Backdrops for Broadcasts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-final-act-of-severing-tiktok-ties-temporarily-for-2024/"><u>[Updated] The Final Act of Severing TikTok Ties Temporarily for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confirming-windows-11-activation-three-tactics/"><u>Confirming Windows 11 Activation: Three Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-uninstalling-edge-on-windows-11/"><u>Guide to Uninstalling Edge on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-winerror-0xc004f050-in-upgrades/"><u>Overcoming Common WinError 0xC004F050 in Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpointing-and-purging-error-0xa00f4289-in-win11s-webcam/"><u>Pinpointing & Purging Error 0xA00F4289 in Win11's Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-windows-mixer-undo-changes-to-speaker-settings/"><u>Revive Windows Mixer: Undo Changes to Speaker Settings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/synergize-social-platforms-boosting-visibility-across-facebook-linkedin-and-youtube/"><u>Synergize Social Platforms: Boosting Visibility Across Facebook, LinkedIn & YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-lock-your-screens-look/"><u>Windows 11: How to Lock Your Screen's Look</u></a></li>
+</ul></div>
+

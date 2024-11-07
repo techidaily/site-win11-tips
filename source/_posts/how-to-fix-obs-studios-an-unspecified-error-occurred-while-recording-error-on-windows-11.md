@@ -1,7 +1,7 @@
 ---
 title: How to Fix OBS Studio's An Unspecified Error Occurred While Recording Error on Windows 11
-date: 2024-10-27T18:36:33.162Z
-updated: 2024-11-01T16:56:10.665Z
+date: 2024-11-04T17:49:45.229Z
+updated: 2024-11-07T00:03:25.391Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
  To restart OBS Studio, open the**Task Manager** (see how to[open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ), right-click on OBS Studio, and choose**End Task.** Then, search for OBS Studio in the**Start Menu** and choose**Open** from the right pane.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Temporarily Disable Your Graphics Driver
 
  The error is likely to occur if there's corruption in the GPU log file that is used by the OBS Studio. To remove the corruption, you'll have to disable the graphics driver before launching the OBS Studio. Doing this will force the program to create a new GPU log.
@@ -52,18 +45,18 @@ Here's what you need to do:
 ![Disable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-device-option-1.jpg)
 4. Click**Yes** to the prompt that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your screen might flicker after disabling the dedicated graphics driver. But worry not; it'll become normal after the generic driver is started.
 
  Now, launch the OBS Studio and open your project. Then, open the Device Manager again > access the Display adapters node > right-click on the dedicated graphics driver and choose**Enable device.**
 
 ![Enable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-device.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's it! Return to OBS Studio and check if you are able to record.
 
@@ -78,37 +71,31 @@ Here's what you need to do:
 4. Click the**Change settings** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click on**Allow another app** and then choose**Browse** from the**Add an app** prompt.  
 ![Add an app prompt in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-app.jpg)
 6. Navigate to the location where you have installed the OBS Studio.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Select the**obs-ffmpeg-mux** executable file and click**Open.**  
 ![obs-ffmpeg-mux file in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/obs-ffmpeg-mux-file.jpg)
 8. Click**Add.**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Check both the**Private** and**Public** boxes for**obs-ffmpeg-mux** and click**OK** to save the settings.  
 ![Private and Public boxes for OBS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/private-and-public-boxes.jpg)
 
 Restart your computer and check if the problem continues.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Fix the Missing DLL Files
 
@@ -139,6 +126,20 @@ You can do that by following the below instructions:
 4. Click the**Environment Variables** button.  
 ![Environment Variables option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enviroment-variables.jpg)
 5. Select**Path** under the**System Variables** section, and click the**Edit** button.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Paste the following path in the**Variable value** text box and click**OK.**  
 `C:\Program Files (x86)\obs-studio\bin\32bit;`  
 ![Edit Variable in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-variable.jpg)
@@ -146,10 +147,10 @@ You can do that by following the below instructions:
  That's it! Now, start recording in OBS Studio and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check for Corrupted or Missing Files
@@ -172,6 +173,13 @@ You can do that by following the below instructions:
 
  Then, visit the[OBS Studio official website](https://obsproject.com/) , and download and install the latest version on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enjoy Seamless Recording With OBS Studio
 
  OBS Studio makes it a cakewalk to record anything and upload it online. However, due to corruption in its installation folder or missing DLL files, it might throw the "An unspecified error occurred while recording" error. Fortunately, you can quickly get rid of this error by applying the above fixes.
@@ -191,20 +199,21 @@ You can do that by following the below instructions:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-w10-quick-recording-software/"><u>[New] In 2024, W10 Quick Recording Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-most-popular-tweets-top-ten-hits-list/"><u>[Updated] 2024 Approved Most Popular Tweets Top Ten Hits List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-down-to-size-choosing-the-ultimate-8-windows-video-editing-tools/"><u>Cut Down to Size: Choosing the Ultimate 8 Windows Video Editing Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y78t-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y78t Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-poco-c65-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Poco C65 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/never-farewell-pets-global-bonding-with-petcube-bites-2/"><u>Never Farewell: Pets’ Global Bonding with Petcube Bites 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-windows-hello-fingerprint-obstacles/"><u>Overcoming Common Windows Hello Fingerprint Obstacles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realigning-files-in-winrar-using-6-checksum-adjustments/"><u>Realigning Files in WinRAR Using 6 Checksum Adjustments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-unfreeze-spotify-on-windows-11-devices/"><u>Steps to Unfreeze Spotify on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-system-check-finding-gpu-model-in-win11-os/"><u>Swift System Check: Finding GPU Model in Win11 OS</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-battery-options-for-your-google-nest-video-doorbell-in-depth-review/"><u>Top Rated Battery Options for Your Google Nest Video Doorbell - In-Depth Review</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ultimate-guide-to-secure-connectivity-discover-the-best-12-protection-tools-for-wireless-networks-featuring-malwarefox/"><u>Ultimate Guide to Secure Connectivity: Discover the Best 12 Protection Tools for Wireless Networks Featuring MalwareFox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-windows-11-slide-shows-and-image-spot-repair/"><u>Unlock the Full Potential of Windows 11: Slide Shows & Image Spot Repair</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-bypass-filmora-watermark-free-and-paid-workarounds/"><u>Updated Bypass Filmora Watermark Free and Paid Workarounds</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1728499229252-windows-11-ssd/"><u>Windows 11 SSDへのインストール手順</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-top-ranked-5-game-chat-systems-for-vloggers/"><u>[New] 2024 Approved Top-Ranked 5 Game Chat Systems for Vloggers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-clouds-of-video-editing-best-drones-tools-ranked/"><u>2024 Approved Navigating the Clouds of Video Editing Best Drones Tools Ranked</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-new-era-of-mobile-gaming-with-android-and-vr/"><u>2024 Approved The New Era of Mobile Gaming with Android and VR</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-a2plus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi A2+ Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-windows-cloud-installation-with-standalone-reinstalls/"><u>Comparing Windows Cloud Installation with Standalone Reinstalls</u></a></li>
+<li><a href="https://win-latest.techidaily.com/download-our-no-cost-video-transformation-tool-easy-flv-format-upgrade/"><u>Download Our No-Cost Video Transformation Tool - Easy FLV Format Upgrade!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-reading-experience-in-depth-analysis-of-the-amazon-kindle-paperwhite-2018/"><u>Enhancing Reading Experience: In-Depth Analysis of the Amazon Kindle Paperwhite (2018)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/full-screen-obs-complication-overcome-for-2024/"><u>Full Screen OBS Complication Overcome for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-task-manager-ui-incorporating-cli-for-command-execution/"><u>Mastering Task Manager UI: Incorporating CLI for Command Execution</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solution-long-term-outcomes-can-include-neurological-issues-such-as-developmental-delays-seizures-and-hearing-loss-if-the-infection-is-not-adequately-treate333/"><u>Solution: Long-Term Outcomes Can Include Neurological Issues Such as Developmental Delays, Seizures, and Hearing Loss if the Infection Is Not Adequately Treated.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-expiring-licenses-warning-in-win1011/"><u>Steps to Overcome Expiring Licenses Warning in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-optimizing-file-deletion-dialogs-in-windows/"><u>Strategies for Optimizing File Deletion Dialogs in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-future-of-interoperability-windows-now-on-apple-devices-unveiled/"><u>The Future of Interoperability: Windows Now on Apple Devices Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-making-windows-sound-service-reboot-auto/"><u>Tips & Tricks: Making Windows Sound Service Reboot Auto</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-v30-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo V30 Pro? Here is How | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-do-if-windows-wont-play-the-audio-test-tone/"><u>What to Do if Windows Won't Play the Audio Test Tone</u></a></li>
 </ul></div>
 

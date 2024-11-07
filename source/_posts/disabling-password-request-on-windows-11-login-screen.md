@@ -1,7 +1,7 @@
 ---
 title: Disabling 'Password Request' On Windows 11 Login Screen
-date: 2024-10-28T18:29:31.120Z
-updated: 2024-11-01T17:13:38.312Z
+date: 2024-11-02T06:56:54.644Z
+updated: 2024-11-07T08:29:06.773Z
 tags:
   - windows10
   - windows11
@@ -37,39 +37,45 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Try All of Your Commonly Used Passwords
 
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Press Enter While the Password Field Is Blank
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reset Your Windows Password
@@ -89,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don’t Let the “We’ll Need Your Current Windows Password One Last Time” Error Stop You
@@ -101,29 +107,6 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
  However, this error can be easily resolved. Here’s everything you need to know.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-urban-elegance-best-6-modern-mc-mansions/"><u>[New] 2024 Approved Urban Elegance Best 6 Modern MC Mansions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199742332-solved-bsod-error-video-memory-management-internal/"><u>[SOLVED] BSOD Error “Video Memory Management Internal”</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-superior-free-reproduction-tools-for-switch-games-for-2024/"><u>[Updated] Superior Free Reproduction Tools for Switch Games for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-infinix-hot-30i-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Infinix Hot 30i Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/best-10-action-ready-microphones-reviewed/"><u>Best 10 Action-Ready Microphones Reviewed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creating-a-social-soundtrack-connect-with-friends-through-spotify/"><u>Creating a Social Soundtrack: Connect with Friends Through Spotify</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enrich-your-environment-adding-tasks-to-folder-context-menus/"><u>Enrich Your Environment: Adding Tasks to Folder Context Menus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/epic-price-drop-for-the-ultrawide-samsung-oled-odyssey-g9-49-of-stunning-visuals-at-bargain-prices/"><u>Epic Price Drop for the Ultrawide Samsung OLED Odyssey G9 - 49 of Stunning Visuals at Bargain Prices!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-your-pcs-aware-elements-during-sleep/"><u>Guiding Your PC's Aware Elements During Sleep</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/o-protectly-copy-youtube-tracks-for-free-for-2024/"><u>How to Protectly Copy Youtube Tracks for Free for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-steam-not-functioning-for-game-launch-on-windows-11/"><u>Resolving Steam Not Functioning for Game Launch on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11s-file-management-adding-custom-movecopy-menus/"><u>Tailoring Windows 11'S File Management: Adding Custom Move/Copy Menus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-secure-boot-failures-wins-quick-solutions/"><u>Troubleshoot Secure Boot Failures: Win's Quick Solutions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-video-viral/"><u>Twitter Video Viral</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-hardware-problem-detectors-in-windows/"><u>Unraveling Hardware Problem Detectors in Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/vcr-video-vault-extensive-reviews-and-summary/"><u>VCR Video Vault Extensive Reviews & Summary</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-weather-app-companions-guide/"><u>Win Weather App Companions Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-alert-7-symptoms-needed-a-fresh-start/"><u>Windows Alert: 7 Symptoms Needed a Fresh Start</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workarounds-to-fix-static-sleepwake-modes-on-win11/"><u>Workarounds to Fix Static Sleep/Wake Modes on Win11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,3 +114,20 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722198827889-can-you-count-on-chatgpt-for-reliable-text-summaries-think-again/"><u>Can You Count on ChatGPT for Reliable Text Summaries? Think Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-audio-device-connectivity-issue/"><u>Correcting Windows Audio Device Connectivity Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elusive-sites-secure-solutions-7-fixes-for-unresponsive-browsers/"><u>Elusive Sites, Secure Solutions: 7 Fixes for Unresponsive Browsers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a56s-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A56s 5G Phone FRP Lock</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-tiktok-video-magic-how-to-reverse-speed-up-and-slow-down-your-clips-for-2024/"><u>New TikTok Video Magic How to Reverse, Speed Up, and Slow Down Your Clips for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purple-panic-quick-fixes-for-distorted-windows-display/"><u>Purple Panic! Quick Fixes for Distorted Windows Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-reinstating-notification-banners/"><u>Steps for Reinstating Notification Banners</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-resource-for-microsoft-azure-speech-services/"><u>The Ultimate Resource for Microsoft Azure Speech Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-win-error-31-a-systematic-fix-guide/"><u>Unlocking WIN Error 31: A Systematic Fix Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Windows Esc Key Failure: Quick and Easy Remedies Unveiled"
-date: 2024-10-29T17:46:48.956Z
-updated: 2024-11-01T19:36:38.160Z
+date: 2024-10-31T16:55:16.409Z
+updated: 2024-11-06T18:26:02.972Z
 tags:
   - windows10
   - windows11
@@ -55,13 +55,6 @@ To run the keyboard troubleshooter on Windows:
 4. Click the**Run** button next to**Keyboard** .  
 ![Run Keyboard Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-keyboard-troubleshooter-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the troubleshooter to scan for any issues with your keyboard and fix them, then check if the Esc key works. If it does not, run the Hardware and Devices troubleshooter instead. For that, use these steps:
 
 1. Press**Win + R** to open the Run dialog box.
@@ -70,10 +63,17 @@ To run the keyboard troubleshooter on Windows:
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Filter Keys
@@ -86,10 +86,10 @@ To run the keyboard troubleshooter on Windows:
 ![Disable Sticky Keys in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-sticky-keys-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Key Mapping Software
@@ -97,10 +97,10 @@ To run the keyboard troubleshooter on Windows:
  Are you using any key mapping software on your PC? If so, you need to ensure that the Esc key isn’t disabled or mapped to a different function. If it is, you can either restore the key mapping to its default or remove the key remapping software entirely. In case you need help with the latter, check our guide on[different ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run SFC and DISM Scans
@@ -121,31 +121,24 @@ To run the keyboard troubleshooter on Windows:
 
  Once removed, restart your PC and allow Windows to automatically reinstall the missing driver during boot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Install Windows Updates
 
  Aside from updating the keyboard drivers, you should also check your system for pending Windows updates. To do so, press**Win + I** to open the Settings app and navigate to the**Windows Update** tab. Click the**Check for updates** button to download and install pending updates.
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Check for Malware
 
  If the Esc key is still not working at this point, it’s worth ensuring that your PC isn’t infected by malware. For that, you can run a full system scan using Windows Defender or a third-party antivirus program.
 
  Make sure you take[the necessary steps if you discover malware on your computer](https://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/) .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Troubleshoot in Clean Boot State
 
@@ -167,6 +160,13 @@ To perform a system restore on Windows, use these steps:
 6. Click**Finish** to continue.  
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Start Using the Esc Key Again on Windows
 
  Depending on your situation, fixing the Esc key can be as easy as cleaning it or as demanding as restoring your PC to its previous state. However, if none of the above fixes work, it’s likely that the Esc key on your keyboard is damaged and requires repair.
@@ -186,24 +186,24 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-aiseesoft-screen-recorder-review-for-2024/"><u>[New] Aiseesoft Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-bandicam-a-user-centric-review-and-guide/"><u>[New] Bandicam A User-Centric Review & Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-professional-camera-techniques-for-superior-igtv-videos/"><u>[New] Mastering Professional Camera Techniques for Superior IGTV Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-financial-face-off-comparing-dailymotion-and-youtube-profitability/"><u>[Updated] Financial Face-Off Comparing Dailymotion & YouTube Profitability</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-convenient-ways-to-merge-igtv-and-insta-stories/"><u>2024 Approved Convenient Ways to Merge IGTV & Insta Stories</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bcm20702a0-download-and-install-windows-drivers-with-ease/"><u>BCM20702A0: Download & Install Windows Drivers with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cambia-archivo-avi-a-formato-ogg-sin-coste-con-nuestros-servicios-de-conversion-libres-y-faciles/"><u>Cambia Archivo AVI a Formato OGG Sin Coste Con Nuestros Servicios De Conversión Libres Y Fáciles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-gratuit-en-ligne-de-fichiers-mp4-vers-mpeg-avec-movavi-guide-simple-et-rapide/"><u>Conversion Gratuit en Ligne De Fichiers MP4 Vers MPEG Avec Movavi - Guide Simple Et Rapide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-top-12-no-cost-editors-competing-with-lightroom-a-deep-dive-into-movavi-features/"><u>Discover the Top 12 No-Cost Editors Competing with Lightroom: A Deep Dive Into Movavi Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-and-convert-your-ogvs-to-mp3-at-no-cost-using-our-simple-tools/"><u>Download and Convert Your OGVs to MP3 at No Cost Using Our Simple Tools!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/entendiendo-las-diferencias-entre-formatos-de-archivo-tiff-vs-jpeg-elegir-el-correcto-para-su-proyecto-grafico/"><u>Entendiendo Las Diferencias Entre Formatos De Archivo: TIFF Vs. JPEG, Elegir El Correcto Para Su Proyecto Gráfico.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-voc-files-into-mp4-format-with-movavi/"><u>Free Online Converter: Transform VOC Files Into MP4 Format with Movavi</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guida-alla-sicurezza-dei-dati-con-aomei-clonazione-backup-e-sincronizzazione-impossibili-per-gli-umani/"><u>Guida Alla Sicurezza Dei Dati Con AOMEI: Clonazione, Backup E Sincronizzazione Impossibili per Gli Umani</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-disable-igtv-feature/"><u>How to Disable IGTV Feature</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-instant-amd-software-issues/"><u>Solve Instant AMD Software Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-converting-flv-videos-for-playback-on-your-ipod/"><u>Step-by-Step Guide: Converting FLV Videos for Playback on Your iPod</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-18-plateformes-de-photographie-paid-a-privilegier-en-france/"><u>Top 18 Plateformes De Photographie Paid À Privilégier en France</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-ts-format-a-guide-to-ts-file-extensions-and-compatibility/"><u>Understanding the TS Format: A Guide to TS File Extensions and Compatibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-icine-donumuz-oyunculuk-sistemleriyle-haftalarak-etkinlestirme-adimlari/"><u>Windows İçine Dönümüz Oyunculuk Sistemleriyle Haftalarak Etkinleştirme Adımları</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-film-fans-choosing-the-best-extensions-and-downloader-plugins-on-firefox/"><u>[New] 2024 Approved Facebook Film Fans Choosing the Best Extensions and Downloader Plugins on Firefox</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-experts-choice-androids-best-large-group-calling/"><u>[New] In 2024, Expert's Choice Android's Best Large Group Calling</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps/"><u>[New][Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-diving-deep-into-nikons-d500-for-exceptional-4k-imaging/"><u>[Updated] Diving Deep Into Nikon's D500 for Exceptional 4K Imaging</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-5-ways-to-record-roblox-gameplay-on-mac/"><u>2024 Approved 5 Ways to Record Roblox Gameplay on Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/breathe-life-into-tweets-animating-insta-story-texts-for-2024/"><u>Breathe Life Into Tweets Animating Insta Story Texts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-repeated-usernamepassword-notifications-on-pc/"><u>Eliminating Repeated 'Username/Password' Notifications on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-techniques-for-in-depth-analysis-harnessing-the-power-of-diskusage-on-windows/"><u>Expert Techniques for In-Depth Analysis: Harnessing the Power of DiskUsage on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-directx-file-upload-glitches-in-windows/"><u>Fixing DirectX File Upload Glitches in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-audacitys-internal-portaudio-error-in-windows-11-and-11/"><u>How to Fix Audacity’s Internal PortAudio Error in Windows 11 & 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-quick-fixes-top-5-no-download-online-gif-to-video-convertors/"><u>In 2024, Best Quick Fixes Top 5 No-Download, Online GIF to Video Convertors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/propel-productivity-top-7-ways-to-use-windows-11-smartly-38/"><u>Propel Productivity: Top 7 Ways to Use Windows 11 Smartly (38)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-setup-guide-for-bing-ai-on-windows-11-menu-bar/"><u>Quick Setup Guide for Bing AI on Windows 11 Menu Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-pcs-internet-link-top-6-strategies-including-adapter-correction/"><u>Reviving Your PC's Internet Link: Top 6 Strategies, Including Adapter Correction</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/rising-stars-guide-essential-hashtags-to-increase-your-insta-presence-for-2024/"><u>Rising Stars Guide Essential Hashtags to Increase Your Insta Presence for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-compressing-videos-into-zipped-folders-on-windows-11-including-images/"><u>Step-by-Step Guide: Compressing Videos Into Zipped Folders on Windows 11 – Including Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-techniques-for-heic-to-jpeg-conversion-in-windows-11/"><u>Streamlined Techniques for Heic to JPEG Conversion in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-potential-with-tips-from-toms-hardware-masters/"><u>Unleash Your Potential with Tips From Tom's Hardware Masters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-the-worries-of-windows-11-newbies/"><u>Unpacking the Worries of Windows 11 Newbies</u></a></li>
 </ul></div>
 

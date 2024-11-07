@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Search Tools Beyond the LS Command
-date: 2024-10-30T16:48:30.368Z
-updated: 2024-11-01T17:21:34.569Z
+date: 2024-11-04T08:19:06.624Z
+updated: 2024-11-06T17:40:42.268Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
  By using the “ls” command, users can list the contents of the current working directory, similarly, you can also [switch directories using Command Prompt](http://www.makeuseof.com/how-to-change-directory-in-cmd/). On Windows, the usage of "ls" in Command Prompt is slightly different compared to Linux, but it can accomplish the same task.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the “ls” Command in Command Prompt on Windows 10 and 11
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 1. Click on the **Start** menu icon, search for **Command Prompt**, right-click the Best Match, and select **Run as administrator**.
 2. Once the Command Prompt window is open, navigate to the directory you want to view and type **dir**.
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use "ls" Command in Windows PowerShell
 
@@ -70,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 ![powershell-ls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/powershell-ls-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Follow these steps to view a file directory using the "**ls**" command on Windows using Windows PowerShell:
@@ -83,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 3. Type the **ls** command and press enter to view all of the listed files and folders within your target directory.
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A Handy Tool for Both Linux and Windows Users
 
  If you love using Linux, you'll likely find that Microsoft's own command prompt is a bit weaker in comparison. Fortunately, the "ls" command is also on Windows; it just uses a different name within Command Prompt. If you're using PowerShell you can use any of the alias commands to get the required file directories.
@@ -98,23 +98,6 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 
  There are many commands that are supported on the Linux terminal that does not exist on Windows 10 and 11\. Luckily the “ls” command in Windows is supported on the Command Prompt. Read on as we explore how to use the "ls" command in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-professional-touch-ups-for-your-tiktok-media/"><u>[New] 2024 Approved Professional Touch-Ups for Your TikTok Media</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-integrating-zoom-into-your-inbox-experience/"><u>[New] In 2024, Integrating Zoom Into Your Inbox Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-building-a-competitive-advantage-through-in-depth-industry-analysis/"><u>[Updated] Building a Competitive Advantage Through In-Depth Industry Analysis</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-finalizing-your-video-with-a-bold-statement/"><u>[Updated] In 2024, Finalizing Your Video with a Bold Statement</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-landscape-intricacies-of-using-the-background-eraser-feature/"><u>2024 Approved Navigating the Landscape Intricacies of Using the Background Eraser Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquer-file-renaming-challenges-with-powertoys/"><u>Conquer File Renaming Challenges With PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convenient-sync-combining-onedrive-with-microsoft-id/"><u>Convenient Sync: Combining OneDrive with Microsoft ID</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-a-disk-space-graph-in-windows-explorer-context/"><u>Creating a Disk Space Graph in Windows Explorer Context</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-solutions-to-rectify-iomap64-freeze-error-in-winos/"><u>Easy Solutions to Rectify IOMap64 Freeze Error in WinOS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-how-to-address-and-repair-the-missing-binkw32dll-error/"><u>Expert Tips on How to Address and Repair the Missing BinkW32.dll Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-multiple-close-down-in-one-swift-action-on-windows/"><u>Master Multiple Close-Down in One Swift Action on Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-on-december-3rd-google-play-announced-its-choice-and-also-presented-the-best-android-apps-that-were-selected-by-users-so-without-further-ado-let/"><u>New In 2024, On December 3Rd Google Play Announced Its Choice and Also Presented the Best Android Apps that Were Selected by Users. So without Further Ado Lets Take a Look at the Best and Most Popular And</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-chrome-file-handling-on-your-pc-windows-style/"><u>Streamline Chrome File Handling on Your PC, Windows Style</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -122,3 +105,24 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-becoming-an-expert-broadcaster-streaming-high-quality-video-online/"><u>[New] 2024 Approved Becoming an Expert Broadcaster Streaming High-Quality Video Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-game-capture-a-guide-to-using-obs/"><u>[New] In 2024, Mastering Game Capture A Guide to Using OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-raw-footage-to-broadcast-gold-twitch-recording-techniques-for-2024/"><u>[Updated] From Raw Footage to Broadcast Gold Twitch Recording Techniques for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/boosting-story-reach-through-linked-profile-ties/"><u>Boosting Story Reach Through Linked Profile Ties</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-itel-p40plus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel P40+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-gaming-palette-with-android-windows-11-and-google-play/"><u>Enhance Your Gaming Palette with Android, Windows 11 & Google Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-dxvks-impact-on-windows-gaming-performance/"><u>Exploring DXVK's Impact on Windows Gaming Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-fixes-for-admin-managed-browsing-on-chromiumedge/"><u>Guiding Users Through Fixes for Admin-Managed Browsing on Chromium/Edge</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-13-pro-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 13 Pro? Complete Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-autolock-a-step-by-step-guide/"><u>Overcoming AutoLock: A Step by Step Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/problemi-con-windows-10-center-sync-scopri-come-risolvere-i-problemi-comuni-del-centro-sincronizzazione/"><u>Problemi Con Windows 10 Center Sync? Scopri Come Risolvere I Problemi Comuni Del Centro Sincronizzazione</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-your-pc-top-10-uses-for-windows-powertoy-tools/"><u>Reimagine Your PC: Top 10 Uses for Windows PowerToy Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-problem-of-windows-not-detecting-proxies/"><u>Solving the Problem of Windows Not Detecting Proxies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-artisans-path-to-enchanting-collage-compositions-for-2024/"><u>The Artisan's Path to Enchanting Collage Compositions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-isolated-audio-pathways-on-windows/"><u>Unraveling Isolated Audio Pathways on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-wasd-do-and-its-effects/"><u>What Does WASD Do and Its Effects?</u></a></li>
+</ul></div>
+

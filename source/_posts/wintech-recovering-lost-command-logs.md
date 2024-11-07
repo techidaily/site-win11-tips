@@ -1,7 +1,7 @@
 ---
 title: "WinTech: Recovering Lost Command Logs"
-date: 2024-10-27T16:46:51.234Z
-updated: 2024-11-01T19:02:59.546Z
+date: 2024-10-31T10:08:39.297Z
+updated: 2024-11-07T07:13:44.690Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
  After completing the above steps, try running a few commands via the Run dialog box. Then, check if it is saving your command history and providing auto-complete suggestions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Edit Registry Files
@@ -60,19 +60,19 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 ![Edit Registry DWORD on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-registry-dword-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your PC after this for the changes to take effect. Following this, the Run command should start saving your history on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apply Generic Fixes
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 * **Scan for Malware:** It’s possible that your system is infected by malware, which is why the Run command is having trouble saving your history. To rule out this possibility, you can [scan Windows for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Windows Defender.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Run Tool to Save Your History on Windows
@@ -98,23 +98,6 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
  If you're encountering a similar problem, don’t fret. Below, we share some quick and useful tips that should get the Run tool to save your history once again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-breaking-barriers-instagrams-trailblazing-25-stars/"><u>[New] Breaking Barriers Instagram's Trailblazing 25 Stars</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-starting-your-own-platform-a-guide-to-reviews-and-ratings-for-gadgets/"><u>[New] Starting Your Own Platform A Guide to Reviews and Ratings for Gadgets</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-tips-for-incorporating-songs-into-social-media-video-content-for-2024/"><u>[New] Tips for Incorporating Songs Into Social Media Video Content for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-aesthetic-almanac-makeup-hair-and-more-on-youtube/"><u>2024 Approved The Aesthetic Almanac Makeup, Hair & More on YouTube</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/advanced-pdf-text-editor-seamlessly-edit-documents-in-pdf-format/"><u>Advanced PDF Text Editor: Seamlessly Edit Documents in PDF Format</u></a></li>
-<li><a href="https://win-great.techidaily.com/copiar-el-espacio-utilizado-desde-un-hdd-a-una-ssd-con-facilidad/"><u>Copiar El Espacio Utilizado Desde Un HDD a Una SSD Con Facilidad</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists/"><u>In 2024, Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-mastering-windows-hello-fingerprint-fixes/"><u>Overcoming Obstacles: Mastering Windows Hello Fingerprint Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-your-programs-size-control-on-win11/"><u>Personalizing Your Programs: Size Control on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguarding-windows-clock-from-user-modifications/"><u>Safeguarding Windows Clock From User Modifications</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-essential-manual-for-srt-conversion-techniques-for-2024/"><u>The Essential Manual for SRT Conversion Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tranquility-in-tech-turning-off-windows-11-seamlessly/"><u>Tranquility in Tech: Turning Off Windows 11 Seamlessly</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -122,3 +105,25 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-xchange-your-mind-with-non-sharex-insights/"><u>[Updated] In 2024, XChange Your Mind with Non-ShareX Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/cutting-edge-online-resources-for-glittering-3d-typography-for-2024/"><u>Cutting-Edge Online Resources for Glittering 3D Typography for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diverse-tricks-to-fire-up-your-favorite-apps-on-windows/"><u>Diverse Tricks to Fire Up Your Favorite Apps on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-chaos-to-calm-quick-edits-for-your-overwhelming-tiktok-drafters/"><u>From Chaos to Calm Quick Edits for Your Overwhelming TikTok Drafters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-all-files-used-warning/"><u>How to Prevent All Files Used Warning</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exemplary-episodes-for-auditory-drama/"><u>In 2024, Exemplary Episodes for Auditory Drama</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-oppo-a59-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo A59 5G Phone Screen?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-concealing-local-wi-fi-signals/"><u>Mastering Windows: Concealing Local Wi-Fi Signals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-onedrive-in-windows-startup-directly-open-file-explorer/"><u>Prioritize OneDrive in Windows Startup: Directly Open File Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-chromes-black-pixels-on-pcs/"><u>Reversing Chrome's Black Pixels on PCs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/seamless-subtitle-management-a-mac-edition/"><u>Seamless Subtitle Management A Mac Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setup-guide-chatgpt-for-windows-os/"><u>Setup Guide: ChatGPT for Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-accessing-and-utilizing-windows-odbc-tools/"><u>Steps for Accessing and Utilizing Windows ODBC Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-android-studio-windows-edition/"><u>Unlock Full Potential of Android Studio, Windows Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/vhs-till-datatil-expertinsiklar-om-hur-du-kan-lasa-upp-och-konvertera-digitaellt-de-gamla-filmerna-du-har/"><u>VHS Till Datatil: Expertinsiklar Om Hur Du Kan Läsa Upp Och Konvertera Digitaellt De Gamla Filmerna Du Har</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/vimeo-mp3/"><u>Vimeoビデオからのオーディオコンバート: MP3形式への完全ガイド</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Configuring Internet Constraints on Windows 11 Devices
-date: 2024-10-26T18:46:15.189Z
-updated: 2024-11-01T17:42:17.386Z
+date: 2024-10-30T19:57:49.915Z
+updated: 2024-11-06T18:53:24.357Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
  Since you will not use this account too often, you should learn[how to start using a password manager](https://www.makeuseof.com/how-to-start-using-password-manager/) to remember its credentials.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up Windows 11's Parental Control Feature
@@ -67,13 +67,20 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 ![Parental control overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/monitor-and-change-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t have the time to constantly check the account, scroll down to**Activity settings** . There, turn on the toggle below**Activity reporting** , so you can monitor your child’s activity on all of their devices. Also, you can turn on the toggle below**Send a weekly email to me** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Use Parental Control to Limit Screen Time
 
@@ -85,14 +92,14 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ![How to limit screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/edit-time-limit-1.jpg)
 
- There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
 
 ### How to Use Parental Control to Filter Content
 
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 ### How to Use Parental Control to Overview Spending
 
  In the**Spending** category, you can add money or a credit card to the account. You can also set that every purchase needs to be approved by you. Additionally, you can get a notification for every purchase.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keep Your Kids Safe on Windows 11
 
@@ -134,22 +134,22 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-achieving-verified-on-instagram-accelerating-follower-count-through-effective-techniques-for-2024/"><u>[New] Achieving Verified on Instagram Accelerating Follower Count Through Effective Techniques for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-audioanalyzer-reaction-to-recordings-for-2024/"><u>[New] AudioAnalyzer Reaction to Recordings for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-instant-insight-snapshots-for-windows-enthusiasts/"><u>[Updated] 2024 Approved Instant Insight Snapshots for Windows Enthusiasts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-best-video-apps-review-youtube-iphones-and-androids/"><u>[Updated] Best Video Apps Review YouTube iPhones & Androids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/12-best-free-video-compression-programs-top-picks-for-seamless-media-management/"><u>12 Best Free Video Compression Programs: Top Picks for Seamless Media Management</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-uniting-voices-for-virtual-fame-on-tiktok/"><u>2024 Approved Uniting Voices for Virtual Fame on TikTok</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/boost-your-computers-display-quality-with-the-right-graphics-card-upgrade-techniques/"><u>Boost Your Computer’s Display Quality with the Right Graphics Card Upgrade Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-crop-tool-edit-your-videos-with-ease/"><u>Free Online Crop Tool: Edit Your Videos with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-konverter-fur-cr2-zu-bmp-mit-movavi-schnelle-und-einfache-umwandlung/"><u>Gratis Online Konverter Für CR2 Zu BMP Mit Movavi - Schnelle Und Einfache Umwandlung</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12r-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12R FRP</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/macs-best-picks-elite-4k-monitor-showdown-for-2024/"><u>Mac's Best Picks Elite 4K Monitor Showdown for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-vrijetijdige-mp4-in-m4a-vervanger-movavi-expertise-voor-duurzaamheid/"><u>Online Vrijetijdige MP4 in M4A Vervanger Movavi: Expertise Voor Duurzaamheid</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swf-webm/"><u>SWF WebM 전환기 - 웹에서 자원공유 용이: 실시간 코어 리소스를 모바일에 가장 적합한 형식으로 쉽게 전환</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-11-convertisseurs-mov-gratuits-pour-mac-windows-et-en-ligne-comparatif-complet/"><u>Top 11 Convertisseurs MOV Gratuits Pour Mac, Windows Et en Ligne : Comparatif Complet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-video-wma-in-formato-3gp-senza-costi-utilizzando-il-servizio-di-movavi-online/"><u>Trasforma I Tuoi Video WMA in Formato #3GP Senza Costi Utilizzando Il Servizio Di Movavi Online</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/troubleshooting-guide-how-to-fix-winx-dvd-rippers-partial-movie-ripping-issue/"><u>Troubleshooting Guide: How To Fix WinX DVD Ripper's Partial Movie Ripping Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-standard-image-dimensions-expert-tips-from-movavi/"><u>Ultimate Guide to Standard Image Dimensions - Expert Tips From Movavi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-accelerate-your-vimeo-experience/"><u>[New] In 2024, Accelerate Your Vimeo Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-perfect-guide-to-making-your-video-memories-last-with-gifs/"><u>[New] The Perfect Guide to Making Your Video Memories Last with GIFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[Updated] In 2024, From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-start-saving-with-reddit-today-13-easy-and-effective-strategies-no-experience/"><u>[Updated] In 2024, Start Saving with Reddit Today - 13 Easy & Effective Strategies (No Experience)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-key-to-more-views-expert-backlink-methods-for-youtubers/"><u>[Updated] The Key to More Views Expert Backlink Methods for YouTubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>2024 Approved The Art of Podcast Blurbs Techniques and Illustrations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodging-delayed-wow-windows-installation/"><u>Dodging Delayed WoW Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-remedying-writing-failures-in-windows-11/"><u>Guide to Remedying Writing Failures in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-make-microsoft-edge-faster-w10w11/"><u>How to Make Microsoft Edge Faster W10/W11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-poco-x6-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Poco X6 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-an-app-on-windows-10-and-11/"><u>How to Reset an App on Windows 10 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-an-android-tablet-as-a-second-screen-in-windows-11/"><u>How to Use an Android Tablet as a Second Screen in Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-ultimate-guide-to-podcast-style-unboxing/"><u>In 2024, The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-windows-connection-change-nat-type-efficiently-in-win1110/"><u>Optimize Your Windows Connection: Change NAT Type Efficiently in Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-monitor-duality-issues-on-pcs/"><u>Resolving Monitor Duality Issues on PCs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/uncover-11-free-effective-youtube-naming-solutions-for-2024/"><u>Uncover 11 Free, Effective YouTube Naming Solutions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-and-fixing-the-root-of-virtualbox-usb-device-disconnection/"><u>Uncovering and Fixing the Root of VirtualBox USB Device Disconnection</u></a></li>
 </ul></div>
 

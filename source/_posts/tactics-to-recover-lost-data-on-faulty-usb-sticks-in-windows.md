@@ -1,7 +1,7 @@
 ---
 title: Tactics to Recover Lost Data on Faulty USB Sticks in Windows
-date: 2024-10-26T19:05:05.152Z
-updated: 2024-11-01T17:57:31.927Z
+date: 2024-11-05T14:30:20.664Z
+updated: 2024-11-06T19:07:35.519Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
  It’s not uncommon for a USB drive to throw errors because you plugged it in improperly, or it didn't fit in all the way. As such, when you plug it back in, make sure it's seated nicely within the USB port.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update Your USB Device's Drivers
@@ -56,9 +62,29 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
 ![malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Malware can create all kinds of problems on your PC. From the smallest of bugs to big-blown corruptions—malware can do it all. Problems with your USB are another such problem that can arise because of malware.
 
  In most cases, a [quick scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is often enough to find and fix different malware on your PC. So give Microsoft Defender a go and see if that fixes the error.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Format Your USB Stick
 
@@ -74,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
 ![windows booting-up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-booting-up.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’ve tried all the above methods and none of them have worked so far, it’s likely that the problem is not with the USB stick but with the PC. If that's the case the first thing we'd like to recommend is to restart your PC. You’d be shocked how a simple reboot is often enough to fix many abrupt issues in a PC.
 
  So do a simple restart and see if that fixes your USB copying problem.
@@ -90,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
  Another addition to checking things out with the PC first, it’s often helpful to check the compatibility of whatever software or hardware you’re using with your PC. Remember that compatibility is often one of the first things you should check out when buying software or hardware for yourself.
 
  If you cannot transfer the data through your USB stick, then it’s pretty likely that the USB stick isn’t compatible with your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Try Out a Different USB Stick (or Plug It Into a Different PC)
 
@@ -109,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
  If none of them work, then it’s very likely a problem with the slot. Getting your PC examined by a tech specialist will be helpful in those cases.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Ways to Transfer Your Data to and From a Windows PC
@@ -121,22 +133,6 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
  While USB data transferring errors happen for a variety of reasons, definite fixes exist that will get your copying back to normal in time. We’ve gone through a host of methods to get rid of debilitating errors for good, and below present you with the best one. Let’s start with the simplest one.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-legal-implications-and-tips-when-archiving-whatsapp-call-recordings-for-2024/"><u>[New] Legal Implications & Tips When Archiving WhatsApp Call Recordings for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-power-players-list-top-trending-gadgets-and-tools-every-profession-should-have/"><u>[Updated] 2024 Approved Power Players List Top Trending Gadgets & Tools Every Profession Should Have</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-effortlessly-incorporate-images-on-instagram/"><u>[Updated] Effortlessly Incorporate Images on Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tactics-3-ways-to-record-and-keep-your-live-discord-events-alive/"><u>[Updated] Top Tactics 3 Ways to Record and Keep Your Live Discord Events Alive</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-s17e-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo S17e</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-prompt-techniques-for-windows-administrators/"><u>Command Prompt Techniques for Windows Administrators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-0xc0351000-error-windows-sandbox-without-hypervisor/"><u>Eliminating 0xC0351000 Error: Windows Sandbox without Hypervisor</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-guide-to-designing-personalized-instagram-ringtone/"><u>In 2024, The Complete Guide to Designing Personalized Instagram Ringtone</u></a></li>
-<li><a href="https://article-files.techidaily.com/iphone-lens-wizardry-secrets-to-selecting-perfect-positions-for-2024/"><u>IPhone Lens Wizardry Secrets to Selecting Perfect Positions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/make-windows-look-like-macos-with-these-5-simple-tweaks/"><u>Make Windows Look Like macOS with These 5 Simple Tweaks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-troubleshooting-for-opened-manage-interface/"><u>Navigating Windows 11 Troubleshooting for Opened Manage Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-correcting-failed-proc-invocation-errors-in-malwarebytes/"><u>Tips for Correcting Failed Proc Invocation Errors in Malwarebytes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,3 +140,21 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-frequent-monetization-is-it-real-on-youtube-for-2024/"><u>[New] Frequent Monetization Is It Real on YouTube for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-tips-for-a-swift-submission-into-apple-catalog/"><u>[New] In 2024, Tips for a Swift Submission Into Apple Catalog</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-honing-the-craft-of-question-design-in-interviews/"><u>[Updated] In 2024, Honing the Craft of Question Design in Interviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearance-how-to-evict-epic-launcher-on-w11-os/"><u>Clearance: How To Evict Epic Launcher on W11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decipher-whether-your-computer-meets-win11-needs/"><u>Decipher Whether Your Computer Meets Win11 Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-1110-d3d11-hardware-errors/"><u>Eliminating Windows 11/10 D3D11 Hardware Errors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-quickly-get-the-latest-canon-drivers-for-windows-devices/"><u>How To Quickly Get the Latest Canon Drivers For Windows Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-filmmaking-mastery-youtube-trailer-design-with-filmora/"><u>In 2024, Filmmaking Mastery YouTube Trailer Design with Filmora</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-into-the-metaverse-top-8-vr-headgear/"><u>In 2024, Journey Into the Metaverse Top 8 VR Headgear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-premier-intro-list-for-panzoids/"><u>In 2024, The Premier Intro List for Panzoids</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-nubia-z50s-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Nubia Z50S Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-sonic-dimensions/"><u>Unlocking Windows 11'S Sonic Dimensions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+</ul></div>
+

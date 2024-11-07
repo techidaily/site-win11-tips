@@ -1,7 +1,7 @@
 ---
 title: Immediate Fixes for Spotify Error on Frozen Windows 11 Devices
-date: 2024-10-30T18:51:00.358Z
-updated: 2024-11-01T19:58:26.170Z
+date: 2024-11-01T00:20:49.757Z
+updated: 2024-11-07T08:36:00.389Z
 tags:
   - windows10
   - windows11
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 3. Press **Enter** to execute the taskill command.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Delete the Spotify User Data Folder
@@ -65,6 +65,20 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 4. Open the users subfolder within the Spotify directory.  
 ![The -user folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-folder.jpg)
 5. Right-click on the -user folder with random characters within its directory title and select **Delete**.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Try opening Spotify again.
 
  A variation of this potential resolution is to erase a specific Spotify cache file. To do so, you’ll need to open the -user folder. Then right-click the **local-files.bnk** file and select **Delete**.
@@ -78,10 +92,17 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-and-features.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Check That Spotify Is Allowed Through the Windows Firewall
@@ -89,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
  A firewall block is another potential cause for the “Spotify application is not responding” error. To address this possible cause, open Windows Defender Firewall’s allowed app settings and select the **Public** and **Private** checkboxes for the Spotify app. Our guide for [allowing apps through Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) includes full instructions for applying this resolution.
 
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-defender-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many third-party security apps also have firewall components that can feasibly cause the “Spotify application is not responding” error much the same as WDF. If your PC has third-party security software installed, try allowing Spotify through that app’s firewall. Look for firewall exception options in the software’s settings tabs and select to permit Spotify through it.
 
@@ -105,26 +119,13 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If that works, don’t leave the antivirus shield disabled. Instead, add Spotify to the antivirus software’s scanning exclusion list. Go through the app’s setting tabs to find its antivirus exclusion options.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Spotify App
@@ -141,47 +142,24 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 
 ![The IObit Uninstaller software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iobit-uninstaller-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then you can reinstall either the UWP or the desktop Spotify app. Click **Download** on the [Spotify Windows download page](https://www.spotify.com/us/download/windows/) to get the setup wizard for the desktop software. Then you’ll need to double-click the **SpotifySet.exe** file to install the desktop software.
 
  If you prefer the UWP Spotify app version, open this [Microsoft Store page](https://apps.microsoft.com/store/detail/spotify-music-and-podcasts/9NCBCSZSJRSB). Press the **Get in Store** app button on the Spotify page. Next, select **Open Microsoft Store** on the dialog box that prompts you to install the app from there. Click on Spotify’s **Get** button to both download and install that app.
 
 ![The Get option for the Spotify UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/get-option-for-spotify.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Back in the Groove With Your Spotify Windows App
 
  Those potential solutions will probably kick-start Spotify when the “Spotify application is not responding” stops it from starting. They’re worth a try since they’ve worked for many other Spotify users. Then you can listen to all your favorite albums with the Spotify Windows app again.
 
  Spotify doesn’t open when the “application is not responding” error occurs. Although users can’t still utilize Spotify within a browser, that’s not quite the same as the Windows app. This is how you can fix the “Spotify application is not responding” error message on a Windows PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-live-stream-showdown-pick-your-favorite-vmix-or-wirecast-for-2024/"><u>[New] Live Stream Showdown Pick Your Favorite, VMix or Wirecast for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-serenity-seekers-guide-to-relaxed-youtube-viewing-52-chars/"><u>[New] The Serenity Seeker's Guide to Relaxed YouTube Viewing (52 Chars)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-beginner-to-expert-choose-studio-or-beta/"><u>[Updated] 2024 Approved From Beginner to Expert Choose Studio or Beta</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-pioneers-in-virtual-marvel-storytelling-for-2024/"><u>[Updated] Pioneers in Virtual Marvel Storytelling for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-premium-commercial-sky-data-haven/"><u>[Updated] Premium Commercial Sky Data Haven</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/confronting-the-challenge-of-filedirectory-corrupted-on-oses/"><u>Confronting the Challenge of File/Directory Corrupted on OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-down-background-computation-load/"><u>Cutting Down Background Computation Load</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-regain-original-typing-positions-on-windows-11-devices/"><u>Guide to Regain Original Typing Positions on Windows 11 Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-narzo-n53-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme Narzo N53 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identifying-9-signs-for-a-full-pc-reboot/"><u>Identifying 9 Signs for a Full PC Reboot</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unblemished-visuals-buying-high-quality-images/"><u>In 2024, Unblemished Visuals Buying High-Quality Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-pc-troubleshooting-uncovering-and-resolving-error-codes-via-command-prompt/"><u>Mastering PC Troubleshooting: Uncovering & Resolving Error Codes via Command Prompt</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/optimize-visibility-choosing-the-right-hashtags-today/"><u>Optimize Visibility Choosing the Right Hashtags Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/right-click-menu-evolution-integrating-program-helpers/"><u>Right-Click Menu Evolution: Integrating Program Helpers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sleek-software-sabotaging-windows-11-performance-secretly/"><u>Sleek Software Sabotaging Windows 11 Performance Secretly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-remedy-for-windows-zoom-crash-error-1132/"><u>Swift Remedy for Windows Zoom Crash - Error 1132</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-wizardry-managing-peak-and-low-cpu-states/"><u>Windows Wizardry: Managing Peak and Low CPU States</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -190,3 +168,23 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-essential-knowledge-unmarked-photo-accumulation/"><u>[New] In 2024, Essential Knowledge Unmarked Photo Accumulation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>[New] In 2024, Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-thumbnails-guide-what-size-yields-success/"><u>[New] In 2024, The Ultimate Thumbnails Guide What Size Yields Success?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-8-free-online-courses-for-beginner-youtube-creators/"><u>[Updated] 2024 Approved 8 Free Online Courses for Beginner YouTube Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-flash-video-insights-guide/"><u>[Updated] Flash Video Insights Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embracing-the-night-dark-mode-guide-for-notepad-on-win-11/"><u>Embracing the Night: Dark Mode Guide for Notepad on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/end-file-explorer-stalls-strategies-for-win11-users/"><u>End File Explorer Stalls: Strategies for Win11 Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-broadcasts-with-these-manycam-substitutes-leading-live-webcam-options/"><u>Enhance Your Broadcasts with These ManyCam Substitutes: Leading Live Webcam Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/insiders-guide-maximizing-windows-11-efficiency/"><u>Insider's Guide Maximizing Windows 11 Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-boot-states-five-routines-for-resolving-security-errors-in-win/"><u>Mastering Boot States: Five Routines for Resolving Security Errors in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-terminal-backdrop-for-style/"><u>Optimize Terminal Backdrop for Style</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-msvcr100dll-file-absence-issues-step-by-step-guide/"><u>Resolving 'MSVCR100.dll' File Absence Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/smartphone-accessories-for-making-videos-for-2024/"><u>Smartphone Accessories for Making Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-security-five-alterations-to-windows-firewall/"><u>Streamlining Security: Five Alterations to Windows Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-yuzus-true-potential-on-windows-pc/"><u>Unleash Yuzu's True Potential on Windows PC</u></a></li>
+</ul></div>
+

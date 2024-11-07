@@ -1,7 +1,7 @@
 ---
 title: Circumventing Windows Defender for Additional Security Software
-date: 2024-10-29T19:46:00.466Z
-updated: 2024-11-01T19:30:11.590Z
+date: 2024-11-02T17:51:19.019Z
+updated: 2024-11-07T13:49:04.701Z
 tags:
   - windows10
   - windows11
@@ -42,18 +42,25 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 4. Next, toggle off the **Tamper Protection** switch. If prompted for confirmation, click **Yes**.  
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After disabling Tamper Protection, see if your third-party antivirus works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Turn Off Microsoft Defender
 
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Add an Exclusion for the File to Windows Defender
 
@@ -67,35 +74,29 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 ![Open Virus & threat protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-virus-threat-protection.jpg)
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
 
@@ -115,25 +116,6 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 
  So how do you fix this? Let's check it out.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-thriving-in-a-world-of-negative-video-reviews/"><u>[New] 2024 Approved Thriving in a World of Negative Video Reviews</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-gaming-on-the-green-comprehenive-review-of-vegas-pro-2021/"><u>[Updated] In 2024, Gaming on the Green Comprehenive Review of Vegas Pro 2021</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unlock-your-lens-skills-with-snapseed-essentials-for-2024/"><u>[Updated] Unlock Your Lens Skills with Snapseed Essentials for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/converti-gif-a-formato-flv-free-online-con-movavi/"><u>Converti GIF a Formato FLV Free Online Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convierte-archivos-mp2-a-formato-mp3-en-linea-gratis-con-una-solucion-de-convertidor-web-innovadora/"><u>Convierte Archivos MP2 a Formato MP3 en Línea Gratis Con Una Solución De Convertidor Web Innovadora</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/goods-under-article-2-are-defined-as-tangible-personal-property-that-can-be-moved-from-one-place-to-another/"><u>Goods Under Article 2 Are Defined as Tangible Personal Property that Can Be Moved From One Place to Another.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-omzettingen-van-ai-fysische-architecturen-online-movavi/"><u>Gratis Omzettingen Van AI-Fysische Architecturen Online - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-paso-a-paso-como-eliminar-y-recortar-archivos-de-video-mp4-sin-coste-alguno-desde-tu-computadora-o-servicio-online/"><u>Guía Paso a Paso: Cómo Eliminar Y Recortar Archivos De Video MP4 Sin Coste Alguno Desde Tu Computadora O Servicio Online</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-itel-p55t-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Itel P55T Device SIM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726218758115-mp3-movavi/"><u>MP3形式変換できる動画コンバーター - Movavi：オンライン・無料サービス</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-secretly-capturing-zoom-sessions-no-need-for-approvals/"><u>Quick Guide to Secretly Capturing Zoom Sessions – No Need for Approvals</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-for-a-new-beginning-with-windows/"><u>Step-by-Step Instructions for a New Beginning with Windows</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/transforming-srt-a-complete-reference-guide-for-conversion-for-2024/"><u>Transforming SRT A Complete Reference Guide for Conversion for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadget-insights-with-toms-technology-hub/"><u>Unveiling Gadget Insights with Tom’s Technology Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/44og44oq44on44km44o744kq44o844ox44oz44o744km44kn44ow44og44ov44kp44or44oa6lui6ycbic0g44oi44o044kh44ot44kj/"><u>ムリョウ・オープン・ウェブムフォルダ転送 - モヴァビィ</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,3 +123,20 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-filmmakers-must-visit-list-free-visual-effect-and-editing-websites-reviewed/"><u>[New] A Filmmaker's Must-Visit List Free Visual Effect & Editing Websites Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-crafting-the-perfect-close-youtubes-free-end-screen-tools/"><u>[New] In 2024, Crafting the Perfect Close YouTube's Free End Screen Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/capture-your-best-moments-3-simple-video-game-recording-solutions/"><u>Capture Your Best Moments 3 Simple Video Game Recording Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-interface-error-with-steamuidll/"><u>Fixing Steam Interface Error with Steamui.dll</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license/"><u>How to Retain Video Engagement Sustained Use of YouTube's CC License</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-decoding-varieties-in-hand-motion-tracking/"><u>In 2024, Decoding Varieties in Hand Motion Tracking</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-maximizing-visual-impact-integrating-free-high-quality-luts-into-obs/"><u>In 2024, Maximizing Visual Impact Integrating Free, High-Quality LUTs Into OBS</u></a></li>
+<li><a href="https://win-trending.techidaily.com/optimizing-video-capture-with-nvidias-hardware-encoding-h265hevc-screen-recordings/"><u>Optimizing Video Capture with Nvidia's Hardware Encoding: H.265/HEVC Screen Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-high-power-consumption-of-winwms-graphics-engine/"><u>Reducing High Power Consumption of WinWM's Graphics Engine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-perfect-key-collection-lifetime-access-to-top-priced-black-friday-windows-11/"><u>The Perfect Key Collection - Lifetime Access to Top Priced Black Friday Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-rated-professional-mp4-creator-software-effortless-conversion-of-all-video-types-into-high-quality-mp4-files/"><u>Top-Rated Professional MP4 Creator Software – Effortless Conversion of All Video Types Into High-Quality MP4 Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-memory-mystery-solved-identify-ram-right-now/"><u>Windows Memory Mystery Solved: Identify RAM Right Now</u></a></li>
+</ul></div>
+

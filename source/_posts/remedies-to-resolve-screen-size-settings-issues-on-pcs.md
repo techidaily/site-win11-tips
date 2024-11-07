@@ -1,7 +1,7 @@
 ---
 title: Remedies to Resolve Screen Size Settings Issues on PCs
-date: 2024-09-11T01:20:48.252Z
-updated: 2024-09-12T01:20:48.252Z
+date: 2024-11-05T10:03:27.809Z
+updated: 2024-11-06T21:35:24.133Z
 tags:
   - windows10
   - windows11
@@ -22,20 +22,6 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
  Let's get started.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Update or Reinstall the Display Drivers
 
  Display drivers (also known as Graphical drivers) are responsible for enabling your computer to accurately display images, videos, and other visual content. However, o​​​​​​utdated or incompatible display drivers can result in poor performance and visual glitches.
@@ -51,20 +37,6 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Updating the Display drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/7-Updating-the-Display-drivers-on-Windows.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  In the next window, select **Search automatically for updated driver software**. From there, follow the on-screen instructions to finalize the process.
 
  If the issue persists, update the display drivers using a different approach. For example, select the "Microsoft Basic Display Adapter Driver" option when updating the drivers. Let's check out the steps you need to follow:
@@ -77,25 +49,24 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Selecting the Microsoft Basic Display Adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-the-microsoft-basic-display-adapter.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Alternatively, reinstall the **display adapters** through these steps:
 
 1. Access the display adapters as per the previous steps.
 2. Right-click your PC’s **display adapter** and select **Uninstall device**.
 3. Click the **Action** tab in the top-left corner and select **Scan for hardware changes**. Restart your device to apply these changes.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Use Safe Mode, Perform a Clean Boot, Remove Faulty Apps, or Use a System Restore
 
@@ -108,19 +79,12 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 * **Update or Remove Faulty Apps**: If you find that a third-party app is the one behind the issue at hand, then update it and see if that helps. Otherwise, remove the app and reinstall it from a reputed site. When deleting a suspicious program, it’s best to [use a reliable third-party uninstaller](https://www.makeuseof.com/windows-10-iobit-uninstaller-batch-uninstall/). This will remove all the residual files that might remain and cause more issues.
 * **[Perform a System Restore](https://www.makeuseof.com/use-system-restore-windows/)**: When you use a restore point, the system will undo recent changes to your system without deleting your files. So if the "inaccessible screen resolution settings" issue is a recent thing, performing a system restore should help.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Uninstall Recently Installed Updates
 
@@ -152,20 +116,6 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 3. Click the **Check for updates** button on the right-hand side and then follow the on-screen instructions.
 
 ![Checking for Windows PC updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/9-Checking-for-Windows-PC-updates.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Configure the Screen Resolution Settings Using the Intel Graphics Command Center
 
@@ -200,19 +150,12 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 3. Select the **Additional troubleshooters** option on the right-hand side pane.
 4. Click the **Hardware and Devices troubleshooter** and press the **Run the troubleshooter** button. From there, follow the on-screen instructions and then restart your device.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 7\. Reset Windows
 
@@ -228,39 +171,12 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Resetting a Windows computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Resetting-a-Windows-computer.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 8\. Reinstall or Repair the Microsoft Visual C++ Programs
 
@@ -276,20 +192,6 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Reinstalling or Repairing the Microsoft Visual C++ Programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/4-Reinstalling-or-Repairing-the-Microsoft-Visual-C-Programs.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Click **Repair** on the pop-up screen. Finally, follow the on-screen instructions and restart your device to save these changes.
 
  If this doesn’t resolve the problem, try reinstalling the **Microsoft Visual C++** programs through these steps:
@@ -298,6 +200,13 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 2. Right-click on each **Microsoft Visual C++** program and click **Uninstall**.
 3. Reinstall the [Microsoft Visual C++ programs](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) from the Microsoft Website.
 4. Follow the on-screen instructions and then restart your device when you finish.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Configure Your Screen Resolution Settings Anytime
 
@@ -309,11 +218,28 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
  Let's get started.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-create-vibes-with-gifs-turning-vimeo-videos-into-animated-graphics/"><u>[Updated] Create Vibes with GIFs Turning Vimeo Videos Into Animated Graphics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-bandicam-scrutiny-a-detailed-evaluation-for-screen-capture-users/"><u>[Updated] In 2024, Bandicam Scrutiny A Detailed Evaluation for Screen Capture Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-youtube-integration-in-instagram-narratives/"><u>2024 Approved YouTube Integration in Instagram Narratives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-0x8004def5-quick-fixes-for-windows-11-users/"><u>Decoding 0X8004DEF5 - Quick Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-v29e-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Vivo V29e.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-mobile-vr-experiences-the-leading-10-headsets/"><u>In 2024, Top Mobile VR Experiences - The Leading 10 Headsets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unlock-new-dimensions-of-your-missing-iphone-x/"><u>In 2024, Unlock New Dimensions of Your Missing iPhone X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-defender-enable-external-antivirus-software/"><u>Overcoming Defender: Enable External Antivirus Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-the-windows-esc-key-a-guide-to-fixing-common-errors/"><u>Reviving the Windows Esc Key: A Guide to Fixing Common Errors</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-lava-agni-2-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Lava Agni 2 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-address-onedrive-sync-failures/"><u>Solutions to Address OneDrive Sync Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-network-not-reachable-problem/"><u>Tackling Windows Network Not Reachable Problem</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-masterclass-crafting-unique-lock-patterns/"><u>Windows 11 Masterclass: Crafting Unique Lock Patterns</u></a></li>
+</ul></div>
+

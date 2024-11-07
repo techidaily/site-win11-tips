@@ -1,7 +1,7 @@
 ---
 title: "Mastering Package Accessibility: A Step-by-Step Windows Solution"
-date: 2024-09-11T01:20:46.212Z
-updated: 2024-09-12T01:20:46.212Z
+date: 2024-11-03T21:12:29.657Z
+updated: 2024-11-06T19:41:48.239Z
 tags:
   - windows10
   - windows11
@@ -24,20 +24,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
  The setup file you’ve downloaded might not be compatible with your PC’s platform or could be corrupted. So, try downloading the setup wizard for the software you want to install again in a different folder path on the local drive. Make sure you download an installer for your Windows 11/10 platform (not a Linux or Mac OS). If there are alternative 64/32-bit versions, download the one that matches your platform’s architecture.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2\. Check if the Setup File is Blocked
 
  Windows sometimes applies blocks to ‘suspicious’ files downloaded. If your setup file is blocked, you’ll see an**Unblock** option within its properties window. You can unblock a setup file like this:
@@ -50,39 +36,25 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 5. Select**Apply** to save the file’s new properties.
 6. Click**OK** to close the properties window for the file.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 3\. Scan Your System's Files for Corruption
 
  Don’t rule out the possibility of system file corruption causing this installation issue. It’s easy to scan and repair system files with the System File Checker command-line utility. Check out our[how-to-run SFC guide](https://www.makeuseof.com/system-file-checker-sfc-windows/) for full instructions about applying this potential fix.
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scannow-command2-1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run the Windows Installer Service
 
@@ -94,34 +66,15 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-service-window-1.jpg)
 4. If Windows Installer isn’t running, click its**Start** button.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![The Start button for the Windows Installer service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/start-button-1.jpg)
 5. Select**Apply** to save the new service settings.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 6. Press the service window’s**OK** button.
 
@@ -130,20 +83,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
  Some users have also resolved this issue by creating new Windows admin accounts and installing the required software packages from them. To do that, you’ll need to add a new local user account via Settings and then set it to an administrator account type. You can apply this potential resolution by following the steps in our[guide to fixing Windows issues](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) by creating a new account.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-account-button-2.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  However, there’s no need to switch to the new user account you’ve set up. Log in to the new admin account you’ve set up and try downloading and installing the software you need from there. Then that software should also be available within the other user account you couldn’t install it in.
 
@@ -154,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
  Windows Security is the antivirus app included with Windows. You can disable that app’s Microsoft Defender antivirus component by turning off its**Real-time protection** option. Our guide on[how to disable disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) includes full instructions for how to do that.
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-setting-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’ve installed third-party security software, disable its antivirus component from the app’s settings tab or context menu. How you can do that varies a little bit between apps, but most of them have context menus with options for disabling their antivirus shields. Right-click the antivirus tool’s icon in the system tray and select an option for turning off its shield.
 
@@ -168,20 +114,14 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 ![The unregister command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unregister-command-2.jpg)
 4. Then reregister Windows Installer by executing the following command:  
 
-
-
+`msiexec /regserver`
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-`msiexec /regserver`
 
 ## 8\. Edit the FileSystem Registry Key
 
@@ -194,40 +134,15 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 ![The FileSystem key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/registry-editor-window-2.jpg)
 4. Input**0** in the**Value data** box for the**NtfsDisable8dot3NameCreation** DWORD if set to anything else.  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-option-2.jpg)
 5. Click**OK** to close the**Value** box.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 6. Double-click**Win31FileSystem** to bring up its**Value data** box.
 7. Set the value to**0** for the**Win31FileSystem** and click**OK** .
@@ -243,8 +158,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +165,20 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-time-travel-how-to-flip-videos/"><u>[New] In 2024, YouTube Time Travel How to Flip Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-break-free-top-10-exclusive-web-photo-workstations/"><u>[Updated] Break Free Top 10 Exclusive Web Photo Workstations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-viral-beats-cutting-edge-music-for-youtube-short-videos/"><u>2024 Approved Viral Beats Cutting-Edge Music for YouTube Short Videos</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/disabling-automatic-app-downloads-during-windows-11-upgrades-and-setups/"><u>Disabling Automatic App Downloads During Windows 11 Upgrades and Setups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-abrupt-terminations-of-df-in-windows-environment/"><u>Fixing Abrupt Terminations of DF in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-online-post-installation-of-windows/"><u>How To Get Online Post Installation of Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-emoji-15-on-windows-11-effortlessly/"><u>Leveraging Emoji 15 on Windows 11 Effortlessly</u></a></li>
+<li><a href="https://facebook.techidaily.com/linked-lives-online-8-approaches-to-digital-kinship/"><u>Linked Lives Online: 8 Approaches to Digital Kinship</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-non-functional-usb-ports-on-your-pc/"><u>Repairing Non-Functional USB Ports on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-app-removal-from-windows-11-os/"><u>The Art of App Removal From Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-steps-to-overcome-incompatible-driver-errors/"><u>Unveiling Steps to Overcome Incompatible Driver Errors</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-maximize-yandex-translate-in-video-translation-and-beyond/"><u>Updated 2024 Approved Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+</ul></div>
 

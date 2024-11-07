@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Defender: Enable External Antivirus Software"
-date: 2024-10-26T18:34:18.981Z
-updated: 2024-11-01T19:56:19.806Z
+date: 2024-11-03T00:16:31.302Z
+updated: 2024-11-07T13:50:06.755Z
 tags:
   - windows10
   - windows11
@@ -40,20 +40,28 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 3. Scroll down to **Virus & threat protection settings** and click on **Manage settings**.  
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 4. Next, toggle off the **Tamper Protection** switch. If prompted for confirmation, click **Yes**.  
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
 
  After disabling Tamper Protection, see if your third-party antivirus works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Turn Off Microsoft Defender
 
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Add an Exclusion for the File to Windows Defender
 
@@ -70,20 +78,20 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
@@ -102,39 +110,11 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
 
  Microsoft Defender is an essential security tool bundled with Windows. However, it may interfere with third-party antivirus software. Hopefully, one of these solutions has helped you resolve your problem.
 
  So how do you fix this? Let's check it out.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-from-shipping-secrets-to-surprises-unveiling-new-strategies/"><u>[New] 2024 Approved From Shipping Secrets to Surprises Unveiling New Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-premium-free-music-without-breaking-copyrights/"><u>[New] In 2024, Finding Premium, Free Music Without Breaking Copyrights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-superior-scripting-fx-vaults/"><u>[New] Superior Scripting FX Vaults</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-dynamic-duels-ranking-the-top-street-fighter-titles/"><u>[Updated] Dynamic Duels Ranking the Top Street Fighter Titles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-highlight-hacks-a-practical-guide-to-boosting-brand-engagement-on-insta-for-2024/"><u>[Updated] Highlight Hacks A Practical Guide to Boosting Brand Engagement on Insta for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-hdr-portraits-with-our-expert-techniques/"><u>2024 Approved Perfect HDR Portraits with Our Expert Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-essential-gigabyte-ethernet-driver-packages-online/"><u>Download and Update: Essential Gigabyte Ethernet Driver Packages Online</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A34 5G Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-malwarebytes-connectivity-woes-on-1011-windows-pcs/"><u>Mastering Malwarebytes Connectivity Woes on 10/11 Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/premium-savings-with-w11-pro-key-dont-miss-out/"><u>Premium Savings with W11 Pro Key - Don't Miss Out</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-error-x0001-in-nvidias-geforce-for-windows-devices/"><u>Resolving Error X0001 in Nvidia's GeForce for Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-halt-windows-task-movements/"><u>Techniques to Halt Windows Task Movements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tick-tock-troubles-in-wintime-calibrate-now/"><u>Tick-Tock Troubles in WinTime? Calibrate Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-resolving-0x80049dd3-type-error/"><u>Troubleshooting Windows 11: Resolving 0X80049DD3 Type Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-users-create-a-self-hosted-free-chatgpt-copy-with-gpt4all/"><u>Windows Users, Create a Self-Hosted Free ChatGPT Copy with GPT4All</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-passwords-how-to-lengthen-windows-pins-efficiently/"><u>Winning at Passwords: How to Lengthen Windows Pins Efficiently</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,3 +123,27 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-acme-audio-playwriting-compendium-for-2024/"><u>[New] Acme Audio Playwriting Compendium for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-fb-video-quick-subtitle-and-caption-creation-guide/"><u>[New] In 2024, Mastering FB Video Quick Subtitle & Caption Creation Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mkv-playback-top-macos-apps-reviewed/"><u>[New] MKV Playback Top macOS Apps Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-curated-animated-type-library/"><u>2024 Approved Expertly Curated Animated Type Library</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dial-down-desktop-debacle-solutions-for-silenced-keyboard-sounds/"><u>Dial Down Desktop Debacle: Solutions for Silenced Keyboard Sounds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/driving-traffic-with-creative-fb-video-marketing-hacks-for-2024/"><u>Driving Traffic with Creative FB Video Marketing Hacks for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-your-game-of-naraka-bladepoint-from-suddenly-stopping/"><u>How to Stop Your Game of Naraka: Bladepoint From Suddenly Stopping?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-utilize-bluescreenview-effectively/"><u>How to Utilize BlueScreenView Effectively</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-hotkeys-in-windows-11/"><u>Making the Most of Hotkeys in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-password-free-logins-with-troublesome-winpin/"><u>Mastering Password-Free Logins with Troublesome WinPIN</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-gradual-audio-reduction-in-digital-studios/"><u>Navigating Gradual Audio Reduction in Digital Studios</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-silence-resolving-issues-with-phasmophobias-in-game-voice-chat/"><u>Overcoming the Silence: Resolving Issues with Phasmophobia's In-Game Voice Chat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-bypassing-windows-defenders-protective-measures/"><u>Strategies for Bypassing Windows Defender's Protective Measures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/alancing-act-creative-freedom-vs-major-company-support-for-2024/"><u>The Balancing Act Creative Freedom vs Major Company Support for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-3-easiest-ways-to-fix-windows-1011-black-screen-with-cursor/"><u>Top 3 Easiest Ways to Fix Windows 10/11 Black Screen with Cursor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-your-windows-11-desk-into-a-gallery-sketch-guide-here/"><u>Turn Your Windows 11 Desk Into a Gallery - Sketch Guide Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-ais-evolution-within-the-windows-11-era/"><u>Unraveling AI's Evolution Within the Windows 11 Era</u></a></li>
+</ul></div>
+

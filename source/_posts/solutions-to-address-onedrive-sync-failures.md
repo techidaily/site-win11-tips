@@ -1,7 +1,7 @@
 ---
 title: Solutions to Address OneDrive Sync Failures
-date: 2024-10-25T16:10:30.517Z
-updated: 2024-11-01T19:38:36.345Z
+date: 2024-11-05T23:09:18.494Z
+updated: 2024-11-06T20:30:28.989Z
 tags:
   - windows10
   - windows11
@@ -52,14 +52,14 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
 
- If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
 ## 3\. Reset the OneDrive App
 
@@ -71,6 +71,14 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 `%localappdata%\Microsoft\OneDrive\OneDrive.exe /reset`  
 ![The reset OneDrive Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-reset-one-drive-command.jpg)
 4. Click**OK** to execute the reset command for OneDrive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`
 
@@ -84,16 +92,17 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 4. Click the**Change location** option.  
 ![The Change location option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-location-option.jpg)
 5. Select an alternative drive partition on your PC to link OneDrive with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Select Folder** to confirm the chosen location.
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
 
@@ -106,13 +115,21 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 3. Right-click the file affected by error 0x80070185 and select**Always keep on this** **device** .  
 ![The Always keep on this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-keep-on-this-device-option.jpg)
 4. Then right-click the same file again to select**Free up** **space** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Firewalls
@@ -127,21 +144,14 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 5. Select the two**Turn off Windows Defender Firewall** network settings, and click**OK** to apply.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-windows-defender-firewall-option.jpg)
 6. Return to OneDrive to see if the 0x80070185 error persists with the firewall off.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s also recommended to turn off any third-party firewalls installed. Some antivirus utilities also have firewalls. If you’ve installed any additional security software, select the option to disable its firewall if it has one.
 
@@ -162,13 +172,6 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![The Get button for OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-button-for-onedrive.jpg)
 8. Click**Get** to reinstall OneDrive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Access your OneDrive Files again
 
  OneDrive’s error 0x80070185 is not always easy to fix. However, users have got error 0x80070185 resolved by applying the troubleshooting methods above. Hopefully, one of them will restore access to your affected OneDrive files as well.
@@ -188,20 +191,24 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-simplified-guide-to-iphone-display-recordings/"><u>[New] 2024 Approved Simplified Guide to IPhone Display Recordings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-navigating-skies-drone-shooting-basics-for-2024/"><u>[New] Navigating Skies Drone Shooting Basics for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-cinematic-excellence-discover-the-best-15-gopro-action-cam-luts/"><u>[Updated] 2024 Approved Cinematic Excellence Discover the Best 15 GOPRO Action Cam LUTs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-grateful-reels-exclusive-free-and-paid-otus/"><u>[Updated] In 2024, Grateful Reels Exclusive Free & Paid OTUs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-transform-your-work-from-home-experience-with-skype-screen-sharing-techniques/"><u>[Updated] Transform Your Work-From-Home Experience with Skype Screen Sharing Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-sj7s-bold-step-forward-with-its-ultra-hd-4k-action-cam-review/"><u>2024 Approved SJ7's Bold Step Forward with Its Ultra HD 4K Action Cam Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-memory-management-in-windows-11/"><u>Efficient Memory Management in Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-logitech-g29-steering-wheel-game-drivers-installed-on-pcs-with-win-10-11-and-7/"><u>Get Your Logitech G29 Steering Wheel Game Drivers Installed on PCs with Win 10, 11 & 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/grasping-how-windows-handles-preemptive-memory/"><u>Grasping How Windows Handles Preemptive Memory</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-no-hypervisor-issue-on-windows-sandbox/"><u>Resolving No Hypervisor Issue on Windows Sandbox</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/shocking-sale-grab-the-apple-m2-macbook-air-for-under-850-from-amazon-now-wait-its-not-even-prime-time-yet/"><u>Shocking Sale: Grab the Apple M2 MacBook Air for Under $850 From Amazon Now – WAIT! It's Not Even Prime Time Yet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sifting-through-nvidia-drivers-to-find-best-suit-for-you/"><u>Sifting Through Nvidia Drivers to Find Best Suit For You</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-context-menu-customization-in-windows-11/"><u>The Art of Context Menu Customization in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tricking-tpm-and-secure-boot-a-guide-to-rufus-usage/"><u>Tricking TPM and Secure Boot: A Guide to Rufus Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-cheap-windows-key-savings-may-not-pay-off/"><u>Why Cheap Windows Key Savings May Not Pay Off</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-twitter-to-facebook-sending-your-tweets/"><u>[New] In 2024, From Twitter to Facebook Sending Your Tweets</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-video-to-music-selecting-the-cheapest-online-converters-for-2024/"><u>[Updated] From Video to Music Selecting the Cheapest Online Converters for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-diy-build-custom-google-cardboard-virtual-reality/"><u>[Updated] In 2024, DIY Build Custom Google Cardboard Virtual Reality</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-simplified-approach-to-nvidia-screen-recording/"><u>[Updated] In 2024, Simplified Approach to NVIDIA Screen Recording</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater/"><u>[Updated] Underwater Worlds Unseen Pro Tips for Capturing Vivid GoPro Footage Underwater</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-audio-experience-with-sonys-latest-ult-series-of-beats-enhancing-speakers-and-headphones/"><u>Boost Your Audio Experience with Sony's Latest ULT Series of Beats-Enhancing Speakers & Headphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-artistry-the-top-new-additions-to-paint-suite/"><u>Crafting Artistry: The Top New Additions to Paint Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-windows-script-policy-4-key-fixes-for-powershell-load-issues/"><u>Elevating Windows Script Policy: 4 Key Fixes for PowerShell Load Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-data-accuracy-in-winrar-with-six-checksum-methods/"><u>Ensuring Data Accuracy in WinRAR with Six Checksum Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-a-defective-msvcr110dll-file-in-os/"><u>Fixing a Defective msvcr110.dll File in OS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-7-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 7 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-apperror-with-text-on-w11-os/"><u>Overcoming AppError with Text on W11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-of-unheard-audio-devices-in-computers/"><u>Regain Control of Unheard Audio Devices in Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/roku-versus-chromecast-unraveling-the-best-streaming-device-on-the-market/"><u>Roku versus Chromecast - Unraveling the Best Streaming Device on the Market</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-windows-11-usability-with-exclusive-run-command-features/"><u>Skyrocket Windows 11 Usability with Exclusive Run Command Features</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-restoring-functionality-of-a-non-responsive-dell-touchpad-in-windows-11/"><u>Step-by-Step Guide: Restoring Functionality of a Non-Responsive Dell Touchpad in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-techniques-to-locate-graphic-card-model-in-win11/"><u>Swift Techniques to Locate Graphic Card Model in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-professional-way-of-keeping-windows-calls-logged/"><u>The Professional Way of Keeping Windows Calls Logged</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-changing-default-browser-on-windows-11/"><u>Tips for Changing Default Browser on Windows 11</u></a></li>
 </ul></div>
 

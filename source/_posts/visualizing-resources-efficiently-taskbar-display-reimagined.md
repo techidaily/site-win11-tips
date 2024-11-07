@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Resources Efficiently: Taskbar Display Reimagined"
-date: 2024-09-11T01:20:49.000Z
-updated: 2024-09-12T01:20:49.000Z
+date: 2024-11-04T14:28:26.105Z
+updated: 2024-11-07T06:13:42.974Z
 tags:
   - windows10
   - windows11
@@ -36,19 +36,12 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  If you can't see Task Manager’s system tray icon, it’s probably within the hidden icon menu. Click the small arrow by the system tray to view the hidden icon menu. Or you can [set the system tray to show an icon](https://www.makeuseof.com/system-tray-icons-windows-11/) for Task Manager.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Add System Resource Usage Details to the System Tray With Performance Monitor
 
@@ -64,38 +57,11 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 ![The Show in Tray Area](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-memory-tab.jpg)
 8. Click the **Show in Tray Area** checkbox.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 9. Select the same **Show in Tray Area** option on the **Disk** and **Network** tabs.
 
  Now you’ll see four separate system tray icons for your PC’s RAM, processor, network, and disk utilization within the system tray or overflow menu. Each icon shows a miniature usage line graph for its system resource. Hover your mouse’s cursor over the icons to view percentage usage stats for the system resource.
 
 ![The Memory Usage system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-usage-system-tray-icon.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  You can change the colors of the resource icons from their tabs in **Performance Monitor**. For example, to change the color of the RAM icon, click the **Background Color** option on the **Memory** tab. Then select a different color for the resource indicator on the palette and click **OK**.
 
@@ -103,19 +69,12 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
 ![A RAM system resource panel on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-ram-panel.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Add System Resource Usage Details to the System Tray With System Explorer
 
@@ -134,49 +93,29 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
 ![The System Explorer resource usage panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/system-explorer-system-resource-details.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If you’re a laptop user, you’ll notice System Explorer’s resource usage panel also includes a Battery sidebar. That bar shows how much battery is left. Below that bar, there are estimated battery time and charge rate details.
 
  You can configure what this system resource panel shows by clicking **Settings** on it. That will bring up a small menu with additional configuration settings. Select and deselect items to include or exclude on the system resource panel there.
 
 ![The settings for System Explorer's system resource panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-for-the-system-explorer-s-system-resource-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To view the computer resource usage details in System Explorer's window, double-click the software’s system tray icon. Click the **+** icon in System Explorer’s window and select **Performance**. That will bring up a **Performance** tab showing line graphs for processor, pages faulted, disk, and RAM usage.
 
 ![The Processes tab in System Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-processes-tab.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Don’t forget to check out the **Processes** tab to see how System Explorer compares with Task Manager. That tab includes options you can select to show or hide processes. For example, you can click the **Show Microsoft System Entries** option to hide Microsoft processes. Plus, that tab includes a search box, which is a handy addition for finding processes.
 
@@ -186,11 +125,31 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-a-comprehensive-look-at-uploading-images-to-youtube/"><u>[New] 2024 Approved A Comprehensive Look at Uploading Images to YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-extracting-youtube-songs-safely-a-free-guide-explored/"><u>[New] 2024 Approved Extracting YouTube Songs Safely A Free Guide Explored</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-building-a-reliable-routine-for-google-meet-sessions/"><u>[New] Building a Reliable Routine for Google Meet Sessions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-your-guide-to-the-top-8-tablets-for-next-level-photo-enhancements/"><u>[New] In 2024, Your Guide to the Top 8 Tablets for Next-Level Photo Enhancements</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-complete-guide-to-crafting-perfect-instagram-stories/"><u>[New] The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-master-the-art-of-listening-and-viewing-with-best-android-music-vids/"><u>[Updated] Master the Art of Listening and Viewing with Best Android Music Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-inadept-pc-specifications-for-games/"><u>Correcting Inadept PC Specifications for Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disabled-outlook-notification-settings-in-windows/"><u>Fixing Disabled Outlook Notification Settings in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-ancient-code-to-modern-design-7-timeless-traits-in-windows-11/"><u>From Ancient Code to Modern Design: 7 Timeless Traits in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harness-the-security-benefits-of-powershells-execution-policies/"><u>Harness the Security Benefits of PowerShell's Execution Policies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-become-a-pro-at-setting-up-vrecorder-fast/"><u>In 2024, Become a Pro at Setting Up VRecorder Fast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-recovery-post-lifes-peak-for-windows-users/"><u>Mastering Recovery Post-Life's Peak: For Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-gaming-odyssey-of-yesteryear-using-dosbox-x/"><u>The Gaming Odyssey of Yesteryear: Using DOSBox-X</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-lava-agni-2-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Lava Agni 2 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-troubled-games-decipher-vac-failed-steam-alert/"><u>Unlocking Troubled Games: Decipher VAC Failed Steam Alert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-codes-zeroing-out-the-0x800f0831-blight/"><u>WinError Codes: Zeroing Out the 0X800F0831 Blight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-recommended-windows-laptop-deal-a-great-substitute-for-the-macbook-air-at-discounted-price/"><u>ZDNet's Recommended Windows Laptop Deal: A Great Substitute for the MacBook Air at Discounted Price</u></a></li>
+</ul></div>
+

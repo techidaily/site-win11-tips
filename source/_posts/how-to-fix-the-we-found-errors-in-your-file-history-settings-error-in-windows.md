@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “We Found Errors in Your File History Settings” Error in Windows
-date: 2024-10-29T18:18:25.524Z
-updated: 2024-11-01T16:09:07.492Z
+date: 2024-11-02T09:22:59.756Z
+updated: 2024-11-07T08:47:51.723Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ To restart the File History Service in Windows:
 3. In the Services windows, scroll down to locate**File History Service** . Right-click on it and select**Restart** . If the service is not running, select**Start** .  
 ![Restart File Hisotry Service Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-hisotry-service-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disconnect and Reconnect the Backup Drive
 
  Connection problems with your external drive can also cause Windows to display the "We found errors in your File History settings" error. If it’s nothing major, you should be able to resolve the error by disconnecting and reconnecting your backup drive.
@@ -43,10 +50,10 @@ To restart the File History Service in Windows:
  While you're at it, try using a different USB port. This will help you determine if there’s a[problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Re-Select the Backup Drive and Restart File History
@@ -62,10 +69,10 @@ To restart the File History Service in Windows:
 ![Select File History Drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-file-history-drive-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After selecting your preferred drive, you’ll have to restart the File History feature on Windows. To do so, use the following steps:
@@ -77,10 +84,16 @@ To restart the File History Service in Windows:
 ![Turn On File History in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-file-history-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the error message persists even after this, you can try using a different drive for the File History backup and see if that works.
@@ -104,13 +117,6 @@ To restart the File History Service in Windows:
 3. Press**Ctrl + A** to select all the folders and click the**trash icon** at the top to delete them.  
 ![Delete File Hisotry AppData](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-file-hisotry-appdata.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing File History Errors on Windows
 
  After you apply the fixes listed above, the File History error should no longer bother you.
@@ -132,18 +138,18 @@ To restart the File History Service in Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-crafting-a-viral-video-journey-6-key-strategies-on-youtube/"><u>[New] Crafting a Viral Video Journey 6 Key Strategies on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-in-depth-guide-to-mobile-file-exchange-in-ios/"><u>[Updated] In 2024, In-Depth Guide to Mobile File Exchange in iOS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-innovative-10-solutions-for-seamless-video-background-swapping-for-2024/"><u>[Updated] Innovative 10 Solutions for Seamless Video Background Swapping for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elevating-conference-calls-top-3-methods-4-insights/"><u>2024 Approved Elevating Conference Calls Top 3 Methods, #4 Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-elitist-samsung-galaxy-s10-the-ultimate-high-end-device/"><u>In-Depth Analysis of the Elitist Samsung Galaxy S10: The Ultimate High-End Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo V27 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-mandatory-requirements-problem-on-win11win11/"><u>Remedying Mandatory Requirements Problem on Win11/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverse-engineering-steams-unauthorized-file-access/"><u>Reverse Engineering Steam's Unauthorized File Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-11s-disappeared-symbols/"><u>Reviving Windows 11'S Disappeared Symbols</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-disk-differentiation-hddssd-checks-in-windows/"><u>Streamlining Disk Differentiation: HDD/SSD Checks in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-path-to-a-clearer-taskbar-w11-edition/"><u>The Path to a Clearer Taskbar: W11 Edition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nubia-red-magic-9-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nubia Red Magic 9 Pro Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-youtube-brand-identity-increasing-subscriber-count/"><u>[New] 2024 Approved Mastering YouTube Brand Identity Increasing Subscriber Count</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-channel-collaboration-unified-watch-experience-across-platforms/"><u>[New] In 2024, Channel Collaboration Unified Watch Experience Across Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-airwaves-to-iphone-essential-knowledge-on-podcast-downloads/"><u>[Updated] 2024 Approved From Airwaves to iPhone Essential Knowledge on Podcast Downloads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-create-a-youtube-music-playlist-on-web-and-mobile-a-detailed-guidance/"><u>[Updated] Create a YouTube Music Playlist on Web and Mobile - A Detailed Guidance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artisans-handbook-to-photomontage-creation/"><u>[Updated] The Artisan's Handbook to PhotoMontage Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-methods-for-taking-notes-in-windows-11/"><u>Free Methods for Taking Notes in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-xiaomi-redmi-a2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Xiaomi Redmi A2</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-leading-soundstage-viewing/"><u>In 2024, Leading Soundstage Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-text-input-embedding-keyboard-triggers-into-context-menu-bar/"><u>Maximizing Text Input: Embedding Keyboard Triggers Into Context Menu Bar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-issue-after-windows-11-patch-quick-troubleshooting-steps-inside/"><u>No Audio Issue After Windows 11 Patch? Quick Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-windows-folders-how-to-enforce-access-controls/"><u>Securing Windows Folders: How to Enforce Access Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-taskers-odd-collection-edge-and-more/"><u>The Tasker's Odd Collection: Edge & More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-to-windows-11-without-a-hitch-top-8-tips/"><u>Transition to Windows 11 Without a Hitch: Top 8 Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Efficiency in File Handling: Windows Edition (Max 156)"
-date: 2024-09-11T01:20:48.007Z
-updated: 2024-09-12T01:20:48.007Z
+date: 2024-11-06T07:47:17.708Z
+updated: 2024-11-07T11:48:52.621Z
 tags:
   - windows10
   - windows11
@@ -30,20 +30,6 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
 ![unsupported characters in filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unsupported-characters-in-filenames.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  While you can name a file the way you want, there are some limitations to what characters you can use. Windows operating system does not allow certain characters in filenames, which include:
 
 * < (less than)
@@ -58,41 +44,27 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
  You can use spaces anywhere in the filename, but be mindful of the fact that some software does not recognize files with spaces. Instead of spaces, you can use underscores, dashes, and Camel case (e.g., FileName instead of File Name).
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 3\. Keep Your Filenames Short and Snappy
 
 ![Length of filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/length-of-filenames.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Windows 10 and 11 support up to 260 characters in a filename, meaning you can stuff many details into a filename. However, you should not aim to reach that 260 characters limit. Ideally, a filename should not be longer than 35 characters.
 
  With all that said, sometimes it might be worth it to keep the filename lengthy. And if you think you benefit more from a long filename than a shorter one, you should not hesitate but make sure it's unique and consistently structured.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Don't Use Specific, Reserved Words in Filenames
 
@@ -109,19 +81,18 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
  It is also worth noting that the above-reserved names followed by extensions are also not allowed to be used as filenames. For instance, you can not use NUL.txt as your filename.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Filenames on Windows Are Case-Insensitive
 
@@ -129,53 +100,25 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
 ![Rename file dialogue box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rename-file-dialogue-box.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  It is important to note that you can use the same name in files without numbers in the parenthesis as long as they are not in the exact location. So if you want to use the same name in files, you have to keep them in separate locations.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6\. Learn How to Rename Multiple Files at Once
 
  If you think you were committing all sorts of mistakes while naming files on Windows and now want to fix your mistakes, you can easily[batch rename files in Windows](https://www.makeuseof.com/tag/batch-rename-mass-delete-files-windows/) using File Explorer, Command Prompt, or PowerShell. You can also batch rename the file extensions if you think you made mistakes there.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 7\. You Can Use Emojis in Filenames to Spice Things up
 
@@ -184,26 +127,6 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
  One of the coolest ways you can name files on Windows is by choosing emojis instead of words. You can[use whatever emojis you want in the name of your Windows files](https://www.makeuseof.com/windows-emoji-file-folder-drive-names/) . You can also mix words and emoticons if that works best for you; there is no limitation on using emojis anywhere in the filename.
 
  While emojis may not be hugely beneficial, they can make filenames more expressive if used properly.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 8\. Include Dates in Filenames to Make Them Descriptive
 
@@ -223,38 +146,28 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To be able to find the exact file on Windows quickly is not as simple as you think. If you type something in the File Explorer search box, it will show a laundry list of files containing what you just typed. Thus, it makes things difficult for you to find the exact file in File Explorer.
 
  For example, if you are looking for a file called**Windows.11** and want your PC to show you the exact file instead of a list of files with "windows" and "11" in them, you can type "name: Windows.11" in the File Explorer search box. This will only show you the exact file you are looking for.
 
  Other than the "name" search syntax, some popular ones include "kind," "size," and "date." If you type "size: 54 KB" in the File Explorer search bar, it will show you a list of files that are precisely 54 KB in size. We've shown[how to fix File Explorer search when it's not working](http://www.makeuseof.com/tag/fix-windows-file-explorer-search/) if you run into any problems.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Get Better Filenames on Windows With These Tips
 
  People often ignore the importance of getting filenames right on their PCs. But with the tips above, you can be a pro at naming files. It will take some time to get used to everything we just shared. And it is certainly worth remembering them because they can make you more productive and certainly help you create a more organized environment in File Explorer or any other third-party file management tool you may be using.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -263,4 +176,20 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-onscreen-excellence-video-talent-licensing-for-2024/"><u>[Updated] Onscreen Excellence Video Talent Licensing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-collection-top-6-apps-to-capture-on-mac/"><u>[Updated] The Ultimate Collection Top 6 Apps to Capture on Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/emerging-tech-news-apple-developing-cost-effective-ar-eyewear-and-accessible-headset-options-as-reported/"><u>Emerging Tech News: Apple Developing Cost-Effective AR Eyewear and Accessible Headset Options as Reported</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-based-epic-launcher-problems-swiftly/"><u>Fixing Windows-Based Epic Launcher Problems Swiftly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-wingetui-for-effortless-app-packages-on-windows-11/"><u>Leveraging WingetUI for Effortless App Packages on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-pc-security-innovative-lock-patterns-on-windows-11/"><u>Personalizing PC Security: Innovative Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-elusive-energy-duration-display-on-pcs-running-win-11/"><u>Rectifying Elusive Energy Duration Display on PCs Running Win 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-apples-m2-macbook-air-hits-surprising-low-of-799-beating-out-octobers-anticipated-discount-event/"><u>Revolutionary Apple's M2 MacBook Air Hits Surprising Low of $799, Beating Out October's Anticipated Discount Event</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-utilizing-netstat-on-windows-11-os/"><u>The Ultimate Guide to Utilizing Netstat on Windows 11 OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-software-expert-picks-from-zdnet/"><u>Top-Ranking Mac Software : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-your-windows-11-for-emoji-15-display/"><u>Upgrading Your Windows 11 for Emoji 15 Display</u></a></li>
+</ul></div>
 

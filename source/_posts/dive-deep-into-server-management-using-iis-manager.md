@@ -1,7 +1,7 @@
 ---
 title: Dive Deep Into Server Management Using IIS Manager
-date: 2024-10-31T16:39:14.609Z
-updated: 2024-11-01T18:24:23.718Z
+date: 2024-10-31T01:52:29.041Z
+updated: 2024-11-07T03:17:16.198Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,10 @@ To add and test a website using the IIS tool, follow these steps:
  You’ve learned how to open the IIS tool using the Run command dialog box. Now, let’s explore the various other ways to access this tool.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open the IIS Manager Using the Start Menu Search Bar
@@ -65,10 +65,10 @@ To add and test a website using the IIS tool, follow these steps:
 ![Opening the IIS Manager Using the Start Menu Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-start-menu-search-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open the IIS Manager Using the Start Menu
@@ -94,6 +94,19 @@ To add and test a website using the IIS tool, follow these steps:
 
 ![Opening the IIS Manager Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-file-explorer-address-bar.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Open the IIS Manager Using the Task Manager
 
  The Task Manager is helpful when it comes to analyzing system performance or[closing problematic programs on Windows](https://www.makeuseof.com/tag/how-to-kill-unresponsive-programs-without-the-task-manager/) . But that’s not all—you can also use this tool to open almost any app on your device.
@@ -108,10 +121,10 @@ Here’s how to access the IIS Manager using the Task Manager:
 ![Opening the IIS Manager Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Open the IIS Manager Using the Control Panel
@@ -126,13 +139,6 @@ Here’s how to access the IIS Manager using the Task Manager:
 4. Double-click on the**Internet Information Services (IIS) Manager** on the next screen.
 
 ![Opening the IIS Manager Using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Open the IIS Manager Using the Command Prompt or PowerShell
 
@@ -156,6 +162,13 @@ Here’s how to open the IIS Manager using the Command Prompt:
 
 `InetMgr.exe`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Open the IIS Manager From the Windows System32 Directory
 
 ![A lady using a Windows PC while sitting on a bench](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-sitting-on-a-bench.jpg)
@@ -177,19 +190,6 @@ Here’s how to open the IIS Manager using the Command Prompt:
 
  To pin the IIS Manager to the taskbar, right-click on the InetMgr option and select**Pin to taskbar** .
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Open the IIS Manager Using a Desktop Shortcut
 
  One of the easiest ways to access any Windows app is to use a desktop shortcut. So, let’s explore how you can create a desktop shortcut for the IIS Manager:
@@ -201,16 +201,16 @@ Here’s how to open the IIS Manager using the Command Prompt:
 
 ![Creating the IIS Manager desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/creating-the-iis-manager-desktop-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type**Internet Information Services (IIS) Manager** in the "Name" box and then click the**Finish** button.
 
  Now, your desktop shortcut is ready. To make things easier, you should consider pinning this desktop shortcut to the taskbar.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What’s Your Favorite Method for Accessing the IIS Tool?
 
@@ -231,24 +231,24 @@ Here’s how to open the IIS Manager using the Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-esl-english-as-second-language-for-vr/"><u>[New] 2024 Approved The ESL (English as Second Language) for VR</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-math-behind-making-money-youtubes-viewer-insights/"><u>[New] In 2024, The Math Behind Making Money YouTube’s Viewer Insights</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-optimal-tactics-for-saving-android-interactions/"><u>[Updated] 2024 Approved Optimal Tactics for Saving Android Interactions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-making-an-impact-integrating-individual-thumbnails-in-videos-for-2024/"><u>[Updated] Making an Impact Integrating Individual Thumbnails in Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/15-top-rated-beginner-friendly-video-editing-tools/"><u>15 Top Rated Beginner-Friendly Video Editing Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-amateurs-to-experts-shooting-spectacentic-photos-and-videos/"><u>2024 Approved From Amateurs to Experts Shooting Spectacentic Photos & Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/analisis-completo-de-freemake-video-converter-funcion-coste-y-datos-adicionales/"><u>Análisis Completo De Freemake Video Converter - Función, Coste Y Datos Adicionales</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cortando-videos-para-mac-una-guia-sencilla-con-movavi/"><u>Cortando Videos Para Mac - Una Guía Sencilla Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/create-dynamic-music-slide-shows-in-dutch-using-van-movavi/"><u>Create Dynamic Music Slide Shows in Dutch Using Van Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-speech-recognition-in-windows-pc/"><u>Enhance Speech Recognition in Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-mp3-converter-change-your-audio-files-from-mpe-to-wav-format-with-ease/"><u>Free MP3 Converter: Change Your Audio Files From MPE to WAV Format with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/insufficient-cpu-warning-boost-your-processor-power-for-seamless-vanguard-use/"><u>Insufficient CPU Warning: Boost Your Processor Power for Seamless Vanguard Use</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-qualcomm-atheros-ar3011-bluetooth-30-driver-get-it-here/"><u>Latest Qualcomm Atheros AR3011 Bluetooth 3.0 Driver - Get It Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/les-5-meilleurs-editeurs-de-videos-pour-instagram-reconnus-par-les-utilisateurs-guide-complet/"><u>Les 5 Meilleurs Editeurs De Vidéos Pour Instagram Reconnus Par Les Utilisateurs: Guide Complet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-vob-convert-movavi/"><u>Online VOB 파일을 자유성적으로 Convert: Movavi를 사용한 단격 가이드</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-mss32dll-file-is-missing-step-by-step-troubleshooting-guide/"><u>Resolving 'mss32.dll' File Is Missing: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-3gp-in-formato-wav-senza-costi-movavi/"><u>Trasforma I File 3GP in Formato WAV Senza Costi - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-ogv-in-mp4-gratuitamente-guida-completa-di-movavi/"><u>Trasforma I File OGV in MP4 Gratuitamente: Guida Completa Di Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-best-tablet-for-you-a-comprehhem-review-of-the-ipad-air-with-m2-chip-by-apple-highly-recommended-zdnet-exclusive/"><u>Unveiling the Best Tablet for You: A Comprehhem Review of the iPad Air with M2 Chip by Apple, Highly Recommended | ZDNET Exclusive</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/p-by-step-approach-to-crafting-your-video-market-standouts/"><u>A Step-by-Step Approach to Crafting Your Video' Market Standouts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-ad-revenue-distribution-in-youtubes-economic-model/"><u>Decoding Ad Revenue Distribution in YouTube's Economic Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-command-line-productivity-the-advanced-windows-run-extension/"><u>Enhancing Command-Line Productivity: The Advanced Windows Run Extension</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-disguise-search-icon-on-windows-11/"><u>Guide to Disguise Search Icon on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdr-brilliance-justified-choice-or-overkill/"><u>HDR Brilliance Justified Choice or Overkill?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-dispel-windows-directive-not-empty-myth-a-guide-on-0x80070091/"><u>How to Dispel Windows' Directive Not Empty Myth: A Guide on 0X80070091</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-newest-graphics-card-software-installing-msi-b350s-tomahawk-drivers-on-windows-pcs/"><u>How to Get the Newest Graphics Card Software: Installing MSI B350's Tomahawk Drivers on Windows PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-6s-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 6s Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tech-triumphs-cutting-edge-vr-devices-reviewed/"><u>In 2024, Tech Triumphs Cutting-Edge VR Devices Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-the-old-timey-folder-experience/"><u>Reinstating the Old-Timey Folder Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-common-problems-with-the-logitech-c92e-webcam-step-by-step-guide/"><u>Solving Common Problems with the Logitech C92e Webcam – Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-notorious-0xc000003e-application-error-on-windows-11-and-11/"><u>Tackling the Notorious 0xC000003E Application Error on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-role-of-runtime-brokers-in-enhancing-system-security/"><u>The Role of Runtime Brokers in Enhancing System Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-functionality-of-windows-1011-clock/"><u>The Unseen Functionality of Windows 10/11 Clock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-on-enabling-and-disabling-fn-key-on-pcs/"><u>Tips on Enabling & Disabling Fn Key on PCs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unleashing-creativity-with-aes-best-text-presets-for-2024/"><u>Unleashing Creativity with AE's Best Text Presets for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-mystery-methods-of-discovering-windows-product-codes/"><u>Unlock the Mystery: Methods of Discovering Windows Product Codes</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>Updated 2024 Approved Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
 </ul></div>
 

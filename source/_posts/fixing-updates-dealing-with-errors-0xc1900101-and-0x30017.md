@@ -1,7 +1,7 @@
 ---
 title: "Fixing Updates: Dealing with Errors 0xC1900101 and 0X30017"
-date: 2024-09-11T01:20:49.319Z
-updated: 2024-09-12T01:20:49.319Z
+date: 2024-11-03T09:44:34.151Z
+updated: 2024-11-07T07:27:43.859Z
 tags:
   - windows10
   - windows11
@@ -19,26 +19,6 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
  The update error 0xC1900101 – 0x30017 pops up when the users try to either install a system update or upgrade to the latest Windows version. There can be a number of reasons behind this issue, such as insufficient space for the update, antivirus installation, and corruption issues within the system.
 
  The following sections discuss the possible causes and troubleshooting methods for this error. Select the troubleshooting method that is most appropriate for your situation and proceed with it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## What Causes the 0xC1900101 – 0x30017 Error?
 
@@ -60,20 +40,6 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 
  Head over to our guide on[different methods of freeing up storage space in Windows](https://www.makeuseof.com/windows-11-free-up-storage-space/) for more information.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2\. Uninstall Your Antivirus
 
  If you are using a third-party antivirus program on your computer, it may be blocking the system’s process of installing updates. The solution in this case is simple, as all that you need to do is disable or uninstall the security program temporarily.
@@ -86,6 +52,13 @@ Here is how you can do that:
 2. Choose**Shields control** \>**Disable until the computer is restarted** .  
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are not using a third-party security program, you can try[disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) as well. However, we highly recommend that you enable it back after installing the update. Keeping it disabled for a long time can expose your system to risks and potential threats.
 
 ## 3\. Rule Out Corruption Issues
@@ -94,59 +67,31 @@ Here is how you can do that:
 
  To fix this, we will be using the Windows update troubleshooter, System File Checker, and DISM to find potential issues. Additionally, these utilities will resolve most of the problems they find on their own.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 3.1 Use the Windows Update Troubleshooter
 
 ![Run the Windows Update troubleshooter](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  You can run the Windows Update troubleshooter via Windows Settings. Instructions on how to run the troubleshooter can be found in our guide on[how to fix Windows Update getting stuck](https://www.makeuseof.com/tag/windows-update-stuck/) .
 
  Once the troubleshooter has finished scanning, check if any issues are identified. If so, the troubleshooter will recommend fixes that can resolve the issue. Click on**Apply this fix** to proceed. In case the utility fails to identify the issues, click on Close the troubleshooter and move to the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.2 Run SFC and DISM Scans
 
 ![SFC and DISM Scan](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  The next thing that you should do is run the SFC and DISM scans via Command Prompt. Check out[the difference between CHKDSK, SFC, and DISM scans](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) for more information and instructions for these tools.
 
@@ -166,6 +111,13 @@ Here is how you can do that:
 
  If you don't see any exclamation marks, or you don't think Windows managed to do a good enough job, check out[the best free driver updaters for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Update Your BIOS
 
  Finally, the issue can also be caused due to a bug or corruption issues within the BIOS. Fortunately, you can resolve most of these issues by updating the BIOS to the latest available version.
@@ -173,20 +125,6 @@ Here is how you can do that:
  It's good practice to update your BIOS when a new version comes out. And there are plenty of[reasons why you should update your PC's BIOS](https://www.makeuseof.com/reasons-why-you-should-update-pc-bios/) , including unlocking additional hardware support.
 
  Different motherboard manufacturers have different instructions for this, so we recommend visiting the manufacturer's website for more information. Keep in mind, this can be a nerve-wracking and time-consuming process, so only proceed when you have enough time to spare.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Now You Can Upgrade Windows to the Latest Build
 
@@ -198,8 +136,6 @@ Here is how you can do that:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +143,18 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-photographing-the-stars-at-night-with-iphones/"><u>[New] Photographing the Stars at Night with iPhones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-perfect-speech-interpretation-googles-innovative-solution/"><u>[Updated] Perfect Speech Interpretation Google's Innovative Solution</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-rethinking-tiktok-a-2023-guide-to-alternative-networks-for-2024/"><u>[Updated] Rethinking TikTok A 2023 Guide to Alternative Networks for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/experience-premium-features-at-zero-expense-begin-your-free-demo-today/"><u>Experience Premium Features at Zero Expense: Begin Your Free Demo Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-build-your-own-voice-to-text-software-with-ahk-and-whisper/"><u>How to Build Your Own Voice-To-Text Software with AHK and Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-ensure-alerts-when-webcam-is-used-in-windows-11/"><u>How to Ensure Alerts When Webcam Is Used in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-nord-n30-se-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-access-control-return-users-to-standard-settings/"><u>Mastering Access Control: Return Users to Standard Settings</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uniting-worlds-explore-your-galaxys-full-potential-via-dex/"><u>Uniting Worlds: Explore Your Galaxy's Full Potential via DeX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-potential-of-netstat-for-network-monitoring/"><u>Unlocking the Potential of Netstat for Network Monitoring</u></a></li>
+</ul></div>
 

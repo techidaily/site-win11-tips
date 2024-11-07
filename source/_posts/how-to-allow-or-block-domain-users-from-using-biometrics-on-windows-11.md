@@ -1,7 +1,7 @@
 ---
 title: How to Allow or Block Domain Users From Using Biometrics on Windows 11
-date: 2024-10-27T16:37:49.480Z
-updated: 2024-11-01T20:02:08.061Z
+date: 2024-11-04T17:38:00.095Z
+updated: 2024-11-07T05:25:16.667Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 ![Enable option in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-option.png)
 6. Click **Apply** \> **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Allow or Block a Biometrics Log-On Using the Registry Editor
 
  Another way to configure biometrics log-on for the domain users is through the Registry Editor. Here's how:
@@ -52,38 +59,31 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 ![DWORD (32-bit) Value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dword-32-bit-value.jpg)
 4. Name the value **Domain Accounts.**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Naming the Value Domain Accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/domain-accounts.jpg)
 5. Double-click on the Domain Accounts value, type **1** in the **Value data** section to enable biometrics log on and **0** to disable biometrics log on for domain users.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Editing the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/value-data.jpg)
 6. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control Biometrics Logins on Your Computer
@@ -92,23 +92,6 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  This article will show some quick ways to allow or block a domain user from logging on using biometrics in Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/-peek-into-the-heart-of-youtubes-video-operations-for-2024/"><u>[New] A Peek Into the Heart of YouTube's Video Operations for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-hidden-melodic-markers-ios-and-android-recording-app-overview/"><u>[Updated] 2024 Approved Hidden Melodic Markers IOS & Android Recording App Overview</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-unlocking-mp3-from-pinterest-video-files-with-these-steps/"><u>[Updated] In 2024, Unlocking MP3 From Pinterest Video Files with These Steps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-chromium-os-built-in-video-capturer/"><u>2024 Approved Chromium OS Built-In Video Capturer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/code-39-trouble-heres-how-to-correctly-fix-it-in-windows/"><u>Code 39 Trouble? Here's How to Correctly Fix It in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/control-desktop-icon-and-thumbnail-pics-w11/"><u>Control Desktop Icon and Thumbnail Pics W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-mic-during-video-captures-using-powerpoint/"><u>Enabling Mic During Video Captures Using PowerPoint</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-asus-bt50n-bluetooth-driver-for-windows-11108-download-now/"><u>Get the Latest Asus BT50n Bluetooth Driver for Windows 11/10/8 - Download Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-your-activation-key-not-working-in-windows-11-how-to-fix-it/"><u>Is Your Activation Key Not Working in Windows 11? How to Fix It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-tabs-a-step-by-step-to-windows-11-mastery/"><u>Navigating Tabs: A Step-by-Step to Windows 11 Mastery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-market-with-toms-hardware-advice/"><u>Navigating the Market with Tom's Hardware Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quicker-text-entry-typingaids-methodology/"><u>Quicker Text Entry: TypingAid's Methodology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-os-office-malfunction-error/"><u>Steps to Resolve Windows OS Office Malfunction Error</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -116,3 +99,23 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-essence-of-vimeo-user-friendly-video-service/"><u>[New] In 2024, The Essence of Vimeo User-Friendly Video Service</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-channel-expansion-through-smart-youtube-link-building-methods/"><u>[Updated] In 2024, Channel Expansion Through Smart YouTube Link-Building Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210666541-9781786787415-a-spell-a-day/"><u>A Spell a Day | Free Book</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/from-novices-to-enthusiasts-a-guide-to-making-everyone-love-video-games/"><u>From Novices to Enthusiasts: A Guide to Making Everyone Love Video Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-tips-on-troubleshooting-frozen-obs-fullscreen-problem/"><u>In 2024, Tips on Troubleshooting Frozen OBS Fullscreen Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-auditory-setup-crafting-win11-written-hotkeys/"><u>Mastering Auditory Setup: Crafting Win11' Written Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-console-user-management/"><u>Mastering Windows Console User Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-erase-illustration-in-win-search/"><u>Methods to Erase Illustration in Win Search</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-the-world-of-consoles-5-must-know-tips-before-buying-one/"><u>Navigating the World of Consoles: 5 Must-Know Tips Before Buying One</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pioneering-teams-changing-vrs-course/"><u>Pioneering Teams Changing VR's Course</u></a></li>
+<li><a href="https://extra-support.techidaily.com/s3700-sony-bd-play-new-insights-for-2024/"><u>S3700 Sony BD PLAY New Insights for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-commands-prep-terminal-for-prominence/"><u>Supercharge Commands: Prep Terminal for Prominence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-role-of-winservicesexe/"><u>Understanding the Role of Winservices.exe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-blue-screen-dumps-usage-and-benefits/"><u>Unraveling Windows Blue Screen Dumps: Usage & Benefits</u></a></li>
+</ul></div>
+

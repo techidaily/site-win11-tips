@@ -1,7 +1,7 @@
 ---
 title: How to Recover Lost Search Output in Win 10/11 OS
-date: 2024-10-29T18:17:17.409Z
-updated: 2024-11-01T16:08:34.196Z
+date: 2024-11-05T07:25:47.454Z
+updated: 2024-11-07T05:25:28.374Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 5. Click the**Can't start a search or see results** checkbox, and select the troubleshooter’s**Next** option. The **Files, folders, apps, or settings don't appear in results** checkbox is also a suitable option to select for troubleshooting this issue.  
 ![The Search and Indexing troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-search-and-indexing-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The steps for opening the Search and Indexing troubleshooter in Windows 10’s Settings app aren’t exactly the same. Click**Update & Security** \>**Troubleshoot** in Windows 10’s Settings app. Selecting**Additional troubleshooters** will bring up the list. Then you can click**Run the troubleshooter** for Search and Indexing to open it from there.
 
 ## 3\. Select the Enhanced Search Option
@@ -65,22 +58,23 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 3. Click the**Searching Windows** navigation option.  
 ![The Search Windows navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-searching-windows-navigation-option.jpg)
 4. Then select the**Enhanced** radio button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Enhanced radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-enhanced-radio-button.jpg)
 5. Click the menu buttons for all excluded search folders listed below that option and select**Remove** .  
 ![The Remove option for excluded folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-remove-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Start the Windows Search Service
@@ -92,26 +86,28 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 3. Double-click**Windows Search** within the Services app.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-services-window2.jpg)
 4. Click the drop-down menu for the**Startup type** option to select the service’s**Automatic** option.  
-![The Windows Search Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-windows-search-properties-window.jpg)
-5. Press**Start** in the properties window if the search service isn’t running.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Windows Search Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-windows-search-properties-window.jpg)
+5. Press**Start** in the properties window if the search service isn’t running.
 
 6. To save the changed settings, click the**Apply** option.
 7. Select**OK** to close Windows Search Properties.
 
  If the Windows Search service is already running, try restarting it. Select the**Stop** option for Windows Search. Wait a few minutes, and click the**Start** button for the service to restart it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run a Scan With the SFC Tool
 
@@ -134,26 +130,20 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 2. Select**Large icons** on Control Panel’s**View by** menu.  
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-large-icons-button.jpg)
 3. Click**Indexing Options** to view that applet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Advanced** in the Indexing Options window.
 5. Click**Rebuild** in the Index**Settings** tab.  
 ![The Rebuild button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-rebuild-option.jpg)
 6. Wait for the rebuilding to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Select**OK** \>**Close** to exit the indexing applet.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Cortana
 
@@ -170,10 +160,10 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 7. Press**Enter** to execute the PowerShell command.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
@@ -181,6 +171,13 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
  If nothing else fixes the search tool not showing results, this is the last-resort resolution to try. Resetting Windows reinstalls the platform by restoring it to a default configuration, which will most likely be enough to resolve this search issue. However, you’ll need to reinstall any software you previously installed after a reset.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-this-pc-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can perform a reset with the Reset this PC recovery tool. That utility includes an option for preserving user files. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this resolution with that tool.
 
@@ -203,18 +200,24 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/cambia-tu-f4v-a-un-video-mov-en-internet-de-forma-gratuita-como-usar-el-servicio-de-movavi-para-conversion-perfecta/"><u>Cambia Tu F4V a Un Video MOV en Internet De Forma Gratuita: Cómo Usar El Servicio De Movavi Para Conversión Perfecta</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/captivating-collections-frames-and-organizers-of-the-future/"><u>Captivating Collections Frames & Organizers of the Future</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-ogg-files-to-m4a-format-no-cost-with-movavis-web-service/"><u>Convert OGG Files to M4A Format - No Cost with Movavi's Web Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-turning-wmv-into-m4a-audio-files-with-ease/"><u>Free Online Conversion: Turning WMV Into M4A Audio Files with Ease</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-zte-blade-a73-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track ZTE Blade A73 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/iphone/"><u>IPhone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-the-hurdles-a-comprehensive-solution-for-overwatchs-ptt-issues/"><u>Overcoming the Hurdles: A Comprehensive Solution for Overwatch's PTT Issues</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/pilihan-pertama-terakhir-perangkat-lunak-gratis-os-migrasi-menyelamatkan-data-anda-dan-mempercepat-komputer/"><u>Pilihan Pertama-Terakhir Perangkat Lunak Gratis OS Migrasi: Menyelamatkan Data Anda Dan Mempercepat Komputer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/rated-recs-prime-websites-for-grabbing-snapalert-beats-for-2024/"><u>Rated Recs Prime Websites for Grabbing SnapAlert Beats for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rmvb-avi-movavi/"><u>RMVB AVI型式優質影片線上全部付文件 - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-multi-media-suite-by-movavi-your-trustworthy-digital-tool/"><u>Secure Multi-Media Suite by Movavi: Your Trustworthy Digital Tool</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-windows-11-optimized-video-streaming/"><u>Unveiling Windows 11 Optimized Video Streaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-tier-screen-capture-tools-for-windows-and-macos/"><u>[New] 2024 Approved Top-Tier Screen Capture Tools for Windows & macOS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-masterful-online-advertising-for-beginners-4-must-know-strategies/"><u>[New] Masterful Online Advertising for Beginners 4 Must-Know Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-stardom-made-easy-essential-editing-strategies-explored/"><u>[New] YouTube Stardom Made Easy Essential Editing Strategies Explored</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-climb-the-popularity-ladder-essential-youtube-seo-practices-uncovered/"><u>[Updated] 2024 Approved Climb the Popularity Ladder Essential YouTube SEO Practices Uncovered</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-gimp-reviews-top-rated-cross-platform-no-cost-photo-editing-software/"><u>Comprehensive GIMP Reviews: Top Rated Cross-Platform, No Cost Photo Editing Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-low-usb-support-issue-in-windows/"><u>Eliminating Low USB Support Issue in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fixing-windows-10-photo-viewer-hangs-quickly/"><u>Fixing Windows 10 Photo Viewer Hangs Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-the-unexpected-windows-11s-error-0x8007045d/"><u>Handling the Unexpected: Windows 11'S Error 0X8007045D</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hush-windows-11-techniques-to-cease-operations/"><u>Hush Windows 11: Techniques to Cease Operations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210064523-9781071549742-il-potere-della-meditazione/"><u>Il potere della Meditazione | Free Book</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/mastering-the-art-of-starting-windows-11-in-safe-mode-three-simple-techniques/"><u>Mastering the Art of Starting Windows 11 in Safe Mode: Three Simple Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-sailing-solving-11-windows-11-woes/"><u>Smooth Sailing: Solving 11 Windows 11 Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-failure-in-windows-office-programs-quickly/"><u>Solving Failure in Windows Office Programs Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-missing-ubisoft-launcher-errors/"><u>Strategies for Fixing Missing Ubisoft Launcher Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-simplification-with-hdd-defragmentation-in-win11/"><u>System Simplification with HDD Defragmentation in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-screenscape-win-1011-theme-variety-for-monitors/"><u>Tailored Screenscape: Win 10/11 Theme Variety for Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-personalization-in-windows-11-through-strategic-adjustments/"><u>The Art of Personalization in Windows 11 Through Strategic Adjustments</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unmasked-influence-introducing-the-power-players-of-insta-for-2024/"><u>Unmasked Influence Introducing the Power Players of Insta for 2024</u></a></li>
 </ul></div>
 

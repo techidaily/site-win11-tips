@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Wisdom: The 4 Best Practices for User Suppression"
-date: 2024-10-29T19:25:17.334Z
-updated: 2024-11-01T16:11:51.715Z
+date: 2024-11-01T07:56:34.756Z
+updated: 2024-11-07T00:15:44.189Z
 tags:
   - windows10
   - windows11
@@ -81,16 +81,24 @@ To disable a user account using Command Prompt:
 4. Locate the user account name in the return list.  
 ![command prompt net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user.jpg)
 5. Next, type the following command to disable the specified user account:  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `net user NewUser /active:no`
 6. In the above command, replace**NewUser** with the user account name you want to disable.  
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
 7. Next, type**exit** and press Enter to close Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. If you need to enable the account again, execute the following command:  
@@ -98,10 +106,10 @@ To disable a user account using Command Prompt:
 9. Make sure to replace NewUser with the account name you want to enable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable a User Account From the Computer Management Console
@@ -118,19 +126,6 @@ To disable a user account using Command Prompt:
 ![computer management local users groups users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users.jpg)
 4. Next, locate and select**Local Users and Groups.**
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the**Users** folder**.**
 
 1. In the right pane, you can view all the user accounts on your PC.
@@ -141,16 +136,10 @@ To disable a user account using Command Prompt:
 5. To enable the account gain, uncheck the**Account is disabled** option and click**Apply** and**OK** .
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disable User Account Using Local Users and Groups on Windows 11 Home
@@ -169,10 +158,10 @@ To disable a user account using Command Prompt:
 6. Click**Apply** and**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## There Are Many Ways to Disable a User Account on Windows 11
@@ -196,24 +185,17 @@ To disable a user account using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-rethink-your-favorite-films-top-7-replacements/"><u>[New] Rethink Your Favorite Films - Top 7 Replacements</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-cutting-edge-techniques-for-game-capture-specialists/"><u>2024 Approved Cutting-Edge Techniques for Game Capture Specialists</u></a></li>
-<li><a href="https://article-helps.techidaily.com/capture-brilliance-essential-lighting-hacks-for-iphone/"><u>Capture Brilliance Essential Lighting Hacks for IPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-fixing-hyper-v-error-code-0x8009030e/"><u>Diagnosing and Fixing Hyper-V Error Code 0X8009030E</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/going-mobile-with-ai-assistance-the-ultimate-guide-to-access-chatgpt-throughout-the-world-using-chatgpt-everywhere/"><u>Going Mobile with AI Assistance: The Ultimate Guide to Access ChatGPT Throughout the World Using ChatGPT Everywhere</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-drone-vfx-experience-try-no-cost-luts-on-mini-and-air-drones/"><u>In 2024, Drone VFX Experience – Try No-Cost LUTS on Mini & Air Drones</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-neo-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Neo to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-canon-devices-mx870-legacy-and-modern-windows/"><u>Install Canon Devices: MX870, Legacy & Modern Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-soundscape-by-tuning-irqs/"><u>Mastering Windows Soundscape by Tuning IRQs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-windows-11-personal-hub/"><u>Mastering Your Windows 11 Personal Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-inaccessible-displays-on-nvidia-software/"><u>Overcoming Inaccessible Displays on Nvidia Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-11-search-steps-for-successful-reinstatement/"><u>Reviving Windows 11 Search: Steps for Successful Reinstatement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silence-system-updates-notification-on-pc/"><u>Silence System Updates Notification on PC</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/transforming-your-fb-audience-with-effective-cover-videos-for-2024/"><u>Transforming Your FB Audience with Effective Cover Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transition-period-adapting-to-a-world-without-windows-781-updates/"><u>Transition Period: Adapting to a World Without Windows 7/8.1 Updates</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/virtualdub-a-comprehensive-review-and-comparison-to-rivals-for-2024/"><u>Virtualdub A Comprehensive Review and Comparison to Rivals for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-and-def5-nine-strategies-to-resolve-onedrive-errors/"><u>Win11 and DEF5: Nine Strategies to Resolve Onedrive Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-under-siege-how-to-spot-and-expel-wacatacbml-trojan/"><u>Windows Under Siege: How to Spot and Expel Wacatac.B!ml Trojan</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-samsung-bd-j5900-review-for-2024/"><u>[New] Samsung BD-J5900 Review for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubing-101-the-right-devices/"><u>[New] Youtubing 101 The Right Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-integrating-text-overlays-into-social-media-streaming/"><u>[Updated] 2024 Approved Integrating Text Overlays Into Social Media Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-premier-strategies-in-sport-broadcasting-technology/"><u>[Updated] Premier Strategies in Sport Broadcasting Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-joyfuljourney-sign-up-share-and-create-fun-videos/"><u>2024 Approved JoyfulJourney Sign Up, Share and Create Fun Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-org-managed-configuration-issues-in-windows-11-os/"><u>Correcting Org-Managed Configuration Issues in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-resource-occupancy-challenges-in-windows-11/"><u>Easing Resource Occupancy Challenges in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-win10s-sound-flaw-error-xc00d36b4/"><u>Eliminating Win10's Sound Flaw: Error Xc00d36b4</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-14-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 14 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-kaufen-macx-mediatrans-mit-sonderrabatt-erwerben/"><u>Online Kaufen: MacX MediaTrans Mit Sonderrabatt Erwerben</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-windows-practices-for-audio-recordings/"><u>Proven Windows Practices for Audio Recordings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimize Windows 11 Soundscape with Custom Control Commands
-date: 2024-10-27T17:53:39.764Z
-updated: 2024-11-01T18:19:57.088Z
+date: 2024-10-31T09:37:01.997Z
+updated: 2024-11-07T09:16:14.431Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 ![The Extract compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/extract-compressed-window.png)
 7. Press the **Extract** button to [extract the ZIP archive in Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up a Mute Hotkey
 
  When you’ve extracted NirCmd’s archive, no program installation is required. Nor do you even need to launch it in any way. You will, however, need to note down, or copy, NirCmd’s extracted path. Then you can set up volume control shortcuts based on that utility’s commands. This is how you can establish a mute hotkey with NirCmd.
@@ -55,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 ![The mutesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/mutesysvolume-command.png)
 7. Click **Next** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Enter **Mute** in the shortcut name box, and select the **Finish** option.
 
  Now you’ve got a Mute shortcut on your desktop. Start playing a video in a browser or media player, and click that shortcut to mute it. You can add a hotkey to that desktop Mute button as follows.
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-key-box3.png)
 4. Select **Apply** to save.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Start playing a video, and press the **Ctrl + Alt + M** keyboard shortcut. You can unmute the sound by pressing **Ctrl + Alt + M** again. Pressing that hotkey both mutes and unmutes audio.
 
  Don’t delete the Mute desktop shortcut. Deleting that shortcut will also erase the hotkey added to it. So, you’ll need to keep all audio control shortcuts on the desktop for their hotkeys to work.
@@ -80,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 
 ![The Change icon window and Mute desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/change-icon-window.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up a Hotkey for Maximizing Volume
 
  Aside from a mute hotkey, you can [set up a keyboard shortcut](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) for maximizing volume. If you want a hotkey to max out volume (just don’t disturb the neighbors), you can create one with NirCmd’s **setsysvolume 65535** command. You can establish a max volume desktop shortcut much the same as a mute one with the Create Shortcut tool. The only difference is that you’ll need to input this command in the location box instead: **“NirCmd folder path\\nircmd.exe” setsysvolume 65535**.
@@ -94,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 ![The setsysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/setsysvolcommand.png)
 
  The 65,535 in that command is NirCmd’s maximum decibel value. Clicking your new maximum audio desktop shortcut will max out playback volume. Thereafter, you can apply a hotkey to the max volume desktop shortcut just the same as for the mute one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Create Volume Up and Down Hotkeys
 
@@ -111,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
  Decrease volume by 5,000 units: **“NirCmd folder path\\nircmd.exe” changesysvolume -5000**
 
 ![The changesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/changesysvolume-command.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note that you can change the unit values in those commands. To configure a shortcut to increase volume more, for example, you could input **changesysvolume 5000** in the location box instead. Or enter **changesysvolume -10000** to decrease the decibel level by twice as much. However, all values must be below the maximum of 65,535\.
 
@@ -139,28 +139,28 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 ![The Mixer tab in Volume Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-mixer-tab.jpg)
 4. Press the **Select** button beside the software to which you want to assign the custom hotkeys.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click the **Lock** checkbox to ensure the volume control hotkeys always remain assigned to the selected software.
 
  Try out the custom volume hotkeys you’ve set for the software. Play a video within your software if you can. Press the keyboard shortcuts you’ve assigned to the app to raise, lower, and mute its volume. Those hotkeys will only affect the app’s volume level and won’t change the general system sound beyond it. The Volume bar within the **Mixer** tab shows you the audio level for the software.
 
 ![A YouTube video in the Opera browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-youtube-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also create new volume control hotkeys from scratch with Volume Control. To do so, select the **Advanced Hotkeys** checkbox on the **Settings** tab. Then you’ll see a **Create New Hotkey** button on the **Hotkeys** tab you can press to set up new keyboard shortcuts. You can select options on an **Action** drop-down menu with advanced hotkeys enabled.
 
 ![The Action drop-down menu for advanced hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-new-hotkey-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adjust Playback Volume With Your New Sound Control Hotkeys
@@ -169,27 +169,6 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-darkest-hours-meet-brightest-blessings/"><u>[New] In 2024, Darkest Hours Meet Brightest Blessings</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-step-by-step-process-to-master-color-grading-with-luts-in-pscc/"><u>[New] In 2024, Step-by-Step Process to Master Color Grading with LUTs in PSCC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-best-value-top-6-discounted-4k-hd-projectors/"><u>[Updated] In 2024, Best Value Top 6 Discounted 4K HD Projectors</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-8-unique-workout-concepts-for-a-pulse-raising-video-channel/"><u>2024 Approved 8 Unique Workout Concepts for a Pulse-Raising Video Channel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-legjobb-ip-cameras-and-their-complementary-free-software-for-seamless-streaming/"><u>Best Legjobb IP Cameras and Their Complementary Free Software for Seamless Streaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-income-with-movavis-rewarding-affiliate-network/"><u>Boost Your Income with Movavi's Rewarding Affiliate Network</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comment-transformer-facilement-un-video-mkv-en-format-avi/"><u>Comment Transformer Facilement Un Vidéo MKV en Format AVI?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/flvmpeg-movavi/"><u>FLVからMPEGへの無料で簡単なオンライン変換 - Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-civi-3-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Civi 3 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-stop-unexpected-noise-interferences-in-windows-easily/"><u>How to Stop Unexpected Noise Interferences in Windows Easily</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-tunefab-revolutionizing-the-art-of-video-capture/"><u>In 2024, Tunefab Revolutionizing the Art of Video Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-nastinovy-skoleni-podrobna-postupy-a-vikna-pro-starsich-hracici/"><u>Movavi Nástinový Školení: Podrobná Postupy a Víkna Pro Starších Hracíči</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/scopri-i-primissimi-software-per-lettorieditor-pdf-una-lista-dei-migliori-6-alternative-per-i-tuoi-bisogni-digitali/"><u>Scopri I Primissimi Software per Lettori/Editor PDF: Una Lista Dei Migliori 6 Alternative Per I Tuoi Bisogni Digitali</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-12-caddy-per-display-per-computer-portatili-suggerimenti-e-consigli-di-ottimizzazione-seo/"><u>Top 12 Caddy Per Display Per Computer Portatili: Suggerimenti E Consigli Di Ottimizzazione SEO</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-wma-in-ogg-gratuitamente-online-utilizzando-movavi/"><u>Trasforma I Tuoi WMA in Ogg Gratuitamente Online Utilizzando Movavi!</u></a></li>
-<li><a href="https://facebook.techidaily.com/troubleshooting-lack-of-security-token-sending-by-facebook/"><u>Troubleshooting Lack of Security Token Sending by Facebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-what-sets-apples-airpods-fourth-generation-aside-detailed-model-to-model-insights/"><u>Unveiling What Sets Apple's AirPods ˈFourth Generation Aside - Detailed Model-to-Model Insights</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -197,3 +176,22 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-free-sustainable-scenes-for-filmmakers/"><u>[New] 2024 Approved Free Sustainable Scenes for Filmmakers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-hidden-methods-for-dodging-digital-study-vids-for-2024/"><u>[Updated] Hidden Methods for Dodging Digital Study Vids for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-essential-ringtones-a-chrome-companion-collection/"><u>[Updated] In 2024, Essential Ringtones A Chrome Companion Collection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-2023s-social-trend-peaks-in-graphs-for-2024/"><u>Charting 2023'S Social Trend Peaks in Graphs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensively-addressing-file-creation-fails-in-windows-error-30005/"><u>Comprehensively Addressing File Creation Fails in Windows Error 30005</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-techniques-for-launching-windows-calculator/"><u>Efficient Techniques for Launching Windows' Calculator</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enhance-fluency-best-methods-for-online-finnish-study/"><u>Enhance Fluency: Best Methods for Online Finnish Study</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpd-win-4-portable-computing-redefined/"><u>GPD Win 4: Portable Computing Redefined</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-ultimate-top-10-tiktok-editor-tools-for-windows-users/"><u>In 2024, Ultimate Top 10 TikTok Editor Tools for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inter-system-sharing-made-simple-with-nearby-share/"><u>Inter-System Sharing Made Simple with Nearby Share</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-fullscreen-failsures-in-sonic-gameplay-on-w11/"><u>Navigating Fullscreen Failsures in Sonic Gameplay on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-how-to-rectify-zero-x-eight-oh-three-one-f-errors/"><u>Quick Guide: How To Rectify Zero X Eight Oh Three One F Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-increase-space-on-win11-drives-without-trashing-data-max-156-chars/"><u>Strategies to Increase Space on Win11 Drives Without Trashing Data (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-battle-against-the-d3d11-gpu-hurdle-in-w11w10/"><u>Winning Battle Against the D3D11 GPU Hurdle in W11/W10</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Handling 'Access Forbidden' On Windows Network
-date: 2024-10-29T19:42:13.269Z
-updated: 2024-11-01T19:36:49.373Z
+date: 2024-11-02T09:18:21.445Z
+updated: 2024-11-07T10:15:36.325Z
 tags:
   - windows10
   - windows11
@@ -37,16 +37,10 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
  If the issue was the lack of administrator privileges, your app will run by the end of these steps.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disable Potentially Unwanted App Blocking
@@ -58,6 +52,14 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 3. Then click the **Reputation-based protection** **settings** link to view more settings.  
 ![The Reputation-based protection settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reputation-based-settings-option.jpg)
 4. Deselect the **Block apps** checkbox if that feature is enabled.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Block apps checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-block-apps-checkbox.jpg)
 
 ## 3\. Deselect the "Unblock File" Setting
@@ -74,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 4. Click **General** if the properties window doesn't open with that tab by default.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Then uncheck the selected **Unblock** checkbox if you can see one.  
@@ -86,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 7. Click **OK** to close the file's properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Edit the File's Permissions
@@ -117,15 +119,16 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 3. Then click **Browse** to select an EXE file the error occurs for and press the **OK** button.  
 ![The Create Shortcut tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-shortcut-window.jpg)
 4. Select **Next** and input a shortcut title in the text box.
-5. Click **Finish** to add the new program shortcut.
-6. Right-click the program's old shortcut to select **Delete** (the trash can button in Windows 11).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Click **Finish** to add the new program shortcut.
+6. Right-click the program's old shortcut to select **Delete** (the trash can button in Windows 11).
 
 ## 6\. Double-Check the File's Location
 
@@ -135,16 +138,16 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 
 ![The Target box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-target-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That **Target** box will show whether the file is on another drive. If it is, connect the external drive that includes the file to your PC to access it. Double-check that the file specified hasn't been deleted if the **Target** box references the local C: drive. To do that, open the folder path specified in File Explorer.
 
  Should you discover a shortcut's file has been deleted, you might be able to retrieve it. Open the Recycle Bin to see if the file is in it. If so, right-click the file and select **Restore**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Enable Admin Permissions With the Group Policy Editor
 
@@ -155,16 +158,17 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 3. Then double-click **Security Settings** \> **Local Policies** \> **Security Options** in Group Policy Editor's sidebar.  
 ![The Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/group-policy-editor.jpg)
 4. Double-click the **Admin Approval Mode for Built-in Administrator** account policy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then select the **Enabled** radio button.  
 ![The Admin Approval Mode policy setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-admin-approval-mode-policy-settings.jpg)
 6. Click **Apply** to set the policy.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Select **OK** to exit the window for the policy setting and close the Group Policy Manager utility.
 
@@ -175,17 +179,10 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 ![Add an exclusion button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-exclusion-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Temporarily Disable Any Active Third-Party Security Software
@@ -217,23 +214,6 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 
  So, how do you solve the "cannot access the specified device" error? Check out some of the troubleshooting steps you can take below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-effortless-screen-capture-on-chrome-os-devices/"><u>[New] 2024 Approved Effortless Screen Capture on Chrome OS Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/asus-vivobook-11-comprehensive-review-of-the-ultraportable-and-budget-friendly-laptop/"><u>Asus VivoBook 11 - Comprehensive Review of the Ultraportable and Budget-Friendly Laptop</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-practices-with-recuva-the-ultimate-guide-to-data-rescue-and-deletion-undoing/"><u>Best Practices with Recuva – The Ultimate Guide to Data Rescue & Deletion Undoing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elusive-disappearance-of-taskbars-control-in-win-11/"><u>Elusive Disappearance of TaskBar's Control in Win 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-6-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 6 in the Best Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-prolong-the-wait-before-closing-windows-10-when-active-tasks-are-running/"><u>How to Prolong the Wait Before Closing Windows 10 When Active Tasks Are Running</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-making-funny-photos-no-fees-involved/"><u>In 2024, Making Funny Photos No Fees Involved</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-microsoft-store-error-on-win11-with-code-0x80073cf3/"><u>Remedying the Microsoft Store Error on Win11 with Code 0X80073cf3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-utorrent-writes-and-reads-errors-on-windows-os/"><u>Resolving uTorrent' Writes & Reads Errors on Windows OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transform-your-videos-seamlessly-convert-wmv-to-swf-at-no-cost-using-movavis-web-service/"><u>Transform Your Videos Seamlessly: Convert WMV to SWF at No Cost Using Movavi's Web Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-settings-through-alomware-applications/"><u>Transforming Windows Settings Through AlomWare Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-the-msvcr110dll-missing-error-and-how-do-you-fix-it/"><u>What Is the Msvcr110.dll Missing Error and How Do You Fix It?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -241,3 +221,21 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-acoustic-architects-leading-sites-to-buy-skype-tones/"><u>[New] In 2024, Acoustic Architects Leading Sites to Buy Skype Tones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-download-your-instagram-masterpieces-easily/"><u>[Updated] 2024 Approved Download Your Instagram Masterpieces Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-the-steady-freeze-top-9-fixes-for-windows-update-stall/"><u>Decode the Steady Freeze: Top 9 Fixes for Windows Update Stall</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-download-and-install-nvidia-drivers-for-windows-users-11-7-and-8/"><u>Easy Guide to Download and Install Nvidia Drivers for Windows Users (11, 7 & 8)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevating-personal-fitness-with-fitbit-inspire-hr-an-exhaustive-assessment-of-the-always-on-tracker/"><u>Elevating Personal Fitness with Fitbit Inspire HR - An Exhaustive Assessment of the Always-On Tracker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-troubleshoot-cant-get-mail-on-windows-11-mail/"><u>Essential Tips to Troubleshoot Can't Get Mail on Windows 11 Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-driver-cant-load-on-this-device-on-windows-11/"><u>How to Fix “A Driver Can’t Load on This Device” On Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-gt-5-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme GT 5?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y200-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y200 Phone FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterclass-in-mitigating-chrome-profiles-malfunctions/"><u>Masterclass in Mitigating Chrome Profiles Malfunctions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-nba-2k21s-troublesome-black-load-barrier-expert-tips-for-a-smooth-play/"><u>Resolve NBA 2K21's Troublesome Black Load Barrier – Expert Tips for a Smooth Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essence-of-ai-pcs-and-their-distinct-features/"><u>The Essence of AI PCs and Their Distinct Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-techniques-for-sanitizing-your-tv-clicker-safely-and-effectively/"><u>The Ultimate Techniques For Sanitizing Your TV Clicker Safely & Effectively</u></a></li>
+</ul></div>
+

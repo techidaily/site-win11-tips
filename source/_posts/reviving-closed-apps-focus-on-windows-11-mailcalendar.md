@@ -1,7 +1,7 @@
 ---
 title: "Reviving Closed Apps: Focus on Windows 11 Mail/Calendar"
-date: 2024-10-25T16:02:29.577Z
-updated: 2024-11-01T19:14:34.588Z
+date: 2024-11-01T01:35:15.470Z
+updated: 2024-11-06T20:55:55.994Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,21 @@ thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb
 ![Windows Check for update screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Check-for-updates.jpg)
 4. Windows will check for any pending updates and install them if available.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After updating to the latest OS version, check if you can open the app. If not, move on to the next solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Download the Latest Updates for Mail and Calendar
 
@@ -58,10 +72,10 @@ Here's how to update Mail and Calendar on Windows 11.
 4. Microsoft Store will suggest updates for all the installed UWP apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Download the update available for Mail and Calendar.
@@ -81,20 +95,13 @@ Here's how to run the Windows Store Apps Troubleshooter.
 ![A screenshot of some of Windows 11's troubleshooters, including one for 'Windows Store Apps.'](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/other-app-troubleshooters-windows-11.jpg)
 5. The troubleshooting window will pop up and look for the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If any problem is found, follow the onscreen instructions to apply the potential fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check Mail Sync Settings
@@ -107,13 +114,6 @@ Here's how to run the Windows Store Apps Troubleshooter.
 2. Choose the**Email & accounts** option under the**Account** **settings** .  
 ![Email & accounts option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/email-accounts.jpg)
 3. Click the drop-down icon next to your email account and choose**Manage** from the menu that crops up.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Manage option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/manage-option.jpg)
 4. Choose the**Change mailbox sync settings** option.
@@ -132,10 +132,10 @@ Here's how to run the Windows Store Apps Troubleshooter.
 3. Enable the toggle next to**Mail and Calendar** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Mail and Calendar toggle in Calendar window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mail-and-calendar-toggle.jpg)
@@ -168,13 +168,6 @@ Here's how to do it.
 
  Command Prompt will take a few seconds to execute the command. After that, the Microsoft Store will open automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Whitelist Mail and Calendar on Windows Defender Firewall
 
  Windows Defender Firewall is a built-in Windows tool that makes sure that your system is free from viruses and malware. But at the same time, if Mail and Calendar is blocked under the Firewall settings, you will fail to access the app. You'll have to allow Mail and Calendar through the Firewall to fix the problem.
@@ -190,20 +183,13 @@ Here's how to do it.
 ![Windows Firewall allow an app through firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Mail-and-Calendar.jpg)
 7. Click OK to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The third-party antivirus program can also cause the issue. Try to disable it and check if you can access the Mail and Calendar app.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Re-Register the Mail And Calendar App
@@ -217,6 +203,19 @@ Here's how to register the Mail and Calendar app.
 `Get-AppxPackage -allusers Microsoft.windowscommunicationsapps | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register &ldquo;$($_.InstallLocation)\AppXManifest.xml&rdquo;}`
 
  Wait until the command is executed. After that, reboot the system, and check for the problem.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Remove Corruption From Your Computer
 
@@ -247,6 +246,13 @@ Reboot the system once DISM finishes.
 
  Next, open the Microsoft Store, and download the Mail and Calendar app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Mail And Calendar With Ease
 
  It is pretty hard to pinpoint the exact reason behind the problem; thus, you might have to go through all the solutions to make the Mail and Calendar app accessible again. But if none of the solutions was helpful, you can consider using a third-party application.
@@ -266,19 +272,21 @@ Reboot the system once DISM finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-evasive-techniques-for-anonymous-instagram-broadcasting/"><u>[New] 2024 Approved Evasive Techniques for Anonymous Instagram Broadcasting</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-document-total-screen-content-for-2024/"><u>[Updated] Document Total Screen Content for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-10-yoga-youtube-channel-to-help-you-stay-fit/"><u>[Updated] Top 10 Yoga YouTube Channel to Help You Stay Fit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/app-stores-showdown-ios-app-store-against-google-play-analysis/"><u>App Stores Showdown: IOs App Store Against Google Play Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/breaking-news-finally-la-noire-releases-for-windows-and-mac-users/"><u>Breaking News: Finally, LA Noire Releases for Windows and Mac Users!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experiencing-connection-problems-with-discord-how-to-tell-if-the-platform-is-down-for-everyone/"><u>Experiencing Connection Problems with Discord? How to Tell if the Platform Is Down for Everyone.</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-master-audio-recording-the-micless-methodology/"><u>In 2024, Master Audio Recording The Micless Methodology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introducing-kali-linux-to-your-windows-environment/"><u>Introducing Kali Linux to Your Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-pc-repair-top-13-approaches-to-revive-windows/"><u>Mastering PC Repair: Top 13 Approaches to Revive Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-the-missing-entry-issue-in-windows-os/"><u>Mending the Missing Entry Issue in Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-installation-of-epson-printer-drivers-on-windows/"><u>Quick and Simple Installation of Epson Printer Drivers on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-missing-bluetooth-on-windows-device-manager/"><u>Remedying Missing Bluetooth on Windows Device Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-steam-icons-in-desktop/"><u>Troubleshooting Missing Steam Icons in Desktop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-the-best-apps-to-master-sound-transformation/"><u>[New] 2024 Approved Unveiling the Best Apps to Master Sound Transformation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financially-flourishing-online-media-personality/"><u>[New] In 2024, Financially Flourishing Online Media Personality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-crafting-flawless-transcriptions-googles-speech-magic/"><u>[Updated] Crafting Flawless Transcriptions Google’s Speech Magic</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-peak-craft-space-25-appraisal/"><u>2024 Approved Peak Craft Space 25 Appraisal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-resolving-audacitys-windows-audio-glitch/"><u>Diagnosing and Resolving Audacity's Windows Audio Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ditching-windows-11s-highlighted-desktop-icon/"><u>Ditching Windows 11'S Highlighted Desktop Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-media-quality-with-minimal-lag-in-vlc/"><u>Elevating Media Quality with Minimal Lag in VLC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c300-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C300 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-everyday-tasks-seamless-with-desktop-widgets-on-win-11/"><u>Making Everyday Tasks Seamless with Desktop Widgets on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-msresourceappname-glitch-in-windows-11/"><u>Rectifying 'MsResource/AppName' Glitch in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sailing-past-hurdle-52-in-automotive-landscape/"><u>Sailing Past Hurdle #52 in Automotive Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-solve-invalid-profile-on-windows-pc/"><u>Steps to Solve 'Invalid Profile' On Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ethical-boundaries-chatgpt-and-harmful-programming/"><u>The Ethical Boundaries: ChatGPT and Harmful Programming</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-y28-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Y28 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/webex-microphone-troubleshooting-fixes-you-need-to-know-for-202n4/"><u>Webex Microphone Troubleshooting: Fixes You Need to Know for 202N4!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wsl-and-its-significance-for-linux-users/"><u>WSL and Its Significance for Linux Users</u></a></li>
 </ul></div>
 

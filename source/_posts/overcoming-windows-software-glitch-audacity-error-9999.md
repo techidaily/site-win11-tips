@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Software Glitch: Audacity Error 9999"
-date: 2024-10-28T17:11:41.058Z
-updated: 2024-11-01T16:24:41.029Z
+date: 2024-11-05T18:12:06.380Z
+updated: 2024-11-06T19:24:41.418Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 ![The Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-recording-audio-troubleshooter.jpg)
 7. Then press**Next** to start the Recording Audio troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Close All Communication Apps Before Running Audacity
 
  Error 9999 can arise because of other messaging and video conference apps, such as Skype, Teams, Google Meet, and Zoom, using the microphone. Such apps can run in the background when you’re utilizing Audacity on the taskbar. If you have other communication apps installed that can potentially conflict with Audacity, try closing them like this:
@@ -61,17 +54,23 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 6. Then open Audacity and try recording something again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable Microphone Access for Audacity
@@ -96,16 +95,31 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-option.jpg)
 4. Click the confirmation dialog’s**Uninstall** option.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
 5. Select**Action** \>**Scan for hardware changes** to reinstall the microphone driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Action menu in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-action-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Host Intrusion Protection in Kaspersky Security Software
 
@@ -119,18 +133,18 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
  However, some antivirus utilities have special features that monitor microphones, which can block mic access for certain apps. For example, Bitdefender has a**Microphone monitor** setting. Disabling your antivirus utility’s shield might not turn off such a microphone security feature. So, have a look through your security software’s tabs to see if they include any feature setting that could affect microphone access and disable it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Perform a Clean Boot
 
  Clean booting is a troubleshooting method for disabling third-party apps and services that start with Windows. Performing a clean boot is a potential error 9999 resolution because it might eliminate a background program or service interfering with Audacity. Our guide on[how to clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential error 9999 resolution with MSConfig and Task Manager.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you’ve set a clean boot and restarted Windows, try recording in Audacity. If recording works thereafter, you can leave the boot configuration as it is. However, users who prefer to re-enable startup apps and services will need to identify what one is causing error 9999.
 
@@ -141,13 +155,6 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-programs-and-features-applet.jpg)
 
  To reinstall the software, open the[Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** option there.[Open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and double-click the**audacity-win-3.2.4-x64.exe** file in whatever folder includes it. Then you can go through the setup wizard to reinstall Audacity.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Record Audio in Audacity Again
 
@@ -168,20 +175,20 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-futuristic-feature-unveiling-mac-via-applewatch/"><u>[Updated] Futuristic Feature Unveiling Mac via AppleWatch</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-social-media-sensation-making-your-vids-pop/"><u>[Updated] Social Media Sensation Making Your Vids Pop</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-unleash-your-imagination-review-of-the-garmin-virb-ultra-30/"><u>2024 Approved Unleash Your Imagination Review of the Garmin VIRB Ultra 30</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-premier-streaming-apps-of-2023-a-comprehensive-review-by-movavi/"><u>Discover the Premier Streaming Apps of 2023: A Comprehensive Review by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/en-ligne-gratuite-pour-transformer-votre-video-wmv-en-mkv-utilisant-movavi-conversion-simple-et-rapide/"><u>En Ligne Gratuite Pour Transformer Votre Vidéo WMV en MKV Utilisant Movavi - Conversion Simple Et Rapide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/enhanced-ui-design-suite-pro-exclusive-bootstrap-5-professional-theme-bundle-by-creative-tim/"><u>Enhanced UI Design Suite Pro: Exclusive Bootstrap 5 Professional Theme Bundle by Creative Tim</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-edge-2023-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola Edge 2023?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/professional-video-grabber-high-res-recordings/"><u>Professional Video Grabber High-Res Recordings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-selection-of-screen-recorder-tools-ranking-the-top-15-for-your-laptop/"><u>The Ultimate Selection of Screen Recorder Tools - Ranking the Top 15 for Your Laptop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-14-best-stock-video-scenes-of-2022-free-and-premium-selections/"><u>Top 14 Best Stock Video Scenes of 2022 - Free & Premium Selections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-jpg-en-gif-sur-internet-avec-movavi-comprendre-la-conversion-facile/"><u>Transformation Gratuite De Fichiers JPG en GIF Sur Internet Avec Movavi - Comprendre La Conversion Facile</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformez-facilement-un-mp4-en-video-flash-flv-sans-frais-movavi/"><u>Transformez Facilement Un MP4 en Vidéo Flash (FLV) Sans Frais - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-e-caricamento-gratuito-di-video-mpeg-nellestensione-ogg-con-il-convertitore-online-di-movavi/"><u>Trasforma E Caricamento Gratuito Di Video MPEG Nell'Estensione .OGG Con Il Convertitore Online Di Movavi</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-11-keys-to-unlock-the-power-of-grading-precision/"><u>[New] 11 Keys to Unlock the Power of Grading Precision</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-shoot-slow-motion-video-on-iphone/"><u>[Updated] 2024 Approved How to Shoot Slow Motion Video on iPhone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-auditory-nexus-studio-mac-essentials/"><u>[Updated] In 2024, The Auditory Nexus Studio Mac Essentials</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-the-world-of-vr-playback-technology/"><u>[Updated] Navigating the World of VR Playback Technology</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-professional-insights-top-10-capture-cards-for-youtube-enthusiasts/"><u>[Updated] Professional Insights Top 10 Capture Cards for YouTube Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-sources-top-5-instrumental-music-portals-to-enhance-your-playlist/"><u>Discover the Ultimate Sources: Top 5 Instrumental Music Portals to Enhance Your Playlist</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-tips-for-disabling-usb-sleep-in-win-11/"><u>Easy Tips for Disabling USB Sleep in Win 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-edge-2023-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Edge 2023 Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-win-11-clock-and-dates-display-settings/"><u>Mastering Win 11 Clock & Dates Display Settings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/maximize-profits-effective-strategies-for-selling-pre-owned-dvds-locally-and-digitally/"><u>Maximize Profits: Effective Strategies for Selling Pre-Owned DVDs Locally and Digitally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-notepad-in-windows-11-theme-and-font-tweaks/"><u>Personalize Notepad in Windows 11: Theme and Font Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-disk-readwrite-problems/"><u>Quick Fix for Disk Read/Write Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realign-screen-elements-tweak-win11-scaling/"><u>Realign Screen Elements: Tweak Win11 Scaling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sustaining-smooth-play-how-to-nix-error-code-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Sustaining Smooth Play: How to Nix Error Code 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-full-potential-of-github-desktop-on-windows-11-os/"><u>Unlocking the Full Potential of Github Desktop on Windows 11 OS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Insufficient Privileges on Windows System
-date: 2024-09-11T01:20:45.129Z
-updated: 2024-09-12T01:20:45.129Z
+date: 2024-11-02T17:05:53.296Z
+updated: 2024-11-06T17:54:27.225Z
 tags:
   - windows10
   - windows11
@@ -26,20 +26,6 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
  Now you know what causes this error, let's explore the solution.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Grant Full Control Permissions
 
  It looks like the main issue causing this error is that Windows doesn’t have sufficient permissions to access the file. To fix this, you must grant full control permissions to the account or user accessing the file. Here are the steps to follow:
@@ -51,7 +37,21 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 ![Grant Full Control Permissions to an user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/grant-full-control-permissions-to-an-user-account.jpg)
 5. Click **Apply** and **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After making these changes, try viewing the photos again and checking if the error has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Take Ownership of the Folder
 
@@ -63,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 4. Click on **Change** next to **Owner** in the top section.  
 ![Advanced Security Settings for Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/advanced-security-settings-for-folders.jpg)
 5. In the dialog box, type **Everyone** and click **Check Names**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
 
 1. If it seems correct, click **OK**.
@@ -70,43 +78,10 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 ![Take Ownership of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/take-ownership-of-the-folder.jpg)
 3. Now click Apply. A pop-up appears and asks you to confirm the ownership change.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Click **Yes** and wait for the process to finish.
 5. Once done, click **OK** and close the window.
 
  After that, restart your computer and try accessing the folder.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Reset the Photos App
 
@@ -121,35 +96,14 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  After that, try to open photos on your external hard drive.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Disable UAC Temporarily
 
@@ -159,27 +113,11 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
  If you're still encountering the error, try [running the Program Compatibility Troubleshooter](http://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/). This tool scans for compatibility issues with installed programs and solves them automatically.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Open Files Without a Problem Again on Windows
 
  If you have the proper permissions, you should not encounter the "you don’t have permission to view this file” message. However, if you run into this issue, read this guide to resolve it quickly. Make sure you grant all permissions and take ownership of the folder.
 
  In this article, we explain how to fix this error, so you can view your photos again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -187,3 +125,23 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-guiding-you-through-youtubes-view-limitations-for-2024/"><u>[New] Guiding You Through YouTube's View Limitations for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-creative-geniuses-selecting-the-best-youtube-videos-for-channels/"><u>[New] In 2024, Creative Geniuses Selecting the Best YouTube Videos for Channels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-impact-the-20-key-principles-of-fb-video-marketing-for-2024/"><u>[New] Maximizing Impact The 20 Key Principles of FB Video Marketing for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-guide-syncing-images-and-movies-between-iphones/"><u>[New] Quick Guide Syncing Images & Movies Between iPhones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-a-taste-of-film-home-cooks-visual-journey/"><u>[Updated] 2024 Approved A Taste of Film Home Cook's Visual Journey</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-brisk-blueprints-for-scribing-presentations/"><u>[Updated] In 2024, Brisk Blueprints for Scribing Presentations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-idle-shutdown-setup-for-windows-11-users/"><u>Effortless Idle Shutdown Setup for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-accessibility-key-shortcuts-for-win11-narrator/"><u>Enhancing Accessibility: Key Shortcuts for Win11 Narrator</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expertise-in-virtual-assessment-vll-of-apps/"><u>Expertise in Virtual Assessment VLL of Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/historic-hues-of-operating-systems-windows-11s-7-ancestral-features/"><u>Historic Hues of Operating Systems: Windows 11'S 7 Ancestral Features</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-hp-laserjet-pro-m127fn-software-and-drivers-free-download-links/"><u>Latest HP LaserJet Pro M127FN Software and Drivers - Free Download Links</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-your-mouse-trail-in-winxpvista7/"><u>Reimagining Your Mouse Trail in WinXP/Vista/7</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/strategic-insights-into-making-emotional-connection-with-customer-success-videos-for-2024/"><u>Strategic Insights Into Making Emotional Connection with Customer Success Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-network-insights-when-to-use-ping-on-windows/"><u>Unlocking Network Insights: When to Use Ping on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-adding-custom-actions-to-file-context-menus/"><u>Windows 10/11: Adding Custom Actions to File Context Menus</u></a></li>
+</ul></div>
+

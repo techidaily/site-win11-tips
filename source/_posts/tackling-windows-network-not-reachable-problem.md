@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows Network Not Reachable Problem
-date: 2024-10-30T19:28:02.631Z
-updated: 2024-11-01T18:32:36.779Z
+date: 2024-10-31T13:16:06.666Z
+updated: 2024-11-07T12:48:57.995Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 
  You can also try [disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) if you are using it and see if that helps. However, once you are done sharing the files, make sure you enable the antivirus back immediately since keeping it disabled for a long period can expose your PC to threats.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Try to Connect Using an IP Address
 
  You can also connect to the remote computer using the IP address. In this method, we will be using Command Prompt to make this work.
@@ -67,24 +74,18 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 ![ipconfig all command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all.jpg)
 4. Scroll down and bit and note down the address for IPv4 Address.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ipv4 address in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all-ipv4-address.jpg)
 5. Now, open a Run dialog again and paste the IPv4 Address you noted in the text field here.  
-![ipv4 address in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/cmd-ipv4-address.jpg)
-6. Click **Enter** and see if you can connect to the remote computer successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![ipv4 address in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/cmd-ipv4-address.jpg)
+6. Click **Enter** and see if you can connect to the remote computer successfully.
 
 ## 4\. Restart the TCP/IP NetBIOS Helper Service
 
@@ -99,20 +100,35 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 ![Properties of TCP/IP helper service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-properties.jpg)
 5. In the following dialog, click on the **Stop** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-stop.jpg)
 6. Wait for a few seconds and then click **Start**.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Now, expand the dropdown for Startup type and choose **Automatic**.  
 ![Startup type of service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-automatic.jpg)
 8. Click **Apply** \> **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, check if that fixes the issue for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable SMB 1.0
 
@@ -132,10 +148,10 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 5. Click **OK** to save the changes and check if the error is now fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Modify Network Security Settings
@@ -150,50 +166,17 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 ![Modify network security settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/local-security-policy-settings.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reset TCP/IP
 
  Finally, if the methods above have not worked for you, then you can consider [resetting TCP/IP](https://www.makeuseof.com/windows-connection-failed-error-651-fix/#:~:text=next%20method%20below.-,3.%20Reset%20TCP/IP,-You%20might%20also), which will revert all the IP protocols and DNS entries to their default state.
 
  This fix is known to fix almost all the network-related issues that pop up in Windows now and then, and will hopefully fix the error at hand for you as well.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Windows Network Path Error, Resolved
 
  Connecting to another device over the network and sharing files should be a seamless process. Hopefully, the troubleshooting methods mentioned above will help you get the network functionality up and running in no time. However, if the error persists, you can consider using another file-sharing service like Google Drive till Microsoft launches an official fix for this issue.
 
  One such common issue is the "network path name was not found" error, which occurs when users attempt to connect to a remote device. If you are facing a similar problem, we have discussed six troubleshooting methods below that will help you fix the error in no time.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-discovery-finding-soundtracks-that-elevate-unboxing-content/"><u>[Updated] Discovery Finding Soundtracks that Elevate Unboxing Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-raw-footage-to-social-stardom-the-art-of-video-cropping-on-instagram/"><u>[Updated] In 2024, From Raw Footage to Social Stardom The Art of Video Cropping on Instagram</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-secure-storage-safeguarding-your-mov-videos-in-win-11/"><u>[Updated] Secure Storage Safeguarding Your MOV Videos in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-windows-11-for-spatial-sound-excellence/"><u>Configuring Windows 11 for Spatial Sound Excellence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-chatgpt-empowers-you-to-pen-down-beautiful-poetry-tips-and-tricks/"><u>How ChatGPT Empowers You to Pen Down Beautiful Poetry: Tips & Tricks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-nokia-xr21-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Nokia XR21 to Another | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1011-problems-in-discord-installation/"><u>Overcoming Windows 10/11 Problems in Discord Installation</u></a></li>
-<li><a href="https://win-webster.techidaily.com/page-missing-internet-search-yields-no-results-error-404/"><u>Page Missing – Internet Search Yields No Results (Error 404)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/skyrim-quiet-dilemma-heres-how-to-restore-game-sound/"><u>Skyrim Quiet Dilemma? Here's How to Restore Game Sound</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-repair-tips-correcting-windows-1110-error-code-0x80ebase-f/"><u>Step-by-Step Repair Tips: Correcting Windows 11/10 Error Code 0X80ebase F</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-boosting-workflow-with-toolbar-in-windows-11/"><u>Step-by-Step to Boosting Workflow with Toolbar in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-photos-into-windows-slideshow-wonders-7-ways/"><u>Transform Your Photos Into Windows Slideshow Wonders (7 Ways)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-wsl-2-in-windows-oses/"><u>Unlock Full Potential of WSL 2 in Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-potential-effective-use-of-powertoys-locksmith/"><u>Unlocking Potential: Effective Use of PowerToys Locksmith</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -202,3 +185,27 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-secrets-of-crafting-captivating-instagram-videos-for-2024/"><u>[New] The Secrets of Crafting Captivating Instagram Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unveiling-past-moments-with-your-iphone/"><u>[Updated] In 2024, Unveiling Past Moments with Your iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decreasing-unrealcefsubprocess-impact-on-system-resources/"><u>Decreasing UnrealCEFSubprocess' Impact on System Resources</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-moving-of-software-from-vintage-to-modern-windows-11/"><u>Efficient Moving of Software From Vintage to Modern Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-maximizing-your-firefox-multitasking-with-ffxp/"><u>In 2024, Maximizing Your Firefox Multitasking with FFXP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-z-fold-5-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy Z Fold 5 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-depth-look-at-sonys-x1000v-hd-recorder-for-2024/"><u>In-Depth Look at Sony's X1000V HD Recorder for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcp-x-essentials-how-to-achieve-professional-chroma-keying-results/"><u>New In 2024, FCP X Essentials How to Achieve Professional Chroma Keying Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-index-preferences-on-pc/"><u>Optimizing Index Preferences on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-windows-11s-most-troublesome-xbox-game-pass-error-0-issues/"><u>Overcome Windows 11’S Most Troublesome Xbox Game Pass Error 0 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-and-reinstalling-problematic-apps-on-windows/"><u>Removing and Reinstalling Problematic Apps on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-deleted-items-essential-tricks-for-microsoft-os/"><u>Reviving Deleted Items: Essential Tricks for Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-new-parameters-for-login-failure-count-in-windows-11-and-11/"><u>Setting New Parameters for Login Failure Count in Windows 11 & 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sky-storage-spectacle-unlimited-free-and-elite-premium-alternatives-for-your-pics/"><u>Sky Storage Spectacle Unlimited Free & Elite Premium Alternatives for Your Pics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-failed-tasks-with-error-0x8007000f-in-windows/"><u>Strategies to Address Failed Tasks with Error 0X8007000f in Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ilmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-windows-startup-configurations/"><u>Unlocking the Secrets of Windows Startup Configurations</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-10-robotic-voice-generators/"><u>Updated Top 10 Robotic Voice Generators</u></a></li>
+</ul></div>
+

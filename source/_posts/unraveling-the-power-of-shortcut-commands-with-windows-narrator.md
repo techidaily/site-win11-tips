@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Power of Shortcut Commands with Windows Narrator
-date: 2024-09-11T01:20:49.693Z
-updated: 2024-09-12T01:20:49.693Z
+date: 2024-10-31T17:10:36.173Z
+updated: 2024-11-07T11:39:32.103Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
 
  In this article, we've put together a complete list of legacy keyboard shortcuts that you can use to make your Narrator experience more seamless.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
 
  There are two popular keyboard layouts for Narrator: Legacy and Standard. The Legacy keyboard layout was traditionally used on computers before the widespread adoption of the Standard layout. It's still in use today and offers advantages at certain times.
@@ -45,43 +31,16 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
 3. Select**Keyboard layout** from the drop-down menu.  
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## All the Narrator Legacy Keyboard Shortcuts
 
@@ -206,32 +165,22 @@ This way, you can switch between the Legacy and Standard layouts.
 | Ctrl + Narrator + Down arrow                | Navigate to first child (when structural navigation is provided)      |
 | Narrator + Q                                | Move to last item in containing area                                  |
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -240,4 +189,21 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elevating-your-docu-script-professional-tips-and-tricks/"><u>[New] 2024 Approved Elevating Your Docu-Script Professional Tips and Tricks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-sharex-examined-evaluations-and-alternatives/"><u>[New] ShareX Examined Evaluations & Alternatives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unwind-the-clock-pioneering-techniques-for-youtube-video-reversal/"><u>[New] Unwind the Clock Pioneering Techniques for YouTube Video Reversal</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/decouvrez-les-solutions-innovantes-aux-prouesses-dobs-pour-videaste-en-herbe/"><u>Découvrez Les Solutions Innovantes Aux Prouesses D'OBS Pour Vidéaste en Herbe</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-13-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 13? Heres the Best Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-jumpstart-your-disabled-bluetooth-mouse-windows/"><u>How to Jumpstart Your Disabled Bluetooth Mouse (Windows)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-itel-p55-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Itel P55 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-upgrade-compatible-laptop-docks-for-thinkpad-with-usb-c-port/"><u>Latest Upgrade: Compatible Laptop Docks for ThinkPad with USB-C Port</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-mouseclicklock-effectiveness-on-windows-devices/"><u>Maximizing MouseClickLock Effectiveness on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenges-of-a-the-exception-has-been-reached-error/"><u>Overcoming the Challenges of a “The Exception Has Been Reached” Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-win-os-artistic-solutions-beyond-procreate/"><u>Prime Win OS Artistic Solutions Beyond Procreate</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-user-authentication-a-new-era-for-winadmin/"><u>Reimagining User Authentication: A New Era for WinAdmin</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rework-windows-11s-control-panel-with-ease/"><u>Rework Windows 11'S Control Panel with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-tales-that-make-us-laugh-is-ai-the-storyteller/"><u>Tech Tales That Make Us Laugh: Is AI the Storyteller?</u></a></li>
+</ul></div>
 

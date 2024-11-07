@@ -1,7 +1,7 @@
 ---
 title: Streamline Win 11 Repairs with Customized Shortcut Keys
-date: 2024-10-25T19:31:55.329Z
-updated: 2024-11-01T19:24:24.466Z
+date: 2024-11-02T10:19:31.946Z
+updated: 2024-11-07T02:24:37.293Z
 tags:
   - windows10
   - windows11
@@ -52,13 +52,20 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-to-taskbar-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then you may as well remove the desktop shortcut if a taskbar or Start menu one is preferred. Right-click Troubleshooting Applet to select**Delete** (the trash bin icon in Windows 11).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up a Troubleshooting Hotkey
@@ -72,23 +79,9 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-key-option.jpg)
 5. Select**Apply** to save your new troubleshooting hotkey.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**OK** or**X** to close the Shortcut tab and window.
 
  Now you can access the Troubleshooting applet with a key combo. Press**Ctrl** +**Alt** +**T** to open that applet and access its troubleshooters. That hotkey depends on the desktop shortcut you set it for. So, you’ve got to leave the shortcut on the desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Shortcuts for Opening Specific Troubleshooters
 
@@ -114,9 +107,29 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 ![The Windows Update troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Double-clicking that desktop shortcut will open whatever troubleshooter you set it to with the diagnostic ID command. Then you can also pin that desktop shortcut to the taskbar or Start menu just the same as the Troubleshooting applet one. Or set up a hotkey for opening the troubleshooting tool as outlined in this guide’s keyboard shortcut instructions.
 
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-and-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add a Troubleshooters Submenu to the Context Menu
 
@@ -136,13 +149,6 @@ msdt.exe /id AudioPlaybackDiagnostic`
  You will now see a new**Troubleshooters** submenu on your desktop’s context menu. Right-click any space within the desktop wallpaper area and select**Show more options** on Windows 11’s context menu. Move the cursor over the**Troubleshooters** submenu to view its shortcuts.
 
 ![The Troubleshooters submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There you can select**Classic Troubleshooting applet** to bring up the Troubleshooting home screen in the Control Panel. Select**All Categories** to open the full list of troubleshooters. Or click**Programs** ,**Hardware and Sound** ,**Network and Internet** , and**System Security** to view category pages for opening troubleshooters.
 
@@ -167,20 +173,15 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capture-your-screen-with-precision-and-orderly-guidance/"><u>2024 Approved Capture Your Screen with Precision and Orderly Guidance</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/chromebook-screen-capture-simplified-into-four-methods/"><u>Chromebook Screen Capture Simplified Into Four Methods</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-barnes-and-noble-nook-glowlight-4/"><u>Comprehensive Guide to the Barnes & Noble Nook GlowLight 4</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-to-tweak-your-mailcalendar-in-windows-11/"><u>Easy Steps to Tweak Your Mail/Calendar in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-spark-10-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Spark 10 5G Is Unlocked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-realme-narzo-60-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-resonant-rhythms-where-to-download-classical-ringtones/"><u>In 2024, Resonant Rhythms Where to Download Classical Ringtones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masking-language-display-in-windows-11-status-ui/"><u>Masking Language Display in Windows 11 Status UI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-firewall-a-step-by-step-approach/"><u>Overhauling Firewall: A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-overwatch-audio-lag-issues-expert-solutions-and-tips/"><u>Solving Overwatch Audio Lag Issues: Expert Solutions & Tips!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-selecting-issue-on-double-click-folders/"><u>Tackling Windows' Selecting Issue on Double-Click Folders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-unblocking-a-prohibited-app-in-windows-os/"><u>Tips for Unblocking a Prohibited App in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-vac-denial-in-games/"><u>Understanding and Resolving VAC Denial in Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-top-4-innovations-of-ipados-18-released-during-wwdc-2023-and-their-availability-across-different-ipad-models-gadgetguru/"><u>Unpacking the Top 4 Innovations of iPadOS 18 Released During WWDC 2023 and Their Availability Across Different iPad Models | GadgetGuru</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-endorses-national-legislation-supporting-consumers-right-to-repair-electronics/"><u>Apple Endorses National Legislation Supporting Consumer's Right to Repair Electronics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-volume-amplification-in-win11s-bluetooth/"><u>Enhance Volume Amplification in Win11's Bluetooth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-spatial-audio-with-microsofts-windows/"><u>Fine-Tuning Spatial Audio with Microsoft's Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-apple-tv-to-firestick-a-comprehensive-tutorial-for-seamless-integration/"><u>From Apple TV to Firestick: A Comprehensive Tutorial for Seamless Integration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/from-overflow-to-perfection-edit-large-tiktok-drafts-quickly-and-effectively-for-2024/"><u>From Overflow to Perfection Edit Large TikTok Drafts Quickly & Effectively for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-14-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 14 and iPad Securely</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-artistic-arrangement-adopting-the-best-photo-frame-apps/"><u>In 2024, Artistic Arrangement Adopting the Best Photo Frame Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-guide-to-crafting-luts-in-3d/"><u>In 2024, The Complete Guide to Crafting LUTs in 3D</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-final-sign-off-on-windows-xp-7-and-81-support/"><u>Microsoft's Final Sign-Off on Windows XP, 7 & 8.1 Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-presentations-easy-steps-to-bypass-pin-in-windows-11/"><u>Smooth Presentations: Easy Steps to Bypass PIN in WIndows 11</u></a></li>
 </ul></div>
 

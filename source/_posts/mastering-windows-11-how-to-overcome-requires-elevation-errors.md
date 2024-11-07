@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: How to Overcome Requires Elevation Errors"
-date: 2024-10-26T17:21:27.640Z
-updated: 2024-11-01T18:29:40.241Z
+date: 2024-11-01T02:55:35.022Z
+updated: 2024-11-07T04:35:47.701Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set Programs to Run in Compatibility Mode
 
  It’s also recommended to set older programs to run in compatibility mode. Doing so might address a compatibility issue causing error 740\. You can set an affected program to run in compatibility mode like this:
@@ -49,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 4. Press the **Apply** \> **OK** buttons to set the compatibility mode setting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off the User Account Control Feature
@@ -60,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
 
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
 
@@ -77,15 +77,21 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 ![The Replace all child object permission entries checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replace-all-child-objects-option.jpg)
 7. Click **Apply** on the Advanced Security Settings window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
@@ -99,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 4. Then go to **Local Policies** and **Security Options** to access User Account Control Policy settings.  
 ![Security Options within Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/security-options.jpg)
 5. Double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Select the **Elevate without prompting** option on the drop-down menu.  
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
@@ -124,19 +123,6 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. To close the policy window, select the **OK** option.
 
 ## 7\. Disable Third-Party Antivirus Software Packages
@@ -147,13 +133,20 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If disabling the security software works, you don’t necessarily have to turn the security software off whenever you want to run the application file. Your antivirus software will probably include an exclusion list to which you can add trustworthy program file exceptions. Add the affected EXE file there to exclude it from the antivirus protection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Migrate to a New Admin User Account
@@ -164,28 +157,24 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get Error 740 Sorted on Windows
 
  The “requested operation requires elevation” error is an inconvenient admin access privilege issue many users have needed to fix. Users have resolved that issue by applying the potential resolutions in this guide. So, try applying those fixes for the “requested operation requires elevation” error in the order specified to find one that works on your Windows 10 or 11 PC.
 
  This is how you can fix error 740 within Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-elite-callers-on-windows-top-8-sorted/"><u>[New] 2024 Approved Elite Callers on Windows Top 8 Sorted</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-simplifying-image-reduction-creating-professional-thumbnails/"><u>[New] 2024 Approved Simplifying Image Reduction Creating Professional Thumbnails</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-balancing-act-camera-gimbals-for-drones/"><u>[Updated] Balancing Act Camera Gimbals for Drones</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-harnessing-webcams-a-2023-guide-to-slidecast-perfection/"><u>[Updated] In 2024, Harnessing Webcams A 2023 Guide to Slidecast Perfection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-live-streaming-made-easy-discover-the-versatility-of-manycam-the-ultimate-virtual-camera-solution/"><u>1. Live Streaming Made Easy: Discover the Versatility of ManyCam - The Ultimate Virtual Camera Solution!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-to-implement-alternatives-fixing-rename-issues-on-windows-11-systems/"><u>Easy-to-Implement Alternatives: Fixing Rename Issues on Windows 11 Systems</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/guiding-the-gaze-leading-line-techniques-for-iphones-for-2024/"><u>Guiding the Gaze Leading Line Techniques for iPhones for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-permanently-delete-wifi-networks-in-win-11/"><u>How to Permanently Delete Wifi Networks in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-temp-files-extract-issue-windows-1110/"><u>How to Resolve 'Temp Files Extract Issue' - Windows 11/10</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/migrating-your-browsing-experience-from-internet-explorer-to-microsoft-edge-insights-by-zdnet/"><u>Migrating Your Browsing Experience: From Internet Explorer to Microsoft Edge - Insights by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-frame-rate-and-performance-in-win-based-roblox/"><u>Optimizing Frame Rate & Performance in Win-Based Roblox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-6-best-fps-counter-apps-for-windows-11/"><u>The 6 Best FPS Counter Apps for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/user-management-mastery-for-win1110-home-editions/"><u>User Management Mastery for WIN11/10 Home Editions</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -194,3 +183,22 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-infuse-audiovisual-experience-in-ppt/"><u>[New] Infuse Audiovisual Experience in PPT</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nsta-popularity-on-youtube-jake-pauls-story-unfolded/"><u>[New] Insta-Popularity on Youtube Jake Paul’s Story Unfolded</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-deconstructing-sharex-and-its-challengers/"><u>2024 Approved Deconstructing ShareX and Its Challengers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emerging-roles-in-software-management-with-the-advent-of-generative-ai-insights-on-zdnet/"><u>Emerging Roles in Software Management with the Advent of Generative AI | Insights on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-your-input-cant-be-opened-vlc-error-on-windows/"><u>How to Fix the Your Input Can’t Be Opened VLC Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-auto-narration-in-windows-office-word/"><u>How To Reactivate Auto-Narration in Windows Office Word</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-windows-resemble-mac-os-essential-5-tactics/"><u>Making Windows Resemble Mac OS: Essential 5 Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-rebuts-claims-of-chatgpts-intelligence-drop-what-you-need-to-know/"><u>OpenAI Rebuts Claims of ChatGPT's Intelligence Drop - What You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-dotnet-restoration-in-windows-max-156/"><u>Quick DotNet Restoration in Windows (Max 156)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-device-improperly-set-up-issue-understanding-and-fixing-error-1/"><u>Resolve 'Device Improperly Set Up' Issue - Understanding and Fixing Error 1</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-system-changing-the-user-password-on-win-11/"><u>Secure Your System: Changing the User Password on Win 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/shoot-the-worlds-hustle-and-bustle-iphone-tips-for-shutter-speed-blurs/"><u>Shoot the World's Hustle and Bustle IPhone Tips for Shutter Speed Blurs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-defender-kit-top-cases-of-24-for-devices/"><u>The Ultimate Defender Kit: Top Cases of '24 for Devices</u></a></li>
+</ul></div>
+

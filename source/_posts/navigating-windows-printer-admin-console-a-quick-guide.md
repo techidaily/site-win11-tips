@@ -1,7 +1,7 @@
 ---
 title: "Navigating Windows Printer Admin Console: A Quick Guide"
-date: 2024-10-31T16:49:12.024Z
-updated: 2024-11-01T20:03:22.266Z
+date: 2024-11-02T06:48:04.318Z
+updated: 2024-11-07T07:38:01.406Z
 tags:
   - windows10
   - windows11
@@ -47,22 +47,21 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
  You’ve already discovered how to access the Print Management app using the Run command dialog box. So, let’s check out the various other ways to access this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access the Print Management Tool Using the Start Menu Search Bar
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can access almost any built-in app or third-party program using the Start menu search bar. Now, here’s how you can use the search bar to open the Print Management app:
@@ -71,6 +70,19 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 2. Type **Print Management** and then select the **Best match**.
 
 ![Accessing the Print Management Tool Using the Start Menu Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-start-menu-search-bar.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Access the Print Management Tool Using the Start Menu
 
@@ -81,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 3. Locate and select the **Print Management** app.
 
 ![Accessing the Print Management Tool Using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-start-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Access the Print Management Tool Using the Control Panel
 
@@ -107,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 ![Accessing the Print Management Tool Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-file-explorer-address-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access the Print Management Tool Using the Task Manager
@@ -140,16 +159,29 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 ![Accessing the Print Management Tool Via the System32 Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-via-the-system32-directory.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Access the Print Management Tool Using the Command Prompt or PowerShell
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Command Prompt and PowerShell usually help when it comes to troubleshooting system issues. In fact, you can also use these tools to configure some PC settings.
 
@@ -172,10 +204,10 @@ printmanagement.msc
 printmanagement.msc
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Access the Print Management Tool Using a Desktop Shortcut
@@ -190,29 +222,9 @@ printmanagement.msc
 
 ![Creating the Print Management Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/creating-the-print-management-desktop-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, type **Print Management Tool** in the "Name" box and then click the **Finish** button.
 
  Now, you can easily access the Print Management tool with this desktop shortcut you’ve created.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Handle Your Print Jobs Easily With the Print Management App
 
@@ -235,24 +247,20 @@ printmanagement.msc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-budget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[New] In 2024, Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-turn-your-iphone-images-upside-down-with-precision/"><u>[New] Turn Your iPhone Images Upside Down with Precision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-absent-application-issue-on-windows-devices/"><u>Fixing Absent Application Issue on Windows Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-g22-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia G22 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-visual-quality-and-fps-in-roblox-gameplay-windows/"><u>Improving Visual Quality & FPS in Roblox Gameplay Windows</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-12-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 12 Pro Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-15-analysis-top-picks-for-pros-and-enthusiasts-alike-insights/"><u>IPhone 15 Analysis: Top Picks for Pros and Enthusiasts Alike - Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-your-media-with-these-pro-screenshot-and-video-editors-iphoneandroid/"><u>Master Your Media with These Pro Screenshot and Video Editors (iPhone/Android)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-music-infused-video-editors-for-android-and-ios-best-picks/"><u>New Music-Infused Video Editors for Android and iOS Best Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1011s-video-driver-restart/"><u>Overcoming Windows 10/11'S Video Driver Restart</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfect-your-windows-11-installation-with-these-top-configuration-tweaks/"><u>Perfect Your Windows 11 Installation with These Top Configuration Tweaks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/photographers-aid-free-mobile-photography-boost/"><u>Photographer's Aid - Free, Mobile Photography Boost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconciling-error-xc0f1103f-in-windows-11-with-nvidia/"><u>Reconciling Error Xc0f1103f in Windows 11 with NVIDIA</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recover-lost-sound-adjustments-post-windows-update/"><u>Recover Lost Sound Adjustments Post-Windows Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resurrecting-sluggish-rust-code-master-techniques-to-get-back-on-track/"><u>Resurrecting Sluggish Rust Code? Master Techniques to Get Back On Track</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-photo-failure-on-modern-windows-pcs/"><u>Solving Photo Failure on Modern Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-mouse-gesture-setup-for-windows-11s-microsoft-edge/"><u>Step-By-Step Guide to Mouse Gesture Setup for Windows 11'S Microsoft Edge</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unboxing-opportunities-the-marketing-planning-journey/"><u>Unboxing Opportunities The Marketing Planning Journey</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-potential-of-win11-remote-storage-integration/"><u>Unlocking the Potential of Win11 Remote Storage Integration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-craft-your-contents-voyage-from-camera-to-instagram-tv/"><u>[New] 2024 Approved Craft Your Content's Voyage From Camera to Instagram TV</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-efficient-classroom-documentation-choose-the-best-screen-recorder/"><u>[New] 2024 Approved Efficient Classroom Documentation Choose the Best Screen Recorder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-navigate-the-transfer-of-quick-images-from-popular-chat-app/"><u>[New] 2024 Approved Navigate the Transfer of Quick Images From Popular Chat App</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-effortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube-for-2024/"><u>[New] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-comprehensive-guide-webp-to-jpg-conversion-secrets/"><u>2024 Approved Comprehensive Guide WebP to JPG Conversion Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-auto-hdr-a-quick-reference/"><u>Decoding Windows 11'S Auto HDR: A Quick Reference</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/determining-the-right-intervals-when-to-perform-file-backups-effectively/"><u>Determining the Right Intervals: When to Perform File Backups Effectively?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-1011-default-path-mistakes/"><u>Eliminating Windows 10/11 'Default Path' Mistakes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insights-using-apple-maps-in-windows-os/"><u>Expert Insights: Using Apple Maps in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-attempt-connection-glitches-for-bluetooth-devices/"><u>Fix Attempt Connection Glitches for Bluetooth Devices</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guida-passo-passo-per-la-descrittografia-e-il-ripristino-dei-dati-da-una-memoria-sd-crittografata/"><u>Guida Passo-Passo per La Descrittografia E Il Ripristino Dei Dati Da Una Memoria SD Crittografata</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nubia-red-magic-9-proplus-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nubia Red Magic 9 Pro+ online without jailbreak</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-hidden-settings-with-ease/"><u>Navigating Windows 11 Hidden Settings with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secretive-windows-personality-vault-guide-to-accessing-internal-evaluator/"><u>Secretive Windows Personality Vault: Guide to Accessing Internal Evaluator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tricks-for-immediate-fix-of-windows-black-screen-blues/"><u>Top Tricks for Immediate Fix of Windows Black-Screen Blues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows 11'S Wi-Fi Discovery Issues
-date: 2024-09-11T01:20:46.628Z
-updated: 2024-09-12T01:20:46.628Z
+date: 2024-11-04T12:44:50.871Z
+updated: 2024-11-07T00:06:08.764Z
 tags:
   - windows10
   - windows11
@@ -32,33 +32,12 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 4. Check **Wireless devices** and make sure **Wi-Fi** is turned on.  
 ![Airplane mode settings in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/airplane-mode-1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Run the Internet Connections Troubleshooter
 
@@ -73,20 +52,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  If this didn’t fix the issue, you can try running the **Network Adapter** troubleshooter. Follow the first two steps above to access the troubleshooter list. Then, scroll down to **Network Adapter** and select **Run the troubleshooter**.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 3\. Forget the Current Wi-Fi Network
 
  This may seem odd, but sometimes Windows will detect a network if you make it forget the network's settings and re-add them. If you are using this method, make sure you know the Wi-Fi password, or you won't be able to reconnect to it again.
@@ -99,19 +64,12 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ![Forget Wi-Fi network in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/forget-wifi-network-1-1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Check Your Wi-Fi Network Adapter's Properties
 
@@ -125,41 +83,15 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 ![Wi-Fi adapter properties in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/adapter-properties-1.jpg)
 4. Open the **Power Management** tab and uncheck **Allow the computer to turn off this device to save** power.
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Click **OK** to save the new changes.
 6. Restart your computer.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Update the Wireless Network Driver
 
@@ -168,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
  Launch Device Manager (see [how to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/)) and extend the **Network adapters** list. There, right-click the wireless adapter and select **Update driver**. In the pop-up window, choose the **Search automatically for drivers** option, then **Search for updated drivers on Windows Update**.
 
 ![How to update the network driver in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Windows fails to find any drivers, search online for your wireless network device's manufacturer and download them from there.
 
@@ -182,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ![Disable network interface card in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-network-interface-card-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Enable the Dynamic Host Configuration Protocol
 
  In Windows 10, the Dynamic Host Configuration Protocol (or DHCP) is a process used to customize and assign an IP address to a suitable wireless device, which includes your computer. If the process is turned off, you can’t connect to a Wi-Fi network on your PC.
@@ -193,20 +139,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 3. Select **Diagnose**.  
 ![DHCP in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/host-configuration-1.jpg)
 4. Wait until Windows finishes the process. This will enable DHCP and fix your network issue.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 8\. Set the Wi-Fi Channel Width to Auto
 
@@ -222,25 +154,18 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  If the **Auto** option is missing, you can try other options and see what works for you. Before making any changes, take a screenshot or write down the default settings, so you can revert to them if something goes wrong.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 9\. Restart Your Router
 
  If your computer won’t connect to the Wi-Fi but other devices can, there’s a chance you might be dealing with router issues. By rebooting your router, you give it a chance to clear its memory, end running tasks, and reload its firmware.
 
  However, simply unplugging it for a couple of minutes might not be enough. Check out [how to correctly restart your router](https://www.makeuseof.com/reboot-router-correct-way/) for the best results.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Remove the Wireless Profile
 
@@ -249,20 +174,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
  Run Command Prompt as administrator (see [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/)) and type "netsh wlan delete profile name =NetworkName." Then, press **Enter**.
 
  After Windows 10 removes your wireless profile, it will create a new profile and you can connect to the Wi-Fi network as long as you are in range.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 11\. Enable WLAN AutoConfig
 
@@ -275,26 +186,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 5. Click **Apply > OK** to save the new changes.
 
 ![WLAN service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/wlan-service-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Windows 10 needs more than one service for the Wi-Fi networks to work properly. Here is a list of services you need to check and make sure they are running:
 
@@ -316,19 +207,12 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  If you decide to set a new number of DHCP users, you will have to check the manufacturer’s site for detailed instructions.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## No More Undetectable Wi-Fi Networks on Windows
 
@@ -340,11 +224,25 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  No matter the problem, we will walk you through the Wi-Fi troubleshooting process so you can get back online as quickly as possible.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-fix-facebook-watch-video-icon-tap-missing/"><u>[New] 2024 Approved Fix Facebook Watch Video Icon Tap Missing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-instant-hd-fb-content-downloader/"><u>[Updated] In 2024, Instant HD FB Content Downloader</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-color-correction-advanced-techniques-for-lut-applications/"><u>2024 Approved Maximizing Color Correction Advanced Techniques for LUT Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-remove-ms-edge-w11/"><u>Fast Track: Remove MS Edge W11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-new-era-of-advertising-embracing-the-metaverse/"><u>In 2024, The New Era of Advertising Embracing the Metaverse</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-viral-video-conversion-turning-tweets-into-free-gifs/"><u>In 2024, Viral Video Conversion Turning Tweets Into Free GIFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-your-ctrl-key-for-windows-11-useability/"><u>Realigning Your Ctrl Key for Windows 11 Useability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seven-ways-to-a-windowed-wonderland-on-windows-11/"><u>Seven Ways to a Windowed Wonderland on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smarter-workflows-maximizing-multitask-potential-on-windows-11/"><u>Smarter Workflows: Maximizing Multitask Potential on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-assessing-and-improving-controller-accuracy/"><u>The Ultimate Guide for Assessing and Improving Controller Accuracy</u></a></li>
+</ul></div>
+

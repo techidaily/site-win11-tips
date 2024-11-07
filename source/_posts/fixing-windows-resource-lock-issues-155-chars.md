@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Resource Lock Issues (155 Chars)
-date: 2024-10-27T19:01:39.915Z
-updated: 2024-11-01T17:14:00.019Z
+date: 2024-11-03T02:33:34.909Z
+updated: 2024-11-07T08:57:01.753Z
 tags:
   - windows10
   - windows11
@@ -46,15 +46,28 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
@@ -68,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-scan-options.jpg)
 3. Select the **Full scan** setting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
@@ -86,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
@@ -104,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 5. Then restart your PC to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Suspicious-Looking Programs
@@ -120,16 +126,17 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 2. Look through the list of installed software to see if there’s any suspicious-looking program there. Look for a program you can’t recall installing with an unknown publisher title.  
 ![The Uninstall option in Programs and Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option4.jpg)
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Perform a Factory Reset
 
@@ -145,23 +152,6 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-bulk-posting-made-easy-a-comprehensive-instagram-tutorial/"><u>[New] 2024 Approved Bulk Posting Made Easy A Comprehensive Instagram Tutorial</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-ultimate-guide-to-meme-design-props/"><u>[New] 2024 Approved The Ultimate Guide to Meme Design Props</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-beyond-staged-success-ten-truths-about-reels-on-instagram/"><u>2024 Approved Beyond Staged Success Ten Truths About Reels on Instagram</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726227590973-movavi-dts-wav/"><u>如何使用 Movavi 工具，在不付錢的情況下改變 DTS 和 WAV 格式</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726223721659-wav-swf-movavi/"><u>無限制網路轉檔：移動眞價値 WAV到 SWF - 使用 Movavi 錄製</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-11-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme 11 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-note-30-vip-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Note 30 VIP To Phone | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-boost-pc-audio-recording-efficiency/"><u>In 2024, Techniques to Boost PC Audio Recording Efficiency</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-videos-like-a-pro-14-free-software-options-without-watermarks/"><u>New Edit Videos Like a Pro 14 Free Software Options Without Watermarks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlining-online-meetings-zoom-for-win10-for-2024/"><u>Streamlining Online Meetings Zoom for WIN10 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-animating-items-on-screen-tutorial-for-engaging-content/"><u>Techniques for Animating Items on Screen - Tutorial for Engaging Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-evolutionary-tale-of-openais-language-powers-gpt-1-to-4/"><u>The Evolutionary Tale of OpenAI's Language Powers (GPT-1 to 4)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wmavobmovavi-web/"><u>WMA・VOBファイルを無料で簡単変換:Movavi Webサービス</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -169,3 +159,17 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-create-or-schedule-a-google-meet/"><u>[Updated] 2024 Approved How to Create or Schedule A Google Meet?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-your-favorite-5-book-vtts/"><u>2024 Approved The Ultimate Guide to Choosing Your Favorite 5 Book VTTs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/creating-professional-level-xbox-screen-recordings/"><u>Creating Professional-Level Xbox Screen Recordings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-screen-shimmer-issues-on-windows-11/"><u>Fixing Persistent Screen Shimmer Issues on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-0x8007045d-error-on-modern-windows-os/"><u>Guide to Overcoming 0X8007045D Error on Modern Windows OS</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-narzo-60-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme Narzo 60 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-multilingual-communication-with-keyboard-shortcut-hacks/"><u>Speedy Multilingual Communication with Keyboard Shortcut Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-sidestep-continuous-logon-prompts-on-os/"><u>Strategies to Sidestep Continuous Logon Prompts on OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocked-access-bringing-back-ms-store-in-windows-11-and-11/"><u>Unblocked Access: Bringing Back MS Store in Windows 11 & 11</u></a></li>
+</ul></div>
+

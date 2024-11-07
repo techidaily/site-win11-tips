@@ -1,7 +1,7 @@
 ---
 title: Stop Windows Epic Launcher Crashes Quickly
-date: 2024-10-27T18:59:17.658Z
-updated: 2024-11-01T20:03:12.258Z
+date: 2024-10-31T01:52:46.716Z
+updated: 2024-11-06T16:14:43.671Z
 tags:
   - windows10
   - windows11
@@ -36,27 +36,20 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 
  Reopen the Epic Games Launcher and try using it.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run Epic Games Launcher as an Administrator
 
  Running the Epic Games Launcher with admin rights can help you avoid any issues caused by a lack of relevant permissions to access system files and settings. Right-click on the **Epic Games Launcher** shortcut and select **Run as administrator**. Select **Yes** when the UAC (User Account Control) prompt appears.
 
 ![Run Epic Games Launcher as Admin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-epic-games-launcher-as-admin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method gets Epic Games Launcher to operate smoothly, you can configure it to [always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check the Epic Games Server Status
 
@@ -72,6 +65,20 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 2. Click your **profile icon** in the top right corner and choose **Settings** from the list.
 3. If a newer version is available, click the **Restart and Update** button that appears.  
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Fullscreen Optimizations
 
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 6. Click the **trash icon** at the top to delete them.  
 ![Delete Epic Games Launcher Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-epic-games-launcher-cache.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Fix the D3DCOMPILER\_43.dll File
 
  Do you see the D3DCOMPILER\_43.dll error when Epic Games Launcher crashes on Windows? If so, the D3DCOMPILER\_43.dll file on your PC may be corrupt or missing. Here's what you can do to fix it.
@@ -115,7 +115,21 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 4. Head to [Microsoft’s website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the DirectX End-User Runtime Web Installer.  
 ![Delete the D3DCOMPILER_43.dll File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-the-d3dcompiler_43-dll-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Repair the Epic Games Launcher
 
@@ -129,27 +143,20 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 6. Select **Yes** when the User Account Control (UAC) prompt shows up.  
 ![Repair Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-epic-games-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the on-screen instructions to repair the launcher and try using it again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Reinstall the Epic Games Launcher
 
  If repairing the Epic Games Launcher proves ineffective, you can try reinstalling it on your system. This should give the launcher a fresh start on your PC and resolve any issues with it. If you need help removing Epic Games Launcher, refer to our guide on [how to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and follow the steps outlined there.
 
  After uninstalling Epic Games Launcher, press **Win + R** to open the Run dialog box. Type **%localappdata%** in the box and press **Enter**. In the File Explorer window that appears, delete the **Epic Games launcher** folder. Once done, go to [Epic Games' official website](https://store.epicgames.com/en-US/download) to download the setup file and run it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Try Other Common Fixes
 
@@ -158,41 +165,11 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 * **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try [updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
 * **Scan for Malware:** If you are experiencing similar issues with other apps and programs as well, your PC may be infected with malware. To check for this possibility, [scan your Windows PC for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) and take the necessary steps to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing Epic Games Launcher Crashes on Windows
 
  Problems with the Epic Games Launcher can be annoying as they prevent you from playing your favorite games. In most cases, these issues are caused by a lack of permissions or a corrupted app cache. In any case, one of the tips above should help you fix the underlying issue for good.
 
  If you are facing a similar issue, this guide contains some troubleshooting tips that will help.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elevate-your-videos-with-expert-tips-on-vlc-spinning/"><u>[New] In 2024, Elevate Your Videos with Expert Tips on VLC Spinning</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/43162056-new-in-2024-enter-the-world-of-online-promotion-exclusive-free-youtube-banner-access/"><u>[New] In 2024, Enter the World of Online Promotion Exclusive Free YouTube Banner Access</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-roguelikes-traditional-tactics-vs-modern-mechanics-for-2024/"><u>[New] Roguelike's Traditional Tactics Vs. Modern Mechanics for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-harness-the-power-of-wins11-new-gaming-titles/"><u>[Updated] Harness the Power of Wins11 New Gaming Titles</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-art-of-sharing-online-videos-from-youtube-to-facebook/"><u>2024 Approved The Art of Sharing Online Videos From YouTube to Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-tailored-lock-patterns-for-windows-11-devices/"><u>Creating Tailored Lock Patterns for Windows 11 Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/dissecting-freelens-studio-a-user-perspective-for-2024/"><u>Dissecting Freelens Studio A User Perspective for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-fix-windows-without-router-webpage/"><u>Guide to Fix Windows Without Router Webpage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harmonizing-chromes-time-with-system-settings-windows/"><u>Harmonizing Chrome's Time with System Settings (Windows)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-traffic-with-effective-youtube-titles/"><u>In 2024, Maximizing Traffic with Effective YouTube Titles</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Samsung Galaxy S24</u></a></li>
-<li><a href="https://blog-min.techidaily.com/key-benefits-of-upgrading-free-vs-professional-version-for-video-to-audio-tools/"><u>Key Benefits of Upgrading: Free vs Professional Version for Video-to-Audio Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-edge-deletion-in-win11/"><u>Mastering Edge Deletion in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-disabled-windows-11-mobile-hotspot-connection/"><u>Solutions for Disabled Windows 11 Mobile Hotspot Connection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-for-renaming-user-profile-directories-in-win11/"><u>Step-by-Step for Renaming User Profile Directories in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-overcome-memory-diagnostic-errors-on-pc/"><u>Tips to Overcome Memory Diagnostic Errors on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/trier-un-fichier-mkv-vers-swf-gratuitement-en-ligne-movavi/"><u>Trier Un Fichier MKV Vers SWF Gratuitement en Ligne - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-to-windows-calls-recording/"><u>Unveiling the Secrets to Windows Calls Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-boot-management-101-complete-configuration-guide/"><u>Windows Boot Management 101: Complete Configuration Guide</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -201,3 +178,27 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-revel-in-richness-of-ranks-the-top-25-instagram-titans-unveiled/"><u>[New] 2024 Approved Revel in Richness of Ranks The Top 25 Instagram Titans Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/complete-minecraft-gameplay-capture-protocol-for-2024/"><u>Complete Minecraft Gameplay Capture Protocol for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-ideal-nas-drives-secure-scalable-and-reliable-options-to-store-everything-from-files-to-videos/"><u>Discover Ideal NAS Drives: Secure, Scalable, and Reliable Options to Store Everything From Files to Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-windows-to-linux-setting-up-hyper-v-based-virtual-machines/"><u>From Windows to Linux: Setting Up Hyper-V-Based Virtual Machines</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y200e-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y200e 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/key-factors-to-evaluate-prior-to-acquiring-secondhand-ipad/"><u>Key Factors to Evaluate Prior to Acquiring Secondhand iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-to-quash-window-writes-screen-fix/"><u>Method to Quash Window' Writes: Screen Fix</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-essential-guide-integrating-audio-with-animated-gifs-on-macos-for-2024/"><u>New Essential Guide Integrating Audio with Animated GIFs on macOS for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-windows-11-blockades-to-launching-steam-titles-expert-tips-included/"><u>Overcome Windows 11 Blockades to Launching Steam Titles – Expert Tips Included</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-window-tweaks-essential-hotkeys-unveiled/"><u>Quick Window Tweaks: Essential Hotkeys Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-through-setup-turn-on-tpm-secure-boot-for-w11/"><u>Safeguarding Through Setup: Turn On TPM, Secure Boot for W11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/sustaining-youtube-cc-status-to-boost-engagement/"><u>Sustaining YouTube CC Status to Boost Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-the-black-screen-on-win11/"><u>Swift Fixes for the Black Screen on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-creation-and-modification-dates-on-windows-folders/"><u>Tailoring Creation & Modification Dates on Windows Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-tutorial-for-reinitializing-windows-11-programs/"><u>The Essential Tutorial for Reinitializing Windows 11 Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-lost-pin-after-a-software-glitch-in-windows-11/"><u>Troubleshooting Lost PIN After a Software Glitch in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-application-run-averages-definitions-and-deployment/"><u>Unveiling Application Run Averages: Definitions & Deployment</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Enabling Advanced File Backup Features
-date: 2024-10-30T16:23:06.833Z
-updated: 2024-11-01T16:04:45.696Z
+date: 2024-11-02T13:21:39.835Z
+updated: 2024-11-06T16:54:24.087Z
 tags:
   - windows10
   - windows11
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/3d3cca1cb8e22e05445139021e91e25daa93afe17
  The update also introduced [Dynamic Lighting to Windows 11](https://www.makeuseof.com/enable-dynamic-lighting-windows-11/). This feature lets you control all your RGB lighting devices connected to your Windows PC without a third-party app.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable and Use Archive Support in Windows 11
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/3d3cca1cb8e22e05445139021e91e25daa93afe17
 ![Easily view rar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/easily-view-rar-files-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
@@ -84,10 +84,16 @@ thumbnail: https://thmb.techidaily.com/3d3cca1cb8e22e05445139021e91e25daa93afe17
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
@@ -101,16 +107,10 @@ thumbnail: https://thmb.techidaily.com/3d3cca1cb8e22e05445139021e91e25daa93afe17
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Handle Other Archive Formats on Windows
@@ -119,27 +119,6 @@ thumbnail: https://thmb.techidaily.com/3d3cca1cb8e22e05445139021e91e25daa93afe17
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-superior-suggestions-elite-iphone-ringtones-developers/"><u>[New] In 2024, Superior Suggestions Elite iPhone Ringtones Developers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-dji-drone-artistry-unlocked-first-20-free-lutts-available/"><u>[Updated] In 2024, DJI Drone Artistry Unlocked – First 20 Free LUTTs Available</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tips-to-get-your-video-staff-picked-on-vimeo/"><u>[Updated] In 2024, Tips to Get Your Video “Staff Picked” On Vimeo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-steps-to-rectify-management-tool-inaccessibility-in-windows-11/"><u>Decoding Steps to Rectify Management Tool Inaccessibility in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-secure-windows-tcpip-network-configuration/"><u>Ensuring Secure Windows TCP/IP Network Configuration</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gamers-choice-freshly-updated-nvidia-driver-pack-for-windows-systems/"><u>Gamers' Choice - Freshly Updated Nvidia Driver Pack for Windows Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-advanced-traffic-analysis-with-our-cookiebot-technology-solutions/"><u>Harness Advanced Traffic Analysis with Our Cookiebot Technology Solutions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-elevating-your-gaming-the-xbox-recorder-playbook/"><u>In 2024, Elevating Your Gaming The Xbox Recorder Playbook</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>In 2024, Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-4th-generation-apple-ipad-air-your-economical-choice-instead-of-an-ipad-pro/"><u>Is the 4Th Generation Apple iPad Air Your Economical Choice Instead of an iPad Pro?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-your-system-up-to-date-for-windows-11-installation/"><u>Is Your System up to Date for Windows 11 Installation?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/solving-the-yous-problem-seeing-myself-on-social-media-for-2024/"><u>Solving the 'You's Problem Seeing Myself on Social Media for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-five-data-usage-practices-in-win11/"><u>Understanding Five Data Usage Practices in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-the-power-of-customization-in-win11-layouts/"><u>Unleash the Power of Customization in Win11 Layouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-win-access-fixing-epic-launcher-login-gaps/"><u>Unlocking Win Access: Fixing Epic Launcher Login Gaps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-win-friendly-secure-software-archives/"><u>Unveiling Win-Friendly, Secure Software Archives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-overcoming-obs-studio-connection-failures/"><u>Winning Strategies: Overcoming OBS Studio Connection Failures</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +126,22 @@ thumbnail: https://thmb.techidaily.com/3d3cca1cb8e22e05445139021e91e25daa93afe17
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-distinguished-artists-best-instragram-hlv-designs-online/"><u>[Updated] Distinguished Artists Best Instragram HLV Designs Online</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/3-googleonedrive/"><u>「3つの効果的な方法: GoogleドライブをOnedriveにシームレスにバックアップ」</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-ignite-attention-driving-success-in-instagram-posts/"><u>2024 Approved Ignite Attention Driving Success in Instagram Posts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/are-you-still-using-the-latest-version-of-an-obsolete-ipad/"><u>Are You Still Using the Latest Version of an Obsolete iPad?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-30015-26-in-microsoft-365-for-desktops/"><u>Eliminating Error 30015-26 in Microsoft 365 for Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-enhancing-mouse-interaction-via-clicklock/"><u>Expert Guide to Enhancing Mouse Interaction via ClickLock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-15-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 15 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-selection-of-frames-for-professional-ig-artistry/"><u>In 2024, The Ultimate Selection of Frames for Professional IG Artistry</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-logitech-g920-driver-software-for-windows-11-10-8-and-7-free-download/"><u>Latest Logitech G920 Driver Software for Windows 11, 10, 8 & 7 – Free Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-customization-the-ultimate-fn-key-configuration-guide-for-windows-11/"><u>Mastering the Art of Customization: The Ultimate FN Key Configuration Guide for Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-your-apple-watch-overcoming-issues-with-stalling-at-the-apple-emblem-display/"><u>Troubleshooting Your Apple Watch: Overcoming Issues with Stalling at the Apple Emblem Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbo-turns-banish-bf2s-slowest-mouse-lags/"><u>Turbo Turns: Banish BF2's Slowest Mouse Lags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-do-when-a-discord-update-fails-on-windows/"><u>What to Do When a Discord Update Fails on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-evolution-four-alternatives-to-cortana/"><u>Windows Evolution: Four Alternatives to Cortana</u></a></li>
+</ul></div>
+

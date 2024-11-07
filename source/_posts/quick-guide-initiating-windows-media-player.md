@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Initiating Windows Media Player"
-date: 2024-10-26T16:08:44.813Z
-updated: 2024-11-01T19:20:33.367Z
+date: 2024-11-05T01:03:59.825Z
+updated: 2024-11-07T06:52:30.966Z
 tags:
   - windows10
   - windows11
@@ -45,16 +45,10 @@ To open Windows Media Player using the Run command, do the following:
  That's it. This is how you can open Windows Media Player on your PC.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Open Windows Media Player Via Task Manager
@@ -69,19 +63,20 @@ To open Windows Media Player using Task Manager, follow these steps:
 ![Open Windows Media Player Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-task-manager.jpg)
 4. Now in the text box, type**wmplayer.exe** and press Enter on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will open up Media Player, so you can enjoy all your media files without any trouble!
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Open Windows Media Player From File Explorer
@@ -102,10 +97,10 @@ To open Windows Media Player using Task Manager, follow these steps:
 4. Double-click**Windows Media Player Legacy** on the next page.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. How to Open Windows Media Player Using Control Panel
@@ -120,6 +115,13 @@ To open Windows Media Player using Task Manager, follow these steps:
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Now double-click**Windows Media Player Legacy** to launch the tool.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. How to Open Windows Media Player With a Desktop Shortcut
 
  Creating a desktop shortcut for Windows Media Player is one of the most convenient and efficient ways to start playing audio and video files. This can be very useful if you frequently open the Windows Media Player application on your computer. This way, you can quickly access the application without having to search your hard drive or a search engine.
@@ -129,13 +131,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 1. Right-click on your desktop area and select**New > Shortcut** .  
 ![Create Desktop Shortcut of Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-desktop-shortcut-of-windows-media-player.jpg)
 2. In the text box, type the following path and click**Next** or press**Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 3. Give the shortcut a name and click**Finish** .
@@ -158,13 +153,6 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 2. Right-click on the shortcut icon and select**Properties** .  
 ![Create Shortcut key for Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-shortcut-key-for-windows-media-player.jpg)
 3. Type any letter or number in the shortcut field.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Next, click**Apply > OK** to save the changes
 
@@ -189,19 +177,22 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/21-edition-spotlight-the-new-era-of-sports-betting-in-vegas-pro-for-2024/"><u>'21 Edition Spotlight – The New Era of Sports Betting in Vegas Pro for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avoiding-spam-mastering-the-art-of-whitelisting-email-addresses/"><u>Avoiding Spam: Mastering the Art of Whitelisting Email Addresses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-tips-for-ascertaining-windows-11-gpu-type/"><u>Efficient Tips for Ascertaining Windows 11 GPU Type</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-tech-toms-comprehensive-hardware-guides/"><u>Exploring the Latest in Tech: Tom's Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/extract-your-videos-from-dvds-with-winx-dvd-ripper-free-compatible-with-iphone-android-and-more-as-mp4avi/"><u>Extract Your Videos From DVDs with WinX DVD Ripper (Free): Compatible With iPhone, Android & More as MP4/AVI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-disabled-enter-key-on-windows-laptopdesktop/"><u>Fixing the Disabled Enter Key on Windows Laptop/Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-wifi-connectivity-on-microsoft-os/"><u>How to Reset WiFi Connectivity on Microsoft OS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-tecno-spark-20-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Spark 20 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-electronics-your-guide-to-hardware-and-software-insights/"><u>Inside Tom's Electronics: Your Guide to Hardware and Software Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/never-miss-an-admin-opportunity-with-terminal/"><u>Never Miss an Admin Opportunity with Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-operation-failed-error-0x0000011b-in-windows-11/"><u>Rectifying Operation Failed (Error: 0X0000011B) in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-efficient-way-to-restart-your-windows-machine/"><u>The Efficient Way to Restart Your Windows Machine</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unlock-digiarty-winxdvd-features-with-the-last-user-license-contract-get-started-today/"><u>Unlock Digiarty WinXDVD Features with the Last User License Contract – Get Started Today!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-lut-customization-in-premiere-for-2024/"><u>Unveiling the Secrets of LUT Customization in Premiere for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-tailored-audio-gear-choosing-mics-for-diverse-video-platforms/"><u>[New] In 2024, Tailored Audio Gear Choosing Mics for Diverse Video Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tailoring-your-playstation-experience-with-sounds-for-2024/"><u>[New] Tailoring Your PlayStation Experience with Sounds for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-hidden-gems-in-window-11s-interface-top-30-tips-and-tricks-unveiled/"><u>[Updated] In 2024, Hidden Gems in Window 11'S Interface Top 30 Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-medical-and-wellness-fb-ad-success/"><u>[Updated] Mastering Medical & Wellness FB Ad Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/efficient-methods-to-reduce-high-cpu-use-in-discord-comprehensive-guide/"><u>Efficient Methods to Reduce High CPU Use in Discord - Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extend-your-workspace-for-less-save-hundreds-with-our-dual-monitor-deal-featuring-the-versatile-teamgee-find-out-how/"><u>Extend Your Workspace for Less: Save Hundreds with Our Dual Monitor Deal Featuring the Versatile TeamGee - Find Out How</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-geforce-experiences-unable-to-open-share-error-in-windows-11-and-11/"><u>How to Fix GeForce Experience’s “Unable to Open Share” Error in Windows 11 & 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/one-solution-many-possibilities-windows-across-apple-and-windows-devices/"><u>One Solution, Many Possibilities: Windows Across Apple & Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-messaging-obstacles-with-fbm-tips/"><u>Overcoming Windows Messaging Obstacles with FBM Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-find-x6-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo Find X6 Black and White | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-folder-layouts-windows-11s-standard-setting/"><u>Restoring Folder Layouts: Windows 11'S Standard Setting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-premature-edge-launch-in-win11/"><u>Sidestep Premature Edge Launch in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-normal-webcam-functionality/"><u>Steps to Restore Normal Webcam Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quick-route-remove-ms-edge-on-w11/"><u>The Quick Route: Remove MS Edge on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-multi-screen-management-in-windows-11/"><u>The Ultimate Guide to Multi-Screen Management in Windows 11</u></a></li>
 </ul></div>
 

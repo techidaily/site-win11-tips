@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Win Password Update
-date: 2024-10-30T16:10:34.262Z
-updated: 2024-11-01T16:45:52.492Z
+date: 2024-11-02T16:45:14.771Z
+updated: 2024-11-07T07:45:51.653Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
  To be able to change your account password, you must either remember your current password or be able to log in to your PC with an alternate sign-in option. If you are locked out of your account without no option to sign in, follow our guide to[reset a forgotten Windows administrator password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) instead.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Change the Account Password Using Ctrl + Alt + Delete
 
  Ctrl + Alt + Delete combo is often used if an app causes the PC to become unresponsive and if you want to perform a restart or access Task Manager. However, the combo offers access to other useful tools, including a password change option.
@@ -45,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 ![ctrl alt delete change password new password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ctrl-alt-delete-change-password-new-password.jpg)
 5. Press**Enter** or click the right arrow icon to change the password.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. It’s a quick way to change your account password. If this doesn’t work, you can use the Settings app to do the same.
 
 ## 2\. Change Your Account Password via the Settings App
@@ -64,6 +70,20 @@ To change the account password:
 2. In the left pane, open the**Accounts** tab.  
 ![change user account password settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-user-account-password-settings.jpg)
 3. Next, click on**Sign-in options.**
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click and expand the**Password** option.
 5. Click on**Change** and enter your current password.
 6. Click**Next** .  
@@ -90,37 +110,24 @@ To reset the user account password:
 6. In the**Reset Password** dialog, enter your new password and confirm the same.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click**OK** to save the changes.
 8. Close the**User Account** dialog, and you can now log in with your new password.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reset Account Password Using Command Prompt
 
 ![reset user account password command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-user-account-password-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  An easy way to change your account password is via Command Prompt. Again, useful if you want to change your password without knowing the old password.
@@ -154,13 +161,6 @@ To change the Windows account password using Control Panel:
 ![user accounts control panel 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-control-panel-1.jpg)
 4. Next, click on**Manage another account.**  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![user accounts control panel manage another account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-control-panel-manage-another-account.jpg)
 5. Select the user account for which you want to change the password.
 6. Next, click on the**Change the password** option under**Make changes to User’s account.**  
@@ -168,6 +168,13 @@ To change the Windows account password using Control Panel:
 7. Type your current password and then enter the new password. Confirm the new password and type in a hint. This will be useful if you forget your password again.  
 ![user accounts control panel change the password new password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-control-panel-change-the-password-new-password.jpg)
 8. Click**Change password** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Change Account Password Using Local Users and Groups
 
@@ -181,23 +188,24 @@ To change the Windows account password using Control Panel:
 ![local users and groups set password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/local-users-and-groups-set-password.jpg)
 4. In the right pane, right-click on a user account and select**Set Password** . This will trigger a password reset warning. Read the description and click**Proceed** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![local users and groups set password warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/local-users-and-groups-set-password-warning.jpg)
 5. Next, enter your new password and confirm the same in the given field.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![local users and groups set password new password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/local-users-and-groups-set-password-new-password.jpg)
 6. Click**OK** to reset the password and save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Microsoft Account Password
@@ -209,16 +217,17 @@ To change the Windows account password using Control Panel:
 2. Next, click on the**Password** security block.  
 ![change my password microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-my-password-microsoft-account.jpg)
 3. To change the password, fill in your current password. Then, fill in your new password and re-enter the password to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Save** to change the password.
 
  You can use the new password to sign in to your computer using a Microsoft account.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Change Windows Account Password in Windows 11
 
@@ -241,20 +250,24 @@ To change the Windows account password using Control Panel:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content/"><u>[New] In 2024, Become a Freelance Transcriber Tips and Tricks for YouTube Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-record-and-save-your-workscreen-on-windows-8/"><u>[Updated] 2024 Approved How to Record and Save Your Workscreen on Windows 8</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-embed-a-youtube-video-in-powerpoint-for-2024/"><u>[Updated] How to Embed a YouTube Video in PowerPoint for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-breaking-top-tiktok-videos-making-twitter-shout/"><u>2024 Approved Breaking Top TikTok Videos Making Twitter Shout</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-closer-look-at-sonys-s6700-enhancements/"><u>A Closer Look at Sony's S6700 Enhancements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-free-transformation-of-mp4-videos-into-ogv-using-movavis-software/"><u>A Step-by-Step Guide: Free Transformation of MP4 Videos Into OGV Using Movavi's Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertissez-facilement-votre-fichier-swf-en-mov-avec-laide-de-moovavi-sans-frais-en-ligne-gratuit/"><u>Convertissez Facilement Votre Fichier SWF en MOV Avec L'aide De Moovavi, Sans Frais - En Ligne Gratuit</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/efficient-workflow-screen-recording-techniques-in-os-x-via-keyboard-shortcuts/"><u>Efficient Workflow Screen Recording Techniques in OS X via Keyboard Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exklusive-videoausschnitte-erstellen-fuhren-sie-ihre-videomontage-mit-unserem-tutorial-durch/"><u>Exklusive Videoausschnitte Erstellen - Führen Sie Ihre Videomontage Mit Unserem Tutorial Durch!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuito-online-conversor-de-video-wmv-e-wma-para-mp4-ferramenta-ampla-do-movavi/"><u>Gratuito Online: Conversor De Vídeo WMV E WMA Para MP4 - Ferramenta Ampla Do Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-free-conversion-transforming-m4a-files-into-mpeg-format-with-ease/"><u>Online Free Conversion: Transforming M4A Files Into MPEG Format with Ease</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-to-install-new-software-on-your-apple-device-try-these-9-tips/"><u>Struggling to Install New Software on Your Apple Device? Try These 9 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-12-screen-recording-apps-explore-the-best-tools-by-movavi/"><u>Top 12 Screen Recording Apps: Explore the Best Tools by Movavi</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-review-of-rings-enhanced-video-doorbell-pros-cons-and-price-analysis/"><u>Top Review of Ring's Enhanced Video Doorbell: Pros, Cons & Price Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-discovering-the-quintessential-25-influence-kings-and-queens-for-2024/"><u>[Updated] Discovering The Quintessential 25 Influence Kings and Queens for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974460619-download-the-new-geforce-rtx-3090-windows-driver-enhance-your-gaming-experience/"><u>Download the New GeForce RTX 3090 Windows Driver: Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ejecutar-windows-11-desde-un-disco-duro-externo-o-memoria-usb-tutorial-completo/"><u>Ejecutar Windows 11 Desde Un Disco Duro Externo O Memoria USB: Tutorial Completo</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/elimination-simple-des-fichiers-de-mises-a-jour-windows-10-une-approche-facile-et-pratique/"><u>Élimination Simple Des Fichiers De Mises À Jour Windows 10 : Une Approche Facile Et Pratique</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-finding-pristine-photo-collections-for-2024/"><u>Expert Advice Finding Pristine Photo Collections for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-active-directory-print-failures-on-windows-11-os/"><u>Fixing Active Directory Print Failures on Windows 11 OS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/harness-the-power-of-analytics-to-rise-in-fan-counts/"><u>Harness the Power of Analytics to Rise in Fan Counts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-task-scheduler-fails-in-windows/"><u>Overcome Task Scheduler Fails in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-edit-mode-configure-ms-word-to-open-email-attachments-in-reading-layout/"><u>Prevent Edit Mode: Configure MS Word To Open Email Attachments In Reading Layout</u></a></li>
+<li><a href="https://windows11.techidaily.com/rethinking-your-pc-critical-changes-in-windows-11s-explore/"><u>Rethinking Your PC: Critical Changes in Windows 11'S Explore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-unknown-not-initialized-error-in-windows-os/"><u>Solving 'Unknown Not Initialized' Error in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-virtual-machines-refining-your-windows-11-experience/"><u>Top Virtual Machines Refining Your Windows 11 Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-fast-effective-remedies-for-oculus-rift-s-microphone-issues/"><u>Troubleshoot Fast: Effective Remedies for Oculus Rift S Microphone Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-steam-link-issues-effectively/"><u>Unblocking Windows Steam Link Issues Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-to-fixing-non-working-win-plus-printer/"><u>Unlocking The Secrets to Fixing Non-Working Win + Printer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-gems-of-windows-11-mouse-settings/"><u>Unveiling the Hidden Gems of Windows 11 Mouse Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-a-dive-into-the-newly-added-system-updates/"><u>Windows 11: A Dive Into the Newly Added System Updates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-guide-to-hardware-mastery-discover-top-picks-at-toms-tech-destination/"><u>Your Guide to Hardware Mastery - Discover Top Picks at Tom's Tech Destination</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1726027350128-vimeo-firefox/"><u>ダウンロード: Vimeo 映像を Firefox でどうやって保存するか</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows' Search Functionality: An Alternative to LS"
-date: 2024-10-26T17:21:43.583Z
-updated: 2024-11-01T17:29:03.602Z
+date: 2024-11-02T04:52:18.425Z
+updated: 2024-11-06T19:25:26.474Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
  By using the “ls” command, users can list the contents of the current working directory, similarly, you can also [switch directories using Command Prompt](http://www.makeuseof.com/how-to-change-directory-in-cmd/). On Windows, the usage of "ls" in Command Prompt is slightly different compared to Linux, but it can accomplish the same task.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the “ls” Command in Command Prompt on Windows 10 and 11
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use "ls" Command in Windows PowerShell
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Handy Tool for Both Linux and Windows Users
@@ -98,29 +98,6 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  There are many commands that are supported on the Linux terminal that does not exist on Windows 10 and 11\. Luckily the “ls” command in Windows is supported on the Command Prompt. Read on as we explore how to use the "ls" command in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-panasonics-hx-a1-wearable-cam-examined-a-detailed-review/"><u>[New] Panasonic’s HX-A1 Wearable Cam Examined - A Detailed Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/choosing-the-perfect-iphone-for-your-mobile-gaming-needs/"><u>Choosing the Perfect iPhone for Your Mobile Gaming Needs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-a-windows-11-wi-fi-hotspot-a-step-by-step-guide/"><u>Creating a Windows 11 Wi-Fi Hotspot: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-windows-memory-writing-failure/"><u>Demystifying Windows Memory Writing Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-entry-into-common-windows-shares/"><u>Effortless Entry Into Common Windows Shares</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-browser-speed-fixing-edge-in-windows-10plus11/"><u>Enhance Browser Speed: Fixing Edge in Windows 10+11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-ready-for-a-classic-bbq-and-sports-viewing-with-walmarts-discounted-outdoor-tv-sets-this-memorial-day-detailed-review-on-zdnet/"><u>Get Ready for a Classic BBQ & Sports Viewing with Walmart's Discounted Outdoor TV Sets This Memorial Day - Detailed Review on ZDNET!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-to-create-animated-facebook-ads-with-high-roi/"><u>How to Create Animated Facebook Ads With High ROI?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-epson-perfection-v500-with-new-drivers-grab-them-here/"><u>How to Update Epson Perfection V500 with New Drivers – Grab Them Here!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-task-handling-on-windows-with-advanced-utilities/"><u>Optimize Task Handling on Windows with Advanced Utilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/permanent-file-disposal-customize-win1011-writable-trash-can/"><u>Permanent File Disposal: Customize Win10/11' Writable Trash Can</u></a></li>
-<li><a href="https://extra-information.techidaily.com/purifypicture-premium-bg-eraser-and-editor/"><u>PurifyPicture Premium BG Eraser & Editor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-mail-calendar-on-windows-using-chosen-images/"><u>Revamp Mail, Calendar on Windows Using Chosen Images</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-solutions-reinstating-original-configurations-in-samsung-soundbars/"><u>Simple Solutions: Reinstating Original Configurations in Samsung Soundbars</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/slow-the-spin-swift-the-steps-how-to-stop-pointer-accel-in-win-11/"><u>Slow the Spin, Swift the Steps: How to Stop Pointer Accel in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/systematic-approach-to-fixing-error-0x800700e1-on-windows-11-pcs/"><u>Systematic Approach to Fixing Error 0X800700E1 on Windows 11 PCs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-and-testing-the-ultimate-tablet-samsung-galaxy-tab-s4-review/"><u>Unboxing and Testing the Ultimate Tablet - Samsung Galaxy Tab S^4 Review</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unlock-joyful-hours-essential-list-of-best-offline-ios-titles-for-2024/"><u>Unlock Joyful Hours - Essential List of Best Offline iOS Titles for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-of-retrieving-deleted-notifications-from-your-iphone/"><u>Unlock the Secrets of Retrieving Deleted Notifications From Your iPhone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -128,3 +105,20 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-guide-three-approaches-for-documenting-discords-live-streams-for-2024/"><u>[Updated] Essential Guide Three Approaches for Documenting Discord's Live Streams for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-design-one-of-a-kind-registration-tokens-with-easy-steps/"><u>How to Design One-of-a-Kind Registration Tokens with Easy Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-non-functional-resource-monitor-apps-on-win11/"><u>How to Tackle Non-Functional Resource Monitor Apps on Win11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-c300-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia C300 PC | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-state-of-the-vr-industry/"><u>In 2024, State of the VR Industry</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-directory-restarts-for-distro-and-catroot2-in-ws11/"><u>Navigating Directory Restarts for Distro & Catroot2 in WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-typing-delay-7-tricks-for-windows-1011/"><u>Overcoming Typing Delay: 7 Tricks for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-adjustments-for-enhanced-devices-with-windows-11/"><u>Streamlined Adjustments for Enhanced Devices with Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-up-to-date-tech-insights-from-toms-hardware/"><u>The Definitive Guide to Up-to-Date Tech: Insights From Tom’s Hardware</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlock-potential-top-10-free-easy-mac-screen-recorders/"><u>Unlock Potential Top 10 Free, Easy Mac Screen Recorders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-how-can-chatbots-mimic-human-dialogue/"><u>Unveiling the Secrets: How Can Chatbots Mimic Human Dialogue?</u></a></li>
+</ul></div>
+

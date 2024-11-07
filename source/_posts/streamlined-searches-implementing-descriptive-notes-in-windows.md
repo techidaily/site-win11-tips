@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Searches: Implementing Descriptive Notes in Windows"
-date: 2024-10-31T16:34:50.223Z
-updated: 2024-11-01T19:46:48.447Z
+date: 2024-11-03T08:41:22.756Z
+updated: 2024-11-07T03:59:01.939Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
  A **Comments** column will now be visible in the directory opened. That is where you’ll see the comment added to a folder. You can expand the width of that column by placing the mouse cursor on the left or right side of the **Comments** column header, holding the left mouse button, and dragging the mouse cursor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reveal the desktop.ini File for a Folder
 
  Desktop.ini is a hidden configuration file for folders. So, you must [set Explorer to show hidden files](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) to see and edit desktop.ini. You will also need to [change the icon of the folder](https://www.makeuseof.com/tag/customize-icon-windows/) to which you want to add a comment to make its desktop.ini file visible. These are the steps for revealing a folder’s desktop.ini file:
@@ -53,9 +46,24 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 2. Select **Options** to bring up a window that includes folder settings.  
 ![The See more menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-see-more-menu.jpg)
 3. Click **View** to access advanced Explorer settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select the circle for the **Show hidden files, folders and drives** option.
 5. Deselect the selected **Hide protected operating system** checkbox.  
 ![The Hide protected operation system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-hide-protected-operating-system-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Select **Apply** to save the new Explorer settings.
 2. Click the Folder Options window’s **OK** button.
@@ -68,10 +76,16 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 7. Press the **Apply** and **OK** buttons to change the folder’s icon.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a New Folder Comment With the Desktop.Ini File
@@ -95,46 +109,19 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 ![The Comments column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/comments-column.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you ever want to remove or change the comment, reopen the desktop.ini file in the set folder. You can remove the comment by deleting the InfoTip comment text. Or edit the comment’s text there to change it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add Useful Comment Info to Your Folders on Windows 11
 
  You can now add extra information about your folders within File Explorer with comment notes. Such comments can be useful for making it clearer what directories include. For example, you can add comments that provide more specific details about what kinds of files folders include. Or add comments about what specific files you can find in them.
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-humorhub-generate-awesome-memes/"><u>[New] HumorHub Generate Awesome Memes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-remedying-loss-of-color-contrast-in-online-video-playback/"><u>[Updated] In 2024, Remedying Loss of Color Contrast in Online Video Playback</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigating-video-aspect-ratios-in-youtube-platform/"><u>[Updated] Navigating Video Aspect Ratios in YouTube Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725286706047-winx-dvd-ripper-platinum/"><u>『公式』WinX DVD Ripper Platinumにおけるディスク選択不可解消 - 最新対策ガイド</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-thrustmaster-t300-steering-wheel-game-drivers-for-pcs-running-windows-1110/"><u>Download the Latest ThrustMaster T300 Steering Wheel Game Drivers for PCs Running Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-sticky-notes-placement-on-windows-desktops/"><u>Elevating Sticky Notes Placement on Windows Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-aural-immersion-with-windows-11/"><u>Enhancing Aural Immersion with Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iconic-visual-alteration-suite-imagefusion-xtreme/"><u>Iconic Visual Alteration Suite ImageFusion Xtreme</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-dazzling-instagram-stories-with-multi-image-techniques/"><u>In 2024, Crafting Dazzling Instagram Stories with Multi-Image Techniques</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini with a Mask On</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-asus-expertbook-p5-the-newest-intel-core-i7-based-notebook-with-lunar-lake-processors/"><u>Introducing the Asus ExpertBook P5: The Newest Intel Core I7-Based Notebook with Lunar Lake Processors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-resource-load-from-unrealcefsubprocess-to-enhance-pc-performance/"><u>Lowering Resource Load From UnrealCEFSubprocess to Enhance PC Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reestablishing-failed-remote-links-a-windows-guide/"><u>Reestablishing Failed Remote Links: A Windows Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-usb-capacity-on-desktops/"><u>Steps to Enhance USB Capacity on Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-to-wipe-email-from-windowed-login/"><u>Tips & Tricks to Wipe Email From Windowed Login</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-to-fix-discords-setup-errors/"><u>Winning Strategies to Fix Discord's Setup Errors</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,3 +130,23 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-best-edges-for-instagram-excellence-an-essential-guide-for-2024/"><u>[New] The Best Edges for Instagram Excellence – An Essential Guide for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-camcorders-for-deer-stalking-success/"><u>Best Camcorders for Deer Stalking Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-edge-win11s-lead-over-macos/"><u>Discover the Edge: Win11's Lead over MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-enabling-windows-notepad-with-excel-views/"><u>Guide: Enabling Windows Notepad with Excel Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-slow-loading-xbox-app-on-pc/"><u>How to Fix a Slow-Loading Xbox App on PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-7-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-gt-10-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix GT 10 Pro Bootloader Easily</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a78-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-amds-graphics-in-windows-for-maximum-speed/"><u>Mastering AMD's Graphics in Windows for Maximum Speed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-hobbyist-to-pro-the-best-free-and-paid-3d-animation-tools/"><u>New In 2024, From Hobbyist to Pro The Best Free and Paid 3D Animation Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-your-windows-alerts-a-win-11-guide/"><u>Personalize Your Windows Alerts: A Win 11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-taskbar-innovation-in-windows-11-with-6-suggestions/"><u>Pioneering Taskbar Innovation in Windows 11 with 6 Suggestions</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-has-updated-steam-family-sharing-for-the-first-time-in-10-years-heres-whats-new/"><u>Valve Has Updated Steam Family Sharing for the First Time in 10 Years: Here's What's New</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-personalize-your-functional-keys/"><u>Win 10/11: Personalize Your Functional Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-networks-decoded-arp-cache-understanding/"><u>Windows Networks Decoded: ARP Cache Understanding</u></a></li>
+</ul></div>
+

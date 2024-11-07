@@ -1,7 +1,7 @@
 ---
 title: Correcting Admin Controlled Errors in Windows 11 Configuration
-date: 2024-10-31T19:49:41.717Z
-updated: 2024-11-01T19:47:11.060Z
+date: 2024-11-05T13:11:14.810Z
+updated: 2024-11-07T04:01:23.030Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 
 Let's now see how to fix this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  The first thing to fix the "some settings are managed by your organization" error is to restart your computer. This will resolve any temporary glitches. If you need help, check out[the different ways to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
@@ -49,16 +42,10 @@ Let's now see how to fix this problem.
  Your computer will then start to reboot and hopefully, your Settings app will now be free from any restrictions.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check for Windows Updates
@@ -67,6 +54,13 @@ Let's now see how to fix this problem.
 
  Usually, restart your computer to complete the installation process. Then check to see if you can now make changes in your Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Uninstall the Third-Party Application
 
  If you've recently added any third-party application installed on your Windows PC, it could be the cause of this issue. Uninstalling such applications can solve the problem.
@@ -74,13 +68,6 @@ Let's now see how to fix this problem.
  Think back to any applications you installed before the error began appearing. If you have an idea as to what might be the cause, follow our guide on[how to uninstall programs on Windows 10](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) or[Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) to get rid of it.
 
  Once done, restart your computer to apply the changes. If it hasn't gone away yet, try getting rid of any other recent applications.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Change Diagnostic Data Settings
 
@@ -93,13 +80,6 @@ Let's now see how to fix this problem.
 3. On the right side of the page, scroll down to**Windows permissions** and click on**Diagnostics & feedback** .  
 ![Send optional diagnostic data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/send-optional-diagnostic-data.jpg)
 4. If the "Send optional diagnostic data" switch is off, make sure you toggle it to**On** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
 
@@ -121,9 +101,24 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
 5. On the next pop-up page, check the**Enabled** radio button.  
 ![Enabled Allow Diagnostic Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabled-allow-diagnostic-data.jpg)
 6. Under the**Options** section, click the drop-down menu and select**Send optionally diagnostics data** .
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Finally, click**Apply > OK** to save the changes.
 
  After you have followed all these steps, restart your computer and check if it solves the problem. If not, continue to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Tweak the Registry Editor
 
@@ -159,20 +154,22 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-amazonprimes-winning-tweets-of-the-year-2023-for-2024/"><u>[New] AmazonPrime's Winning Tweets of the Year 2023 for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-staying-legal-in-the-digital-space-youtubes-copyright-guide/"><u>[New] In 2024, Staying Legal in the Digital Space YouTube's Copyright Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elevate-your-audio-experience-with-audacity-on-the-mac/"><u>[Updated] 2024 Approved Elevate Your Audio Experience with Audacity on the Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-balance-of-serene-visuals/"><u>[Updated] The Balance of Serene Visuals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-classic-diablo-gameplay-wonders/"><u>Discovering Classic Diablo Gameplay Wonders</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-email-organization-bid-farewell-to-clutter-with-simple-techniques-no-extra-accounts-needed-lifehacker/"><u>Effortless Email Organization: Bid Farewell to Clutter with Simple Techniques, No Extra Accounts Needed! | Lifehacker</u></a></li>
-<li><a href="https://facebook.techidaily.com/go-live-on-instagram-with-minimalist-approach/"><u>Go Live on Instagram With Minimalist Approach</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-create-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app/"><u>In 2024, Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-qbittorrent-integrated-across-separate-windows-computers/"><u>Keeping qBittorrent Integrated Across Separate Windows Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterclass-in-windows-model-dating/"><u>Masterclass in Windows Model Dating</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secret-methods-to-hide-windows-11s-language-indicator/"><u>Secret Methods to Hide Windows 11'S Language Indicator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seven-keys-to-reviving-faulty-windows-software/"><u>Seven Keys to Reviving Faulty Windows Software</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/simple-steps-to-stream-facebooks-video-library-on-your-apple-device/"><u>Simple Steps to Stream Facebook's Video Library on Your Apple Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-the-isarcextract-error-on-w11-and-11x-os/"><u>Solving the ISArcExtract Error on W11 & 11X OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-15-best-free-software-to-effortlessly-remove-unwanted-programs/"><u>Top 15 Best Free Software to Effortlessly Remove Unwanted Programs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tand-out-with-custom-youtube-imagery-for-2024/"><u>[New] Stand Out with Custom YouTube Imagery for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-cameraphone-gimbal-optimal-pan-and-tilt-stability/"><u>[New] Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-manage-youtube-video-comments-for-enhanced-privacy-for-2024/"><u>[Updated] How to Manage YouTube Video Comments for Enhanced Privacy for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/conversion-sin-costo-entre-cr2-y-bmp-en-linea-con-herramientas-gratuitas-de-movavi/"><u>Conversión Sin Costo Entre CR2 Y BMP en Línea Con Herramientas Gratuitas De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/de-gray-extended-volume-options-in-windows-discmgmt/"><u>De-Gray Extended Volume Options in Windows DiscMgmt</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/download-fb-content-windows-and-mac-guide-for-2024/"><u>Download FB Content Windows & Mac Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-incorporate-portable-menus-in-windows-11plus/"><u>Effortlessly Incorporate Portable Menus in Windows 11+</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-honor-x50-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Honor X50?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-stalled-downloads-in-windows-11-networks-1/"><u>How to Resolve Stalled Downloads in Windows 11 Networks (1)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-audio-settings-custom-hotkeys-in-win11/"><u>Mastering Audio Settings: Custom Hotkeys in Win11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mastering-camera-roll-export-to-snapchat-a-step-by-step-guide/"><u>Mastering Camera Roll Export to Snapchat A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-workflows-utilizing-windows-11s-dev-drive-for-coders/"><u>Optimizing Workflows: Utilizing Windows 11'S Dev Drive for Coders</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-asus-rog-phone-7-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Asus ROG Phone 7 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-windows-update-interruptions/"><u>Preventing Windows Update Interruptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-blocked-files-with-advanced-powershell-methods/"><u>Simplifying Blocked Files with Advanced PowerShell Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-boot-up-clearing-non-visible-sign-in-screens/"><u>Windows 11 Boot Up: Clearing Non-Visible Sign-In Screens</u></a></li>
 </ul></div>
 

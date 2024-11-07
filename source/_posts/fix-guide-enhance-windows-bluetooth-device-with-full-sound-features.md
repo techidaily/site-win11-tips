@@ -1,7 +1,7 @@
 ---
 title: "Fix Guide: Enhance Windows Bluetooth Device with Full Sound Features"
-date: 2024-09-11T01:20:46.230Z
-updated: 2024-09-12T01:20:46.230Z
+date: 2024-11-01T20:46:55.853Z
+updated: 2024-11-07T05:01:21.012Z
 tags:
   - windows10
   - windows11
@@ -23,20 +23,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 ## 1\. Run the Windows Bluetooth Troubleshooter
 
 ![Run Bluetooth troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bluetooth-troubleshooter-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Windows 10 and 11 feature a built-in troubleshooter to find and fix common Bluetooth issues. It is an automated tool but works differently on Windows 10 and 11\.
 
@@ -62,35 +48,16 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 ![control printers run box windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/control-printers-run-box-windows.jpg)
 2. Type **control Printer** and click **OK** to open the **Bluetooth & devices** tab in the **Settings** app.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. Next, click on **Devices**.  
 ![bluetooth and devices devices windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bluetooth-and-devices-devices-windows-11-settings.jpg)
 4. Scroll down and click **More devices** **and printer settings**. This should open **Devices and Printers** in the Control Panel.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Alternatively, copy and paste the following in the **Run** dialog to open **Device and Printers**.  
 `shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}`
@@ -105,6 +72,13 @@ Remotely Controllable Device`
 
  Close the Control Panel, and your Bluetooth audio device should start to work now. If not, perform a restart and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check and Enable the Windows Bluetooth Services
 
  Windows OS uses multiple Bluetooth-related services that help it connect to other Bluetooth devices and transmit audio. This is in addition to the services enabled above.
@@ -118,19 +92,6 @@ Remotely Controllable Device`
 ![Services Shortcode In Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-sevices-from-run_dialog.jpg)
 3. In the Services snap-in, locate the following services and check if the status shows **Running**.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 `Bluetooth Audio Gateway Service  
 Bluetooth Support Service  
 Bluetooth User Support Service`
@@ -141,19 +102,12 @@ Bluetooth User Support Service`
 
  If the issue persists, [disable any audio enhancements on Windows](https://www.makeuseof.com/disable-audio-enhancements-windows/). While intended to improve your listening experience, these enhancements can also cause audio issues. Turning off these enhancements can help you resolve the problem with your audio devices.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Check Your Bluetooth Device Driver for Issues
 
@@ -179,42 +133,16 @@ Bluetooth User Support Service`
 ![download bluetooth driver manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-bluetooth-driver-manually.jpg)
 7. Compare the version with the one available on your computer. Download the newer version if available. Run the installer and complete the installation.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 8. During installation, your Bluetooth devices, including the headphone, keyboard, and mouse, may stop working temporarily. Wait for a few minutes for the changes to apply. Sometimes, a restart may be necessary to finish installing the update.
 
  Similarly, the download page may also offer older versions of the driver. If you have the latest version installed, try to download an older version to perform a downgrade. Useful if the rollback driver option isn’t available in Device Manager.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fixing the Bluetooth Headset or Speaker Showing a "Voice Only" Error
 
@@ -222,11 +150,33 @@ Bluetooth User Support Service`
 
  However, if a quick reconnect doesn’t help, the problem may be due to a buggy audio driver, incorrect audio device configuration, and stopped audio services. Here we show you a few troubleshooting tips to help you resolve this problem on Windows and get your Bluetooth headset working again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimal-action-capture-software-insights/"><u>[New] 2024 Approved Optimal Action Capture Software Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-low-fee-android-communication-options-10-best/"><u>[Updated] In 2024, Low-Fee Android Communication Options, 10 Best</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premier-choices-for-accessible-screen-recorders/"><u>2024 Approved Premier Choices for Accessible Screen Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>2024 Approved Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-your-current-os-windows-10/"><u>Compelling Case for Continuing with Your Current OS - Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-ipod-songs-a-step-by-step-guide-to-changing-drm-m4p-files-to-freely-listenable-m4a-without-costs/"><u>Convert Your iPod Songs: A Step-by-Step Guide to Changing DRM M4P Files to Freely Listenable M4A without Costs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/custom-pdf-viewer-preferences-on-windows/"><u>Custom PDF Viewer Preferences on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-advanced-file-backup-features/"><u>Enabling Advanced File Backup Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-11-services-disabling-risk/"><u>Essential Windows 11 Services: Disabling Risk</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-setup-blueprint-for-wm6/"><u>In 2024, Complete Setup Blueprint for WM6</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-cutting-down-the-wait-quick-time-lapse-on-iphone/"><u>In 2024, Cutting Down the Wait Quick Time-Lapse on iPhone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-google-pixel-8-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Google Pixel 8 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-security-of-user-authentication-on-w11/"><u>Mastering the Security of User Authentication on W11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/modern-methods-rapidly-turning-srt-into-txt-format-for-2024/"><u>Modern Methods Rapidly Turning SRT Into TXT Format for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-visual-quality-leaks-for-2024/"><u>Premier Visual Quality Leaks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-access-to-windows-network-configuration-setup/"><u>Quick Access to Window's Network Configuration Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedies-to-tackle-windows-operations-promotion-errors/"><u>Quick Remedies to Tackle Windows Operations Promotion Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-0x8004def5-onedrive-fiasco/"><u>Resolving Windows 11'S 0X8004DEF5 Onedrive Fiasco</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-text-editor-experience-7-troubleshooting-tips-for-windows/"><u>Revitalize Your Text Editor Experience: 7 Troubleshooting Tips for Windows</u></a></li>
+</ul></div>
+

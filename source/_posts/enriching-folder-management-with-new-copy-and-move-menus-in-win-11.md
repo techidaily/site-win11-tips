@@ -1,7 +1,7 @@
 ---
 title: Enriching Folder Management with New Copy & Move Menus in Win 11
-date: 2024-10-28T16:36:27.397Z
-updated: 2024-11-01T19:10:43.209Z
+date: 2024-11-05T18:54:13.050Z
+updated: 2024-11-06T22:41:32.317Z
 tags:
   - windows10
   - windows11
@@ -68,16 +68,10 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 7. Click the**OK** button to apply the value.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Close the Registry Editor app’s window.
@@ -87,19 +81,20 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 ![The Copy to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Move and Copy to Folder Context Menu Options With WinBubble
 
@@ -114,17 +109,18 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 1. Select**Extract all** on Explorer’s command bar or the**Compressed Folder Tools** tab in Windows 10.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
 2. Press the**Browse** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
 4. Next, select**Show extracted files when complete** for the WinBubbles folder to automatically open after extraction.
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-extract-compressed-window.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Now double-click WinBubbles EXE to launch that software.
 2. Select the**Move to** option on the**General** tab.
@@ -133,19 +129,6 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Minimize or exit the WinBubble window.
 
@@ -172,16 +155,16 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-popular-pictures-the-backstage-story/"><u>[Updated] Popular Pictures The Backstage Story</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726221539564-aviswf-movavi/"><u>網頁版AVI到SWF自由下載 - MOVAVI影片轉化工具</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-libre-de-wav-con-garantia-de-excelente-calidad-servicios-online/"><u>Conversión Libre De WAV Con Garantía De Excelente Calidad: Servicios Online</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-boost-visibility-with-these-20-best-thumbnail-fonts/"><u>In 2024, Boost Visibility with These 20 Best Thumbnail Fonts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-rescuing-a-halted-obs-video-input-stream/"><u>In 2024, Rescuing a Halted OBS Video Input Stream</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y100a-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y100A</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nokia-c210-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nokia C210 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/movavis-top-pick-effortless-mkv-to-mp3-transformation-without-cost/"><u>Movavi's Top Pick: Effortless MKV to MP3 Transformation Without Cost</u></a></li>
-<li><a href="https://app-tips.techidaily.com/surpassing-artificial-intelligence-the-rapid-rise-of-the-next-tech-trend/"><u>Surpassing Artificial Intelligence: The Rapid Rise of the Next Tech Trend</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-aiff-in-mp3-gratuitamente-con-movavi-il-metodo-piu-semplice/"><u>Trasforma I Tuoi AIFF in MP3 Gratuitamente Con Movavi - Il Metodo Più Semplice!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-wav-vs-mp3-a-comprehensive-guide-for-high-quality-audio-movavi/"><u>Understanding WAV Vs. MP3: A Comprehensive Guide for High-Quality Audio - Movavi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-practices-for-saving-screen-and-webcam-chats/"><u>[New] In 2024, Best Practices for Saving Screen and Webcam Chats</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-discover-funimate-games-with-a-single-apk-install/"><u>[New] In 2024, Discover Funimate Games with a Single APK Install</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-fast-forward-fame-insta-popularity-through-content/"><u>[Updated] In 2024, Fast Forward Fame Insta Popularity Through Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diskspace-analyzer-add-on-for-windows-menu-system/"><u>DiskSpace Analyzer Add-On for Windows Menu System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/emergency-techniques-for-forced-deletion-of-printers-on-windows/"><u>Emergency Techniques for Forced Deletion of Printers on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-cyberpower-cp685avrg-survives-as-a-reliable-entry-level-uninterruptible-power-supply/"><u>Expert Analysis: Cyberpower CP685AVRG Survives as a Reliable Entry-Level Uninterruptible Power Supply</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-wows-error-132-in-windows-1111/"><u>How to Address WoW's Error #132 in Windows 11/11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-x90s-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo X90S Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-100-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor 100 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-tecno-pova-5-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Tecno Pova 5 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-non-transferring-usb-sticks-a-windows-guide/"><u>Reviving Non-Transferring USB Sticks: A Windows Guide</u></a></li>
 </ul></div>
 

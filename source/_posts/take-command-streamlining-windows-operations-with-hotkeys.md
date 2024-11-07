@@ -1,7 +1,7 @@
 ---
 title: "Take Command: Streamlining Windows Operations with Hotkeys"
-date: 2024-10-30T17:57:18.461Z
-updated: 2024-11-01T16:48:46.647Z
+date: 2024-11-04T19:13:14.832Z
+updated: 2024-11-07T04:46:15.269Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
  Remember, you can't use the redo command without undoing an action first.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Undo on Windows With a Keyboard Shortcut
@@ -54,18 +54,25 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
 ![Word Document Showing Undoing Several Actions Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-several-actions-together-on-word.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can even undo changes after saving and then save again. However, you can't undo some actions, such as clicking commands on the**File** tab or saving a file.
 
 ![Undo Command Changed to Can't Undo on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-changed-to-can-t-undo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Redo in a Snap With Redo Hotkeys
 
@@ -75,22 +82,15 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
 ![Redo Command Highlighted on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/redo-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also use the same redo shortcut**Ctrl+Y** or**F4** to repeat something. It can be pasting the same text multiple times or using the same color to highlight different lines of text.
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
@@ -114,16 +114,19 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-crafters-guide-to-crafting-a-unique-tiktok-keyphrase/"><u>[Updated] Crafters' Guide to Crafting a Unique TikTok Keyphrase</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-nord-ce-3-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Nord CE 3 5G</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/disabling-gpu-by-error-recover-it-for-windows-1011/"><u>Disabling GPU by Error? Recover It for Windows 10/11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-s24plus-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy S24+ Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-making-youtube-based-twitter-videos-hearable/"><u>In 2024, Making YouTube-Based Twitter Videos Hearable</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-startup-speed-in-windows-11-a-quick-guide/"><u>Optimizing Startup Speed in Windows 11 – A Quick Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-common-asana-crashes-on-windows-desktops/"><u>Overcoming the Common Asana Crashes on Windows Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-muted-button-glitches-in-windows-systems/"><u>Resolving Muted Button Glitches in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-reactivate-lost-store-apps-on-windows-11/"><u>Swiftly Reactivate Lost Store Apps on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oneplus-ace-2-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for OnePlus Ace 2 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-guide-to-economical-multiplatform-video-conferencing-software/"><u>[New] Essential Guide to Economical, Multiplatform Video Conferencing Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dynamic-dialogues-keys-to-a-loving-podcast-following-for-2024/"><u>[Updated] Dynamic Dialogues Keys to a Loving Podcast Following for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/future-vistas-in-the-metaverse-top-30-encouraging-quotes/"><u>Future Vistas in the Metaverse Top 30 Encouraging Quotes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/gifs-and-graphics-iphone-laughter/"><u>GIFs & Graphics IPhone Laughter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-keeping-login-details-private-on-pc/"><u>Guide to Keeping Login Details Private on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correctly-open-installation-packages-on-windows-10-11/"><u>How to Correctly Open Installation Packages on Windows 10, 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-memorable-images-top-10-best-meme-blueprints/"><u>In 2024, Memorable Images TOP 10 Best Meme Blueprints</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proving-your-phones-ability-ios-11-camera-enhancements/"><u>In 2024, Proving Your Phone's Ability IOS 11 Camera Enhancements</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-14-pro-max-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 14 Pro Max from iCloud</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-and-operating-chatgpt-in-windows/"><u>Installing and Operating ChatGPT in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplified-guide-swiftly-moving-your-macbook-data-surprisingly-straightforward-methods-revealed/"><u>Simplified Guide: Swiftly Moving Your MacBook Data - Surprisingly Straightforward Methods Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-frequent-blue-screens-in-windows-os/"><u>Tackling Frequent Blue Screens in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-prevent-data-loss-from-faulty-usb-drivers/"><u>Techniques to Prevent Data Loss From Faulty USB Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-techniques-for-windows-not-found-woes/"><u>Top 8 Techniques for Windows' Not Found Woes</u></a></li>
 </ul></div>
 

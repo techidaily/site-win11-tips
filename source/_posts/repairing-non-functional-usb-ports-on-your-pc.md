@@ -1,7 +1,7 @@
 ---
 title: Repairing Non-Functional USB Ports on Your PC
-date: 2024-10-25T16:59:08.167Z
-updated: 2024-11-01T16:53:26.019Z
+date: 2024-11-02T20:53:10.754Z
+updated: 2024-11-07T02:50:04.450Z
 tags:
   - windows10
   - windows11
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
  Of course, you could take this to an expert for repair, but there will be associated costs with this. If you want to do it yourself, make sure you [learn how to solder](http://www.makeuseof.com/tag/learn-solder-simple-tips-projects/). If you're not sure, check out the software fixes first.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can Restarting a Computer Fix Broken USB Ports?
 
  "Have you tried turning it off and back on again?"
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
  This old tech support standby is well-known for a reason: it works!
 
  With your unrecognized USB device correctly inserted into the suspect USB port, restart your computer. Once the operating system has rebooted, it should detect the USB device. If not, it's worth looking at the device in the Windows device manager.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Check USB Ports on Windows 10 With Device Manager
 
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 2. **Browse the list for** **Universal Serial Bus controllers**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Expand this and look for the **USB Host Controller**(your device may have a longer title, but it will feature those three words)  
@@ -121,22 +121,15 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 7. Click **Apply** and **OK** to confirm
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Finally, reboot your PC to ensure this change is applied
 
  You should find that any USB ports that were not working have now been fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## USB Port Still Not Working? Reset the BIOS/UEFI Settings
 
@@ -146,29 +139,24 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You've Fixed Your Broken USB Port
 
  As you can see, you have several options for repairing an unresponsive USB port. In most cases, it won't be dead, and you'll be able to fix it.
 
  USB ports aren't the only potential weak spots on your computer. Looking after your hardware will reduce potential failures, and you can save a lot of money if you know how to test your PC for failing hardware.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-the-path-of-adobe-presenter-video-creation/"><u>[New] In 2024, Navigating the Path of Adobe Presenter Video Creation</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1728502665771-windows-114/"><u>失われたデータを取り戻せるWindows 11ファイル復元技術4選</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-navigating-pokemon-unite-on-the-personal-computer/"><u>A Beginner’s Guide to Navigating ‘Pokémon Unite’ on the Personal Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/claude-vs-chatgpt-deciding-on-the-best-ai-bot-for-daily-task-management/"><u>Claude Vs. ChatGPT – Deciding on the Best AI Bot for Daily Task Management</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/comprehensive-guide-on-implementing-googles-text-conversion-service/"><u>Comprehensive Guide on Implementing Google's Text Conversion Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-uptime-failure-error-code-0x80246007-on-win11/"><u>Conquering Uptime Failure: Error Code 0X80246007 on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-not-found-effective-windows-troubleshooting/"><u>Eliminating Not Found: Effective Windows Troubleshooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/growth-tactics-for-windows-storage-preserve-information/"><u>Growth Tactics for Windows Storage, Preserve Information</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/guia-completa-para-convertir-archivo-webm-en-mp4-con-excelente-calidad-en-windows-1011-y-mac/"><u>Guía Completa Para Convertir Archivo WebM en MP4 Con Excelente Calidad en Windows 10/11 Y Mac</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-x-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone X to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-resource-usage-settings-in-the-windows-subsystem/"><u>Navigating Resource Usage Settings in the Windows Subsystem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-high-latency-in-pc-gaming-fixes-for-counter-strike-2/"><u>Overcoming High Latency in PC Gaming: Fixes for Counter-Strike 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overview-reverting-custom-energy-settings-in-windows/"><u>Overview: Reverting Custom Energy Settings in WIndows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-blue-screen-deciphered-with-microsoft-help/"><u>Windows 11 Blue Screen Deciphered with Microsoft Help</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +165,21 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-study-diversity-in-fb-video-shapes-for-2024/"><u>[Updated] Study Diversity in FB Video Shapes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-blue-screen-error-0xc0000001/"><u>Deciphering Blue Screen Error 0xC0000001</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/envoi-de-videos-volumineuses-par-email-avec-gmail-guide-complet-pour-les-plus-gros-fichiers/"><u>Envoi De Vidéos Volumineuses Par Email Avec Gmail : Guide Complet Pour Les Plus Gros Fichiers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-showdown-choosing-between-chatgpt-and-bing-chat/"><u>Generative AI Showdown: Choosing Between ChatGPT and Bing Chat</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-excel-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to add a digital signature block to Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-steam-library-error-no-sync-available/"><u>How to Rectify Steam Library Error: No Sync Available</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-honor-x9b-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor X9b Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-overcoming-iphone-hd-video-overexposure-with-premiere-pro/"><u>In 2024, Overcoming iPhone HD Video Overexposure with Premiere Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-new-ios-releases-downloading-and-installing-techniques-explained/"><u>Navigating New iOS Releases: Downloading & Installing Techniques Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retrace-astra-pilots-path-on-ws11-compatible-pcs/"><u>Retrace Astra Pilot's Path on WS11 Compatible PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-windows-11-with-android-powered-webcams/"><u>Streamline Windows 11 with Android-Powered Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-surf-through-social-snags-winning-fbm-fixes/"><u>Swiftly Surf Through Social Snags: Winning FBM Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-dependency-deciphered-chocolatey-vs-wm-comparison/"><u>Win Dependency Deciphered: Chocolatey vs WM Comparison</u></a></li>
+</ul></div>
+

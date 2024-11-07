@@ -1,7 +1,7 @@
 ---
 title: Tips on Prioritizing and Displaying Notes in the OS Window
-date: 2024-10-30T16:32:51.057Z
-updated: 2024-11-01T19:38:48.236Z
+date: 2024-11-02T09:02:30.283Z
+updated: 2024-11-07T14:21:52.212Z
 tags:
   - windows10
   - windows11
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use DeskPins to Pin Sticky Notes
 
  DeskPins is a third-party open-source utility to pin app windows on Windows OS. It officially supports Windows 10 and earlier editions; however, we also tested it and found it working on Windows 11.
@@ -72,20 +65,26 @@ To pin Sticky Notes using DeskPins:
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click the**Pin** icon to unpin the window.
@@ -93,13 +92,20 @@ To pin Sticky Notes using DeskPins:
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
@@ -120,20 +126,20 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-step-by-step-turning-pictures-into-youtube-desktop-thumbnails/"><u>[New] Quick Step-By-Step Turning Pictures Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-easy-ways-to-record-webcam-chat/"><u>[Updated] Easy Ways to Record Webcam Chat</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-windows-11-the-next-level-upgrade-journey/"><u>[Updated] In 2024, Windows 11 The Next-Level Upgrade Journey</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-offline-alert-on-amazon-echo-devices-a-step-by-step-guide/"><u>Fixing the Offline Alert on Amazon Echo Devices: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-flat-to-fascinating-crafting-depth-in-text-art-for-2024/"><u>From Flat to Fascinating Crafting Depth in Text Art for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-f25-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo F25 Pro 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-edge-40-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Edge 40 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-high-resource-demand-in-device-to-device-interaction-windows/"><u>Lowering High Resource Demand in Device-to-Device Interaction Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-energy-packs-for-gopro-hero5-black-certified-and-counterfeit-options/"><u>Premium Energy Packs for GoPro Hero5 Black – Certified & Counterfeit Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-code-0x00000709/"><u>Resolving Windows Error Code 0X00000709</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/synching-gmail-with-outlook-app-for-windows-users/"><u>Synching Gmail with Outlook App for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-time-out-top-strategies-to-jumpstart-windows-installation/"><u>Tackling the Time-Out: Top Strategies to Jumpstart Windows Installation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-10-inspirational-hr-journeys-unveiled-for-2024/"><u>Top 10 Inspirational HR Journeys Unveiled for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-silent-speakers-in-windows-1011/"><u>Troubleshooting Silent Speakers in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveil-the-secrets-of-windows-flexible-fax-interface/"><u>Unveil the Secrets of Windows' Flexible Fax Interface</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-key-to-more-views-expert-backlink-methods-for-youtubers-for-2024/"><u>[New] The Key to More Views Expert Backlink Methods for YouTubers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-playwriting-workshop/"><u>[Updated] In 2024, Ultimate Playwriting Workshop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-complete-guide-to-interpreting-your-windows-10-battery-status-report/"><u>A Complete Guide to Interpreting Your Windows 10 Battery Status Report</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/design-a-unique-workspace-saving-windows-spotlight-images-as-wallpapers/"><u>Design a Unique Workspace: Saving Window's Spotlight Images as Wallpapers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-seamless-file-format-shifting-in-windows/"><u>Enabling Seamless File Format Shifting in Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fujitsu-scansnap-ix1400-review-a-scanner-for-home-offices-and-small-businesses/"><u>Fujitsu ScanSnap iX1400 Review: A Scanner for Home Offices and Small Businesses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-switch-off-vr-capabilities-in-nvidia-gpu/"><u>Guide to Switch Off VR Capabilities in Nvidia GPU</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Reno 10 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-f23-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo F23 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-techniques-for-computer-based-photo-filtering/"><u>In 2024, Step-By-Step Techniques for Computer-Based Photo Filtering</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-energy-saving-on-your-laptop/"><u>Mastering the Art of Energy Saving on Your Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-cure-for-warcraft-update-freeze/"><u>Quick Cure for Warcraft Update Freeze</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-maximum-downloads-with-utorrent-on-windows-pcs/"><u>Unleash Maximum Downloads with uTorrent on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-performance-plunge-apps-that-seem-harmlayered-but-act-otherwise/"><u>Windows 11 Performance Plunge: Apps That Seem Harmlayered but Act Otherwise</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps to Install Microsoft's PC Manager
-date: 2024-09-11T01:20:49.167Z
-updated: 2024-09-12T01:20:49.167Z
+date: 2024-11-04T12:09:04.058Z
+updated: 2024-11-07T14:24:50.866Z
 tags:
   - windows10
   - windows11
@@ -37,23 +37,25 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 3. Click the**Download** button to download the setup file on your system.  
 ![Download Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/download-microsoft-pc-manager.jpg)
 4. Once the file downloads, visit the download location and right-click on the Microsoft PC Manager installer file. Select the**Run and administrator** option from the context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. UAC will pop up. Click on the**Yes** button to continue.
 6. PC Manager installation window will launch. Click on the**I accept End User License and Privacy Agreements** check box. Then click on the**Install** button.  
 ![Install Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-microsoft-pc-manager.jpg)
 7. App installation will begin. It requires internet connectivity to download files from the server.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 8. Once the installation completes, click on the**Launch Now** button to open the app.
 
@@ -61,25 +63,24 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
  Since it needs an internet connection to download files and the website was inaccessible at that time, the installation couldn’t complete. If you face a similar situation don’t worry, just close the installation window,[restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) , and retry after a few hours.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How To Configure and Use Microsoft PC Manager
 
  We covered the installation method in the above section. This section will highlight all the tools available in the app and how you can use them to improve your system’s performance.
 
  Microsoft PC Manager divides the tools into two sections. The first one is Cleanup tools and the second one is Security tools. When you launch the app, it always opens up the Cleanup tools list.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Cleanup Tools
 
@@ -89,37 +90,9 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 ![Boost your PC’s Performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/boost-your-pc-s-performance.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  The**Health Check** tool presents a comprehensive roundup of problems that need attention. Once you click on the feature, it finds and lists all the potential issues which include cleanup items such as browser cache, temp files, and system logs. It also lists out potential security issues and the Startup items that you can disable to decrease loading time.
 
 ![Health Check in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/health-check-in-pc-manger-app.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Click on the**Proceed** button to perform all the actions listed by the Health Check tool. Then click on the**Done** button to return to the home page of the PC Manager app.
 
@@ -133,25 +106,24 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 ![Manage large files in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/manage-large-files-in-pc-manger-app.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  The other two tools are shortcuts to system apps present on Windows. One is Storage Sense and the other opens up the Installed App list. Check out our guide on[How to Use Storage Sense on Windows 11](https://www.makeuseof.com/windows-11-storage-sense-guide/) for more information.
 
 **Process Management** lists out the top apps in use that consume the most RAM on your system. Click on the**End** button to close a process without opening up Task Manager every time.
 
  Like process management,**Startup Apps** showcases the list of apps that slow down system startup. You can disable apps from there or open Task Manager for a more comprehensive view of all startup apps.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Security Tools
 
@@ -161,50 +133,26 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 ![Browser Protection in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browser-protection-in-pc-manger-app.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  The**Pop-up Management** tool prevents Windows apps from showing unnecessary pop-up windows while using the app. Click on the**Enable Pop-up block** toggle, and it will list all the apps that indulge in this activity.
 
 ![Pop-up Management in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pop-up-management-in-pc-manger-app.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## A Free, Official Tool to Manage Your Windows PC
 
  Microsoft PC Manager is an impressive tool. It frees up memory and storage and manages system security all within one app. You will notice a few hiccups because it is the beta phase. One such issue is that it doesn’t switch to dark mode on Windows. It auto-starts every time you boot up Windows, but you can disable that using the app settings.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -213,4 +161,22 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-optimizing-group-chats-with-google-meets-filtering-options-for-2024/"><u>[New] Optimizing Group Chats with Google Meet's Filtering Options for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-simplicity-in-capturing-your-lenovo-pics/"><u>[New] Simplicity in Capturing Your Lenovo Pics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-trending-threads-triumph-top-twitters-for-2024/"><u>[Updated] Trending Threads Triumph Top Twitters for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-6-plus-activation-lock-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 6 Plus activation lock without Apple ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-text-showcase-in-windows-11-resourceerror/"><u>Correcting Text Showcase in Windows 11 ResourceError</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-corrections-for-playstation-network-error-on-windows/"><u>Immediate Corrections for PlayStation Network Error on Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/"><u>In 2024, Clear the Chaos Edit & Cull Your Bulky TikTok Collections</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-11-pro-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 11 Pro without Password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-review-cutting-edge-insights-for-your-pc-needs/"><u>Inside Tom's Hardware Review: Cutting Edge Insights for Your PC Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insightful-analysis-of-c-and-d-in-windows/"><u>Insightful Analysis of 'C:' And 'D:' In Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-web-pages-as-standalone-windows-programs/"><u>Launching Web Pages as Standalone Windows Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-wi-fi-connectivity-snags-filling-action-voids-in-windows/"><u>Rectifying Wi-Fi Connectivity Snags: Filling Action Voids in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-terminals-treasure-chest-unveil-five-hidden-gems/"><u>The Terminal's Treasure Chest: Unveil Five Hidden Gems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-history-unburdening-a-practical-approach/"><u>Windows Security History Unburdening: A Practical Approach</u></a></li>
+</ul></div>
 

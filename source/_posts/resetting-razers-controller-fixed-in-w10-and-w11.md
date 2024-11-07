@@ -1,7 +1,7 @@
 ---
 title: "Resetting Razer's Controller: Fixed in W10 & W11"
-date: 2024-09-11T01:20:50.933Z
-updated: 2024-09-12T01:20:50.933Z
+date: 2024-11-02T18:39:52.044Z
+updated: 2024-11-07T13:29:18.321Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
  Razer Synapse not working means users can’t open and utilize that software when needed. Is your Synapse software effectively broken as well? If so, this is how you can fix Razer Synapse not opening on a Windows 11/10 PC.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Run Synapse in Compatibility Mode
 
  Some users confirm running Synapse in compatibility mode can help to fix that software not starting. You can run Synapse in compatibility mode as follows:
@@ -47,23 +33,23 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 6. Press **Apply** to set the new compatibility setting.
 7. Click **OK** to exit Synapse’s properties window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set Synapse to Run as An Administrator
 
  A lack of system admin permissions can sometimes be a cause for Razer Synapse not working. To address that, open the **Compatibility** tab for Synapse as covered within steps one to three of the previous resolution. Select the **Run as administrator** option on the Compatibility tab and click **Apply** \> **OK**.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Select to Repair Razer Synapse
 
@@ -76,40 +62,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 4. Press the **Repair** button.  
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-repair-option.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 4\. Start or Restart the Razer Services
 
  A couple of services need to be running for Razer Synapse to work. Some users have fixed Synapse not working by restarting the Razer Synapse Service or Razer Central Service. Try starting those two services as follows:
@@ -120,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 ![The Razer Synapse Service in the Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-synapse-service.jpg)
 4. If the Razer Synapse Service has been disabled, change the **Startup type** option to **Automatic**.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 5. Click **Start** within the service’s window.  
 ![The Razer Synapse Service Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-synapse-service-properties-window.jpg)
 6. Select **Apply** to save the Razer Synapse Service settings.
@@ -140,25 +79,12 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 8. Repeat steps three to seven for the Razer Central Service.
 9. If those services are already running when you check them, right-click on them and select **Restart**. Or you can open the properties windows for the services and click Stop and Start.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Clear Razer Synapse’s Cache Data
 
@@ -170,35 +96,28 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 ![The AppData folder in Explorer's address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/appdata-folder-in-explorer-s-address-bar.jpg)
 4. Double-click the **Local** folder to open it.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Right-click the **Razer** folder in that directory to select **Delete**.  
 ![The Delete option for the Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 6\. Install .NET Framework 4.8.1
 
@@ -213,41 +132,7 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 ![The Microsoft .NET Framework setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-net-framework-box.jpg)
 6. Click **Install** to proceed with the .NET Framework 4.8.1 installation.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  You can also try repairing the current .NET Framework installation on your PC. To do so, check out our guide to [repairing .NET Framework on Windows PCs](https://www.makeuseof.com/windows-repair-net-framework/).
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 7\. Temporarily Disable Firewalls
 
@@ -263,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
  Razer Surround is an optional module of the Synapse software. If you’ve installed that module, consider removing it to ensure it does not conflict with the Synapse app. You can uninstall the Razer Surround app with the Programs and Features Control Panel applet as outlined in this guide to [removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Reinstall Razer Synapse
 
  If other potential resolutions don’t fix Razer Synapse not working, corrupted or missing software files could be causing the issue. In this case, a reinstallation of Synapse will likely be required. To remove the software, click the **Change** button for Synapse in Programs and Features, as outlined for the first three steps of this guide’s third method, and select **Uninstall**.
@@ -270,6 +162,13 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
  Before reinstalling Synapse, delete any leftover folders and files from the software. You can erase any remaining Synapse data as covered in this guide to [deleting leftovers from uninstalled software](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/).
 
 ![The Download Now button for Razer Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-synapse-download-now-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then go to this [Synapse page](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2030373&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Fsynapse-3), click **Download Now**, and install the software by double-clicking the **RazerSynapseInstaller** file. When reinstalling Synapse, don’t install any superfluous optional modules, such as Razer Surround. Select to only install Razer Synapse.
 
@@ -279,11 +178,24 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
  Razer Synapse not working means users can’t open and utilize that software when needed. Is your Synapse software effectively broken as well? If so, this is how you can fix Razer Synapse not opening on a Windows 11/10 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-securely-store-and-download-linkedin-videos-heres-the-top-6-list/"><u>[New] Securely Store & Download LinkedIn Videos - Here's the Top 6 List</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-go-beyond-basic-top-10-hidden-whatsapp-features/"><u>[Updated] Go Beyond Basic Top 10 Hidden WhatsApp Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-creating-youtube-video-thumbnails/"><u>[Updated] The Art of Creating YouTube Video Thumbnails</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-eliminate-bad-system-config-issues-in-minutes/"><u>Blue Screen of Death? Eliminate 'Bad System Config' Issues in Minutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-down-time-and-clutter-with-multi-folder-creation-techniques-in-windows-1011/"><u>Cut Down Time and Clutter with Multi-Folder Creation Techniques in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-power-the-art-of-appbrowser-control-in-winos/"><u>Directing Power: The Art of App/Browser Control in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-web-browsing-security-with-aguard-technology-on-windows-11/"><u>Elevate Your Web Browsing Security with Aguard Technology on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-writers-block-to-success-top-ai-assistants-unveiled/"><u>From Writer's Block to Success: Top AI Assistants Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-sidestep-these-8-common-errors/"><u>Mastering Windows 11: Sidestep These 8 Common Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-bavarder-integration-techniques-for-linux/"><u>Seamless Bavarder Integration Techniques for Linux</u></a></li>
+</ul></div>
+

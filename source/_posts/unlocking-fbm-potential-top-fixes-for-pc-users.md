@@ -1,7 +1,7 @@
 ---
 title: "Unlocking FBM Potential: Top Fixes for PC Users"
-date: 2024-09-11T01:20:50.743Z
-updated: 2024-09-12T01:20:50.743Z
+date: 2024-10-31T20:13:19.982Z
+updated: 2024-11-07T00:44:33.180Z
 tags:
   - windows10
   - windows11
@@ -20,25 +20,18 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 
  In this case, you can try the solution listed below to fix the Facebook Messenger app.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Why Is Facebook Messenger Not Working on My Windows PC?
 
  There can be multiple reasons why Facebook Messenger is not working on a Windows PC. But among all, the corrupt cache data is often found to be the primary culprit behind the issue. The problem can also appear due to outdated Windows OS.
 
  Fortunately, it's very easy to troubleshoot the problem. Below are all the effective fixes you can try if Messenger is not working on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Completely Close Facebook Messenger Using the Task Manager
 
@@ -48,41 +41,7 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 2. Find all the**Messenger-related** services, right-click on them and choose**End task** from the context menu.  
 ![Closing all the Messenger-related service in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/End-Task.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Now, check if Messenger is working or not.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Download All Pending Windows Updates
 
@@ -96,19 +55,12 @@ You download the latest Windows update by following the below steps:
 
 Windows will now look for and install all the available updates.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Use the Windows Store Apps Troubleshooter
 
@@ -139,23 +91,17 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 ![Choosing Date & Time in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Date--Time.jpg)
 3. Disable the toggle next to**Set time zone automatically** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Disabling Automatic Set Time Zone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Time-Zone.jpg)
 4. Make sure your**Time zone** is correct and change it if not.
 5. Enable the toggle next to**Set time zone automatically** .
 6. Click the**Sync now** button under the**Additional settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Repair and Reset the Facebook Messenger App
 
@@ -177,45 +123,18 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 2. Click on the three dots next to Messenger and choose Advanced options.
 3. Click the**Reset** button.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 6\. Clear the Microsoft Store Cache
 
  Clearing the Windows Store cache is another effective solution you can try if Facebook Messenger is not working on Windows PC. In fact, removing the Store cache can eliminate many other Windows issues as well. It's very simple to clear the Store cache and will take less than a minute.
 
 [Open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) , type**wsreset.exe** and press Enter. A black Command Prompt window will pop up, indicating that the cache is being cleared. After a few seconds, the window will close, and Microsoft Store will open automatically.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 7\. Temporarily Disable the Security App
 
@@ -224,20 +143,6 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
  As such, temporarily disable the security app of your computer and then check whether the Facebook Messenger is working. To disable the security app, right-click its icon in the system tray area and choose disable from the context menu. You can also read the user guide of your security program to know much about the disabling process.
 
  If you're using Windows Security, then check our guide and how to[temporarily disable the Windows Security app on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 8\. Tweak the Registry Editor
 
@@ -254,6 +159,20 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 ![Replace all child object permission entries with inheritable permissions entries from this object option in the Permission window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/replace-all-child-object-permission-entries-with-inheritable-permissions-entries-from-this-object.jpg)
 7. Click**Apply** \>**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Reset the Windows Update Components
 
  If any UWP is not opening or working, try resetting the Windows Update components. You can do it with the help of the[Windows Reset Update tool](https://wureset.com/downloads.html) .
@@ -266,41 +185,7 @@ Here's how to use the tool:
 4. Type**2** and press Enter to reset the Windows Update components.  
 ![Resetting the Windows Component using the Update Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Reset-Windows-Component.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Wait for the process to complete. Once done, reboot the system and check whether Messenger is working or not.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 10\. Reinstall Facebook Messenger
 
@@ -310,41 +195,33 @@ Here's how to use the tool:
 ![Uninstall button in the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Uninstall-Messenger.jpg)
 2. Confirm your selection by choosing**Uninstall** from the prompt that appears.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. Now, open the Microsoft Store, type Messenger, and press Enter.  
 ![Installing Messenger from Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Install-Messenger.jpg)
 4. Click on**Install** to begin the installation process.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connect With Friends Again on Messenger
 
  Hopefully, the above solutions helped fix Facebook Messenger, and now you are able to use it without any problem. But if the problem persists, connect with the Messenger support team for more advice.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -353,4 +230,18 @@ Here's how to use the tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[New] Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-optimize-rl-recording-hardware-and-software-for-2024/"><u>[Updated] How to Optimize RL Recording Hardware & Software for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 11/iPad? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-dism-error-0x800f082f-in-windows/"><u>How to Fix the DISM Error 0X800F082F in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-poco-m6-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Poco M6 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unauthorized-file-saves-on-your-microsoft-pc/"><u>Resolving Unauthorized File Saves on Your Microsoft PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-linux-setup-embedding-linux-vms-into-windows-using-hyper-v/"><u>Simplified Linux Setup: Embedding Linux VMs Into Windows Using Hyper-V</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-synapse-device-detection-on-windows-1011/"><u>Solving Synapse Device Detection on Windows 10/11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-technique-ultimate-steps-for-irreversible-iphone-data-removal/"><u>Stellar Technique: Ultimate Steps for Irreversible iPhone Data Removal</u></a></li>
+<li><a href="https://games-able.techidaily.com/unfolding-new-horizons-experience-additional-fallout-games/"><u>Unfolding New Horizons: Experience Additional Fallout Games</u></a></li>
+</ul></div>
 

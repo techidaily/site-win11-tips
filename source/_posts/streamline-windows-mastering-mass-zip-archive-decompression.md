@@ -1,7 +1,7 @@
 ---
 title: "Streamline Windows: Mastering Mass ZIP Archive Decompression"
-date: 2024-10-30T19:16:28.888Z
-updated: 2024-11-01T16:54:31.029Z
+date: 2024-10-31T01:10:33.910Z
+updated: 2024-11-07T00:58:58.803Z
 tags:
   - windows10
   - windows11
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
  The "**\*\\**" in 7-Zip’s **Extract** window means the archives get extracted to new folders. If you prefer to extract all selected archives to the same subfolder, delete the "**\*\\"** from the text box. Input a new folder name at the end of the chosen path. Then 7-Zip will batch extract all the ZIP files to the new folder added in the **Extract to** box.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Simultaneously Extract Multiple ZIP Archives With ExtractNow
 
  ExtractNow is freeware software more specifically designed for extracting multiple archives all in one go. You can batch extract ZIP and RAR archives, among others, on Windows platforms dating back to 1995 with this software. This is how you can batch-extract your ZIP files with ExtractNow:
@@ -71,19 +64,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now it's time to use the app:
 
 1. Right-click inside the ExtractNow window and select **Add archives**.  
@@ -91,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 2. Select multiple ZIP archives by holding the **Ctrl** key and clicking **Open**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click **Extract** to unzip the ZIP files.  
@@ -103,43 +83,39 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
 
 ![The Destination tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/destination-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to set a location to always extract selected ZIPs, click the **Browse for Folder** button; select a directory within the Browse for Folder window and click **OK**. Then select **OK** on the Settings window to save options.
 
  ExtractNow also has lots of other settings you can configure. Check out the [ExtractNow manual](https://extractnow.com/#/documentation) for details about what all those settings do.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Batch Extract ZIP Files Quicker in Windows
 
  ExtractNow and 7-Zip are two of the best freely available Windows desktop apps for simultaneously extracting multiple ZIP files. It’s quick and easy to batch-extract hundreds of ZIP archives in just a few clicks with those software packages. So, they’re invaluable utilities for anybody who needs to bulk extract many ZIP files.
 
  So, Windows’ built-in extraction tool isn’t ideal when you need to unzip numerous ZIP files. It’s better to utilize a third-party app like 7-Zip or ExtractNow that enables you to extract multiple ZIP archives. This is how you can simultaneously extract multiple ZIP files with those software packages.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-crafting-a-successful-mukbang-video-journey-for-2024/"><u>[Updated] Crafting a Successful Mukbang Video Journey for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-samsung-galaxy-tab-s7plus-evaluation-the-ultimate-android-tablet/"><u>Comprehensive Samsung Galaxy Tab S7+ Evaluation: The Ultimate Android Tablet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhancing-audiophile-experience-with-updated-nvidia-drivers/"><u>Enhancing Audiophile Experience with Updated NVIDIA Drivers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/expert-choice-top-12-non-time-restricted-recorders/"><u>Expert Choice Top 12 Non-Time Restricted Recorders</u></a></li>
-<li><a href="https://fox-http.techidaily.com/giggle-guild-undead-humor-bots-for-2024/"><u>Giggle Guild Undead Humor Bots for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-7-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/opening-windows-secrets-with-precision/"><u>Opening Windows Secrets with Precision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unreachable-error-from-geforce-experience-on-pc/"><u>Overcoming Unreachable Error From GeForce Experience on PC</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/quick-fix-guide-for-windows-11-error-code-0xc004f213/"><u>Quick Fix Guide for Windows 11 Error Code 0xC004F213</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tips-for-win11s-5ghz-wi-fi-disconnection-fixes/"><u>Quick Tips for Win11's 5GHz Wi-Fi Disconnection Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secrets-to-optimizing-battery-usage-in-windows-systems/"><u>Secrets to Optimizing Battery Usage in Windows Systems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/soundscape-sanctuary-free-high-resolution-dj-videos-available/"><u>Soundscape Sanctuary Free High-Resolution DJ Videos Available</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-internal-system-configurations-on-windows-11/"><u>Steps to Rectify Internal System Configurations on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-steps-for-removing-microsoft-points-out/"><u>Streamlined Steps for Removing Microsoft' Points Out</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -148,3 +124,19 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-beneath-the-surface-instagrams-hidden-reality-for-viewers/"><u>[New] Beneath the Surface Instagram’s Hidden Reality for Viewers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-creating-stunning-3d-text-with-ps/"><u>[Updated] 2024 Approved Creating Stunning 3D Text with PS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-avoiding-unwanted-accounts-on-insta-for-2024/"><u>[Updated] Avoiding Unwanted Accounts on Insta for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quick-method-retain-tweets-video-on-your-android-gadget/"><u>[Updated] Quick Method Retain Tweets' Video on Your Android Gadget</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-top-5-cost-free-pinterest-videos-download/"><u>[Updated] Ultimate Top 5 Cost-Free Pinterest Videos Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-wacom-cintiq-pro-pen-display-drivers-enhance-your-artwork-creation-experience/"><u>Download Updated Wacom CintiQ Pro Pen Display Drivers - Enhance Your Artwork Creation Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-wifi-from-windows-11-list/"><u>Removing Wifi From Windows 11 List</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-edge-40-neo-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Edge 40 Neo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-windows-services-explorer-an-essential-manual-for-7-key-fixes/"><u>Reviving Windows Services Explorer: An Essential Manual for 7 Key Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-soundscape-in-windows-fixing-soundcard-irritations/"><u>Smooth Soundscape in Windows: Fixing Soundcard Irritations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-your-onedrive-writings-windows-11-adjustments/"><u>Steering Your OneDrive' Writings: Windows 11 Adjustments</u></a></li>
+</ul></div>
+

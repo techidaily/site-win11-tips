@@ -1,7 +1,7 @@
 ---
 title: "Unlock Languages Fast: Windows Shortcuts Guide to Multilingual"
-date: 2024-10-30T19:05:19.629Z
-updated: 2024-11-01T17:38:23.544Z
+date: 2024-11-01T09:28:55.248Z
+updated: 2024-11-06T20:48:27.734Z
 tags:
   - windows10
   - windows11
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
@@ -68,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
@@ -89,14 +89,14 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
 
- There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
 
 ### How to Translate Files With DeepL
 
@@ -115,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
  DeepL matches your system’s dark or light mode by default. However, you can select for the app to be dark or light. Click the**Select dark or light mode** drop-down menu to choose your preference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Translate Text With Handy Hotkeys in Windows
@@ -140,16 +140,18 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-audio-accentuation-tunes-for-visual-projects/"><u>[Updated] Audio Accentuation Tunes for Visual Projects</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-fashion-your-snaps-top-trendy-augmentations-revealed-for-2024/"><u>[Updated] Fashion Your Snaps Top Trendy Augmentations Revealed for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/allavsoft-the-ultimate-replacement-for-snaptube-on-both-pc-and-mac-platforms/"><u>Allavsoft: The Ultimate Replacement for SnapTube on Both PC & Mac Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-address-image-capture-fail-in-windows-os/"><u>How to Address Image Capture Fail in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-unresponsive-windows-folders-double-clicked/"><u>How to Rectify Unresponsive Windows Folders, Double-Clicked</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/streaming-made-simple-google-meet-to-youtube-guide/"><u>Live Streaming Made Simple Google Meet to YouTube Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-rgb-settings-in-windows-11/"><u>Master RGB Settings in Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-download-arduino-mega-2560-drivers-get-set-up-fast/"><u>Quick Download: Arduino Mega 2560 Drivers - Get Set Up Fast</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-display-issues-windows-11-tech-tips/"><u>Reviving Display Issues: Windows 11 Tech Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-fixes-for-easing-up-locked-software-installation-checks/"><u>Win Fixes for Easing Up Locked Software Installation Checks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-subtitle-tips-for-instagram-tv-storytelling/"><u>[Updated] In 2024, Subtitle Tips for Instagram TV Storytelling</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-proven-techniques-to-stand-out-in-podcast-imagery-for-2024/"><u>[Updated] Proven Techniques to Stand Out in Podcast Imagery for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-10-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 10 & 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-iphone-silhouette-captures-101-for-2024/"><u>Perfect iPhone Silhouette Captures 101 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procreates-parallels-on-windows-a-ranking/"><u>Procreate's Parallels on Windows: A Ranking</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/snapbackvid-instantly-mend-fractured-media/"><u>SnapBackVid: Instantly Mend Fractured Media</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-showdown-how-does-nintendo-switch-lite-stack-up-to-the-oled-model/"><u>The Showdown: How Does Nintendo Switch Lite Stack Up to the OLED Model?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-top-5-non-windows-solutions-to-the-windows-snipping-tool-limitation/"><u>The Top 5 Non-Windows Solutions to the Window’s Snipping Tool Limitation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-system-trays-with-personalized-weather-symbols-on-windows-11/"><u>Transforming System Trays with Personalized Weather Symbols on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-where-windows-preserves-photos/"><u>Unveil Where Windows Preserves Photos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-expert-techniques-for-crafting-complex-audio-edits-with-keyframes-in-premiere-pro-mac-edition-for-2024/"><u>Updated Expert Techniques for Crafting Complex Audio Edits with Keyframes in Premiere Pro, Mac Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iuodleodquodvoodkplusodhplusocquawhpluswtlplusi1tplusobkplusoblpluswfpewkmplusawueazleockuwtpuobtjrlij3lv4pogixjgavmnidpganjgarmlznnqivntlnku4vvviei/"><u>フリービデオ文字起こし入力方法を学ぶ:初心者に最適な教程紹介！</u></a></li>
 </ul></div>
 

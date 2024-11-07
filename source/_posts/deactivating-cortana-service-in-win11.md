@@ -1,7 +1,7 @@
 ---
 title: Deactivating Cortana Service in Win11
-date: 2024-10-26T16:09:53.320Z
-updated: 2024-11-01T18:16:45.363Z
+date: 2024-11-01T02:55:11.971Z
+updated: 2024-11-07T14:28:57.273Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
  This should remove the Copilot icon from the taskbar. You can still access Copilot by pressing the **Win + C** keyboard shortcut in Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Completely Disable Copilot via Group Policy Settings
@@ -53,14 +53,20 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 7. Hit **Apply** followed by **OK**.  
 ![Turn Off Windows Copilot Using the Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-windows-copilot-using-the-group-policy-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, Copilot will be disabled on your Windows 11 PC and you won't be able to access it even with the keyboard shortcut. If you want to re-enable Copilot later, repeat the above steps and set the **Turn off Windows Copilot** policy to **Not configured** or **Disabled**.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Completely Disable Copilot by Modifying Registry Files
 
@@ -79,41 +85,24 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 ![Turn Off Windows Copilot Using the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-windows-copilot-using-the-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that’s about it. Windows Copilot will be disabled on your PC. To re-enable it in the future, repeat the above steps and set the **TurnOffWindowsCopilot** DWORD value to 0\. You can also delete the **TurnOffWindowsCopilot** DWORD instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Rid of Copilot on Windows 11
 
  While Windows Copilot is a powerful tool, not everyone may want to use it. Fortunately, it’s possible to get rid of it. The above steps will help you achieve your goal, whether you want to keep Copilot out of sight or turn it off entirely.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/asing-options-choosing-premium-vs-standard-fixtures-and-whether-they-are-integrated-or-retrofit-options-can-alter-costs-for-2024/"><u>__Purchasing Options__ Choosing Premium Vs. Standard Fixtures and Whether They Are Integrated or Retrofit Options Can Alter Costs. For 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-expert-picks-of-top-fee-free-live-streaming-tech-tools-for-everyone/"><u>[New] 2024 Approved Expert Picks of Top, Fee-Free Live Streaming Tech Tools for Everyone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-optimize-video-sharing-preferences-on-youtube/"><u>[New] Optimize Video Sharing Preferences on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-ios-guide-to-premier-psp-emulators/"><u>[New] Ultimate iOS Guide to Premier PSP Emulators</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-the-best-11-no-fee-name-crafting-for-channels/"><u>[Updated] In 2024, Discover the Best 11 No-Fee Name Crafting for Channels</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-from-silence-to-soundscape-step-by-step-in-audition/"><u>2024 Approved From Silence to Soundscape Step-by-Step in Audition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/concealing-clock-show-dates-on-windows-interface/"><u>Concealing Clock, Show Dates on Windows Interface</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-stuck-fixing-non-installation-of-optional-windows-11-features/"><u>Getting Stuck? Fixing Non-Installation of Optional Windows 11 Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-functionality-of-automatic-voice-feature-on-word/"><u>Regaining Functionality of Automatic Voice Feature on Word</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-your-windows-11-routine/"><u>Revolutionize Your Windows 11 Routine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-proxy-setup-on-the-latest-win-11/"><u>Step-by-Step Proxy Setup on the Latest Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-update-and-its-companion-service/"><u>Unveiling Windows Update and Its Companion Service</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +111,18 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-15-best-gopro-alternatives-for-all-your-needs/"><u>[New] 15 Best GoPro Alternatives for All Your Needs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-chill-vibes-current-hits-to-match-your-yt-short-tunes/"><u>[New] 2024 Approved Chill Vibes Current Hits to Match Your YT Short Tunes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-craftsmanship-hub-top-after-effects-template-deals/"><u>[New] Craftsmanship Hub Top After Effects Template Deals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dormant-mouse-annoyed-user-recover-wi-fi-mice-in-windows/"><u>Dormant Mouse, Annoyed User: Recover Wi-Fi Mice in Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/from-arcade-to-handheld-fun-a-critical-look-at-super-mario-bros-the-nintendo-game-and-watch-legend/"><u>From Arcade to Handheld Fun: A Critical Look at Super Mario Bros - The Nintendo Game & Watch Legend</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-computer-operation-key-strategies-with-wintools-techniques/"><u>Master Computer Operation: Key Strategies with Wintools Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-long-awaited-arrival-immortals-fenyx-rising-game-is-now-out-of-the-gate/"><u>The Long-Awaited Arrival! Immortals Fenyx Rising Game Is Now Out of the Gate</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-configuring-dns-on-modern-windows-11/"><u>The Ultimate Guide: Configuring DNS on Modern Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-cortana/"><u>Troubleshooting Guide: How to Fix a Non-Responsive Cortana</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-strategies-overcoming-fall-guys-connection-errors/"><u>Win Strategies: Overcoming Fall Guys Connection Errors</u></a></li>
+</ul></div>
+

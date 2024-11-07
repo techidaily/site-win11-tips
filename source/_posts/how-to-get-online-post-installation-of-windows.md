@@ -1,7 +1,7 @@
 ---
 title: How To Get Online Post Installation of Windows
-date: 2024-10-29T17:06:25.247Z
-updated: 2024-11-01T17:16:05.290Z
+date: 2024-11-02T07:34:20.256Z
+updated: 2024-11-07T11:42:43.358Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
 Let's talk about how you can use these to download a browser.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use Winget
 
  If you're running Windows 10 v1809 or later, Winget is one of the easiest ways to download a browser without a browser. Start by launching PowerShell by searching for it in the Start Menu. Then, execute one of the following commands based on the browser you want to download:
@@ -60,10 +67,10 @@ Let's talk about how you can use these to download a browser.
  Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Download a Browser Using the Curl Command
@@ -81,22 +88,21 @@ Paste the link in quotation marks like so:
 ![installing chrome using the curl command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-curl.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
 
  Once the file has been downloaded, run the installation wizard to complete the installation process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Download a Browser Using Chocolatey
 
@@ -124,19 +130,6 @@ Next, run the following command:
 
 Once the process is complete, you can start using the new browser.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use a Invoke-WebRequest PowerShell Script
 
  PowerShell is a command-line environment you can use to download files from the internet. This means you can also download browsers a browser's setup file using PowerShell and run the installation without using another browser.
@@ -154,6 +147,19 @@ Run the following command in PowerShell:
 `Invoke-WebRequest link -o download.exe`
 
 ![installing chrome using powershell scripting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-powershell-script.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Replace the word link with the link to your browser's setup file. Once you execute the command, you'll see PowerShell downloading the file. Once the download is complete, exit PowerShell and run the download.exe file stored on your desktop. Follow the installation wizard's instructions and you're set.
 
@@ -176,15 +182,22 @@ Run the following command in PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-movie-companion-best-free-and-paid-iphone-apps/"><u>[New] In 2024, The Ultimate Movie Companion Best Free and Paid iPhone Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-windows-error-vlc-cant-open-files/"><u>Eliminating Windows Error: VLC Can’t Open Files</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-14-plus-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 14 Plus SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-art-of-uninterrupted-listening-top-cuhnkdvfhgjnwetjeiruflweifjlkjdfasldkfjhasdfkljsdfaklsdjflkasdfa-airpods-and-iphone-connection-fixes/"><u>Master the Art of Uninterrupted Listening: Top Cuhnkdvfhgjnwetjeiruflweifjlkjdfasldkfjhasdfkljsdfaklsdjflkasdfa AirPods and iPhone Connection Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-more-window-trends-gone-for-the-future/"><u>No More Window Trends: Gone for the Future</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-boots-personalizing-startup-programs-on-windows-11-devices/"><u>Tailored Boots: Personalizing Startup Programs on Windows 11 Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-differences-among-battery-electric-vehicles-plug-in-hybrs-hydrogen-cell-vehicles-and-traditional-hybrids/"><u>Understanding the Differences Among Battery Electric Vehicles, Plug-In Hybrs, Hydrogen Cell Vehicles & Traditional Hybrids</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-gif-speed-booster-best-tools-for-web-ios-and-android/"><u>Updated 2024 Approved GIF Speed Booster Best Tools for Web, iOS, and Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/vital-insights-before-overwriting-your-existing-windows/"><u>Vital Insights Before Overwriting Your Existing Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sony-unveils-excellence-the-4k-smartphone-breakthrough-with-xperia-xz/"><u>[New] Sony Unveils Excellence The 4K Smartphone Breakthrough with Xperia XZ</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-passion-to-prominence-the-creators-quest-for-2024/"><u>[Updated] From Passion to Prominence The Creator's Quest for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-permanent-turn-off-for-youtube-shorts/"><u>[Updated] Unlocking Permanent Turn-Off for YouTube Shorts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-traffic-ethical-practices-for-amplifying-content-views-for-2024/"><u>Elevate Traffic Ethical Practices for Amplifying Content Views for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-net-speeds-for-battlenet-games-on-windows/"><u>Enhancing Net Speeds for Battle.net Games on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-windows-laptop-slowdown-post-external-monitor-connection/"><u>Fix Window's Laptop Slowdown Post-External Monitor Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-8-to-16gb-unveiling-windows-new-standard-ram/"><u>From 8 to 16GB: Unveiling Windows' New Standard RAM</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/holistic-photo-tale-architect-platform/"><u>Holistic Photo Tale Architect Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-external-light-for-cozy-interior-spaces/"><u>In 2024, Harnessing External Light for Cozy Interior Spaces</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-navigating-facebooks-video-evolution/"><u>In 2024, Navigating Facebook’s Video Evolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fatal-wow-error-fixes-in-win11-environment/"><u>Mastering Fatal WoW Error Fixes in Win11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-reset-account-lockout-limit-after-failed-login-attempts-in-windows-1011/"><u>Modifying Reset Account Lockout Limit After Failed Login Attempts in Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-playing-resident-evil-village-after-initial-hitch/"><u>Resolved! Troubleshooting Steps for Playing Resident Evil Village After Initial Hitch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-listening-experience-how-to-link-samsung-earbuds-with-a-desktop-pc/"><u>Seamless Listening Experience: How to Link Samsung Earbuds with a Desktop PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-steps-for-rectifying-directdraw-issues-in-windows-1011/"><u>Simplified Steps for Rectifying DirectDraw Issues in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-sd-card-disappearance-in-pcs-explore-window/"><u>Solve SD Card Disappearance in PC's Explore Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-disabling-delight-quick-methods-to-eliminate-access-in-win11/"><u>The Disabling Delight: Quick Methods to Eliminate Access in Win11</u></a></li>
 </ul></div>
 

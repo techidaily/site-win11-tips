@@ -1,7 +1,7 @@
 ---
 title: Resolving Connection Breakdown with MB's Services in Windows 11
-date: 2024-09-11T01:20:51.289Z
-updated: 2024-09-12T01:20:51.289Z
+date: 2024-10-30T23:14:37.796Z
+updated: 2024-11-07T01:40:49.736Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
  Users who’ve purchased the premium version of Malwarebytes will be particularly annoyed by this issue. Are you also stumped by Malwarebytes’ "unable to connect" error? If you are, this is how you can fix the "unable to connect the service" error for MalwareBytes in Windows 10 and 11.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Set Malwarebytes to Run as an Administrator
 
  First, try applying simpler potential solutions, such as running Malwarebytes as an administrator. This will at least ensure the software has full system permissions when you start it.
@@ -42,19 +28,12 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-an-administrator-option.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Check That the Malwarebytes Service Is Enabled and Running
 
@@ -65,6 +44,14 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 3. Double-click**Malwarebytes Services** to access that service’s properties window.  
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service.jpg)
 4. Then click on the**Startup type** drop-down menu to open it and select**Automatic** from there.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**Start** to run the Malwarebytes Services.  
 ![The Malwarebytes Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service-window.jpg)
 6. Click the service’s**Apply** and**OK** options.
@@ -76,6 +63,20 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
  Open Services (see[how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) ). double-click**Windows Management Instrumentation** , and select its**Automatic** and**Start** option from there as outlined for the second resolution.
 
 ![The Windows Management Instrumentation service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-management-instrumentation-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Repair Malwarebytes With Its Dedicated Support Tool
 
@@ -92,18 +93,18 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Repair System button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-system-option.jpg)
 7. Select all four checkboxes for the**Repair System** option.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 8. Press the**Repair System** button.
 9. Restart your PC when prompted.
@@ -117,55 +118,8 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-options.jpg)
 3. Click the radio button labeled**Full Scan** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-now-button.jpg)
 4. Press**Scan now** to start a Microsoft Defender scan.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6\. Reinstall Malwarebytes
 
@@ -181,20 +135,6 @@ Here is how you can repair Malwarebytes with its support tool:
 7. Click the**Personal Computer** option.
 8. Finally, select**Yes** to reinstall Malwarebytes.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Now You Can (Probably) Utilize Malwarebytes
 
  These Windows-based solutions for the "unable to connect to service" error have worked for many users trying to kick-start Malwarebytes. So, it’s most likely one will resolve the same Malwarebytes error on your PC.
@@ -207,8 +147,6 @@ Here is how you can repair Malwarebytes with its support tool:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +154,19 @@ Here is how you can repair Malwarebytes with its support tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-elite-screen-recording-software-unlimited-recordings/"><u>[Updated] Elite Screen Recording Software, Unlimited Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-novice-to-pro-youtube-shorts-guide/"><u>[Updated] From Novice to Pro YouTube Shorts Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-what-is-mukbang-and-how-to-make-mukbang-videos/"><u>[Updated] In 2024, What Is Mukbang and How to Make Mukbang Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-frustration-resurrect-panes-easy-steps-6-ways-to-restore-lost-windows-on-win-1011/"><u>Cut the Frustration, Resurrect Panes! Easy Steps (6 Ways) to Restore Lost Windows on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-techniques-for-exceptional-windows-images/"><u>Cutting-Edge Techniques for Exceptional Windows Images</u></a></li>
+<li><a href="https://network-issues.techidaily.com/distinguishing-4k-from-other-video-resolutions/"><u>Distinguishing 4K From Other Video Resolutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-chrome-compatibility-solving-media-errors/"><u>In 2024, Chrome Compatibility Solving Media Errors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/jabra-durable-test-top-ranked-bluetooth-earbuds/"><u>Jabra Durable Test: Top-Ranked Bluetooth Earbuds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-android-performance-via-wsl-optimization-techniques/"><u>Maximizing Android Performance via WSL Optimization Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-moto-e13-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Moto E13</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-obs-win-startup-issues/"><u>Troubleshooting OBS Win: Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-early-football-manager-2022-access-tackling-and-solving-launch-delays/"><u>Unlocking Early Football Manager 2022 Access: Tackling and Solving Launch Delays</u></a></li>
+</ul></div>
 

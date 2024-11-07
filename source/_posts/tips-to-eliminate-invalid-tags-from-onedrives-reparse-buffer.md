@@ -1,7 +1,7 @@
 ---
 title: Tips to Eliminate Invalid Tags From OneDrive's Reparse Buffer
-date: 2024-10-28T16:22:28.801Z
-updated: 2024-11-01T17:26:35.754Z
+date: 2024-10-31T02:57:56.834Z
+updated: 2024-11-07T06:34:21.315Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 
  "Error 0x80071129" or "Location not found" appears as the title of the error window, while the main part of the error appears in the error window. Any variation of this error has nearly the same causes, regardless of its nature. In light of that, similar fixes are effective in resolving the issue. Let's see how you can fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But First, Some Preliminary Checks
 
  Apply the following preliminary checks before attempting the major fixes:
@@ -53,19 +46,6 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 * If you have made any changes to the problematic folder on OneDrive, go back and revert them for a while.
 
  If the above preliminary checks do not solve the problem and the issue persists, start implementing the remaining fixes.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Run a CHKDSK Scan
 
@@ -85,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
  The CHKDSK scan has the greatest chance of adequately fixing the error under discussion. However, if it doesn't resolve the problem, you can move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run the DISM and SFC Scan
@@ -107,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 
  To better understand the results of these scans, see our[article about the differences between CHKDSK, DISM, and SFC](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . If the error persists after running the above scans, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check for File-Specific Issues
 
  Next, you should check whether the error occurs for a particular file or all files synced on OneDrive. Attempt to make the exact change that caused the error in a different folder and see if the problem repeats. If the issue is file-specific, it is recommended that you restore the file to its previous version, if possible. Here are the steps you need to follow:
@@ -118,15 +105,22 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 ![Restoring Previous Version of a File in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restore-previous-file-version.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Remove the Passwords From the Problematic Files
 
  Has this error occurred after password-protecting a synced file on OneDrive? In this case, you should go to OneDrive, check the history of modified files, and restore the problematic file to a previous version. Our article on[recovering OneDrive files from version history](https://www.makeuseof.com/tag/restore-onedrive-files-version-history/#rolling-back-a-file) explains how to roll back a file. Reset OneDrive if this fix does not solve the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reset OneDrive
 
@@ -161,16 +155,20 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-customizing-windows-photos-app-intertwining-visuals-and-audio-for-2024/"><u>[Updated] The Art of Customizing Windows Photos App Intertwining Visuals & Audio for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/de-beste-methoden-om-standaard-pakketten-uptade-te-ontsnappen-in-windows-11/"><u>De Beste Methoden Om Standaard Pakketten Uptade Te Ontsnappen in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decouvrez-la-fabrique-dimages-de-storyboard-methode-et-procedes-pour-creer-un-effet-visuel-persuasif/"><u>Découvrez La Fabrique D'Images De Storyboard: Méthode Et Procédés Pour Créer Un Effet Visuel Persuasif!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/el-mejor-administrador-de-imagenes-para-windows-10-opciones-top-rated/"><u>El Mejor Administrador De Imágenes Para Windows 10: Opciones Top Rated</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/omzetten-van-flv-videofilen-tot-mp4mov-veilige-gratis-online-instellingen/"><u>Omzetten Van FLV Videofilen Tot MP4/MOV: Veilige, Gratis Online Instellingen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlined-approach-transforming-your-audio-impression-in-pubg-for-2024/"><u>Streamlined Approach Transforming Your Audio Impression in PUBG for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasformare-i-file-mp3-in-formato-webm-senza-costi-con-il-servizio-di-movavi/"><u>Trasformare I File MP3 in Formato WEBM Senza Costi Con Il Servizio Di Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voice-activated-strategies-for-directing-ai-5-gpt-techniques/"><u>Voice-Activated Strategies for Directing AI: 5 GPT Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-202/"><u>동영상 줄이기 기술에서 시대를 전환하는 데 도움이 되는 10가지 권장 프로그: 202</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726026770951-windows-1011/"><u>ベストなフリーソフト統合ツールWindows 10/11用: あなたの選択肢を見直せ!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-insightful-evaluation-of-the-latest-lg-360-cam-model/"><u>[New] 2024 Approved Insightful Evaluation of the Latest LG 360 Cam Model</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-innovative-methods-for-chronological-disruption-in-acting/"><u>[New] Innovative Methods for Chronological Disruption in Acting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-captivating-creativity-designing-a-distinctive-podcast-image/"><u>[Updated] Captivating Creativity Designing a Distinctive Podcast Image</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-your-mkv-files-smoothly-using-windows-software/"><u>Convert Your MKV Files Smoothly Using Windows Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convertisseur-gratuit-de-fichiers-pcx-en-ligne-avec-movavi-guide-ultime/"><u>Convertisseur Gratuit De Fichiers PCX en Ligne Avec Movavi - Guide Ultime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-full-usage-threshold-in-chatgpt/"><u>Dealing with Full Usage Threshold in ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphers-storage-disks-how-to-tell-if-your-pcs-drive-is-hdd-or-ssd/"><u>Deciphers Storage Disks: How to Tell if Your PC's Drive Is HDD or SSD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xperia-10-v-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xperia 10 V</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-gt-5-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme GT 5 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-data-management-how-to-resolve-steam-errors/"><u>Mastering Data Management: How to Resolve Steam Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-driver-pack-for-hp-pagewide-pro-cu477a-install-on-win10-8-and-upgraded-to-win11/"><u>Official Driver Pack for HP PageWide Pro Cu477a - Install on Win10, 8 & Upgraded to Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-system-against-unauthorized-usb-devices/"><u>Securing Your System Against Unauthorized USB Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-customization-of-windows-terminal-colors/"><u>Step-by-Step Customization of Windows Terminal Colors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Elevate PC Access with a Unique, Self-Designed Pattern Lock
-date: 2024-10-28T16:39:49.875Z
-updated: 2024-11-01T17:04:10.049Z
+date: 2024-11-02T03:04:10.453Z
+updated: 2024-11-07T02:10:16.536Z
 tags:
   - windows10
   - windows11
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 ![9Locker's pattern lock grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-pattern-grid.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Customize 9Locker
 
  To access the 9Locker settings window, you’ll need to input your rescue password instead. Click **Settings** at the top left of the pattern lock screen. Input your rescue password and select **OK**.
@@ -62,11 +69,31 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 ![The Background Image tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/background-image-tab.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can set a solid color for the background. Click the **Color** button on the **Background image** tab. Then choose a color on the palette and select **OK**.
 
  9Locker also has an alarm that’s set to go off after three failed pattern logins by default. There aren’t any sound settings for that alarm. However, you can disable it by deselecting the **Play Alarm Sound** checkbox on the **General Settings** tab. Or change the number of retries that set off that alarm by inputting a different value in the **After** box.
 
 ![The General settings tab in 9Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9Locker’s pattern lock screen should appear automatically with the **Load 9Locker on Windows startup** checkbox selected on the **General Settings** tab. However, I needed to add 9Locker to the startup folder to get the program to run at startup. If you need to do the same, check out [how to utilize the Windows startup folder](https://www.makeuseof.com/tag/windows-10-startup-folder/).
 
@@ -96,17 +123,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![The Eusing Maze Lock pattern lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Customize Eusing Maze Lock
@@ -115,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 ![The patter lock input options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/key-pattern-lock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To access Eusing Maze Lock’s settings, right-click the software’s system tray icon, select **Configure**, input your pattern lock, and click the **General** tab. There you can add Eusing Maze Lock to the startup by selecting **On** from the Autolock at Windows startup drop-down menu.
 
  Select an option on the **Autolock computer after** drop-down menu to set an inactive time for the pattern lock screen to automatically come on.
@@ -129,22 +142,15 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also set a custom wallpaper for the pattern lock screen on the **Background** tab. To do so, click the **Change Image** button to bring up a selection window. Select an image file for the background and click **Open**.
 
 ![The Background tab in Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-background-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Lock Your Windows 10 or 11 PC Differently
 
@@ -154,22 +160,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  Most users secure their Windows PCs with passwords or PINs. However, you can also secure your PC by adding a custom pattern lock with 9Locker or Eusing Maze Lock. This is how you can set up a pattern lock for Windows 10 and 11 with those software packages.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-from-silence-to-symphony-enhancing-stories-with-ig-music/"><u>[New] 2024 Approved From Silence to Symphony Enhancing Stories with IG Music</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-incorporating-videos-in-your-instagram-content/"><u>[New] 2024 Approved Incorporating Videos in Your Instagram Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-meme-masterpiece-wave/"><u>[New] Meme Masterpiece Wave</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-learn-to-conduct-zoom-webinars-a-newbies-blueprint/"><u>[Updated] In 2024, Learn to Conduct Zoom Webinars A Newbie's Blueprint</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-guide-5-advanced-webcams-for-video-calls/"><u>2024 Approved Ultimate Guide 5 Advanced Webcams for Video Calls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/control-resource-use-fixing-news-apps-heavy-cpu-impact/"><u>Control Resource Use: Fixing News Apps' Heavy CPU Impact</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-setup-windows-11-tailored-keyboard-volume-shortcuts/"><u>Expert Setup: Windows 11 Tailored Keyboard Volume Shortcuts</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-redmi-12-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi Redmi 12 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-recovery-techniques-reactivating-explorer-in-win-11/"><u>Immediate Recovery Techniques: Reactivating Explorer in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-uncover-non-visible-disk-problems/"><u>Tactics to Uncover Non-Visible Disk Problems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforming-srt-into-subc-top-3-actionable-steps-for-2024/"><u>Transforming SRT Into SUBC Top 3 Actionable Steps for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-and-correcting-robloxs-error-code-403-on-a-pc/"><u>Understanding and Correcting Roblox's Error Code 403 on a PC</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,3 +167,25 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-automatic-video-launch-on-your-facebook-page/"><u>[New] Automatic Video Launch on Your Facebook Page</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-simplified-avi-to-graphic-style-gif-transformation-using-the-power-of-filmora/"><u>[New] Simplified AVI to Graphic-Style GIF Transformation Using the Power of Filmora</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ee-youtube-playlist-downloaders-onlinepcandroidios-for-2024/"><u>11 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS] for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-infinix-note-30i-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Infinix Note 30i.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-utilizing-mouse-click-lock-in-windows-setup/"><u>Efficiently Utilizing Mouse Click Lock in Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-image-handling-top-6-methods-for-resizing-in-win-11/"><u>Elevate Your Image Handling: Top 6 Methods for Resizing in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/employing-windows-tools-for-top-linux-performance/"><u>Employing Windows Tools for Top Linux Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-power-down-magic-for-w10w11-on-standby/"><u>Harnessing Power-Down Magic for W10/W11 on Standby</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102190441-my-laptops-built-in-wifibluetooth-is-not-responding-on-windows/"><u>My Laptop’s Built-In Wifi/Bluetooth Is Not Responding on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personal-touches-changing-windows-screenshot-settings/"><u>Personal Touches: Changing Windows Screenshot Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powertoys-the-ultimate-guide-to-international-in-depth-mouse-control/"><u>PowerToys: The Ultimate Guide to International, In-Depth Mouse Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-error-during-oculus-vr-windows-install/"><u>Quick Fix for Error During Oculus VR Windows Install</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/snappy-and-straightforward-win11-screening/"><u>Snappy & Straightforward Win11 Screening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-vanguards-sleeper-service-to-save-your-cpu/"><u>Taming Vanguard's Sleeper Service to Save Your CPU</u></a></li>
+</ul></div>
+

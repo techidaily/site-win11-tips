@@ -1,7 +1,7 @@
 ---
 title: Uncovering Covert Software on Your PC
-date: 2024-09-11T01:20:47.780Z
-updated: 2024-09-12T01:20:47.780Z
+date: 2024-11-01T23:05:28.919Z
+updated: 2024-11-06T19:49:23.743Z
 tags:
   - windows10
   - windows11
@@ -28,31 +28,18 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  Once you have closed down all nonessential processes and carried out a malware scan, you can start looking for any malicious programs lurking on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Inspect Your Device for Spyware or Hacking Attempts
 
  In the modern era, malware infections are usually programmed to actively (but secretly) operate on the victim's computer. For instance,[cryptojackers](https://www.makeuseof.com/what-is-cryptojacking-how-to-detect-it/) use victims' computer resources for crypto mining, keyloggers gather login credentials by monitoring keystrokes, and spyware tracks users' activity in real-time and shares it with the hackers.
 
  Each of these malware types relies on a remote connection to the hacker's server where the data is sent, the mining software runs, or whatever else the hacker is trying to accomplish. By identifying those suspicious connections established on our device, we can determine whether our device has actually been compromised.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 1\. Check for Suspicious Connections
 
@@ -65,26 +52,6 @@ netstat -ano
 
 ![Run Netstat-ano Command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-run-netstat-ano-command-in-command-prompt.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  The above command will show you all the TCP connections the apps, programs, and services have established to remote hosts.
 
  Pay attention mainly to the**State** column, where you'll find three main terms:**Established** ,**Listening** , and**Time\_Wait** . From these three, focus on the connections whose state identifies as**Established** . The**"Established"** state indicates a real-time connection between your computer and the remote IP address.
@@ -95,6 +62,13 @@ netstat -ano
 
  Do not close the Command Prompt; we will use the netstat information in the next steps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Analyze Any Connections That Seem Suspicious
 
 Here's how you can analyze the suspicious connections:
@@ -103,26 +77,6 @@ Here's how you can analyze the suspicious connections:
 2. Go to a popular IP location lookup site, such as IPLocation.net.
 3. Paste your copied IP address here and click the**IP Lookup** button.  
 ![click on the ip lookup button after pasting the copied ip address on ip location website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-the-ip-lookup-button-after-pasting-the-copied-ip-address-on-ip-location-website.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  This website will provide you with information about the IP address. Check the ISP and organization that use this IP address. If the IP address belongs to a well-known company whose services you use, such as Google LLC, Microsoft Corporation, etc., there is nothing to worry about.
 
@@ -136,49 +90,17 @@ Here's how you can analyze the suspicious connections:
 ![Note the PID Next to the Suspicious Established Connection in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-note-the-pid-next-to-the-suspicious-established-connection-in-command-prompt.jpg)
 2. Open Task Manager. (See the[different ways to open Task Manager in Windows 10](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and[11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) )
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. Go to the**Details** tab.
 4. Click the**PID column** to sort processes according to their PIDs.
 5. Find the process with the same**PID** that you noted down earlier.  
 ![Find the Process with Relevant PID in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-find-the-process-with-relevant-pid-in-windows-task-manager.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If the process belongs to a third-party service that you frequently use, you don't need to close it. However, you should still verify that this process belongs to the company you believe it does,as a hacker can hide their malicious processes under the guise of a malicious one. So, right-click on the suspicious process and select**Properties** .
 
@@ -188,21 +110,27 @@ Here's how you can analyze the suspicious connections:
 
 ![Navigate to Details Tab in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-navigate-to-details-tab-in-windows-task-manager.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
  If there is any discrepancy in process details or the process itself seems suspicious, it is best to remove the associated program.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Remove Any Suspicious Programs
 
@@ -211,22 +139,16 @@ Here's how you can analyze the suspicious connections:
 1. Right-click the shady process and select**Open file location** .  
 ![Click on Open File Location by Right-clicking on Malicious Process in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-click-on-open-file-location-by-right-clicking-on-malicious-process-in-windows-task-manager.jpg)
 2. Once again, ensure the file is not associated with Windows or any other critical application.
-3. If you're sure it's malware, right-click it and delete it.  
-![Delete the Suspicious File After Locating it in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/9-delete-the-suspicious-file-after-locating-it-in-windows-file-explorer.jpg)
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+3. If you're sure it's malware, right-click it and delete it.  
+![Delete the Suspicious File After Locating it in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/9-delete-the-suspicious-file-after-locating-it-in-windows-file-explorer.jpg)
 
 ### 5\. Take Professional Help When Necessary
 
@@ -236,34 +158,17 @@ Here's how you can analyze the suspicious connections:
 
  Therefore, if you see signs of a hacked device in your system, such as high resource consumption in Task Manager, system slowdowns, unknown apps getting installed, Windows Defender turning off frequently, the creation of suspicious new user accounts, and similar, you should consult a professional. Only then can you be sure that your device is completely secure.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Don't Let Hackers Spy on You for Long
 
  Microsoft consistently updates the Windows operating system to make it more secure, but hackers still find loopholes and hack into Windows devices. Hopefully, our guide will help you identify if any suspicious hacker is monitoring your activity. If you follow the tips correctly, you'll be able to remove the suspicious app and disconnect the connection to the hacker's server.
 
  If you're still suspicious and don't want to risk your precious data, you should seek professional assistance.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -272,4 +177,24 @@ Here's how you can analyze the suspicious connections:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-adding-joy-to-snaps-the-guide-to-cartoon-filters/"><u>[New] 2024 Approved Adding Joy to Snaps The Guide to Cartoon Filters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>[New] Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-soundbites-insights-for-youtube-short-tunes/"><u>[Updated] 2024 Approved Elevate Your Soundbites Insights for YouTube Short Tunes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-demystifying-the-art-behind-live-video-thumbnails/"><u>[Updated] In 2024, Demystifying the Art Behind Live Video Thumbnails</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-advantages-with-quantum-hdr-mastery/"><u>2024 Approved Photographic Advantages with Quantum HDR Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-multimedia-playback-with-the-top-k-lite-codec-suite-for-windows-users/"><u>Enhance Multimedia Playback with the Top K-Lite Codec Suite for Windows Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/finding-the-best-fit-essential-tips-to-choose-your-ideal-4k-monitor/"><u>Finding the Best Fit Essential Tips to Choose Your Ideal 4K Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/fleeting-funfare-limited-time-cheat-codes/"><u>Fleeting Funfare: Limited-Time Cheat Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-jumpstart-your-disabled-bluetooth-mouse-windows/"><u>How to Jumpstart Your Disabled Bluetooth Mouse (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-the-cause-of-your-non-operational-wi-fi-hotspot-on-win-11/"><u>Identifying the Cause of Your Non-Operational Wi-Fi Hotspot on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenges-of-a-the-exception-has-been-reached-error/"><u>Overcoming the Challenges of a “The Exception Has Been Reached” Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-win-os-artistic-solutions-beyond-procreate/"><u>Prime Win OS Artistic Solutions Beyond Procreate</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-user-authentication-a-new-era-for-winadmin/"><u>Reimagining User Authentication: A New Era for WinAdmin</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-speaking-gear-solutions-for-non-functional-mics-on-microsofts-latest-os/"><u>Revive Your Speaking Gear: Solutions for Non-Functional Mics on Microsoft's Latest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-customizing-w11-key-combinations/"><u>Step-by-Step Guide to Customizing W11 Key Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-improving-window-placement-on-windows-os/"><u>Tips for Improving Window Placement on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/years-end-bargain-612-for-lifetime-win10-access/"><u>Year's End Bargain: $6.12 for Lifetime Win10 Access</u></a></li>
+</ul></div>
 

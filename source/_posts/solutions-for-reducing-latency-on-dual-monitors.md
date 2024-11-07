@@ -1,7 +1,7 @@
 ---
 title: Solutions for Reducing Latency on Dual Monitors
-date: 2024-10-25T17:44:55.051Z
-updated: 2024-11-01T19:55:09.090Z
+date: 2024-11-03T14:17:55.557Z
+updated: 2024-11-06T17:21:37.097Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
  One of the most common reasons why your Windows laptop may lag is if it lacks the minimum hardware requirements to support the monitor. This usually happens when your laptop's graphics card isn't powerful enough to handle the monitor's resolution. Try [lowering the resolution of the external monitor](https://www.makeuseof.com/windows-11-change-screen-resolution/) to see if that resolves the lag.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Change the Screen Refresh Rate
@@ -62,13 +62,20 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 5. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Allow the troubleshooter to detect any issues and fix them. After that, check if your Windows laptop still lags when connected to an external monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Close Unnecessary Apps and Programs
@@ -79,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-programs-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Try Some Generic Fixes
 
  Still having problems? Don't fret, you can try the following generic solutions to solve the problem.
@@ -95,10 +95,16 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 * **Install Windows Updates:** A buggy Windows build can also cause such anomalies. As a last resort, try [installing any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) to see if they resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No More Lag When Using an External Monitor With Your Windows Laptop
@@ -107,22 +113,6 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
  Below, we will explore several effective troubleshooting tips that can help resolve performance issues with your Windows laptop when it is connected to an external display.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-bridal-bliss-filmed-alike-high-quality-8-marriage-videos-online/"><u>[Updated] 2024 Approved Bridal Bliss Filmed Alike High-Quality 8 Marriage Videos Online</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-earning-at-age-ten-the-extraordinary-financial-rise-of-ryan-kaji/"><u>[Updated] 2024 Approved Earning at Age Ten The Extraordinary Financial Rise of Ryan Kaji</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-filmmakers-delight-filmoras-best-aspects-exposed/"><u>[Updated] 2024 Approved Filmmakers' Delight Filmora's Best Aspects Exposed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mac-screen-grabber-including-microphone-recording/"><u>[Updated] 2024 Approved Mac Screen Grabber Including Microphone Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-techniques-for-saving-discord-chats-in-real-time-for-2024/"><u>[Updated] The Ultimate Techniques for Saving Discord Chats in Real-Time for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209657465-effective-solutions-overcoming-windows-10-not-shutdown-errors-on-pc-solved/"><u>Effective Solutions: Overcoming Windows 10 Not Shutdown Errors on PC – SOLVED</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-app-youre-trying-to-install-isnt-a-microsoft-verified-app-warning-on-windows/"><u>How to Fix “The App You’re Trying to Install Isn’t a Microsoft-Verified App” Warning on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-minimize-windows-sound-effects-override/"><u>How To Minimize Windows Sound Effects Override</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recovery-guide-missing-d3dx939-dll-in-win11/"><u>Recovery Guide: Missing D3DX9_39 DLL in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sidestep-vmware-boot-failures-with-8-proven-strategies-win11/"><u>Sidestep VMware Boot Failures with 8 Proven Strategies, Win11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-v30-lite-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo V30 Lite 5G Phones</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,3 +120,24 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-s23plus-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy S23+ System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-memory-error-a-guide/"><u>Eliminating Windows Memory Error: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eluding-operational-oddities-avoiding-sudden-game-interrupts-on-windows/"><u>Eluding Operational Oddities: Avoiding Sudden Game Interrupts on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-performance-free-rtx-2080-super-driver-downloads-for-windows-11-systems/"><u>Enhance Gaming Performance: Free RTX 2080 Super Driver Downloads for Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-valid-access-vs-denied-entry-on-your-windows-system/"><u>Ensuring Valid Access vs Denied Entry on Your Windows System</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-take-your-online-presence-to-new-heights-with-youtube-edits-in-sony-vegas/"><u>In 2024, Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mobile-showdown-iphone-versus-samsung-which-fits-your-tech-lifestyle-best/"><u>Mobile Showdown: IPhone Versus Samsung – Which Fits Your Tech Lifestyle Best?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-update-fire-tv-introduces-advertising-in-its-ambient-theme-screen-saver-feature/"><u>New Update: Fire TV Introduces Advertising in Its Ambient Theme Screen Saver Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-unfreeze-on-vlc-for-smooth-watching/"><u>Quick Unfreeze on VLC for Smooth Watching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reveling-in-success-how-to-tackle-and-overcome-error-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Reveling in Success: How to Tackle and Overcome Error 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-guide-mastering-file-explorer-on-windows-10/"><u>Simplified Guide: Mastering File Explorer on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-preventing-mmc-errors-snaps-unavailable/"><u>Solutions for Preventing MMC Errors: Snaps Unavailable</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steams-friend-connection-problem-a-windows-guide/"><u>Steam's Friend Connection Problem: A Windows Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-irreversible-file-deletion-on-windows-10/"><u>Step-by-Step Guide: Irreversible File Deletion on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-irony-of-lowno-code-development-liberating-developers-from-mundane-tasks-while-introducing-fresh-complexities-zdnet/"><u>The Irony of Low/No-Code Development: Liberating Developers From Mundane Tasks While Introducing Fresh Complexities | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-truth-about-msi-z790-motherboard-failures-pch-chip-breakages-and-suspected-production-errors-in-select-batches/"><u>Unveiling the Truth About MSI Z790 Motherboard Failures – PCH Chip Breakages & Suspected Production Errors in Select Batches</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Microsoft Store Glitches via Server Corrections on Win 11/11
-date: 2024-10-31T16:01:43.796Z
-updated: 2024-11-01T19:16:36.926Z
+date: 2024-11-04T13:24:37.280Z
+updated: 2024-11-07T01:54:53.376Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 
  The steps for opening the same troubleshooter in Windows 10 aren’t exactly the because of the Settings app’s different layout. You’ll need to click**Update & Security** \>**Troubleshoot** \>**Additional Troubleshooters** in Windows 10’s Settings app. Click Windows Store Apps to press a**Run the troubleshooter** button that opens that troubleshooting tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check the Date & Time Settings on Your PC
 
  Date & time discrepancies on your PC can cause Microsoft Store connectivity issues like the “server stumbled” error to arise. Check the time zone you’ve got set matches up with your PC’s regional configuration. You can verify your PC’s time by selecting to sync its clock. This is how you can check the time configuration within Settings:
@@ -52,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 4. Press the**Sync now** button to synchronize with the Windows time server.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Start or Restart the Windows Update Service
@@ -67,21 +74,35 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 3. Double-click**Windows Update** to view the various settings for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-service.jpg)
 4. Select**Automatic** if any other option is set on the**Startup** type drop-down menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then click the service’s**Start** option if Windows Update is stopped.
 6. Press**Apply** to set the service settings.  
 ![The Windows Update Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-properties-window.jpg)
 7. Click**OK** or the**X** button to exit Windows Update’s properties window.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart Windows Update if you find that the service is already running with an**Automatic** startup set. You can do that by clicking Windows Update with your mouse’s right button and selecting**Restart** . Or select**Stop** and then**Start** within its properties window.
 
 ![The Restart option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reset the Microsoft Store Cache
 
@@ -100,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-a-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set Up a Connection to Google's DNS Servers
@@ -113,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
  It is indeed the case some users have confirmed setting a Google DNS fixed this error on their PCs. To do that, check out our article about[how to change a DNS server](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) , which also includes Google’s IPv4 addresses.
 
 ![DNS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Disable Any Active Third-Party Security Software
 
@@ -140,21 +154,7 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 ![The TLS checkboxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tls-settings.jpg)
 5. Press**Apply** in the Internet Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**OK** to exit Internet Properties.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Reregister the Microsoft Store
 
@@ -163,6 +163,19 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
  Our article about[reregistering Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) includes step-by-step instructions for executing that command.
 
 ![The reregister command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reregister-command.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Download and Install Apps From the Microsoft Store Again
 
@@ -183,20 +196,15 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-hacking-facebook-fast-profile-discovery-methods-for-2024/"><u>[Updated] Hacking Facebook Fast Profile Discovery Methods for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/confront-uartusb-incompatibility/"><u>Confront UART/USB Incompatibility</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/depannage-facilite-faire-face-a-des-ndr-errones-sur-windows-n-solutions-et-conseils-dexperts/"><u>Dépannage Facilité : Faire Face À Des NDR Erronés Sur Windows N, Solutions Et Conseils D'experts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-dark-screen-customization-for-your-notepad-windowed-edition/"><u>Effortless Dark Screen Customization for Your Notepad, Windowed Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-graphics-capability-within-application-guard-mode/"><u>Elevating Graphics Capability Within Application Guard Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/establishing-print-capabilities-in-edge-shield-mode/"><u>Establishing Print Capabilities in Edge Shield Mode</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fond-memories-and-frustrating-realities-understanding-the-allure-of-outdated-rear-projection-tvs/"><u>Fond Memories and Frustrating Realities: Understanding the Allure of Outdated Rear-Projection TVs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/macos-11-big-sur-essential-guide-for-upgrades/"><u>MacOS 11 Big Sur Essential Guide for Upgrades</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-notepad-aesthetics-choosing-windows-11s-themes-and-typefaces/"><u>Mastering Notepad Aesthetics: Choosing Windows 11'S Themes & Typefaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-past-windows-11s-s-mode-lockdown/"><u>Navigating Past Windows 11'S 'S Mode' Lockdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/professional-photography-editing-tips-for-isolation/"><u>Professional Photography Editing Tips for Isolation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionizing-workflow-with-7-pinnacle-windows-11-tools/"><u>Revolutionizing Workflow with 7 Pinnacle Windows 11 Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/simple-steps-to-modify-screen-capture-on-macos/"><u>Simple Steps to Modify Screen Capture on macOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-pc-review-hub-for-top-notch-components-and-systems/"><u>Tom's PC Review Hub for Top-Notch Components and Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-closer-look-at-oppression-in-tropico-6-a-review-of-political-intrigue-on-a-dream-island/"><u>A Closer Look at Oppression in Tropico 6: A Review of Political Intrigue on a Dream Island</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-11-pro-max-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 11 Pro Max The Right Way</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-8-free-screen-recorder-for-android/"><u>In 2024, Top 8 Free Screen Recorder for Android</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-15-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 15 Plus? How to Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-unnecessary-ntoskrnlexe-load/"><u>Mitigating Unnecessary Ntoskrnl.exe Load</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-more-overspending-master-these-data-friendly-messaging-hacks/"><u>No More Overspending - Master These Data-Friendly Messaging Hacks</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-a-nonfunctional-aoc-display-unit-in-compatibility-mode-for-win10-systems/"><u>Reviving a Nonfunctional AOC Display Unit in Compatibility Mode for Win10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-the-process-of-replacing-aged-window-cards/"><u>Unleash Potential: The Process of Replacing Aged Window Cards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/whys-my-screen-mute-fixing-microphone-issues-on-microsoft-powered-google-meet/"><u>Why's My Screen Mute? Fixing Microphone Issues on Microsoft-Powered Google Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-geforce-error-how-to-correct-failed-scans/"><u>Windows GeForce Error: How to Correct Failed Scans</u></a></li>
 </ul></div>
 

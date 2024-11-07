@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Labeling Files in Windows 11
-date: 2024-09-11T01:20:50.911Z
-updated: 2024-09-12T01:20:50.911Z
+date: 2024-10-31T11:42:13.968Z
+updated: 2024-11-07T13:09:26.674Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,14 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 2. Select **Options** to bring up a window that includes folder settings.  
 ![The See more menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-see-more-menu.jpg)
 3. Click **View** to access advanced Explorer settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select the circle for the **Show hidden files, folders and drives** option.
 5. Deselect the selected **Hide protected operating system** checkbox.  
 ![The Hide protected operation system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-hide-protected-operating-system-files.jpg)
@@ -53,55 +61,22 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 ![The Change Icon button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-icon-button.jpg)
 6. Choose a different icon for the folder and select **OK**.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![The Change Icon window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-icon-window3.jpg)
 7. Press the **Apply** and **OK** buttons to change the folder’s icon.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Add a New Folder Comment With the Desktop.Ini File
 
@@ -115,35 +90,9 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 ![The desktop.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/desktop-ini-file.jpg)
 5. Click Notepad’s **File** menu.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. Select **Save** to set the new folder comment.  
 ![The Save option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-save-option.jpg)
 7. Click Exit on Notepad’s **File** menu.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 8. Finally, restart the Windows Explorer process with a method in this guide to restarting File Explorer.
 
@@ -151,41 +100,20 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 
 ![The Comments column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/comments-column.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982508">
+<span id="1983539">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If you ever want to remove or change the comment, reopen the desktop.ini file in the set folder. You can remove the comment by deleting the InfoTip comment text. Or edit the comment’s text there to change it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Add Useful Comment Info to Your Folders on Windows 11
 
@@ -193,11 +121,33 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-film-making-top-8-recommended-cameras/"><u>[New] First Steps in Film Making Top 8 Recommended Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-in-depth-analysis-of-fb-chat-recording-techniques/"><u>[Updated] 2024 Approved In-Depth Analysis of FB Chat Recording Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725285723640-dvd/"><u>最適な DVD 保存方法：パソコンへの移行手順とヒント</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/can-you-include-video-content-in-flash-ebooks-created-on-flipbuilder/"><u>Can You Include Video Content in Flash eBooks Created on FlipBuilder?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-browser-performance-low-ram-and-cpu-demand-analysis/"><u>Comparing Browser Performance: Low RAM and CPU Demand Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-internal-window-search-images/"><u>Eliminating Internal Window Search Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-isolated-to-connected-solutions-for-window-mc-links/"><u>From Isolated to Connected: Solutions for Window MC Links</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-download-and-install-windows-11-arm-with-iso/"><u>How to Download and Install Windows 11 ARM With ISO</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-modify-windows-installation-service-state/"><u>How to Modify Windows Installation Service State</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-reading-view-for-all-microsoft-word-email-attachments/"><u>Implementing Reading View for All Microsoft Word Email Attachments</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-energy-savings-calculations-while-not-directly-impacting-installation-cost-understanding-potential-energy-savings-is-crucial-for-long-term-roi-analy/"><u>In 2024, __Energy Savings Calculations__ While Not Directly Impacting Installation Cost, Understanding Potential Energy Savings Is Crucial for Long-Term ROI Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-file-systems-adding-dropbox-google-drive-drives-in-windows/"><u>Navigating File Systems: Adding Dropbox, Google Drive Drives in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-more-clutter-win-riddance-of-temp-files/"><u>No More Clutter: Win Riddance of Temp Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remediation-of-error-messages-on-ge-sharing-feature/"><u>Remediation of Error Messages on GE Sharing Feature</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210271111-9781945252747-the-journey-to-cloud-nine/"><u>The Journey to Cloud Nine | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-f54-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Galaxy F54 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribing-minecraft-exporting-kingdoms/"><u>Unsubscribing Minecraft: Exporting Kingdoms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-to-achieve-perfect-prints-from-powerpoint-on-pcs/"><u>Winning Strategies to Achieve Perfect Prints From PowerPoint on PCs</u></a></li>
+</ul></div>
+

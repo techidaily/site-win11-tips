@@ -1,7 +1,7 @@
 ---
 title: How To Reactivate Forgotten Regedit on Your PC
-date: 2024-10-30T16:27:55.947Z
-updated: 2024-11-01T19:31:52.867Z
+date: 2024-10-31T04:45:10.985Z
+updated: 2024-11-07T02:46:12.928Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 6. If Windows Security detects something, select the**Remove action** options for everything detected.
 7. Then click**Start actions** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan and Repair System Files
 
  Scanning system files is a potential solution for the “cannot find regedit.exe” error confirmed to work by some. Those users resolved the issue with the System File Checker Command Prompt utility. You can scan and repair system files with that SFC tool like this:
@@ -60,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scannow-command.jpg)
 6. Wait until that tool’s scan gets to 100 percent. Then you’ll see a Windows Resource Protection message in the Prompt’s window.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Enable Registry Editor Access in Group Policy Editor
 
  Windows Pro and Enterprise editions have a Group Policy Editor tool that includes a**Prevent access to registry editing tools** option. If you’re a Pro or Enterprise user, check if that policy setting is enabled and causing the issue at hand. This is how you can enable Registry Editor access with Group Policy Editor:
@@ -79,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 5. Select the**Disabled** option, and click**Apply** to save.  
 ![The prevent access to registry editing tools policy setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/prevent-access-to-registry-edting-tools.jpg)
 6. Press the Prevent access to registry editing tools window’s**OK** button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Exit Group Policy Editor, and restart your PC.
 
@@ -101,6 +80,20 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 5. Select**Path** , and click the**Edit** button.  
 ![The Environment Variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-varibles-window.jpg)
 6. Click**Edit** on the environment variable window.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Input this variable:  
 `%USERPROFILE%\AppData\Local\Microsoft\WindowsApps`
 8. Select the Edit environment variable window’s**OK** option.  
@@ -108,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 9. Reboot your Windows desktop or laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Restore the Registry Editor’s Default Registry Values
@@ -159,10 +152,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 6. Type**Registry Fix.reg** inside the name box.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Choose to save the script on the desktop area.
@@ -176,13 +169,20 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/system-restore-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You may need to reinstall some software after performing system restoration. Software installed after any restore point’s date is not preserved. Click the**Scan for affected programs** option for whatever restoration point you chose to see what software it removes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reset Windows
@@ -190,6 +190,13 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
  This last resolution will restore Windows 11/10 to a factory default configuration, which will likely resolve the “cannot find regedit.exe” issue. However, this is the last thing you should try since resetting Windows will also remove software packages that weren’t preinstalled. Our guide about[factory resetting a Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes the steps for applying this fix.
 
 ![The Reset this PC button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-this-pc-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Edit the Registry With Registry Editor Once More
 
@@ -210,19 +217,22 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-seize-the-day-best-apps-for-live-streaming-and-recording-on-facebook/"><u>[New] 2024 Approved Seize the Day Best Apps for Live Streaming and Recording on Facebook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pinnacle-story-planning-website/"><u>[New] Pinnacle Story Planning Website</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-capturing-facebook-hd-videos-for-later-use/"><u>[Updated] In 2024, Capturing Facebook HD Videos for Later Use</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/asuswindows-114/"><u>ASUS电脑在Windows 11下的重置指南——4个不错的方式来回到出厂设置</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-economical-effective-rexing-v1-dash-cam/"><u>Comprehensive Review of the Economical, Effective Rexing V1 Dash Cam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dxgidll-gone-win11s-solution-path-explored/"><u>Dxgi.dll Gone? Win11's Solution Path Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correctly-detect-windows-proxies/"><u>How to Correctly Detect Windows Proxies</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-7-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 7 without Password?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-install-and-use-google-play-in-w11-os/"><u>How to Install and Use Google Play in W11 OS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-economical-lenovo-chromebook-duet-the-dual-function-device-breakdown/"><u>In-Depth Review of the Economical Lenovo Chromebook Duet: The Dual-Function Device Breakdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-resolving-unauthorized-file-saves-in-win/"><u>Mastering the Art of Resolving Unauthorized File Saves in Win</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-vanishing-mouse-pointer-in-windows-10-a-comprehensive-guide/"><u>Resolving the Vanishing Mouse Pointer in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securely-stashing-zips-integrating-extracts-into-images-on-pcs/"><u>Securely Stashing Zips: Integrating Extracts Into Images on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-chrome-profiles-a-guide-to-windows-errors/"><u>Unblocking Chrome Profiles: A Guide to Windows Errors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-find-your-comments-on-youtube/"><u>[New] 2024 Approved How to Find Your Comments on YouTube?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-mac-videos-for-snapchat/"><u>[New] The Ultimate Guide to Mac Videos for Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-obstacles-in-the-amd-installation-pathway/"><u>Disabling Obstacles in the AMD Installation Pathway</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-xlsm-files-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a .xlsm files electronically</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-audiovisual-excellence-top-5-premium-slow-motion-gear/"><u>In 2024, Audiovisual Excellence Top 5 Premium Slow-Motion Gear</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-life-your-phone-and-computer-through-samsung-flow/"><u>Integrating Life - Your Phone and Computer Through Samsung Flow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-ssd-efficiency-in-windows-mastery-via-fresh-approach/"><u>Maximize SSD Efficiency in Windows - Mastery via Fresh Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/organized-workspace-keeping-your-sticky-notes-visible-at-top/"><u>Organized Workspace: Keeping Your Sticky Notes Visible at Top</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-disabled-experience-in-roblox-on-windows-pcs/"><u>Rectifying Disabled Experience in Roblox on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-nat-types-in-win11-and-10-a-step-by-step-guide/"><u>Switching NAT Types in Win11 & 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-insight-into-netflixs-online-entertainment-universe/"><u>The Ultimate Insight Into Netflix's Online Entertainment Universe</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-linux-commands-on-windows-via-sudo/"><u>Unlocking Linux Commands on Windows via Sudo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-window-bar-transparency-on-win11/"><u>Unlocking Window Bar Transparency on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-cause-and-fix-for-defenders-0x80004004/"><u>Unveiling the Cause and Fix for Defender's 0X80004004</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/viewing-every-movie-starring-taylor-swift-sorted-by-release-date/"><u>Viewing Every Movie Starring Taylor Swift, Sorted by Release Date</u></a></li>
 </ul></div>
 

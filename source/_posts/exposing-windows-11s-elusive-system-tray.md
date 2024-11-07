@@ -1,7 +1,7 @@
 ---
 title: Exposing Windows 11'S Elusive System Tray
-date: 2024-10-29T18:29:20.384Z
-updated: 2024-11-01T16:18:08.591Z
+date: 2024-11-06T12:28:25.042Z
+updated: 2024-11-07T07:24:38.624Z
 tags:
   - windows10
   - windows11
@@ -47,16 +47,16 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  To add the icon back in the system tray, click and drag it from the hidden icons menu and then place it in the system tray.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Show or Hide the Hidden Icon Menu
 
  As mentioned earlier, the hidden icon menu is what appears when you click the **up caret** in the system tray. You can also hide and show this menu as you please.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Using the Settings App
 
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 ![opening Taskbar settings by right clicking an empty part of the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/opening-taskbar-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scroll down until you reach the **Other system tray icons** section and expand it. To reveal the hidden icon menu, set the toggle next to the **Hidden menu icon** option to **On**. To hide it, set the toggle to **Off**.
@@ -89,25 +89,25 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 
 ![the SystemTrayChevronVisibility value in the Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/systemtraychevronvisibility-value-regedit-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To show the hidden icon menu, set the **Value data** text box to **1** and click **OK**.
 
 ![setting the SystemTrayChevronVisibility value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/systemtraychevronvisibility-value-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And to hide the hidden icon menu set the **Value data** text box to **0** and click **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Control the Icons that Appear in the System Tray on Windows 11
 
@@ -117,29 +117,6 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 
  If that happens, you can remove a couple of app icons, as well as the hidden icons menu, to make it less cluttered. And if you can’t find the app icons you need or the hidden icons menu is missing, you can add those too.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-podcasts-vs-youtube-which-should-you-choose/"><u>[New] Podcasts Vs. YouTube Which Should You Choose?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-state-of-the-vr-industry-for-2024/"><u>[New] State of the VR Industry for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unlocking-your-personal-tiktok-hashtag-for-2024/"><u>[New] Unlocking Your Personal TikTok Hashtag for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-beyond-gaming-vr-uses/"><u>[Updated] Beyond Gaming VR Uses</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-enhancing-imagery-a-step-by-step-guide-to-crop-videos-on-instagram-for-2024/"><u>[Updated] Enhancing Imagery A Step-by-Step Guide to Crop Videos on Instagram for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-novice-necessities-the-ultimate-beginners-video-editor/"><u>[Updated] In 2024, Novice Necessities The Ultimate Beginner's Video Editor</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-maximizing-money-smart-tactics-for-video-monetization/"><u>2024 Approved Maximizing Money Smart Tactics for Video Monetization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-windows-errors-for-wow-updates/"><u>Clearing Windows Errors for WoW Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-pc-management-auto-windows-update-and-gpu-switching/"><u>Efficient PC Management: Auto Windows Update & GPU Switching</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-change-cr2-files-to-jpg-using-windows/"><u>Efficiently Change CR2 Files to JPG Using Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-disk-unknown-not-initialized-issue-on-windows/"><u>How to Fix the “Disk Unknown Not Initialized” Issue on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-webcam-showing-a-black-screen-on-windows/"><u>How to Fix Your Webcam Showing a Black Screen on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitech-brio-hd-camera-drivers-on-windows-11-complete-guide-and-links/"><u>Install Logitech BRIO HD Camera Drivers on Windows 11: Complete Guide and Links</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-windows-update-efficiency-after-error-0xca00a009/"><u>Restoring Windows Update Efficiency After Error 0xCA00A009</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-pairing-of-airpods-with-windows-os/"><u>Seamless Pairing of AirPods with Windows OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fix-activity-tracking-on-your-apple-watch/"><u>Step-by-Step Guide to Fix Activity Tracking on Your Apple Watch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncomplicated-system-management-in-w11-via-shortcut-buttons-guide/"><u>Uncomplicated System Management in W11 via Shortcut Buttons Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-potential-8-study-approaches-for-windows-aficionados/"><u>Unlock Potential: 8 Study Approaches for Windows Aficionados</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +124,20 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-charismatic-videos-with-diy-camera-setups/"><u>[New] 2024 Approved Crafting Charismatic Videos with DIY Camera Setups</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-audio-finesse-advanced-editing-strategies-for-podcasters/"><u>[New] The Art of Audio Finesse Advanced Editing Strategies for Podcasters</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-quick-guide-seamlessly-moving-4k-footage-from-iphone-to-laptop/"><u>1. Quick Guide: Seamlessly Moving 4K Footage From iPhone to Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enriching-user-interface-the-roadmap-for-future-widgets-in-windows-11/"><u>Enriching User Interface: The Roadmap for Future Widgets in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-mediocre-to-marvelous-an-exhaustive-facetune-analysis-for-2024/"><u>From Mediocre to Marvelous An Exhaustive Facetune Analysis for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-maximum-heat-dispersion-with-id-cooling-fx360-pro-excellent-quality-at-60/"><u>Get Maximum Heat Dispersion with ID-Cooling FX360 Pro - Excellent Quality at $60</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-nvidia-revolutionizes-graphics-management-by-merging-control-panel-and-geforce-experience-into-one-app/"><u>How Nvidia Revolutionizes Graphics Management by Merging Control Panel and GeForce Experience Into One App</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-10-superior-tools-for-fbx-file-recording/"><u>In 2024, 10 Superior Tools for FBX File Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-spotifys-connection-realms-a-win11-guide/"><u>Mastering Spotify's Connection Realms: A Win11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnecting-lost-razer-devices-with-synapse-in-windows-11/"><u>Reconnecting Lost Razer Devices with Synapse in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-overcoming-missing-items-problem-in-windows-11/"><u>Strategies for Overcoming 'Missing Items' Problem in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-your-logitech-g403-with-the-new-drivers-on-windows-pcs/"><u>Update Your Logitech G403 with the New Drivers on Windows PCs</u></a></li>
+</ul></div>
+

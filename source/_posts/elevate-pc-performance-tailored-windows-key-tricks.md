@@ -1,7 +1,7 @@
 ---
 title: "Elevate PC Performance: Tailored Windows Key Tricks"
-date: 2024-10-29T18:33:12.028Z
-updated: 2024-11-01T19:15:23.516Z
+date: 2024-11-05T22:03:13.097Z
+updated: 2024-11-06T18:21:16.437Z
 tags:
   - windows10
   - windows11
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 3. Then select **Apply** to save your hotkey.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click **OK** to exit the shortcut’s properties window.
@@ -87,19 +87,6 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
  A keyboard shortcut for emptying the Recycle Bin would undoubtedly be handy, but Windows doesn’t have one. You can create a desktop shortcut or hotkey for emptying the Recycle Bin with this NirCmd command:
 
 `nircmd.exe emptybin`
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Center Align All Windows
 
@@ -133,18 +120,18 @@ keywords: Boost PC Speed,Windows Tweaks,Optimize Windows,Enhance PC,Efficiency B
 thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2f0511baeab6c403517618b1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
 
 `nircmd.exe screensaver`
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Close All Open File Explorer Windows
 
@@ -152,18 +139,18 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 
 `nircmd.exe win close class CabinetWClass`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Keep the Calculator on Top of All Windows
 
  The pre-installed Calculator app is one many users no doubt need when browsing the web or utilizing other software packages. You can create a NirCmd command shortcut that always keeps Calculator on top of other windows when you’re utilizing that app. To do so, you’ll need to input this command within a desktop shortcut’s item location box:
 
 `nircmd.exe win settopmost title "Calculator" 1`
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Set the Brightness Level
 
@@ -171,26 +158,18 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 
 `nircmd.exe setbrightness 60 3`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Create Handy Windows Task Shortcuts With NirCmd
 
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-precision-players-list-the-finest-fps-gaming/"><u>[New] 2024 Approved Precision Players’ List – The Finest FPS Gaming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfect-iphone-images-abide-by-these-10-rules/"><u>[New] Perfect iPhone Images Abide by These 10 Rules</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-volume-tailored-keyboard-shortcuts-win11/"><u>Crafting Volume Tailored Keyboard Shortcuts (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ease-your-windows-11-ui-ungrouping-tips/"><u>Ease Your Windows 11 UI: Ungrouping Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/imessage-integration-on-windows-systems-unveiled/"><u>IMessage Integration on Windows Systems Unveiled</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-14-proipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 14 Pro/iPad Without Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-10-v-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 10 V Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-prime-places-for-accessible-outstanding-vector-design-tools/"><u>In 2024, Prime Places for Accessible, Outstanding Vector Design Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overhauled-error-22-in-graphicsdriver/"><u>Overhauled Error #22 in GraphicsDriver</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-control-over-windows-11-context-items/"><u>Regaining Control Over Windows 11 Context Items</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-synergy-achieved-upload-and-share-fb-stories-notebooks-to-top-sites/"><u>Social Synergy Achieved: Upload & Share FB Stories, Notebooks to Top Sites</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -199,3 +178,27 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-maximizing-zoom-meeting-insight-through-grid-view-settings/"><u>[New] 2024 Approved Maximizing Zoom Meeting Insight Through Grid View Settings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-active-presenter-8-review-is-it-the-best-screen-recorder/"><u>[New] Active Presenter 8 Review Is It The Best Screen Recorder?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-the-action-in-depth-guide-to-game-recording-on-win10/"><u>[New] Capture the Action In-Depth Guide to Game Recording on Win10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-meme-magic/"><u>[New] IPhone Meme Magic</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-demystifying-t-series-income-streams-via-youtube-platforms-for-2024/"><u>[Updated] Demystifying T-Series Income Streams via YouTube Platforms for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-embrace-the-art-of-timelapses-a-comprehensive-ipad-tutorial/"><u>[Updated] Embrace the Art of Timelapses A Comprehensive iPad Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mastering-zero-cost-youtube-intros-essential-tips-and-templates/"><u>[Updated] In 2024, Mastering Zero-Cost YouTube Intros Essential Tips & Templates</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-saving-parts-of-youtube-a-comprehensive-tutorial/"><u>[Updated] Saving Parts of YouTube A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-group-policy-objects-at-a-targeted-user-on-windows-1111/"><u>Directing Group Policy Objects at a Targeted User on Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-optional-enhancements-in-windows-11-a-complete-fix-guide/"><u>Effortless Optional Enhancements in Windows 11: A Complete Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-defining-wins-command-prompt/"><u>Guidelines for Defining Win's Command Prompt</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-15-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 15 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators/"><u>In 2024, Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-high-dpi-settings-in-windows/"><u>Navigating High DPI Settings in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-brightness-control-via-function-keys-on-win-11/"><u>Reestablishing Brightness Control via Function Keys on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-non-present-device-warning-in-windows-11/"><u>Remedy for Non-Present Device Warning in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-load-times-overcoming-01kbs-delays-in-valorant/"><u>Swift Load Times: Overcoming 0.1KB/S Delays in Valorant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-invisible-changes-that-bring-your-desktop-life-master-themes-on-windows-11/"><u>The Invisible Changes That Bring Your Desktop Life: Master Themes on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-six-key-reasons-for-choosing-win11-overseas-macos/"><u>Unveiling Six Key Reasons for Choosing Win11 Overseas macOS</u></a></li>
+</ul></div>
+

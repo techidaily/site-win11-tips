@@ -1,7 +1,7 @@
 ---
 title: "Optimize Performance Tracking: Improving System Tray Usage Reports"
-date: 2024-09-11T01:20:48.585Z
-updated: 2024-09-12T01:20:48.585Z
+date: 2024-11-04T19:39:07.802Z
+updated: 2024-11-06T18:59:03.729Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Add System Resource Usage Details to the System Tray With Task Manager
 
  Task Manager adds one small system resource icon to the system tray that shows RAM (system memory), CPU (central processor), network, and disk drive utilization when running. However, that icon will only be visible in the system tray when you have Task Manager open on the taskbar unless configured otherwise. You can keep those system resource details in the system tray without having Task Manager open on the taskbar as follows:
@@ -43,20 +29,6 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 3. Select the **Hide when minimized menu** option.  
 ![The Hide when minimized option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/hide-when-minimized.jpg)
 4. Click Task Manager’s **Minimize** button.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  Selecting to minimize Task Manager will now effectively close that utility’s window, but its PC resource usage details will remain visible within the system tray. Move your cursor over the small square icon in the system tray to view a tooltip showing RAM, CPU, network, and disk utilization for your PC. Clicking that system tray icon reopens the Task Manager window on its graphical **Performance** tab.
 
@@ -89,20 +61,6 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 
 ![A RAM system resource panel on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-ram-panel.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Add System Resource Usage Details to the System Tray With System Explorer
 
  System Explorer is a third-party [software alternative to the Task Manager](https://www.makeuseof.com/tag/5-powerful-alternatives-windows-task-manager/) you can add to Windows. That software adds more detailed PC resource usage info to the system tray than Task Manager.
@@ -116,19 +74,12 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 ![The Express Installation radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-express-installation-option.jpg)
 5. Click **Next** to install the System Explorer software. System Explorer will run automatically after installation.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  Now you’ll see an icon for System Explorer in the system tray. Move the cursor over the System Explorer icon to view a panel that shows computer resource info. That panel includes resource bars for CPU Usage, Memory Usage, and Swap Usage system resource bars.
 
@@ -140,39 +91,38 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 
 ![The settings for System Explorer's system resource panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-for-the-system-explorer-s-system-resource-panel.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  To view the computer resource usage details in System Explorer's window, double-click the software’s system tray icon. Click the **+** icon in System Explorer’s window and select **Performance**. That will bring up a **Performance** tab showing line graphs for processor, pages faulted, disk, and RAM usage.
 
 ![The Processes tab in System Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-processes-tab.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
  Don’t forget to check out the **Processes** tab to see how System Explorer compares with Task Manager. That tab includes options you can select to show or hide processes. For example, you can click the **Show Microsoft System Entries** option to hide Microsoft processes. Plus, that tab includes a search box, which is a handy addition for finding processes.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## View Your System Resource Usage Info Directly From Your System Tray
 
@@ -180,11 +130,25 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-incorporating-custom-visuals-in-youtube-videos-easily/"><u>[New] 2024 Approved Incorporating Custom Visuals in YouTube Videos Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-secrets-for-skillful-extraction-of-superior-quality-videos/"><u>[New] Secrets for Skillful Extraction of Superior Quality Videos</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-effiziente-methoden-zur-wiederherstellung-geloschter-selbstportratfotos-entdeckung-der-technik-von-myrecover/"><u>1. Effiziente Methoden Zur Wiederherstellung Gelöschter Selbstporträtfotos - Entdeckung Der Technik Von MyRecover</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-hp-wifi-driver-for-windows-users/"><u>Easy Installation Guide: HP WiFi Driver for Windows Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effizientes-kopieren-von-dvd-filmen-auf-den-computer-mit-windows-10-und-macos-eine-einfache-anleitung/"><u>Effizientes Kopieren Von DVD-Filmen Auf Den Computer Mit Windows 10 Und macOS: Eine Einfache Anleitung</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-iomap64-syscall-failures-on-windows-devices/"><u>Fixing IOMap64 SysCall Failures on Windows Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-search-functionality-an-alternative-to-ls/"><u>Mastering Windows' Search Functionality: An Alternative to LS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-your-playtime-optimizing-windows-amd-performance-settings/"><u>Perfect Your Playtime: Optimizing Windows' AMD Performance Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-colorfulness-of-windows-volume-controls/"><u>Reclaim Colorfulness of Windows' Volume Controls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-dreaded-blackout-during-facetime-calls/"><u>Ultimate Guide: Resolving the Dreaded Blackout During FaceTime Calls</u></a></li>
+</ul></div>
+

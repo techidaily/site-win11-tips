@@ -1,7 +1,7 @@
 ---
 title: How to Change the User Profile Folder Name in Windows 11
-date: 2024-10-28T19:49:39.287Z
-updated: 2024-11-01T16:35:45.609Z
+date: 2024-11-03T14:32:45.930Z
+updated: 2024-11-07T12:15:41.267Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 
  Windows, by default, will use the first five characters of your user account name as the profile folder name. If you don’t like the user profile folder name, you can change it using a registry hack. Here, we show you how to change the name of the user profile folder in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But First, Some Potential Issues That May Arise From These Steps
 
  While the registry hack should help you successfully change your user account folder name, it can lead to some complications. For example, some of your Microsoft Store apps, including OneDrive and Outlook, can stop working.
@@ -45,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
  Try to sign out and sign in to your app as a quick fix. If that does not work, you’ll need to move the existing path and define the new correct path after changing the user folder name.
 
  Also, [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and exercise extreme caution while changing your user name folder. Incorrect modification to the Windows Registry can cause serious issues and may require reinstallation of the operating system.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Create a New Administrator User Account in Windows 11
 
@@ -60,29 +60,17 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 ![Windows 11 add user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Windows-11-add-user-account.png)
 4. Click **Other users.** This option is useful to create a local user account without a Microsoft Account.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
-![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
 
 1. Click on **Add a user** **without a Microsoft account.**
 2. Type a name for the user account. Leave the password field empty and click **Next**.
@@ -93,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
  Now, you can log in with your new administrator account. To do this, click **Start**, then click on the user profile name, and select **Sign out.** Next, sign in with the new administrator account.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change the User Profile Folder Name Using the Registry Editor
@@ -117,16 +105,17 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 1. Type a name for your user name, click **OK** and **Apply**.  
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
 4. In the Command Prompt window, type the following command to view **SID (Security Identifier)** for all user accounts:  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `wmic useraccount get name,SID`
 5. Here, note the **SID** for the user account you want to change the user profile folder name. In this case, the **SID** for the username **tashr** is **S-1-5-21-200486166-247335145-1769094253-1001.**
@@ -145,6 +134,14 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 7. Next, press **Win + E** to open File Explorer and navigate to **C:\\Users\\.**  
 ![Rename user profile folder name.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/rename-user-profile-folder-name.png)
 8. Select your **user profile** and press **F2** to rename it. Enter a new name for your user profile (it must match the user name entered in the Registry Editor).
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click away and then click **Continue** to save the changes.
 
  You may sometimes encounter the "You can’t perform this action" error when renaming the folder. This error often occurs if you switch to a different administrator account without signing out from the primary user account. Alternatively, restart your PC and repeat the steps to rename the user profile folder without the error.
@@ -155,25 +152,6 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 
  While you can rename the user account in Windows 11 using the Control Panel, doing so will not change the user profile folder name. You need to modify the ProfileImagePath value in the Registry Editor with a different administrator account. Once done, you can remove the new administrator user account to declutter your login screen.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-breeze-through-snapchat-two-techniques-for-dynamic-lenses/"><u>[New] 2024 Approved Breeze Through Snapchat Two Techniques for Dynamic Lenses</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-lighting-setup-tips-to-make-great-videos/"><u>[New] 2024 Approved Lighting Setup Tips to Make Great Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-benefits-of-high-dynamic-range-in-professional-videography/"><u>[New] 2024 Approved The Benefits of High Dynamic Range in Professional Videography</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-troubleshooting-for-defective-headset-microphones-get-it-working-again/"><u>Comprehensive Troubleshooting for Defective Headset Microphones: Get It Working Again</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/comprehensive-tutorial-using-get-vm-in-powershell-for-in-depth-insights-into-hyper-v-virtual-machines/"><u>Comprehensive Tutorial: Using 'Get-VM' In PowerShell for In-Depth Insights Into Hyper-V Virtual Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decrypt-primes-audio-subtitles-puzzle-in-windows-11-ecosystem/"><u>Decrypt Prime's Audio-Subtitles Puzzle in Windows 11 Ecosystem</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exclusive-roundup-affordable-high-quality-live-streaming-services/"><u>Exclusive Roundup Affordable, High-Quality Live Streaming Services</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/frontiers-in-3d-visualization-tech/"><u>Frontiers in 3D Visualization Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-the-device-hang-error-code-x887a0006/"><u>Handling the Device Hang Error Code: X887A0006</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-mac-content-for-snapchat-compatibility/"><u>In 2024, Mastering Mac Content for Snapchat Compatibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-steps-for-chrome-deployment-on-windows-11/"><u>Key Steps for Chrome Deployment on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rejuvenation-routes-discovering-the-top-8-windows-reboot-methods/"><u>Rejuvenation Routes: Discovering the Top 8 Windows Reboot Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverse-disabled-state-remedy-for-windows-11s-error-code-22/"><u>Reverse Disabled State: Remedy for Windows 11'S Error Code 22</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-dynamic-app-arrangement-by-taskmgr/"><u>Strategies to Prevent Dynamic App Arrangement by TaskMgr</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-printmanagement-msconfig-error-in-windows/"><u>Troubleshooting Missing 'PrintManagement' MSCONFIG Error in Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -181,3 +159,20 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers/"><u>[Updated] 2024 Approved Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-expert-tips-to-disable-youtube-video-preview-immediately/"><u>[Updated] In 2024, Expert Tips to Disable YouTube Video Preview Immediately</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-to-fix-and-prevent-frozen-frames-in-call-of-duty-black-ops-cold-war/"><u>Effective Techniques to Fix and Prevent Frozen Frames in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hidden-pc-folders-exposed-in-windows-11/"><u>Hidden Pc Folders Exposed in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-connect-your-airpods-to-windows/"><u>How to Effortlessly Connect Your AirPods to Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-color-command-center-expert-transformation-techniques/"><u>In 2024, Color Command Center Expert Transformation Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-infinix-hot-40i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Hot 40i Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-hot-40-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix Hot 40 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/must-take-online-classes-on-linkedin-to-boost-your-career/"><u>Must-Take Online Classes on LinkedIn to Boost Your Career</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-comic-reading-a-guide-to-win11-mastery/"><u>Optimizing Comic Reading: A Guide to Win11 Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-old-bios-color-schemes/"><u>Reinvigorating Old BIOS Color Schemes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-windows-operatic-install-with-easy-fixes/"><u>Revive Your Windows Operatic Install with Easy Fixes</u></a></li>
+</ul></div>
+

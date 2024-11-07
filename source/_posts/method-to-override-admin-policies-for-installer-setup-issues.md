@@ -1,7 +1,7 @@
 ---
 title: Method to Override Admin Policies for Installer Setup Issues
-date: 2024-10-25T19:13:10.047Z
-updated: 2024-11-01T18:08:02.714Z
+date: 2024-11-03T01:05:00.498Z
+updated: 2024-11-06T20:34:14.152Z
 tags:
   - windows10
   - windows11
@@ -37,21 +37,7 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![The net user administrator /active:yes command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/net-user-admin-account-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you’ve activated the account, restart your Windows PC. Then sign in to the newly activated admin account and try installing the software you need from there. Disable the built-in administrator account when you’re done with it.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Turn Off UAC (User Account Control)
 
@@ -69,21 +55,16 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 4. Double-click **Windows Installer** to see that service’s property settings.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-window.jpg)
 5. If the service is stopped, click its **Start** button. Or select **Stop** and **Start** to restart Windows Installer.  
-![The Windows Installer Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-installer-properties-service-window.jpg)
-6. Select **Apply** \> **OK** to save the Windows Installer service settings.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Windows Installer Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-installer-properties-service-window.jpg)
+6. Select **Apply** \> **OK** to save the Windows Installer service settings.
 
 ## 5\. Change Group Policy Settings
 
@@ -99,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 ![The Never option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-never-option.jpg)
 7. Select the policy window’s **Apply** and **OK** options.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On top of that, delete software restriction policies. These are the steps for deleting software restriction policies:
 
 1. Double-click **Windows Settings** \> **Security Settings** in Group Policy’s sidebar.
@@ -113,27 +87,56 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 ![delete-software-restriction-policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-software-restriction-policies.jpg)
 3. Click **Yes** to confirm the deletion of software restriction policies.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some users also say they went even further and created a new software restriction policy in Group Policy Editor to resolve the “system administrator has set policies” error. You can try doing that after selecting to delete software restriction policies. Create a new software restriction policy like this:
 
 1. Click **Software Restriction Policies** with the right mouse button to select **New Software Restriction Policies**.  
 ![The New Software Restriction Policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-software-restriction-policies.jpg)
 2. Double-click on **Enforcement**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Software Restriction Policies object types](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enforcement-option.jpg)
 3. Select the **All users except local administrators** radio button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Enforcement Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enforcement-properties-window.jpg)
 4. Click the Enforcement Properties window’s **Apply** and **OK** options.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. [Run Command Prompt with admin rights](https://www.makeuseof.com/windows-run-command-prompt-admin/#:~:text=Press%20the%20Win%20%2B%20R%20on,Command%20Prompt%20with%20administrative%20privileges.) via the search utility.
 6. Enter and execute this command for updating the policy:  
 `gpupdate /force`
 7. Exit the Command Prompt app and restart Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Edit the Installer Registry Key
 
@@ -147,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 5. If you can’t see an **Installer** subkey, right-click the **Windows** key and select **New** \> **Key**. Users who can select an existing **Installer** subkey within the **Windows** key can skip through to step seven.  
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-new-key-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Enter **Installer** for the new key’s name.
 2. Right-click the **Installer** key and select **New** \> **DWORD (32-bit) Value**.
 3. Enter **DisableMSI** to be the title of the new DWORD.  
@@ -162,13 +158,27 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 5. Make sure the **DisableMSI** value is set to **0**.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-edit-dword-window.jpg)
 6. Select **OK** to set the **DisableMSI** value.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Close Registry Editor and restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Your Windows Software Installed
@@ -177,29 +187,6 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
  Users cannot install whatever programs for which that system administrator error arises. The error message suggests this issue is due to some kind of enforced admin settings. You can fix the “system administrator has set policies” error by applying the resolutions below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-conquer-massive-content-views-on-youtube-efficiently/"><u>[Updated] In 2024, Conquer Massive Content Views on YouTube Efficiently</u></a></li>
-<li><a href="https://techtrends.techidaily.com/achieve-high-scores-faster-the-10-essential-play-methods-for-subway-surfers/"><u>Achieve High Scores Faster: The 10 Essential Play Methods for 'Subway Surfers'</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rating-matrimony-the-best-wedding-movies-from-youtube-to-vimeo/"><u>Celebrating Matrimony The Best Wedding Movies From YouTube to Vimeo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creer-des-fichiers-wav-a-partir-de-fichiers-caf-gratuits-online-conversion-avec-movavi/"><u>Créer Des Fichiers WAV À Partir De Fichiers CAF Gratuits - Online Conversion Avec Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-down-waiting-time-editing-boot-sequence-timer-win11/"><u>Cutting Down Waiting Time: Editing Boot Sequence Timer Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effizientes-mp4-komprimieren-mit-movavi-professionelle-tipps-und-tricks/"><u>Effizientes MP4 Komprimieren Mit Movavi: Professionelle Tipps Und Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-raw-to-jpeg-converter-easy-and-fast-with-movavi/"><u>Free Online RAW to JPEG Converter - Easy and Fast with Movavi</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-file-merging-techniques-with-movavi-a-comprehensive-guide/"><u>MP4 File Merging Techniques with Movavi - A Comprehensive Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-go-viral-with-your-ps4-gaming-moments-online-sharing-secrets-revealed-for-2024/"><u>New Go Viral with Your PS4 Gaming Moments Online Sharing Secrets Revealed for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revamping-apple-user-profiles-discover-the-enhanced-features-in-ios-and-ipados-with-the-latest-visionos-updates-zdnet/"><u>Revamping Apple User Profiles: Discover the Enhanced Features in iOS and iPadOS with the Latest VisionOS Updates | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-security-single-antivirus-on-windows-pcs/"><u>Streamline Security: Single Antivirus on Windows PCs</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-poco-c55-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Poco C55 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-15-funny-youtube-channels-to-watch-when-youre-bored/"><u>Top 15 Funny YouTube Channels to Watch When You're Bored</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-divide-and-conquer-a-step-by-step-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>Updated In 2024, Divide and Conquer A Step-by-Step Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/verbessere-effizienz-mit-flexicapture-weniger-aufwand-fur-englischsprachige-non-profit-organisationen/"><u>Verbessere Effizienz Mit FlexiCapture: Weniger Aufwand Für Englischsprachige Non-Profit-Organisationen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-screenshot-save-spaces/"><u>Windows Screenshot Save Spaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726222495571-movavi/"><u>모바일 오디오를 조정하는 도구 - Movavi 스크린 리덕터</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aac-ogg-movavi/"><u>무료 솔루션: AAC OGG 데이터를 바꾸기, 인터넷에서 - Movavi</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -207,3 +194,23 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-apocalypse-arena-top-8-zombie-games-showdown-ranked/"><u>2024 Approved Apocalypse Arena Top 8 Zombie Games Showdown Ranked</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-expert-methods-for-incorporating-links-into-tiktok-bios/"><u>2024 Approved Expert Methods for Incorporating Links Into TikTok Bios</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-you-buy-the-8-most-important-questions-to-ask-about-desktops/"><u>Before You Buy: The 8 Most Important Questions to Ask About Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-winscomrssvdll-crash-during-system-boot-up/"><u>Eliminating WinscomrssvDLL Crash During System Boot-Up</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-reading-experience-6-innovative-apps-using-chatgpt-to-communicate-via-documents-and-pdfs/"><u>Enhance Your Reading Experience: 6 Innovative Apps Using ChatGPT to Communicate via Documents and PDFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-rectifying-code-0x0000004e-on-pcs/"><u>Expert Tips: Rectifying Code 0X0000004E on PCs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-techniques-for-enhancing-obs-studio-edits/"><u>In 2024, Essential Techniques for Enhancing OBS Studio Edits</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-and-organize-win11-desktop-quickly/"><u>Personalize & Organize Win11 Desktop Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-zerosevenzeronine-windows-issue/"><u>Solutions for ZeroSevenZeroNine Windows Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-android-as-webcams-on-windows-11-pcs/"><u>The Ultimate Guide to Android as Webcams on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-potential-the-power-of-microsofts-copilot-key-on-windows-11/"><u>Unleashing Potential: The Power of Microsoft's Copilot Key on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-printer-woes-solutions-here/"><u>Win11 Printer Woes? Solutions Here</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Shifting Window Bar Through Decades (1985-2023)
-date: 2024-10-28T17:54:07.470Z
-updated: 2024-11-01T19:46:22.999Z
+date: 2024-11-04T12:34:43.072Z
+updated: 2024-11-07T00:42:19.871Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
  However, it didn’t include a Start menu or system tray area and wasn’t even present in Windows 3.0\. Program windows minimized to the desktop background area in Windows 3.0\.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Windows 95: The Introduction of the Taskbar
 
  Daniel Oran, a former Microsoft interface designer, is credited with inventing the taskbar and Start menu in 1993\. He suggested Microsoft add a Start menu button to Windows 95 that users could access from a new taskbar. This would make it easier to access everything from a central system menu.
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 ![The Windows 95 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-95-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The original Windows 95 version didn’t have a Quick Launch area. However, a Quick Launch area was on later versions of that OS. This was an area of the taskbar on which users could add program shortcuts. It also included a **Show Desktop** button and Internet Explorer icon.
@@ -72,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
 ![The Windows Vista taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-vista-taskbar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Windows 7: Another Taskbar Overhaul From Microsoft
 
  Microsoft gave the taskbar one of the biggest overhauls in its history for Windows 7\. The most notable change was that minimized apps on Windows 7’s taskbar did not include labels, but users could still clearly identify them with their expanded icons. This significantly reduced the width of taskbar app windows.
@@ -82,21 +96,7 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
 ![A Jump List in Windows 7](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jump-list-in-windows-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Microsoft also swapped the **Show Desktop** button from the Quick Launch area with an Aero Peek alternative at the far right of the taskbar. Clicking the **Aero Peek** button minimizes all windows to the taskbar. Hovering the cursor over that button enables users to view the desktop area without minimizing anything.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Windows 8: The Start Button Goes Missing From the Taskbar
 
@@ -112,27 +112,7 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
 ![The Type here to search button in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/type-here-to-search-button.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Task View was another notable new Windows 10 taskbar feature. Clicking the **Task View** taskbar button brings up virtual desktop options. You can also access file and Edge webpage shortcuts from Task View’s timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Windows 11: The Taskbar Goes Central
 
@@ -142,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
 ![The Windows 11 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-11-taskbar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft also added a new **Widgets** button to Windows 11’s taskbar. The Widgets Board is one of the biggest new features in Windows 11 on which you can pin weather, sport, Game Pass, traffic, entertainment, and other widgets that provide info and content. The Widgets feature also displays a weather icon and description on the taskbar.
 
 ![The Widgets button on Windows 11's taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/widgets-button.jpg)
@@ -150,34 +137,18 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
  The taskbar’s right-click menu has been considerably trimmed down in Microsoft's latest desktop OS, leaving it without many options previously available.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where Would Windows Be Without Its Taskbar?
 
  It’s hard to imagine what Windows would be like without the taskbar, which in some respects is even more important than the Start menu. The introduction of the taskbar and its connected Start menu in 1995 transformed the Windows OS. It has been the always-visible user interface feature of Windows ever since for software multitasking, accessing important OS features and apps, and checking the date and time.
 
  The taskbar has been a part and parcel of Windows for more than 25 years, and over that time period, Microsoft has added and removed features to and from the taskbar. This is the history of the Windows taskbar from its inception up to 2023\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-key-methods-to-incorporate-facebook-live-into-website-designs/"><u>[Updated] Key Methods to Incorporate Facebook Live Into Website Designs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-influence-on-the-future-of-employment/"><u>AI's Influence on the Future of Employment</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ehensive-directory-extracting-yt-template-videos-online-for-2024/"><u>Comprehensive Directory Extracting YT Template Videos Online for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connecting-your-computer-and-tv-with-hdmi-a-simple-how-to-approach/"><u>Connecting Your Computer and TV with HDMI - A Simple How-To Approach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-the-0x800704cf-error-on-windows-devices/"><u>Eliminating the 0X800704CF Error on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/five-fundamental-techniques-to-rectify-login-conflicts-on-windows-11/"><u>Five Fundamental Techniques to Rectify Login Conflicts on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-does-losing-windows-11-taskbar-chat-affect-you/"><u>How Does Losing Windows 11 Taskbar Chat Affect You?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-boost-your-typing-speed-with-typingaid/"><u>How to Boost Your Typing Speed With TypingAid</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-windows-memory-not-recorded-problems/"><u>How to Overcome Windows Memory Not Recorded Problems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-permanently-remove-your-viber-profile-from-an-iphone-a-step-by-step-guide/"><u>How to Permanently Remove Your Viber Profile From an iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-0x0000004e-fault-in-windows-10-and-11/"><u>Overcoming 0X0000004E Fault in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-missing-sections-of-navigation-view/"><u>Remedying Missing Sections of Navigation View</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionize-your-drive-the-intuitive-ix-escort-radar-detector-review/"><u>Revolutionize Your Drive: The Intuitive iX Escort Radar Detector Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-avoid-high-cpu-load-during-gameplay-on-pc/"><u>Strategies to Avoid High CPU Load During Gameplay on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tweak-enhance-f-keys-performance-in-windows-11/"><u>Tweak: Enhance F-Keys' Performance in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/valorant-performance-optimization-eliminate-stutters-and-increase-frame-rates/"><u>Valorant Performance Optimization: Eliminate Stutters & Increase Frame Rates</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -186,3 +157,25 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-how-to-add-text-to-photos-on-windows-and-mac/"><u>[New] 2024 Approved How to Add Text to Photos on Windows and Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-premium-sound-collection-no-cost-top-luts-listed-here/"><u>[New] Premium Sound Collection No-Cost, Top LUTs Listed Here</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-enhance-your-media-experience-mastering-hdr-videos-with-windows/"><u>2024 Approved Enhance Your Media Experience Mastering HDR Videos with Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speedy-shifts-in-powerpoint-video-speed/"><u>2024 Approved Speedy Shifts in PowerPoint Video Speed</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-asus-rog-phone-7-ultimate-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Asus ROG Phone 7 Ultimate in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-back-up-saved-data-for-games-installed-with-epic-games-launcher/"><u>How to Back Up Saved Data for Games Installed With Epic Games Launcher</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-excellence-the-best-camera-lenses/"><u>In 2024, Capturing Excellence The Best Camera Lenses</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installation-wizard-for-windows-11-arm-using-iso-file/"><u>Installation Wizard for Windows 11 ARM Using ISO File</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-future-ai-and-windows-evolution/"><u>Navigating the Future: AI and Windows Evolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-game-crashes-in-wolfenstein-ii-resolving-write-error-for-crash-files/"><u>Overcoming Game Crashes in Wolfenstein II - Resolving Write Error for Crash Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-issues-with-windows-1011s-fixing-tools/"><u>Overcoming Issues with Windows 10/11'S Fixing Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-definition-quest-mastering-win11s-lexicon/"><u>Quick Definition Quest: Mastering Win11's Lexicon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-integrity-to-explorers-tab-order/"><u>Restoring Integrity to Explorer's Tab Order</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-method-for-self-cleaning-old-files-in-windows/"><u>Step-by-Step Method for Self-Cleaning Old Files in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-windows-c0000022-failure/"><u>Unraveling the Mystery of Window's C0000022 Failure</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Delving Into Digital: Accessing Object Secrets"
-date: 2024-10-29T19:03:11.526Z
-updated: 2024-11-01T20:06:32.377Z
+date: 2024-10-30T16:49:57.005Z
+updated: 2024-11-06T22:08:06.110Z
 tags:
   - windows10
   - windows11
@@ -39,17 +39,10 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using the Mouse and Keyboard Shortcut
@@ -58,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -82,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Using the CMD Tool
 
  The above-mentioned shortcuts launch the Properties window which shows the GUI version of File Properties. But, you can also view the properties of a folder or file using the command prompt on Windows. Repeat the following steps to view file properties using the command prompt utility:
@@ -101,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
@@ -116,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 3. Replace “**File Path** ” with the actual storage location like you did in the fifth method.  
 ![View File Properties using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-powershell.jpg)
 4. Press the**Enter** key to execute the command.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
 
@@ -136,24 +136,24 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-quick-and-easy-online-photo-cropping-hacks/"><u>[New] Quick and Easy Online Photo Cropping Hacks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unique-tiktok-fp-concepts-for-eye-catching-profiles-for-2024/"><u>[New] Unique TikTok FP Concepts for Eye-Catching Profiles for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-eight-in-one-recorders-free-fast-and-flexible-for-android-users/"><u>[Updated] In 2024, Eight-in-One Recorders Free, Fast, and Flexible for Android Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-upgrade-windows-storage-safely/"><u>Efficient Ways to Upgrade Windows Storage Safely</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-uot-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .uot file document with Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-deciphering-your-pathway-to-youtubes-maker-land/"><u>In 2024, Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-optimal-6-secure-virtual-communication-tools-for-smbs/"><u>In 2024, Optimal 6 Secure Virtual Communication Tools for SMBs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-recording-video-games-on-your-ps4-console/"><u>Mastering the Art of Recording Video Games on Your PS4 Console</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-brightness-limitation-strategies-shared/"><u>Overcoming Windows 11 Brightness Limitation: Strategies Shared</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/reaching-new-heights-in-english-with-mondly/"><u>Reaching New Heights in English with Mondly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-jittery-mouse-on-a-windows-desktop/"><u>Rectifying Jittery Mouse on a Windows Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-the-essential-drag-and-drop-in-win11/"><u>Revive the Essential Drag-and-Drop in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-shadowed-screens-unveil-windows-1011-panels/"><u>Reviving Shadowed Screens: Unveil Windows 10/11 Panels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguard-your-system-booting-into-windows-11s-safe-mode/"><u>Safeguard Your System: Booting Into Windows 11'S Safe Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-settle-unavailable-mail-in-your-windows-11-mail-client/"><u>Swiftly Settle 'Unavailable Mail' In Your Windows 11 Mail Client</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-snap-in-errors-in-mmc-on-windows/"><u>Troubleshooting: Resolving Snap-In Errors in MMC on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-escalating-threats-top-8-explanations-of-generative-ais-security-challenges/"><u>Understanding the Escalating Threats: Top 8 Explanations of Generative AI's Security Challenges</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrading-the-connectivity-a-user-friendly-guide-to-changing-samsung-phone-usb-drivers/"><u>Upgrading the Connectivity: A User-Friendly Guide to Changing Samsung Phone USB Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11s-new-backup-a-technical-examination/"><u>Windows 11'S New Backup: A Technical Examination</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-detailed-exploration-of-the-background-eraser-feature-in-photoshop/"><u>[New] Detailed Exploration of the Background Eraser Feature in Photoshop</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-making-the-most-of-your-phones-camera-in-video-production/"><u>[Updated] Making the Most of Your Phone's Camera in Video Production</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-sharp-smudge-free-shooting-with-gopro/"><u>[Updated] Sharp, Smudge-Free Shooting with GoPro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategic-endings-keeping-viewers-engaged-on-yt/"><u>[Updated] Strategic Endings Keeping Viewers Engaged on YT</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-speedy-tempo-change-software-showcase-mobile-pc/"><u>2024 Approved Speedy Tempo Change Software Showcase (Mobile, PC)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlock-growth-potential-with-savvy-analysis-of-youtube-data/"><u>2024 Approved Unlock Growth Potential with Savvy Analysis of YouTube Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-purpose-of-x-marked-folders-in-windows/"><u>Exploring: The Purpose of X-Marked Folders in Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/f1-2020-and-pc-woes-heres-how-to-stop-those-unexpected-game-crashes/"><u>F1 2020 and PC Woes? Here's How to Stop Those Unexpected Game Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-disabling-auto-start-and-update-searches-by-discord/"><u>Guide to Disabling Auto-Start & Update Searches by Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-software-shortcuts-to-windows-11s-desktop-context-menu/"><u>How to Add Software Shortcuts to Windows 11’S Desktop Context Menu</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huawei-powered-first-ever-consumer-ssds-hit-shelves-meet-kitstores-premium-xtreme-series-with-ample-storage-up-to-4tb/"><u>Huawei-Powered First Ever Consumer SSDs Hit Shelves - Meet KitStore's Premium Xtreme Series with Ample Storage up to 4TB</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-nvidia-settings-are-unavailable-window/"><u>Overcoming Error: Nvidia Settings Are Unavailable Window</u></a></li>
+<li><a href="https://facebook.techidaily.com/overlooked-technology-moments-heres-what-you-missed-out/"><u>Overlooked Technology Moments, Here's What You Missed Out!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-paste-functionality-in-common-web-browsers/"><u>Restoring Paste Functionality in Common Web Browsers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-unrequested-search-menu-opens-in-win11/"><u>Stopping Unrequested Search Menu Opens in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-reset-strategies-for-windows-the-essential-guide-to-8/"><u>System Reset Strategies for Windows: The Essential Guide to 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-artistic-potential-through-windows-generate-delete/"><u>Unleashing Artistic Potential Through Windows' Generate Delete</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-window-of-updated-widget-configuration-in-win11/"><u>Unveiling Window of Updated Widget Configuration in Win11</u></a></li>
 </ul></div>
 

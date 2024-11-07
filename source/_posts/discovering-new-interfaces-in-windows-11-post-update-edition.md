@@ -1,7 +1,7 @@
 ---
 title: Discovering New Interfaces in Windows 11 Post-Update Edition
-date: 2024-10-26T17:01:39.057Z
-updated: 2024-11-01T17:17:52.035Z
+date: 2024-11-01T20:09:15.260Z
+updated: 2024-11-06T22:16:47.816Z
 tags:
   - windows10
   - windows11
@@ -36,40 +36,13 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  At the time of writing we’re still waiting for Microsoft to roll out the Windows 11 23H2 enablement package and ISO. However, Windows 11 23H2 ISOs have been spotted on Microsoft servers. That enablement package will change the Windows build version when installed and also add all the features below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Windows Copilot
 
  Windows Copilot is the replacement virtual assistant for the deprecated Cortana. So, you can ask Windows Copilot questions about many things, much the same as Cortana. For example, you could utilize Windows Copilot as a calculator by asking it to do sums. Or check the weather by asking Windows Copilot what the weather forecast is for your location.
 
 ![The Copilot virtual assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/copilot-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a replacement for an old Windows feature, some users might not consider Windows Copilot to be new. However, it is a sophisticated AI tool that can do more than Cortana. For example, Windows Copilot has options for summarizing, rewriting, and explaining documents. Plus, you can select different conversational style options in Copilot.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. A Cloud Backup Tool
 
@@ -78,19 +51,26 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 ![The Windows Backup app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-backup-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This feature can come in handy for backing up and restoring files and settings when migrating from one Windows 11 PC to another. Check out our [guide to the Windows Backup feature](https://www.makeuseof.com/windows-11-new-backup-feature-guide/) for details about how to utilize that app.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. RGB Lighting Settings
 
@@ -117,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  The Moment 4 update extended Windows 11’s archive support, which was previously limited to ZIP. You can now extract RAR, TAR, and 7Z archives with Windows 11’s extraction utility. However, please note that you can’t create those archive formats with Windows 11’s archive utility at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. An Updated Paint App
 
  Windows 11 now has an updated Paint app. The revamped Paint app includes an option for removing backgrounds from images. Clicking **Remove background** erases the backdrop from a picture.
@@ -132,40 +119,32 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 ![The new sound output options in Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/volume-mixer-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Plus, the Quick Settings panel also includes new **Output device** and **Spatial sound** settings. The **Output device** option is especially handy to have more directly accessible. You can access all of these new settings by clicking the button on the right side of the Quick Settings volume bar.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Check Out Windows 11's New Features
 
  Those are just some new features Windows 11 users have been treated to since Microsoft released the Moment 4 update. That update has also tweaked the interface designs of File Explorer and Settings and added new features to the pre-installed Photos, Microsoft Store, Notepad, Clipchamp, and Snipping Tool apps.
 
  Microsoft has rolled out a slew of new features for Windows 11\. Contrary to expectations, an optional Moment 4 update added many of the new features the 23H2 build update was expected to introduce to Windows 11\. Moment 4 dropped more than 100 new features for users to discover. These are some of the more noteworthy.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-crafting-perfect-tiktok-captions-the-ultimate-20-guide-for-2024/"><u>[New] Crafting Perfect TikTok Captions The Ultimate 20 Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-decoding-facebooks-video-ratio-standards-for-excellence/"><u>[New] In 2024, Decoding Facebook's Video Ratio Standards for Excellence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avii-avi-movavi/"><u>免費線上改成 AviI AVI 動畫片 - 運用 Movavi 工具</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/creative-setbacks-sudden-content-expulsion/"><u>Creative Setbacks Sudden Content Expulsion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargue-la-aplicacion-gratuita-para-convertir-archivos-de-audio-mp3-a-m4r-con-facilidad/"><u>Descargue La Aplicación Gratuita Para Convertir Archivos De Audio: MP3 a M4R Con Facilidad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-ultimate-collection-of-10-costless-mp3-transformers-for-apple-devices/"><u>Discover the Ultimate Collection of 10 Costless MP3 Transformers for Apple Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-de-conversor-de-video-online-gratuito-do-movavi-versao-para-arquivos-m1v/"><u>Download De Conversor De Vídeo Online Gratuito Do Movavi - Versão Para Arquivos M1V</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-13-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Tecno Spark 10 5G Phone without PIN</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/los-mejores-8-lugares-seguro-y-legales-para-disfrutar-de-peliculas-en-directo-con-movavi/"><u>Los Mejores 8 Lugares Seguro Y Legales Para Disfrutar De Películas en Directo Con Movavi</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mastering-the-art-of-screen-recording-best-software-guide/"><u>Mastering the Art of Screen Recording Best Software Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/quick-linking-sending-video-content-from-fb-to-whatsapp/"><u>Quick Linking Sending Video Content From FB to WhatsApp</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/top-10-iconic-song-selections-for-inspiring-short-film-scenes/"><u>Top 10 Iconic Song Selections for Inspiring Short Film Scenes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-27-voice-to-text-software-solutions-an-in-depth-review-by-movavi/"><u>Top 27 Voice-to-Text Software Solutions : An In-Depth Review by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforme-sus-musicas-y-peliculas-de-formato-aiff-en-wmv-facilmente-con-nuestro-guia-completa-de-conversion-libre-movavi-explicado/"><u>Transforme Sus Músicas Y Películas De Formato AIFF en WMV Fácilmente Con Nuestro Guía Completa De Conversión Libre: Movavi Explicado</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/uninterrupted-victories-discovering-the-perfectly-paired-apc-gaming-ups-unit-review/"><u>Uninterrupted Victories: Discovering the Perfectly Paired APC Gaming UPS Unit Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wavmovavi-ai/"><u>オンラインでのWAV音声ファイルの自由な変換：Movavi AIツールの使い方</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +153,24 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unlocking-macscreens-how-to-record-and-save-immediately/"><u>[New] 2024 Approved Unlocking MacScreens How to Record and Save Immediately</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-enhance-images-canons-paid-and-free-lut-access/"><u>[Updated] Enhance Images Canon's Paid & Free LUT Access</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-time-warp-in-video-editing/"><u>[Updated] Mastering Time Warp in Video Editing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-tricks-for-smooth-auditory-paths/"><u>[Updated] Top Tricks for Smooth Auditory Paths</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-concealed-context-commands-windows-edition/"><u>Crafting Concealed Context Commands, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-leveraging-windows-11s-start-screen/"><u>Essential Techniques for Leveraging Windows 11'S Start Screen</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-c53-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-x8b-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor X8b Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-your-systems-inner-workings/"><u>Initiating Your System's Inner Workings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-gaming-experience-on-windows-hardware/"><u>Optimizing Your Gaming Experience on Windows Hardware</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mline-your-soundtracks-the-best-free-youtube-to-wav-tools/"><u>Streamline Your Soundtracks The Best Free YouTube to WAV Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-pc-display-rgb-control-guide-for-win11/"><u>Tailoring Your PC Display: RGB Control Guide for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unite-windows-devices-for-streamlined-transcoding-operations-using-tdarr/"><u>Unite Windows Devices for Streamlined Transcoding Operations Using Tdarr</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728468663878-windows-10/"><u>Windows 10 逐步複製与差分备份的高效方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-chronology-continuity-transition-with-a-windows-7-product-key/"><u>Windows Chronology Continuity: Transition with a Windows 7 Product Key</u></a></li>
+</ul></div>
+

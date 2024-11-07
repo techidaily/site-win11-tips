@@ -1,7 +1,7 @@
 ---
 title: Correcting Yellowed Displays via Windows Settings
-date: 2024-09-11T01:20:46.663Z
-updated: 2024-09-12T01:20:46.663Z
+date: 2024-11-06T00:44:25.696Z
+updated: 2024-11-06T17:03:40.821Z
 tags:
   - windows10
   - windows11
@@ -28,61 +28,27 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 
  One of the primary reasons behind a yellow tint on your laptop screen can be hardware-related problems. If components of the screen or the display cable are faulty or damaged, they can affect color rendering and lead to discoloration issues.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 2\. Software Settings
 
  Sometimes, it's the software settings on your laptop that are responsible for the yellow tint. You might have [enabled the Night Light feature](https://www.makeuseof.com/enable-night-light-windows-10-11/), for instance, that can adjust the color temperature of your screen to reduce blue light exposure but also inadvertently cause a yellowish hue.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 3\. Graphics Driver Problems
 
  Your laptop's graphics driver plays a pivotal role in rendering colors on the screen. Outdated or corrupted graphics drivers can lead to display issues, including the dreaded yellow tint.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 4\. Color Profiles
 
@@ -92,49 +58,16 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 
  If your laptop's display calibration is misconfigured, it can impact color accuracy and result in a yellow tint. Calibration ensures that the colors displayed on the screen match industry standards.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Fix the Yellow Tint on a Laptop Screen on Windows
 
  Now that you know the causes, it's time to dig into the fixes.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 1\. Fix Hardware Issues (Faulty Screen, Faulty Display Cable)
 
@@ -143,20 +76,6 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
  If you notice any physical damage, such as a cracked or damaged screen, it's best to consult a professional technician or your laptop's manufacturer for a screen replacement.
 
  If there is no visible screen damage, turn your attention to the display cable. Ensure that it is securely connected to both the screen and the laptop's motherboard. A loose or damaged display cable can lead to display problems, including color irregularities. Carefully reattach the cable to ensure a secure connection.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 2\. Turn Off the Night Light
 
@@ -172,20 +91,6 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 5. In the "Display" settings, locate the **Night Light** feature and toggle the switch to the "Off" position. This action will disable the Night Light feature and revert your display to its default color temperature settings.  
 ![Night Light toggle button under the Windows Display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-night-light.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  With the Night Light feature disabled, check if the yellow tint issue persists. If the problem is resolved, you've successfully identified and resolved the cause.
 
 ### 3\. Update Graphics Driver
@@ -194,19 +99,12 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 
  Once the driver update is complete, restart your laptop and check if the yellow tint issue has been resolved. Updating the graphics driver can often rectify color-related problems.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 4\. Add a New Color Profile
 
@@ -222,25 +120,12 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 5. Under the "Advanced display settings" window, select the **Display adapter properties for Display 1**.  
 ![Display adapter properties option under Advanced Display Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/display-adapter-properties-option.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 1. Under the properties window, switch to the **Color Management** tab and select the **Color Management** option.  
 ![Color Management option under the Display properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/color-management-option.jpg)
@@ -248,45 +133,26 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 ![add button to include a new Color Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-button-to-include-a-new-color-profile.jpg)
 3. Next, click the **Browse** button and choose one of the ICC profiles you downloaded and believe will resolve the yellow tint issue.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![browse and select the Color Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-the-color-profile.jpg)
 4. After adding the color profile, select it and click the **Set as Default Profile** button.  
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Set as Default Profile button to make newly added profile as default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/set-new-profile-as-default.jpg)
 5. Check if the yellow tint is fixed. If not, add another profile and set it as default.
 
  Adding a new color profile can help correct color representation on your laptop screen. Experiment with different profiles until you find one that eliminates the yellow tint.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 5\. Calibrate the Display Color
 
@@ -298,48 +164,30 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 2. Maximize the window to full screen if the whole screen is yellowish.  
 ![Display Color Calibration Welcome Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/display-color-calibration.jpg)
 3. Now follow the on-screen instructions to fix the yellow tint on the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Move the slider to adjust the screen gamma if that is the cause of the problem.  
 ![Adjust gamma window with a slider to set gamma level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/adjust-gamma.jpg)
 5. Next, adjust the brightness and contrast as per your preference.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![How to adjust brightness window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/adjust-the-brightness.jpg)
 6. Finally, compare your current calibration with the previous one and check if the yellow tint is gone with this new calibration.  
 ![compare with previous calibration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/compare-with-previous-calibration.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Calibrating your display ensures that colors are accurately represented, which can help eliminate color irregularities like the yellow tint.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 6\. Seek Professional Assistance
 
@@ -361,11 +209,31 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 
  To fix the yellow tint on your laptop screen, it is important to explore the common causes behind it and learn about the different solutions that can be applied.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-time-management-the-art-of-planning-zoom-meetings/"><u>[New] 2024 Approved Time Management The Art of Planning Zoom Meetings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-android-tablet-reviews-surprising-non-tcl-non-samsung-brands-featured-by-zdnet/"><u>Budget-Friendly Android Tablet Reviews: Surprising Non-TCL, Non-Samsung Brands Featured by ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dji-gopro-or-instax360-make-your-choice/"><u>DJi, GoPro, or InstaX360? Make Your Choice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-eliminate-disk-read-problems-in-windows/"><u>Guide to Eliminate Disk Read Problems in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-turn-off-captions-for-a-more-immersive-experience-on-amazon-prime/"><u>Guide: Turn Off Captions for a More Immersive Experience on Amazon Prime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-failed-connections-with-secure-vpn-access/"><u>How to Mend Failed Connections with Secure VPN Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-mouse-acceleration-in-windows-10-and-11/"><u>How to Turn Off Mouse Acceleration in Windows 10 & 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-break-free-from-os-limits-running-windows-and-mac-video-editors-on-chromebook/"><u>In 2024, Break Free From OS Limits Running Windows and Mac Video Editors on Chromebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/six-steps-to-a-color-rich-photographic-world-for-2024/"><u>Six Steps to a Color-Rich Photographic World for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/solved-reviving-your-iphone-15-or-14-post-data-migration-issues/"><u>Solved: Reviving Your iPhone 15 or 14 Post-Data Migration Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-iomap64sys-blue-screen-errors-on-windows-os/"><u>Solving IOMap64.sys Blue Screen Errors on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-insights-for-free-players-on-old-chessboard-mastery/"><u>Strategic Insights for Free-Players on Old Chessboard Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-experts-approach-to-nullify-secure-questions-in-win-11/"><u>The Expert's Approach to Nullify Secure Questions in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-now-webcam-and-mic-functionality-check/"><u>Troubleshoot Now: Webcam & Mic Functionality Check</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-correcting-windows-update-hiccup-error-0x800f080a/"><u>Unraveling & Correcting Window's Update Hiccup Error 0X800f080a</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-combine-videos-without-restrictions-7-best-watermark-free-tools-for-2024/"><u>Updated Combine Videos Without Restrictions 7 Best Watermark-Free Tools for 2024</u></a></li>
+</ul></div>
+

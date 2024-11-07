@@ -1,7 +1,7 @@
 ---
 title: Fixing the Erroneous 0xA00F429F Code in Camera App
-date: 2024-10-26T19:43:02.949Z
-updated: 2024-11-01T16:03:18.092Z
+date: 2024-10-31T07:32:21.912Z
+updated: 2024-11-07T02:20:54.681Z
 tags:
   - windows10
   - windows11
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 7. Press the Windows Camera Frame Server service’s**Apply** button.
 8. Click**OK** to exit.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Edit the Platform Registry Key
 
  Another confirmed fix for error 0xA00F429F is to edit the**Platform** registry key by creating a new EnableFrameServerMode DWORD. If you’re not entirely comfortable with editing the registry, you can[create a registry backup in Windows](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before proceeding with this potential solution. Just make sure you tweak the registry exactly as follows:
@@ -73,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 4. Then input**EnableFrameServerMode** in the DWORD’s name box.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Double-click the**EnableFrameServerMode** DWORD.
@@ -85,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 7. Restart Windows before opening Windows Camera again.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset the Camera App
@@ -107,18 +100,31 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 ![The Allowed apps through firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allowed-firewall-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The same also applies to users who’ve installed third-party firewalls or antivirus software packages that include them. Check the app permission list for any third-party firewall, and select to permit Windows Camera through it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Disable the Camera Shields in Third-Party Antivirus Software Packages
 
  Also, note that some antivirus software packages have camera shields that prevent apps from accessing webcams. For example, Avast Premium Security is one such antivirus tool that incorporates a Webcam Shield feature. If you have installed third-party antivirus software, check to see if it has such a camera shield and disable it if it’s enabled.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Update Your Webcam’s Driver
 
@@ -126,7 +132,21 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 ![The Driver Booster window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/driver-booster-software.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The easiest way to check for outdated device drivers and update them on your PC is to utilize driver updater software. Such apps will scan your PC and tell you if your camera driver needs updating. Our[Driver Booster guide](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) includes instructions for updating drivers with that software. Or you can utilize any of the free alternatives in our[best free driver updaters post](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reinstall Windows Camera App
 
@@ -142,26 +162,6 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 6. Select**Open in Microsoft Store** inside the little dialog box that appears.  
 ![The Windows Camera app page in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-camera-app-page.jpg)
 7. Click**Get in the MS Store** app to reinstall the Camera app.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Record With Your Camera App Again on Windows
 
@@ -182,24 +182,24 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capturezone-win-10s-best-recorder-for-2024/"><u>[New] CaptureZone Win 10'S Best Recorder for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-fb-video-sizes-and-proportions/"><u>[New] FB Video Sizes and Proportions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerated-artistry-instant-collage-creation-on-fb/"><u>2024 Approved Accelerated Artistry Instant Collage Creation on FB</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-mastery-techniques-for-windows-users/"><u>2024 Approved Audio Mastery Techniques for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviflacaac/"><u>如何使用MOVAVI將FLAC格式自由轉換成AAC - 線上無縫服務</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-learning-portal/"><u>学びを強化する! Movavi Learning Portal - 教育の中心であなたをサポート</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pbmpngmovavi/"><u>移動魷魚(PBM)成PNG便攜轉換器：使用Movavi免費網上服務 - 高效變更影像格式</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activate-movavi-video-converter-at-no-cost-ultimate-guide/"><u>Activate Movavi Video Converter at No Cost: Ultimate Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/archivage-des-films-sur-vhs-une-solution-digitale-passionnelle-chez-movavi/"><u>Archivage Des Films Sur VHS : Une Solution Digitale Passionnelle Chez Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comment-convertir-votre-oma-en-une-version-en-ligne-gratuite-avec-movavi-les-etapes-cles/"><u>Comment Convertir Votre OMA en Une Version en Ligne Gratuite Avec Movavi : Les Étapes Clés</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-diagnosing-and-solving-normalizdll-not-detected-errors-on-your-computer/"><u>Easy Steps for Diagnosing and Solving Normaliz.dll Not Detected Errors on Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effektieve-videoclips-verkorte-nieuwaardigheid-experimenteer-met-movavis-sterke-verslenginstrumente/"><u>Effektieve Videoclips Verkorte Nieuwaardigheid | Experimenteer Met Movavi's Sterke Verslenginstrumente</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-successfully-boot-up-modern-warfare-3-mw3-without-any-hitches-or-failures/"><u>How to Successfully Boot Up Modern Warfare 3 (MW3) Without Any Hitches or Failures</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-a-tweet-a-day-your-2023-video-journey-begins-here/"><u>In 2024, A Tweet a Day - Your 2023 Video Journey Begins Here</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-frozen-frontiers-highlights-from-beijings-winter-games/"><u>In 2024, Frozen Frontiers Highlights From Beijing's Winter Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-video-converter-italiano-per-pc-e-mac-installazione-gratuita-con-codice-attivazione/"><u>Movavi Video Converter Italiano per PC E Mac - Installazione Gratuita Con Codice Attivazione</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformacion-gratuita-de-archivos-mpeg-a-aiff-tecnicas-y-consejos-con-movavi/"><u>Transformación Gratuita De Archivos MPEG a AIFF: Técnicas Y Consejos Con Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-finding-your-compatible-roccat-mouse-drivers-online-free/"><u>Ultimate Guide to Finding Your Compatible Roccat Mouse Drivers Online – Free!</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-visual-branding-in-youtubes-design-tips/"><u>[New] 2024 Approved Visual Branding in YouTubes Design Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-complete-youtube-editors-toolkit-for-post-publish-adjustments-for-2024/"><u>[New] The Complete YouTube Editor's Toolkit for Post-Publish Adjustments for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-30-groundbre-writers-making-metaverse-memes-thrive/"><u>2024 Approved 30 Groundbre Writers Making Metaverse Memes Thrive</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androidios-montages-top-8-tools-for-dynamic-media-blends/"><u>2024 Approved Android/iOS Montages Top 8 Tools for Dynamic Media Blends</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-oppo-reno-11-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Oppo Reno 11 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-chromecast-and-google-tv-guide-a-fresh-alternative-to-firetv/"><u>A Comprehensive Chromecast and Google TV Guide - A Fresh Alternative to FireTV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-couldnt-be-written-error-on-windows/"><u>Combatting Couldn’t Be Written Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correct-troubleshoot-and-repair-shortcuts-win-11-style/"><u>Correct: Troubleshoot and Repair Shortcuts, Win 11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-complexities-of-windows-iscsi-initiator/"><u>Decoding the Complexities of Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-camera-error-0xa00f425d/"><u>Eradicating Window's Camera Error: 0XA00F425D</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-past-intel-hardware-requirement-shortfalls/"><u>Guiding Users Past Intel Hardware Requirement Shortfalls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unblock-the-microsoft-store-app-in-windows-11/"><u>How to Unblock the Microsoft Store App in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-xiaomi-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Xiaomi Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-vr-gloves-to-check-out/"><u>In 2024, Top VR Gloves to Check Out</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-moves-in-sw-quick-fixed-for-windows-mouse-lag-woes/"><u>Master Moves in SW: Quick Fixed for Windows Mouse Lag Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preserving-calculators-zenith-in-windows-settings/"><u>Preserving Calculator's Zenith in Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-disabling-windows-11-alerts/"><u>Speed Up Disabling Windows 11 Alerts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/warp-in-media-youtube-content-upside-down-for-2024/"><u>Time Warp in Media YouTube Content Upside Down for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-pcs-power-a-guide-to-activating-the-stealthy-find-bar/"><u>Unlocking Your PC's Power: A Guide to Activating the Stealthy Find Bar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Sticky Notes Access Made Simple
-date: 2024-10-29T17:29:59.656Z
-updated: 2024-11-01T17:34:52.067Z
+date: 2024-10-31T11:59:48.326Z
+updated: 2024-11-07T08:54:06.850Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
  Now that you know what a sticky note is, let's see how to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. How to Open Sticky Notes via Windows Search
 
  It's likely that you have used the search function on Windows to find a file or launch an application. But did you know that Sticky Notes can also be opened using Windows Search? Here's how to do this:
@@ -43,25 +50,11 @@ To open Sticky Notes using the Windows Search tool, do the following:
 ![Open Sticky Notes Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Windows-Search.jpg)
 2. Then type "Sticky Notes" into the search bar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. The Sticky Notes app should appear as a search result. Click on it to open the app.
 
  Once the Sticky Notes app is open, you will be able to see all of your saved notes. You can also start creating new notes by clicking on the "+" sign at the top of the window. To edit an existing note, simply click on it and start typing.
 
  If you're looking for a quick and easy way to create and manage your notes, give Windows Search a try!
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. How to Open Sticky Notes Using Start Menu
 
@@ -72,6 +65,20 @@ To open Sticky Notes from the Start Menu, follow these steps:
 1. Click on the**Start** button and then select**All apps** from the menu in the upper right corner.  
 ![Open Sticky Notes Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Run-Command.jpg)
 2. Scroll down until you see**Sticky Notes** , then click to open it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Open the Sticky Notes With a Desktop Shortcut
 
@@ -85,13 +92,6 @@ To open Sticky Notes from the Start Menu, follow these steps:
 
  As a result, you can create a shortcut to the application on your desktop that will open with a single click.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. How to Pin Sticky Notes to the Taskbar
 
  If you're looking for an easy way to keep track of your sticky notes, try pinning them to the taskbar in Windows 11\. Here's how to do this:
@@ -100,14 +100,14 @@ To open Sticky Notes from the Start Menu, follow these steps:
 2. Right-click on Sticky Notes and select**Pin to taskbar** .  
 ![How to Pin Sticky Notes to the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/How-to-Pin-Sticky-Notes-to-the-Taskbar.jpg)
 
-Now you can access your sticky notes right from the taskbar.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Now you can access your sticky notes right from the taskbar.
 
 ## Easy Access to Sticky Notes
 
@@ -128,17 +128,16 @@ Now you can access your sticky notes right from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-harnessing-facebooks-potential-for-maximum-revenue/"><u>[New] In 2024, Harnessing Facebook's Potential for Maximum Revenue</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-melody-manual-grab-listen-and-scrutinize-songs/"><u>[New] Melody Manual Grab, Listen & Scrutinize Songs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pro-tips-configuring-stopwatches-in-obs-studio/"><u>[Updated] 2024 Approved Pro Tips Configuring Stopwatches in OBS Studio</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-break-barriers-enhancing-live-social-media-collaborations/"><u>2024 Approved Break Barriers Enhancing Live Social Media Collaborations</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-libertycam-studio-a-user-friendly-review/"><u>2024 Approved LibertyCam Studio A User-Friendly Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-a-strong-login-experience-windows-hello/"><u>Creating a Strong Login Experience: Windows Hello</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/drive-cleanup-with-care-effective-strategies-for-windows-11-without-trashing-files-max-156-chars/"><u>Drive Cleanup with Care: Effective Strategies for Windows 11 Without Trashing Files (Max 156 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-network-drive-view-on-smartphones/"><u>Enabling Network Drive View on Smartphones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/how-to-record-and-edit-video-using-the-adobe-connect-for-2024/"><u>How to Record and Edit Video Using the Adobe Connect for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level/"><u>In 2024, From No Cash to YouTube Wealth Unlocking Earnings at the 500 Subs Level</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-steams-e84-complications/"><u>Navigate Through Steam's E84 Complications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/silicon-witnesses-the-comic-side-of-computing-history-and-cybersecurity/"><u>Silicon Witnesses: The Comic Side of Computing History & Cybersecurity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-asus-unleashed-the-mg28uq-review-of-high-definition-vision/"><u>2024 Approved ASUS Unleashed - The MG28UQ Review of High-Definition Vision</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-productivity-using-chatgpts-time-management-strategies-heres-how/"><u>Boost Productivity Using ChatGPT's Time Management Strategies – Here’s How</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-youtube-videos-hands-free-with-leading-chrome-web-saver-apps/"><u>Download YouTube Videos Hands-Free with Leading Chrome Web Saver Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-fixing-the-common-failure-in-importing-photos-from-ipads/"><u>Expert Tips: Fixing the Common Failure in Importing Photos From iPads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-headphones-mic-malfunction-on-a-windows-11-pc/"><u>How to Fix Your Headphones' Mic Malfunction on a Windows 11 PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prospects-in-file-transfer-top-5-apps-on-windows/"><u>Prospects in File Transfer: Top 5 Apps on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-looter-shooter-start-up-snags-lol/"><u>Sidestep Looter Shooter Start-Up Snags (LOL)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-persistent-computer-mouse-connection-issues/"><u>Ultimate Guide: Solving Your Persistent Computer Mouse Connection Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-canary-channel-how-to-start-using-it/"><u>What Is the Windows Canary Channel? How to Start Using It</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-xs-how-to-get-a-game-money-back/"><u>Xbox Series X/S: How to Get a Game Money Back</u></a></li>
 </ul></div>
 
