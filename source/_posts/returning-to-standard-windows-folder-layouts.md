@@ -1,7 +1,7 @@
 ---
 title: Returning to Standard Windows Folder Layouts
-date: 2024-09-01T05:14:36.608Z
-updated: 2024-09-02T05:14:36.608Z
+date: 2024-11-12T16:28:23.795Z
+updated: 2024-11-17T19:30:28.668Z
 tags:
   - windows10
   - windows11
@@ -55,12 +55,24 @@ start explorer.exe`
 6. Now select**All Files** in the Save as type menu, and add**.bat** to the end of the file’s name.  
 ![Run a Batch File to Reset Folder View Settings to Default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-a-batch-file-to-reset-folder-view-settings-to-default.jpg)
 7. From the left pane, select**Desktop** as the location.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Then click**Save** and close the text editor window.
 9. Finally, double-click the batch file you created, and it will reset your Folder View Settings to the default view.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Reset Folder View Settings to Default via File Explorer
 
  If you only need to reset the View Settings of all folders of the same type, this method is for you. Here's what you have to do:
@@ -69,16 +81,18 @@ start explorer.exe`
 2. Now, select the**View** tab in the top bar and tap on**Reset Folders** .  
 ![Reset Folder View Settings to Default Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-via-file-explorer.jpg)
 3. Click**Yes** when prompted to confirm your action.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Finally, hit**OK** and the window will close.
 
  This will reset your Folder View Settings to Windows' default settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
  The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must[create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
@@ -92,28 +106,26 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 4. In the left sidebar, right-click on the**BagMRU** folder and select**Delete.**  
 ![Reset Folder View Settings to Default Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-using-registry-editor.jpg)
 5. Click**Yes** when asked to confirm your action.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 6. Similarly, delete the**Bags** folder and close the Registry window.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Reset Folder View Settings to Default
 
  Folder View on Windows allows users to customize their view of files and folders. This includes settings such as the file size information, restoring the previous folder when logging in, and automatically entering words when searching.
 
  However, if you have changed the View settings, this guide will help you reset Folder Options to its default.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +134,26 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-boost-communication-capabilities-from-skype-to-zoom/"><u>[New] Boost Communication Capabilities From Skype to Zoom</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-nixing-the-green-glow-youtubes-mac-solution-manual/"><u>[New] Nixing the Green Glow YouTube's Mac Solution Manual</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-budget-friendly-online-face-offs/"><u>[Updated] Ultimate Budget-Friendly Online Face-Offs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-zdsofts-edge-masterful-video-capture-analysis/"><u>2024 Approved ZDSoft's Edge Masterful Video Capture Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-corriger-le-desequilibre-aspectiel-dans-la-conversion-handbrake-vob-en-mp4/"><u>Comment Corriger Le Déséquilibre Aspectiel Dans La Conversion HandBrake VOB en MP4?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-your-clock-is-aheadbehind-error-in-chrome-for-windows/"><u>How to Fix the Your Clock Is Ahead/Behind Error in Chrome for Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-huawei-nova-y71-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Huawei Nova Y71 Is Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-to-tackle-windows-activation-problem-code-0x803f700f/"><u>Key Steps to Tackle Windows Activation Problem Code 0X803F700f</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/moving-your-boot-volume-guide-for-transferring-system-reserved-across-drives-on-windows-pcs/"><u>Moving Your Boot Volume: Guide for Transferring 'System Reserved' Across Drives on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-non-opening-windows-command-prompt-woes/"><u>Navigating Non-Opening Windows Command Prompt Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-access-barriers-in-windows-a-powershell-solution/"><u>Overcoming Access Barriers in Windows: A PowerShell Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-windows-11-login-problems/"><u>Overcoming Common Windows 11 Login Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-extraneous-window-notifications/"><u>Preventing Extraneous Window Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-pc-fixes-for-a-stalled-windows-updates/"><u>Revive Your PC: Fixes for a Stalled Windows Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-androids-wireless-security-issues-a-guide/"><u>Solving Android's Wireless Security Issues: A Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-social-media-navigating-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Quartet of Social Media: Navigating Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unchangeable-wallpapers-made-simple-in-win11/"><u>Unchangeable Wallpapers Made Simple in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visual-cplusplus-distribution-its-main-purpose/"><u>Visual C++ Distribution: Its Main Purpose</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-setup-simplified-a-steam-deck-tutorial/"><u>Windows Setup Simplified: A Steam Deck Tutorial</u></a></li>
+</ul></div>
 

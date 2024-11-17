@@ -1,7 +1,7 @@
 ---
 title: "Transform Taskbar Utility: Adding Directories to Windows 11 Menu"
-date: 2024-09-05T19:32:04.772Z
-updated: 2024-09-06T19:32:04.772Z
+date: 2024-11-16T16:45:12.655Z
+updated: 2024-11-17T17:06:21.138Z
 tags:
   - windows10
   - windows11
@@ -14,22 +14,10 @@ keywords: Windows 11 Toolbar Enhancements,Menu Directory Addition,Taskbar Custom
 thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0db935514f90e93325010d261.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Transform Taskbar Utility: Adding Directories to Windows 11 Menu
 
  The context menu is a handy menu you can open in Windows 11 by clicking the right mouse button on the desktop or in File Explorer. That menu consists of two parts in Windows 11, and you can customize its secondary classic menu with registry hacks and third-party software packages in many ways. Here we’ll be looking at how you can add context menu folder shortcuts with the MyFolders and Right Click Context Menu Adder apps.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Folders to Windows 11’s Context Menu With MyFolders
 
  MyFolders is freeware software for Windows 11,10, 8,7, Vista, and XP that adds a new directory submenu to the context menu for the desktop and in File Explorer. You can configure that submenu by adding folder shortcuts to it for opening with Explorer or Command Prompt. Its submenu also includes some additional folder management options. This is how you can add folders to Windows 11’s context menu with MyFolders:
@@ -44,12 +32,6 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 7. Select**Next** two more times, and then click MyFolders’**Install** option.  
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once your PC has restarted:
 
@@ -58,13 +40,14 @@ Once your PC has restarted:
 3. Click the**Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-add-button.jpg)
 4. Choose a directory to add to the context menu and select the**OK** option.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Done** to exit the MyFolders window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Use MyFolders
 
@@ -72,12 +55,6 @@ Once your PC has restarted:
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
@@ -85,11 +62,12 @@ Once your PC has restarted:
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
@@ -108,6 +86,20 @@ Once your PC has restarted:
 8. Select the**RightClickContextMenuAdder.RAR** in 7-ZIP and click the**Extract** button.  
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
 11. Exit the 7-Zip software.
@@ -128,6 +120,13 @@ Once your PC has restarted:
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Tweak Right Click Context Menu Adder
 
  There are a few optional settings you can change when adding folders to the context menu with Right Click Context Menu Adder. To change the shortcut’s position, select a different**Position on Menu** option.
@@ -138,22 +137,10 @@ Once your PC has restarted:
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
  MyFolders and Right Click Context Menu Adder make it quick and easy to add folders to the desktop and Explorer context menus without any manual registry tweaking. Adding folders to the context menu will save you from rummaging through File Explorer to get to them. Such right-click shortcuts can be invaluable for quickly accessing folders with long paths in Windows 11.
@@ -164,8 +151,6 @@ Once your PC has restarted:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +158,24 @@ Once your PC has restarted:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-achieving-excellence-in-work-and-online-content/"><u>[New] In 2024, Achieving Excellence in Work and Online Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-chip-harmony-editors-reap-the-benefits-of-syncopated-precision/"><u>[Updated] Chip Harmony Editors Reap the Benefits of Syncopated Precision</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-graphical-forecast-the-dominant-23-social-themes/"><u>2024 Approved Graphical Forecast The Dominant '23 Social Themes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-synergy-of-enterprises-and-immersive-virtual-worlds/"><u>2024 Approved Synergy of Enterprises and Immersive Virtual Worlds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-erasing-your-yahoo-email-address-forever/"><u>Complete Guide: Erasing Your Yahoo! Email Address Forever</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-the-depths-of-windows-policy-mechanics-triple-techniques/"><u>Delving Into the Depths of Window's Policy Mechanics (Triple Techniques)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-guide-for-windows-unlaunched-lunar-client-errors/"><u>Fix Guide for Windows Unlaunched Lunar Client Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-unsuccessful-install-of-microsofts-pc-manager/"><u>Fix Unsuccessful Install of Microsoft's PC Manager</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-zoomed-success-on-set-harnessing-kinemasters-viewer-focus/"><u>In 2024, Zoomed Success on Set Harnessing Kinemaster’s Viewer Focus</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/professionelle-anleitung-fur-die-aufrustung-der-ssd-in-deinem-hp-omen-30l/"><u>Professionelle Anleitung Für Die Aufrüstung Der SSD in Deinem HP Omen 30L</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/simple-steps-to-great-videos-crafting-10-basic-concepts-easily-for-2024/"><u>Simple Steps to Great Videos Crafting 10 Basic Concepts Easily for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-start-the-ultimate-in-three-windows-steps/"><u>Skyrocketing Start: The Ultimate in Three Windows Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-eradicating-office-365-failure-code-30015-26/"><u>Strategies for Eradicating Office 365 Failure Code 30015-26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-workflow-creating-custom-shortcuts-for-windows-11/"><u>Streamline Workflow: Creating Custom Shortcuts for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-solving-non-sync-problems-in-to-do/"><u>Unraveling and Solving Non-Sync Problems in To Do</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-s-leading-text-motion-capture-tools/"><u>Updated 2024 Approved S Leading Text Motion Capture Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-resource-utilization-explained/"><u>Windows Resource Utilization Explained</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "WinError 0X80070091 Demystified: How to Clear 'Not Empty' Directive"
-date: 2024-11-03T21:54:43.804Z
-updated: 2024-11-07T12:55:46.818Z
+date: 2024-11-10T20:27:18.915Z
+updated: 2024-11-17T19:57:16.359Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Restart Windows File Explorer
 
  Restarting File Explorer can resolve issues that occur with that file manager. However, closing and reopening the Explorer window doesn’t restart the file manager. You’ll need to restart the Explorer process via Task Manager like this:
@@ -56,10 +49,17 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 3. Press the**Restart** button for the selected Explorer process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Scan System Files With an SFC Scan
@@ -69,10 +69,17 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check for Errors With a Disk Scan
@@ -100,27 +107,14 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 4. Click**Change** beside the owner’s name.  
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
 6. Then select the**Check Names** option and**OK** .
@@ -159,21 +153,18 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products-for-2024/"><u>[New] A Detailed Study of VSDC's Screen Capture Prowess & Competing Products for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-prime-directors-cut-trailers/"><u>[Updated] Prime Director's Cut Trailers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bringing-zombies-alive-with-excitement-the-ultimate-insight-into-7-days-to-die-day-by-day-and-platform-by-platform/"><u>Bringing Zombies Alive with Excitement: The Ultimate Insight Into '7 Days to Die,' Day by Day and Platform by Platform.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-abnormal-typography-windows-style/"><u>Combatting Abnormal Typography Windows-Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-wireless-reach-with-5ghz/"><u>Enhancing Windows 11 Wireless Reach with 5GHz</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-s17-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo S17 Pro PC | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-11-proplus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 11 Pro+ To Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-narrative-wordsmithing-weaving-a-story-through-speech/"><u>In 2024, Narrative Wordsmithing Weaving a Story Through Speech</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-free-video-file-handler-for-pc-and-mac-os/"><u>In 2024, Unlock Free Video File Handler for PC & Mac OS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/master-techniques-for-improving-chrome-web-video-quality/"><u>Master Techniques for Improving Chrome Web Video Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-absence-of-assigned-application-linkage-windows/"><u>Rectifying Absence of Assigned Application Linkage (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-device-access-problem-in-audacity-on-windows-11/"><u>Tackling Device Access Problem in Audacity on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/terminal-vs-powershell-insight-into-their-functional-divergence/"><u>Terminal Vs. PowerShell: Insight Into Their Functional Divergence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-quick-guide-to-windowed-data-discovery/"><u>The Quick Guide to Windowed Data Discovery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-your-computers-map-potential-with-google/"><u>Unlocking Your Computer's Map Potential with Google</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-8-camera-showdown-excellence-in-broadcasting/"><u>[New] In 2024, Ultimate 8 Camera Showdown Excellence in Broadcasting</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-flip-techniques-rotate-videos-for-max-impact/"><u>[New] Insta-Flip Techniques Rotate Videos for Max Impact</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-secrets-to-successful-vocal-sessions-for-video-content-for-2024/"><u>[New] Secrets to Successful Vocal Sessions for Video Content for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximizing-visibility-post-facebook-update-for-2024/"><u>[Updated] Maximizing Visibility Post-Facebook Update for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-navigating-through-windows-11s-new-frontier/"><u>[Updated] Navigating Through Windows 11'S New Frontier</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-video-creation-journey-from-adobe-premiere-to-youtube/"><u>[Updated] Video Creation Journey From Adobe Premiere to YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-visibility-of-the-taskbar-with-maximized-window/"><u>Ensuring Visibility of the Taskbar With Maximized Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-the-mist-of-talos-extender/"><u>How to Mend the Mist of Talos Extender</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-test-a-microphone-on-windows-pc/"><u>How to Test a Microphone on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-win-11-games-in-no-time-the-ultimate-guide-to-boosting-your-playstyle/"><u>Master Win 11 Games in No Time: The Ultimate Guide to Boosting Your Playstyle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-link-failures-spotify-in-windows-11-environments/"><u>Resolving Link Failures: Spotify in Windows 11 Environments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-quest-to-eradicate-code-52-from-cars/"><u>The Quest to Eradicate Code 52 From Cars</u></a></li>
+<li><a href="https://win-best.techidaily.com/vastgestelde-onedrive-opname-vertrekt-uw-prive-informatie-verborgene-risicos-en-veiligheidsopties-in-nederland/"><u>Vastgestelde OneDrive-Opname Vertrekt Uw Privé Informatie: Verborgene Risico's en Veiligheidsopties in Nederland</u></a></li>
 </ul></div>
 

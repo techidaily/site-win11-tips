@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Functional Link App Alerts on Windows PC
-date: 2024-10-30T20:05:10.743Z
-updated: 2024-11-07T10:55:07.389Z
+date: 2024-11-12T16:35:44.196Z
+updated: 2024-11-17T17:56:25.246Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 6. Check the boxes that read**Show notification banners** and**Show notifications in notification center** .  
 ![Enable Notifications for Phone Link on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-phone-link-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check In-App Notification Settings
 
  The Phone Link app allows you to choose which notifications from your phone appear on your PC. You need to review Phone Link’s in-app settings and ensure that notifications for calls, messages, or other apps are not disabled.
@@ -57,15 +50,22 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 ![Phone Link In-App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/phone-link-in-app-notification-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If Phone Link is failing to show notifications from a specific app, click**Choose which apps I get notifications from** and enable alerts for that app.
 
 ![Configure Phone Link Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-phone-link-notifications.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Allow Phone Link App to Run in the Background
 
@@ -84,16 +84,10 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
  Is the background app permission options missing from the Settings app? Here's[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Battery Saver Mode
@@ -110,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
  It's worth noting that Windows might activate the battery saver mode automatically if the battery level falls below 20 percent. To prevent this, keep your laptop connected to a power source while using the Phone Link app.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Disable Do Not Disturb Mode
 
  If Do Not Disturb is active on your Windows computer, you won’t receive notifications from any apps or programs, including Phone Link. Hence, it's best to turn off Do Not Disturb on Windows.
@@ -128,13 +115,6 @@ To disable the Do Not Disturb mode, use these steps:
 3. Turn off the toggle next to**Do not distrub** .
 4. Expand the**Turn on do not disturb automatically** and clear all the checkboxes.  
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Unlink and Link Your Phone Again
 
@@ -157,9 +137,23 @@ To disable the Do Not Disturb mode, use these steps:
 
  Another thing you can do is reset the Phone Link app to its default state. However, this process will remove all the app data, so you will have to set up the Phone Link app again. For more information on this, refer to our guide on[how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Update the App
 
  Using an outdated version of the Phone Link app can lead to compatibility issues at times. Also, if the app version you are using is buggy, notifications may stop working. Hence, it's a good idea to ensure that you're using the latest version of the app. If you need help with the same, check our guide on[how to update apps on Windows](https://www.makeuseof.com/update-apps-windows-11/) .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Phone Link App Notifications Not Working on Windows
 
@@ -182,22 +176,20 @@ To disable the Do Not Disturb mode, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-recording-realities-evaluating-the-power-and-precision-of-apeaksoftware/"><u>[New] In 2024, Recording Realities – Evaluating the Power and Precision of Apeaksoftware</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-sound-sphere-navigating-music-uploads/"><u>[New] In 2024, The Sound Sphere Navigating Music Uploads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fundamental-definitions-in-virtual-narrative-art/"><u>[Updated] Fundamental Definitions in Virtual Narrative Art</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-photo-finishes-picarts-background-erase-method/"><u>2024 Approved Perfect Photo Finishes PicArt's Background Erase Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-bandwidth-methods-for-assessing-your-networks-velocity/"><u>Boost Bandwidth: Methods for Assessing Your Network's Velocity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cease-windows-audio-amplification-feature/"><u>Cease Windows Audio Amplification Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-access-to-outlook-preview-in-the-latest-windows-os/"><u>Effortless Access to Outlook Preview in the Latest Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tuning-non-admin-account-permissions-in-windows/"><u>Fine-Tuning Non-Admin Account Permissions in Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-facile-pour-transformer-des-films-mkv-en-formats-mp4-avec-des-lectures-completement-sans-perte/"><u>Guide Facile Pour Transformer Des Films MKV en Formats MP4 Avec Des Lectures Completement Sans Perte.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-access-the-high-level-command-prompt-in-w11-os/"><u>How to Access the High-Level Command Prompt in W11 OS</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-learnings-silent-secret-for-seniors/"><u>Language Learning's Silent Secret for Seniors</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210251404-9781947168039-manifesting/"><u>Manifesting | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mouse-navigation-turn-off-acceleration-windows-1011/"><u>Mastering Mouse Navigation: Turn Off Acceleration Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-to-your-pcs-health-report-efficiently/"><u>Navigate to Your PC’s Health Report Efficiently</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pure-potential-upgrade-with-minimalist-win11/"><u>Pure Potential: Upgrade with Minimalist Win11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-12-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 12 Making It Possible</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-customization-top-20-settings-for-enhanced-performance/"><u>Windows 11 Customization: Top 20 Settings for Enhanced Performance</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-detailed-dissection-what-makes-obs-a-top-recorder-in-2024/"><u>[New] Detailed Dissection What Makes OBS a Top Recorder, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ahead-of-the-curve-best-hydro-games-compiled/"><u>[New] In 2024, Ahead of the Curve Best Hydro Games Compiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-stuttering-challenges-enhancing-warhammer-40k-experience/"><u>Conquer Stuttering Challenges: Enhancing Warhammer 40K Experience</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/conversion-gratuite-de-fichiers-webp-a-ligne-movavi/"><u>Conversion Gratuite De Fichiers WEBP À Ligne - Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-unveiling-the-secrets-of-high-performance-systems-by-toms-circuitry/"><u>Dive Into Technology: Unveiling the Secrets of High-Performance Systems by Tom's Circuitry</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-system-performance-with-thunderbolt-driver-update-for-windows-operating-systems/"><u>Enhance System Performance with Thunderbolt Driver Update for Windows Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-signature-verification-issue-in-winoses/"><u>Eradicating Signature Verification Issue in WinOSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-defenders-0x80004004-error/"><u>Guide to Resolve Defender's 0X80004004 Error</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y78t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y78t in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-errors-a-guide-to-fs-repair-in-win11/"><u>Mending Errors: A Guide to FS Repair in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719242997504-navigate-past-chrome-hiccups-fixes-for-w11-users/"><u>Navigate Past Chrome Hiccups: Fixes for W11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-memory-use-on-win-11-os/"><u>Revamping Memory Use on Win 11 OS</u></a></li>
 </ul></div>
 

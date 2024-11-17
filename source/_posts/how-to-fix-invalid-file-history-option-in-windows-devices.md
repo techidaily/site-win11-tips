@@ -1,7 +1,7 @@
 ---
 title: How to Fix Invalid File History Option in Windows Devices
-date: 2024-10-31T01:15:56.907Z
-updated: 2024-11-07T02:19:59.150Z
+date: 2024-11-11T17:59:00.434Z
+updated: 2024-11-17T18:36:31.354Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ To restart the File History Service in Windows:
 ![Restart File Hisotry Service Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-hisotry-service-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disconnect and Reconnect the Backup Drive
@@ -50,10 +50,10 @@ To restart the File History Service in Windows:
  While you're at it, try using a different USB port. This will help you determine if there’s a[problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Re-Select the Backup Drive and Restart File History
@@ -68,13 +68,6 @@ To restart the File History Service in Windows:
 6. Select your preferred drive from the list and click**OK** .  
 ![Select File History Drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-file-history-drive-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After selecting your preferred drive, you’ll have to restart the File History feature on Windows. To do so, use the following steps:
 
 1. Click the magnifying icon on the taskbar or use the**Win + S** keyboard shortcut to open the search menu.
@@ -83,20 +76,14 @@ To restart the File History Service in Windows:
 4. Wait for a few seconds and click the**Turn on** button.  
 ![Turn On File History in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-file-history-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the error message persists even after this, you can try using a different drive for the File History backup and see if that works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reset File History
 
@@ -116,6 +103,13 @@ To restart the File History Service in Windows:
 `%UserProfile%\AppData\Local\Microsoft\Windows\FileHistory`
 3. Press**Ctrl + A** to select all the folders and click the**trash icon** at the top to delete them.  
 ![Delete File Hisotry AppData](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-file-hisotry-appdata.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing File History Errors on Windows
 
@@ -138,22 +132,17 @@ To restart the File History Service in Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-vital-guide-to-cost-effective-video-and-photography-archives/"><u>[New] 2024 Approved Vital Guide to Cost-Effective Video and Photography Archives</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos/"><u>[New] In 2024, The New Dawn of Creativity Spotlight on Six Visionary NFTOs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-selection-top-5-budget-friendly-vecto-portals/"><u>[New] Premium Selection – Top 5 Budget-Friendly Vecto Portals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amp-up-your-drone-game-with-dji-mini-pertinent-accessories-recommended-by-zdnet-experts-must-own-add-ons/"><u>Amp Up Your Drone Game with DJI Mini Pertinent Accessories Recommended by ZDNet Experts | Must-Own Add-Ons</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comment-liberer-un-pc-sous-windows-11-avec-mot-de-passe-oublie/"><u>Comment Libérer Un PC Sous Windows 11 Avec Mot De Passe Oublié ?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensively-exploring-windows-n-editions-use-cases/"><u>Comprehensively Exploring Windows N Editions' Use Cases</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-onedrive-failures-error-code-0x80070194/"><u>Correcting OneDrive Failures (Error Code 0X80070194)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-browser-selection-lowest-impact-on-memorycpu-in-triple-os-environments/"><u>Efficient Browser Selection: Lowest Impact on Memory/CPU in Triple OS Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-malwarebytes-execution-problems-on-win11win10/"><u>Fixing Malwarebytes Execution Problems on Win11/Win10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-pixel-8-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Google Pixel 8 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-action-plan-for-windows-update-restart/"><u>Immediate Action Plan for Windows Update Restart</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/h-your-stream-top-8-youtube-revenue-tactics-for-2024/"><u>Launch Your Stream Top 8 YouTube Revenue Tactics for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-strategy-for-eliminating-error-code-262-in-roblox/"><u>The Ultimate Strategy for Eliminating Error Code 262 in Roblox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-ways-to-rectify-disconnected-google-drive-windows/"><u>Top Ways to Rectify Disconnected Google Drive Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-win1011-writability-fix-corrupted-recycle-errors/"><u>Unlocking WIN10/11' Writability: Fix Corrupted Recycle Errors</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-virtualdub-is-it-still-the-best-top-alternatives-revealed/"><u>Updated 2024 Approved Virtualdub Is It Still the Best? Top Alternatives Revealed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-display-free-nvidia-driver-downloads-tailored-for-windows-1178-systems/"><u>Upgrade Your Display: Free NVIDIA Driver Downloads Tailored for Windows 11/7/8 Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-list-makeup-tutorials-who-to-watch-in-2024/"><u>[New] A-List Makeup Tutorials Who to Watch , In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-breakdown-vsdc-review-and-alternative-comparisons-for-2024/"><u>[New] Expert Breakdown VSDC Review & Alternative Comparisons for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-income-derived-from-each-watch-on-video-platforms/"><u>[New] In 2024, Exploring Income Derived From Each Watch on Video Platforms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-niconico-stars-in-snapchat-moments/"><u>[Updated] 2024 Approved Niconico Stars in Snapchat Moments</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-backward-button-chronicles-youtubes-video-reversal/"><u>[Updated] The Backward Button Chronicles YouTube's Video Reversal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-picks-for-virtual-reality-gaming-software-2023-guide/"><u>[Updated] Top Picks for Virtual Reality Gaming Software - 2023 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-ram-virtual-memory-strategies/"><u>Boosting Windows 11 RAM: Virtual Memory Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breach-sign-in-blockage-steps-to-reunite-with-microsoft/"><u>Breach Sign-In Blockage: Steps to Reunite with Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-new-life-to-elders-pcs-windows-11-to-go-and-rufus-techniques/"><u>Bringing New Life to Elders PCs: Windows 11, To Go, and Rufus Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-fatal-0x800f0831-in-winos/"><u>Bypassing Fatal 0X800F0831 in WinOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-missing-mapi32dll-errors-on-your-windows-pc-step-by-step-tips/"><u>Fixing Missing 'Mapi32.dll' Errors on Your Windows PC - Step-by-Step Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-insiders-guide-to-going-live-on-instagram-for-2024/"><u>The Insider's Guide to Going Live on Instagram for 2024</u></a></li>
 </ul></div>
 

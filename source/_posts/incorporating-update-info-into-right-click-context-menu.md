@@ -1,7 +1,7 @@
 ---
 title: Incorporating Update Info Into Right-Click Context Menu
-date: 2024-09-01T05:17:11.415Z
-updated: 2024-09-02T05:17:11.415Z
+date: 2024-11-12T20:10:09.795Z
+updated: 2024-11-17T16:32:47.624Z
 tags:
   - windows10
   - windows11
@@ -75,9 +75,23 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 ![The Add Windows Update submenu to Desktop context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-add-windows-update-to-context-menu-option.jpg)
 6. Select the **Add Windows Update submenu to Desktop context menu** option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now look at the new Windows Update submenu on the desktop’s context menu. Press **Shift** \+ **F10** to view the classic context menu. Move the cursor over the **Windows Update** submenu to view its options. There you can select a **Check for updates** option to bring up the **Check for updates** button.
 
 ![The Windows Update submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-windows-update-submenu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **Windows Update** submenu also has four other shortcuts to update settings. Click **Update history** to view the installed update list. Or select **Advanced options** to bring up the additional settings for updates. The **Restart options** shortcut opens the settings for scheduling update times.
 
@@ -85,13 +99,24 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 
 ![The Add Windows Update to Control Panel option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-add-windows-update-to-control-panel-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then you’ll see a **Windows Update** shortcut within the Control Panel. [Open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) and click the **System and Security** category. Clicking the **Windows Update** shortcut there will open the **Settings** tab with the **Check for updates** button.
 
 ![The Windows Update Control Panel shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-update-in-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Keep an Eye Out For New Windows Updates
 
  So, now you can select a handy **Check for Updates** shortcut on your desktop’s context menu. That shortcut will save you from having to manually open Settings and its **Windows Update** tab whenever you need to check for updates. Instead, you can simply click the **Check for Updates** context menu option to open the update tab directly from the desktop.
@@ -100,11 +125,26 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 
  To ensure your Windows 11/10 PC has all the patch updates available for it, it’s a good idea to check for new ones via Settings. The **Windows Update** tab includes a **Check for updates** button. You can add a shortcut for that tab to the desktop’s context menu with the method below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-googles-ar-sticker-innovation/"><u>[Updated] Understanding Google's AR Sticker Innovation</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-convert-your-favorite-music-videos-into-high-quality-mp3-files-with-our-easy-download-tool/"><u>1. Convert Your Favorite Music Videos Into High-Quality MP3 Files with Our Easy Download Tool!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-the-taskbar-a-step-by-step-guide-to-windows-11-tablets/"><u>Configuring the Taskbar: A Step-by-Step Guide to Windows 11 Tablets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-windows-software-issues/"><u>Corrective Measures for Windows Software Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-perplexing-errorinvalidargument-in-wsl/"><u>Demystifying the Perplexing ERROR_INVALID_ARGUMENT in WSL</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fantasy-villas-with-oriental-elegance-mc-edition-for-2024/"><u>Fantasy Villas with Oriental Elegance, MC Edition for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/leaderboards-unveiled-1-26-in-youtube-snacking/"><u>Leaderboards Unveiled #1, #2...#6 in YouTube Snacking</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1441570-9781776527694-magic-and-witchcraft/"><u>Magic and Witchcraft | Free Book</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/permanent-ousting-technique-for-the-quick-video-feature-for-2024/"><u>Permanent Ousting Technique for the Quick Video Feature for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/render-dynamic-depth-on-digital-imagery-for-2024/"><u>Render Dynamic Depth on Digital Imagery for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-repairing-file-systems-in-win11/"><u>Strategies for Repairing File Systems in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-best-7-holiday-customization-steps/"><u>Windows 11'S Best: 7 Holiday Customization Steps</u></a></li>
+</ul></div>
+

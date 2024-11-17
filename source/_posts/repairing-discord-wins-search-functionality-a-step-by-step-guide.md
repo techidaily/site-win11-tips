@@ -1,7 +1,7 @@
 ---
 title: "Repairing Discord Win's Search Functionality: A Step-by-Step Guide"
-date: 2024-10-31T23:20:27.215Z
-updated: 2024-11-07T03:38:48.020Z
+date: 2024-11-15T17:48:12.171Z
+updated: 2024-11-17T17:01:23.423Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
  Now that you know the common reasons behind the Discord search issue, let’s move on to some recommended fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Internet Connection
@@ -59,6 +59,13 @@ Here's how you can check and fix your internet-related issues:
 3. Type**netsh winsock reset** into the command prompt or terminal and hit**Enter** . This will force Windows to reset Winsock.  
 ![Winsock Reset Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/winsock-reset-command.jpg)
 4. You can restart your PC and check if the Discord search feature works correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note that this method will restore your network settings to their default values. There's nothing to worry about, as it will not do any harm to your internet connection.
 
@@ -78,10 +85,10 @@ Here's how you can check and fix your internet-related issues:
 * The last way of updating Discord is by running it as an administrator. To do so, right-click**Discord** on the desktop and select**Run as administrator** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Your VPN or Proxy
@@ -99,14 +106,14 @@ Here's how you can check and fix your internet-related issues:
 ![Windows VPN Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-vpn-settings.jpg)
 4. Similarly, to disable a proxy, you can access the settings from**Network & Internet > Proxy** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This should fix the search feature and allow you to use all the search filters. However, if it is still not working, proceed further to try some advanced troubleshooting steps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable Discord Streamer Mode
 
@@ -123,17 +130,17 @@ Below are the steps you need to perform to disable the Streamer Mode:
 4. If you want to disable streamer mode altogether, you can also uncheck the**Automatically enable or disable** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Clear Discord's AppData Cache Folder
@@ -150,21 +157,7 @@ Here's how you can clear Discord's cache files on Windows:
 5. Select the**Delete** option on the drop-down menu that appears. It will delete all the cache files generated by Discord.  
 ![Discord Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-folder-context-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it for your part. You can now restart your computer and relaunch Discord to check the search issue. Make sure to test in both cases: searching in an individual chat as well as in a server!
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Discord Windows Client
 
@@ -189,6 +182,13 @@ Here's how you can clear Discord's cache files on Windows:
  It's no secret that Discord's search can be a bit sluggish on larger servers. Adding[third-party Discord plugins](https://www.makeuseof.com/how-to-set-up-use-betterdiscord/) to the mix can sometimes make matters worse. These plugins may interfere with Discord's functionality and slow it down even further.
 
  If you think a plugin might be causing the issue, you can disable or uninstall it temporarily to see if it's the culprit behind the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check Discord’s Server Status
 
@@ -215,24 +215,22 @@ Here's how you can clear Discord's cache files on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-streaming-high-quality-cricket-matches/"><u>[New] The Ultimate Guide to Streaming High-Quality Cricket Matches</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-becoming-an-expert-at-yt-studio-navigation/"><u>[Updated] 2024 Approved Becoming an Expert at YT Studio Navigation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-beginners-blueprint-for-creating-a-sports-chain-on-mac/"><u>[Updated] The Beginner's Blueprint for Creating a Sports Chain on Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breaking-records-olympics-showcase-for-short-tracks-for-2024/"><u>Breaking Records Olympics Showcase for Short Tracks for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/building-a-following-with-captivating-instagram-reels-for-2024/"><u>Building a Following with Captivating Instagram Reels for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-an-educational-ambiance-for-windows/"><u>Creating an Educational Ambiance for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-error-code-0x80073cf3-in-win10win11/"><u>Fixing Microsoft Store Error Code 0X80073CF3 in Win10/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-do-you-nullify-windows-hello-in-win11/"><u>How Do You Nullify Windows Hello in Win11?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-tecno-spark-20-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Tecno Spark 20 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-error-code-0xc0000005-on-windows-pc/"><u>How to Fix the Error Code 0Xc0000005 on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-recover-lost-downloads-in-chrome-on-your-windows-pc/"><u>How to Recover Lost Downloads in Chrome, on Your Windows PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-printer-p1102w-compatible-with-windows-os/"><u>HP Printer P1102w Compatible with Windows OS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harness-ai-to-generate-prime-video-titles/"><u>In 2024, Harness AI to Generate Prime Video Titles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/latest-features-and-enhancements-in-windows-10-creators-update-insider-preview-version-1503-what-to-expect/"><u>Latest Features and Enhancements in Windows 10 Creator’s Update (Insider Preview Version 1503) - What to Expect</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-proxy-detection-corrections/"><u>Mastering Windows Proxy Detection Corrections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-cursor-chaos-win11s-troubleshooting-path/"><u>Navigating Cursor Chaos: Win11's Troubleshooting Path</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-for-beginners-creating-a-video-slideshow-from-scratch/"><u>New 2024 Approved Final Cut Pro for Beginners Creating a Video Slideshow From Scratch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinforced-graphics-elevating-edges-protected-mode/"><u>Reinforced Graphics: Elevating Edge's Protected Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-upgrade-hurdle-top-7-deterrents-to-windows-11-switching/"><u>The Upgrade Hurdle: Top 7 Deterrents to Windows 11 Switching</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-buy-in-4k-budget-savvy-camera-picks/"><u>[New] Best Buy in 4K Budget-Savvy Camera Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-shutter-showdown-best-for-slow-motion-videos/"><u>[New] The Ultimate Shutter Showdown Best for Slow Motion Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-mastering-apex-play-exclusively-how-to-disable-cross-play-feature/"><u>[Updated] 2024 Approved Mastering Apex Play Exclusively How to Disable Cross-Play Feature</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamlining-your-device-by-clearing-youtube-downloads/"><u>[Updated] Streamlining Your Device by Clearing YouTube Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-turn-filter-keys-on-or-off-on-windows/"><u>4 Ways to Turn Filter Keys On or Off on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-guide-to-resolving-steam-setup-problems-win11-edition/"><u>A Practical Guide to Resolving Steam Setup Problems, Win11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-functional-automation-rules-on-desktop/"><u>Addressing Non-Functional Automation Rules on Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-window-frame-blackout-restore-taskbar/"><u>Addressing Window Frame Blackout: Restore Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719367958537-adjust-brightness-slider-look-for-the-brightness-slider-under-system-or-personalization-tabs-in-settings/"><u>Adjust Brightness Slider: Look for the Brightness Slider Under 'System' Or 'Personalization' Tabs in Settings.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ai-copilot-arrives-on-windows-11-transforming-user-interaction/"><u>AI Copilot Arrives on Windows 11, Transforming User Interaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-soon-will-expire-warning-on-microsoft-os/"><u>Avoiding Soon Will Expire Warning on Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/become-a-full-screen-screenshot-expert-4-essential-tricks-for-windows/"><u>Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows.</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crack-the-code-of-imagerys-roots-with-our-reverse-analysis-tools-for-instagram/"><u>Crack the Code of Imagery's Roots with Our Reverse Analysis Tools for Instagram</u></a></li>
+<li><a href="https://solve-news.techidaily.com/easy-methods-to-download-and-enjoy-youtube-flv-content-offline-on-an-iphone/"><u>Easy Methods to Download and Enjoy YouTube FLV Content Offline on an iPhone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/guide-managing-the-restore-points-and-recovery-image-in-windows-server-2/"><u>Guide: Managing the Restore Points and Recovery Image in Windows Server 2#</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-sync-the-beat-unleashing-your-inner-dancer-with-tiktok-and-mac/"><u>In 2024, Sync the Beat Unleashing Your Inner Dancer with TikTok and Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor 70 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
 

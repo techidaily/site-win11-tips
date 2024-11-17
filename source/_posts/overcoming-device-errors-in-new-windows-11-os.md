@@ -1,7 +1,7 @@
 ---
 title: Overcoming Device Errors in New Windows 11 OS
-date: 2024-11-05T04:19:44.429Z
-updated: 2024-11-07T11:02:41.013Z
+date: 2024-11-16T20:08:07.724Z
+updated: 2024-11-17T16:52:24.008Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
  Sometimes, the message can appear due to corruption in the OS version installed on your computer. The solution, in this case, is to download the latest Windows update. To do this,[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and select**Windows Update** from the left panel. Click the**Check for updates** button and wait until Windows checks for and download any available updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Look for Hardware Changes
@@ -61,37 +61,30 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Hardware and Devices Troubleshooter
 
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
@@ -131,6 +124,13 @@ Next, restart your computer and check for the problem.
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
 ## 6\. Reinstall All the USB Controllers
@@ -141,6 +141,13 @@ Next, restart your computer and check for the problem.
 2. Right-click on the problematic device and choose**Uninstall device.**
 
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable the USB Selective Suspend Setting
 
@@ -158,13 +165,6 @@ Next, restart your computer and check for the problem.
  Are you still facing the problem? If yes, then probably outdated BIOS is the culprit.
 
  An outdated BIOS can cause issues like low system performance and stability, and incompatibility with certain devices. It can also cause the Unknown USB Device, Port Reset Failed error. So, update your BIOS to fix the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Unknown USB Device, Port Reset Failed Error
 
@@ -187,24 +187,18 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitters-favorites-top-10-tiktok-vids/"><u>[New] 2024 Approved Twitter's Favorites Top 10 TikTok Vids</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-winning-windows-sound-engineers/"><u>[New] 2024 Approved Winning Windows Sound Engineers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/lite-group-16-youtube-entries-boosting-views-for-2024/"><u>[New] Elite Group 16 YouTube Entries Boosting Views for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-top-10-video-text-upgrades-for-professionals/"><u>[New] In 2024, Top 10 Video Text Upgrades for Professionals</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-discovering-the-past-best-history-youtubers/"><u>[Updated] 2024 Approved Discovering the Past Best History YouTubers</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-deciding-the-optimal-social-media-platform-tiktok-vs-youtube-shorts/"><u>[Updated] Deciding the Optimal Social Media Platform TikTok Vs. YouTube Shorts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-visionary-to-victory-channel-command-school/"><u>[Updated] From Visionary to Victory Channel Command School</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-full-screen-windows-alignment-in-windows/"><u>Achieving Full-Screen Windows Alignment in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-not-found-efficient-windows-repairs/"><u>Eliminate 'Not Found': Efficient Windows Repairs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-windows-11-calendar-usage/"><u>Essential Tips for Windows 11 Calendar Usage</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-vivo-s17t-by-fonelab-android-recover-video/"><u>How to recover old videos from your Vivo S17t</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-track-a-cell-phone-number-freely-and-legally/"><u>How to Track a Cell Phone Number [Freely and Legally]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-open-secrets-of-windows-11-sticky-notes/"><u>Navigating the Open Secrets of Windows 11 Sticky Notes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-intel-unison-app-issues-on-win11-pcs/"><u>Resolving Intel Unison App Issues on Win11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-the-dizzy-spins-fixing-your-wheeling-mouse/"><u>Stop the Dizzy Spins: Fixing Your Wheeling Mouse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-maintain-saving-windows-audio-configuration/"><u>Strategies to Maintain Saving Windows Audio Configuration</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-mac-video-editor-how-to-produce-a-pro-quality-movie/"><u>The Ultimate Mac Video Editor How to Produce a Pro-Quality Movie</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-display-experience-shift-to-adaptive-layouts/"><u>Upgrade Display Experience: Shift to Adaptive Layouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-settings-returning-to-initial-touch-keyboard-configuration/"><u>Win 11 Settings: Returning to Initial Touch Keyboard Configuration</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-leveraging-vr-to-shape-modern-business-practices-for-2024/"><u>[Updated] Leveraging VR to Shape Modern Business Practices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android/"><u>[Updated] The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-engagement-best-practices-for-highlight-boost/"><u>2024 Approved Unlocking Engagement Best Practices for Highlight Boost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-hacks-for-instantaneous-iis-server-management-entry/"><u>8 Hacks for Instantaneous IIS Server Management Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-function-keys-actions-on-windows-1011/"><u>Adjusting Function Keys' Actions on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-complex-comic-formats-for-win11-users/"><u>Breaking Down Complex Comic Formats for Win11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-driverpowerstatefailure-a-complete-repair-manual/"><u>Bypassing DRIVER_POWER_STATE_FAILURE: A Complete Repair Manual</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-15-pro-max-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone 15 Pro Max to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-follow-friendly-flight-tech-our-top-picks-for-pilots/"><u>In 2024, Follow-Friendly Flight Tech Our Top Picks for Pilots</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-windows-7-instability-issues-expert-fixes-and-tips-for-a-smoother-experience/"><u>Solve Windows 7 Instability Issues - Expert Fixes and Tips for a Smoother Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stabilize-cease-persistent-file-explorer-opens/"><u>Stabilize: Cease Persistent File Explorer Opens</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-household-connectivity-with-the-tri-band-netgear-nighthawk-x6-ac3200-a-gamers-and-familys-dream/"><u>Unleashing Household Connectivity with the Tri-Band Netgear Nighthawk X6 AC3200 - A Gamer's and Family's Dream</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unyielding-windows-security-choosing-the-strongest-passwords-shields/"><u>Unyielding Windows Security: Choosing the Strongest Passwords Shields</u></a></li>
 </ul></div>
 

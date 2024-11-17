@@ -1,7 +1,7 @@
 ---
 title: Navigate Through Windows Update Woes with 0X800736CC
-date: 2024-11-04T05:19:39.036Z
-updated: 2024-11-06T17:04:19.165Z
+date: 2024-11-13T19:26:05.420Z
+updated: 2024-11-17T18:04:35.111Z
 tags:
   - windows10
   - windows11
@@ -42,22 +42,22 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 4. Under **Most frequent**, locate **Windows Update** and click **Run**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
- Follow the on-screen instructions to complete the troubleshooting process. It may take a few minutes for the tool to finish its job.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Follow the on-screen instructions to complete the troubleshooting process. It may take a few minutes for the tool to finish its job.
 
 ## 3\. Clear the Windows Update Cache
 
@@ -75,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 6. After deleting the files, head back to the Services window, right-click on the **Windows Update** service, and select **Start**. This step restarts the Windows Update service.
 
  Now restart your computer. It will allow Windows Update to recreate cache files from scratch.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable your Antivirus Temporarily
 
@@ -154,23 +161,9 @@ net start cryptsvc`
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 8. Now, you have the batch script on your desktop. Right-click on it and select **Run as administrator**.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. When the UAC pops up, click **Yes** to grant elevated privileges.
 
  The script will take a few minutes to run. When it's finished, close the Command Prompt window and restart your computer. Once your computer restarts, check if the 0x800736cc error is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Try Generic Windows Update Fixes
 
@@ -182,23 +175,16 @@ net start cryptsvc`
 * [Perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) \- Clean Boot can identify software conflicts causing the error. It disables all non-essential services and programs from running in the background. That way, you can isolate the problematic process and resolve the issue.
 * [Manually Install the Update](https://www.makeuseof.com/update-windows-manually/) \- If Windows Update fails to install or is stuck, you can download and install it manually
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixing Windows Update Error 0x800736cc
 
  As you can see, multiple ways exist to fix the Windows Update error. We hope one of these methods has solved your problem, and you can now successfully install Windows Update. If nothing else works, you can restore your computer to a previous state or reinstall Windows.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-infinite-possibilities-with-ai-generating-viral-video-titles-for-2024/"><u>[New] Infinite Possibilities with AI Generating Viral Video Titles for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-optimal-solution-for-actions-screening/"><u>[Updated] 2024 Approved Optimal Solution for Actions Screening</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-win-error-31-and-regain-online-access/"><u>Eliminating WIN Error 31 and Regain Online Access</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exemplary-video-capture-top-5-slow-motion-cams/"><u>Exemplary Video Capture Top 5 Slow Motion Cams</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-components-to-creativity-designing-your-own-4k-editor-pc-for-2024/"><u>From Components to Creativity Designing Your Own 4K Editor PC for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-dual-recording-incorporating-sound-with-windows-11s-snipping-tool-max-156/"><u>Master the Art of Dual Recording: Incorporating Sound with Windows 11’S Snipping Tool (Max 156)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/next-gen-retail-experience-design-for-2024/"><u>Next-Gen Retail Experience Design for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-defender-enable-external-antivirus-software/"><u>Overcoming Defender: Enable External Antivirus Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/take-command-streamlining-windows-operations-with-hotkeys/"><u>Take Command: Streamlining Windows Operations with Hotkeys</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-56-ultimate-tv-bargains-for-labor-day-weekend-september-2024-expert-picks-from-zdnet/"><u>Top 56 Ultimate TV Bargains for Labor Day Weekend, September 2024: Expert Picks From ZDNet</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -207,3 +193,27 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-democratize-music-distribution-via-social-media-for-2024/"><u>[New] Democratize Music Distribution via Social Media for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-soundscape-elements-advanced-techniques-for-smooth-transitions-audacity/"><u>[Updated] Harmonizing Soundscape Elements Advanced Techniques for Smooth Transitions (Audacity)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-engaging-strategies-to-enlarge-your-instagram-base/"><u>[Updated] In 2024, Engaging Strategies to Enlarge Your Instagram Base</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-content-control-muting-followers/"><u>2024 Approved Mastering Content Control Muting Followers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-remove-a-saved-wi-fi-network-from-windows-11/"><u>4 Ways to Remove a Saved Wi-Fi Network From Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-way-to-fix-the-virus-and-threat-protection-engine-unavailable-issue-in-windows-defender/"><u>5 Way to Fix the Virus & Threat Protection Engine Unavailable Issue in Windows Defender</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-obs-studios-failed-to-connect-to-server-error-in-windows/"><u>7 Ways to Fix OBS Studio's Failed to Connect to Server Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-settings-to-tweak-on-a-new-windows-11-install/"><u>8 Settings to Tweak on a New Windows 11 Install</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessible-beginnings-on-windows-for-first-timers/"><u>Accessible Beginnings on Windows for First-Timers</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/affordable-windows-laptop-showdown-which-brands-excel-acer-dell-and-beyond-reviewed-by-zdnet/"><u>Affordable Windows Laptop Showdown: Which Brands Excel? Acer, Dell & Beyond Reviewed by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-the-winning-factors-9-pc-features-that-trump-macs/"><u>Analyzing the Winning Factors: 9 PC Features That Trump Macs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blending-folders-and-files-win-10s-technique/"><u>Blending Folders and Files: Win 10'S Technique</u></a></li>
+<li><a href="https://solve-news.techidaily.com/det-bedste-med-dybdegaende-dvd-til-mp4-konvertere-i-pc-og-online-selvfolgelig-som-gifter-fra-movavi/"><u>Det Bedste Med Dybdegående DVD Til MP4 Konvertere I Pc Og Online, Selvfølgelig Som Gifter Fra Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719362383486-enhance-full-screen-screenshot-success-in-windows-snip-and-sketch-tool/"><u>Enhance Full-Screen Screenshot Success in Windows' Snip & Sketch Tool.</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-huawei-nova-y91-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-android-storage-in-the-clouds-list/"><u>Premier Android Storage in the Clouds List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719360119482-revolutionize-windows-experience-overcome-incompatibilities-now/"><u>Revolutionize Windows Experience: Overcome Incompatibilities Now</u></a></li>
+<li><a href="https://solve-help.techidaily.com/top-choice-in-live-video-tech-explore-the-capabilities-of-manycam-and-simulated-cameras/"><u>Top Choice in Live Video Tech: Explore the Capabilities of ManyCam and Simulated Cameras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/k-the-power-of-emojis-for-yt-feedback/"><u>Unlock the Power of Emojis for YT Feedback</u></a></li>
+</ul></div>
+

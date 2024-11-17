@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Epic Launcher Backups
-date: 2024-11-02T14:45:22.548Z
-updated: 2024-11-06T20:23:40.481Z
+date: 2024-11-12T17:35:25.602Z
+updated: 2024-11-17T17:07:51.403Z
 tags:
   - windows10
   - windows11
@@ -38,19 +38,6 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
  Now your game will start cloud saving when you play it so long as it supports that feature. You don’t have to do anything to restore data backed up to Epic’s cloud service after reinstalling a game.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Check if a Game Supports Cloud Sync
 
  After selecting the **Enable Cloud Saves** setting, you must also check if a game you need to reinstall supports that feature. Many games installed with Epic Games don’t support its Cloud Saves feature. This is how you can check if a Windows game supports Epic’s cloud synchronization:
@@ -61,22 +48,29 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 ![The Manage option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-option.jpg)
 4. You should see a **Cloud Saves** setting in the management options. Toggle on the **Cloud Saves** option if it’s off (but it shouldn’t be if you’ve already selected **Enable Cloud Saves**).  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
 
  You’ll also see the last synced (backed up) date below the **Cloud Saves** option. Click the round **Sync Data Now** button to manually initiate a cloud sync backup. Then you can reinstall the game safe in the knowledge that your saved progress for it has been recently cloud synced.
 
  If a **Cloud Save** option isn’t available there, your saved game data for that title will not be backed up to Epic’s cloud service. So, you’ll need to back up your saved game data with the alternative method covered below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Handle a Cloud Save Conflict
 
  Sometimes you might see Cloud Save conflict error messages when you select to start games with Epic Games. That error prompts you to select an **Upload to Cloud** or **Download to Machine** option with newer or older files. Always select the newer file option when a **Cloud Save** conflict arises to ensure you retain your latest saves.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Manually Back Up Saved Data for Games in Your Epic Library
 
@@ -90,16 +84,16 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 ![The Save game data location details for Subnautica](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/save-game-location-details.jpg)
 4. [Launch File Explorer](https://www.makeuseof.com/windows-file-explorer-not-opening/) to open the Windows or Epic Games Launcher saved data path specified for your game on its PCGamingWiki page.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Right-click the game’s saved game folder and select **Copy**.  
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
 6. Open another directory to paste the folder in and press **Ctrl + V**.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You will now have a secondary copy of a game’s game saves folder. If you’re going to install the game on another PC, paste the copied game saves folder onto a portable USB drive. Then you can copy the game saves over to your alternative desktop or laptop from that USB drive.
 
@@ -112,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
  Nevertheless, it’s still recommended to manually back up game saves in that directory before reinstalling titles just in case. Then launch your game to check if you can load all previously saved progress after reinstalling it. If not, you can restore the lost game saves by moving the backed-up data into the required folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Secure Saved Gaming Progress for Your Epic Games Library
@@ -126,29 +120,6 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-urban-uprising-video-game-list-like-gta-v-for-2024/"><u>[New] Urban Uprising Video Game List Like GTA V for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-seamless-android-screen-grabber/"><u>[Updated] In 2024, Seamless Android Screen Grabber</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unleash-luxury-top-10-accessories-for-the-sj4000-for-2024/"><u>[Updated] Unleash Luxury Top 10 Accessories for the SJ4000 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerated-action-plan-for-file-explorer-restarts-on-win-11/"><u>Accelerated Action Plan for File Explorer Restarts on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoidance-and-remediation-for-a-frozen-resource-monitor-app-in-windows-11/"><u>Avoidance and Remediation for a Frozen Resource Monitor App in Windows 11</u></a></li>
-<li><a href="https://win-tips.techidaily.com/demystifying-the-mrbeast-prize-scheme-tips-for-staying-safe-from-potential-frauds/"><u>Demystifying the MrBeast Prize Scheme: Tips for Staying Safe From Potential Frauds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/embedding-ical-into-your-windows-system-without-hassle/"><u>Embedding iCal Into Your Windows System without Hassle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-the-best-fileshare-apps-on-a-windows-laptop/"><u>Exclusive Guide to the Best Fileshare Apps on a Windows Laptop</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-find-x7-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-xcover-6-pro-tactical-edition-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy XCover 6 Pro Tactical Edition Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-y100t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo Y100t Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masteringdarkmodesettingforwindowstexteditor/"><u>MasteringDarkModeSettingForWindowsTextEditor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/productivity-hack-instant-open-of-windows-sticky-notes-on-login/"><u>Productivity Hack: Instant Open of Windows' Sticky Notes on Login</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-taskbar-icon-anomalies/"><u>Rectifying Taskbar Icon Anomalies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-command-over-disabled-menu-functions/"><u>Regaining Command over Disabled Menu Functions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/rise-above-the-noise-must-have-video-seo-tools/"><u>Rise Above the Noise – Must-Have Video SEO Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-cant-get-mail-errors-windows-11-edition/"><u>Strategies to Overcome Can’t Get Mail Errors, Windows 11 Edition</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-angle-warriors-samsung-vs-lg-camera-showdown/"><u>Ultimate Angle Warriors Samsung VS LG Camera Showdown</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -156,3 +127,25 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-creating-an-efficient-framework-for-ps3-game-screencasts/"><u>[New] 2024 Approved Creating an Efficient Framework for PS3 Game Screencasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-simplifying-android-screen-recordings-a-user-friendly-method/"><u>[New] In 2024, Simplifying Android Screen Recordings A User-Friendly Method</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-pros-of-choosing-best-pc-video-grabbers-for-win11/"><u>[Updated] 2024 Approved Pros of Choosing Best PC Video Grabbers for Win11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-thorough-evaluation-of-the-high-resolution-dell-p2715q-monitor/"><u>[Updated] A Thorough Evaluation of the High-Resolution Dell P2715Q Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-ways-to-open-the-remote-desktop-connection-tool-in-windows-11/"><u>10 Ways to Open the Remote Desktop Connection Tool in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-your-day-windows-productivity-software-that-works-wonders/"><u>Ace Your Day: Windows Productivity Software That Works Wonders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-your-way-through-windows-with-mouseclicklock-techniques/"><u>Ace Your Way Through Windows with MouseClickLock Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-balanced-screen-viewing-a-step-by-step-guide-to-90-degree-rotation/"><u>Achieving Balanced Screen Viewing: A Step-by-Step Guide to 90-Degree Rotation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-the-speaker-in-microsofts-new-era/"><u>Activating the Speaker in Microsoft's New Era</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-discords-non-display-errors-on-pc/"><u>Addressing Discord's Non-Display Errors on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-update-problem-windows-11-error-code-0x800f0922/"><u>Addressing Update Problem: Windows 11 Error Code 0X800f0922</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blue-screen-errors-finding-their-windows-footprint/"><u>Blue Screen Errors: Finding Their Windows Footprint</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/dvd-video-3/"><u>DVD Video変換無料ソフトの一般的なエラーと解消方法 - 第3章</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hearing-is-believing-eliminate-sound-glitches-in-roblox-on-your-latest-windows-platforms/"><u>Hearing Is Believing: Eliminate Sound Glitches in Roblox on Your Latest Windows Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-f15-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy F15 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/simplified-approach-to-embedding-multiple-video-playlists-from-youtube/"><u>Simplified Approach to Embedding Multiple Video Playlists From YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210821420-9781684983766-the-devil-has-a-son/"><u>The Devil Has a Son | Free Book</u></a></li>
+</ul></div>
+

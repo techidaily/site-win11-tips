@@ -1,7 +1,7 @@
 ---
 title: Setting Up Unique Screen Savers in Win11
-date: 2024-09-05T19:32:02.501Z
-updated: 2024-09-06T19:32:02.501Z
+date: 2024-11-10T16:33:11.923Z
+updated: 2024-11-17T19:25:40.273Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,12 @@ keywords: Win11 Screen Save,Unique Saver Setup,Win11 Customization,New Windows S
 thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5c3d20cd43f4003c2eedf878.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Setting Up Unique Screen Savers in Win11
 
  Screensavers are no longer necessary since most modern displays are no longer susceptible to screen burn-in. Nevertheless, screensavers are still lovely decorations on your computer monitor when idle; that's why Windows 11 still has this feature, with five default options.
 
  But how do you customize these default screensavers? Check out the steps below and get yourself a screensaver that reflects your personality and character.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Customize Windows 11 3D Text and Photos Screensavers with Screen Saver Settings
 
  The Screen Saver Settings window is where you can set your screensaver. It also has a Settings button that'll let you customize them. However, 3D Text and Photos are the only default screensavers for which Windows 11 has some built-in settings.
@@ -65,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 **Wait time** and**On resume** are the only options you can change for the Photos and 3D Text screensavers outside the settings windows. Adjust the**Wait time** value to set a longer or shorter idle activation time for the screensaver. If you prefer to return to a log-in screen after resuming, select the**On resume** option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Customize Bubbles, Mystify, and Ribbons with Winaero ScreenSavers Tweaker
 
  Clicking the**Settings** buttons for the Bubbles, Mystify, and Ribbons screensavers in Windows 11 won't open any options for them. To customize those screensavers, download and launch the freeware Winaero Screensaver Tweaker software. That portable app lets you tweak hidden options for Bubbles, Mystify, and Ribbons in Windows platforms dating back to Vista. This is how you can download and launch Winaero Screensaver Tweaker:
@@ -75,6 +70,14 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our[how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click the Windows 8 and x64 subfolders.
 7. Then double-click**ScreensaversTweaker.exe** to open the Windows Screensavers Tweaker software.
 
@@ -84,12 +87,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Below the bars, there are some checkbox settings you enable or disable. Selecting**Opaque Bubbles** will display non-transparent bubbles in the screensaver. You can omit the desktop wallpaper from the screensaver by choosing the Don't use**Desktop as Background** checkbox.
 
  Select the**Ribbons** tab to customize that screensaver. There you can reduce or increase the number of ribbons by dragging the slider on the**Number of Ribbons** bar. To make the ribbons broader or narrower, drag the**Ribbon Width** bar's slider.
@@ -97,29 +94,24 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 ![The Ribbons screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ribbons-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The ribbons blur and fade in the screensaver by default. However, you can change that by deselecting the**Apply Blur and Fade** checkbox. Then ribbons will fill up the screen without fading away.
 
  To customize Mystify, select that screensaver's tab. You can increase or reduce the number of lines Mystify has by dragging the slider on the**Number of Lines** bar. Drag the**Lines Width** bar's slider to set broader or narrower lines.
 
 ![The Mystify screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mystify-screensaver-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Mystify, Bubbles, and Ribbons tabs all include**Span Multiple Monitor** checkboxes. That setting is enabled by default so that the screensaver extends across multiple monitors. Deselecting that checkbox will display a set screensaver separately on multiple monitors.
 
  You can select to preview all changes you make to screensavers within the software. Click**Play Preview** to see the screensaver in a small thumbnail screen. Or choose**Full Screen** to see what the customized screensaver looks like in fullscreen mode.
@@ -127,11 +119,12 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Customize Windows 11's Screensavers for Better Effect
 
  Even though they're no longer essential, the default Windows 11 screensavers still look groovy. So, it's worth setting one of those screensavers to liven up your PC when idle. You can refine their look according to preference by tweaking the customization settings outlined above.
@@ -142,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +142,22 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-a-profitable-youtube-content-strategy/"><u>[Updated] In 2024, Crafting a Profitable YouTube Content Strategy</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-achieve-perfect-youtube-broadcasts-with-superior-webcams/"><u>2024 Approved Achieve Perfect YouTube Broadcasts with Superior Webcams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-digging-into-the-heart-of-recordcast-technology/"><u>2024 Approved Digging Into the Heart of RecordCast Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-your-twitter-following-proven-strategies-and-tips/"><u>Boosting Your Twitter Following: Proven Strategies and Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962298676-canon-imageclass-mf4800-printer-drivers-download-and-installation-guide/"><u>Canon ImageCLASS MF4800 Printer Drivers: Download and Installation Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-null-associated-app-errors-windows/"><u>Dealing with Null Associated App Errors (Windows)</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-cookiebot-for-superior-website-analytics-and-conversion/"><u>Harness the Power of Cookiebot for Superior Website Analytics and Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-null-audio-device-issue-in-win-10/"><u>How To Fix Null Audio Device Issue in Win 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovation-unboxed-an-insightful-examination-of-the-powerhouse-m1-in-apples-latest-imac/"><u>Innovation Unboxed: An Insightful Examination of the Powerhouse M1 in Apple's Latest iMac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-icloud-challenges-a-comprehensive-fix-it-list-for-your-apple-device/"><u>Navigating iCloud Challenges: A Comprehensive Fix-It List for Your Apple Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-fatal-error-unraveling-0x800f0831/"><u>Navigating Through Fatal Error: Unraveling 0X800f0831</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-operation-automatic-updates-plus-swap-graphics-card-in-win10/"><u>Smooth Operation: Automatic Updates + Swap Graphics Card in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-control-your-w11-microphone-mastery-plan/"><u>Taking Control: Your W11 Microphone Mastery Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-control-over-mouse-dynamics-in-windows/"><u>Unleashing Control Over Mouse Dynamics in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-luminosity-taming-windows-colour-chaos/"><u>Unlocking Luminosity: Taming Windows' Colour Chaos</u></a></li>
+</ul></div>
 

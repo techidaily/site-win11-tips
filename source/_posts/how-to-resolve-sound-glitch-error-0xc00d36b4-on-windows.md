@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve Sound Glitch: Error 0XC00D36B4 on Windows"
-date: 2024-11-02T18:05:30.733Z
-updated: 2024-11-06T18:54:47.520Z
+date: 2024-11-16T16:33:39.565Z
+updated: 2024-11-17T19:51:39.346Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c
 
  Below, we have listed different troubleshooting methods that can help you fix the problem in no time, regardless of the cause. Choose the solution that is most appropriate for your situation.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check the File Format of the File You're Playing
 
  Different media players and codecs support different file formats, and if the file you are trying to play is in an unsupported format, the player will fail to play it, leading to the problem at hand.
@@ -51,14 +44,14 @@ thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c
 
 ![Check the file type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-file-type.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If it is not, you can use a third-party application to convert it into a compatible format. Alternatively, you can try using another application that supports the format of your audio file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run the Audio Troubleshooter
 
@@ -80,6 +73,14 @@ Here is how you can do that:
 4. In the following window, click on the**Turn Windows features on or off** hyperlink in the left pane.  
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 5. Now, scroll down and expand the**Media Features** option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Uncheck the box associated with Windows Media Player and click**OK** to save the changes.  
 ![Disable Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-windows-media-player.jpg)
 7. Confirm your action in the User Account Control prompt and restart your computer.
@@ -87,10 +88,10 @@ Here is how you can do that:
 9. Finally, restart your computer again and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Uninstall Nero Codecs
@@ -107,10 +108,10 @@ Here is how you can do that:
 5. Once done, restart your computer and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Copy Protection
@@ -125,6 +126,14 @@ Here is how you can do that:
 2. Choose**Options** from the context menu.  
 ![Choose Options in Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/media-player-options.jpg)
 3. Head over to the**Rip Music** tab and uncheck the box associated with**Copy protect music** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Uncheck the Copy protect music option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-protect-music.jpg)
 4. Click**Apply** \>**OK** to save the changes.
 
@@ -139,13 +148,6 @@ Here is how you can do that:
  Finally, you can try reinstalling the Windows Media Player which will clear out any issues within the media player itself that may be contributing to the issue.
 
  Alternatively, you can also consider switching to a third-party media player that offers a similar functionality until Microsoft releases an official fix for this issue. We have discussed some of the[best free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) in our previous guide which you can head over to, to make an informed decision.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Audio Issues in Windows, Resolved
 
@@ -168,18 +170,21 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-snapseed-starters-handbook-for-photo-editing/"><u>[Updated] 2024 Approved The Snapseed Starter's Handbook for Photo Editing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-generate-interest-making-your-own-youtube-intros/"><u>[Updated] In 2024, Generate Interest Making Your Own YouTube Intros</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-trending-titles-navigating-through-facebooks-hot-takes/"><u>[Updated] Trending Titles Navigating Through Facebook's Hot Takes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-advice-preserving-your-note-apps-integrity/"><u>Expert Advice: Preserving Your Note App's Integrity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-an-amazing-android-tablet-took-over-my-kindle-and-ipad-uncover-the-story-at-zdnet/"><u>How an Amazing Android Tablet Took Over My Kindle and iPad - Uncover the Story at ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-apples-caldav-on-your-windows-11-desktop/"><u>Optimizing Apple's CalDav on Your Windows 11 Desktop</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/podcasts-vs-youtube-making-an-informed-media-decision/"><u>Podcasts Vs. YouTube Making an Informed Media Decision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recovering-unavailable-pin-after-software-crash-on-windows-11/"><u>Recovering Unavailable PIN After Software Crash on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-optimal-function-modernizing-old-windows-tech/"><u>Restoring Optimal Function: Modernizing Old Windows Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-windows-filesystems-problematic-onedrive-tag-error/"><u>Solving Windows Filesystem's Problematic OneDrive Tag Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/team-share-dilemma-heres-the-solution/"><u>Team Share Dilemma? Here's the Solution!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-expert-analysis/"><u>Tom's Computer Insights & Expert Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovating-quickly-2-approaches-to-making-snapchat-filters/"><u>[New] In 2024, Innovating Quickly 2 Approaches to Making Snapchat Filters</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-real-time-visualizer/"><u>[Updated] 2024 Approved Real-Time Visualizer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/contrast-in-connectivity-tackling-pcs-lag-on-laptops/"><u>Contrast in Connectivity: Tackling PC's Lag on Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-customize-windows-11s-default-screensavers/"><u>How to Customize Windows 11'S Default Screensavers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manually-check-your-windows-pc-for-signs-of-spyware-or-hacking/"><u>How to Manually Check Your Windows PC for Signs of Spyware or Hacking</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-11-pro-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 11 Pro and iPad</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macos-winx-hd/"><u>MacOS使用者常關心的 WinX HD 影片編輯器支援問題 - 線上直接求助方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-moves-fixed-tips-to-overcome-windows-lags-in-sw-battlefront-2/"><u>Master Your Moves: Fixed Tips to Overcome Windows Lags in SW Battlefront 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prepared-participation-test-your-pcs-microphone-webcam/"><u>Prepared Participation: Test Your PC’s Microphone, Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preparing-vbox-on-win-prioritize-deps-for-smooth-setup/"><u>Preparing VBox on Win: Prioritize Deps for Smooth Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-and-personalize-window-11s-search-interface/"><u>Revamp and Personalize Window 11'S Search Interface</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-the-metaverse-essential-gear-to-consider-top-7/"><u>Transforming the Metaverse Essential Gear to Consider (Top 7)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-increasing-frame-rates-and-reducing-lag-in-watch-dogs-legion/"><u>Ultimate Guide: Increasing Frame Rates & Reducing Lag in Watch Dogs: Legion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-security-flaw-exposed-in-linuxs-essential-curl-utility-with-immediate-patch-available-report-by-zdnet/"><u>Urgent Security Flaw Exposed in Linux's Essential Curl Utility, with Immediate Patch Available | Report by ZDNET</u></a></li>
 </ul></div>
 

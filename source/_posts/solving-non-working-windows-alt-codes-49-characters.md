@@ -1,7 +1,7 @@
 ---
 title: Solving Non-Working Windows Alt Codes (49 Characters)
-date: 2024-11-03T23:05:45.158Z
-updated: 2024-11-07T04:45:45.508Z
+date: 2024-11-12T18:49:55.979Z
+updated: 2024-11-17T20:24:28.395Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,21 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 ![Turn On the Mouse keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-on-the-mouse-keys.jpg)
 5. Check the box next to**Only use mouse keys when Num lock is on** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After performing the steps above, close the window and restart your computer. At the next system startup, try using ALT codes again to see if it resolves the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Tweak the Registry Editor
 
@@ -73,10 +87,10 @@ To get started, follow these steps:
 4. After opening the Registry Editor, navigate to the following directory. Alternatively, you can copy and paste the given location in the registry address field and hit**Enter** on your keyboard:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 HKEY_CURRENT_USER\Control Panel\Input Method
@@ -87,6 +101,13 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
  Once you've completed the above steps, close Registry Editor and restart your computer. Upon restarting, hold down the right Alt key and press the + (plus) key on your numeric keypad. Then enter the hex code, and release the Alt key to enter any character.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Remove the Problematic Application
 
  If you have installed any third-party applications that might be causing problems with the ALT codes, then uninstalling them could also help fix this issue. To do this, follow these steps:
@@ -95,13 +116,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 2. Look for the program that is causing the error.
 3. Once you find it, click the three dots and click**Uninstall** .
 4. Then follow the onscreen instructions to complete the process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Try a Different Keyboard Layout
 
@@ -114,13 +128,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
  After selecting one, click**Apply** , then**OK** , and restart your computer. Now try using ALT codes again to see if they work now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Troubleshoot With a Clean Boot
 
  If none of the above solutions work, you can try[performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will start your computer with only essential services and programs running, which can help identify any potential conflicts or issues with startup items that may be causing ALT codes to malfunction.
@@ -130,13 +137,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Make sure that the box**Load startup items** is unchecked.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. The next step is to click on the**Services** tab.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Hide all Microsoft services** , then click**Disable all** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
@@ -164,22 +164,24 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-drafting-dynamic-denouements/"><u>[Updated] In 2024, Drafting Dynamic Denouements</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-ranking-top-8-budget-friendly-srt-apps/"><u>[Updated] The Ultimate Ranking Top 8 Budget-Friendly SRT Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-streamline-your-content-a-tutorial-for-instagram-video-sharing/"><u>2024 Approved Streamline Your Content A Tutorial for Instagram Video Sharing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-top-picks-11-affordable-innovative-yt-moniker-generators/"><u>2024 Approved Top Picks 11 Affordable, Innovative YT Moniker Generators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-network-access-on-windows-10-and-11-through-telnet/"><u>Boosting Network Access on Windows 10 & 11 Through Telnet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-into-design-mastering-windows-11s-theme-customization/"><u>Dive Into Design: Mastering Windows 11'S Theme Customization</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/evil-genius-2-triumph-how-to-successfully-launch-after-initial-setbacks/"><u>Evil Genius 2 Triumph: How to Successfully Launch After Initial Setbacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-overcoming-org-managed-configurations-in-windows-11/"><u>Guidelines for Overcoming Org-Managed Configurations in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/halt-mspm-errors-windows-based-fixes-required/"><u>Halt MSPM Errors, Windows-Based Fixes Required</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-stop-immediate-redirect-of-incoming-calls-to-iphones-voicemail-easy-troubleshooting-steps/"><u>How to Stop Immediate Redirect of Incoming Calls to iPhone's Voicemail: Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-fixes-eliminate-ssgnatures-in-a-blink-for-2024/"><u>Quick Fixes Eliminate Ssgnatures in a Blink for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/run-task-manager-as-an-admin-essential-steps-for-windows-11-users/"><u>Run Task Manager as an Admin: Essential Steps for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-photo-error-on-windows-devices-efficiently/"><u>Troubleshoot Photo Error on Windows Devices Efficiently</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undetectable-disk-hiding-methods-in-windows-10-and-11/"><u>Undetectable Disk Hiding Methods in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-a-ram-cache-and-how-do-you-clear-it-on-windows/"><u>What Is a RAM Cache, and How Do You Clear It on Windows?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-the-battle-against-broken-qualcomm-atheros-bluetooth-drivers-on-windows-10/"><u>Winning the Battle Against Broken Qualcomm Atheros Bluetooth Drivers on Windows 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-identity-reimagined-best-name-generators-listed/"><u>[New] In 2024, Channel Identity Reimagined Best Name Generators Listed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>[Updated] How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-instantaneous-access-to-high-quality-passport-selfies-free-desktopweb-tool/"><u>[Updated] In 2024, Instantaneous Access to High-Quality Passport Selfies – Free Desktop/Web Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-secrets-revealed-mastering-minecraft-recordings-on-a-macbook-pro/"><u>[Updated] In 2024, Secrets Revealed Mastering Minecraft Recordings on a MacBook Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-dissecting-ajey-nagars-2023-youtube-economic-landscape/"><u>2024 Approved Dissecting Ajey Nagar's 2023 YouTube Economic Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-unwanted-scrolling-windows-edition/"><u>Combat Unwanted Scrolling: Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/devhome-explained-mastering-windows-11-upgrades/"><u>DevHome Explained: Mastering Windows 11 Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-deep-the-ultimate-win11-mouse-properties-guide/"><u>Dive Deep: The Ultimate Win11 Mouse Properties Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-11s-rounded-edges/"><u>Eliminate Windows 11'S Rounded Edges</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/guia-paso-a-paso-trasladar-el-perfil-de-usuario-entre-unidades-en-windows-1011-sin-problemas/"><u>Guía Paso a Paso: Trasladar El Perfil De Usuario Entre Unidades en Windows 10/11 Sin Problemas</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-samsung-galaxy-s24-ultra-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Samsung Galaxy S24 Ultra? </u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-set-up-custom-hotkeys-for-pasting-pre-defined-text-snippets-in-windows-10-and-11/"><u>How to Set Up Custom Hotkeys for Pasting Pre-Defined Text Snippets in Windows 10 & 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X50 Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-lava-blaze-2-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Lava Blaze 2 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-style-and-functionality-comprehensive-review-of-the-taotronics-tt-dl1-6-led-lighting/"><u>Innovative Style & Functionality: Comprehensive Review of the TaoTronics TT-DL1 6 LED Lighting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-msvcr120dll-missing-message-on-desktops/"><u>Navigating 'Msvcr120_dll' Missing Message on Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-in-game-audio-output-solving-windows-issues-in-valorant/"><u>Realigning In-Game Audio Output: Solving Windows Issues in Valorant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-dormant-devices-with-synapse-on-windows-11/"><u>Reviving Dormant Devices with Synapse on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-7-tricks-for-resolving-obs-studios-disconnect-issue-on-windows-pcs/"><u>Top 7 Tricks for Resolving OBS Studio's Disconnect Issue on Windows PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Legacy Keys: An Insider's Look at Narrator Shortcuts"
-date: 2024-10-31T02:08:13.015Z
-updated: 2024-11-07T05:43:34.800Z
+date: 2024-11-11T17:39:10.539Z
+updated: 2024-11-17T16:14:27.372Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ This way, you can switch between the Legacy and Standard layouts.
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
@@ -171,10 +171,10 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get More Out of Windows Narrator
@@ -196,22 +196,19 @@ This way, you can switch between the Legacy and Standard layouts.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-channel-growth-blueprint-selecting-between-studio-and-latest-beta-for-2024/"><u>[New] Channel Growth Blueprint Selecting Between Studio and Latest Beta for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-linking-fb-stories/"><u>[New] The Ultimate Guide to Linking FB Stories</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-advanced-settings-for-ixml-configuration-files/"><u>1. Advanced Settings for iXML Configuration Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-workflow-paste-and-mouse-jump-techniques/"><u>Accelerate Workflow: Paste & Mouse Jump Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/complete-insight-into-sierras-icloud-file-management-for-2024/"><u>Complete Insight Into Sierra’s iCloud File Management for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/efficient-troubleshooting-dealing-with-directx-errors/"><u>Efficient Troubleshooting: Dealing with DirectX Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tuning-virtual-memory-in-windows-11-for-maximum-performance/"><u>Fine-Tuning Virtual Memory in Windows 11 for Maximum Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-zoom-in-tiktok-creation-for-2024/"><u>Harnessing the Power of Zoom in TikTok Creation for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/icloud-on-windows-common-fixes-for-download-problems/"><u>ICloud on Windows: Common Fixes for Download Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-graphics-issues-with-overwatch/"><u>No More Graphics Issues with Overwatch</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/to-perfection-selecting-the-best-video-editor-for-android/"><u>Reel to Perfection Selecting the Best Video Editor for Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-printer-connectivity-in-windows-os/"><u>Restoring Printer Connectivity in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-your-pubg-saved-data-in-windows-1110/"><u>Reviving Your PUBG Saved Data in Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sync-success-reestablishing-obs-studio-server-connection-in-win/"><u>Sync Success: Reestablishing OBS Studio Server Connection in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-swiftly-show-and-hide-directories-on-windows-11-pcs/"><u>Tips for Swiftly Show & Hide Directories on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-6-windows-to-dos-optimal-apps-compared/"><u>Top 6 Windows To-Dos: Optimal Apps Compared</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-ultimate-list-must-follow-igtv-creators/"><u>[New] In 2024, Ultimate List Must-Follow IGTV Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-quick-guide-to-making-twitter-videos-into-expressive-gifs/"><u>[Updated] 2024 Approved Quick Guide to Making Twitter Videos Into Expressive GIFs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-navigating-the-speed-control-interface-on-snapchat/"><u>2024 Approved Navigating The Speed Control Interface on Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-windows-11-and-parallels-confluence-in-macos/"><u>Achieving Windows 11 and Parallels Confluence in MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-shortcuts-fast-paste-of-set-text/"><u>Advanced Shortcuts: Fast Paste of Set Text</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-procedures-for-win-11-mobility-center/"><u>Avoidance Procedures for Win 11 Mobility Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beating-the-system-a-strategy-for-fixing-0x800700e9-in-xbox-game-passwindows-11/"><u>Beating the System: A Strategy for Fixing 0X800700E9 in Xbox Game Pass/Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719278811623-bypassing-chrome-block-strategies-for-w11-users/"><u>Bypassing Chrome Block: Strategies for W11 Users.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-xs-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone XS? Heres the Best Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-gt-5-by-drfone-android/"><u>Three Ways to Sim Unlock Realme GT 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-twitch-7-quick-fixes-for-non-loading-streams/"><u>Troubleshoot Twitch: 7 Quick Fixes For Non-Loading Streams</u></a></li>
 </ul></div>
 

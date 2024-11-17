@@ -1,7 +1,7 @@
 ---
 title: Guide to Solve Non-Detected Proxy Settings on Windows OS
-date: 2024-11-01T13:15:13.464Z
-updated: 2024-11-07T02:50:35.699Z
+date: 2024-11-14T19:18:15.293Z
+updated: 2024-11-17T16:23:57.396Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What's a Proxy Server?
 
 ​​​​​​
@@ -58,16 +65,10 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
  These are most common in business and school use, where system administrators use them for security and efficiency. It's very unlikely that you would use a proxy server on your home network, unless you specifically set one up. This is why in most home cases, you should clear any proxy settings that might exist when you run into this issue.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the Network Adapter Troubleshooter
@@ -89,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 ![Windows IP Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/01/Windows-IP-Settings.jpg)
 
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update or Roll Back Your Network Driver
 
@@ -125,22 +119,15 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
 `ipconfig /flushdns`
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Review Firewall, VPN, and Antivirus Software
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should next make sure you don't have a firewall, VPN, or security suite interfering with your network connection. Perhaps your chosen software had an update that changed an option you weren't aware of, or you just installed a new app that changed proxy settings for some reason.
@@ -148,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
  Try disabling your firewall, VPN, and antivirus software one at a time, then see if the error goes away. If it does, the issue lies with one of those apps. You'll need to configure them to avoid interfering with regular network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Scan for Malware
@@ -172,22 +159,29 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Reset Your Network Settings
 
 ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After trying everything above, you should resort to a full reset of your network configuration in Windows. You've already spent a lot of time working on this, and a reset should clear whatever persistent problem is blocking your connection with this "cannot detect proxy settings" error.
 
  Thankfully, Windows 10 makes it easy to reset your whole configuration. Open**Settings > Network & Internet** . On the**Status** tab, find**Network reset** at the bottom and click it. On Windows 11, this is under **Settings > Network & internet > Advanced network settings > Network reset** instead.
 
  Be aware that this will remove all network information from your computer, so you'll need to reconnect to saved networks again. If you're OK with this, click**Reset now** . Your computer will perform the reset, then restart.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Windows Could Not Detect Proxy Settings: Resolved
 
@@ -210,18 +204,24 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/astery-of-viewership-hierarchy-key-aspects-examined/"><u>[New] Mastery of Viewership Hierarchy Key Aspects Examined</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-your-youtube-earnings-strategies-for-monetizing-short-videos-for-2024/"><u>[Updated] Boosting Your YouTube Earnings Strategies for Monetizing Short Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accurate-timekeeping-at-your-fingertips-winning-windows-timers/"><u>Accurate Timekeeping at Your Fingertips: Winning Windows Timers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bing-the-comprehensive-guide-to-microsofts-web-search-service/"><u>Bing: The Comprehensive Guide to Microsoft's Web Search Service</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevating-your-creations-with-instagrams-soundtrack-feature/"><u>Elevating Your Creations with Instagram's Soundtrack Feature</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-epson-ds-530-ready-compatible-drivers-for-windows-11-x64-download-now/"><u>Get Your Epson DS-530 Ready: Compatible Drivers for Windows 11 X64 Download Now</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-huawei-nova-y71-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Huawei Nova Y71 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-net-restoration-on-your-machine-max-156/"><u>Mastering .NET Restoration on Your Machine (Max 156)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-inbox-tips-for-creating-a-secondary-gmail-id/"><u>Mastering Your Inbox: Tips for Creating a Secondary Gmail ID</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-challenging-c0000022-failure-in-windows/"><u>Navigating Through the Challenging C0000022 Failure in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-chrome-profiles-issues-on-windows-devices/"><u>Resolving Chrome Profiles Issues on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skip-steps-just-admin-command-prompt-anytime-now/"><u>Skip Steps, Just Admin Command Prompt Anytime Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719365974672-ten-terminal-tricks-you-can-try-today/"><u>Ten Terminal Tricks You Can Try Today!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-apps-for-downloading-youtube-content/"><u>[New] Top Apps for Downloading YouTube Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-chuckles-and-challenges-best-fun-for-young-minds/"><u>[Updated] 2024 Approved Chuckles & Challenges - Best Fun for Young Minds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-razer-kiyo-webcam-review/"><u>[Updated] 2024 Approved Razer Kiyo Webcam Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-art-of-deformed-text-display/"><u>[Updated] In 2024, The Art of Deformed Text Display</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/become-a-broadcast-pro-screen-sharing-101-for-facebookers/"><u>Become a Broadcast Pro Screen Sharing 101 for Facebookers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-top-6-computer-utilization-monitors-on-pcs/"><u>Discover the Top 6 Computer Utilization Monitors on PCs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-tecno-spark-go-2024-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-persistence-of-user-defined-volume-mixer/"><u>Ensuring Persistence of User-Defined Volume Mixer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-moto-g73-5g-by-drfone-android/"><u>How to Bypass FRP from Motorola Moto G73 5G?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-sony-xperia-1-v-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Sony Xperia 1 V If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insights-into-windows-patch-identification/"><u>Insights Into Window's Patch Identification</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp3-pctiktok/"><u>MP3への変換 - PCとスマートフォン用TikTok動画対応ガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-over-windows-snipping-commands/"><u>Regaining Control Over Windows' Snipping Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-missing-dxgidll-streamline-your-win11/"><u>Reinstate Missing Dxgi.dll, Streamline Your Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-the-backbone-softwaredistribution-and-catroot2-on-ws11/"><u>Resetting the Backbone: SoftwareDistribution and Catroot2 on WS11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-10-proplus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 10 Pro+ 5G FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-error-0xc00d36b4-sound-fixes/"><u>Unraveling Windows Error 0XC00D36B4: Sound Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-wintoys-a-short-guide-to-a-powerful-windows-tool/"><u>What Is Wintoys? A Short Guide to a Powerful Windows Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-accessing-screen-capture-utility-quickly/"><u>Windows 11: Accessing Screen Capture Utility Quickly</u></a></li>
 </ul></div>
 

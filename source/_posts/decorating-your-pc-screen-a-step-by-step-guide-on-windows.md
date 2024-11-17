@@ -1,7 +1,7 @@
 ---
 title: "Decorating Your PC Screen: A Step-by-Step Guide on Windows"
-date: 2024-11-01T21:43:01.239Z
-updated: 2024-11-06T21:13:31.144Z
+date: 2024-11-16T20:12:35.360Z
+updated: 2024-11-17T19:34:42.925Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
 Now you can get scribbling on the Windows desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use Epic Pen to Draw on Your Desktop
 
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
@@ -69,16 +62,16 @@ Now you can get scribbling on the Windows desktop.
 
 ![Start free trial option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-free-trial-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also permanently activate some of the features in Epic Pen Pro without splashing out for the upgrade by opting into its brightdata.com scheme. To do so, click**Menu** \>**Settings** . Select the**Enable the Text tool** or**Enable the Whiteboard tool** option to activate one of those features and share device resources.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Draw on the Windows Desktop With gInk
 
@@ -90,16 +83,22 @@ Now you can get scribbling on the Windows desktop.
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The fifth pen is a transparent highlighter option. Click**Pen 5** to activate the tool’s highlighter. You can utilize this tool for highlighting things in presentations.
 
@@ -108,10 +107,16 @@ Now you can get scribbling on the Windows desktop.
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
@@ -123,6 +128,13 @@ Now you can get scribbling on the Windows desktop.
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Scribbling on Your Windows Desktop With These Apps
 
@@ -143,22 +155,15 @@ Now you can get scribbling on the Windows desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-saving-your-iphone-7-display/"><u>[New] The Ultimate Guide to Saving Your iPhone 7 Display</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ahead-of-the-curve-best-hydro-games-compiled-for-2024/"><u>[Updated] Ahead of the Curve Best Hydro Games Compiled for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-invisible-vibes-dimming-music-on-computers/"><u>[Updated] Invisible Vibes Dimming Music on Computers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streaming-with-flair-xbox-one-edition/"><u>[Updated] Streaming with Flair Xbox One Edition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/clipbox-2024/"><u>【おすすめ】次世代動画保存!Clipboxを超える、集中表紹: 2024年全自由ダウンロードソフト!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-the-secrets-of-god-mode-in-windows-11/"><u>Discovering the Secrets of God Mode in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dismantling-windows-11-security-features-with-rufus-mastery/"><u>Dismantling Windows 11 Security Features with Rufus Mastery</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maintain-peak-performance-on-your-surface-devices-with-upgrades/"><u>Maintain Peak Performance on Your Surface Devices with Upgrades</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-insufficient-access-for-windows-updates/"><u>Overcoming Insufficient Access for Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unreachable-steam-content-servers-on-desktop-oses/"><u>Overcoming Unreachable Steam Content Servers on Desktop OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-to-address-interruptexception-in-windows-os-crash/"><u>Solutions to Address INTERRUPT_EXCEPTION in Windows OS Crash</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96164924-9781620557938-the-mother-mantra/"><u>The Mother Mantra | Free Book</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-7-best-video-streaming-apps-for-windows-11-your-ultimate-guide/"><u>Top 7 Best Video Streaming Apps for Windows 11 - Your Ultimate Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-server-stumbled-problem-on-windows-store/"><u>Troubleshooting the Server Stumbled Problem on Windows Store</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-mystery-of-your-missing-windows-patch-key/"><u>Uncover the Mystery of Your Missing Windows Patch Key</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-dynamic-book-trailers-illustration/"><u>[New] Dynamic Book Trailers Illustration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-soundscapes-for-social-scenarios-on-facebook/"><u>[Updated] Soundscapes for Social Scenarios on Facebook</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-defy-2-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Defy 2 FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-a-zoom-pro-navigating-the-best-practices-for-snaps-in-snapchat/"><u>Become a Zoom Pro Navigating the Best Practices for Snaps in Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-11s-operation-elevation-error-740/"><u>Breaking Down Windows 11'S Operation Elevation Error #740</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-back-your-guardianship-quick-fixed-windows-tips/"><u>Bringing Back Your Guardianship: Quick Fixed Windows Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-the-deadlock-in-your-windows-update-journey/"><u>Bypass the Deadlock in Your Windows Update Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-expiring-soon-error-on-windows-11-os/"><u>Bypassing 'Expiring Soon' Error on Windows 11 OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-resources-for-finding-your-ideal-rental-property/"><u>Top 10 Resources for Finding Your Ideal Rental Property</u></a></li>
 </ul></div>
 

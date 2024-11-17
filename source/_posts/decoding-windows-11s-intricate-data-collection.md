@@ -1,7 +1,7 @@
 ---
 title: Decoding Windows 11'S Intricate Data Collection
-date: 2024-08-28T01:20:43.040Z
-updated: 2024-08-29T01:20:43.040Z
+date: 2024-11-11T18:35:50.588Z
+updated: 2024-11-17T18:18:55.971Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ![Screenshot showing Advertising IDs in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-20-221046.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tech companies assign a unique string of characters to their users to identify them quickly. These are unique identifiers, and they can be cookies, IP addresses, device IDs, MAC addresses, EPC codes, ISBN numbers, D-U-N-S numbers, etc. In Windows 11, that unique identifiers are called Advertising IDs.
 
  Advertising IDs in Windows 11 are responsible for developers and advertising networks accessing your data, including both personal and non-personal. These data are analyzed to understand your preferences for displaying personalized advertisements on the apps you're using.
@@ -43,37 +50,46 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
  It's important to note that turning off the feature will not reduce the number of advertisements you see on apps. Instead, you might see ads that don't cater to what you may like.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Windows 11 Can Track Your Location
 
 ![location services windows 11 turned on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/location-services-windows-11-on.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows 11 can collect your location data which is necessary for some apps and services to give you proper information. For example, you need to turn on the location service for a weather app to show an accurate weather report in your area.
 
  However, you can withdraw your permission and don't allow apps and services to track your location. Check out [how to configure location services in Windows](https://www.makeuseof.com/windows-11-configure-location-services/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 4\. Windows 11 Collects Your Activity History
 
 ![clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-activity-history.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Activity History is another Windows 11 feature through which Microsoft collects various types of data. This includes which websites you visit, the services you use, and the files you open. As per Microsoft, keeping track of things you do on your computer through Activity History is essential to improve the Windows experience and its services.
 
  However, Activity History is not something Microsoft forces everyone to use. If you don't like Microsoft watching how you use your computer, you can turn off the feature from the Settings app. You can also [erase your Activity History](https://www.makeuseof.com/tag/view-delete-windows-10-activity-history/), but doing so may affect some features in Windows 11\.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Windows 11 Collects Your Voice Data
 
 ![Screenshot showing Speech page in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/speech.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows 11 can collect and send your voice data to Microsoft's servers through online speech recognition technology, but only if you grant permission.
 
  Some apps use Microsoft's cloud-based online speech recognition technology to offer features such as dictation, voice commands, and voice assistants. If you don't allow Windows 11 to collect your voice data through speech recognition technology, you won't be able to access apps built using it.
@@ -86,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  If you don't mind losing some features to protect your privacy, here are [every privacy options you can adjust in Windows 11](https://www.makeuseof.com/windows-11-privacy-options-explained/). And if you want to go even further, check out [how to disable Windows 11's tracking features](https://www.makeuseof.com/disable-windows-11-tracking-features/) too.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Worry About Tech Companies Collecting Your Data?
 
  No tech companies can function and provide you with better services without analyzing users' data. The real question is how safe your data is
@@ -97,9 +110,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  If you're concerned about others peeking into your information, check out these [data privacy habits to practice for protecting your personal data](https://www.makeuseof.com/online-safety-habits-data-privacy/) and [how to make it harder for brokers to collect your data](https://www.makeuseof.com/ways-to-make-it-harder-for-data-brokers-collect-your-data/).
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 11 Collects Your Data, but Only If You Want
 
  Privacy is an ongoing debate, but transparency is the key, no matter which side you're on. What data Windows 11 can get access to and what it can't is entirely in your hands.
@@ -108,11 +118,27 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  In this article, we're listing the different ways Windows 11 collects your personal and non-personal data.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-skills-a-tailored-approach-to-graphic-careers/"><u>[Updated] Harnessing Skills A Tailored Approach to Graphic Careers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-update-error-code-0x8024800c/"><u>Fixing Windows Update Error Code 0X8024800C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/improve-video-playback-with-ai-interpolated-frames-elevate-fps-and-seamless-motion-for-ultimate-fluidity/"><u>Improve Video Playback with AI Interpolated Frames - Elevate FPS and Seamless Motion for Ultimate Fluidity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-hidden-potential-a-deep-dive-into-background-eraser-in-ps/"><u>In 2024, Unveiling Hidden Potential A Deep Dive Into Background Eraser in PS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/iosandroid-sync-with-windows-server-files/"><u>IOS/Android: Sync with Windows Server Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/navigating-the-nuances-of-cross-system-skype-group-communication-effectively-and-efficiently-for-2024/"><u>Navigating the Nuances of Cross-System Skype Group Communication Effectively and Efficiently for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-errors-how-to-fix-unopenable-packages/"><u>Navigating Windows Errors: How to Fix Unopenable Packages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restarting-procedure-to-fix-a-disabled-windows-11-hotspot/"><u>Restarting Procedure to Fix a Disabled Windows 11 Hotspot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719307808288-tackling-windows-glitches-find-solutions-now/"><u>Tackling Windows Glitches: Find Solutions Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-gopro-accessories/"><u>The Best GoPro Accessories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-default-addons-in-chatgpt-how-to-leverage-them-effectively/"><u>Understanding Default Addons in ChatGPT: How to Leverage Them Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-best-practices-for-ping-commands/"><u>Understanding Windows: Best Practices for Ping Commands</u></a></li>
+<li><a href="https://video-capture.techidaily.com/walking-deadlines-the-ultimate-selection-of-excellent-zombie-games-for-2024/"><u>Walking Deadlines The Ultimate Selection of Excellent Zombie Games for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "OneDrive: A Complete Guide to Folder Resetting in Win 11"
-date: 2024-09-01T05:13:17.290Z
-updated: 2024-09-02T05:13:17.290Z
+date: 2024-11-14T16:26:29.345Z
+updated: 2024-11-17T18:51:10.787Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
  If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Unlinking OneDrive
 
  The first thing to do is to[unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
@@ -32,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
  Once you’ve done this, you will be presented with a window to set up OneDrive. Leave this open for the moment. You will need to revisit it once you’ve moved your OneDrive folder to a different location on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### 2\. Moving Your OneDrive Folder
 
 With that done, you can now relocate your OneDrive folder.
@@ -45,19 +48,29 @@ With that done, you can now relocate your OneDrive folder.
 3. Select your OneDrive folder and in the ribbon click on the**Move to** button.  
 ![Moving Your OneDrive folder on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/01-move-onedrive-folder.jpg)
 4. From the drop-down that appears, click on the**Choose location** option.  
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Move your OneDrive folder to new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-move-onedrive-folder-to-location.jpg)
 5. A pop-up will appear. Browse to the location you want your new OneDrive folder to reside, and click on the**Move** button on the bottom of the pop-up.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Move OneDrive folder to a new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-choose-new-local-onedrive-location.jpg)
 6. Windows will start to move your OneDrive folder and all of its contents to the new location you’ve selected. This may take a while depending on the size of the folder.
 
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Re-Linking OneDrive
 
  Now all that’s left is to re-link your Microsoft account with OneDrive on your PC, this time pointing to the new location. Follow the steps below to do that.
@@ -67,36 +80,32 @@ With that done, you can now relocate your OneDrive folder.
 3. Click on the**Change location** link.  
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
 4. Then browse to the new location where you moved your OneDrive folder on your PC, and click on the**Select Folder** button.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 5. You’ll be presented with a warning screen, telling you that files already exist in this folder. Click on the**Use this folder** button.  
 ![Choose where OneDrive saves files on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/07-choose-onedrive-location.jpg)
 6. Verify that the location you’ve selected is the correct one, and click on**Next** .
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. You’ll be presented with a welcome screen. Scroll through it and close the setup window.
 
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
  Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
  Files on your OneDrive can take up a lot of disk space. You don’t have to settle for your OneDrive folder’s default location. You can free up space on your root drive by moving it to a different location, perhaps even on a different drive.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +114,20 @@ With that done, you can now relocate your OneDrive folder.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/oosting-your-youtube-earnings-strategies-for-monetizing-short-videos-for-2024/"><u>[New] Boosting Your YouTube Earnings Strategies for Monetizing Short Videos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-convert-flawlessly-leading-software-for-high-res-videos/"><u>[Updated] In 2024, Convert Flawlessly Leading Software for High-Res Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-float-engaging-with-netflixs-picture-in-picture/"><u>2024 Approved The Art of Float Engaging with Netflix's Picture-in-Picture</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/androidiphone-the-best-selection-of-free-overlays-for-image-enhancement/"><u>Android/iPhone The Best Selection of Free Overlays for Image Enhancement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exposing-deception-chatgpt-windows-app-is-a-scam-avoid-potential-threats/"><u>Exposing Deception: ChatGPT Windows App Is a Scam, Avoid Potential Threats</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-successfully-transferring-your-favorite-videos-to-ipod-with-movavi/"><u>Guide: Successfully Transferring Your Favorite Videos to iPod with Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-daily-productivity-the-top-6-apps-for-windows-11-users/"><u>Mastering Daily Productivity: The Top 6 Apps For Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-hardware-ids-retrieval-methods/"><u>Mastering Windows Hardware IDs Retrieval Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-change-windows-startpage-configuration/"><u>Steps to Change Windows Startpage Configuration</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-a-triad-of-topical-youtube-tracks-for-2024/"><u>Tailoring a Triad of Topical YouTube Tracks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-a-future-ready-device-review-of-asus-s15-bape-edition/"><u>Unveiling a Future-Ready Device: Review of Asus S15 BAPE Edition</u></a></li>
+</ul></div>
 

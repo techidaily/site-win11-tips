@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Window Management Skills Using Keyboard in Win11
-date: 2024-09-01T05:16:08.495Z
-updated: 2024-09-02T05:16:08.495Z
+date: 2024-11-12T17:10:07.048Z
+updated: 2024-11-17T20:12:22.761Z
 tags:
   - windows10
   - windows11
@@ -48,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 
 ![Two side-by-side windows resized with Snap Layout hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/side-by-side-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## How to Resize Software Windows With Custom Hotkeys
 
  Wouldn’t it be great if Windows 11 included options with which you could create hotkeys for resizing software windows to specific sizes? Of course, Microsoft’s flagship OS doesn’t have such a feature; but you can install software that does.
@@ -68,24 +65,29 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 3. Then select one of the sizes for a hotkey to resize a window to on the**Menu** tab.  
 ![The Menu tab in Sizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-tab.jpg)
 4. Click the**Edit** button.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
 6. Press a letter to combine with your selected key.
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Click**OK** on the Sizer Menu Entry window.
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now open File Explorer using one of the many[ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
  If you want to create a hotkey for a window size not included on the**Menu** tab, click the**Add Size** button; input alternative dimension values in the**Width** and**Height** boxes. Enter a title for the keyboard hotkey in the**Description** box. Then set a hotkey for the window size as instructed for steps 10 to 13 above.
@@ -95,8 +97,12 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also set the hotkeys to move windows to specific positions. To do that, select size you set a hotkey for on the**Menu** and click**Edit** . Select an option on the Move to drop-down menu. Click the**OK** \>**Apply** option to save the changes.
 
  If you want to remove a hotkey, select the window size you set it for on the Menu tab. Press the**Delete** button to erase. You can also reorder the sizes on the**Menu** tab by selecting them and pressing the**Move Up** and**Move Down** options.
@@ -108,8 +114,12 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
  If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
  Resizing windows helps you fit multiple apps open on the desktop better. You may find it better to utilize keyboard keys for changing window sizes with the methods above instead of the mouse.
@@ -122,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +139,24 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-rl-live-capture/"><u>[New] 2024 Approved The Ultimate Guide to RL Live Capture</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-advanced-mobiles-for-crafting-perfect-dji-videos/"><u>[New] In 2024, Advanced Mobiles for Crafting Perfect DJi Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-gameye-expertise-a-compreeher-guide-to-quality-capture/"><u>[New] In 2024, GamEye Expertise A Compreeher Guide to Quality Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-inspirational-cinema-collection-10-movie-gems/"><u>[Updated] In 2024, Inspirational Cinema Collection 10 Movie Gems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leveraging-googles-platform-for-podcast-distribution/"><u>[Updated] Leveraging Google's Platform for Podcast Distribution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/connecting-your-bluetooth-headphones-with-a-windows-11-laptop-a-simple-step-by-step-guide/"><u>Connecting Your Bluetooth Headphones with a Windows 11 Laptop: A Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effective-strategies-for-relocating-your-applications-on-windows-10-by-moving-to-a-different-drive/"><u>Effective Strategies for Relocating Your Applications on Windows 10 by Moving to a Different Drive</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-to-resolve-ipad-unresponsiveness-and-tips-for-ongoing-protection/"><u>Effective Strategies to Resolve iPad Unresponsiveness & Tips for Ongoing Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-intel-unison-error-on-windows-11/"><u>Fixing Intel Unison Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-jumpstart-your-pre-windows-11-machine/"><u>How to Jumpstart Your Pre-Windows 11 Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-atmosphere-leading-windows-11-weather-apps/"><u>Navigating the Atmosphere: Leading Windows 11 Weather Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-your-packaging-skills-the-art-of-sefx-in-win11/"><u>Perfect Your Packaging Skills: The Art of SEFx in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivate-winget-in-a-click-for-windows-11/"><u>Reactivate Winget in a Click for Windows 11</u></a></li>
+<li><a href="https://discover-help.techidaily.com/rettung-und-wiederaufbau-von-speichermedien-professionelle-compact-flash-datenrettungstechniken/"><u>Rettung Und Wiederaufbau Von Speichermedien: Professionelle Compact Flash-Datenrettungstechniken</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-offline-windows-update-handbook/"><u>The Offline Windows Update Handbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-benefit-of-bi-weekly-windows-data-save/"><u>The Unseen Benefit of Bi-Weekly Windows Data Save</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-powered-up-customize-cmd-shortcuts-using-nircmd/"><u>Windows 11 Powered Up: Customize Cmd Shortcuts Using NirCmd</u></a></li>
+</ul></div>
 

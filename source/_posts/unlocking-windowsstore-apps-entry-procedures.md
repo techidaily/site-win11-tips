@@ -1,7 +1,7 @@
 ---
 title: "Unlocking WindowsStore Apps: Entry Procedures"
-date: 2024-09-01T05:14:26.279Z
-updated: 2024-09-02T05:14:26.279Z
+date: 2024-11-11T17:26:30.340Z
+updated: 2024-11-17T18:29:19.497Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,14 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 1. Open the Windows File Explorer (**Win + E**) and go to the **C:\\Program Files** directory.  
 ![Program Files Directory In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Program-Files-Directory-In-Explorer.jpg)
 2. Now, click the **View** options button at the top of the File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click or hover over the **Show** button and select the **Hidden items** option to enable it.  
 ![File Explorer View Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/file-explorer-view-options.jpg)
 
@@ -62,33 +70,32 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 2. Once the context menu appears, select **Properties** from the list. You can also use a quick shortcut to open the folder properties, i.e., **Alt + Enter**.  
 ![WindowsApps Properties Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Properties-Option.jpg)
 3. Now, under the **Properties** window. Click the **Security** tab and then the **Advanced** option locatedright at the bottom.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
 4. Once you've opened the Advanced Security Settings window, click the **Change** text next to Owner.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Now, click the **Apply** button, followed by the **OK** button, to initiate the process of transferring ownership.  
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
 9. Once done, click the **OK** button on the next pop-up.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you followed the steps above to take ownership of the WindowsApps folder, you can now move or delete files from that folder.
 
@@ -108,6 +115,13 @@ The powerful video editing program for your Windows PC</a>
 
 ![PowerShell In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/PowerShell-In-Windows-Search.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. In Powershell, run the following command and press the Enter key:
 
 `takeown /f &ldquo;C:\Program Files\WindowsApps&rdquo; /r`
@@ -121,8 +135,12 @@ The powerful video editing program for your Windows PC</a>
  If you're facing crashes while executing the file, make sure to check out some [effective ways to fix PowerShell crash errors](http://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/).
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. How to Access WindowsApps via a Registry Hack
 
  There's another quick way to do the same thing with just a few steps. If you cannot use the PowerShell method stated above, you can use a simple registry hack to access the files in one go.
@@ -141,6 +159,13 @@ The powerful video editing program for your Windows PC</a>
 
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enjoy Unrestricted Access to the WindowsApps Folder
 
  Using one of the provided methods, you should now be able to view the hidden files and folders inside the WindowsApps folder. Now that you know everything about it, you can easily make changes to the UWP packages that are safe.
@@ -151,11 +176,31 @@ The powerful video editing program for your Windows PC</a>
 
  Thankfully, you can remove unnecessary files from the WindowsApps folder to free up some space. But it's a little hard to get to this folder because it's protected and hidden in Windows File Explorer. Here are some ways to access the WindowsApps Folder on Windows and make necessary changes to it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-prime-routines-for-mobile-game-screening/"><u>[New] In 2024, Prime Routines for Mobile Game Screening</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-digital-tv-signals-inside-your-home-a-comprehensive-look-at-indoor-antennas/"><u>Boosting Digital TV Signals Inside Your Home: A Comprehensive Look at Indoor Antennas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-steam-access-failure-on-win11-platform/"><u>Correcting Steam Access Failure on Win11 Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dusk-drawings-with-digital-darkness-in-paint/"><u>Dusk Drawings with Digital Darkness in Paint</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-how-to-stop-chivalry-ii-from-freezing-or-crashing/"><u>Expert Advice on How to Stop Chivalry II From Freezing or Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-downloads-every-time-a-windows-guide-to-valorant-speed/"><u>Faster Downloads Every Time: A Windows Guide to Valorant Speed</u></a></li>
+<li><a href="https://facebook.techidaily.com/groups-mobilize-push-1-star-rating-on-social-media-platforms/"><u>Groups Mobilize: Push 1-Star Rating on Social Media Platforms</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-redmi-k70-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi Redmi K70? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-automatically-delete-old-files-in-windows-10-and-11/"><u>How to Automatically Delete Old Files in Windows 10 & 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-zdsofts-edge-masterful-video-capture-analysis/"><u>In 2024, ZDSoft's Edge Masterful Video Capture Analysis</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/photozen-framing-xd-picture-perfect-at-a-premium/"><u>PhotoZen Framing XD: Picture-Perfect at a Premium</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-forbidden-page-access-in-windows-os/"><u>Resolving Forbidden Page Access in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-transition-converting-your-tablet-to-windows-11s-taskbar/"><u>Seamless Transition: Converting Your Tablet to Windows 11'S Taskbar</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/soluciones-expertas-para-el-rescate-y-recuperacion-de-datos-en-tarjetas-microsd-sandisk-tu-manual-completo/"><u>Soluciones Expertas Para El Rescate Y Recuperación De Datos en Tarjetas MicroSD SanDisk - Tu Manual Completo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-turn-off-windows-mobility-mode-win-11/"><u>Swift Steps to Turn Off Windows Mobility Mode (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-windows-update-hurdles-quick-solutions/"><u>Troubleshoot: Windows Update Hurdles - Quick Solutions!</u></a></li>
+</ul></div>
+

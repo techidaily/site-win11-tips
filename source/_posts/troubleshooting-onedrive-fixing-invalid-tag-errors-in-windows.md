@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting OneDrive: Fixing Invalid Tag Errors in Windows"
-date: 2024-09-01T05:17:40.203Z
-updated: 2024-09-02T05:17:40.203Z
+date: 2024-11-13T16:01:14.407Z
+updated: 2024-11-17T16:51:29.802Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  "Error 0x80071129" or "Location not found" appears as the title of the error window, while the main part of the error appears in the error window. Any variation of this error has nearly the same causes, regardless of its nature. In light of that, similar fixes are effective in resolving the issue. Let's see how you can fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## But First, Some Preliminary Checks
 
  Apply the following preliminary checks before attempting the major fixes:
@@ -43,8 +50,12 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  If the above preliminary checks do not solve the problem and the issue persists, start implementing the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Run a CHKDSK Scan
 
  For Windows users, CHKDSK is a go-to utility for scanning and fixing hard drive problems. Whenever users encounter a hard drive error or an issue with the data stored on their drive, the CHKDSK scan proves to be a godsend.
@@ -58,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 4. Then press**Enter** .  
 ![Running Check Disk Scan in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-check-disk-scan-in-windows-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here,**C:** refers to the drive where your operating system is installed. If your operating system resides on a different drive, change the command accordingly. Also, don't forget to enter the**"/f"** and**"/r"** parameters since these are needed to fix errors, locate bad sectors, and recover corrupted information.
 
  The CHKDSK scan has the greatest chance of adequately fixing the error under discussion. However, if it doesn't resolve the problem, you can move on to the next solution.
@@ -79,15 +87,8 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![Run SFC and DISM scans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/scannow-restorehealth-cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To better understand the results of these scans, see our[article about the differences between CHKDSK, DISM, and SFC](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . If the error persists after running the above scans, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Check for File-Specific Issues
 
  Next, you should check whether the error occurs for a particular file or all files synced on OneDrive. Attempt to make the exact change that caused the error in a different folder and see if the problem repeats. If the issue is file-specific, it is recommended that you restore the file to its previous version, if possible. Here are the steps you need to follow:
@@ -98,13 +99,23 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 4. Click the**Restore** button, then click**Apply** and**OK** .  
 ![Restoring Previous Version of a File in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restore-previous-file-version.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Remove the Passwords From the Problematic Files
 
  Has this error occurred after password-protecting a synced file on OneDrive? In this case, you should go to OneDrive, check the history of modified files, and restore the problematic file to a previous version. Our article on[recovering OneDrive files from version history](https://www.makeuseof.com/tag/restore-onedrive-files-version-history/#rolling-back-a-file) explains how to roll back a file. Reset OneDrive if this fix does not solve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reset OneDrive
 
  Resetting the app or service is a good troubleshooting step for problems that don't resolve with general fixes. Therefore, if none of the fixes have worked so far, you should reset OneDrive. Remember that resetting OneDrive will not delete your data, but you'll have to set up the sync connection again.
@@ -120,20 +131,21 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  If the file you are experiencing the error with has value to you and you cannot delete it, move it to another computer and delete it from your primary device. Hopefully, relocating or deleting the file will prevent the error from occurring again.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Keep Annoying OneDrive Errors at Bay
 
  It can be very frustrating to encounter the "The tag present in the reparse point buffer is invalid" error when making changes to our files. If you apply the fixes in the article, hopefully, you'll be able to fix the error and reaccess your files. If nothing works, you can move it elsewhere and delete it from your primary drive.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +154,26 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-the-game-discover-these-top-12-pc-clickers/"><u>[New] 2024 Approved Mastering the Game Discover These Top 12 PC Clickers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-samsung-camera-toolkit-review-2023-edition/"><u>[New] In 2024, Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-advanced-methods-for-desktopmobile-screen-casting/"><u>[Updated] Advanced Methods for Desktop/Mobile Screen Casting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effortless-audio-downloads-these-24-tools-split-youtube-sounds-for-2024/"><u>[Updated] Effortless Audio Downloads These 24 Tools Split YouTube Sounds for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ranking-the-best-ios-devices-tools-to-download-fb-movies-and-tunes/"><u>[Updated] In 2024, Ranking the Best iOS Devices' Tools to Download FB Movies & Tunes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-engage-listeners-through-instagram-and-podcasts/"><u>2024 Approved How To Engage Listeners Through Instagram & Podcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-time-lapse-magic-capturing-moments-with-an-ipad/"><u>2024 Approved Time-Lapse Magic Capturing Moments with an iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-most-effective-win-pc-tracking-apps-today/"><u>Discover the Most Effective Win PC Tracking Apps Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/echo-chatters-how-to-fix-silent-microphones-on-google-meet-windows/"><u>Echo Chatters: How to Fix Silent Microphones on Google Meet, Windows</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-folder-discovery-using-advanced-search-tool/"><u>Effortless Folder Discovery Using Advanced Search Tool</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/essential-insights-on-how-long-it-takes-to-set-up-windows-11-a-complete-overview/"><u>Essential Insights on How Long It Takes to Set Up Windows 11 - A Complete Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-climate-tools-for-w10w11-users/"><u>Exclusive Climate Tools for W10/W11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-way-user-access-control-works-for-administrators-on-windows/"><u>How to Change the Way User Access Control Works for Administrators on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-touchpad-sensitivity-on-windows-11-laptops/"><u>How to Change Touchpad Sensitivity on Windows 11 Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-vlc-format-error-on-windows-systems/"><u>Overcoming VLC Format Error on Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-business-with-these-essential-five-ai-tools/"><u>Revolutionize Your Business With These Essential Five AI Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-game-controllers-dualshock-for-pcs/"><u>Seamless Game Controllers: DualShock for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackle-notepad-quick-efficient-ways-to-restart-on-windows-pcs/"><u>Unshackle Notepad: Quick, Efficient Ways to Restart on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-enablingdisabling-usb-device-access/"><u>Windows Security: Enabling/Disabling USB Device Access</u></a></li>
+</ul></div>
 

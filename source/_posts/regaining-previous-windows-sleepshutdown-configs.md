@@ -1,7 +1,7 @@
 ---
 title: Regaining Previous Windows Sleep/Shutdown Configs
-date: 2024-11-04T09:04:12.551Z
-updated: 2024-11-07T12:23:26.309Z
+date: 2024-11-10T16:13:42.426Z
+updated: 2024-11-17T18:26:08.944Z
 tags:
   - windows10
   - windows11
@@ -41,16 +41,16 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 4. Next, click on**Power Options** .
 5. Expand the**Show additional plans** section.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Change Power Mode From the Settings Panel
 
 ![change power mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-power-mode-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [On Windows 11, you can change the power mode from the Settings app](https://www.makeuseof.com/windows-11-change-power-plan/) . You can choose between the Best power efficiency, Balanced, and Best performance power modes in the Power & battery settings.
 
@@ -61,6 +61,13 @@ To change power mode on Windows 11:
 3. Click the drop-down for**Power mode** and select your preferred power plan.
 
  If the Power Mode doesn’t show any or some power schemes, you’ll need to restore it using the powercfg command-line utility.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Reset the Default Power Plan Settings Using Power PowerShell
 
@@ -74,6 +81,13 @@ To reset Windows default power plans:
 2. In the PowerShell window, type the following command and press**Enter** :  
 `powercfg -restoredefaultschemes`
 3. The above command will reset default power schemes. Close PowerShell and check for any improvements.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Restore the Missing Power Plan Using the Command Prompt
 
@@ -98,16 +112,16 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  Next, open**Control Panel** and go to**Power Options** to check if the missing power plans are restored on your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Enable the High Performance Power Plan Using Command Prompt
 
 ![enable high performance plan windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-high-performance-plan-windows-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use a different**powercfg** command to enable the High Performance power plan on Windows. This is useful if your system is missing only the High Performance power scheme. Here’s how to do it.
 
@@ -119,13 +133,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  If the power plans are still missing, check if Modern Standby (S0) is enabled. If yes, you’ll need to disable Modern Standby to restore the missing power plans.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Disable Modern Standby (S0) to Restore Default Power Plans
 
  If you have a Modern Standby (S0) compatible system, check if this sleep state is enabled. When enabled, the default power plans may be disabled to prevent any conflict when the system is in a low-power idle state.
@@ -133,13 +140,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
  As you may have guessed already, in this situation, you’ll need to[disable Modern Standby (S0) on Windows](https://www.makeuseof.com/windows-disable-modern-standby/) to restore the default power plans on Windows. After you disable Modern Standby (S0), open Power Options to use the default power plans.
 
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Manually Create the Power Plans
 
@@ -155,10 +155,10 @@ To create a custom Power Plan on Windows:
 5. In the left pane, click on**Create a Power Plan.**  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
@@ -190,24 +190,19 @@ To create a custom Power Plan on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>[New] 2024 Approved A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1716042027137-new-2024-approved-top-6-minecraft-house-ideas-for-beginners/"><u>[New] 2024 Approved Top 6 Minecraft House Ideas [for Beginners]</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-success-updated-youtube-revenue-policies/"><u>[Updated] Streaming Success Updated YouTube Revenue Policies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directing-local-groups-policy-a-focused-approach-for-users-in-windows-11-and-11/"><u>Directing Local Groups Policy: A Focused Approach for Users in Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-shifting-your-powertoys-profile-to-another-pc/"><u>Efficiently Shifting Your PowerToys Profile to Another PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-resolving-rdp-errors-in-windows-11/"><u>Essential Tips for Resolving RDP Errors in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-endure-and-correct-win11s-fatal-bug/"><u>How to Endure and Correct Win11's Fatal Bug</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-speaker-distortion-on-pcs-windows-10-and-7-solutions/"><u>How to Fix Window's Speaker Distortion on PCs (Windows 10 & 7 Solutions)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-opting-for-applecareplus-coverage-worth-your-money-in-the-long-run-lets-find-out/"><u>Is Opting for AppleCare+ Coverage Worth Your Money in the Long Run? Let's Find Out</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/maximizing-seo-impact-through-integrated-content-and-email-strategies-massmail-mastery/"><u>Maximizing SEO Impact Through Integrated Content & Email Strategies | MassMail Mastery</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-launching-problems-with-hogwarts-legacy-proven-fixes-for-a-smooth-experience/"><u>Resolving Launching Problems with 'Hogwarts Legacy': Proven Fixes for a Smooth Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-transition-website-to-desktop-compatibility/"><u>Seamless Transition: Website to Desktop Compatibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-fix-0x800700e1-on-w10w11/"><u>Steps to Fix 0X800700E1 on W10/W11</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-master-key-to-a-clutter-free-steam-account-game-deletion-guide/"><u>The Master Key to a Clutter-Free Steam Account: Game Deletion Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-unbeatable-october-prime-day-smartphone-bargains-limited-stock/"><u>Top 7 Unbeatable October Prime Day Smartphone Bargains - Limited Stock!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-overcoming-uninstall-restrictions-on-win-11/"><u>Troubleshooting: Overcoming Uninstall Restrictions on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-pagefilesys-understanding-its-windows-purpose/"><u>What Is Pagefile.sys? Understanding Its Windows Purpose</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725287183626-winxvideo-ai/"><u>Winxvideo AI 使用手冊：影片加強、錄製及編輯技巧</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/yourphoneexe-explained-is-it-safe-on-windows-7xp/"><u>YourPhone.exe Explained - Is It Safe on Windows 7/XP?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-quadcopters-unveiled-decoding-their-mechanism-and-functions-for-2024/"><u>[Updated] Quadcopters Unveiled Decoding Their Mechanism and Functions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sequence-length-in-seconds-of-20mb-media/"><u>2024 Approved Sequence Length in Seconds of 20MB Media</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/asmr-excellence-superior-performance-for-less-money/"><u>ASMR Excellence Superior Performance for Less Money</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/engaging-excellence-best-story-filter-compilation/"><u>Engaging Excellence Best Story Filter Compilation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-audacitys-error-while-opening-sound-device-issue-in-windows-10-and-11/"><u>How to Fix Audacity’s “Error While Opening Sound Device” Issue in Windows 10 & 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-razer-man-owar-mic-functionality-step-by-step-solution/"><u>How to Restore Razer Man O'War Mic Functionality: Step-by-Step Solution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-fabricate-funny-faces/"><u>In 2024, Fabricate Funny Faces</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/monitor-metamorphosis-from-standard-to-stunning-with-asus-mg28uq-for-2024/"><u>Monitor Metamorphosis From Standard to Stunning With ASUS MG28UQ for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigning-fast-the-quintessential-wins-performance-aids/"><u>Reigning Fast: The Quintessential Win's Performance Aids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-audio-software-performance-on-windows-with-error-9999/"><u>Streamlining Audio Software Performance on Windows with Error 9999</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unheard-truth-talk-to-chatgpt-now/"><u>Unheard Truth: Talk to ChatGPT Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-server-execution-failed-in-wmp/"><u>Unraveling 'Server Execution Failed' In WMP</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-10-struggles-cannot-find-mp620-printer-drivers/"><u>Windows 10 Struggles: Cannot Find MP620 Printer Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-audio-device-isolation-explained/"><u>Windows Audio Device Isolation Explained</u></a></li>
 </ul></div>
 

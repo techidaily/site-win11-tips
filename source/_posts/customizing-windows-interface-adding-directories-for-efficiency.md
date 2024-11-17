@@ -1,7 +1,7 @@
 ---
 title: "Customizing Windows Interface: Adding Directories for Efficiency"
-date: 2024-10-30T19:08:25.559Z
-updated: 2024-11-07T02:59:37.912Z
+date: 2024-11-10T16:38:08.430Z
+updated: 2024-11-17T19:45:49.964Z
 tags:
   - windows10
   - windows11
@@ -47,18 +47,18 @@ Once your PC has restarted:
 4. Choose a directory to add to the context menu and select the**OK** option.
 5. Click**Done** to exit the MyFolders window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
@@ -88,10 +88,10 @@ Once your PC has restarted:
 10. Press the**OK** button to extract the RAR archive.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 11. Exit the 7-Zip software.
@@ -113,17 +113,17 @@ Once your PC has restarted:
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Tweak Right Click Context Menu Adder
@@ -159,18 +159,15 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>[Updated] Quick and Easy Channels Personalize Your YouTube URL Now</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ease-through-excess-learn-the-quick-edits-for-large-drafters-on-tiktok/"><u>2024 Approved Ease Through Excess Learn the Quick Edits for Large Drafters on TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-windows-11s-compatibility-fixer/"><u>A Step-by-Step Guide to Windows 11’S Compatibility Fixer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-visual-settings-for-secure-web-experience-in-windows-11/"><u>Advanced Visual Settings for Secure Web Experience in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplify-your-computers-storage-here-are-the-best-free-options/"><u>Amplify Your Computer's Storage - Here Are the Best Free Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-super-mario-adventures-for-pc-gamers-our-picks-of-the-top-6-titles/"><u>Best Super Mario Adventures for PC Gamers: Our Picks of the Top 6 Titles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/comprehensive-review-of-screen-recording-tools/"><u>Comprehensive Review of Screen Recording Tools</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/easy-steps-to-retrieve-lost-shortcut-icons-from-the-hard-disk-in-various-versions-of-windows/"><u>Easy Steps to Retrieve Lost Shortcut Icons From the Hard Disk in Various Versions of Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-linking-devices-a-nearby-share-walkthrough/"><u>Effortlessly Linking Devices: A Nearby Share Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/hack-the-errors-reinstating-x3daudio17dll/"><u>Hack the Errors: Reinstating X3DAudio1_7.dll</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/superior-windows-solutions-for-multimedia-tasks/"><u>Superior Windows Solutions for Multimedia Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-stronger-case-for-windows-11-over-macos/"><u>The Stronger Case for Windows 11 over MacOS</u></a></li>
-<li><a href="https://win-news.techidaily.com/uncover-the-secrets-of-finding-bookmarks-in-google-chrome-explore-three-easy-techniques/"><u>Uncover the Secrets of Finding Bookmarks in Google Chrome - Explore Three Easy Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/udio-upheavals-top-rhythmic-disruptors-for-devices/"><u>[New] Audio Upheavals Top Rhythmic Disruptors for Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-ultimate-playbook-iphone-downloading-for-podcast-enthusiasts/"><u>[New] In 2024, The Ultimate Playbook IPhone Downloading for Podcast Enthusiasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-navigating-the-world-of-youtube-titling-and-tagging/"><u>2024 Approved Navigating the World of YouTube Titling and Tagging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-tailoring-your-youtube-videos-with-customized-text-and-link-embeddings/"><u>2024 Approved Tailoring Your YouTube Videos with Customized Text & Link Embeddings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-win11s-sticky-notes-with-ease/"><u>Conquer Win11's Sticky Notes with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-clearance-ways-keeping-files-on-win11-safe-max-156-chars/"><u>Drive Clearance Ways: Keeping Files on Win11 Safe (Max 156 Chars)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-mobile-and-dslr-shooting-igtv-with-perfection/"><u>In 2024, Mastering Mobile & DSLR Shooting IGTV with Perfection</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-tips-and-tricks-to-add-tags-to-youtube-video/"><u>In 2024, Tips & Tricks to Add Tags to YouTube Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-reasons-to-choose-win11-over-apples-macos/"><u>Top Reasons to Choose Win11 Over Apple's macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-your-windows-devices-microsoft-store-error-code-x800704cf/"><u>Unlocking Your Windows Devices: Microsoft Store Error Code X800704CF</u></a></li>
 </ul></div>
 

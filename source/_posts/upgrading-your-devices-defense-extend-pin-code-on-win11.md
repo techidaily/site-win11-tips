@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Your Device's Defense: Extend Pin Code on Win11"
-date: 2024-11-05T23:04:40.963Z
-updated: 2024-11-07T09:47:50.842Z
+date: 2024-11-15T17:42:53.352Z
+updated: 2024-11-17T17:14:20.870Z
 tags:
   - windows10
   - windows11
@@ -63,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Extend the PIN Length With Group Policy Editor
@@ -90,32 +84,38 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
 4. Select **Apply** and **OK** to set the new PIN length policy.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
@@ -126,27 +126,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-comparing-vsdc-to-best-screen-recording-software-for-2024/"><u>[New] Comparing VSDC to Best Screen Recording Software for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-professional-minecraft-videography-methods/"><u>[New] Professional Minecraft Videography Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-streamlining-the-process-of-iptv-video-recordings/"><u>[Updated] In 2024, Streamlining the Process of IPTV Video Recordings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-skype-symphony-a-roundup-of-high-quality-ringtones/"><u>2024 Approved Skype Symphony A Roundup of High-Quality Ringtones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-key-clues-suggesting-windows-reboot-required/"><u>3 Key Clues Suggesting Windows Reboot Required</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-error-3-fix-for-windows-10-nvidia-opengl/"><u>Addressing Error 3: Fix for Windows 10 Nvidia OpenGL</u></a></li>
-<li><a href="https://facebook.techidaily.com/advance-to-elite-level-with-metas-payment/"><u>Advance to Elite Level with Meta's Payment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-workflow-advanced-filters-and-theme-changes-in-task-manager-windows-11/"><u>Elevate Your Workflow: Advanced Filters & Theme Changes in Task Manager (Windows 11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-and-disabling-windows-key-in-windows-os/"><u>Enabling and Disabling Windows Key in Windows OS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/kinemaster-app-for-android-a-comprehensive-insight-review/"><u>KineMaster App for Android A Comprehensive Insight Review</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-dvd-burning-craft-your-own-photo-discs-using-idvd/"><u>Mastering DVD Burning: Craft Your Own Photo Discs Using iDVD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-compression-errors-a-guide-to-fixed-zip-files-in-windows-11/"><u>Overcoming Compression Errors: A Guide to Fixed ZIP Files in Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quietude-quotient-windowsmac-music-control-for-2024/"><u>Quietude Quotient Windows/Mac Music Control for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-windows-headset-mic-functionality/"><u>Restore Your Windows Headset Mic Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-the-steps-msoffice-installation-on-windows-11/"><u>Simplifying the Steps: MSOffice Installation on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-how-to-alter-file-extensions-on-windows/"><u>Step by Step: How to Alter File Extensions on Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlocking-the-past-with-playstation-plus-premium-a-necessity-for-classic-game-lovers/"><u>Unlocking the Past with PlayStation Plus Premium - A Necessity for Classic Game Lovers</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -154,3 +133,25 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-brands-instagram-presence-with-these-hacks/"><u>[New] 2024 Approved Elevate Your Brand's Instagram Presence with These Hacks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-front-runners-in-4k-gaming-graphics-for-2024/"><u>[New] Front-Runners in 4K Gaming Graphics for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-enhancing-chromes-audio-5-best-web-based-vocal-conversion-apps/"><u>[Updated] Enhancing Chrome's Audio 5 Best Web-Based Vocal Conversion Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-standardized-youtube-images-made-accessible-3-easy-ways-to-download/"><u>[Updated] In 2024, Standardized YouTube Images Made Accessible 3 Easy Ways to Download</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-video-quality-on-tiktok/"><u>2024 Approved Revolutionizing Video Quality on TikTok</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-tutorial-to-create-engaging-valorant-videos-with-thumbnails/"><u>2024 Approved Step-by-Step Tutorial to Create Engaging Valorant Videos with Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-speed-status-in-windows-desktop-area/"><u>Effortless Speed Status in Windows Desktop Area</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-gestures-for-efficient-browsing-in-edge-win-11-edition/"><u>Enabling Gestures for Efficient Browsing in Edge, Win 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/ending-dual-access-to-your-camera-error-0xa00f4243/"><u>Ending Dual Access to Your Camera (Error 0xA00F4243)</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-11-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 11 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-seamless-installation-windows-11-in-place-upgrade-techniques/"><u>Mastering the Seamless Installation: Windows 11 In-Place Upgrade Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-disk-space-safely/"><u>Maximizing Windows Disk Space Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/saving-space-on-your-disk-keep-files-and-free-up-room-in-win11-max-156-chars/"><u>Saving Space on Your Disk: Keep Files & Free Up Room in Win11 (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-revive-slowq-bittorrent-progress-on-pc/"><u>Strategies to Revive Slowq Bittorrent Progress on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-default-windows-configuration/"><u>Tips for Restoring Default Windows Configuration</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-to-non-udemy-online-education-sites-for-2024/"><u>Ultimate Guide to Non-Udemy Online Education Sites for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-server-executed-failed-mystery/"><u>Unraveling the 'Server Executed Failed' Mystery</u></a></li>
+</ul></div>
+

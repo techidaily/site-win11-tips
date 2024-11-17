@@ -1,7 +1,7 @@
 ---
 title: "Flicker-Free Fix: Reviving 10/11 with Inputs on Desktop"
-date: 2024-10-30T21:57:03.053Z
-updated: 2024-11-07T09:04:18.296Z
+date: 2024-11-15T19:32:02.075Z
+updated: 2024-11-17T19:50:44.577Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
@@ -57,19 +57,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  If you don't see the**Power Management** tab on any of your keyboards or mice, either your hardware doesn't support waking the computer from sleep, or you don't have the proper drivers installed. Check our[guide on updating Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for help with getting the latest ones.
 
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
 
@@ -84,24 +71,37 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
 
@@ -124,18 +124,24 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discovering-fun-ways-to-spruce-up-your-discord-status/"><u>[Updated] 2024 Approved Discovering Fun Ways to Spruce Up Your Discord Status</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hitting-the-sweet-spot-top-5-tips-for-channel-growth/"><u>[Updated] In 2024, Hitting the Sweet Spot Top 5 Tips for Channel Growth</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-guide-to-ae-title-effect-wizardry/"><u>2024 Approved The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-the-ideal-windows-11-user-experience/"><u>Crafting the Ideal Windows 11 User Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-app-execution-aliases-in-programming/"><u>Decoding App Execution Aliases in Programming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-seamless-thx-audio-on-windows-pcs/"><u>Ensuring Seamless THX Audio on Windows PCs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-google-pixelbook-go-superior-chromebook-experience-at-an-elevated-price-point/"><u>Evaluating the Google Pixelbook Go - Superior Chromebook Experience at an Elevated Price Point</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 Pro Max</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/revelez-lorigine-de-vos-photographies-vintage-avec-des-logiciels-gratuits-dintelligence-artificielle-les-8-meilleurs-exemples/"><u>Révélez L'Origine De Vos Photographies Vintage Avec Des Logiciels Gratuits D'Intelligence Artificielle - Les 8 Meilleurs Exemples</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-smart-thermostat-picks-for-2e24-expert-reviews-and-comparison-from-zdnet/"><u>Top 5 Smart Thermostat Picks for 2E24: Expert Reviews & Comparison From ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nokia-c32-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nokia C32 FRP Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveil-the-finest-4-webp-viewers-for-your-windows-pc/"><u>Unveil the Finest 4 WebP Viewers For Your Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-sign-in-tricks-for-temporary-user-profiles/"><u>Windows Sign-In Tricks for Temporary User Profiles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-virtual-impression-sculpting-a-playful-digital-identity/"><u>[New] In 2024, Virtual Impression Sculpting a Playful Digital Identity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-guide-to-saving-games-on-windows-10-pro/"><u>[Updated] In 2024, Guide to Saving Games on Windows 10 Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-seamless-integration-mac-recording-techniques-for-snapchat/"><u>[Updated] In 2024, Seamless Integration Mac Recording Techniques for Snapchat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamline-your-virtual-gatherings-with-this-10-free-web-application-list/"><u>[Updated] In 2024, Streamline Your Virtual Gatherings With This 10 Free Web Application List</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-navigating-and-leveraging-siri-for-tiktok-content-creation-for-2024/"><u>[Updated] Navigating and Leveraging Siri for TikTok Content Creation for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unleashing-potential-learning-steams-switch-controller-for-2024/"><u>[Updated] Unleashing Potential Learning Steam's Switch Controller for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-knowledge-unmarked-photo-accumulation/"><u>2024 Approved Essential Knowledge Unmarked Photo Accumulation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-redmi-note-12-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi Redmi Note 12 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-distinctive-look-with-customized-windows-11-monitor-walls/"><u>Creating a Distinctive Look with Customized Windows 11 Monitor Walls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-interface-showing-system-resources-on-taskbar/"><u>Enhancing User Interface: Showing System Resources on Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fine-tune-account-lockout-counter-after-failed-logins-on-windows-11-os/"><u>How to Fine-Tune Account Lockout Counter After Failed Logins on Windows 11 OS</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-tech-landscape-windows-11-installation-on-macos-through-parallels/"><u>Navigate the Tech Landscape: Windows 11 Installation on MacOS Through Parallels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procedures-for-enablingdisabling-windows-component/"><u>Procedures for Enabling/Disabling Windows Component</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adjusting-your-fax-covers-on-w11/"><u>Step-by-Step Guide: Adjusting Your Fax Covers on W11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-lava-blaze-2-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Lava Blaze 2 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-how-to-find-missing-wi-fi-networks-in-windows-11/"><u>Unveiling the Hidden: How to Find Missing Wi-Fi Networks in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-makeover-implementing-animated-backgrounds-on-pc/"><u>Windows 11 Makeover: Implementing Animated Backgrounds on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-memory-mapping-uncovering-ram-types-easily/"><u>Windows Memory Mapping: Uncovering RAM Types Easily</u></a></li>
 </ul></div>
 

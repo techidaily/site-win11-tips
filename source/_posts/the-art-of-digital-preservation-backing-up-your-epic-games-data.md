@@ -1,7 +1,7 @@
 ---
 title: "The Art of Digital Preservation: Backing Up Your Epic Games Data"
-date: 2024-09-05T19:32:03.339Z
-updated: 2024-09-06T19:32:03.339Z
+date: 2024-11-15T19:48:04.672Z
+updated: 2024-11-17T19:15:03.203Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: GameDataBackup,EpicGamesSave,DigitalPreserve,BackUpDigitalData,SaveEpi
 thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a2654636b72d1c325e241fdeaf.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Art of Digital Preservation: Backing Up Your Epic Games Data
 
  Many players install and launch Windows games with Epic Games Launcher. Sometimes players need to reinstall games installed with Epic Games for troubleshooting purposes or when they get new PCs to play them on. The biggest concern players usually have about reinstalling games is losing saved game data.
@@ -37,13 +31,14 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 4. Then click the checkbox labeled **Enable Cloud Saves** to select that option.  
 ![The Enable Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-cloud-saves.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now your game will start cloud saving when you play it so long as it supports that feature. You don’t have to do anything to restore data backed up to Epic’s cloud service after reinstalling a game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Check if a Game Supports Cloud Sync
 
@@ -54,36 +49,20 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 3. Next, right-click the cover image thumbnail for the game you want to check and select **Manage**.  
 ![The Manage option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-option.jpg)
 4. You should see a **Cloud Saves** setting in the management options. Toggle on the **Cloud Saves** option if it’s off (but it shouldn’t be if you’ve already selected **Enable Cloud Saves**).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
+
  You’ll also see the last synced (backed up) date below the **Cloud Saves** option. Click the round **Sync Data Now** button to manually initiate a cloud sync backup. Then you can reinstall the game safe in the knowledge that your saved progress for it has been recently cloud synced.
 
  If a **Cloud Save** option isn’t available there, your saved game data for that title will not be backed up to Epic’s cloud service. So, you’ll need to back up your saved game data with the alternative method covered below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Handle a Cloud Save Conflict
 
  Sometimes you might see Cloud Save conflict error messages when you select to start games with Epic Games. That error prompts you to select an **Upload to Cloud** or **Download to Machine** option with newer or older files. Always select the newer file option when a **Cloud Save** conflict arises to ensure you retain your latest saves.
@@ -102,17 +81,12 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 5. Right-click the game’s saved game folder and select **Copy**.  
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
 6. Open another directory to paste the folder in and press **Ctrl + V**.
+
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will now have a secondary copy of a game’s game saves folder. If you’re going to install the game on another PC, paste the copied game saves folder onto a portable USB drive. Then you can copy the game saves over to your alternative desktop or laptop from that USB drive.
@@ -125,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
  Nevertheless, it’s still recommended to manually back up game saves in that directory before reinstalling titles just in case. Then launch your game to check if you can load all previously saved progress after reinstalling it. If not, you can restore the lost game saves by moving the backed-up data into the required folder.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Secure Saved Gaming Progress for Your Epic Games Library
 
  Now you can ensure you don’t lose any saved gaming progress before reinstalling Epic Games titles or because of data corruption by backing up game save files with the methods above.
@@ -133,11 +114,31 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-bridging-format-gaps-with-srt-transformations/"><u>[New] Bridging Format Gaps with SRT Transformations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-your-viewing-experience-facebook-and-roku-synergy/"><u>[New] In 2024, Enhancing Your Viewing Experience Facebook & Roku Synergy</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-from-creation-your-guide-to-googles-audio-upload/"><u>[New] In 2024, From Creation Your Guide to Google's Audio Upload</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-speedy-windows-inspecting/"><u>[New] The Essential Guide to Speedy Windows Inspecting</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-boosting-virtual-engagement-how-to-incorporate-filters-in-zoom/"><u>[Updated] In 2024, Boosting Virtual Engagement How to Incorporate Filters in Zoom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leading-intro-apps-for-budding-creators-iphoneandroid/"><u>[Updated] Leading Intro Apps for Budding Creators (iPhone/Android)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-refined-retouches-using-the-eraser-in-photoshop-proficiently/"><u>[Updated] Refined Retouches Using the Eraser in Photoshop Proficiently</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-troubleshooting-stop-sequential-frame-skips-in-live-streaming/"><u>[Updated] Troubleshooting Stop Sequential Frame Skips in Live Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clarifying-chromes-unfounded-virus-warnings-on-windows/"><u>Clarifying Chrome’s Unfounded Virus Warnings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-microsoft-store-win11-edition-guide/"><u>Eliminate Microsoft Store: Win11 Edition Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-0x800704cf-glitch-windows-11/"><u>Fixing Microsoft Store 0X800704CF Glitch Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-through-recovering-frozen-netflix-in-windows/"><u>Guiding You Through Recovering Frozen Netflix in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-facilitate-copy-and-paste-features-with-microsoft-edges-security-functionality-win11/"><u>How to Facilitate Copy & Paste Features with Microsoft Edge's Security Functionality (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-understand-these-top-8-missteps/"><u>Mastering Windows 11: Understand These Top 8 Missteps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-basics-of-ussd-a-deep-dive-into-unstructured-supplementary-service-data/"><u>Navigating the Basics of USSD: A Deep Dive Into Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-pc-sound-output-with-windows-11-mixer-settings-guide/"><u>Optimize PC Sound Output with Windows 11 Mixer Settings Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-downloads-with-these-5-torrent-clients/"><u>Streamline Your Downloads with These 5 Torrent Clients</u></a></li>
+</ul></div>
+

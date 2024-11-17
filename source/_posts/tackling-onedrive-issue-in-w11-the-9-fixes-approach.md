@@ -1,7 +1,7 @@
 ---
 title: Tackling OneDrive Issue in W11 - The 9 Fixes Approach
-date: 2024-09-01T05:15:07.113Z
-updated: 2024-09-02T05:15:07.113Z
+date: 2024-11-12T18:35:39.641Z
+updated: 2024-11-17T16:23:04.126Z
 tags:
   - windows10
   - windows11
@@ -40,8 +40,12 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
  You can visit the[Microsoft Service Health page](https://portal.office.com/servicestatus) to check which services are down. Alternatively, you can use third-party websites like[DownDetector](https://downdetector.com/) . That way, you can know if other users also face the same server outage issue. If that's the case, you have to wait until Microsoft resolves the problem and brings up the OneDrive servers again.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Completely Shut Down and Reboot Your Computer
 
  Background services are susceptible to glitches and crashes. If one or more such essential services encounter a glitch, it can impede apps that rely on them. However, Windows 11 enables Fast Startup by default which preserves the state of all system and kernel processes for speeding up boot time.
@@ -52,23 +56,22 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 2. Now, type the following command and press the enter key:**shutdown /s /f /t 0**  
 ![Perform a complete system shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perform-a-complete-system-shutdown.jpg)
 3. A complete shutdown will take longer than usual. Wait for the system to Restart and boot to the desktop.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. Now, launch OneDrive and check if you can access your files.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Now, launch OneDrive and check if you can access your files.
+
 ## 4\. Switch Network Connections
 
  It is possible that your current ISP, or the network you are connected to, blocks Microsoft's servers. Many users shared they were able to fix the issue when they switched to another network. You can simply create a wireless hotspot from your phone or use USB tethering to share the internet with your Windows computer.
 
  After that, relaunch the OneDrive app and check if you can access your files on the network. You can also request your ISP to remove the block on your connection to access the OneDrive servers seamlessly in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Clear OneDrive Logs
 
  You can try clearing OneDrive telemetry log files in the app data folder. Here's how to do it:
@@ -83,9 +86,6 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 6. Close the File Explorer and restart your system.
 7. Launch OneDrive and then check if it encounters the same error code.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 6\. Reset OneDrive
 
  You can reset some Windows apps by accessing their advanced settings. But OneDrive doesn't have an advanced settings option in the Settings app. So, you need to reset it manually using the command prompt. Here's how:
@@ -96,6 +96,20 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 3. Wait for the command to reset OneDrive. You will see the OneDrive window popup informing you that the reset is underway.  
 ![Reset OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-onedrive-1.jpg)
 4. Close the app after you see the "Reset completed" message. Restart your system.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall OneDrive Using Winget
 
@@ -120,12 +134,22 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 
  New Windows updates can sometimes wreck your system and break app compatibility. If OneDrive runs fine before installing a new update,[roll back the Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) . It could take longer if the update file is too big and not all Windows updates can be undone. After that, restart your system and try running the OneDrive app.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Restore or Reset the PC
 
  If you still face the OneDrive error code, it's time to[perform a System Restore or a Windows Reset](https://www.makeuseof.com/windows-reset-system-restore-difference/) . It will help you revert to an old but working system configuration when OneDrive was working fine. Look for the most recent restore point in the wizard and use that.[Perform a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) only if you don't have any Windows Restore points available.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make OneDrive Functional Again
 
@@ -137,8 +161,6 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +168,26 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ideo-text-synthesizer/"><u>[New] Video Text Synthesizer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-lava-storm-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Lava Storm 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-tips-and-tricks-from-tomntech-expertise/"><u>Advanced Hardware Tips and Tricks From Tom'nTech Expertise</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/amplitude-variation/"><u>Amplitude Variation</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-smart-8-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Smart 8 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/declutter-your-notebooks-visual-techniques-in-obsidian/"><u>Declutter Your Notebooks: Visual Techniques in Obsidian</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-unilateral-windows-headset-defects/"><u>Diagnosing Unilateral Windows Headset Defects</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/distinctive-fb-video-aspects/"><u>Distinctive FB Video Aspects</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-no-sound-in-nvidia-high-definition-audio-systems/"><u>Effective Fixes for 'No Sound' In Nvidia High Definition Audio Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-management-windows-11-guide/"><u>Enhancing File Management: Windows 11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-security-controls-for-typical-windows-accounts/"><u>Enhancing Security Controls for Typical Windows Accounts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-software-interaction-winshortcut-guide/"><u>Enhancing Software Interaction: WinShortcut Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-inserting-secure-passwords-into-texts-win-style/"><u>Expert Tips for Inserting Secure Passwords Into Texts, Win-Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-pinpoint-and-tackle-large-disk-space-users/"><u>How to Pinpoint and Tackle Large Disk Space Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-honor-play-40c-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Honor Play 40C PC | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/limiting-removable-storage-on-windows-without-compromise/"><u>Limiting Removable Storage on Windows Without Compromise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726225527798-movavi/"><u>Movaviで効果的な画像タイトル追加ガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powertoys-made-simple-text-pasting-tips/"><u>PowerToys Made Simple: Text Pasting Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761795-9781591798590-the-mystery-of-2012/"><u>The Mystery of 2012 | Free Book</u></a></li>
+</ul></div>
 

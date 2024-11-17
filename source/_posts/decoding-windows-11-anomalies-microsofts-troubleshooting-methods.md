@@ -1,7 +1,7 @@
 ---
 title: "Decoding Windows 11 Anomalies: Microsoft's Troubleshooting Methods"
-date: 2024-10-31T07:08:43.477Z
-updated: 2024-11-07T04:12:54.210Z
+date: 2024-11-15T20:19:20.218Z
+updated: 2024-11-17T17:51:33.621Z
 tags:
   - windows10
   - windows11
@@ -31,16 +31,16 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 
  Using a simple command, you can search and learn more about the nature of the error code. Microsoft Error Lookup tool is only available for Windows OS versions 8.1 and above. So, if you are still using Windows 7, searching the web remains your only option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Download and Run Microsoft Error Lookup Tool
 
  Microsoft Error Lookup is a lightweight command-line tool. You don’t need a copious amount of system resources to run it on your system. Here’s how to download and set up the tool on your system:
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Downloading and Renaming the Tool
 
@@ -65,23 +65,17 @@ Here’s how to do it:
 ![Placing Microsoft Error Lookup Tool in C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placing-microsoft-error-lookup-tool-in-c-drive.jpg)
 3. Now, press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** in the text box and press enter key.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. In the Command Prompt window, type the following command and press the enter key:**cd C:\\** .
 5. Now, you will be in the parent directory. Type**Err** and press enter.  
 ![Running Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/running-microsoft-error-lookup-tool.jpg)
 6. Microsoft Error Lookup Tool will run and display the format to look up error codes along with other available parameters. Don’t close the tool yet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Check Error Codes Using Microsoft Error Lookup Tool
 
@@ -91,6 +85,13 @@ Here’s how to do it:
 2. Suppose you want to look up the error code 0x80070490 using the tool. So, the correct command will be:**Err 0x80070490** .  
 ![Checking an Error Code in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/checking-an-error-code-in-microsoft-error-lookup-tool.jpg)
 3. Press the enter key and the tool will display all the matching information it has about the error code. It will include the exact error string and a sentence describing the meaning. Often, it will also try to make suggestions to fix the error.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  An error code can have multiple meanings and the error lookup tool will list all of them. You can use this information to narrow down your search and try to fix the issue.
 
@@ -108,35 +109,22 @@ Repeat the following steps:
 5. It will export the results to the text file named error on D drive. If the file doesn’t exist, the tool will create it with the same name. However, it won’t display any search result in the Command Prompt and just display the number of matches found.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Exporting Error Code Lookup results in a text file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-a-text-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, open the file, and you can read the entire list of error code results and begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can the Microsoft Error Lookup Tool Display Information About All Error Codes?
 
@@ -163,20 +151,18 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-sweet-indulgence-recording-a-compreran-analysis/"><u>[New] In 2024, Sweet Indulgence Recording A Compreran Analysis</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-building-unique-instagram-profile-thumbnails/"><u>[Updated] In 2024, Building Unique Instagram Profile Thumbnails</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-how-to-use-virtual-reality-tours/"><u>[Updated] In 2024, How to Use Virtual Reality Tours</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-automattics-strategic-move-acquiring-beeper-a-promising-messaging-platform-insights-from-zdnet/"><u>1. Automattic's Strategic Move: Acquiring Beeper, a Promising Messaging Platform - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-windows-error-asking-for-previous-passcode/"><u>Deciphering “Windows Error Asking for Previous Passcode”</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-the-process-of-clearing-restrictions-in-pcs/"><u>Demystifying the Process of Clearing Restrictions in PCs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/s-of-entertainment-discovering-6-free-android-apps-for-your-youtube-playlists-for-2024/"><u>Echoes of Entertainment Discovering 6 Free Android Apps for Your YouTube Playlists for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-update-troubleshooter-stuck-on-resolving-problems/"><u>How to Fix the Windows Update Troubleshooter Stuck on Resolving Problems</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-from-watch-list-to-download-youtube-playlist-in-minutes/"><u>In 2024, From Watch List to Download YouTube Playlist in Minutes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-highlighting-the-best-practices-in-screen-recording-facetime-calls/"><u>In 2024, Highlighting the Best Practices in Screen Recording FaceTime Calls</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-efficiency-automating-file-transfer-in-w11/"><u>Maximize Efficiency: Automating File Transfer in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/penetrating-user-anonymity-acquiring-sids-on-win11/"><u>Penetrating User Anonymity: Acquiring SIDs on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-sound-management-in-win11-with-personalized-keys/"><u>Tailored Sound Management in Win11 with Personalized Keys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-xp-7-and-81-no-longer-backed-by-microsoft/"><u>Windows XP, 7, and 8.1 No Longer Backed by Microsoft</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivating-call-to-action-designing-a-dynamic-subscribe-buttons-with-filmora-for-2024/"><u>[New] Captivating Call-to-Action Designing a Dynamic Subscribe Buttons with Filmora for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-revenue-revolution-how-to-design-effective-animated-fb-ads/"><u>[Updated] In 2024, Revenue Revolution How to Design Effective Animated FB Ads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-7-indicative-windows-activities-of-malware/"><u>Deciphering 7 Indicative Windows Activities of Malware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-failed-to-attach-the-usb-device-error-in-virtualbox-on-windows/"><u>How to Fix the Failed to Attach the USB Device Error in VirtualBox on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-a60s-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel A60s to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-a-pristine-image-canvas-background-technique/"><u>In 2024, Tips for a Pristine Image Canva's Background Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increase-your-productivity-in-windows-with-flow-launcher/"><u>Increase Your Productivity in Windows With Flow Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-advanced-tactics-for-group-policy-optimization/"><u>Leveraging Advanced Tactics for Group Policy Optimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-efficiency-in-windows-1011-with-top-rated-productivity-tools/"><u>Master Efficiency in Windows 10/11 with Top-Rated Productivity Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silencing-the-disruptive-noise-irq-tuning-guide/"><u>Silencing the Disruptive Noise: IRQ Tuning Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speech-recognition-powered-by-free-software-for-2024/"><u>Speech Recognition Powered by Free Software for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y100t-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y100t Device</u></a></li>
 </ul></div>
 

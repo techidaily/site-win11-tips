@@ -1,7 +1,7 @@
 ---
 title: "Master Your Computer Efficiency: Explore 10 Best PowerToys Uses"
-date: 2024-09-05T19:32:04.273Z
-updated: 2024-09-06T19:32:04.273Z
+date: 2024-11-15T16:03:27.023Z
+updated: 2024-11-17T18:56:45.778Z
 tags:
   - windows10
   - windows11
@@ -14,18 +14,6 @@ keywords: Computer Efficiency Mastery,PowerTools Guide,Productivity Boosters,Tec
 thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master Your Computer Efficiency: Explore 10 Best PowerToys Uses
 
  How many times did you have to install an app that completed a single task, such as finding your cursor or renaming multiple files at once?
@@ -42,22 +30,10 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 
 ![Install PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-power-toys-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now that you’ve installed PowerToys, let’s take a look at some of its coolest functionalities.
 
 **Note:** Windows 7, 8, and 8.1 didn’t receive official support for PowerToys, so you might have a hard time trying to get it to work if you’re still using older Windows versions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Identify Every Color
 
  How many times did you want to include in your designs a color displayed on your screen? Instead of struggling to recreate it, you could use PowerToys' Color Picker to identify any color, no matter if it's RGB or HEX code.
@@ -65,12 +41,20 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 ![PowerToys Color Picker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/color-picker-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once Color Picker identifies the color, it saves the information to your Windows clipboard. You can configure the tool and select which color formats to use or have Color Picker show the color’s name.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Rename Multiple Files at Once
 
@@ -82,12 +66,6 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 
  You can check the**Preview** window to make sure the selection is correct. Then, type in the new name for your batch. PowerRename allows you to use multiple criteria when it comes to searching for your files. You can exclude files, enumerate items, or make the search case-sensitive.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Resize Multiple Images at Once
 
  Image Resizer is another File Explorer add-on to make your life easier. As its name says, you can resize multiple images at once.
@@ -95,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 ![Resize images with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/resize-images-1.jpg)
 
  Select the images, bring up the context menu, and click**Image resize** . Then, in the pop-up window, you can choose one of the available settings or create a custom one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Preview Files Easier
 
@@ -115,17 +100,12 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
  To turn it on or off, select the window and press**Win + Ctrl +T** .
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Find Your Mouse
 
  If you[need to use a multiple-display setup](https://www.makeuseof.com/how-to-set-up-dual-monitors/) , the cursor might get lost between your monitors. Fortunately, you can have PowerToys indicate your cursor position for you.
@@ -140,20 +120,21 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 
 ![PowerToys keyboard manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/keyboard-manager-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Keyboard Manager allows you to remap individual keys or shortcuts. The new remap stays active as long as Keyboard Manager is enabled and PowerToys keeps running. Once you close it, your keyboard will go back to its default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Manage Windows Easier
 
  FancyZones is designed to manage windows on your screen by moving and snapping them into customized layouts. This way, you’ll have no overlapping windows and can improve your workflow. And if you can’t find a layout that suits your preferences, you have the option to edit it.
@@ -161,12 +142,20 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 ![Manage windows with FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fancy-zones-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can add more zones, resize them, or add space between them, so your screen doesn’t look too cluttered.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Remember Every Windows Shortcut
 
@@ -174,30 +163,12 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 
 ![PowerToys Windows shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-shortcut-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Keep Your Computer Awake
 
  There are situations when you need your computer awake, while you step away from it. Maybe you’re downloading a large file or installing a game from Steam. Depending on your Power settings, your computer might enter Sleep mode, which will interrupt the process.
 
 ![Keep your computer awake with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/awake-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, instead of[changing the Power & sleep settings](https://www.makeuseof.com/windows-11-change-power-plan/) , you can use Awake. You can set Awake to keep your computer running indefinitely or for a set time. You can even choose to keep the monitor turned on.
 
 ## Best Of PowerToys
@@ -206,14 +177,11 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 
  Now, if you need more tools to upgrade your system, make sure you download new software from safe and trustworthy websites.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -222,4 +190,24 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash/"><u>[New] In 2024, Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-photography-fundamentals-tips-and-apps-for-android/"><u>[New] In 2024, Photography Fundamentals Tips & Apps for Android</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mastering-playback-pivot-a-step-by-step-yt-guide/"><u>[Updated] In 2024, Mastering Playback Pivot A Step-by-Step YT Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-7-apps-altering-vocal-soundtracks/"><u>[Updated] Top 7 Apps Altering Vocal Soundtracks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-diverse-backdrops-for-tiktok-videos/"><u>2024 Approved Explore Diverse Backdrops for TikTok Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-app-management-through-wingetui-on-windows/"><u>Efficient App Management Through WingetUI on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-win11-editions-home-vs-professional-perks/"><u>Essential Guide to Win11 Editions: Home Vs. Professional Perks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-disk-organizer-not-starting-errors/"><u>Fixing Windows Disk Organizer Not Starting Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-secure-boot-the-top-5-fixes-at-your-fingertips/"><u>Mastering Secure Boot: The Top 5 Fixes at Your Fingertips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-energizing-old-boot-options-bios-tips/"><u>Re-Energizing Old Boot Options: BIOS Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-invalid-profile-error-on-windows-1011/"><u>Solving Invalid Profile Error on Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-stops-reimbursement-exploits-for-gamers/"><u>Steam Stops Reimbursement Exploits for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-puzzle-of-unplanned-restarts-how-your-windows-10-keeps-waking-up/"><u>The Puzzle of Unplanned Restarts: How Your Windows 10 Keeps Waking Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-explorers-travel-playbook/"><u>The Ultimate Game Explorer's Travel Playbook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-10-advantages-of-opting-for-a-discrete-mechanical-keyboard/"><u>Top 10 Advantages of Opting for a Discrete Mechanical Keyboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-tpm-troubleshooting-steps/"><u>Unlocking Windows 11: TPM Troubleshooting Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-secret-coders-archiving-in-image-formats/"><u>Windows 11 Secret Coders: Archiving in Image Formats</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Vintage Films with MadVR on PCs
-date: 2024-08-28T01:20:58.122Z
-updated: 2024-08-29T01:20:58.122Z
+date: 2024-11-11T16:00:40.143Z
+updated: 2024-11-17T17:53:40.994Z
 tags:
   - windows10
   - windows11
@@ -43,25 +43,46 @@ Best of all, it is open-source and free to use.
 5. Click on**Add Filter** at the top right.  
 ![MPC HC Add Filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-add-filter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click on**Browse** at the bottom left of the new**Select Filter** window. Point the requester to the folder where you extracted madVR and select the**madVR.ax** file. Click**OK** to return to the**Select Filter** window. Locate**madVR** among the entries, select it, and click**OK** .  
 ![MPC HC Select Filter MadVR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-select-filter-madvr.jpg)
 2. Click on the newly-added**madVR** entry on the**External Filters** list. Choose**Prefer** from the options on the right.  
 ![MPC HC MadVR Prefer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-madvr-prefer.jpg)
 3. Expand the**Playback** entry from the list on the left and choose**Output** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click on the drop-down menu under**DirectShow Video** and select**madVR** .
 5. Press**OK** to save the changes. Close and relaunch MPC-HC to ensure it will be using the madVR renderer.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Tweaking the MadVR Settings
 
  After adding and enabling madVR in MPC-HC, if you start playing a video file with it, you'll see a new icon for madVR appear in the Windows tray. Right-click on it and choose**Edit madVR Settings** to configure the renderer according to your gear and preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### 1\. Setting Up the Basics With MadVR
 
  Expand the**devices** group from the list on the left, and choose your display device. Change its**device type** to reflect its type. For most, it will probably be**Digital Monitor / TV** . Do the same for your other display devices if you use more than one.
@@ -72,6 +93,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![MadVR Deinterlacing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-deinterlacing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Move to**artifact removal** , and pause for a second. Now's the time to drag and drop a video, preferably a highly-compressed one, onto MPC-HC's window, and let it play in the background. This way, you'll be able to check how your madVR settings affect how videos look.
 
  Try enabling the options in this section one by one and, if available, progressively increasing their strength. You can click on**Apply** at any time to check their effect on your video.
@@ -79,23 +107,33 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![MadVR Artifact Removal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-artifact-removal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When your video starts looking "off", with annoyingly pronounced "edges" around elements, dial your last settings down a notch. If playing a lot of MPEG4/HEVC content (encoded with DivX/XviD/H.264/H.265/NVENC), make sure to try out**reduce compression artifacts** . Setting its quality to**very high** and enabling**process chroma channels, too** come with higher requirements but can also further reduce the annoying "(macro)blocks" on highly-compressed files.
 
 ![MadVR Reduce Compression Artifacts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-reduce-compression-artifacts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Do the same for the options in the**image enhancements** section. Since their result depends on both the active video and your perception of what looks best, we'll leave the choice of which you should enable and their values up to you. Remember that you can see their effect in any active video immediately after hitting the**Apply** button on the window.
 
 ![MadVR Image Enhancements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-image-enhancements.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### 2\. Performing Upscaling With MadVR
 
  Move to the**scaling algorithms** and start from**chroma upscaling** . All options here take advantage of modern GPUs, so you can choose any you want without wasting resources. For each option, madVR will show you how it affects the video on the top right of its window.
@@ -104,30 +142,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![MadVR Chroma Upscaling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-chroma-upscaling.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Modern GPUs are pretty good at downscaling. Thus, you can choose**DXVA2** from the**image downscaling** page to have the task entirely performed by your GPU. However, the other options also "run" on the GPU, either on its texture units or as pixel shaders, and may offer even crisper visuals. It's worth trying them all out to see which you prefer.
 
 ![MadVR Image Downscaling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-image-downscaling.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Move to**image upscaling** , and notice how the options here are split into two lists:**Upscaling** and**Doubling** .**Upscaling** lists advanced algorithms that analyze each frame and try to create more visual detail from what already exists.
 
 **Doubling** lists various methods that also "make a video look larger than it is" but with simpler "show-each-pixel-more-than-once" methods (hence "pixel doubling"). This writer's personal preference is**Jinc** , but fans of Anime will also want to try**super-XBR** .
 
 ![MadVR Image Upscaling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-image-upscaling.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  As before, we won't suggest specific settings for the options on**upscaling refinement** . Enable them one by one, play with their values, and click**Apply** to find what you like. If you see strange artifacts, lines, or elements of your video look "glitchy", change the last option on this page to**Refine the image only once after upscaling is complete** .
 
 ![MadVR Upscaling Refinement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-upscaling-refinement.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Adjusting the Quality With MadVR
 
@@ -149,18 +183,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Still, you may need to make occasional tweaks here and there to make a video look its best. One video might need less sharpening, while another might look better with a higher "reduce compression artifacts" value.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Getting Optimal Playback With MadVR
 
  And that's how madVR can go beyond being just a video renderer and become a full-blown hobby. Don't be alarmed if you find yourself trying to upgrade every video and constantly adjusting madVR's settings. You'll be joining a club of many.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +207,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/a-streamlined-approach-to-using-azures-transcription-technology/"><u>A Streamlined Approach to Using Azure's Transcription Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-nokia-130-music-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nokia 130 Music Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-improving-windows-11s-trouble-resolution-tools/"><u>Bridging Gaps: Improving Windows 11'S Trouble Resolution Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cybersecurity-insight-key-windows-activities-that-could-conceal-threats/"><u>Cybersecurity Insight: Key Windows Activities That Could Conceal Threats</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/eliminate-background-noise-from-video-files-freepriced-for-2024/"><u>Eliminate Background Noise From Video Files (Free/Priced) for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gamers-handbook-navigating-and-repairing-call-of-duty-warzones-notorious-error-6068-in-modern-warfare/"><u>Gamer's Handbook: Navigating and Repairing Call of Duty Warzone’s Notorious Error 6068 in Modern Warfare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-the-windows-11-taskbar-teams-chat-removal-will-impact-you/"><u>How the Windows 11 Taskbar Teams Chat Removal Will Impact You</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-itel-s23plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel S23+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x6-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X6 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-6s-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 6s or iPad?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-time-loop-visual-tricks/"><u>In 2024, Strategies for Time-Loop Visual Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-fixing-media-creators-error-0x8007043c/"><u>Methods for Fixing Media Creator's Error 0X8007043C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-non-operational-windows-apps/"><u>Steps to Recover Non-Operational Windows Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation-for-2024/"><u>The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/too-much-glitches-handle-deps-before-virtualbox-on-win/"><u>Too Much Glitches? Handle Deps Before VirtualBox on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbo-enabledisable-bing-ai-on-windows-11-search-bar/"><u>Turbo Enable/Disable: Bing AI on Windows 11 Search Bar</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mastering-fcp-5-essential-editing-techniques/"><u>Updated Mastering FCP 5 Essential Editing Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/whats-behind-windows-11s-disappearing-thumbnail-issue-fixes-here/"><u>What's Behind Windows 11'S Disappearing Thumbnail Issue? Fixes Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10-isolating-and-fixing-unilateral-audio-malfunction/"><u>Win10: Isolating and Fixing Unilateral Audio Malfunction</u></a></li>
+</ul></div>
 

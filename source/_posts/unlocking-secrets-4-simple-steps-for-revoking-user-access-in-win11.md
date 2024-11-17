@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Secrets: 4 Simple Steps for Revoking User Access in Win11"
-date: 2024-11-04T06:02:09.626Z
-updated: 2024-11-07T02:46:28.026Z
+date: 2024-11-16T17:16:06.374Z
+updated: 2024-11-17T18:47:10.485Z
 tags:
   - windows10
   - windows11
@@ -55,13 +55,6 @@ To disable a user account using PowerShell:
 ![powerhsell user account list view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powerhsell-user-account-list-view.jpg)
 4. Next, type the following command to find all the user accounts on your PC:  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Get-LocalUser`
 5. Locate the user account name in the**Name** column.
 
@@ -72,10 +65,10 @@ To disable a user account using PowerShell:
 3. PowerShell will not return a success message after the user account is disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If you need to enable the account again, type the following command and press Enter:  
@@ -83,6 +76,13 @@ To disable a user account using PowerShell:
 5. In the above command replace NewUser with your user account name.
 
  When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to[lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Disable a User Account Using the Command Prompt
 
@@ -99,26 +99,27 @@ To disable a user account using Command Prompt:
 5. Next, type the following command to disable the specified user account:  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `net user NewUser /active:no`
 6. In the above command, replace**NewUser** with the user account name you want to disable.  
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
 7. Next, type**exit** and press Enter to close Command Prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. If you need to enable the account again, execute the following command:  
 `net user NewUser /Active:yes`
 9. Make sure to replace NewUser with the account name you want to enable.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable a User Account From the Computer Management Console
 
@@ -133,6 +134,14 @@ To disable a user account using Command Prompt:
 3. In the**Computer Management** console, expand**System Tools** .  
 ![computer management local users groups users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users.jpg)
 4. Next, locate and select**Local Users and Groups.**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the**Users** folder**.**
 
 1. In the right pane, you can view all the user accounts on your PC.
@@ -141,13 +150,6 @@ To disable a user account using Command Prompt:
 3. In the**Properties** dialog, select the**Account is disabled** option.
 4. Click**Apply** and**OK** to save the changes.
 5. To enable the account gain, uncheck the**Account is disabled** option and click**Apply** and**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disable User Account Using Local Users and Groups on Windows 11 Home
 
@@ -185,20 +187,14 @@ To disable a user account using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-ultimate-list-of-idevice-screen-recorders-for-2024/"><u>[New] Ultimate List of iDevice Screen Recorders for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-entry-into-the-world-of-google-meet-webinars/"><u>[Updated] 2024 Approved Entry Into the World of Google Meet Webinars</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-freedom-in-sight-comparing-free-screen-capture-tools/"><u>[Updated] Freedom in Sight Comparing Free Screen Capture Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-12-mini-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 12 mini to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-12-pro-how-to-unlock-a-disabled-iphone-12-pro-by-drfone-ios/"><u>Disabled iPhone 12 Pro How to Unlock a Disabled iPhone 12 Pro?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-new-ideas-5-artificial-intelligence-programs-for-writers-seeking-inspiration/"><u>Discover New Ideas: 5 Artificial Intelligence Programs for Writers Seeking Inspiration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-to-resolve-steam-video-hiccups/"><u>Essential Steps to Resolve Steam Video Hiccups</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-warzone-20-not-starting-on-your-computer-key-fixes/"><u>How to Resolve Warzone 2.0 Not Starting on Your Computer - Key Fixes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-proximity-views-an-essential-for-roblox-enthusiasts/"><u>In 2024, Perfecting Proximity Views An Essential for Roblox Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-depth-guide-to-superior-windows-search-without-ls/"><u>In-Depth Guide to Superior Windows Search without LS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-camera-not-detected-error-on-win11/"><u>Remedy for “Camera Not Detected” Error on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-icon-alignment-in-windows-10/"><u>Simplify Icon Alignment in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-windows-display-embrace-wmfresh-look/"><u>Transform Windows Display: Embrace WMFresh Look</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-shortcut-tactics-for-optimal-voice-input-on-win-11/"><u>Ultimate Shortcut Tactics for Optimal Voice Input on Win 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-isnt-your-iphone-charging-wirelessly-discover-7-fixes-that-work/"><u>Why Isn’t Your iPhone Charging Wirelessly? Discover 7 Fixes That Work!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-capture-the-action-crafting-best-in-class-sports-films-for-2024/"><u>[New] Capture the Action Crafting Best-in-Class Sports Films for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-followers-to-fans-5-essential-instagram-tactics-for-influencers-for-2024/"><u>[New] From Followers to Fans 5 Essential Instagram Tactics for Influencers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-restart-file-explorer-in-windows-11-and-11/"><u>4 Ways to Restart File Explorer in Windows 11 and 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparing-the-giants-of-silicon-valley-amd-ryzen-9900x-9700x-and-9600x-cinebench-score-analysis-revealed/"><u>Comparing the Giants of Silicon Valley: AMD Ryzen 9900X, 9700X and 9600X Cinebench Score Analysis Revealed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-a78-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo A78?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-images-into-nfts-the-best-generators-listed/"><u>In 2024, Transform Your Images Into NFTs - The Best Generators Listed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-windows-11s-disguised-search-action/"><u>Initiating Windows 11'S Disguised Search Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-audio-tracking-on-windows-powered-screencasts/"><u>Strategies for Audio Tracking on Windows-Powered Screencasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-workflow-programmatic-shortcuts-in-winos/"><u>Streamline Workflow: Programmatic Shortcuts in WinOS</u></a></li>
 </ul></div>
 

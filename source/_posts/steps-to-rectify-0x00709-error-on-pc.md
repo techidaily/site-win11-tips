@@ -1,7 +1,7 @@
 ---
 title: Steps to Rectify 0X00709 Error on PC
-date: 2024-09-01T05:17:48.486Z
-updated: 2024-09-02T05:17:48.486Z
+date: 2024-11-12T16:52:28.438Z
+updated: 2024-11-17T19:04:58.474Z
 tags:
   - windows10
   - windows11
@@ -26,11 +26,25 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
  To resolve the error code 0x00000709, you must first change the printer name in Registry Editor and then change the RPC connection settings policy. If these steps do not resolve the issue, you can run the printer troubleshooter, change the printer preferences settings, and uninstall the problematic update.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check for Interference From Other Printers
 
  Changing the default printer settings when your device is connected to multiple printers may result in a "0x00000709:operation could not be completed" error. Therefore, disconnect all other printers except the one you want to set as default before changing settings.
 
  If you continue to receive the error despite having no other printer connected to your device, then it is not interference from other printers causing the problem but rather a setting in your operating system. So, start applying the following fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Rename the Printer in Registry Editor
 
@@ -46,11 +60,15 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![Editing String by Changing Its Data Value in Registry Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/editing-string-by-changing-its-data-value-in-registry-editor-app-on-windows.jpg)
 6. Then click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Make sure you restart your computer after completing the above steps. If renaming the registry keys makes no difference, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change RPC Connection Settings
 
  Once you've changed the printer name, you should ensure your printer is connected to the network. If it's connected, but you're still getting the error, modify the RPC connection settings in the group policy editor. This policy controls the protocol settings for outgoing RPC connections to a remote print spooler.
@@ -62,34 +80,22 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 3. In the left-sidebar, select **Administrative Templates > Printers**.  
 ![Clicking on the Printers Option in the Administrative Templates Dropdown in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-clicking-on-the-printers-option-in-the-administrative-templates-dropdown-in-windows-group-policy-editor-app.jpg)
 4. Click **Configure RPC connection** **settings** twice.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 5. To enable this policy, check the circle for **Enabled**.
 6. Select **RPC over named pipes** from the dropdown menu for **Protocol to use for outgoing RPC connections.**  
 ![Selecting RPC Over Named Pipes from the Dropdown Menu of Protocol to Use for Outgoing RPC Connections in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-selecting-rpc-over-named-pipes-from-the-dropdown-menu-of-protocol-to-use-for-outgoing-rpc-connections-in-windows-group-policy-editor-app.jpg)
 7. Hit **OK** after clicking **Apply**.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Restart your device.
 
  If the above instructions don't work, you can select **RPC over TCP** from the **Protocol to use for outgoing RPC connections** dropdown.
 
 ![Selecting RPC over TCP from the Protocol to Use for Outgoing RPC Connections Dropdown in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-selecting-rpc-over-tcp-from-the-protocol-to-use-for-outgoing-rpc-connections-dropdown-in-windows-group-policy-editor-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  When that doesn't work either, you can enable or disable authentication from the **Use authentication for outgoing RPC connections** dropdown menu.
 
 ![Enabling Authentication from the Use Authentication for Outgoing RPC Connections Dropdown Menu in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/6-enabling-authentication-from-the-use-authentication-for-outgoing-rpc-connections-dropdown-menu-in-windows-group-policy-editor-app.jpg)
 
  Apply this fix carefully, as it has the highest chance of fixing the error message.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the Printer Troubleshooter
 
  To troubleshoot printer-related issues, Windows includes an in-built troubleshooter. The tool helps diagnose and fix most problems related to printer connectivity. If you try it, it may resolve the "operation could not be completed" error. To run the troubleshooter, follow the steps below:
@@ -99,6 +105,14 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 3. In the right pane, click **Troubleshoot**.  
 ![Clicking on the Troubleshoot Option in the System Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/7-clicking-on-the-troubleshoot-option-in-the-system-tab-of-the-windows-settings-app.jpg)
 4. Click **Other troubleshooters**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Locate the **Printer** troubleshooter, and click on the **Run** button next to it.  
 ![Clicking on the Run Button Next to Printer Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/8-clicking-on-the-run-button-next-to-printer-troubleshooter-in-windows-settings-app.jpg)
 6. Follow the on-screen instructions to help the troubleshooter get started.
@@ -106,8 +120,12 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
  After that, make your preferred printer your default printer again. In case the same error occurs again, apply the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Change Printer Preferences
 
  By default, Windows manages the default printer for the user. The setting is helpful, especially if you frequently connect your device to different printers, but it can sometimes cause problems. Hence, you should disable this feature to ensure it is not causing the problem.
@@ -119,14 +137,8 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 3. In the right pane, click **Printers & scanners**.  
 ![Going to Printers and Scanners Settings in the Bluetooth and Devices Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/9-going-to-printers-and-scanners-settings-in-the-bluetooth-and-devices-tab-of-the-windows-settings-app.jpg)
 4. Turn off the toggle next to **Allow Windows to manage my default printer** under **Printer preferences**.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Turning off the Toggle Next to Let Windows Manage My Default Printer Under Printer Preferences in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/10-turning-off-the-toggle-next-to-let-windows-manage-my-default-printer-under-printer-preferences-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Uninstall the Problematic Update
 
  Have you recently installed an update and encountered this error? If so, the newly installed update might be problematic. Therefore, you should uninstall it. To do that, follow these steps:
@@ -136,9 +148,6 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 3. In the right pane, click on **Update history**.  
 ![Clicking on Update History in the Windows Update Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/11-clicking-on-update-history-in-the-windows-update-tab-of-the-windows-settings-app.jpg)
 4. Under **Related settings**, click **Uninstall updates**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Clicking on Uninstall Updates Under Related Settings in Update History Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/12-clicking-on-uninstall-updates-under-related-settings-in-update-history-settings-in-windows-settings-app.jpg)
 5. Find the most recent update in the Control Panel app by checking its installation date. Once it has been located, right-click on it and click **Uninstall**.  
 ![Uninstalling the Recent Windows Update after Locating it in the Windows Control Panel App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/13-uninstalling-the-recent-windows-update-after-locating-it-in-the-windows-control-panel-app.jpg)
@@ -151,13 +160,25 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 4. Click on **Hide updates**.  
 ![Clicking on the Hide Updates Option After Clicking on the Next Button in Microsoft's Show or Hide Updates Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/14-clicking-on-the-hide-updates-option-after-clicking-on-the-next-button-in-microsoft-s-show-or-hide-updates-troubleshooter.jpg)
 5. The tool will display the problematic update you uninstalled.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check the box for it and click **Next**.
 
  Let the tool finish processing, and the specific update will not install on your device again. However, if uninstalling the update makes no difference, there is no need to prevent it from installing again.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Enjoy Printing Again on Windows
 
  Not being able to set a printer default is very annoying, especially when taking urgent prints. Hopefully, our guide will help fix the annoying 0x00000709 error. By doing so, you can print with your preferred printer.
@@ -168,11 +189,33 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
  In this article, we will examine the error in more detail and discuss why it occurs. In addition, we'll cover a few fixes that you can apply to resolve the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-secrets-of-captivating-audiences-in-your-videos/"><u>[New] 2024 Approved The Secrets of Captivating Audiences in Your Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screen-snapping-on-a-mac-explained/"><u>[New] Screen Snapping on a Mac Explained</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 8 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chrome-silent-problems-resolved-restoring-audio-backup/"><u>Chrome Silent Problems Resolved: Restoring Audio Backup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-solve-non-detected-proxy-settings-on-windows-os/"><u>Guide to Solve Non-Detected Proxy Settings on Windows OS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/hasten-your-vimeo-watch-time/"><u>Hasten Your Vimeo Watch Time</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humor-hatchery-picture-mixer-for-2024/"><u>Humor Hatchery Picture Mixer for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-make-your-own-reaction-videos-with-these-top-rated-apps/"><u>In 2024, Make Your Own Reaction Videos with These Top-Rated Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-dual-life-of-a-professional-youtuber-and-employee/"><u>In 2024, The Dual Life of a Professional YouTuber & Employee</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ideal-beginning-enhancer-for-your-devices/"><u>In 2024, The Ideal Beginning Enhancer for Your Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-mouse-gestures-into-your-web-surfing-routine-edge-edition/"><u>Integrating Mouse Gestures Into Your Web Surfing Routine - Edge Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-windows-mail-overcoming-hurdle-x-error-0x80072746/"><u>Master Windows Mail: Overcoming Hurdle X, Error 0X80072746</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-in-key-recovery-finding-your-windows-1011-authenticity/"><u>Mastery in Key Recovery: Finding Your Windows 10/11 Authenticity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-malware-a-protocol-for-neutralizing-wacatacbml-on-windows/"><u>Mastery of Malware: A Protocol for Neutralizing Wacatac.B!ml On Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-device-capabilities-with-gaomon-s620-drivers/"><u>Maximize Device Capabilities with Gaomon S620 Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-settings-for-users-implementing-local-groups-policies-in-windows-11-and-11/"><u>Personalized Settings for Users: Implementing Local Groups Policies in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-the-absence-of-backspace-action-on-windows-devices/"><u>Rectifying the Absence of Backspace Action on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-full-capabilities-elevating-windows-11s-task-manager-to-admin-power/"><u>Unleash the Full Capabilities: Elevating Windows 11'S Task Manager to Admin Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-your-folders-how-to-revert-to-editable-mode/"><u>Unlocking Your Folders: How to Revert to Editable Mode</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Connect Without a Default Browser on Win
-date: 2024-10-31T13:55:44.923Z
-updated: 2024-11-06T17:34:28.587Z
+date: 2024-11-12T18:48:48.719Z
+updated: 2024-11-17T19:25:53.122Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 
  When installing a browser, be sure to check the publisher to avoid installing fake apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Install Browsers Using Commands
 
  You can use PowerShell or Command Prompt to download a browser using a command as well. For simplicity, we'll use PowerShell throughout this guide. You don't need to know any commands or scripting to use this method. Just follow the steps illustrated below.
@@ -54,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 
 Let's talk about how you can use these to download a browser.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use Winget
 
  If you're running Windows 10 v1809 or later, Winget is one of the easiest ways to download a browser without a browser. Start by launching PowerShell by searching for it in the Start Menu. Then, execute one of the following commands based on the browser you want to download:
@@ -72,16 +58,10 @@ Let's talk about how you can use these to download a browser.
 ![installing chrome using the winget packet manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-winget.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
@@ -100,9 +80,23 @@ Paste the link in quotation marks like so:
 
 ![installing chrome using the curl command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-curl.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
 
  Once the file has been downloaded, run the installation wizard to complete the installation process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Download a Browser Using Chocolatey
 
@@ -128,14 +122,14 @@ Next, run the following command:
 
 ![installing chrome using chocolatey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-choco.jpg)
 
-Once the process is complete, you can start using the new browser.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Once the process is complete, you can start using the new browser.
 
 ## 3\. Use a Invoke-WebRequest PowerShell Script
 
@@ -176,17 +170,22 @@ Run the following command in PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed/"><u>[Updated] In 2024, Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-decades-guide-to-superior-social-media-management-smm/"><u>[Updated] The Decade's Guide to Superior Social Media Management (SMM)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-superior-video-editor-the-vimeo-edition/"><u>2024 Approved Superior Video Editor The Vimeo Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-methods-for-natively-creating-photo-carousel-on-windows-11/"><u>7 Methods for Natively Creating Photo Carousel on Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-tp-link-wireless-network-adapter-drivers-for-win10win8win7-most-recent-version/"><u>Download TP-Link Wireless Network Adapter Drivers for Win10/Win8/Win7 - Most Recent Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-printer-settings-the-easy-way-in-win11-max-50-chars/"><u>Guide to Printer Settings: The Easy Way in Win11 (Max 50 Chars)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini without Passcode or Face ID</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-your-monitor-memorable-saving-windows-spotlight-photos-as-walls/"><u>Making Your Monitor Memorable: Saving Windows Spotlight Photos as Walls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-program-installation-on-windows-11/"><u>Mastering Program Installation on Windows 11</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-recovering-lost-data-from-a-resilient-file-system-refs/"><u>Step-by-Step Guide to Recovering Lost Data From a Resilient File System (ReFS)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-writability-enabledisable-ntfs-compression/"><u>Unlocking Windows 11' Writability: Enable/Disable NTFS Compression</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-factors-contributing-to-the-unexpected-popularity-of-the-wii-u/"><u>Unveiling the Factors Contributing to the Unexpected Popularity of the Wii U</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-what-is-behind-the-blue-icon-that-graces-your-messenger-chat-window/"><u>[New] 2024 Approved What Is Behind the Blue Icon that Graces Your Messenger Chat Window?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-deletion-methods-for-youtubes-backlogged-video-collection-for-2024/"><u>[Updated] Deletion Methods for YouTube's Backlogged Video Collection for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-picture-in-picture-features-on-sierras-operating-systems/"><u>[Updated] Exploring Picture in Picture Features on Sierra's Operating Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-decoding-the-art-of-fb-video-downloads-in-hd/"><u>[Updated] In 2024, Decoding the Art of FB Video Downloads in HD</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-trivial-talent-into-thriving-tv-subscribers-triumphs/"><u>[Updated] Transforming Trivial Talent Into Thriving TV (Subscribers) Triumphs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-superior-features-added-to-windows-11-feb-update/"><u>9 Superior Features Added to Windows 11, Feb Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-the-no-servers-found-error-in-apex-legends-for-windows/"><u>9 Ways to Fix the No Servers Found Error in Apex Legends for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-assistance-top-tips-for-fixed-gameplay-on-pcs/"><u>Accelerated Assistance: Top Tips for Fixed Gameplay on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-insider-look-at-microsofts-revolutionary-copilot-tool/"><u>An Insider Look at Microsoft's Revolutionary Copilot Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-visual-capture-mastery-snipping-tools-latest-recording-features-explained-max-156/"><u>Audio-Visual Capture Mastery: Snipping Tool's Latest Recording Features Explained (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/black-friday-bonanza-get-your-deal-612-for-eternal-windows-10/"><u>Black Friday Bonanza: Get Your Deal - $6.12 for Eternal Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-disk-space-how-to-use-windows-autodeleting-feature/"><u>Boost Disk Space: How to Use Windows' AutoDeleting Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-task-manager-admin-mode-on-windows-11/"><u>Boosting Task Manager: Admin Mode on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-vr-affordability-four-major-causes-for-its-costliness/"><u>Delving Into VR Affordability: Four Major Causes for Its Costliness</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-oppo-a59-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo A59 5G Through Google Earth?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-uncover-11-free-effective-youtube-naming-solutions/"><u>In 2024, Uncover 11 Free, Effective YouTube Naming Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Paint Your Windows 11 Desk - A Simple Guide to Drawing
-date: 2024-09-01T05:17:42.436Z
-updated: 2024-09-02T05:17:42.436Z
+date: 2024-11-10T18:38:30.899Z
+updated: 2024-11-17T18:50:02.448Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,23 @@ Now you can get scribbling on the Windows desktop.
 
 ![The pen button in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-drawing-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Epic Pen has a transparent highlighter you can use for highlighting on-screen text and details. To access that tool, click the**pen** button and select**highlighter** . Or you can press the**Ctrl** +**Shift** +**F4** hotkey to use it.
 
 ![The highlighter in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-highligher-in-epic-pen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
@@ -62,8 +76,12 @@ Now you can get scribbling on the Windows desktop.
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Draw on the Windows Desktop With gInk
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
@@ -73,17 +91,11 @@ Now you can get scribbling on the Windows desktop.
 3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The fifth pen is a transparent highlighter option. Click**Pen 5** to activate the tool’s highlighter. You can utilize this tool for highlighting things in presentations.
 
  You can adjust the drawing tool’s widths by selecting**Pen width** . Drag the slider along the bar to increase or decrease the width of your pen.
@@ -91,8 +103,12 @@ Now you can get scribbling on the Windows desktop.
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
 
  The gInk app includes five pens on its toolbar by default, but you can add four more. To do so, you’ll need to close gInk’s toolbar first by clicking its**Exit** drawing option. Then right-click the gInk system tray icon and select**Options** .
@@ -101,14 +117,8 @@ Now you can get scribbling on the Windows desktop.
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Get Scribbling on Your Windows Desktop With These Apps
 
  Epic Pen and gInk are intuitive and straightforward to utilize apps with drawing tools that enable you to annotate what’s on your desktop for illustrative purposes. They’re great for showing information on Windows PCs presenting a screencast, projection, or video conference, and they can even capture annotated screenshots.
@@ -119,8 +129,6 @@ Now you can get scribbling on the Windows desktop.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +136,18 @@ Now you can get scribbling on the Windows desktop.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-live-gaming-zenith-revealed-9-edition/"><u>[New] Live Gaming Zenith Revealed, #9 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fundamentals-of-assembling-photos-into-art/"><u>[New] The Fundamentals of Assembling Photos Into Art</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-controlling-bitrate-overload-in-obs/"><u>[Updated] In 2024, Controlling Bitrate Overload in OBS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-lg-watch-style-examination-mastering-the-classic-wear-os-20-timepiece/"><u>Comprehensive LG Watch Style Examination - Mastering the Classic Wear OS 2.0 Timepiece</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacks-make-excel-readable-in-windows-notepad/"><u>Hacks: Make Excel Readable in Windows Notepad</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-eye-catching-images-windows-10s-screenshot-feature/"><u>In 2024, Eye-Catching Images Windows 10'S Screenshot Feature</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-masterclass-in-capturing-video-frames/"><u>In 2024, Masterclass in Capturing Video Frames</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-to-windows-11s-time-stamped-repository/"><u>Key to Windows 11'S Time-Stamped Repository</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberate-your-digital-conversations-win-style/"><u>Liberate Your Digital Conversations, WIN-Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-inadvertent-windows-store-activation/"><u>Remedy for Inadvertent Windows Store Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prolong-windows-11-shutdown-during-active-tasks/"><u>Strategies to Prolong Windows 11 Shutdown During Active Tasks</u></a></li>
+</ul></div>
 

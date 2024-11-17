@@ -1,7 +1,7 @@
 ---
 title: "Re-Energizing Old Boot Options: BIOS Tips"
-date: 2024-11-02T07:38:10.339Z
-updated: 2024-11-07T03:04:48.110Z
+date: 2024-11-13T18:43:50.445Z
+updated: 2024-11-17T16:24:37.992Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
  If you don't have any such option, try the troubleshooting steps below to restore the Legacy boot option in BIOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Disable Secure Boot to Enable Boot
@@ -59,23 +59,9 @@ To disable secure boot:
 5. Next, click on**UEFI Firmware Settings.**  
 ![Advanced OptionspUEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-optionspuefi-firmware-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Click**Restart** to boot into the**Startup Menu.**  
 ![startup menu HP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/startup-menu-hp-1.jpg)
 2. In the Startup Menu, press**F10** to access the**BIOS Settings** . You may see other options depending on your computer manufacturer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Use the right and left arrow keys to open the**Boot Options** tab in the BIOS Utility.
 4. Next, use the up and down arrow key to highlight the**Secure Boot** option and press**Enter** to view more options.  
@@ -83,9 +69,23 @@ To disable secure boot:
 5. Select**Disabled** and make sure the changes are shown in the Boot Options tab.
 6. Press**F10** to save the changes and disable Secure Boot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disable Trusted Platform Technology (TPM)
 
 ![disable TPM state BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-tpm-state-bios-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In addition to Secure Boot, you may also have enabled Trusted Platform Module (TPM), disabling Legacy BIOS. To fix the issue, check if TPM is enabled on your PC, which is likely a case on a Windows 11 running system, and disable the option if necessary.
 
@@ -98,10 +98,10 @@ To disable secure boot:
 5. Press**F10** to save the change and exit.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Modern Standby
@@ -129,20 +129,21 @@ To disable secure boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-can-i-view-friends-shared-vids-and-photos-for-2024/"><u>[New] How Can I View Friend’s Shared Vids and Photos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparing-cosmic-universes-metaverse-vs-multiverse-explained/"><u>Comparing Cosmic Universes Metaverse vs Multiverse Explained</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cost-efficient-techniques-for-reviving-your-macbooks-battery-life-an-expert-ranking/"><u>Cost-Efficient Techniques for Reviving Your MacBook's Battery Life - An Expert Ranking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-down-repair-time-in-windows-setting-up-custom-hotkeys/"><u>Cutting Down Repair Time in Windows: Setting Up Custom Hotkeys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-the-influence-of-runtime-broker-on-pcs/"><u>Demystifying the Influence of Runtime Broker on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-windows-11-the-fix-for-license-near-expiry/"><u>Handling Windows 11: The Fix for 'License Near Expiry'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-required-privilege-not-held-error-in-windows-1110/"><u>How To Correct the Required Privilege Not Held Error in Windows 11/10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oneplus-11-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass OnePlus 11 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-memory-leaks-in-device-to-device-communication-windows/"><u>Minimizing Memory Leaks in Device-to-Device Communication Windows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/tailored-broadcasting-strategies-for-various-platforms-yt-fb-twitch-for-2024/"><u>Tailored Broadcasting Strategies for Various Platforms (YT, FB, Twitch) for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-progress-in-windows-update-issues/"><u>Unblocking Progress in Windows Update Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-copilot-key-and-its-impact-on-windows-11-pcs/"><u>Unraveling the Mystery of Copilot Key and Its Impact on Windows 11 PCs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-enhance-visibility-essential-youtube-seo-strategies-revealed/"><u>[New] In 2024, Enhance Visibility Essential YouTube SEO Strategies Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-design-revolutionaries-discovering-6-icon-and-logo-banks-online/"><u>[Updated] 2024 Approved Design Revolutionaries Discovering 6 Icon & Logo Banks Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-creative-edge-with-adjustable-story-videos/"><u>2024 Approved Unleash Your Creative Edge with Adjustable Story Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-win-valorant-resolving-01kbs-downloads/"><u>Boosting Win-Valorant: Resolving 0.1KB/S Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-window-cursor-significance-win1011-guide/"><u>Boosting Window Cursor Significance - Win10/11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-cars-a-guide-to-free-upgrade-titans/"><u>Boosting Windows Cars: A Guide to Free Upgrade Titans</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-barriers-for-opening-photoshop-in-windows-1011/"><u>Breaking Down Barriers for Opening Photoshop in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-steam-error-dealing-with-content-restrictions/"><u>Breaking Through Steam Error: Dealing with Content Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-past-trials-revisiting-game-accomplishments-on-steam/"><u>Bypassing Past Trials: Revisiting Game Accomplishments on Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-windows-time-limited-lock/"><u>Bypassing the Window's Time-Limited Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-safest-and-most-fun-mobile-phones-for-children-recommended-by-zdnet/"><u>Discover the Safest & Most Fun Mobile Phones for Children | Recommended by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/do-it-yourself-simple-effective-strategies-for-refreshing-home-audio-peripherals/"><u>Do It Yourself: Simple, Effective Strategies for Refreshing Home Audio Peripherals</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a15-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A15 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-blueprint-for-commanding-attention-with-posts/"><u>In 2024, The Insider's Blueprint for Commanding Attention with Posts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-bring-your-videos-to-life-top-live-photo-creation-apps-and-how-tos/"><u>New 2024 Approved Bring Your Videos to Life Top Live Photo Creation Apps and How-Tos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-windows-11-unable-to-install-error-code-80240020-expert-advice/"><u>Troubleshooting Windows 11 Unable to Install Error (Code 80240020) – Expert Advice</u></a></li>
 </ul></div>
 

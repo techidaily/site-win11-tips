@@ -1,7 +1,7 @@
 ---
 title: Six Steps to Unearth the Mystery of Your Window-Based PC Name
-date: 2024-11-05T07:19:54.679Z
-updated: 2024-11-06T20:32:24.408Z
+date: 2024-11-16T16:00:24.008Z
+updated: 2024-11-17T20:05:33.943Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 
  The quickest way to check your computer model name and number is through the Settings app. Simply, launch the**Settings app** (see[how to open the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar. You'll see your computer model name at the top of the System window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Using the System Information App
 
  The System Information is the go-to place to[check your system information on Windows 11](https://www.makeuseof.com/windows-11-check-system-information/) . You can use it to know about your computer's hardware resources, components, and software environment.
@@ -46,8 +39,30 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 2. In the search bar, type**System Information** and choose**Open** from the right pane.  
 ![Typing System Information in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-information.jpg)
 3. Choose**System Summary** from the left sidebar.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check the**System Model** row in the right pane to know about your computer model name.  
 ![Checking System Model in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Using the DirectX Diagnostic Tool
 
@@ -60,20 +75,6 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 3. Click the**System** tab in the DirectX Diagnostic Tool.
 4. Under the System Information section, you can check your computer model name next to the**System Model** option.  
 ![System Model option in the DirectX Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Using the Command-Line Tools
 
@@ -97,20 +98,27 @@ You'll see the model name on the console screen.
 
 ![Command to Check System Serial number in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-serial-number.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Using the Manufacturer's Assistant App
 
 ![Checking System name using HP Support Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hp-support-assistant.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Most manufacturers nowadays offer an assistant app using which you can check your computer model name and number. For instance, if you're using an HP laptop, you can download the[HP Support Assistant app](https://support.hp.com/us-en/help/hp-support-assistant) to know everything about your computer.
 
  Similarly, you can download the assistant app of your manufacturer to check your computer's name.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. By Entering the BIOS
 
@@ -130,17 +138,10 @@ You'll see the model name on the console screen.
 ![Checking Product name in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-product-name.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get to Know Your Computer's Model on Windows
@@ -162,21 +163,18 @@ You'll see the model name on the console screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ultimate-guide-to-7-superior-video-players-on-mac/"><u>[New] 2024 Approved Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-heroic-quests-ranking-gaming-epics-in-action-adventure-for-2024/"><u>[New] Heroic Quests Ranking Gaming Epics in Action-Adventure for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-layers-of-cinematic-dialogue-design/"><u>[Updated] Layers of Cinematic Dialogue Design</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/349-ipad-emerges-as-top-reveal-at-apples-vibrant-unleashed-showcase-a-closer-look-by-zdnet/"><u>$349 iPad Emerges as Top Reveal at Apple's Vibrant 'Unleashed' Showcase: A Closer Look by ZDNet</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-organizing-overflow-of-tiktok-saves-for-effective-edits/"><u>2024 Approved Organizing Overflow of TikTok Saves for Effective Edits</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/best-tales-for-youtube-triumph-top-3-strategies-for-2024/"><u>Best Tales for YouTube Triumph Top 3 Strategies for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-failing-display-connection-on-pcs/"><u>How to Rectify Failing Display Connection on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-windows-non-responsive-performance-chart/"><u>Improving Windows' Non-Responsive Performance Chart</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-how-to-post-share-a-video-from-youtube-on-instagram/"><u>In 2024, How to Post /Share a Video From YouTube on Instagram</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/invisible-file-thumbnails-in-windows-11-how-to-repair/"><u>Invisible File Thumbnails in Windows 11 – How to Repair</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-no-installed-devices-message-on-pcs/"><u>Overcoming 'No Installed Devices' Message on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-obstacles-to-unique-printer-id/"><u>Removing Obstacles to Unique Printer ID</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-restoring-windows-google-nearby-share/"><u>Step-By-Step Guide to Restoring Windows Google Nearby Share</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackle-try-connections-fiasco-with-this-guide-for-pcs/"><u>Tackle 'Try Connections' Fiasco with This Guide for PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/uncovered-truth-why-mafia-ultimate-version-wont-see-daylight/"><u>Uncovered Truth: Why Mafia: Ultimate Version Won't See Daylight</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-netgear-wi-fi-cards-drivers-how-and-where-to-get-them/"><u>Updating Your NETGEAR Wi-Fi Card's Drivers: How and Where to Get Them</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-bg-removal-in-figma-designs/"><u>[New] Mastering BG Removal in Figma Designs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-complete-review-for-dji-inspire-1/"><u>[Updated] 2024 Approved Complete Review for DJI Inspire 1</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-fastforge-slowscene-videograph/"><u>[Updated] In 2024, FastForge SlowScene Videograph</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-quick-cut-screenplay-snippet/"><u>[Updated] In 2024, Quick-Cut Screenplay Snippet</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-addressing-non-installed-hdd-in-windows-11/"><u>Comprehensive Guide to Addressing Non-Installed HDD in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-windows-11-taskbar-end-task-ability/"><u>Configuring Windows 11 Taskbar: End Task Ability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/extend-your-windows-laptops-battery-endurance-expert-tips-and-tricks/"><u>Extend Your Windows Laptop's Battery Endurance: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-outpost-war-of-the-champions-crashing-problems-in-windows-10-and-11/"><u>Fix Outpost: War of the Champions Crashing Problems in Windows 10 and 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-100-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor 100</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-tips-how-to-perfectly-flip-videos-on-devices/"><u>Instagram Tips How to Perfectly Flip Videos on Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-windows-11s-erroneous-update-code-0x80246007/"><u>Mastering Fix for Windows 11'S Erroneous Update Code 0X80246007</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/set-thumbnail-dimensions-on-desktop-pics-w11/"><u>Set Thumbnail Dimensions on Desktop Pics W11</u></a></li>
 </ul></div>
 

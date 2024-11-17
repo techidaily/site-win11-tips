@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Correcting Filesystem Errors in Win11
-date: 2024-11-03T03:45:35.170Z
-updated: 2024-11-07T03:53:46.685Z
+date: 2024-11-13T16:59:18.011Z
+updated: 2024-11-17T16:37:26.650Z
 tags:
   - windows10
   - windows11
@@ -45,21 +45,7 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk.jpg)
 5. Exit the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Store App Troubleshooter
 
@@ -72,14 +58,14 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -92,16 +78,37 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall Any Affected App
 
@@ -111,20 +118,14 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Set Up a New Local User Account on Windows
 
@@ -133,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
  Our guide on[how to fix Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes full instructions for how to apply this solution.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
 
@@ -156,6 +150,13 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
  This final system file error solution is the most drastic of all since it amounts to reinstalling Windows 10 or 11\. Factory resetting restores Windows to a default system state, which can fix many errors caused by registry, third-party software, and system file issues. If you can’t fix a system file error with any other potential fix in this guide, then resetting is the last thing to try.
 
  Windows 11 and 10 have a Reset this PC tool that makes it easy to factory reset the platform. That tool also includes an option that enables you to keep user files in the process. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this potential resolution with this tool.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get File System Errors Sorted in Windows
 
@@ -176,19 +177,24 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-smooth-transitions-to-prevent-drops-in-obs/"><u>[New] 2024 Approved Mastering Smooth Transitions to Prevent Drops in OBS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11/"><u>[New] 2024 Approved The Essential Guide to Apple's iPhone Camera Evolution in iOS 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-dive-into-the-depth-of-4k-content-your-ultimate-guide-for-youtube-submission/"><u>[New] Dive Into the Depth of 4K Content Your Ultimate Guide for YouTube Submission</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/before-you-hit-share-the-essential-guide-to-secure-and-clean-your-links/"><u>Before You Hit 'Share': The Essential Guide to Secure and Clean Your Links</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-path-to-clutter-free-windows-disks/"><u>Clear Path to Clutter-Free Windows Disks</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-note-30-vip-racing-edition-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Note 30 VIP Racing Edition Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-the-search-box-in-windows-11-task-manager/"><u>How to Enable the Search Box in Windows 11 Task Manager</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-record-google-voice-calls-for-2024/"><u>How To Record Google Voice Calls for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/invisible-voices-techniques-for-silent-screen-recordings-for-2024/"><u>Invisible Voices Techniques for Silent Screen Recordings for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-and-fix-windows-hello-fingerprint-error-guide/"><u>Navigate and Fix: Windows Hello Fingerprint Error Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-stuck-power-settings-on-windows-11/"><u>Overcoming Stuck Power Settings on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-hosting-of-linux-vms-via-hyper-v-windows-platform/"><u>Seamless Hosting of Linux VMs via Hyper-V Windows Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-seamless-clipchamp-on-latest-windows-11/"><u>Strategies for Seamless ClipChamp on Latest Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-top-5-hidden-gems-to-watch-insta-stories/"><u>[New] 2024 Approved Top 5 Hidden Gems to Watch Insta Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pro-video-setup-utilizing-your-logitech-webcam/"><u>[Updated] In 2024, Pro Video Setup Utilizing Your Logitech Webcam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-proven-picks-for-high-quality-screenshot-tools-on-a-budget/"><u>[Updated] Proven Picks for High-Quality Screenshot Tools on a Budget</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sharpen-your-streams-top-5-video-enhancers-for-2024/"><u>[Updated] Sharpen Your Streams Top 5 Video Enhancers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-video-conversion-made-simple-the-best-flv-tools-for-youtube/"><u>[Updated] Video Conversion Made Simple The Best Flv Tools for YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracts-for-sudden-windows-notepad-shutdowns/"><u>Counteracts for Sudden Windows Notepad Shutdowns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-new-magicard-rio-professional-driving-game-now-compatible-with-windows-11817/"><u>Download the New Magicard Rio Professional Driving Game Now - Compatible with Windows 11/8.1/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-icon-placement-repair/"><u>Effective Strategies for Icon Placement Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-mend-windows-store-error-0x0-failure/"><u>Expert Tips to Mend Windows Store Error 0X0 Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-plain-in-windows-11-shapes/"><u>Getting Plain in Windows 11 Shapes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-y78plus-t1-edition-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-13-mini-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 13 mini to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-approaches-to-linux-in-windows-mastering-wsl-2-techniques/"><u>Proactive Approaches to Linux in Windows: Mastering WSL 2 Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-your-workflow-the-top-7-digital-tokens-makers-for-2024/"><u>Revolutionize Your Workflow - The Top 7 Digital Tokens Makers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-navigation-through-windows-11s-component-tools/"><u>Seamless Navigation Through Windows 11'S Component Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-boot-into-windows-repair/"><u>The Essentials of Boot Into Windows Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-error-x7e1-in-windows-10/"><u>Unblocking Error X7E1 in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-user-identities-navigating-sid-retrieval-in-windows-11/"><u>Unveiling User Identities: Navigating SID Retrieval in Windows 11</u></a></li>
 </ul></div>
 

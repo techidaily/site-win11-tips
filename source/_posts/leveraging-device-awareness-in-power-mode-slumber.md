@@ -1,7 +1,7 @@
 ---
 title: Leveraging Device Awareness in Power Mode Slumber
-date: 2024-09-05T19:32:03.504Z
-updated: 2024-09-06T19:32:03.504Z
+date: 2024-11-16T19:10:45.513Z
+updated: 2024-11-17T18:45:28.820Z
 tags:
   - windows10
   - windows11
@@ -14,30 +14,12 @@ keywords: Sleep Mode SEO,Device Alerts,Power Sleep SEO,Device Snooze,Energy Effi
 thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a5e0550c353e9047546c19d2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Leveraging Device Awareness in Power Mode Slumber
 
  When not in use, putting your Windows PC to sleep is an excellent way to preserve its battery life. You can wake your computer at any time by simply wiggling the mouse, pressing the power button, or pressing a key on your keyboard.
 
  Windows gives you complete control over devices that can wake your computer from a sleep state. In this guide, we will discuss how you can manage those devices.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Check Which Devices Are Capable of Waking Your Windows PC From Sleep Mode
 
  Not every device connected to your system can wake Windows from sleep mode. You can use Command Prompt or Windows PowerShell to determine which of your devices supports waking the computer.
@@ -49,13 +31,14 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 `powercfg -devicequery wake_from_any`  
 ![Devices That Can Wake Windows From Sleep Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Devices-That-Can-Wake-Windows-From-Sleep-Mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On this list, you'll see devices like your keyboard, mouse, network adapter, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Check Which Devices Are Allowed to Wake Your Windows PC From Sleep Mode
 
@@ -66,24 +49,6 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 `powercfg -devicequery wake_armed`  
 ![Devices Are Allowed to Wake Your Windows PC From Sleep Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Devices-Are-Allowed-to-Wake-Your-Windows-PC-From-Sleep-Mode.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Find Out What Woke Your Windows PC From Sleep Mode
 
  Many times, you may find that your Windows computer wakes from sleep mode on its own. Often, it's one of the connected devices or processes that causes your computer to wake up. Windows can tell you exactly what woke your computer from sleep mode.
@@ -97,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
  Once you run the above command, Windows will tell you which device or process woke your computer from sleep mode.
 
  If you see something like**Wake History Count - 0** , it means that Windows doesn't have a record of wake history. This can happen if you've recently rebooted your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Allow or Deny a Device Permission to Wake Your Windows PC From Sleep Mode
 
@@ -112,34 +84,33 @@ To allow or deny a device permission to wake your computer:
 6. Click**OK** to save the changes.  
 ![Allow or Disallow Device to Wake Computer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-or-Disallow-Device-to-Wake-Computer-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can repeat the above steps to configure power management settings for more devices if you want.
 
  Aside from your devices, your network connections, scheduled tasks, and background wake timers can also wake Windows from sleep mode. If you want to stop that from happening, check our guide on[how to prevent your Windows computer from waking up randomly](https://www.makeuseof.com/tag/stop-windows-computer-randomly-waking/) .
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Manage Your Computer’s Sleep
 
  Now you know what devices can wake your computer from a sleep state and how to prevent them from doing so. That said, putting your computer in sleep mode may not always be the best option for your laptop. Sometimes, it’s better to shut it down completely.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +119,22 @@ To allow or deny a device permission to wake your computer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-a-guide-to-elevating-your-obs-video-projects/"><u>[New] 2024 Approved A Guide to Elevating Your OBS Video Projects</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/09183978-new-in-2024-enhance-audio-quality-get-high-quality-fx/"><u>[New] In 2024, Enhance Audio Quality, Get High-Quality FX!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-collecting-costless-clipart/"><u>[Updated] Secrets to Collecting Costless Clipart</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-all-thats-fresh-with-apples-latest-ai-innovations-spotted-at-wwdc-2024/"><u>Discover All That's Fresh with Apple’s Latest AI Innovations - Spotted at WWDC 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/empowering-online-presence-with-the-advanced-analytics-of-cookiebot-technology/"><u>Empowering Online Presence with the Advanced Analytics of Cookiebot Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-your-clock-is-aheadbehind-error-in-chrome-for-windows/"><u>How to Fix the Your Clock Is Ahead/Behind Error in Chrome for Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-spectrum-visionary-eizos-cg318-4k-reviewed-and-revealed/"><u>In 2024, Full Spectrum Visionary EIZO's CG318-4K Reviewed and Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-to-tackle-windows-activation-problem-code-0x803f700f/"><u>Key Steps to Tackle Windows Activation Problem Code 0X803F700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-time-management-iphone-and-windows-calendar-coordination/"><u>Maximizing Time Management: IPhone and Windows Calendar Coordination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-non-opening-windows-command-prompt-woes/"><u>Navigating Non-Opening Windows Command Prompt Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinventing-non-responsive-windows-1011-contexts/"><u>Reinventing Non-Responsive Windows 10/11 Contexts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-definitive-steps-for-uncluttered-reboots-on-windows-11/"><u>The Definitive Steps for Uncluttered Reboots on Windows 11</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-ultimate-guide-to-leveraging-copilot-pro-for-enhanced-word-processing-and-analysis/"><u>The Ultimate Guide to Leveraging Copilot Pro for Enhanced Word Processing and Analysis</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-moto-g-stylus-exceptional-performance-long-lasting-battery-and-user-friendly-stylus-design/"><u>Unveiling the Moto G Stylus: Exceptional Performance, Long-Lasting Battery, and User-Friendly Stylus Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-setup-simplified-a-steam-deck-tutorial/"><u>Windows Setup Simplified: A Steam Deck Tutorial</u></a></li>
+</ul></div>
 

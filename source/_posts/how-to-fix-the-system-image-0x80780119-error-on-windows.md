@@ -1,7 +1,7 @@
 ---
 title: How to Fix the System Image 0X80780119 Error on Windows
-date: 2024-11-03T17:52:43.379Z
-updated: 2024-11-06T18:22:57.608Z
+date: 2024-11-13T17:59:17.455Z
+updated: 2024-11-17T18:17:27.629Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
  Regardless of what might be resulting in the problem in your case, the solutions we have listed below are sure to help you get the restore utility back on track. Proceed with the solutions one by one and follow the steps carefully for successful execution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Free Up Disk Space
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Enable System Protection
 
  Several users also noticed that they were facing the problem due to the system protection feature being disabled for the targeted drive. If you have this option disabled in your system, we suggest enabling it and checking if that makes any difference.
@@ -88,34 +95,27 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 ![Click on the System protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection-options.jpg)
 4. In the following dialog, head over to the **System Protection** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Choose the targeted drive and click on the **Configure** button.  
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now close the System Protection dialog and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Delete USN Journal
 
@@ -144,27 +144,6 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-ideal-systems-for-recording-and-streaming-athletic-competitions-for-2024/"><u>[New] Ideal Systems for Recording and Streaming Athletic Competitions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beat-makers-paradise-downloading-premium-dj-visuals/"><u>[Updated] 2024 Approved Beat Makers' Paradise Downloading Premium DJ Visuals</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-dark-side-of-digital-escapism/"><u>2024 Approved The Dark Side of Digital Escapism</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-inadequate-usb-support-on-desktops/"><u>Addressing Inadequate USB Support on Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bringing-back-old-file-management-interface/"><u>Bringing Back Old File Management Interface</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/elite-11-auditorial-capture-devices-overview/"><u>Elite #11 Auditorial Capture Devices Overview</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tricks-to-jumpstart-a-nonfunctional-terminal/"><u>Essential Tricks to Jumpstart a Nonfunctional Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-windows-portals-to-nintendo-switch-gaming/"><u>Essential Windows Portals to Nintendo Switch Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-for-failed-security-codes-in-epic-games-launcher-on-windows-pcs/"><u>Fixes for Failed Security Codes in Epic Games Launcher on Windows PCs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/get-your-hands-on-discounted-wonderfox-dvd-converter-software-via-bitsdujour-promotion/"><u>Get Your Hands-On Discounted WonderFox DVD Converter Software via BitsDuJour Promotion!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>In 2024, An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ranked-elite-12-best-camcorders-sporting-gps-mapping-technology/"><u>Ranked Elite 12 Best Camcorders Sporting GPS Mapping Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-brightness-managers-for-windows-multiscreen-professionals/"><u>The Ultimate List of Brightness Managers For Windows Multiscreen Professionals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbo-charging-steam-downloads-for-windows-users/"><u>Turbo-Charging Steam Downloads for Windows Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-drivers-on-windows-xp-without-automatic-tools/"><u>Updating Drivers on Windows XP Without Automatic Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-terminal-and-powershell-identifying-what-sets-them-aside/"><u>Windows Terminal and PowerShell: Identifying What Sets Them Aside</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -172,3 +151,25 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-alleviate-chromes-video-viewing-problem/"><u>[New] In 2024, Alleviate Chrome's Video Viewing Problem</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-float-engaging-with-netflixs-picture-in-picture/"><u>[New] The Art of Float Engaging with Netflix's Picture-in-Picture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-11-safe-mode-6-routes-covered/"><u>Accessing Windows 11 Safe Mode: 6 Routes Covered</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-another-app-uses-same-speaker-windows-edition/"><u>Addressing Error: Another App Uses Same Speaker, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-gpu-thermal-spikes-during-play/"><u>Addressing GPU Thermal Spikes During Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/app-aesthetics-overshadowing-computational-efficiency-issues/"><u>App Aesthetics Overshadowing Computational Efficiency Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-unwanted-updates-in-windows-11-with-proactive-measures/"><u>Avoid Unwanted Updates in Windows 11 with Proactive Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-the-basics-excellent-replacements-for-windows-11-defaults/"><u>Beyond the Basics: Excellent Replacements for Windows 11 Defaults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-computers-space-on-windows-using-these-free-tools/"><u>Boost Your Computer's Space on Windows Using These Free Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-downloading-and-setting-up-toshiba-printer-software-for-windows-users/"><u>Easy Guide: Downloading and Setting Up Toshiba Printer Software for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-viewing-on-netflix-your-comprehensive-tutorial-for-no-cost-entertainment/"><u>Free Viewing on Netflix? Your Comprehensive Tutorial for No-Cost Entertainment.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-7-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 7 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-proven-6-best-video-grabbers-for-your-mac/"><u>In 2024, Proven 6 Best Video Grabbers for Your Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instant-impressions-fast-forwarding-ppt-slide-showtimes/"><u>Instant Impressions Fast-Forwarding PPT Slide Showtimes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-8-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 8 Plus Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-creative-photos-using-pexels-effectively-for-2024/"><u>Unlocking Creative Photos Using Pexels Effectively for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719241162172-update-drivers-make-sure-your-graphics-card-drivers-are-up-to-date-for-optimal-performance/"><u>Update Drivers: Make Sure Your Graphics Card Drivers Are up to Date for Optimal Performance.</u></a></li>
+</ul></div>
+

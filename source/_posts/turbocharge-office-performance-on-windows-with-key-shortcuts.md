@@ -1,7 +1,7 @@
 ---
 title: Turbocharge Office Performance on Windows With Key Shortcuts
-date: 2024-09-01T05:12:51.619Z
-updated: 2024-09-02T05:12:51.619Z
+date: 2024-11-14T19:17:40.857Z
+updated: 2024-11-17T20:08:26.006Z
 tags:
   - windows10
   - windows11
@@ -50,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 
  Here are a few other tips and shortcuts that will make your work easier on Windows.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Scan Your PC for Malware Quickly
 
  Think you have malware? Here's how to get a scan running at record time:
@@ -61,28 +58,38 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 2. Type **mrt** in the Run navigation bar and hit **Enter**.  
 ![Run Box Open With mrt Typed in Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/type-mrt-in-run-box.jpg)
 3. The [Microsoft Windows Malicious Software Removal Tool](https://www.makeuseof.com/microsoft-malicious-software-removal-tool-guide/) will open up. Click on **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
-4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
-![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
-5. Finally, click on **Next** to scan your PC for malicious software.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
+4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
+![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
+5. Finally, click on **Next** to scan your PC for malicious software.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Control Your System Volume With Your Mouse Wheel
 
  This is handy if you're on a desktop or use a mouse with your laptop. Just click on the Volume icon on the taskbar and the volume slider will open up. Slide the volume up or down using your mouse scroll wheel.
 
  Did you know you can skip clicking the volume icon? If you really want to speed things up and don't mind downloading third-party tools, check out [how to change the volume on Windows with your mouse wheel](https://www.makeuseof.com/windows-11-volume-mouse-wheel/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Select Text Easily on Documents
 
@@ -93,15 +100,17 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 3. Release the **Shift** and **arrow keys** to stop selecting the text and then copy or delete it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Use Shortcuts to Work Faster on Windows
 
  Undoubtedly, shortcuts make things much easier and faster as you work and play on Windows. So start using the shortcuts discussed above. Once you get used to them, you'll love using them every day.
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,3 +118,25 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-complete-digest-exploring-google-podcast-apps-essence/"><u>[New] 2024 Approved Complete Digest Exploring Google Podcast App's Essence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-6-pioneering-nft-creators-spurring-artistic-genius-for-2024/"><u>[New] 6 Pioneering NFT Creators Spurring Artistic Genius for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-complete-lowdown-on-making-captivating-short-videos/"><u>[Updated] The Complete Lowdown on Making Captivating Short Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failure-code-0x0001-on-nvidia-software/"><u>Addressing Failure Code 0X0001 on Nvidia Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-erroneous-wins-protection-messages/"><u>Fixing Erroneous WINS Protection Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-launch-and-configure-win-11-sandbox/"><u>How to Launch and Configure Win 11 Sandbox</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-p40plus-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel P40+ Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-magic5-ultimate-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor Magic5 Ultimate Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-infinix-hot-40-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Infinix Hot 40 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-hardware-guides-by-toms-electronics-experts/"><u>In-Depth Hardware Guides by Tom's Electronics Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-windows-11-screen-grab-utility/"><u>Mastering Quick Access: Windows 11 Screen Grab Utility</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximizing-gameplay-fluidity-a-guide-for-improving-watch-dogs-legions-fps-and-reducing-lag/"><u>Maximizing Gameplay Fluidity: A Guide for Improving Watch Dogs: Legion's FPS and Reducing Lag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-reverse-keyboard-input-on-pcs/"><u>Navigating Reverse Keyboard Input on PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-cloud-vaults-recommended-solutions/"><u>Optimal Cloud Vaults Recommended Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-your-windows-11-ms-store-experience/"><u>Reinstating Your Windows 11 MS Store Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rewind-to-richness-a-guide-to-gaming-glory-past/"><u>Rewind to Richness: A Guide to Gaming Glory Past</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-wi-fi-troubles-with-ease-filling-out-action-deficiencies/"><u>Tackling Wi-Fi Troubles with Ease: Filling Out Action Deficiencies</u></a></li>
+</ul></div>
+

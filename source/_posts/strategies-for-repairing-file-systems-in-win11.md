@@ -1,7 +1,7 @@
 ---
 title: Strategies for Repairing File Systems in Win11
-date: 2024-11-06T04:48:11.510Z
-updated: 2024-11-07T01:49:51.251Z
+date: 2024-11-16T18:38:58.913Z
+updated: 2024-11-17T18:19:18.310Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan Your Hard Drive
 
  Hard drive integrity issues such as bad sectors also cause file system errors to occur in Windows 11/10\. For that reason, scanning your hard drive with the Check Disk tool is a recommended troubleshooting method for file system errors. The Check Disk utility (otherwise CHKDSK) scans for and repairs bad drive sectors detected. This is how you can run CHKDSK in the Command Prompt:
@@ -52,20 +45,13 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk.jpg)
 5. Exit the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the Windows Store App Troubleshooter
@@ -79,14 +65,14 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -99,14 +85,22 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Any Affected App
@@ -119,6 +113,19 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Set Up a New Local User Account on Windows
 
  File system errors can arise because of user account issues. Such errors might not arise if you set up and utilize a new local user account in Windows 11\. That might not be the most ideal resolution, but you can migrate user files to a newly established account.
@@ -126,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
  Our guide on[how to fix Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes full instructions for how to apply this solution.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
 
@@ -136,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
 
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Reset Windows
 
@@ -169,22 +176,22 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-chromeos-direct-screens-capture-tool-for-2024/"><u>[Updated] ChromeOS Direct Screens Capture Tool for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/avoid-distraction-with-firm-footage-capture/"><u>Avoid Distraction with Firm Footage Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cross-platform-utilization-windows-and-linux-synergy/"><u>Cross-Platform Utilization: Windows & Linux Synergy</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-windows-7-microphone-issues-comprehensive-solutions-unveiled/"><u>Fixing Windows 7 Microphone Issues: Comprehensive Solutions Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-download-adobe-reader-from-the-microsoft-store/"><u>How to Download Adobe Reader From the Microsoft Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-recycle-bin-corrupted-error-on-windows-10-and-11/"><u>How to Fix a Recycle Bin Corrupted Error on Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-make-your-sd-card-visible-again-in-explorer/"><u>How to Make Your SD Card Visible Again in Explorer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/laptop-video-edits-going-off-inshot-for-2024/"><u>Laptop Video Edits Going Off-Inshot for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-machine-enabling-admin-access/"><u>Master Your Machine: Enabling Admin Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-stop-video-freezing-on-steam/"><u>Methods to Stop Video Freezing on Steam</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/open-source-game-tunes-library-web/"><u>Open Source Game Tunes Library Web</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-up-your-social-game-apply-tiktoks-best-to-instagram-reels/"><u>Step Up Your Social Game Apply TikTok's Best to Instagram Reels</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95756414-9781250138071-the-wisdom-of-sundays/"><u>The Wisdom of Sundays | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/to-dot-automation-with-ifttt-triggers/"><u>To-Dot Automation with IFTTT Triggers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-your-sign-in-from-ease-of-use-with-pin-to-enhanced-security-with-passwords-in-windows-11/"><u>Transitioning Your Sign-In: From Ease of Use with PIN to Enhanced Security with Passwords in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-pcs-potential-with-hdd-defragmentation/"><u>Unlock Your PC's Potential with HDD Defragmentation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-the-social-landsayer-how-to-spark-fb-engagement/"><u>[New] In 2024, Navigating the Social Landsayer How to Spark FB Engagement</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-profiting-from-youtube-shorts-and-earning-potential-for-2024/"><u>[Updated] The Ultimate Guide to Profiting From Youtube Shorts & Earning Potential for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-cut-trim-and-enhance-youtube-editing-tips-for-the-rookie/"><u>2024 Approved Cut, Trim & Enhance YouTube Editing Tips for the Rookie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-your-windows-11s-performance-on-5g-networks/"><u>Boosting Your Windows 11'S Performance on 5G Networks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-new-life-into-computers-13-restoration-techniques/"><u>Breathing New Life Into Computers: 13 Restoration Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-windows-11-with-android-a-dual-screen-journey-begins-here/"><u>Bridging Windows 11 with Android: A Dual-Screen Journey Begins Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brighten-grayed-extend-volume-functionality-windows/"><u>Brighten Grayed Extend Volume Functionality, Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brightening-dull-screen-on-pcs-boot-menu/"><u>Brightening Dull Screen on PC's BOOT Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-capture-sound-in-obs-on-win-11-solve-it-now/"><u>Can't Capture Sound in OBS on Win 11? Solve It Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-uninstall-the-epic-games-launcher-on-windows-11-heres-how-to-fix-it/"><u>Can’t Uninstall the Epic Games Launcher on Windows 11? Here’s How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cheap-licenses-high-prices-top-8-risks-with-low-cost-windows-keys/"><u>Cheap Licenses, High Prices? Top 8 Risks with Low-Cost Windows Keys</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enabling-dual-security-a-step-by-step-guide-to-activating-gmails-two-factor-authentication/"><u>Enabling Dual Security: A Step-by-Step Guide to Activating Gmail's Two-Factor Authentication</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-slow-how-to-slow-down-youtube-videos-3-ways/"><u>In 2024, YouTube Slow How to Slow Down YouTube Videos [3 Ways]</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-the-art-of-engaging-unboxing-reels-for-2024/"><u>Mastering the Art of Engaging Unboxing Reels for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/personalized-computer-creation-vs-convenient-purchase-discover-the-better-path-for-your-tech-life/"><u>Personalized Computer Creation Vs. Convenient Purchase: Discover the Better Path for Your Tech Life</u></a></li>
+<li><a href="https://facebook.techidaily.com/second-life-and-its-position-in-the-emerging-metaverse-market/"><u>Second Life and Its Position in The Emerging Metaverse Market</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-windows-10-savvy-techniques/"><u>Ultimate Guide to Windows 10 Savvy Techniques</u></a></li>
 </ul></div>
 

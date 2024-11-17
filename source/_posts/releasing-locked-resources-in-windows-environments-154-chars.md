@@ -1,7 +1,7 @@
 ---
 title: Releasing Locked Resources in Windows Environments (154 Chars)
-date: 2024-09-01T05:17:36.760Z
-updated: 2024-09-02T05:17:36.760Z
+date: 2024-11-12T19:45:59.886Z
+updated: 2024-11-17T18:27:37.178Z
 tags:
   - windows10
   - windows11
@@ -45,7 +45,21 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan
 
@@ -58,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you find Microsoft Defender is disabled and cannot turn it on, that’s a surefire sign the SmartService malware has infected your PC. SmartService is a rootkit trojan that blocks users from utilizing antivirus tools. That malware can also block the installation of some antivirus apps. In this case, the “requested resource in use” error can also occur when you try to run security apps.
 
@@ -69,8 +80,18 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Disable Any Unknown Programs in Task Manager
 
  You might be able to disable a SmartService trojan from starting with Windows via Task Manager’s Startup tab. Look for and disable any suspicious programs listed on the **Startup** tab as follows:
@@ -81,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 4. If you see anything suspicious, select that item and click the **Disable** button.  
 ![The Disable button on Task Manager's Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-button.jpg)
 5. Then restart your PC to see if the issue persists.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Suspicious-Looking Programs
 
@@ -95,12 +113,30 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 2. Look through the list of installed software to see if there’s any suspicious-looking program there. Look for a program you can’t recall installing with an unknown publisher title.  
 ![The Uninstall option in Programs and Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option4.jpg)
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Factory Reset
 
@@ -110,19 +146,11 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-keep-my-files-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Get the “Requested Resource Is in Use” Error Sorted on Windows
 
  The potential solutions covered here are widely confirmed to resolve the “requested resource is in use” error. If it’s not caused by malware, disabling Explorer’s preview pane, as covered in resolution two, will usually fix the issue. Users confirm running an antivirus scan in safe mode (solution three) can fix the “required resource is in use” error when caused by malware.
 
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +158,23 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-effortless-screen-captures-for-pc-users-free-guide/"><u>[New] In 2024, Effortless Screen Captures for PC Users (Free Guide)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-smartphones-shining-in-high-definition-video/"><u>[Updated] Premium Smartphones Shining in High Definition Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-null-associated-app-errors-windows/"><u>Dealing with Null Associated App Errors (Windows)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-repairing-damaged-registry-and-system-files-in-windows-1011/"><u>Effective Solutions for Repairing Damaged Registry and System Files in Windows 10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-lens-tips-for-getting-your-iphone-camera-back-on-track/"><u>Fixing the Lens: Tips for Getting Your iPhone Camera Back on Track</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-null-audio-device-issue-in-win-10/"><u>How To Fix Null Audio Device Issue in Win 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kid-friendly-amazon-fire-hd-10-tablet-review-top-choice-for-parents-peace-of-mind/"><u>Kid-Friendly Amazon Fire HD 10 Tablet Review: Top Choice for Parent's Peace of Mind</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-review-landscape-with-confidence/"><u>Navigating Steam's Review Landscape with Confidence</u></a></li>
+<li><a href="https://win-lab.techidaily.com/secure-network-effective-strategies-to-eradicate-router-malware-and-safeguard-your-connection/"><u>Secure Network: Effective Strategies to Eradicate Router Malware & Safeguard Your Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-operation-automatic-updates-plus-swap-graphics-card-in-win10/"><u>Smooth Operation: Automatic Updates + Swap Graphics Card in Win10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-driver-update-tutorial-for-dell-xps-7590-g7/"><u>Speedy Driver Update Tutorial for Dell XPS 7590 (G7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-control-your-w11-microphone-mastery-plan/"><u>Taking Control: Your W11 Microphone Mastery Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-eradicating-windows-search-icons/"><u>Tips for Eradicating Windows Search Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-control-over-mouse-dynamics-in-windows/"><u>Unleashing Control Over Mouse Dynamics in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-luminosity-taming-windows-colour-chaos/"><u>Unlocking Luminosity: Taming Windows' Colour Chaos</u></a></li>
+</ul></div>
+

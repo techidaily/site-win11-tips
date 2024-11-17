@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your PC: Must-Uninstall Windows Programs"
-date: 2024-09-01T05:15:51.938Z
-updated: 2024-09-02T05:15:51.938Z
+date: 2024-11-15T16:07:47.375Z
+updated: 2024-11-17T16:15:26.105Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,23 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![screenshot of ccleaner 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_cccleaner.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  CCleaner was once a trusted Windows app for cleaning junk, but its reputation went downhill after it was acquired by Avast. Past issues include forced updates without permission, data collection that enabled itself even if you disabled the function, and the software distributing malware unknowingly.
 
  When[we looked at CCleaner in 2020](https://www.makeuseof.com/tag/time-trust-ccleaner/) , we found that it had cleaned up its act but was still largely unnecessary. You'll find suitable cleaning tools elsewhere, including those built into Windows itself. Follow[our step-by-step guide to cleaning your PC](https://www.makeuseof.com/tag/best-way-clean-windows-10-step-step-guide/) and you can say goodbye to CCleaner.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Crappy PC Cleaners
 
  Many people have installed (or accidentally installed) a PC-cleaning app at some point. The majority of these products range from useless to harmful, as[registry cleaners don't improve the performance of Windows at all](https://www.makeuseof.com/tag/registry-cleaner-difference/) . If you find garbage like MyCleanPC or PC Optimizer Pro in the list of your installed apps, you should remove them.
@@ -69,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  There's no reason to bother with uTorrent. We think[qBittorrent](https://www.qbittorrent.org/) is[the best torrent client](https://www.makeuseof.com/tag/best-torrent-clients/) , as it's free of all this nonsense.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Adobe Flash Player and Shockwave Player
 
  Adobe Flash Player is no longer supported by Adobe or browsers as of January 2021\. Though it's blocked in all modern browsers now, you should still uninstall local copies of Flash. This will keep you safe from any future security issues since Adobe isn't updating it anymore.
@@ -80,41 +87,40 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  You should thus remove both Shockwave Player and Flash Player. They're both relics of an era gone by and unnecessary today. However, it's still possible to[enjoy Flash games offline](https://www.makeuseof.com/tag/download-run-flash-games/) .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 6\. Java
 
  Java is another media runtime, and it includes two components: Java on the desktop, and the Java plugin for browsers (which is notorious for having security problems). Though it was once fairly common, very few websites use it nowadays. At the time of writing,[W3Techs](https://w3techs.com/technologies/details/cp-javaruntime/all/all) shows that a fraction of one percent of websites use Java.
 
  Modern versions of Chrome and Firefox don't support it, which means that[Java is less of a security problem than it once was](https://www.makeuseof.com/tag/java-security-risk/) . Unless you're an Android developer or use some specialized software that relies on Java, you should uninstall it. You'll probably never notice a difference.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Microsoft Silverlight
 
 ![Silverlight Not Supported](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Silverlight-Not-Supported.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Silverlight is a web framework, similar to Adobe Flash, that once enabled rich media content in your browser. Years ago, these plugins were necessary on a lot of websites. But now they're deprecated and no longer useful. Looking at[W3Techs](https://w3techs.com/technologies/details/cp-silverlight/all/all) again, we see that around 0.02 percent of websites use Silverlight as of this writing.
 
  Modern browsers don't even work with Silverlight; Chrome and Firefox haven't supported it for years, and it was never compatible with Edge. Silverlight is only officially supported in[Internet Explorer, which Microsoft retired](https://www.makeuseof.com/internet-explorer-11-end-meaning/) in mid-2022\. You won't lose anything by uninstalling Silverlight.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. All Toolbars and Junk Browser Extensions
 
  When you're wondering what else to uninstall from Windows 10 or 11, another obvious candidate is junk in your browser. While toolbars were once a far more prevalent problem, modern versions of Chrome and other browsers have thankfully fought back and mostly eradicated them. However,[spammy extensions are still in the wild](http://www.makeuseof.com/tag/chrome-extensions-uninstall-right-now/) .
 
  Have a look in your programs list for toolbars like the Bing Bar, Google Toolbar, Ask Toolbar, Yahoo! Toolbar, or the Babylon Toolbar. If you find any of them, uninstall them. After that, review the installed add-ons or extensions in your browsers. Make sure you recognize and review everything there, as even trustworthy extensions can be sold to shady companies.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Coupon Printer for Windows
 
  The purpose of Coupon Printer for Windows is to provide access to deals from Coupons.com. However, since this software is typically found bundled in with other programs, chances are that you didn't want to install it in the first place.
@@ -131,13 +137,34 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  When in doubt, anything from the manufacturer is probably not necessary. But it's always good to double-check.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. Windows 10 and Windows 11 Bloatware
 
 ![Windows Uninstall Start Menu Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-Uninstall-Start-Menu-Apps.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Having to remove manufacturer bloatware is annoying enough, but Microsoft includes a fair bit of its own in modern versions of Windows in the form of Store apps. Thankfully, you can uninstall most of these unnecessary programs without much hassle.
 
  Some of the default Modern apps, like Xbox and Weather, are useful to some people but not others. Others, like Candy Crush Saga, are junk you should remove. See how to get rid of this junk in our[Windows 10 bloatware removal guide](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) , or our[overview of uninstalling bloatware in Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 12\. WinRAR
 
@@ -145,32 +172,17 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  Despite this, there's really no reason to use WinRAR anyway.[7-Zip](https://www.7-zip.org/) is a free and simple tool that covers most people's needs. Whatever you do, please don't waste money on WinRAR.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Uninstall These Programs From Windows
 
  The above programs are unnecessary because they no longer serve any useful function. If you uninstall something and later find that you need it again, you can always reinstall it. Just be sure to install it without any bundled junk when you do.
 
  It's a good idea to do regular cleaning on your system to remove old or junky Windows programs. Some might be "zombie apps" that pose a security risk.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,4 +191,19 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-techniques-to-extract-fb-content-for-2024/"><u>[Updated] Unveiling Techniques to Extract FB Content for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210302502-9781802868128-ama-il-tuo-corpo/"><u>AMA IL TUO CORPO | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-most-effective-win-pc-tracking-apps-today/"><u>Discover the Most Effective Win PC Tracking Apps Today</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210974363-9781088251140-el-esclavo-de-africa-a-la-senzala/"><u>El Esclavo De África a la Senzala | Free Book</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/elite-race-sims-ultimate-selection/"><u>Elite Race Sims Ultimate Selection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-climate-tools-for-w10w11-users/"><u>Exclusive Climate Tools for W10/W11 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-to-download-star-performances-release/"><u>Free-to-Download Star Performances Release</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-touchpad-sensitivity-on-windows-11-laptops/"><u>How to Change Touchpad Sensitivity on Windows 11 Laptops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-of-the-best-in-drone-following-capabilities/"><u>In 2024, Best of the Best in Drone Following Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/newly-tested-foldable-iphone-preview-of-price-points-arrival-schedule-technical-specs-and-latest-tech-rumors/"><u>Newly Tested Foldable iPhone - Preview of Price Points, Arrival Schedule, Technical Specs and Latest Tech Rumors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-vlc-format-error-on-windows-systems/"><u>Overcoming VLC Format Error on Windows Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/soundscapes-for-the-eye-ranking-the-best-photographers-plus-videographers-w-tunes/"><u>Soundscapes for the Eye Ranking the Best Photographers + Videographers W/ Tunes</u></a></li>
+</ul></div>
 

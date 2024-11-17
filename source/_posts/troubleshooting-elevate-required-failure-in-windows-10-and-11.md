@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Elevate Required' Failure in Windows 10 & 11
-date: 2024-11-04T20:24:25.144Z
-updated: 2024-11-06T20:27:19.596Z
+date: 2024-11-14T18:18:00.959Z
+updated: 2024-11-17T19:54:24.516Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set Programs to Run in Compatibility Mode
 
  It’s also recommended to set older programs to run in compatibility mode. Doing so might address a compatibility issue causing error 740\. You can set an affected program to run in compatibility mode like this:
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 3. Select **Run this program in compatibility mode for** and choose Windows 8 or an older platform on the drop-down menu. It’s best to select the Windows platform for which the publisher originally released the software.  
 ![The Run this program in compatibility mode drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-in-compatibility-mode.jpg)
 4. Press the **Apply** \> **OK** buttons to set the compatibility mode setting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Turn Off the User Account Control Feature
 
@@ -65,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
  If your Windows PC has the Group Policy Editor, try changing the behavior of UAC’s elevation prompt with that tool. Selecting the **Elevate without prompting** setting for the User Account Control: Behavior policy could fix error 740 for some users.
@@ -86,31 +93,24 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 5. Double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select the **Elevate without prompting** option on the drop-down menu.  
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable Admin Approval Mode
@@ -122,16 +122,16 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 ![The Admin Approval Mode policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/admin-approval-mode-policy.jpg)
 3. Click the **Disabled** radio button if this policy is enabled.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
 5. To close the policy window, select the **OK** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable Third-Party Antivirus Software Packages
 
@@ -152,10 +152,10 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Error 740 Sorted on Windows
@@ -164,24 +164,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
  This is how you can fix error 740 within Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-comparing-leading-names-in-4k-yt-video-to-mp3-tools/"><u>[New] 2024 Approved Comparing Leading Names in 4K YT Video to MP3 Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-become-a-youtube-visionary-with-these-production-insights/"><u>[New] In 2024, Become a YouTube Visionary with These Production Insights</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-celebrating-the-hottest-instagram-after-effects-plugins/"><u>[Updated] Celebrating the Hottest Instagram After Effects Plugins</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-archive-essentials-top-15-downloader-tools/"><u>[Updated] In 2024, Instagram Archive Essentials Top 15 Downloader Tools</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-setting-up-auto-play-youtube-content-on-facebook-platform/"><u>2024 Approved Setting Up Auto-Play YouTube Content on Facebook Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-your-current-os-windows-10/"><u>Compelling Case for Continuing with Your Current OS - Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-unhackable-dialog-button-for-hardware-disconnect-in-win11/"><u>Crafting Unhackable Dialog Button for Hardware Disconnect in Win11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-recharge-your-space-top-cloud-service-picks-offering-plentiful-free-storage/"><u>In 2024, Recharge Your Space Top Cloud Service Picks Offering Plentiful, FREE Storage</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-unveiling-vr-the-creation-gap/"><u>In 2024, Unveiling VR The Creation Gap</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-strategies-for-srt-creation-and-enhancement-for-2024/"><u>Innovative Strategies for SRT Creation and Enhancement for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-common-cc-issues-with-ease-on-window-10/"><u>Navigating Through Common CC Issues with Ease on Window 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-solutions-to-troubleshoot-windows-xp-incompatibilities/"><u>Quick Solutions to Troubleshoot Windows XP Incompatibilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-windows-epic-launcher-crashes-quickly/"><u>Stop Windows Epic Launcher Crashes Quickly</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -189,3 +171,20 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-pitfall-of-superficial-engagement-on-insta/"><u>[New] The Pitfall of Superficial Engagement on Insta</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-celestial-sphere-prodesks-ultra-hd-integrated-panels/"><u>[Updated] 2024 Approved Celestial Sphere ProDesks Ultra HD Integrated Panels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-hasten-your-srt-to-txt-conversion-process-with-these-tips/"><u>[Updated] Hasten Your SRT to TXT Conversion Process with These Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-playwrights-tactics-creating-compelling-dialogues-for-2024/"><u>[Updated] Playwrights' Tactics Creating Compelling Dialogues for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-for-moving-programs-in-windows-11/"><u>A Step-by-Step Approach for Moving Programs in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-unauthorized-profiles-on-pcs-win1011-guide/"><u>Addressing Unauthorized Profiles on PCs: Win10/11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blank-screenshare-reconnecting-windows-microphone-to-google-meet/"><u>Blank Screenshare: Reconnecting Windows Microphone to Google Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bluetooth-harmony-linking-airpods-with-windows/"><u>Bluetooth Harmony: Linking AirPods with Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/bridging-minds-online-the-ultimate-guide-to-facebook-video-screensharing-for-2024/"><u>Bridging Minds Online The Ultimate Guide to Facebook Video Screensharing for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 7 Plus</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-xiaomi-redmi-note-12-pro-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi Note 12 Pro 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-11-microsoft-enhances-file-sharing-features/"><u>Windows 11: Microsoft Enhances File Sharing Features</u></a></li>
+</ul></div>
+

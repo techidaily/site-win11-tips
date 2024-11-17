@@ -1,7 +1,7 @@
 ---
 title: Reactivate Winget in a Click for Windows 11
-date: 2024-11-03T13:52:45.997Z
-updated: 2024-11-06T23:22:21.134Z
+date: 2024-11-11T18:52:45.122Z
+updated: 2024-11-17T16:21:04.228Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
  Now, you know the reasons behind Winget not working issue. Try out these eight methods to resolve the issue and use your favorite package manager again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Close and Reopen Winget in the Terminal App
 
  Before moving on to advanced fixes, completely close the Command Prompt or PowerShell instance you are running on the PC. You can use the Task Manager to stop an unresponsive instance of either of these command-line tools.
@@ -43,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
  After that, open Command Prompt or PowerShell with administrator privileges on your system. Type Winget and press the **Enter** key to check if Winget works now.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check if the Winget Servers Are Down
@@ -71,14 +78,14 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 ![Update App Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-app-installer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So, open Microsoft Store and check the library section for any pending updates for the App Installer. Manually search and install the update and check if Winget works now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable the App Execution Alias
 
@@ -91,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 ![Enable the App Execution Alias-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-the-app-execution-alias-1.jpg)
 5. Close the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Manually Add the Path Environment Variable
 
  Ae wrongly configured Winget path can also produce errors. So, you must manually add the correct path in Environment Variables using the Advanced System Properties window. Repeat the following steps:
@@ -107,14 +107,15 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 3. Now, click on the New button and paste the following path: **%UserProfile%\\AppData\\Local\\Microsoft\\WindowsApps**  
 ![Manually Add the Path Environment Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manually-add-the-path-environment-variable.jpg)
 4. Click on the **OK** button. Restart your PC.
-5. Open the Terminal app and check if Winget works or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Open the Terminal app and check if Winget works or not.
 
 ## 7\. Re-register Winget Using PowerShell
 
@@ -126,44 +127,24 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 3. You won’t see any confirmation message after the command executes successfully. Close the PowerShell window and restart your PC.  
 ![Re-register Winget Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/re-register-winget-using-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Try Some Generic Windows Fixes
 
  If none of the methods work for you, try our generic fixes like SFC and DISM scans that find and fix the system file corruption and service Windows Image components. You must [run the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) first and allow it to find and replace the corrupt system files, if any. After that, [run the DISM scan](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) in online mode.
 
  After running these scans, you can use System Restore to revert the PC to a point in time when everything worked fine. Lastly, you can perform a complete system reset. You can choose the Keep my files option to preserve all your files while [factory resetting Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Make Winget Functional Again
 
  Winget is a fantastic package manager that helps you control and manage app packages from the terminal. Ensure robust internet connectivity and check if the app execution alias is active for Winget. Manually reconfigure the PATH for Winget and re-register the App Installer using PowerShell. If you want a GUI version of Winget, you can try Winstall which helps you batch-install apps.
 
  But some users report that Winget is not working on their PC. They face a "The system cannot execute the specified program" and cannot run any commands, This post will discuss multiple methods to resolve the issue and restore Winget to its working state. Let’s begin.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-your-video-presence-with-swiftly-created-captions-and-text-on-fb/"><u>[New] 2024 Approved Elevate Your Video Presence with Swiftly Created Captions and Text on FB</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-20-best-non-copyrighted-pubg-montage-thumbnail/"><u>[Updated] 2024 Approved 20 Best Non Copyrighted PUBG Montage Thumbnail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circumventing-no-alert-settings-for-windows-11-cameras/"><u>Circumventing No-Alert Settings for Windows 11 Cameras</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-keyspace-perfection-on-windows-11/"><u>Configuring Keyspace Perfection on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-productivity-the-most-compelling-task-list-software-on-windows-11/"><u>Harnessing Productivity: The Most Compelling Task List Software on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722850438266-how-to-navigate-and-utilize-the-revolutionary-photo-cutout-function-on-your-iphone-ios-16-unveiled/"><u>How to Navigate and Utilize the Revolutionary Photo Cutout Function on Your iPhone - iOS 16 Unveiled!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-se-2020-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone SE (2020)? Heres the Best Fixes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-v30-lite-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo V30 Lite 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-mp4-downloading-vimeo-videos-easily-for-2024/"><u>Mastering MP4 Downloading Vimeo Videos Easily for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/returning-the-windows-11-search-bar-to-an-icon-style/"><u>Returning the Windows 11 Search Bar to an Icon Style</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/revitalizing-video-engagement-easy-steps-for-an-animated-subscribe-button-in-filmora-for-2024/"><u>Revitalizing Video Engagement Easy Steps for an Animated Subscribe Button in Filmora for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/snapchat-versus-tiktok-whats-the-real-difference/"><u>Snapchat Versus TikTok What's The Real Difference?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-stabilizing-inconsistent-windows-printers/"><u>Steps for Stabilizing Inconsistent Windows Printers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-windows-11s-system32-folder-way/"><u>Uncover the Windows 11'S System32 Folder Way</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/which-is-better-for-privacy-the-in-depth-comparison-of-signal-vs-whatsapp/"><u>Which Is Better for Privacy? The In-Depth Comparison of Signal vs WhatsApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-utility-tips-efficiently-handling-archived-files/"><u>Windows Utility Tips: Efficiently Handling Archived Files</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -172,3 +153,25 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-sifting-through-social-media-stars-targeting-your-specific-interests/"><u>[New] 2024 Approved Sifting Through Social Media Stars Targeting Your Specific Interests</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-maximizing-health-outreach-via-fb-advertising-for-2024/"><u>[New] Maximizing Health Outreach via FB Advertising for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-views-premium-hashtags-to-spark-virality-in-video-snippets/"><u>[Updated] Elevate Views Premium Hashtags to Spark Virality in Video Snippets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-optimized-techniques-downsize-large-videos-for-enhanced-facebook-sharing/"><u>1. Optimized Techniques: Downsize Large Videos for Enhanced Facebook Sharing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-comprehensible-guide-downloading-safe-free-vlc-on-macos/"><u>2024 Approved The Comprehensible Guide Downloading Safe, Free VLC on macOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capture-video-perfection-in-minutes-for-2024/"><u>Capture Video Perfection in Minutes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-simultaneous-fps-reduction-on-personal-computers/"><u>Effective Solutions for Simultaneous FPS Reduction on Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-apple-photo-imports-that-go-wrong-on-pcs-windows/"><u>How to Handle Apple Photo Imports That Go Wrong on PCs (Windows)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-sparkle-sounds-standout-background-scores-for-yt-shorts/"><u>In 2024, Sparkle Sounds Standout Background Scores For YT Shorts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-net-core-not-installed-app-issue-in-windows/"><u>Overcoming .NET Core Not Installed App Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-speaker-functionality-in-computers-abruptly/"><u>Restore Speaker Functionality in Computers Abruptly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-system-crafting-a-custom-uninstall-menu-for-win/"><u>Simplify Your System: Crafting a Custom Uninstall Menu for Win</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-apple-watch-straps-thoroughly-evaluated-by-tech-gurus/"><u>Top Rated Apple Watch Straps - Thoroughly Evaluated by Tech Gurus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-grandmas-old-computer-for-better-use/"><u>Transform Your Grandma’s Old Computer for Better Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-eliminating-no-servers-found-in-apex-legends-(156-chars/"><u>Troubleshooting: Eliminating 'No Servers Found' In Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-engage-telnet-securely/"><u>Windows 11: How to Engage Telnet Securely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wisdom-three-routes-to-your-games-data/"><u>Windows Wisdom: Three Routes to Your Games' Data</u></a></li>
+</ul></div>
+

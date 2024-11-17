@@ -1,7 +1,7 @@
 ---
 title: Effortless APK Setup for Win 11 Power Users
-date: 2024-10-31T05:12:45.226Z
-updated: 2024-11-06T21:35:38.188Z
+date: 2024-11-16T19:37:20.035Z
+updated: 2024-11-17T17:50:39.659Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  WSA-QuickInstall can be falsely identified as a threat by Windows Defender. You may need to[add an exception to Windows Defender](https://www.makeuseof.com/windows-11-security-exclusions/) in order to use the app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up WSA-QuickInstall
@@ -45,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 ![screenshot of wsa quickinstall drag and drop functionality](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_wsa_quickinstall_drag_and_drop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Setting up WSA-QuickInstall is easy. Once extracted, you'll have two files and a folder. Keep them all together, but pay attention to**install.exe** , as this will be the executable that we use to actually sideload and install the apps.
@@ -60,15 +66,22 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  That's all good and well, but how do we enable the seamless double-click install functionality?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up the Default Program for APK Files
 
 ![screenshot of changing default program in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_wsa_quickinstall_change_default_program.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  First, make sure you have an APK file handy to install. Then, follow these steps:
 
@@ -79,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 5. Navigate to where you extracted the files and click**install.exe**
 
  It's as easy as that. Now, whenever you double-click on an APK file, Windows will automatically install it for you, hassle-free.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make Installing APK Files Easier
 
@@ -108,20 +114,17 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels/"><u>[New] In 2024, Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-accelerate-channels-youtubes-top-collaborative-growth-tips/"><u>[Updated] 2024 Approved Accelerate Channels YouTube's Top Collaborative Growth Tips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-perfect-pitch-in-words-crafting-captivating-podcast-episodes/"><u>[Updated] 2024 Approved Perfect Pitch in Words Crafting Captivating Podcast Episodes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-puzzle-prints-crafting-hilarity-in-minutes/"><u>[Updated] 2024 Approved Puzzle Prints Crafting Hilarity in Minutes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/darkschemetoggleinwindowsnotepadapp/"><u>DarkSchemeToggleInWindowsNotepadApp</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-our-top-picks-of-free-backup-applications-the-ultimate-list-and-reviews/"><u>Explore Our Top Picks of Free Backup Applications - The Ultimate List & Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harness-the-power-of-your-windows-11-to-create-vibrant-ai-images-with-paint-tool-sai/"><u>Harness the Power of Your Windows 11 to Create Vibrant AI Images with Paint Tool SAI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-dispel-geforce-now-error-xc0f1103f-in-win11/"><u>How to Dispel GeForce Now Error Xc0f1103f in Win11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-lenovo-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Lenovo? Try These Fixes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-tecno-spark-20c-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Tecno Spark 20C to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-to-the-past-unlocking-vintage-pc-experiences/"><u>Key to the Past: Unlocking Vintage PC Experiences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-your-favorite-windows-extras-in-7-simple-steps/"><u>Regain Your Favorite Windows Extras in 7 Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-your-files-ditching-onedrive-on-windows-11/"><u>Simplifying Your Files: Ditching OneDrive on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transparency-for-hidden-menu-items-on-windows-11/"><u>Transparency for Hidden Menu Items on Windows 11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/top-5-professionalnyh-seo-kompanij-v-dzhidde-eksklyuzivnaya-vyborka-iz-saudovskoj-aravii/"><u>Топ-5 Профессиональных SEO-Компаний В Джидде: Эксклюзивная Выборка Из Саудовской Аравии</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-complete-guide-to-iphone-7-screen-recordings/"><u>[New] 2024 Approved The Complete Guide to iPhone 7 Screen Recordings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-quick-video-wins-essential-ideas-for-vloggers/"><u>[New] In 2024, Quick Video Wins Essential Ideas for Vloggers</u></a></li>
+<li><a href="https://games-able.techidaily.com/bootlegging-game-boy-games-using-linux-tools/"><u>Bootlegging Game Boy Games Using Linux Tools</u></a></li>
+<li><a href="https://win-unique.techidaily.com/crucial-ssd-windows-11/"><u>Crucial SSDへの直接移行: Windows 11をクローニングしてアップグレード</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-cod-modern-warfare-the-latest-first-person-shooter-sensation/"><u>Discover COD: Modern Warfare - The Latest First-Person Shooter Sensation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-error-0xc0000001-quick-fixes/"><u>Eliminating Windows Error 0xC0000001: Quick Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-transforming-word-docs-into-pdf-on-win-11/"><u>Essential Guide: Transforming Word Docs Into PDF on Win 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-shooter-showdown-the-ultimate-battle-for-game-supremacy/"><u>In 2024, Shooter Showdown The Ultimate Battle for Game Supremacy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-no-hypervisor-detection-in-windows-sandbox-environment/"><u>Overcoming No Hypervisor Detection in Windows Sandbox Environment</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/time-capsule-online-expert-strategies-to-access-and-employ-the-wayback-machine/"><u>Time Capsule Online: Expert Strategies to Access and Employ the Wayback Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-mastery-easy-to-follow-guide-to-building-bootable-usbs/"><u>Win 11 Mastery: Easy-to-Follow Guide to Building Bootable USBs</u></a></li>
 </ul></div>
 

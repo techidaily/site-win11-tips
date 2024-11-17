@@ -1,7 +1,7 @@
 ---
 title: How to Jumpstart Your Pre-Windows 11 Machine
-date: 2024-11-02T01:16:15.045Z
-updated: 2024-11-07T14:52:21.899Z
+date: 2024-11-14T16:28:51.857Z
+updated: 2024-11-17T17:45:58.379Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 ![iso file download windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/iso-file-download-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can[legally download the Windows 11 ISO](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft server directly or using Media Creation Tool. For this guide, we’ll use Media Creation Tool to download the ISO image file.
@@ -59,19 +59,6 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 ## 2\. Download a Windows 10 ISO
 
 ![windows 10 download ISO preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-10-download-iso-preference.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll need to modify the Windows 11 ISO by replacing the appraiserress.dll with a version available in Windows 10 ISO. This DLL file is responsible for performing a hardware check during an upgrade.
 
@@ -99,15 +86,16 @@ To download Windows 10 ISO:
 ![copy appraiserres dll windows 10 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-appraiserres-dll-windows-10-iso.jpg)
 3. Next, extract the Windows 11 ISO to a different folder. You can[use WinRAR to extract](https://www.win-rar.com/start.html?&L=0) the Windows 11 ISO file.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![extract windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-windows-11-iso.jpg)
 4. Open the Windows 11 ISO's extracted folder and then the**Source** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, copy and paste the**appraiserres.dll** file copied from Windows 10 ISO into Windows 11 ISO's**Sources** folder.
 
 1. Select**Replace the file in the destination** to confirm the action.  
@@ -115,10 +103,10 @@ To download Windows 10 ISO:
 2. Next, disconnect your PC from the Internet. This prevents the setup from downloading updated files during installation and overwriting the modified dll file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Once the Internet is disabled, open the extracted Windows 11 ISO folder and double-click on the**Setup file** . Click**Yes** if prompted by UAC.
@@ -127,6 +115,14 @@ To download Windows 10 ISO:
 5. Next, select**Note right now.** This will prevent the Windows setup from finding and installing newer updates causing the upgrade process to fail on unsupported hardware.  
 ![windows 11 setup choose what to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-choose-what-to-install.jpg)
 6. In the**Choose what to keep** screen, select**Keep personal files and apps.**
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Next** and then click on**Accept** .  
 ![windows 11 setup ready to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-ready-to-install.jpg)
 8. Next, click on**Install** to install Windows 11 version 22H2 while keeping your personal files and apps.
@@ -135,19 +131,6 @@ To download Windows 10 ISO:
 To check your Windows specification:
 
 ![check windows specification windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-windows-specification-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
 2. In the**System** tab, scroll down and click on**About** .
@@ -158,10 +141,10 @@ To check your Windows specification:
 ![go back windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/go-back-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you run into an issue after the upgrade, you can use the**Go back** option to undo the update and restore the earlier version of Windows 11\. However, the "Go back" option is only available for seven days since the upgrade. After that, the option will be greyed out.
@@ -171,6 +154,13 @@ To go back to the previous version:
 1. Press**Win + I** to open**Settings** .
 2. In the**System** tab, scroll down and click on**Recovery** .
 3. Click on**Go back** under**Recovery options** . Then, follow the on-screen instructions to uninstall the Windows 22H2 update.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Installing Windows 11 22H2 on Unsupported Hardware
 
@@ -193,20 +183,24 @@ To go back to the previous version:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-accelerate-image-enhancement-top-15-pixlr-tips-for-speed-and-efficiency/"><u>[New] 2024 Approved Accelerate Image Enhancement Top 15 Pixlr Tips for Speed and Efficiency</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-charting-your-path-podcast-income-expectations/"><u>[New] 2024 Approved Charting Your Path Podcast Income Expectations</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-breaking-down-techniques-for-recording-google-meet-participants/"><u>[Updated] 2024 Approved Breaking Down Techniques for Recording Google Meet Participants</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-launching-effective-charity-challenges-and-contests-online/"><u>[Updated] Launching Effective Charity Challenges and Contests Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assessing-windows-11-integrity-through-activation-verification/"><u>Assessing Windows 11 Integrity Through Activation Verification</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dodge-the-null-error-resolving-win11-problems/"><u>Dodge the Null Error: Resolving Win11 Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unwanted-keystroke-combinations-on-pcs/"><u>Fixing Unwanted Keystroke Combinations on PCs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/key-steps-turning-visual-media-from-pinterest-into-music-files-for-2024/"><u>Key Steps Turning Visual Media From Pinterest Into Music Files for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-release-for-logitech-extreme-3d-pro-peripheral-management-software/"><u>Latest Version Release for Logitech Extreme 3D PRO Peripheral Management Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-management-add-gmail-accounts-to-outlook-windows/"><u>Masterful Management: Add Gmail Accounts to Outlook, Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-your-network-nirvana-a-guide-to-the-top-6-ways-to-mend-network-hardware-in-windows/"><u>Reclaim Your Network Nirvana: A Guide to the Top 6 Ways to Mend Network Hardware in Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-future-in-tech-lessons-and-strategies-from-the-aerospace-giant-boeing-zdnet-exclusive-interview/"><u>Securing Your Future in Tech: Lessons and Strategies From the Aerospace Giant, Boeing | ZDNET Exclusive Interview</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tackling-maxed-out-chatgpt-issue-windows/"><u>Tackling Maxed-Out ChatGPT Issue (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-zoom-correction-for-error-1132/"><u>Windows 11 Zoom Correction for Error 1132</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-update-fresh-start-procedure/"><u>Windows Update Fresh Start Procedure</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-the-essentials-of-av1-coders/"><u>[New] 2024 Approved Navigating the Essentials of AV1 Coders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-full-screen-perfection-the-top-4-pcmac-screen-recorders/"><u>[New] Full-Screen Perfection The Top 4 PC/Mac Screen Recorders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unlocking-success-in-live-streaming-of-cricket-matches-for-2024/"><u>[New] Unlocking Success in Live Streaming of Cricket Matches for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-targeted-success-identifying-youtube-niche-demand/"><u>[Updated] Targeted Success Identifying YouTube Niche Demand</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-smart-7-hd-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Smart 7 HD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-sound-failure-in-audacity-windows-11-and-11/"><u>Eliminating Sound Failure in Audacity, Windows 11 & 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-tom-an-in-depth-hardware-review/"><u>Exploring Computer Components with Tom - An In-Depth Hardware Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-zte-nubia-flip-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked ZTE Nubia Flip 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-administered-window-on-os-x/"><u>Guidelines for Administered Window on OS X</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-a60s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel A60s to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-spark-10-4g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Spark 10 4G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-subnet-shift-a-guide-to-win11-networks/"><u>Master the Subnet Shift: A Guide to Win11 Networks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-faded-bios-boot-options/"><u>Remedy for Faded BIOS Boot Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-integration-of-printer-settings-in-windows-environment/"><u>Seamless Integration of Printer Settings in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-system-controls-learn-how-to-use-4-techniques-for-disk-editor-on-win11/"><u>Seamless System Controls: Learn How to Use 4 Techniques for Disk Editor on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-authorization-snags-head-on/"><u>Tackling Windows Authorization Snags Head-On</u></a></li>
+<li><a href="https://some-tips.techidaily.com/talking-texts-a-beginners-guide-to-animated-instagram-captions-for-2024/"><u>Talking Texts A Beginner's Guide to Animated Instagram Captions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-guide-combatting-a-non-active-wsresetexe/"><u>The Ultimate Fix Guide: Combatting a Non-Active WSReset.exe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-how-to-reinstall-java-correctly/"><u>Unlocking Windows: How to Reinstall Java Correctly</u></a></li>
 </ul></div>
 

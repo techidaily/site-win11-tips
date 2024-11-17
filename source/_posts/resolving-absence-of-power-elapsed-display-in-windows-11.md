@@ -1,7 +1,7 @@
 ---
 title: Resolving Absence of Power Elapsed Display in Windows 11
-date: 2024-11-03T22:17:24.498Z
-updated: 2024-11-07T10:31:43.725Z
+date: 2024-11-13T18:36:54.206Z
+updated: 2024-11-17T19:50:06.557Z
 tags:
   - windows10
   - windows11
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
  It isn't entirely obvious what the root cause is. It could be a conflict in the Registry, which can occur during the update process. It also seems to have been deliberately disabled by Microsoft in some updates. Perhaps because the company is working on power and battery settings for a future update.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the Battery Time Estimate in the Registry
@@ -59,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 4. Right-click the Power key and select**New > DWORD (32-bit) Value** . Set the name of this DWORD as**EnergyEstimationEnabled** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Double-click the new DWORD and set the Value data to**1** . Click**Ok** to close the window.  
@@ -70,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 6. Repeat the previous two steps to create two more DWORD values called**EnergyEstimationDisabled** and**UserBatteryDischargeEstimator** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. You don't need to change the Value data for these, as they should default to a 0 value.
@@ -81,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
  Close the Registry Editor and restart your laptop. When you hover over the battery icon in the System Tray, it should show the estimated time remaining. And while you're at it, check out[how to add shortcuts to the System Tray](https://www.makeuseof.com/windows-11-add-shortcuts-menu-to-system-tray/) to make it even more useful.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix a Missing Battery Time Estimate on Windows
@@ -106,24 +100,24 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-augmenting-creativity-with-the-best-ai-for-podcast-names-for-2024/"><u>[New] Augmenting Creativity with the Best AI for Podcast Names for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-seamless-screen-capture-software-w10-edition/"><u>[New] Seamless Screen Capture Software, W10 Edition</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-aspiring-asmr-producers-guide-to-video-excellence/"><u>[New] The Aspiring ASMR Producer's Guide to Video Excellence</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-5-efficient-ways-to-store-movies-and-videos-mov-in-windows/"><u>[Updated] 2024 Approved 5 Efficient Ways to Store Movies & Videos (.mov) in Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capture-life-in-motion-using-ipad-filming-techniques/"><u>2024 Approved Capture Life in Motion Using iPad Filming Techniques</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/bend-and-shape-your-text-with-3d-effects-in-illustrator/"><u>Bend and Shape Your Text with 3D Effects in Illustrator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-problems-to-perfect-integration-steps-for-optimal-add-ons-in-windows-os/"><u>From Problems to Perfect Integration: Steps for Optimal Add-Ons in Windows OS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-ensure-your-graphics-card-supports-call-of-duty-warzone-on-windows-11/"><u>How To Ensure Your Graphics Card Supports Call of Duty: Warzone on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-redmi-13c-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Redmi 13C 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-interventions-nine-fixes-to-stop-wwe-crashes/"><u>Immediate Interventions: Nine Fixes to Stop WWE Crashes</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-hardware-detection-alerts/"><u>Navigating Through Hardware Detection Alerts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reduce-windows-surrounders-for-better-control/"><u>Reduce Windows Surrounders for Better Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalizing-your-windows-11-deskconnect-experience/"><u>Revitalizing Your WIndows 11 DeskConnect Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-share-failures-on-geforce/"><u>Strategies for Resolving Share Failures on GeForce</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-win11s-update-failure-0x30017/"><u>Strategies for Win11's Update Failure #0X30017</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-efficient-backup-of-notebook-apps/"><u>Techniques for Efficient Backup of Notebook Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722896459701-the-future-of-android-awaits-download-android-16-for-free-insights-into-release-timing-estimated-costs-and-advanced-features/"><u>The Future of Android Awaits: Download Android 16 for Free - Insights Into Release Timing, Estimated Costs & Advanced Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unravel-word-mysteries-quickly-with-windows-11/"><u>Unravel Word Mysteries Quickly with Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rime-capture-device-your-ally-in-youtube-ventures-for-2024/"><u>[New] Prime Capture Device Your Ally in YouTube Ventures for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-american-karaoke-fun-less-than-150/"><u>Affordable American Karaoke Fun - Less Than $150!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-linking-dualshock-3-with-windows-gamepad/"><u>Direct Linking: DualShock 3 with Windows Gamepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-customize-the-windows-11-tablet-bar-settings/"><u>Easy Steps to Customize the Windows 11 Tablet Bar Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-6-finest-free-alternatives-to-photoshop-in-our-list/"><u>Explore the 6 Finest Free Alternatives to Photoshop in Our List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tune-your-pcs-performance-avoiding-sudden-updates-on-windows-11/"><u>Fine-Tune Your PC's Performance: Avoiding Sudden Updates on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disassociate-onedrive-from-microsoft-account-in-windows/"><u>How to Disassociate OneDrive From Microsoft Account in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-initiate-a-fresh-start-in-windows-11/"><u>How to Initiate a Fresh Start in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-update-the-dynamic-theme-on-windows-regularly/"><u>How to Update the Dynamic Theme on Windows Regularly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-whos-at-the-apex-youtube-subscribers-ranking/"><u>In 2024, Who's at the Apex? YouTube Subscribers Ranking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-in-minutes-unveil-the-windows-machine-you-use/"><u>Mastery in Minutes: Unveil the Windows Machine You Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-edge-browser-view2-memory-glitches/"><u>Overcoming Edge Browser: View2 Memory Glitches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-iphone-photography-top-app-picks-x-7-for-2024/"><u>Prime iPhone Photography Top App Picks (X, 7) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-error-how-to-retrieve-lost-geforce-x-configurations/"><u>Reversing Error: How to Retrieve Lost GeForce X Configurations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/select-the-best-ai-conversational-agent-7-crucial-characteristics-to-look-for/"><u>Select the Best AI Conversational Agent: 7 Crucial Characteristics to Look For</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-overcoming-the-expired-semaphore-limit-error-0x80070079/"><u>Solution for Overcoming the Expired Semaphore Limit - Error 0X80070079</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-repairing-the-x3daudiodll-file-failure-situations/"><u>The Ultimate Guide to Repairing the X3Daudio.dll File Failure Situations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-gets-boosted-by-amd-radeon-driver-v20/"><u>Windows 10 Gets Boosted by AMD Radeon Driver V2.0</u></a></li>
 </ul></div>
 

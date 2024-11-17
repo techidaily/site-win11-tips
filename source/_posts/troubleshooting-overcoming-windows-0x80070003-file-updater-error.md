@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Overcoming Windows' 0X80070003 File Updater Error"
-date: 2024-10-31T00:43:14.793Z
-updated: 2024-11-06T22:07:56.393Z
+date: 2024-11-13T19:41:51.841Z
+updated: 2024-11-17T18:27:12.618Z
 tags:
   - windows10
   - windows11
@@ -49,22 +49,15 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
 ![Software distribution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-software-distribution.jpg)
 2. Locate the**DataStore** folder in the SoftwareDistribution folder and right-click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Choose**Delete** from the context menu.  
 ![Delete the DataStore folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/software-distribution-datastore-delete-1.jpg)
 4. Click**Yes** in the confirmation prompt to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the folder is deleted, open the Settings app and try installing the updates again.
@@ -85,20 +78,35 @@ Here is all that you need to do:
 `sfc /scannow`  
 ![SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/sfc-scannow.jpg)
 4. Wait for the command to execute, and then execute the following command:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Dism /Online /Cleanup-Image /ScanHealth`  
 ![DISM scanhealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/scanhealth.jpg)
 5. Next, proceed with the following command:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Dism /Online /Cleanup-Image /RestoreHealth`  
 ![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
 
@@ -132,13 +140,6 @@ net start appidsvc`
 ![Restart the update services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-the-services.jpg)
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get the Missing Update Files Back on Windows
 
  Hopefully, by now, you should have successfully resolved the annoying update error. In case you are still facing the issue, you can use the Microsoft update catalog to install the updates manually. It may also be a good idea to report this issue to the Microsoft support team so they can launch an official fix for the problem.
@@ -158,24 +159,19 @@ net start appidsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-effortless-setup-of-streamlabs-for-mac-users-via-obs/"><u>[New] 2024 Approved Effortless Setup of Streamlabs for Mac Users via OBS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-easy-mastery-of-movie-capturing-from-pc-mac-and-mobile-devices/"><u>[New] Easy Mastery of Movie Capturing From PC, Mac & Mobile Devices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-complete-guide-to-crafting-best-in-class-yt-thumbnails/"><u>[Updated] In 2024, A Complete Guide to Crafting Best-in-Class YT Thumbnails</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-definitive-guide-to-flawless-morphvox-technique/"><u>2024 Approved The Definitive Guide to Flawless MorphVOX Technique</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-productivity-the-essentials-of-using-flow-launcher/"><u>Accelerate Productivity: The Essentials of Using Flow Launcher</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-pc-failures-due-to-unmet-intel-graphic-standards/"><u>Addressing PC Failures Due to Unmet Intel Graphic Standards</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-task-managers-dynamic-speed-in-windows-11/"><u>Boost Task Manager's Dynamic Speed in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/game-gateway-3-steps-to-direct-folder-entry-on-pc/"><u>Game Gateway: 3 Steps to Direct Folder Entry on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-print-spooler-service-is-not-running-error-in-windows/"><u>How to Fix “The Print Spooler Service Is Not Running” Error in Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-zoom-audio-settings-for-getting-audio-quality-2-ways/"><u>In 2024, Best Zoom Audio Settings for Getting Audio Quality [2 Ways]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y78-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y78 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inspection-enhanced-edition-parrot-ar-drone/"><u>Inspection Enhanced Edition Parrot AR Drone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/next-gen-gpus-for-crystal-clear-4k/"><u>Next-Gen GPUs for Crystal Clear 4K</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-image-previews-top-4-win-friendly-viewers/"><u>Perfecting Image Previews: Top 4 Win-Friendly Viewers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/standing-out-strategies-for-top-users-on-snapchat-for-2024/"><u>Standing Out Strategies for Top Users on Snapchat for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/steering-techs-ethical-currents-correctly/"><u>Steering Tech's Ethical Currents Correctly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-system-operations-via-terminal-commands/"><u>Streamlining System Operations via Terminal Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-11-remedy-six-steps-to-resurrect-lost-panes/"><u>The Ultimate Windows 11 Remedy: Six Steps to Resurrect Lost Panes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-process-chrome-windows-11-link-up/"><u>Unveiling the Process: Chrome, Windows 11 Link-Up</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-choreographed-combat-selecting-superior-fighting-titles/"><u>[New] 2024 Approved Choreographed Combat Selecting Superior Fighting Titles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-rehabilitating-faulty-obs-camera-connection-for-2024/"><u>[New] Rehabilitating Faulty OBS Camera Connection for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-profile-picture-dimensions-for-2024/"><u>[Updated] FB Profile Picture Dimensions for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-guide-7-steps-for-stellar-cooking-films-for-2024/"><u>[Updated] The Ultimate Guide 7 Steps for Stellar Cooking Films for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimal-obs-configurations-for-thrifty-computers/"><u>2024 Approved Optimal OBS Configurations for Thrifty Computers</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728497855966-4/"><u>简单疗程：详解4种修复用户数据库丢失问题的技巧</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-to-follow-pathway-accessing-wordpad-on-pcs/"><u>Easy-to-Follow Pathway: Accessing WordPad on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-user-experience-customizing-windows-11-defaults/"><u>Enhancing Your User Experience: Customizing Windows 11 Defaults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-dark-mode-in-notepad-on-windows-10-and-11/"><u>How to Enable Dark Mode in Notepad on Windows 10 & 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-effortlessly-record-audio-on-your-mac-using-audacity/"><u>In 2024, Effortlessly Record Audio on Your Mac Using Audacity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-virtual-horizons-unveiled-critics-top-oculus-headsets/"><u>In 2024, Virtual Horizons Unveiled Critics' Top Oculus Headsets</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/is-the-accell-thunderbolt-4-windows-docking-station-top-notch-unveiling-features-and-reviews-at-zdnet/"><u>Is the Accell Thunderbolt 4 Windows Docking Station Top-Notch? Unveiling Features & Reviews at ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-back-to-joy-playing-classics-on-dosbox-x/"><u>Jump Back to Joy: Playing Classics on DOSBox-X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-hidden-remove-button-for-windows-11-security/"><u>Reactivating Hidden 'Remove' Button for Windows 11 Security</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Full Capabilities of Windows 11: Key Adjustments Made Easy"
-date: 2024-09-01T05:14:43.115Z
-updated: 2024-09-02T05:14:43.115Z
+date: 2024-11-15T16:55:04.758Z
+updated: 2024-11-17T19:51:19.111Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 
  If you have multiple PCs running Windows 11 or 10, Nearby Sharing will make it easier for you to transfer content from one to another over WiFi or Bluetooth. However, as the name itself suggests, it works between nearby Windows computers. Check out[how to use Nearby Sharing on Windows 11](https://www.makeuseof.com/how-to-use-nearby-sharing-on-windows-11/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 3\. A Cleaner Desktop Experience
 
  All your important files and folders should be at your fingertips. By creating app or folder shortcuts in Desktop, you can access everything important to you in the fastest way possible. However, these shortcuts should not be so much in number that your Desktop starts looking cluttered.
@@ -51,24 +48,36 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 ![Delete Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-desktop-shortcuts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You should review what’s important to you from time to time to prioritize what to keep as shortcuts on the Desktop. If you just bought a Windows 11 PC, you will see Desktop icons such as Recycle Bin. You can quickly[hide Desktop icons from your Windows desktop](https://www.makeuseof.com/ways-to-hide-desktop-icons-on-windows/) with just a few clicks. You can also remove shortcuts to any files or folders from the desktop by right-clicking on them and then selecting the trash icon in the bottom right corner of the context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enable Storage Sense to Manage Your Memory Better
 
 ![Storage sense](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/storage-sense-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Storage Sense gives you a smart way of freeing up your disk space. When turned on, it automatically deletes items you longer need, like temporary files and items in your Recycle Bin. Additionally, Storage Sense allows you to choose how often to run and what to clean. You can also manage locally available cloud content associated with your Microsoft OneDrive account.
 
  It is important to note that all the changes you are making to Storage Sense apply only to you. It will not affect anyone else using the same PC with a different account.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Enable Find My Device to Track Your PC
 
 ![Find My Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-my-device-edit.jpg)
@@ -86,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 
  You can also set up the time range, during which Windows 11 will keep Night light on. You can do that by clicking on the**Schedule Night light** toggle.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 7\. Set Active Hours
 
  If you used Windows 10 previously, you might already be familiar with Active hours. The feature is meant to give you more control over Windows updates.
@@ -98,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
  When you set up Active hours, you tell your PC when to restart your device after update installations. There are two ways you can set it up. You can either allow Windows to learn from your device’s activity to adjust Active hours automatically or let yourself choose the time range.
 
  Windows 11 understands your daily activity and automatically chooses a timescale during which you usually do not use your PC. You can choose manually select the time if your daily usage does not follow a particular pattern. You need to tweak this setting to ensure that Windows updates do not come in the way of whatever you are doing during your work schedule.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Enable Dark Mode to Reduce Eyestrain
 
@@ -110,24 +123,25 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 3. Click on**Colors** .  
 ![Dark Mode toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dark-mode-toggle-edit.jpg)
 4. In**Choose your mode** radio menu, select**Dark** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
  However, unlike macOS, dark mode in Windows 11 is not available everywhere in the OS. On the bright side, the degree of inconsistency of dark mode in Windows 11 is something you can ignore because dark mode applies to most areas when turned on.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Are Better Off Enabling the Above Windows 11 Settings
 
  It is not the case that you will not be able to work on your Windows 11 PC without enabling the above settings. Whatever you do on your PC, with the changes to the Settings app, you will be able to do it in a more efficient manner. The above tweaks will be useful for both casual and advanced users.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +150,20 @@ Here is how you can enable Dark mode on your Windows 11 PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-transforming-brands-with-language-mastery-techniques/"><u>[New] Transforming Brands with Language Mastery Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-elevate-your-auditory-experience-iphone-and-the-world-of-podcasting/"><u>[Updated] In 2024, Elevate Your Auditory Experience - iPhone and the World of Podcasting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boost-conversion-rates-using-our-cutting-edge-cookiebot-solutions/"><u>Boost Conversion Rates Using Our Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-powered-proposal-strategies-how-to-write-and-win-bids-that-impress-clients/"><u>ChatGPT-Powered Proposal Strategies: How to Write and Win Bids That Impress Clients</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-finalized-trashcan-for-inescapable-file-erasure-on-win1011/"><u>Crafting a Finalized Trashcan for Inescapable File Erasure on Win10/11</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-strategies-for-converting-mts-files-into-mp4-format/"><u>Effective Strategies for Converting MTS Files Into MP4 Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-sound-output-issues-on-windows-devices/"><u>Fixing Sound Output Issues on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-resetting-win-11-writable-memory-cache/"><u>Guide: Resetting Win 11' Writable Memory Cache</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-mobile-gameplay-speed-two-effective-ways-to-measure-fps-on-android/"><u>Maximize Your Mobile Gameplay Speed: Two Effective Ways to Measure FPS on Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-unlocking-files-from-read-only-mode/"><u>Regaining Control: Unlocking Files From Read-Only Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-failed-installation-process-for-apps-from-microsoft-store/"><u>Reinstating Failed Installation Process for Apps From Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-does-tasker-show-other-processes/"><u>Why Does Tasker Show Other Processes?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-personalized-edition-your-ultimate-guide/"><u>Windows 11 Personalized Edition: Your Ultimate Guide</u></a></li>
+</ul></div>
 

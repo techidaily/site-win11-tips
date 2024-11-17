@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Change: Key Windows 11 Explore Updates"
-date: 2024-11-04T22:43:38.773Z
-updated: 2024-11-06T22:13:15.602Z
+date: 2024-11-14T20:25:29.136Z
+updated: 2024-11-17T16:16:44.898Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 
 ![New Side Pane in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-side-pane-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can easily spot its recent activity; check out its details without opening the Properties window. It also includes sharing the file using the inbuilt file-sharing methods or opening the Properties window without opening the right-click context menu.
 
 ## 3\. File Explorer Tabs
@@ -58,14 +51,14 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 
 ![Tabs in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tabs-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can easily create multiple apps in a single window and move files or folders across them. You can even [drag tabs from a File Explorer window](https://www.makeuseof.com/drag-tabs-out-file-explorer-windows-11/) to create a different window and drag that tab back to another File Explorer window as you do in the Chrome browser. This feature reduced reliance on third-party apps that market the same feature as a USP.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. A Gallery Section
 
@@ -73,25 +66,18 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 
 ![New Gallery Section in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-gallery-section-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. An Improved Context Menu
 
  The right-click context menu was a significant surprise in Windows 11 but is gradually improving. You can find relevant options like Install whenever you right-click on an app installer file. The menu is also concise now, and you can view the full version when you click on the Show More options. Similarly, a few minor tweaks to the right-click context menu make it better.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Microsoft 365 Products Integration
 
@@ -101,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 
 ![Microsoft 365 Products Integration in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/microsoft-365-products-integration-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft is also experimenting with a new Home page in the Settings app, which will also offer a glance at the currently used OneDrive storage space.
 
 ## 7\. Built-In File Archive Support
@@ -109,29 +102,18 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 
  File Explorer has had ZIP archive support for a long time but lacked the same for other popular formats such as RAR and 7Z. But after a new feature upgrade to the Insider build in the Dev Channel, the [File Explorer app can view and extract archive formats](https://www.makeuseof.com/enable-archive-support-windows-11/). So, you wouldn’t have to download WinRar whenever you want to extract a RAR file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## File Explorer Is Evolving in Windows 11
 
  File Explorer will become more powerful as some of the aforementioned features arrive in the stable channel. Not everyone is a fan of Microsoft 365 integration in File Explorer. Still, much-needed additions like the broader archive format support, tabs feature, and the Gallery section improve the app's overall usability.
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-bebops-avian-evolution-strikes-again-with-parrot-2/"><u>[Updated] 2024 Approved Bebop's Avian Evolution Strikes Again with Parrot 2</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-best-webp-converters-convert-webp-to-jpg/"><u>[Updated] In 2024, Best WebP Converters Convert WebP to JPG</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-disconnected-windows-speaker-sounds/"><u>Combatting Disconnected Windows Speaker Sounds</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/discovering-mutual-understanding-turkey-and-koreas-language-journey/"><u>Discovering Mutual Understanding: Turkey & Korea's Language Journey</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-new-horizons-video-resources-for-dynamic-learning-spaces/"><u>Exploring New Horizons Video Resources for Dynamic Learning Spaces</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/file-funneling-features-5-techniques-to-desktops/"><u>File Funneling Features 5 Techniques to Desktops</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-streaming-services-find-hindi-films-with-english-subs-online/"><u>Free Streaming Services: Find Hindi Films With English Subs Online!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/manual-device-driver-revision-for-vista-users/"><u>Manual Device Driver Revision for Vista Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-merge-process-for-filesfolders-windows-11/"><u>Navigating the Merge Process for Files/Folders, Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-space-and-speed-in-windows-delete-temp-files/"><u>Reclaim Space and Speed in Windows, Delete Temp Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-fall-guys-gameplay-after-connection-failures/"><u>Restoring Fall Guys Gameplay After Connection Failures</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/single-core-showdown-how-amd-outperforms-the-apple-m3-max-with-their-latest-laptop-processor/"><u>Single-Core Showdown: How AMD Outperforms the Apple M3 Max with Their Latest Laptop Processor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-home-theater-with-win-1011s-dolby-atmos-sound/"><u>Transform Your Home Theater with Win 10/11'S Dolby Atmos Sound</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-insights-into-repairing-windows-error-0x80040610/"><u>Unlocking Insights Into Repairing Windows' Error 0X80040610</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +122,27 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-maximize-your-youtube-income-with-effective-mobile-device-strategies/"><u>[New] 2024 Approved Maximize Your YouTube Income with Effective Mobile Device Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlock-professional-broadcasting-on-youtube-and-twitch-with-obs/"><u>[New] Unlock Professional Broadcasting on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-15-groundbreayer-tiktok-challenges-to-master-now-for-2024/"><u>[Updated] 15 Groundbreayer TikTok Challenges to Master Now for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-dive-into-detailed-review-of-sj7s-high-res-4k-action-camera/"><u>[Updated] 2024 Approved Dive Into Detailed Review of SJ7’s High-Res 4K Action Camera</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-step-by-step-guide-to-gopro-time-lapse-mastery/"><u>[Updated] A Step-by-Step Guide to GoPro Time-Lapse Mastery</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-decoding-zdsofts-key-recording-features-for-2024/"><u>[Updated] Decoding ZDSoft's Key Recording Features for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-tips-save-skype-call-as-mp3-free/"><u>[Updated] In 2024, Expert Tips Save Skype Call as Mp3 (Free)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725286841482-dvd/"><u>意外な裏技：DVDコピーと変換を効率化するハードウェア・アクセラレーションの仕組み</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breached-bitlocker-hold-firm-on-current-security/"><u>Breached BitLocker: Hold Firm on Current Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridge-the-gap-addressing-continuous-ps4-controller-disconnection/"><u>Bridge the Gap: Addressing Continuous PS4 Controller Disconnection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-tasks-and-power-in-win11-shortcut-setup/"><u>Bridging Tasks & Power in Win11 Shortcut Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-back-original-settings-to-windows-11-touch-panel/"><u>Bringing Back Original Settings to Windows 11 Touch Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-built-in-graphics-card-for-second-monitor/"><u>Bypassing Built-In Graphics Card for Second Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-server-slips-resolving-ms-store-failures-in-1011/"><u>Bypassing Server Slips: Resolving MS Store Failures in 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-win-11s-inbuilt-mobility-control/"><u>Bypassing Win 11'S Inbuilt Mobility Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-creations-top-editors-for-videos-on-your-win11-pc/"><u>Captivating Creations: Top Editors for Videos on Your Win11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/celebrate-yuletide-in-stunning-windowscapes/"><u>Celebrate Yuletide in Stunning Windowscapes</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y100a-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y100A Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/share-your-thoughts-essential-extensions-for-exporting-and-sharing-chatgpt-interactions/"><u>Share Your Thoughts: Essential Extensions for Exporting & Sharing ChatGPT Interactions</u></a></li>
+</ul></div>
+

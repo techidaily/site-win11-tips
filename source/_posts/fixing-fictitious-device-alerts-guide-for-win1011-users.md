@@ -1,7 +1,7 @@
 ---
 title: "Fixing Fictitious Device Alerts: Guide for Win10/11 Users"
-date: 2024-11-06T04:58:33.579Z
-updated: 2024-11-07T12:11:45.134Z
+date: 2024-11-16T20:10:17.288Z
+updated: 2024-11-17T19:29:05.079Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
  If you need to resolve this error for an internal drive, check the drive’s internal connections. To do that, you’ll need to open the case for a desktop PC. Then make sure none of the drive’s connection cables are in any way loose.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the SFC Tool
 
  Users have confirmed the System File Checker tool can resolve this drive error. That highlights system file corruption can cause this issue, which an SFC scan will likely resolve. Our guide to[running a System File Checker scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to execute the SFC command in Windows.
@@ -38,10 +45,17 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 ![The sfc /scannow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run a Check Disk Scan for the Drive
@@ -60,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
 `chkdsk D: /f /r`
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Try Changing the Drive’s Letter
 
  Changing the affected drive’s letter is a potential fix that users have confirmed to work. You can change the drive’s letter with the Disk Management tool like this:
@@ -69,34 +90,34 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 3. Right-click the affected drive and select**Change Drive Letter and Paths** .  
 ![The Change Drive Letter and Paths option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-drive-letter-paths.jpg)
 4. Press the**Change** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Change Drive Letter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-drive-letter-window.jpg)
 5. Click the drop-down menu for the**Assign the following drive lette** r option.  
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Assign the following drive letter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/assign-the-following-drive-letter.jpg)
 6. Select a drive letter that you’ve never used.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Click**OK** on the Change Drive Letter or Path window.
 8. Select**Yes** on the Disk Management confirmation dialog.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Rescan a Drive
@@ -109,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 4. Then click the**Action** menu.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/properties-option2.jpg)
 5. Select**Rescan Disks** on the menu.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Select the Full Control Option for a Drive Location
 
@@ -131,19 +145,6 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 ![The Full control option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/full-control-checkbox.jpg)
 7. Click**Apply** \>**OK** on the drive’s permissions window.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall the Affected Drive
 
  If you need to fix this issue for an external storage device, try reinstalling the affected drive. Doing so will reinstall the drivers for the affected storage device. This is how you can reinstall the drive:
@@ -155,13 +156,6 @@ Insert the affected drive into one of your PC’s USB ports.
 3. Right-click your drive and select**Uninstall device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-device2.jpg)
 4. Then select the**Uninstall** option on the dialog box prompt.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-option3.jpg)
 5. Disconnect the drive plugged into the PC.
@@ -180,6 +174,13 @@ Insert the affected drive into one of your PC’s USB ports.
 `wmic baseboard get product,Manufacturer,version,serialnumber`  
 ![The baseboard command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/baseboard-command.jpg)
 6. Copy and paste the serial number for the motherboard shown within the Command Prompt into Notepad or another text editor.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then open the download section of your motherboard manufacturer’s website. Select your motherboard model and download its latest chipset driver from there. You can install the new driver for your motherboard with the downloaded driver (setup.exe) package file.
 
@@ -204,22 +205,14 @@ Insert the affected drive into one of your PC’s USB ports.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>[New] Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-unveiling-tiktoks-hidden-secrets-top-7-emoji-exploration-guide/"><u>[Updated] 2024 Approved Unveiling TikTok's Hidden Secrets Top 7 Emoji Exploration Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-text-showcase-in-windows-11-resourceerror/"><u>Correcting Text Showcase in Windows 11 ResourceError</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/echoes-in-280-characters-viral-video-stories-for-2024/"><u>Echoes in 280 Characters Viral Video Stories for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/harmonizing-your-spotify-queue-with-youtube-music-catalogs/"><u>Harmonizing Your Spotify Queue with YouTube Music Catalogs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/how-to-fix-iphoto-crashes-post-macos-update-restoring-stability-in-the-latest-version/"><u>How to Fix IPhoto Crashes Post macOS Update: Restoring Stability in the Latest Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-corrections-for-playstation-network-error-on-windows/"><u>Immediate Corrections for PlayStation Network Error on Windows</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-2023s-top-rated-facebook-live-viewing-software/"><u>In 2024, 2023'S Top-Rated Facebook Live Viewing Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insightful-analysis-of-c-and-d-in-windows/"><u>Insightful Analysis of 'C:' And 'D:' In Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-the-most-recent-hp-ethernet-device-drivers-on-your-windows-10-7-or-nv8-pc/"><u>Installing the Most Recent HP Ethernet Device Drivers on Your Windows 10, 7 or Nv8 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-web-pages-as-standalone-windows-programs/"><u>Launching Web Pages as Standalone Windows Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-policy-bypass-during-windows-installation-issues/"><u>Mastering Policy Bypass During Windows Installation Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-pc-manager-setup/"><u>Mastering Windows 11 - PC Manager Setup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-in-tablets-inside-scoop-on-the-google-pixel-tab-and-when-to-mark-your-calendars/"><u>The Next Big Thing in Tablets: Inside Scoop on the Google Pixel Tab & When to Mark Your Calendars</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixes-for-diablo-ii-resurrected-failed-startup-issues/"><u>Troubleshooting Guide: Fixes for Diablo II Resurrected Failed Startup Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-hidden-potential-of-windows-11s-initial-screen/"><u>Unlock the Hidden Potential of Windows 11’S Initial Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-security-history-unburdening-a-practical-approach/"><u>Windows Security History Unburdening: A Practical Approach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/arets-basta-fotoorganiserare-forsta-9-programvaror-i-2024-det-nya-lista/"><u>Årets Bästa Fotoorganiserare: Första 9 Programvaror I 2024 - Det Nya Lista</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-non-operational-win11-licenses/"><u>Breathing Life Into Non-Operational Win11 Licenses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-connectivity-hiccups-for-windows-users-and-spotify/"><u>Bypassing Connectivity Hiccups for Windows Users and Spotify</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-update-failure-windows-error-code-0x80242016/"><u>Bypassing Update Failure: Windows Error Code 0X80242016</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-a-drives-for-your-games-on-xbox-app-made-simple/"><u>Choosing a Drives for Your Games on Xbox App, Made Simple</u></a></li>
+<li><a href="https://driver-download.techidaily.com/compatibility-boost-fresh-printer-drivers-installation-guide-for-the-brother-mfc-j480dw-on-windows/"><u>Compatibility Boost: Fresh Printer Drivers Installation Guide for the Brother MFC-J480DW on Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-novice-necessities-your-first-steps-in-gopro-world/"><u>In 2024, Novice Necessities - Your First Steps in GoPro World</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-concealing-your-taskbar-in-windows-10/"><u>Step-by-Step Guide: Concealing Your Taskbar in Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-digest-decoding-the-world-of-high-tech-devices/"><u>Tom's Hardware Digest: Decoding the World of High-Tech Devices</u></a></li>
 </ul></div>
 

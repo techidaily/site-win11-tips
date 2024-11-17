@@ -1,7 +1,7 @@
 ---
 title: Get Up to Speed With Quick Copy-Paste in PowerToys
-date: 2024-11-04T23:06:51.407Z
-updated: 2024-11-07T09:57:42.939Z
+date: 2024-11-13T20:11:45.725Z
+updated: 2024-11-17T16:56:08.690Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 
  If your version of PowerToys is up-to-date, you get the Paste as Plain Text feature which works like a charm. You can even paste text in Microsoft Word and other applications that don’t play nicely with the default**Ctrl + Shift + V** shortcut. The application even allows you to set a custom keyboard shortcut: so you don’t need to press a longer and more difficult three-key combination.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable and Use the "Paste as Plain Text" Feature in PowerToys
 
  This feature is available in the PowerToys version 0.68.0\. So, make sure to update the application to the latest version from Microsoft Store or[download PowerToys from GitHub](https://github.com/microsoft/PowerToys/releases) . Repeat the following steps to enable and customize the feature:
@@ -54,17 +47,10 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 ![Paste as Plain Text Feature in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-as-plain-text-feature-in-action.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is "Mouse Jump" in PowerToys?
@@ -75,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 
  With the Mouse Jump feature, you can press a shortcut key to open a small replica of the complete display and then move the mouse cursor to the desired location. It saves a lot of time wasted in struggling to get from one corner to other on a wide-screen display.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable and Use "Mouse Jump" in Power Toys
 
  Retrace the following steps to enable and configure Mouse Jump in PowerToys:
@@ -84,14 +77,22 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 3. Like the Paste as Plain Text method, you can change the shortcut key to start the feature. Use the**pencil** icon to set your preferred key combination and then click on the**Save** button.  
 ![Enable Mouse Jump in Power Toys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-mouse-jump-in-power-toys.jpg)
 4. Minimize the PowerToys window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Press** the key combination to open the Mouse Jump window. Hover the mouse pointer to the desired display area and click on it. The Mouse Jump window will close automatically, and the mouse pointer will appear in the area you selected before.  
 ![Mouse Jump Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mouse-jump-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Leverage These Useful PowerToys Features on Windows
@@ -113,19 +114,16 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-next-gen-social-media-tactics-youtube-content-on-facebook/"><u>[New] In 2024, Next-Gen Social Media Tactics YouTube Content on Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-11s-camera-app-failures-effortlessly/"><u>Correcting Windows 11'S Camera App Failures Effortlessly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/customize-your-viewing-experience-with-speed-tweaks-on-netflix/"><u>Customize Your Viewing Experience with Speed Tweaks on Netflix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-guide-latest-dell-thunderbolt-dock-tb16-drivers/"><u>Download and Update Guide: Latest Dell Thunderbolt Dock (TB16) Drivers</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y27-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y27 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/forest-fire-control-including-water-bombing/"><u>Forest Fire Control (Including Water Bombing).</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-always-open-the-windows-terminal-as-administrator-on-windows/"><u>How to Always Open the Windows Terminal as Administrator on Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealthy-techniques-for-obscuring-language-indicator-win11/"><u>Stealthy Techniques for Obscuring Language Indicator, Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-steam-friendship-disconnect-on-pcs/"><u>Steps to Resolve Steam Friendship Disconnect on PCs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-french-speaking-countries-how-many-people-speak-french/"><u>Top French-Speaking Countries | How Many People Speak French?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-mechanics-of-windows-screenshows/"><u>Understanding the Mechanics of Windows Screenshows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-the-windowsbt-folder-and-can-you-delete-it/"><u>What Is the $Windows.~BT Folder, and Can You Delete It?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-access-analysis-unveiling-variances-between-standard-and-microsoft-accounts/"><u>Windows Access Analysis: Unveiling Variances Between Standard and Microsoft Accounts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thriving-on-screen-time-maximize-your-youtube-impact/"><u>2024 Approved Thriving on Screen Time Maximize Your YouTube Impact</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728498463429-windows-11/"><u>別のストレージデバイスにWindows 11をシフトする手順 |ライセンス不要で安心移行方法</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/earning-edge-advanced-tactics-for-monetizing-videos-on-vimeo/"><u>Earning Edge Advanced Tactics for Monetizing Videos on Vimeo</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-find-x7-ultra-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo Find X7 Ultra FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-customizing-windows-boot-settings/"><u>Expert Strategies for Customizing Windows Boot Settings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-elevate-your-content-steps-to-boosting-youtube-visibility/"><u>In 2024, Elevate Your Content Steps to Boosting YouTube Visibility</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-twitters-algorithm-to-amplify-your-message/"><u>In 2024, Navigating Twitter's Algorithm to Amplify Your Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/migrating-your-torrent-tracking-moving-qbittorrent-efficiently/"><u>Migrating Your Torrent Tracking: Moving qBittorrent Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-anydesk-quirks-for-a-smooth-windows-experience/"><u>Resolving AnyDesk Quirks for a Smooth Windows Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-revoking-read-only-in-win11/"><u>Tips and Tricks for Revoking Read-Only in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-usb-not-attached-error-in-virtualbox-on-windows-platform/"><u>Troubleshooting 'USB Not Attached' Error in VirtualBox on Windows Platform</u></a></li>
 </ul></div>
 

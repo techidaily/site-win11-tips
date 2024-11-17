@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows 11 Terminal Standardization
-date: 2024-11-03T05:51:12.244Z
-updated: 2024-11-06T21:13:28.284Z
+date: 2024-11-11T19:50:51.617Z
+updated: 2024-11-17T19:34:21.991Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 
  Let's now move to the below sections and see how it can be reset.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
 
  In order to reset the settings back to the original defaults, you will need to delete the settings.json file. Here's how to do it.
@@ -43,23 +50,16 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 ![Open JSON file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-json-file.jpg)
 4. If you're asked which app to use to open the file, then double-click on**Notepad** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. On the next page, select all the contents and**Delete** them.
 6. Now press**Ctrl + S** on your keyboard to save it.
 
  Next time you open the app, a new configuration with all the default settings will be created automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
@@ -74,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
 3. Now press the**Enter** key to delete the settings.json file.
 4. You can now exit the command prompt.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
 
@@ -100,15 +93,23 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 2. Copy and paste the following path into the address bar:  
 ![Reset Windows Terminal Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-file-explorer.jpg)  
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
 
  Once you perform the above steps, Settings.json will automatically be created with the default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Resetting the Windows Terminal, Made Easy
@@ -130,18 +131,19 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/8-ways-microsoft-can-improve-windows-11-widgets/"><u>8 Ways Microsoft Can Improve Windows 11 Widgets</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210818890-9781956440461-all-night-all-day-life-death-angels/"><u>All Night, All Day: Life, Death & Angels | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-windows-insufficient-access-block-during-uninstalls/"><u>Bypassing Windows' Insufficient Access Block During Uninstalls</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-repair-camera-not-working-on-a-lenovo-device/"><u>Effective Techniques to Repair Camera Not Working on a Lenovo Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-menu-with-superior-powers/"><u>Enhancing the Windows Menu with Superior Powers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-s21-fe-5g-2023-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy S21 FE 5G (2023)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-13-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 13 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-language-shifts-hotkey-techniques-for-multilingual-translation-in-windows-11/"><u>Master Language Shifts: Hotkey Techniques for Multilingual Translation in Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-switch-off-microsofts-assistant/"><u>Techniques to Switch Off Microsoft's Assistant</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-vr-eyewear-selection-for-drone-contests/"><u>Ultimate VR Eyewear Selection for Drone Contests</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-beyond-the-basics-streamlabs-competitors-analyzed-for-2024/"><u>[New] Beyond the Basics Streamlabs Competitors Analyzed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-speed-eradicating-background-bgs-in-a-flash/"><u>[New] Mastering Speed Eradicating Background Bgs in a Flash</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-gpu-selection-for-4k-titles/"><u>2024 Approved Optimal GPU Selection for 4K Titles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-outshine-filmora-a-roundup-of-the-best-tablets-for-image-tweaking/"><u>2024 Approved Outshine Filmora A Roundup of the Best Tablets for Image Tweaking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-integrated-video-on-windows-1011/"><u>Bypassing Integrated Video on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/everyday-annoyances-windows-11-review-highlights/"><u>Everyday Annoyances: Windows 11 Review Highlights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-windows-1011-climate-choices/"><u>Exclusive Windows 10/11 Climate Choices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/guide-to-consolidating-your-youtube-video-collection/"><u>Guide to Consolidating Your YouTube Video Collection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-faster-your-windows-edge-fix-win10-w11/"><u>How to Faster Your Windows Edge: Fix (Win10, W11)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-advanced-tips-for-smooth-transitions-and-effects-in-gopro-studio/"><u>In 2024, Advanced Tips for Smooth Transitions and Effects in GoPro Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-windows-trick-sticky-notes-open-up-with-system-boot/"><u>Tailored Windows Trick: Sticky Notes Open-Up With System Boot</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-complete-guide-from-recording-to-live-on-facebook/"><u>The Complete Guide From Recording to Live on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-18-unbeatable-prime-day-promotions-on-laptops-from-leading-brands-like-hp-apple-and-razer-exclusive-offers/"><u>Top 18 Unbeatable Prime Day Promotions on Laptops From Leading Brands Like HP, Apple & Razer - Exclusive Offers!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforme-seus-videos-em-gifs-gratuitamente-on-line-usando-a-ferramenta-de-conversao-do-movavi/"><u>Transforme Seus Vídeos Em GIFs Gratuitamente On-Line Usando a Ferramenta De Conversão Do Movavi</u></a></li>
 </ul></div>
 

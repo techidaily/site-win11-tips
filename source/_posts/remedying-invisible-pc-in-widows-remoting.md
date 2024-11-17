@@ -1,7 +1,7 @@
 ---
 title: Remedying Invisible PC in Widows Remoting
-date: 2024-09-05T19:32:02.553Z
-updated: 2024-09-06T19:32:02.553Z
+date: 2024-11-16T18:56:36.811Z
+updated: 2024-11-17T18:52:24.394Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
  If you’re dealing with this, we’ve explained how to fix the remote black desktop screen issue on Windows below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Change the Screen Resolution Settings
 
  When using Remote Desktop Connection on Windows, it's important to check whether you've set the screen resolution settings properly. Improper settings may lead to a black screen or pixel blurriness, which can make your remote work challenging.
@@ -40,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 2. Enter**Remote Desktop Connection** in the search bar, and choose the most suitable result.  
 ![RDC In Windows Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rdc-in-search-bar.jpg)
 3. Click the**Show Options** toggle and go to the**Display** tab.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Adjust the slider under the**Display configuration** to match the exact resolution of the remote computer's display. For example, if the display resolution of your desktop is 1920 x 1080, you should match that in the settings.
 5. Enter the required details and click**Connect** to launch the remote session.
 
@@ -53,12 +41,6 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
  While setting the screen resolution is important, you can't ignore the other display settings. Move to the below steps to learn more about tweaking the display settings.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Adjust the Remote Desktop Display Settings
 
  Adjusting your remote desktop display settings can easily help you fix the black screen issue.
@@ -69,14 +51,15 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 2. Type**mstsc** in the search box and press the**enter** key.  
 ![Opening RDC From Windows Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-rdc-from-windows-run-dialog.jpg)
 3. Click the**Show Options** button in the bottom-left corner and head towards the**Display** tab.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Under**Colors** , select**High Color (16 bit)** from the dropdown. Note that a higher number means better display quality. But, a lower number can help you out in the case of a black screen.  
 ![RDC Display Color Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rdc-dispaly-color-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check for the error now by connecting to your remote desktop. If it is not working, you can try changing the color depth to**Highest Quality (32 bit)** .
 
@@ -100,19 +83,21 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 3. Right-click on**Remote Desktop Services** and select the**Restart** option.  
 ![RDC Service Restart Option In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restarting-the-rdc.jpg)
 4. You can now restart your computer to ensure the changes are correctly applied.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Disable Bitmap Caching
 
  Bitmap caching is a feature in Remote Desktop Connection that caches the bitmap images (locally) to improve performance. Simply put, it saves every small image rendered on your remote computer in the memory. As RDC uses the image data from memory, this saves time and resources significantly.
@@ -128,12 +113,6 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
  Note that once you disable it, the images will not be stored (or cached) locally. It means you may experience slightly slower performance while interacting with the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Enable WDDM Graphics Display Driver
 
  The WDDM (Windows Display Driver Model) is a special type of display driver. It helps your graphics card work more efficiently, improving your computing experience.
@@ -147,27 +126,30 @@ Follow the below steps to enable WDDM for remote desktop connections:
 1. Press**Win + R** , and type**gpedit.msc** in the Run dialog box. This will open the**Group Policy Editor** on Windows.  
 ![Local Group Policy Editor In Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-local-group-policy-editor-from-run-dialog.jpg)
 2. Within the**Local Group Policy Editor** window, head over to**Computer Configuration** . Next, move on to**Administrative Templates > Windows Components** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Double-click on**Remote Desktop Services** and then go to **Remote Desktop Session Host > Remote Session Environment** .  
 ![Remote Desktop Services In GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remote-desktop-services-in-gpe.jpg)
 4. Double-click the **Use WDDM graphics display driver for Remote Desktop Connections** option.
 5. Select or check the**Enabled** option to enable this policy.  
 ![WDDM Settings In GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wddm-settings-in-gpe.jpg)
 6. Click the**Apply** button, and after that, select**OK** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will force Remote Desktop Connection to utilize WDDM for all the RDC sessions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Adjust the Remote Desktop Performance Settings
 
  Adjusting the performance settings may significantly affect the speed and quality of your remote desktop connection. This is why we recommend keeping a note of the default settings for safety's sake.
@@ -183,6 +165,13 @@ Follow the below steps to enable WDDM for remote desktop connections:
 ![RDC Custom Performance Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rdc-custom-performance-settings.jpg)
 5. Click**Hide Options** and enter the remote computer's name and username. You're now ready to connect to your remote computer.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Overall, the above settings may vary depending on your needs and computer specifications. So, we recommend that you test each setting to see which one works best for you.
 
 ## Get Your Remote Desktop Back in Action
@@ -191,14 +180,11 @@ Follow the below steps to enable WDDM for remote desktop connections:
 
  Make sure you try every troubleshooting step in order until the black screen issue with your remote desktop is resolved. It may take a little trial and error, but once you find the optimal configuration, the black screen will not reappear on your remote desktop.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -207,4 +193,23 @@ Follow the below steps to enable WDDM for remote desktop connections:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-exploring-the-power-of-yi-4k-cameras/"><u>[New] Exploring the Power of YI 4K Cameras</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-engagement-with-these-5-caption-tricks-on-tiktok-videos/"><u>Boost Engagement with These 5 Caption Tricks on TikTok Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-whisper-open-up-strategies-for-leveraging-new-apis-in-your-business-plan/"><u>ChatGPT and Whisper Open Up: Strategies for Leveraging New APIs in Your Business Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-technicalities-inside-the-windows-iscsi-initiator/"><u>Deciphering the Technicalities: Inside the Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-mechanics-of-microsofts-phone-link-app/"><u>Discovering the Mechanics of Microsoft's 'Phone Link' App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-powershell-implementing-execution-policies-wisely/"><u>Elevating PowerShell: Implementing Execution Policies Wisely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-the-echoes-correcting-server-stumbled-errors-in-win-store/"><u>Eliminate the Echoes: Correcting Server Stumbled Errors in Win Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-methods-for-accessing-repair-tools-on-windows/"><u>Essential Methods for Accessing Repair Tools on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-zdnets-ultimate-list-of-cyber-monday-specials-for-2n23-savings-galore/"><u>Explore ZDNet's Ultimate List of Cyber Monday Specials for 2N23: Savings Galore!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-yuva-3-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Lava Yuva 3 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-a-guide-to-vimeo-video-host-and-share-site/"><u>In 2024, A Guide to Vimeo Video Host & Share Site</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-advanced-techniques-applying-luts-for-stunning-photos/"><u>Mastering Advanced Techniques Applying LUTs for Stunning Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-multitasking-window-11-shortcuts-explained/"><u>Maximize Multitasking: Window 11 Shortcuts Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>PC Games Memory - Freeze and Capture 6 Ways to Win</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-perfect-pokemon-on-android-devices/"><u>Pixel-Perfect Pokémon on Android Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-features-0x80071a90-error-and-how-do-you-fix-it/"><u>What Is the Windows Features 0X80071A90 Error and How Do You Fix It?</u></a></li>
+</ul></div>
 

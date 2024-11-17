@@ -1,7 +1,7 @@
 ---
 title: "Mouse Troubles: Resurrecting Sleeping WinOS"
-date: 2024-11-05T18:29:27.931Z
-updated: 2024-11-07T02:18:59.979Z
+date: 2024-11-11T18:43:44.478Z
+updated: 2024-11-17T19:28:21.252Z
 tags:
   - windows10
   - windows11
@@ -44,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
+<span id="1938136">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
  If you don't see the**Power Management** tab on any of your keyboards or mice, either your hardware doesn't support waking the computer from sleep, or you don't have the proper drivers installed. Check our[guide on updating Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for help with getting the latest ones.
 
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
 
@@ -84,29 +77,42 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
+<span id="1975658">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
@@ -130,16 +136,22 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-best-writers-workshop-online/"><u>[New] 2024 Approved Best Writer’s Workshop Online</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-leading-audio-change-apps-for-virtual-performers/"><u>[New] Leading Audio Change Apps for Virtual Performers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-endgame-permanently-blocking-access-to-youtube-shorts-for-2024/"><u>[New] The Endgame Permanently Blocking Access to YouTube Shorts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-time-and-date-on-windows-11-taskbar/"><u>Configuring Time and Date on Windows 11 Taskbar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-poco-c51-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Poco C51 Phone? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-security-modifying-the-reset-counter-post-failed-logon-attempts-win-11/"><u>Enhancing Security: Modifying the Reset Counter Post Failed Logon Attempts, Win 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-webp-images-to-png-format-by-movavi/"><u>Free Online Converter: WebP Images to PNG Format by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-unreachable-status-for-malwarebytes-services-in-win11/"><u>How to Fix Unreachable Status for Malwarebytes' Services in Win11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-start-how-to-get-your-chromecast-ready-for-streaming/"><u>Quick Start: How to Get Your Chromecast Ready for Streaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-windows-error-code-0x80071a90/"><u>Understanding and Correcting Windows Error Code: 0X80071A90</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-android-technique-transpose-digital-media-order-for-2024/"><u>[New] Android Technique Transpose Digital Media Order for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-comparative-study-dji-quadcopter-standard-edition/"><u>[New] In 2024, Comparative Study DJI Quadcopter Standard Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-snap-the-scene-comprehensive-no-cost-pcmac-capture-tools-for-2024/"><u>[New] Snap the Scene Comprehensive, No-Cost PC/Mac Capture Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-reasons-to-use-the-new-outlook-app-on-windows/"><u>9 Reasons to Use the New Outlook App on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaching-windows-login-restrictions-a-quick-guide/"><u>Breaching Windows Login Restrictions: A Quick Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-smooth-operation-of-microsoft-nearby-share/"><u>Ensuring Smooth Operation of Microsoft Nearby Share</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-improving-win11-point-accuracy-and-size/"><u>Guide to Improving Win11' Point Accuracy & Size</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-14-pro-max-by-drfone-ios/"><u>How to Unlock Verizon iPhone 14 Pro Max</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-access-high-res-fb-media-files/"><u>In 2024, Access High Res FB Media Files</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-rotate-your-avi-videos-with-ease-top-5-free-tools/"><u>New Rotate Your AVI Videos with Ease Top 5 Free Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-gpos-a-step-by-step-guide-for-windows-users/"><u>Revamping GPOs: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-backup-with-windows-11/"><u>Streamlining File Backup with Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-29-alternatives-to-gpts-pos-software/"><u>Top 29 Alternatives to GPT's POS Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-workspace-win-11s-finest-productivity-tools/"><u>Transform Your Workspace: Win 11'S Finest Productivity Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-cease-discord-startup-and-update-checks-in-windows/"><u>Workaround: Cease Discord Startup and Update Checks in Windows</u></a></li>
 </ul></div>
 

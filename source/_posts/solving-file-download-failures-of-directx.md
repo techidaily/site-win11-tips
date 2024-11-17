@@ -1,7 +1,7 @@
 ---
 title: Solving File Download Failures of DirectX
-date: 2024-09-01T05:16:31.901Z
-updated: 2024-09-02T05:16:31.901Z
+date: 2024-11-16T19:21:37.978Z
+updated: 2024-11-17T18:47:54.329Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 
  However, some users have reported experiencing the error under discussion when installing DirectX on a standard account, despite granting administrative rights. So, before applying further fixes, please switch to your administrator account if you are signed in with a standard user account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ensure You're Connected to the Internet
 
  Since the error message suggests checking your internet connection, make sure your device is connected to the internet and that it is functioning properly. To confirm that, go to your preferred web browser and search for anything. If the search process goes successfully and search results appear, your device is connected to the internet.
@@ -41,16 +48,20 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 3. Then, go to**Advanced network settings** .  
 ![Go to Advanced Network Settings in Network and Internet Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-advanced-network-settings-in-network-and-internet-tab-of-windows-settings-app.jpg)
 4. Click the**Disable** button next to the internet connection you are using.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click Disable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-disable-next-to-your-internet-connection-in-windows-settings-app.jpg)
 5. Once you have disabled it, let it sit for 30 seconds, and then click**Enable** to enable the internet connection again.  
 ![Click Enable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-enable-next-to-your-internet-connection-in-windows-settings-app.jpg)
 
  Even though it isn't necessary, some users have recommended rebooting the router or disconnecting and reconnecting the Ethernet cable to resolve this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. Flush the DNS Cache and Reset the Network Settings
 
  Your next step should be to flush the DNS cache and reset the network settings. Performing a DNS cache flush clears the old records in the cache. Similarly, resetting the network connection eliminates the likelihood of a misconfigured network setting causing the issue. Follow these steps to perform both fixes:
@@ -64,13 +75,21 @@ netsh winsock reset`
 ![Run Certain Commands in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-run-certain-commands-in-windows-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Temporarily Disable the Microsoft Defender Firewall
 
  Provided that you grant the DirectX setup file administrative rights, the installation should run smoothly without any problems. If the error persists despite that, Microsoft Defender could be interfering with the installation process—-it's common for the security suite to become overprotective when operating system changes are made.
@@ -79,9 +98,6 @@ netsh winsock reset`
 
  Remember to re-enable both settings after following the rest of the steps, as keeping them enabled is essential for the security of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 6\. Ensure the .NET Framework Is Properly Installed and Functional
 
  The .NET framework must be fully functional for DirectX to be installed successfully. If it isn't installed (which is highly unlikely) or has gone corrupted, you will encounter unforeseen issues installing new Windows components and running existing applications.
@@ -91,8 +107,12 @@ netsh winsock reset`
  If the framework is already installed, you should repair it once. This step will prevent corrupted framework files from causing problems when installing DirectX. Need help repairing it? Check out our guide on[how to repair the .NET framework on Windows](https://www.makeuseof.com/windows-repair-net-framework/) .
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Install DirectX Using DXSetup
 
  If you employ the above fixes properly, your DirectX setup should install successfully without any problems. If you encounter the same error again, try this simple trick:
@@ -105,16 +125,10 @@ netsh winsock reset`
 5. Click**Browse** and select the location of the folder on your desktop. Click**OK** after selecting it.  
 ![Click OK After Selecting the Location of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-selecting-the-location-of-the-folder.jpg)
 6. Then, click**OK** in the**DirectX** window, and its files will be extracted to the desktop folder.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Click OK in the DirectX Installation Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-click-ok-in-the-directx-installation-window.jpg)
 7. Now, locate**DXSetup** in the folder.  
 ![Locate DXSetup File in the DirectX Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-locate-dxsetup-file-in-the-directx-folder-in-windows-file-explorer.jpg)
 8. Run the setup file and follow the on-screen instructions. Hopefully, it will be installed successfully this time.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Creating a desktop folder and extracting DirectX files within it has proven effective for many users. Therefore, we recommend you pay close attention and carefully follow each step.
 
@@ -122,14 +136,11 @@ netsh winsock reset`
 
  Running a game and getting an error message about missing DirectX can be frustrating. And, when you get another error when installing DirectX, the situation gets even worse. If you follow the above steps correctly, you will hopefully be able to resolve the error and successfully install DirectX. Consequently, you will be able to play your favorite games again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +149,26 @@ netsh winsock reset`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-monthly-income-patterns-for-content-creators/"><u>[New] 2024 Approved Monthly Income Patterns for Content Creators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-paving-a-path-to-prominence-instagrams-power-brokers-in-your-sphere/"><u>[New] 2024 Approved Paving a Path to Prominence Instagram's Power Brokers in Your Sphere</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-get-1000-subscribers-for-your-youtube-channel/"><u>[New] Get 1000 Subscribers for Your YouTube Channel</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-best-splashproof-cameras-for-child-filmmakers-in-rainy-days/"><u>[New] In 2024, Best Splashproof Cameras For Child Filmmakers in Rainy Days</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-professional-gopro-footage/"><u>A Step-by-Step Guide to Professional Gopro Footage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-directors-manual-powerdirector-24-for-2024/"><u>Comprehensive Directors' Manual - PowerDirector '24 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-finalized-trashcan-for-inescapable-file-erasure-on-win1011/"><u>Crafting a Finalized Trashcan for Inescapable File Erasure on Win10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-struggles-with-finding-appropriate-printer-drivers-solution/"><u>Fix: Windows Struggles with Finding Appropriate Printer Drivers - SOLUTION</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-sound-output-issues-on-windows-devices/"><u>Fixing Sound Output Issues on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-resetting-win-11-writable-memory-cache/"><u>Guide: Resetting Win 11' Writable Memory Cache</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-unlocking-files-from-read-only-mode/"><u>Regaining Control: Unlocking Files From Read-Only Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-failed-installation-process-for-apps-from-microsoft-store/"><u>Reinstating Failed Installation Process for Apps From Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-solve-nvidias-geforce-error-x0001-on-windows/"><u>Strategies to Solve Nvidia's GeForce Error X0001 on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-art-of-sharing-on-social-making-instagram-stories-explode-for-2024/"><u>The Art of Sharing on Social Making Instagram Stories Explode for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram/"><u>Transform Your Footage Effective Strategies for Cropping & Export on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-4-simple-steps-for-revoking-user-access-in-win11/"><u>Unlocking Secrets: 4 Simple Steps for Revoking User Access in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-error-correction-resolving-0x80070003-update-issue-in-windows/"><u>Win Error Correction: Resolving 0X80070003 Update Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-personalized-edition-your-ultimate-guide/"><u>Windows 11 Personalized Edition: Your Ultimate Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crafting a Finalized Trashcan for Inescapable File Erasure on Win10/11
-date: 2024-11-03T16:34:07.122Z
-updated: 2024-11-07T07:50:30.145Z
+date: 2024-11-11T18:53:59.383Z
+updated: 2024-11-17T20:18:56.625Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 5. Unzip the**free\_file\_wiper.zip** archive as instructed in our guide for extracting ZIP files in Windows.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
@@ -79,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
@@ -97,16 +97,16 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
@@ -116,14 +116,14 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -146,18 +146,24 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-10-speedy-rising-yt-spaces-for-cognitive-illumination/"><u>[New] 2024 Approved The 10 Speedy Rising YT Spaces For Cognitive Illumination</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-how-to-use-picture-in-picture-mode-on-youtube-ios-for-2024/"><u>[New] How to Use Picture-In-Picture Mode on YouTube (iOS) for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1716069667727-updated-2024-approved-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>[Updated] 2024 Approved Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-secure-text-transfer-operation-steps-in-edges-shielded-environment-win11-version/"><u>Enabling Secure Text Transfer: Operation Steps in Edge's Shielded Environment, Win11 Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-wi-fi-management-with-win-11-tips/"><u>Enhance Your Wi-Fi Management with Win 11 Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-poco-c51-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Poco C51 to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a1x-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A1x 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-tecno-spark-10-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Tecno Spark 10 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-windows-local-space-management-tips-no-file-removal-max-156-chars/"><u>Innovative Windows Local Space Management Tips (No File Removal) (Max 156 Chars)</u></a></li>
-<li><a href="https://win-net.techidaily.com/laravel-based-material-ui-admin-panel-enhanced-with-livewire-created-by-creative-tim-and-updivision/"><u>Laravel-Based Material UI Admin Panel Enhanced with Livewire - Created by Creative Tim & UPDIVISION</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-shortcuts-for-microsoft-store-uwp/"><u>Mastering Windows Shortcuts for Microsoft Store UWP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-address-microsoft-store-error-0x80073cf3/"><u>Strategies to Address Microsoft Store Error 0X80073cf3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-mystery-of-windows-1011-failed-app-start/"><u>Unveiling the Mystery of Windows 10/11 Failed App Start</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-engineering-eye-catching-podcast-sizzle-reels-for-2024/"><u>[New] Engineering Eye-Catching Podcast Sizzle Reels for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-instilling-illusions-blur-wonders-in-adobes-visual-staging-tools-for-2024/"><u>[New] Instilling Illusions Blur Wonders in Adobe's Visual Staging Tools for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-sweets-and-snacks-tiktoks-top-food-trends/"><u>[New] Sweets & Snacks TikTok's Top Food Trends</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-emerging-realities-speak-top-30-metaverse-expressions-arvr-for-2024/"><u>[Updated] Emerging Realities Speak Top 30 Metaverse Expressions [AR/VR] for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-quick-fix-guide-restoring-documents-following-a-word-program-failure/"><u>1. Quick Fix Guide: Restoring Documents Following a Word Program Failure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>2024 Approved Ultimate Selection Budget-Friendly 4K Cameras <$1K</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-windows-11-eradicate-delays-and-lags/"><u>Accelerating Windows 11: Eradicate Delays and Lags</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/apple-itunes-album-splits-causes-and-solutions/"><u>Apple iTunes Album Splits - Causes and Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-avi-en-mkv-gratuitement-le-guide-ultime-avec-vlc-et-handbrake/"><u>Convertir AVI en MKV Gratuitement : Le Guide Ultime Avec VLC Et HandBrake</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-the-cord-with-cortana-disabling-copilot-on-your-windows-11-device/"><u>Cutting the Cord with Cortana: Disabling Copilot on Your Windows 11 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delaying-the-end-extending-windows-11-shutdown-with-running-tasks/"><u>Delaying the End: Extending Windows 11 Shutdown with Running Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/determining-win11s-best-fit-home-vs-professional-setup/"><u>Determining Win11's Best Fit: Home Vs. Professional Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-lenovo-thinkpads-journey-to-perfection-as-an-ultraportable-marvel-insights-from-zdnet/"><u>Exploring the Lenovo ThinkPad's Journey to Perfection as an Ultraportable Marvel – Insights From ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-utorrent-not-installing-on-windows/"><u>How to Fix uTorrent Not Installing on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-erratic-windows-error-x8019/"><u>Overcoming Erratic Windows Error: X8019</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-discord-installer-errors-on-windows-devices/"><u>Resolving Discord Installer Errors on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-11s-default-touch-panel-settings-and-positioning/"><u>Restoring Windows 11'S Default Touch Panel Settings & Positioning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unhindered-wi-fi-on-your-desktop-9-strategies-for-win11-users/"><u>Unhindered Wi-Fi on Your Desktop: 9 Strategies for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-top-5-grievances-from-windows-11-users/"><u>Unveiling the Top 5 Grievances From Windows 11 Users</u></a></li>
 </ul></div>
 

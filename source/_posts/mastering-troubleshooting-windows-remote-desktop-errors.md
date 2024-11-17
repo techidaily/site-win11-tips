@@ -1,7 +1,7 @@
 ---
 title: Mastering Troubleshooting Windows Remote Desktop Errors
-date: 2024-11-01T11:38:37.207Z
-updated: 2024-11-07T03:35:32.949Z
+date: 2024-11-11T20:22:55.218Z
+updated: 2024-11-17T17:20:11.877Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
  If you don’t see the**Allow connections only from computers** option, that probably means the Windows platform isn’t a Pro or Enterprise edition. You can only enable remote connections on host computers with Windows Pro and Enterprise. However, you can still connect to host PCs with Windows Home client PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disable Network Layer Authentication
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
  There’s an **Allow connections only from computers running Remote Desktop with Network Level Authentication** setting just below the**Allow Remote connection** radio button. Selecting that option implements tighter Network Layer Authentication security for remote connections. However, some users confirm that disabling NLA by unticking that checkbox can fix the “internal error has occurred” error. So, deselect that option if you’ve got it selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Start or Restart the Remote Desktop Connection Service
@@ -67,19 +67,27 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 3. Double-click**Remote Desktop Services** to access some configuration settings for that service.  
 ![The Remote Desktop Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/services-window.jpg)
 4. If disabled, select**Automatic** on the**Startup** drop-down menu for Remote Desktop Services.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Start** (inside the properties window) to run Remote Desktop Services.  
 ![The Remote Desktop Services Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-services-service.jpg)
 6. Select**Apply** to set the new service options.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Then you can exit the window by clicking**OK** or**X** .
 8. If Remote Desktop Services is already running, you can try restarting it instead. Right-click**Remote Desktop Services** to view its context menu and select**Restart** from there.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Select the "Reconnect if the Connection Is Dropped" Setting
 
@@ -89,15 +97,16 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 2. Click**Show Options** to view RDC’s settings.  
 ![The Remote Desktop Connections app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-connections.jpg)
 3. Select the**Experience** tab.  
-![The Experience tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/experience-tab.jpg)
-4. Then select the**Reconnect if the connection is dropped** checkbox.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Experience tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/experience-tab.jpg)
+4. Then select the**Reconnect if the connection is dropped** checkbox.
 
 5. Press the**Connect** button.
 
@@ -113,7 +122,22 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 5. Then click**Obtain DNS server automatically** radio button.  
 ![The Obtain DNS server radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/obtain-dns-server-option.jpg)
 6. Also, click**Obtain an IP address automatically** if that option isn’t selected.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Select**OK** to confirm the new DNS and IP address settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Enable the "Require Use of Specific Security Layer" Group Policy Setting
 
@@ -131,6 +155,13 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 8. Click**Apply** \>**OK** inside the**Require use of specific security layer** for remote (RDP) connections policy window.
 9. Restart Windows and then open the Remote Desktop Connection app to check if that fixes the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Turn Off UDP on the Client via Group Policy
 
  Users have also confirmed they fixed the “internal error has occurred” issue by enabling a**Turn off UDP** **on Client** policy setting. This is how you can enable that policy setting.
@@ -143,21 +174,7 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 ![The Turn Off UDP On Client window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-udp-client-window.jpg)
 4. Click**Apply** to set the new**Turn off UDP** on Client policy.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select**OK** in the**Turn off UDP on Client** window and exit Group Policy Editor.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Disconnect a Domain Account
 
@@ -181,26 +198,6 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 3. Select your VPN’s**Disconnect** option.  
 ![Domain account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/access-work-or-school-accounts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Re-establish Remote PC Access on Windows
 
  Those potential fixes for the “internal error has occurred” issue will probably re-establish remote PC access in most cases. The issue is often caused by RDP security, network, or remote connection setting configurations that many of the above solutions will address. So, those potential resolutions are certainly worth a try.
@@ -220,16 +217,17 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-cross-platform-comparison-iphone-vs-android-youtube-viewing/"><u>[Updated] Cross-Platform Comparison IPhone vs Android YouTube Viewing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-your-fb-profile-top-tips-for-impressive-biographies/"><u>[Updated] Mastering Your FB Profile Top Tips for Impressive Biographies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-royale-champions-the-defining-battle-royale-titles/"><u>2024 Approved Royale Champions The Defining Battle Royale Titles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprerante-windows-11-printer-issues-and-fixes-heres-how/"><u>Comprerante Windows 11 Printer Issues & Fixes, Here's How</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-in-use-errors-fixing-resource-locks-on-windows-11/"><u>Disabling 'In Use' Errors: Fixing Resource Locks on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/escalate-your-network-speed-tackling-windows-100mbps-threshold/"><u>Escalate Your Network Speed: Tackling Windows' 100Mbps Threshold</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-a14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy A14 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/live-action-reimagined-exploring-polaroid-camplus-capabilities/"><u>Live-Action Reimagined Exploring Polaroid Cam+ Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-slideshow-crafting-without-software-installation-7-steps/"><u>Masterful Slideshow Crafting Without Software Installation (7 Steps)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-infinix-note-30-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Infinix Note 30 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understand-and-optimize-tech-health-with-windows-live-panels/"><u>Understand and Optimize Tech Health with Window's Live Panels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-lesser-known-to-youtube-star-amassing-an-army-of-admirers/"><u>[New] From Lesser Known to YouTube Star Amassing an Army of Admirers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-perfected-framing-for-fb-videos-implement-letterbox-and-dark-frame-for-2024/"><u>[New] Perfected Framing for FB Videos Implement Letterbox & Dark Frame for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-a-simple-guide-changing-your-voice-in-online-battles-pubg/"><u>[Updated] A Simple Guide Changing Your Voice in Online Battles (PUBG)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-full-vision-media-the-smart-mcn-selection-process/"><u>[Updated] Full Vision Media The Smart MCN Selection Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-roadmap-for-smoother-files-transfer-in-win11-systems-1/"><u>A Roadmap for Smoother Files Transfer in WIN11 Systems (1)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-anywhere-unveiling-gaming-data-in-windows/"><u>Access Anywhere: Unveiling Gaming Data in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-errors-missing-dll-mfc71u-in-os/"><u>Addressing Errors: Missing DLL – Mfc71u in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-practices-for-command-line-access-management/"><u>Best Practices for Command-Line Access Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bid-farewell-to-your-drives-segmentation-with-these-windows-methods/"><u>Bid Farewell to Your Drive's Segmentation with These Windows Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-dictation-functionality-discover-the-5-must-try-fixes/"><u>Revive Your iPhone's Dictation Functionality - Discover the 5 Must-Try Fixes!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/smaller-is-better-top-drone-brands-reviewed-for-2024/"><u>Smaller Is Better Top Drone Brands Reviewed for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-cod-modern-warfare-persistent-crash-issues/"><u>Troubleshooting Cod: Modern Warfare Persistent Crash Issues</u></a></li>
 </ul></div>
 

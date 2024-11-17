@@ -1,7 +1,7 @@
 ---
 title: Effortless Setup of MsiBundle & Appx/Appxbundle Files From Microsoft Store
-date: 2024-11-03T09:07:41.811Z
-updated: 2024-11-07T05:46:53.774Z
+date: 2024-11-14T17:26:19.530Z
+updated: 2024-11-17T20:34:03.244Z
 tags:
   - windows10
   - windows11
@@ -58,25 +58,24 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ![Fiddler_WinConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler_winconfig.jpg)
 3. In the**AppContainer Lookback** **Exception Utility** dialog, scroll down and check the**Microsoft Store** box.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Fiddler app container loopback exception utlility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-app-container-loopback-exception-utlility.jpg)
 4. Click on**Save Changes.**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Next, click on**Edit** and go to**Remove** , and select**All Sessions** . Alternatively, press**Ctrl + X** to do the same.  
 ![Filddler remove all sessions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/filddler-remove-all-sessions.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Next, launch**Microsoft Store,** search for the app you want to download, and click**Install** . Wait for the app to download and install completely. Fiddler will start capturing the traffic as the necessary files for the app download and install.
 2. Once the download is complete, open the**Fiddler** app and press**Ctrl + F** to open**Find** .
@@ -86,16 +85,16 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ![Fiddler copy just url](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-copy-just-url.jpg)
 5. Right-click on any entry highlighted in yellow and select**Copy > Just URL.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Open**Google Chrome** or**Firefox** and paste the copied URL in the address bar. Press**Enter** and click**Save** to download the file. On Microsoft Edge, you may face a connection is not secure error. If so, switch to a different browser to complete the download.
 
  To install the downloaded appx, appxbundle, or msixbundle file, you can use PowerShell or the App Installer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install Appx, Appxbundle and Msixbundle Apps
 
@@ -105,19 +104,19 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
 ![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can install some appx, appxbundle, and msixbundle files like you would do with any .exe file. Follow these steps to sideload and install Universal Windows Platform apps.
 
 1. Locate the saved app package in the**Downloads** folder.
 2. Next, double-click on the file to open the installation wizard and click on the**Install** button to install the software.
 
  Unfortunately, this installation method does not work always. You are likely to run into errors like[this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer
 
@@ -134,6 +133,13 @@ To install App Installer:
 3. Click on Install and wait for it to complete the process.
 4. Once installed, click on the appx, appxbundle, or msixbundle file to open it in**App Installer.**
 5. Click**Install** and wait for the app installation to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Install Appx, Msixbundle, and Appxbundle Using PowerShell
 
@@ -158,16 +164,16 @@ To enable Developer Mode on Windows 11
 
 ![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-developer-mode-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Press**Win + I** to open**Settings** .
 2. Open the**Privacy & Security** tab in the left pane,
 3. Click on**For Developers** and then toggle the switch for**Developer Mode.**
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Download and Install Appx, Appxbundle, and Msixbundle from Microsoft Store on Windows
 
@@ -188,24 +194,16 @@ To enable Developer Mode on Windows 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-the-landscape-smm-best-practices/"><u>[New] 2024 Approved Navigating the Landscape SMM Best Practices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-wipe-out-your-youtube-buffered-videos-for-2024/"><u>[New] How-To Wipe Out Your YouTube Buffered Videos for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-from-novice-to-expert-a-comprehensive-guide-to-macscreencasting/"><u>[New] In 2024, From Novice to Expert A Comprehensive Guide to MacScreencasting</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-classical-cinematography-a-modern-tutorial/"><u>[Updated] In 2024, Creating Classical Cinematography A Modern Tutorial</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-lol-streaming-made-easy-mastering-video-capture-in-3-steps/"><u>[Updated] In 2024, LOL Streaming Made Easy Mastering Video Capture in 3 Steps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-seamless-integration-of-fb-and-whatsapp-for-video-sharing/"><u>[Updated] In 2024, Seamless Integration of FB & WhatsApp for Video Sharing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-ultimate-sound-selection-for-social-media-stars/"><u>[Updated] In 2024, Ultimate Sound Selection for Social Media Stars</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-error-successful-miracast-setup-with-unsupported-gadgets/"><u>Beat the Error: Successful Miracast Setup with Unsupported Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delving-into-digital-innovation-at-toms-hardware-hub/"><u>Delving Into Digital Innovation at Tom's Hardware Hub</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-productivity-with-both-wireless-and-cable-connections-on-windows/"><u>Maximizing Productivity with Both Wireless and Cable Connections on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/professional-notetaking-with-simple-windows-hacks/"><u>Professional Notetaking with Simple Windows Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snipcam-issues-quick-solutions-for-troubleshooting/"><u>SnipCam Issues: Quick Solutions for Troubleshooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-outlook-cannot-be-opened-issue-on-windows-desktop/"><u>Solving Outlook Cannot Be Opened Issue on Windows Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealthy-exchange-protecting-files-during-cross-network-moves/"><u>Stealthy Exchange: Protecting Files During Cross-Network Moves</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-youtube-videos-a-chrome-fix-guide/"><u>Streamlining YouTube Videos: A Chrome Fix Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-easy-paths-to-windows-help-and-hands-on-center/"><u>The Easy Paths To Windows Help and Hands-On Center</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-failed-speech-recognition-launch-in-windows/"><u>Troubleshooting Failed Speech Recognition Launch in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-your-powershell-scripts/"><u>Unlock the Full Potential of Your PowerShell Scripts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stepwise-approach-to-snagging-youtube-playlists-efficiently/"><u>[New] Stepwise Approach to Snagging YouTube Playlists Efficiently</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-defending-your-videos-against-youtube-copyright-strikes-for-2024/"><u>[Updated] Defending Your Videos Against YouTube Copyright Strikes for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-windows-10s-leading-screen-capture-tools-a-comprehensive-list/"><u>[Updated] In 2024, Windows 10'S Leading Screen Capture Tools A Comprehensive List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-non-loading-messages-in-windows-discord-client/"><u>Correcting Non-Loading Messages in Windows Discord Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-network-disruption-unraveling-0x800704b3-code/"><u>Fixing Network Disruption - Unraveling 0X800704B3 Code</u></a></li>
+<li><a href="https://common-error.techidaily.com/huion-graphics-tablet-pen-not-functioning-heres-how-to-resolve-it-in-no-time/"><u>Huion Graphics Tablet Pen Not Functioning? Here's How to Resolve It in No Time</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-adding-captions-on-videos-with-imovie-and-other-options/"><u>Ultimate Guide to Adding Captions on Videos with iMovie & Other Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-your-potential-top-7-efficiency-enhancing-widgets-for-win-11/"><u>Unleashing Your Potential: Top 7 Efficiency Enhancing Widgets for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-and-dxgidll-fix-for-a-missing-crucial-file/"><u>Win11 & Dxgi.dll: Fix for a Missing Crucial File</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/yogurt-used-in-marinating-the-meat-to-tenderize-it-and-add-a-slight-tanginess-that-balances-the-richness-of-the-spices/"><u>Yogurt: Used in Marinating the Meat to Tenderize It and Add a Slight Tanginess that Balances the Richness of the Spices.</u></a></li>
 </ul></div>
 

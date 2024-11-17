@@ -1,7 +1,7 @@
 ---
 title: How To Overcome No Drivers Detected Error in New OS Install
-date: 2024-11-01T04:47:07.715Z
-updated: 2024-11-06T21:56:23.478Z
+date: 2024-11-12T19:23:18.440Z
+updated: 2024-11-17T19:30:03.771Z
 tags:
   - windows10
   - windows11
@@ -36,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  If that's not possible, plug in the USB in a different PC and see if the installation goes smoothly there.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check Your Installation Media
@@ -53,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  Similar to the above method, you should see if there's a problem with the installation media itself.
 
  Whether something is wrong with the USB or it's the installation setup that's gone off, you can check this by trying the installation media on another PC. If the setup works fine there, then the trouble is most likely with your PC; jump down to the methods below for fixing it.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use the Command Prompt
 
@@ -81,16 +68,10 @@ select disk 1
  Note that this method will remove all your previous data (we are clearing the hard disk here), and you will have to start from ground zero. Finally, type _Clean_ and hit **Enter**. You will be face the error from there on.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert USB Into an Alternate Port
@@ -102,16 +83,16 @@ select disk 1
  You should be able to get past the "No Device Drivers Were Found" error through this short trick. If the error persists, don't worry; move to the next method below.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Try a Different Hard Drive
@@ -120,29 +101,18 @@ select disk 1
 
  If that turns out to be the case for you, then trying out a different hard drive will be worth the effort. You can [install a new hard drive](https://www.makeuseof.com/tag/install-hard-drive-replace/) or try getting one from your friend. If the culprit was indeed your hard disk, then the error will be fixed for good.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixing the "No Device Drivers Were Found" Error While Installing Windows
 
  As long as you work on Windows, you will continue encountering all sorts of errors. While there's no panacea to fix all the bugs of this sort once and for all, you can always try out hacks like the above. In most cases, one or other method will always do the trick for you. However, if you still can't get anything to work, you can always try out a complete PC reset as your last resort.
 
  Luckily, there are a host of tricks that can rescue you from this harrowing error. We have rounded up some of them, so let's jump right into the solutions.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-final-goodbye-to-youtubes-minis-a-step-by-step-process/"><u>[Updated] 2024 Approved Final Goodbye to YouTube's Minis A Step-by-Step Process</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-demystifying-recmeisters-advanced-screen-capture-technology/"><u>[Updated] Demystifying Recmeister's Advanced Screen Capture Technology</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-perfecting-your-videos-the-power-of-proper-thumbnails/"><u>[Updated] In 2024, Perfecting Your Videos The Power of Proper Thumbnails</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-saving-a-look-at-your-window/"><u>[Updated] In 2024, Saving a Look at Your Window</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-pre-vista-password-recall-on-w10w11/"><u>Addressing the “Pre-Vista Password Recall on W10/W11”</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-1603-unravelled-diagnosing-and-correcting-installation-faults-successfully/"><u>Error 1603 Unravelled: Diagnosing & Correcting Installation Faults Successfully</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-guide-lost-d3dx939dll-in-windows-11-os/"><u>Fix Guide: Lost D3DX9_39.dll in Windows 11 OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpts-silent-writing-slip-shadows/"><u>GPT's Silent Writing Slip Shadows</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/master-your-pc-with-ease-enable-god-mode-in-windows-11-and-learn-why-its-a-game-changer-zdnet-insights/"><u>Master Your PC with Ease: Enable God Mode in Windows 11 and Learn Why It's a Game Changer | ZDNET Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-needed-parts-error-on-windows-1011-systems/"><u>Solving Needed Parts Error on Windows 10/11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-solutions-for-we-encountered-an-error-during-oculus-install/"><u>Step-By Step Solutions for We Encountered an Error During Oculus Install</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-mastery-a-path-through-preferences/"><u>System Mastery: A Path Through Preferences</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warcraft-3-reforged-update-fixes-solutions-to-prevent-pc-crashes/"><u>Warcraft 3 Reforged Update Fixes: Solutions to Prevent PC Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-cross-device-note-utilization-guide/"><u>Windows 11 Cross-Device Note Utilization Guide</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,3 +121,27 @@ select disk 1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-boosting-creativity-top-tips-and-tricks-for-lunapic-editors/"><u>[New] In 2024, Boosting Creativity Top Tips & Tricks for LunaPic Editors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlocking-the-art-of-extended-frame-shooting/"><u>[New] In 2024, Unlocking the Art of Extended Frame Shooting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-youtube-title-genesis-tools/"><u>2024 Approved Transformative YouTube Title Genesis Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audience-captivation-for-personal-podcasts-for-2024/"><u>Audience Captivation for Personal Podcasts for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-empowered-revolutionize-your-digital-marketing-strategy-with-precision-tracking/"><u>Cookiebot Empowered: Revolutionize Your Digital Marketing Strategy with Precision Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fix-windows-11-graphics-drivers-reset/"><u>Efficient Fix: Windows 11 Graphics Drivers Reset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-window-restoration-after-dark-screens/"><u>Effortless Window Restoration After Dark Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-for-fixing-fall-guys-link-failures-windows-wise/"><u>Essential Steps for Fixing Fall Guys Link Failures Windows-Wise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-microsoft-outlooks-something-went-wrong-error-on-windows/"><u>How to Fix Microsoft Outlook's “Something Went Wrong” Error on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-efficiency-into-daily-use-with-win11-icon-additions/"><u>Integrating Efficiency Into Daily Use with Win11 Icon Additions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-iphone-heres-what-offline-means-and-how-to-track-it-down-on-find-my-iphone/"><u>Lost iPhone? Here's What 'Offline' Means and How to Track It Down on Find My iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quelling-win1011-screen-glitches-with-ease/"><u>Quelling WIN10/11 Screen Glitches with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-techniques-for-troubled-windows-11-calendars/"><u>Resetting Techniques for Troubled Windows 11 Calendars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-0xc0000142-in-win7win8/"><u>Resolving Error 0XC0000142 in Win7/Win8</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/sandisksandisk/"><u>SanDisk修復手段指南：針對每一種SanDisk記憶容器的救助方法</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/setting-and-changing-personalized-iphone-tones-for-2024/"><u>Setting & Changing Personalized iPhone Tones for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-gentle-art-of-stepping-back-from-discords/"><u>The Gentle Art of Stepping Back From Discords</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-roblox-availability-tackling-windows-settings-issue/"><u>Unblocking Roblox Availability: Tackling Windows Settings Issue</u></a></li>
+</ul></div>
+

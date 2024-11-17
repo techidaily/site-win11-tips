@@ -1,7 +1,7 @@
 ---
 title: Exploring Windows Tool for Managing System Components
-date: 2024-09-01T05:14:48.482Z
-updated: 2024-09-02T05:14:48.482Z
+date: 2024-11-10T19:34:16.942Z
+updated: 2024-11-17T20:12:13.017Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
 ![Opening the Component Services Tool Using the Start Menu Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-start-menu-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Open the Component Services Tool Using the Run Command Dialog Box
 
  Having trouble using the Start menu search bar? Try accessing the Component Services tool using the Run command dialog box.
@@ -45,8 +52,12 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 ![Opening the Component Services Tool Using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-run-command-dialog-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Open the Component Services Tool Using the File Explorer Address Bar
 
  The File Explorer address bar can help you locate your file and folder paths with ease. In addition to that, you can use File Explorer’s address bar to open various apps.
@@ -58,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
 ![Opening the Component Services Tool Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-file-explorer-address-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 4\. Open the Component Services Tool Using the Start Menu
 
  Most of your apps and tools are located on the Windows Start menu. So, let’s check out how you can access the Component Services tool from this menu:
@@ -85,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
 ![Opening the Component Services tool using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Open the Component Services Tool Using the Task Manager
 
  The Task Manager can also help you access most of the apps on your device.
@@ -103,12 +108,12 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 ![Opening the Component Services Tool Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 7\. Open the Component Services Tool From the Windows System32 Directory
 
  You can also access the Component Services tool by double-clicking on its relevant file in the Windows System32 folder. Here are the steps you should apply:
@@ -121,6 +126,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Selecting the comexp option in the System32 directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/selecting-the-comexp-option-in-the-system32-directory.jpg)
 
  If you want to make the Component Services tool easily accessible, you should consider pinning it to the taskbar. To do that, right-click on the**comexp** option in the System32 folder and select**Pin to taskbar** .
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Open the Component Services Tool Using PowerShell or the Command Prompt
 
@@ -144,13 +156,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 `comexp.msc`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Open the Component Services Tool Using a Desktop Shortcut
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  You can easily access your apps by clicking on the relevant desktop shortcuts. But bear in mind that you first need to create desktop shortcuts before you can use them.
 
  Let’s check out the steps for creating a desktop shortcut for the Component Services tool:
@@ -163,29 +179,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Creating the Component Services Tool desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-the-component-services-tool-desktop-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Type**Component Services Tool** in the "Name" box and then click the**Finish** button. From there, you can start using your desktop shortcut by simply clicking on it.
 
  And if you want to make things easier, consider pinning the desktop shortcut to your taskbar to make it easily accessible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Access the Component Services Tool Using Your Favorite Method
 
  If you’re a developer, then you need to check out the Windows Component Services tool. You can use this app to configure COM (Component Object Model) components and other systems.
 
  And if you want to explore other incredible apps, you can check out some of the best IDE (integrated development environment) tools for programming on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,4 +208,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-trending-video-reactions/"><u>2024 Approved Exploring Trending Video Reactions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-online-meetings-zoom-for-win10/"><u>2024 Approved Streamlining Online Meetings Zoom for WIN10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/academic-anchors-identifying-top-10-lecture-preservation-tools-for-2024/"><u>Academic Anchors Identifying Top 10 Lecture Preservation Tools for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-orientation-correction-tools-for-iphone/"><u>Best Free Video Orientation Correction Tools for iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-two-people-stream-spotify-music-side-by-side-find-out/"><u>Can Two People Stream Spotify Music Side by Side? Find Out!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-computing-tryx-releases-a-groundbreaking-all-in-one-cooler-with-breaththemediatypea-curved-and-vivid-amoled-visual-experience/"><u>Discover the Future of Computing: Tryx Releases a Groundbreaking All-in-One Cooler with Breaththemediatype:A Curved and Vivid AMOLED Visual Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-microsoft-store-win11-edition-guide/"><u>Eliminate Microsoft Store: Win11 Edition Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-0x800704cf-glitch-windows-11/"><u>Fixing Microsoft Store 0X800704CF Glitch Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-through-recovering-frozen-netflix-in-windows/"><u>Guiding You Through Recovering Frozen Netflix in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-legacy-keys-an-insiders-look-at-narrator-shortcuts/"><u>Leveraging Legacy Keys: An Insider's Look at Narrator Shortcuts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/precision-videoplayers-for-high-definition-on-android/"><u>Precision Videoplayers for High Definition on Android</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-cs2-performance-issues-tips-to-boost-your-frame-rate-and-eliminate-stutter/"><u>Solving CS2 Performance Issues: Tips to Boost Your Frame Rate and Eliminate Stutter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-downloads-with-these-5-torrent-clients/"><u>Streamline Your Downloads with These 5 Torrent Clients</u></a></li>
+</ul></div>
 

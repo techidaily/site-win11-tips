@@ -1,7 +1,7 @@
 ---
 title: Efficient Strategies for Overcoming Error 1152 on Windows XP/10
-date: 2024-09-05T19:32:02.952Z
-updated: 2024-09-06T19:32:02.952Z
+date: 2024-11-12T18:35:50.984Z
+updated: 2024-11-17T17:15:10.691Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,16 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
  The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Download the Affected Installation File Again
 
  This error can feasibly occur because of an issue with the downloaded installer file. Download process errors can corrupt files. So, try downloading the same setup file again, preferably from a different website source if you can. Then right-click the new installer file and select to run it with administrative rights.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Set Full Control Permissions for the Temp Folder
 
@@ -37,40 +38,43 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 1. Go to "C:\\Windows" in File Explorer, then right-click on the **temp** directory in the Windows folder and select **Properties**.
 2. ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/properties-option5.jpg)
 3. Select **Security** within the tab bar.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click on the **Edit** button to view a permission window.  
 ![The Edit button on the temp Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button.jpg)
 5. Next, click **Add** to bring up an object name selection window.  
 ![The Select Users or Groups window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-or-groups-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Type **everyone** inside the object name box, then click **Check Names**.
 2. Select **OK** to add the **Everyone** group.
 3. Click **Everyone** within the Permission for Temp window.
 4. Select the **Full control** permission checkbox.  
 ![Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-checkbox.jpg)
 5. Apply and OK out of all windows.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. It’s also recommended to repeat those steps for the Temp folder in the local directory. You can reach that folder at the following path:  
 `C:\Users\<user folder>\AppData\Local`
 
  If the **Security** tab says you need read permissions, click **Advanced** \> **Change**. Input **Everyone** in the group user box, as instructed above, select **System** on the Advanced Security window, and press the **Add** button. That will bring up another Select User or Group window in which you must input **Everyone** again. Then select the **Full control** checkbox from there.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Clear the Temporary Files Folder
 
  Corrupted data in the Temp folder is also a known cause of error 1152\. You can address such a cause by clearing the data in that folder. There are a few ways you can do that, but erasing data in that folder with the Disk Cleanup tool is recommended.
@@ -79,12 +83,6 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
 ![The Temporary files checkbox in the Disk Clean-up tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/temporary-files-checkbox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Perform a Clean Boot
 
  Performing a clean boot means restarting Windows 11/10 without any third-party background apps and services enabled. This is a recommended troubleshooting method for error 1152 because it could eliminate background items conflicting with your software installation. You might then be able to install the software as required after the clean boot.
@@ -94,18 +92,17 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 ![The Hide all Microsoft services checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-all-microsoft-services-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Install the Windows Software You Need Again
 
  There aren’t that many confirmed resolutions for error 1152\. However, the ones covered here have worked for many users who’ve needed to fix that Windows software installation issue.
 
  The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -113,3 +110,23 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>[New] 2024 Approved Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-comprehensive-review-of-ios-free-video-editing-apps-for-2024/"><u>[New] Comprehensive Review of iOS Free Video Editing Apps for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-windows-11-excellent-video-capture-tools-compared/"><u>[Updated] 2024 Approved Windows 11 Excellent Video Capture Tools Compared</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-digital-rights-unexpected-content-take-downs-for-2024/"><u>[Updated] Digital Rights Unexpected Content Take-Downs for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>[Updated] Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-pro-3-unboxed-a-comprehensive-review-of-ions-marvel/"><u>[Updated] Pro 3 Unboxed A Comprehensive Review of ION's Marvel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-soon-to-expire-license-warning-on-windows-1011/"><u>Circumventing Soon to Expire License Warning on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-prompt-authorization-techniques/"><u>Command Prompt Authorization Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-back-to-gaming-solve-your-xbox-pc-problems/"><u>Get Back to Gaming: Solve Your Xbox PC Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-languages-effortlessly-with-windows-keystrokes-shortcuts/"><u>Master Languages Effortlessly with Windows Keystrokes Shortcuts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-dvd-burning-made-easy-convert-videos-to-dvd-on-windows-and-mac/"><u>New 2024 Approved DVD Burning Made Easy Convert Videos to DVD on Windows and Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-grammarly-operation-in-windows-os/"><u>Restoring Grammarly Operation in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-fixed-intel-unison-on-win11/"><u>Step-by-Step Guide to Fixed Intel Unison on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-user-manual-on-ntfs-compression-settings/"><u>The Complete User Manual on NTFS Compression Settings</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-free-to-create-top-5-mod-video-editors-for-aspiring-filmmakers/"><u>Updated 2024 Approved Free to Create Top 5 MOD Video Editors for Aspiring Filmmakers</u></a></li>
+</ul></div>
+

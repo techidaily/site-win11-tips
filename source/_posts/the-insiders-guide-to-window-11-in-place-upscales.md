@@ -1,7 +1,7 @@
 ---
 title: The Insider's Guide to Window 11 In-Place Upscales
-date: 2024-11-01T08:05:00.785Z
-updated: 2024-11-06T17:37:18.456Z
+date: 2024-11-13T18:06:48.419Z
+updated: 2024-11-17T16:05:40.899Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 
  An in-place upgrade doesn’t replace anything other than Windows files. So, in addition to your personal files, all the installed apps and system settings also remain untouched. You won’t need to re-configure those settings after the in-place upgrade completes. But if you go with the Reset option, it can preserve your files but will remove all your installed programs and settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Prerequisites Before Performing a Windows In-Place Upgrade
 
  You will need to do the following things before performing an in-place upgrade:
@@ -50,26 +43,26 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 * Remove all external peripherals.
 * Ensure fast internet connectivity.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Perform an In-Place Upgrade on Windows 11
 
  To perform an in-place upgrade, you need to do two things. Firstly, you need to download the latest Windows 11 ISO file. Then, you need to run the setup from the ISO file, pick the appropriate in-place upgrade option, and proceed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Download the Windows 11 ISO Image File
 
  First of all, you need to grab the Windows 11 ISO image file. If you don't already have one on hand, check out[how to download a Windows ISO without the Media Creation tool](https://www.makeuseof.com/windows-iso-direct-download/) for some easy methods.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Perform an In-Place Upgrade Using the Windows11 ISO Image File
@@ -86,16 +79,24 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 1. On the**Choose what to keep** page, select the**Keep personal files and apps** option. Click on the**Next** button. Then click on the**Install** button.  
 ![Keep all your files and app in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/keep-all-your-files-and-app-in-windows-11.jpg)
 2. The setup will begin installing a new copy of Windows 11\. If you have an SSD, the installation won’t take more than 15 minutes. Your system will restart multiple times during this process.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 11 Installation Phase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-installation-phase.jpg)
 3. After the setup finishes installing updates, it will redirect you to the login screen.**Input** your password and press the**Enter** key to continue.  
 ![Installing Updates in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-updates-in-windows-11.jpg)
 4. Wait for the setup to prepare your system for the first boot. You will automatically enter the desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
@@ -119,14 +120,16 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-comprehensive-evaluation-samsung-gear-360-vr-camera/"><u>[New] In 2024, Comprehensive Evaluation Samsung Gear 360 VR Camera</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovate-laughter-through-adobe-creation/"><u>[New] Innovate Laughter, Through Adobe Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-soundtrack-synergy-inshot-edition/"><u>[Updated] Soundtrack Synergy InShot Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoidance-tactics-removing-onedrive-in-file-explorer-window/"><u>Avoidance Tactics: Removing OneDrive in File Explorer Window</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-mail-tips-for-resolving-html-code-displays-in-emails/"><u>Fixing Windows 11 Mail: Tips for Resolving HTML Code Displays in Emails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-the-windows-exception-breaking-point-issue/"><u>How to Tackle the Windows Exception Breaking Point Issue</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/selecting-the-top-infinite-storage-providers-for-2024/"><u>Selecting the Top Infinite Storage Providers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-deactivated-windows-email-rule-settings/"><u>Steps to Reactivate Deactivated Windows Email Rule Settings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-fixing-random-web-previews-on-screen-time-monitoring/"><u>Troubleshooting Your iPhone - Fixing Random Web Previews on Screen Time Monitoring</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-spotlight-tactics-a-3-step-guide/"><u>[Updated] 2024 Approved Instagram Spotlight Tactics A 3-Step Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-quick-guide-resolving-operating-system-failed-to-load-error-on-windows-7/"><u>1. Quick Guide: Resolving 'Operating System Failed to Load' Error on Windows 7</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-vs-after-effects-a-side-by-side-comparison-for-2024/"><u>Adobe Premiere Pro vs After Effects A Side-by-Side Comparison for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-launch-problems-in-wow-for-a-seamless-gaming-experience/"><u>Beating Launch Problems in WoW for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978929819-easy-amd-vega-graphics-card-updates-get-the-latest-driver-downloads-now/"><u>Easy AMD Vega Graphics Card Updates: Get the Latest Driver Downloads Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-cleaning-for-a-functional-windows-11-space/"><u>Effortless Cleaning for a Functional Windows 11 Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-keyboard-commands-to-sharpen-your-3d-skills/"><u>Essential Keyboard Commands to Sharpen Your 3D Skills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-disconnects-and-fixes-javascript-issues-in-discord-win-11/"><u>Mastering Disconnects & Fixes: JavaScript Issues in Discord Win 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-elevate-your-brand-with-free-animated-logos-top-creators-and-tips/"><u>New In 2024, Elevate Your Brand with Free Animated Logos Top Creators and Tips</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>Top 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-chkdsk-sfc-vs-dism-in-os-maintenance/"><u>Understanding CHKDSK, SFC Vs. DISM in OS Maintenance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crafting New File Metadata: Dates & More in Windows"
-date: 2024-11-02T05:38:03.766Z
-updated: 2024-11-07T05:19:17.418Z
+date: 2024-11-10T19:37:53.556Z
+updated: 2024-11-17T20:02:01.602Z
 tags:
   - windows10
   - windows11
@@ -88,13 +88,6 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 ![opening the attribute changer app from context menu of a file in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/opening-the-attribute-changer-app-from-context-menu-of-a-file-in-windows.jpg)
 2. Once the application opens, check the box beside **Modify date and time stamps** to make the date field editable.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Change the date and time when a file was first created and the last time you accessed or modified it according to your preference.  
 ![changing the attributes of a file from the atribute changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/changing-the-attributes-of-a-file-from-the-atribute-changer-app.jpg)
 4. Once you've made your changes, click **Apply** to make them permanent.
@@ -103,6 +96,13 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
  In the same way that we changed the attributes of a file, you can also change the attributes of a folder using Attribute Changer.
 
  Using third-party tools to modify attributes requires you to grant apps permission to access the file. Therefore, if the documents you want to modify the dates for are confidential, don't use third-party apps to change the attributes; instead, use the official methods offered by Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Remove Other File Attributes Using File Explorer
 
@@ -116,27 +116,33 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 5. To remove all possible properties automatically, check the circle beside **Create a copy with all possible properties removed**. This will create a duplicate of the file at the exact location after deleting all possible attributes.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Removing possible file attributes in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/removing-possible-file-attributes-in-file-explorer.jpg)
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify Your File's Attributes With Ease
@@ -149,22 +155,6 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
  If you don't want the receiver to know the actual file attributes, here's how to remove or modify them.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-record-perfect-videos-in-total-quietude/"><u>[New] 2024 Approved How To Record Perfect Videos in Total Quietude</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-photoperfect-optimizing-visuals-and-videos-in-instagram/"><u>[New] In 2024, PhotoPerfect Optimizing Visuals and Videos in Instagram</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-minute-video-crafters-for-2024/"><u>[Updated] Minute Video Crafters for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/10-best-video-calling-app-for-android-and-iphone/"><u>10 Best Video Calling App for Android and iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sky-storage-spectacle-unlimited-free-and-elite-premium-alternatives-for-your-pics/"><u>2024 Approved Sky Storage Spectacle Unlimited Free & Elite Premium Alternatives for Your Pics</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-itel-p55plus-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-sorry-there-is-a-problem-with-the-onedrive-servers-error-on-windows/"><u>6 Ways to Fix the “Sorry, There Is a Problem With the OneDrive Servers” Error on Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/dissecting-facebooks-internal-design-philosophy/"><u>Dissecting Facebook's Internal Design Philosophy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tracing-the-future-beyond-turings-legacy/"><u>Tracing the Future: Beyond Turing's Legacy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unseen-storage-hiding-files-via-image-camouflage-windows-11-style/"><u>Unseen Storage: Hiding Files via Image Camouflage, Windows 11 Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-kali-perfectly-integrating-linux/"><u>Win-Kali: Perfectly Integrating Linux</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/yourphoneexe-on-windows-benefits-and-risks-explored/"><u>YourPhone.exe on Windows - Benefits & Risks Explored</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -172,3 +162,18 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-revolutionize-your-image-layouts-with-these-tools/"><u>[New] 2024 Approved Revolutionize Your Image Layouts with These Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/achieving-flawless-photos-with-size-tweaks-on-ios/"><u>Achieving Flawless Photos with Size Tweaks on iOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-deals-bf-black-friday-612-win10-for-life/"><u>Best Deals: BF Black Friday - $6.12 Win10 for Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-folder-management-resetting-critical-components-on-ws11/"><u>Effortless Folder Management: Resetting Critical Components on WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-iomap64-syscall-failures-on-windows-pcs/"><u>Essential Fixes for IOMap64 Syscall Failures on Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-download-your-favorite-netflix-shows-for-later-playback-on-a-computer/"><u>How to Download Your Favorite Netflix Shows for Later Playback on a Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-local-security-not-functioning-warning/"><u>Immediate Actions for 'Local Security Not Functioning' Warning</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-refining-images-how-to-use-the-eraser-tool-in-psx/"><u>In 2024, Refining Images How to Use the Eraser Tool in PSX</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unlocking-free-discovideo-on-pc-android-ios-without-payments/"><u>Unlocking Free DiscoVideo on PC, Android, iOS Without Payments</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-best-animation-studios-for-pc-and-mac-top-picks-for-pros-for-2024/"><u>Updated Best Animation Studios for PC and Mac Top Picks for Pros for 2024</u></a></li>
+</ul></div>
+

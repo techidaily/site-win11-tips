@@ -1,7 +1,7 @@
 ---
 title: "Post-Update Anomalies: Restoring Your Discord On Windows"
-date: 2024-09-01T05:17:10.083Z
-updated: 2024-09-02T05:17:10.083Z
+date: 2024-11-16T18:51:39.838Z
+updated: 2024-11-17T18:51:30.309Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,19 @@ To force-stop the Discord app:
 4. Restart the Discord app and see if it can finish the updates.  
 ![End Discord Process on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/End-Discord-Process-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check Discord Server Status
 
  You may not be the only one experiencing problems with Discord updates. There's a good chance the issue isn't on your end, but on Discord's. You can[check Discord’s service status](https://discordstatus.com/) to see if others are facing similar issues.
@@ -52,9 +65,6 @@ To force-stop the Discord app:
 
  If this helps Discord finish updates, you can configure the app to always run as an administrator. If you need help, refer to our guide on[how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Allow Discord Through Windows Firewall
 
  Windows Defender Firewall can also prevent Discord from accessing the internet. If that's the case, you'll need to whitelist Discord in Windows Firewall to fix the problem. Here’s how:
@@ -71,17 +81,18 @@ To force-stop the Discord app:
 ![Allow Discord Through Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Discord-Through-Windows-Firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Disable Your Antivirus Program
 
  If you have a third-party antivirus program installed on your computer, try disabling it temporarily. This will help you verify if your antivirus program is conflicting with the Discord app.
 
  After disabling your antivirus program, try to update Discord again. If this works, you'll need to whitelist Discord in your antivirus settings. Alternatively, you can switch to a different antivirus program altogether. There are plenty of[free and paid antivirus apps available for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 7\. Adjust the Date and Time Settings
 
  Discord may have trouble connecting to its server[if your PC is set to an incorrect date or time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) . You can avoid such problems by configuring Windows to use network-provided time. Here’s how.
@@ -92,13 +103,17 @@ To force-stop the Discord app:
 4. Enable the toggles next to**Set time automatically** and**Set time zone automatically** .  
 ![Set Date & Time Automatically on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Date--Time-Automatically-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restart the Discord app after this and allow it to finish updates.
 
  If you can't seem to set the correct time no matter what you do, check out[how to fix an incorrect time on Windows](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) which has some handy tips you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Rename the Discord Update Executable File
 
  Problems with the Discord update file (update.exe) file on your PC can also cause such anomalies. This usually happens when the Discord update file becomes corrupted. An easy way to fix this is to rename the Discord update file to something else. This will force Discord to download the update file again, resolving your issue.
@@ -110,11 +125,18 @@ Restart the Discord app after this and allow it to finish updates.
 ![Rename Discord Update File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rename-Discord-Update-File.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 9\. Uninstall and Reinstall Discord
 
  If nothing else works, you can uninstall and reinstall the Discord app as a last resort. This will help you remove any faulty app data that may have been preventing the app from updating and get it to work again.
@@ -128,6 +150,13 @@ To uninstall Discord from your PC:
 5. Select**Uninstall** again to confirm.  
 ![Uninstall Discord From Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-Discord-From-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After uninstalling the Discord app, you should get rid of any leftover app files by following the steps below.
 
 1. Press**Win + R** to open Run.
@@ -140,14 +169,11 @@ To uninstall Discord from your PC:
 
  You should be able to update Discord on your Windows PC after applying the fixes in this article. However, if none of the solutions work, you can switch to Discord's web client for a while. It has an identical user interface and includes all the necessary features you might need. The Discord web client is compatible with all popular browsers, including Chrome, Edge, Firefox, Opera, and Brave.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +182,23 @@ To uninstall Discord from your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-break-free-from-periscope-unique-mobile-video-apps-for-smartphones/"><u>[Updated] 2024 Approved Break Free From Periscope Unique Mobile Video Apps for Smartphones</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1-quickly-restore-your-system-files-on-a-hard-drive-with-windows-11-10-8-or-7-a-step-by-step-guide/"><u>1. Quickly Restore Your System Files on a Hard Drive with Windows 11, 10, 8, or 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-installer-et-utiliser-handbrake-sur-windows-7-8-10-ou-vista-pour-la-conversion-video/"><u>Comment Installer Et Utiliser HandBrake Sur Windows 7, 8, 10 Ou Vista Pour La Conversion Vidéo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-error-code-0x800736cc-and-windows-update-woes/"><u>Decoding Error Code 0X800736CC and Windows Update Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excel-frustration-reverse-common-row-insertion-blockages-windows/"><u>Excel Frustration? Reverse Common Row Insertion Blockages (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-audio-to-alphabets-transcribing-talk-on-your-pc-with-whisper/"><u>From Audio to Alphabets: Transcribing Talk on Your PC with Whisper</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-a-beginners-journey-to-enhanced-gopro-adventures/"><u>In 2024, A Beginner's Journey to Enhanced GoPro Adventures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-brief-snippet-analysis-for-beginners/"><u>In 2024, Brief Snippet Analysis for Beginners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-text-artistry-in-ae-our-top-10-recommendations/"><u>In 2024, Text Artistry in AE Our Top 10 Recommendations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-blueear-bluetooth-beanie-marrying-ease-and-fashion-with-reliable-acoustics/"><u>In-Depth Review of the BlueEar Bluetooth Beanie: Marrying Ease and Fashion with Reliable Acoustics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-speed-and-precision-with-best-auto-clickers/"><u>Maximize Speed & Precision with Best Auto Clickers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-connection-setting-up-intel-wireless-devices-on-ubuntu/"><u>Securing Your Connection: Setting Up Intel Wireless Devices on Ubuntu</u></a></li>
+<li><a href="https://discover-help.techidaily.com/simple-steps-for-seamless-conversion-transforming-your-dvds-into-mov-files-without-hassle/"><u>Simple Steps for Seamless Conversion: Transforming Your DVDs Into MOV Files Without Hassle</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-display-with-speed-meter-widget/"><u>Streamline Your Display with Speed Meter Widget</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-correcting-directdraw-fails-in-win1011/"><u>The Ultimate Guide to Correcting DirectDraw Fails in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-users-guide-to-playnite-and-emulators/"><u>Windows Users' Guide to Playnite and Emulators</u></a></li>
+</ul></div>
 

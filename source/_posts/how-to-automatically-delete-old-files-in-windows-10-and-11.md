@@ -1,7 +1,7 @@
 ---
 title: How to Automatically Delete Old Files in Windows 10 & 11
-date: 2024-10-30T23:05:29.915Z
-updated: 2024-11-07T05:01:37.292Z
+date: 2024-11-11T17:19:22.306Z
+updated: 2024-11-17T17:56:32.318Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
  If you want, you can always turn off the setting by simply disabling the **Storage Sense** button later on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Deleted Old Files or Folders With the Command Prompt
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
  Your files will be removed as quickly as soon as you hit the above commands.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use Task Scheduler on Windows
@@ -84,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 ![task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/task-scheduler.jpg)
 5. In the **Name** box, enter a name for the task.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now, in the **General** tab, under the **Security options** section, select the **Run whether the user is logged on or not** option.
 7. Make sure the **Do not store password** checkbox is unselected.
 8. Click on the **Triggers** tab and select the **New** button.
@@ -105,6 +98,19 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 `ForFiles`
 
 ![new action tab on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-tab-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similarly, in the **Add arguments** box, type in the following command:
 
@@ -122,14 +128,14 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![new action setting on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-setting-on-windows.jpg)
 
- That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
 
 ## Auto-Deleting Old Files or Folders on a Windows Computer
 
@@ -139,27 +145,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
  You can get rid of Windows 10 bloatware. You can sort your right click menu. You can even declutter your search results. And of course, you can clean up your desktop. If you're looking for a more passive approach, here's how to erase old files on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-high-performance-hardware-for-live-video-feeds/"><u>[New] 2024 Approved High-Performance Hardware for Live Video Feeds</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-up-to-date-tips-for-purchasing-top-360-imagers/"><u>[Updated] 2024 Approved Up-to-Date Tips for Purchasing Top 360 Imagers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-quintessential-filters-to-perfect-ocean-shoots/"><u>[Updated] In 2024, Quintessential Filters to Perfect Ocean Shoots</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/5-must-try-no-cost-mobile-apps-for-effortless-cross-border-calls/"><u>5 Must-Try No-Cost Mobile Apps for Effortless Cross-Border Calls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-secrets-to-swiftly-concluding-a-troubled-update-process/"><u>5 Secrets to Swiftly Concluding a Troubled Update Process</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversione-facile-e-gratuita-da-mxf-a-avi-con-lassistente-on-line-di-movavi/"><u>Conversione Facile E Gratuita: Da MXF a AVI Con L'assistente On-Line Di Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-moto-g24-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Moto G24 has native HEVC support?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unsuccessful-onedrive-operations-in-windows-10-and-11/"><u>Fixing Unsuccessful OneDrive Operations in Windows 10 & 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-note-12-pro-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi Note 12 Pro 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-with-ease-access-calculator/"><u>Navigating Windows 11 with Ease: Access Calculator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-updater-problem-code-0x8019/"><u>Overcoming Updater Problem: Code 0X8019</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/repairing-slow-or-non-responsive-windows-download-area/"><u>Repairing Slow or Non-Responsive Windows Download Area</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solution-to-windows-os-not-found-error/"><u>Swift Solution to Windows OS 'Not Found' Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-dism-error-0x800f082f-on-windows/"><u>Tackling DISM Error 0X800F082F on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-zero-error-mystery-in-windows-11-updates/"><u>Unraveling Zero-Error Mystery in Windows 11 Updates</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-combine-wmv-videos-for-free-top-5-tools/"><u>Updated In 2024, Combine WMV Videos for Free Top 5 Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726224065964-rmvb-avi-movavi/"><u>원격 인증이 지연된 아티클 RMVB에서 AVI로의 침출 자리 바꾸기: Movavi 제공 - 무세</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,3 +152,20 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-elevate-your-farming-adventures-with-stardews-top-7-mods/"><u>[Updated] 2024 Approved Elevate Your Farming Adventures with Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-skypes-premier-audio-capture-solutions/"><u>[Updated] In 2024, Skype's Premier Audio Capture Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views/"><u>2024 Approved Breaking Into the Livestream Scene on YouTube with Under a Thousand Views</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-zen-overcoming-stress/"><u>AI-Assisted Zen: Overcoming Stress</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-batch-renaming-like-a-pro-with-powertoys/"><u>Master Batch Renaming Like a Pro with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-solutions-for-windows-missing-lsass-components/"><u>Quick Solutions for Windows' Missing Lsass Components</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-virtual-disk-service-not-started-in-windows/"><u>Remedy for Virtual Disk Service Not Started in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-bloatware-removal-in-windows-11/"><u>Streamline Your PC: Bloatware Removal in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/temps-des-jours-francais/"><u>Temps Des Jours Français</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-basics-of-windows-canary-and-its-benefits/"><u>The Basics of Windows Canary and Its Benefits</u></a></li>
+<li><a href="https://fox-http.techidaily.com/thorough-examination-easy-hdr-techniques-guide-for-2024/"><u>Thorough Examination Easy HDR Techniques Guide for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-smart-7-hd-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Smart 7 HD Bricked Devices | Dr.fone</u></a></li>
+</ul></div>
+

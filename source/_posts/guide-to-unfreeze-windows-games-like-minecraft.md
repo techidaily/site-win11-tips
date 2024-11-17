@@ -1,7 +1,7 @@
 ---
 title: Guide to Unfreeze Windows Games Like Minecraft
-date: 2024-11-05T11:52:08.001Z
-updated: 2024-11-07T11:32:29.741Z
+date: 2024-11-16T19:20:35.735Z
+updated: 2024-11-17T18:08:51.977Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
  Once all the mods are removed, close File Explorer and relaunch Minecraft to see if the error is resolved. On the flip side, you may find some Minecraft levels (worlds) broken upon launch. You may also want to re-download mods to make further modifications.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Repair Minecraft Launcher
 
  You can fix common problems with the Minecraft Launcher using the[built-in repair option on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) . During repair, Windows will look for common issues and try to fix them automatically. It will also delete the app’s data.
@@ -57,23 +64,9 @@ To repair Minecraft Launcher:
 
  Similarly, you can also repair your Minecraft game. Open Minecraft’s**Advanced Options** and perform a repair in the**Settings** app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Modify the Minecraft Launcher File Path
 
 ![modify minecraft launcher file path working directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-minecraft-launcher-file-path-working-directory.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Issues with the Minecraft Launcher file path can cause the "exit code: 1" on Windows. If your user name has a special character, the Minecraft Launcher file path may not respond to a user account with a special character.
 
@@ -90,6 +83,13 @@ To change the Minecraft Launcher file path:
 5. Click**Apply** and**OK** to save the changes.
 6. Relaunch Minecraft and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Change the Java Executable Path
 
  Your Minecraft installation can run into issues if the launcher fails to detect the correct Java file. While Minecraft Launcher automatically installs the required JRE version, at times, you may need to manually change the executable to run the modified version of the game.
@@ -103,42 +103,30 @@ To change the Java executable for Minecraft:
 5. Select**Edit** from the menu.  
 ![minecraft launcher latest release edit windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-launcher-latest-release-edit-windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Click**More Options** to view additional options.
 2. Click**Browse** to add a**Java Executable** .  
 ![java executable browse minecraft launcher windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-executable-browse-minecraft-launcher-windows.jpg)
 3. Navigate to your Java installation. By default, the JRE file path is:  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `C:\Program Files (x86)\Java\jre1.8.0_361\bin`
 4. Select the**Java.exe** file and click**Open** .  
 ![select JRE java executable browse minecraft launcher windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-jre-java-executable-browse-minecraft-launcher-windows.jpg)
 5. Click**Save** to apply the changes and relaunch Minecraft Launcher.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. The caveat here is you’ll need to update the Java version number or re-add the Java executable every time you update Java.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Minecraft Without Deleting Saves
@@ -153,16 +141,23 @@ To backup Minecraft saves and uninstall the game:
 3. Open the**.minecraft** folder.  
 ![delete minecraft data folder uninstall windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-minecraft-data-folder-uninstall-windows.jpg)
 4. Right-click on the saves folder and select**Copy (Ctrl +C)** .
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Paste the**saves** folder outside the**.minecraft** folder.  
 ![minecraft saves folder windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-savess-folder-windows-file-explorer.jpg)
 6. Next, return to the**Roaming** folder and delete the**.minecraft** folder to uninstall the game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Restart your computer.
 8. To reinstall Minecraft, open**Minecraft Launcher** . It will start the installation process.
@@ -174,6 +169,13 @@ C:\Users\[Username]\AppData\Roaming\.minecraft
 ## 6\. Perform Generic Windows and Java Fixes
 
  If Minecraft is still plagued by the "exit code: 1" error, here are some more general fixes you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Update the Graphics Drivers
 
@@ -215,22 +217,21 @@ To reinstall Java Runtime Environment:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-unveiling-your-image-picsart-bg-erasure-technique-for-2024/"><u>[New] Unveiling Your Image Picsart Bg Erasure Technique for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719319638119-collectors-paradise-unlocked-free-windows-11-for-keys-fan-year-round/"><u>Collector’s Paradise Unlocked: Free Windows 11 For Keys Fan, Year-Round!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-windows-storage-without-overwriting-data/"><u>Elevate Windows Storage Without Overwriting Data</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-share-your-screen-on-discord-as-a-host-using-desktop-and-mobile/"><u>How to Share Your Screen on Discord as a Host Using Desktop and Mobile</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-racing-revelry-junior-edition/"><u>In 2024, Racing Revelry Junior Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-meizu-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Meizu Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-windows-snip-and-sketch-with-one-move/"><u>Launching Windows Snip & Sketch With One Move</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-connectivity-fixing-lol-drops-in-windows/"><u>Mastering Connectivity: Fixing LoL Drops in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-calculator-display-timeframe-on-windows/"><u>Maximizing Calculator Display Timeframe on Windows</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/navigating-average-incomes-in-the-podcasting-industry-for-2024/"><u>Navigating Average Incomes in the Podcasting Industry for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-copy-and-paste-on-chrome-edge-firefox-os/"><u>Overhauling Copy & Paste on Chrome, Edge, Firefox OS</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-money-with-smart-purchases-of-windows-11-deals/"><u>Saving Money with Smart Purchases of Windows 11 Deals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/savor-on-screen-mastering-food-films-with-these-7-essentials-for-2024/"><u>Savor on Screen - Mastering Food Films with These 7 Essentials for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snowy-seasonings-sharing-apps-from-microsofts-marketplace/"><u>Snowy Seasonings: Sharing Apps From Microsoft's Marketplace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-domain-based-biometric-use-in-windows-11/"><u>Tailoring Domain-Based Biometric Use in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-advancements-and-impacts-of-5g-technology-by-verizon/"><u>The Advancements and Impacts of 5G Technology by Verizon</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/thriving-in-the-freefire-arena-with-pro-gamers-guide-for-2024/"><u>Thriving in the FreeFire Arena with Pro Gamers' Guide for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hat-everyone-should-learn-about-subscribing-to-youtube-tv-for-2024/"><u>[New] What Everyone Should Learn About Subscribing to YouTube TV for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-directory-of-pixel-tones-websites/"><u>[Updated] Comprehensive Directory of Pixel Tones Websites</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-huawei-nova-y91-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Huawei Nova Y91 FRP</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/complete-guide-to-adding-texts-to-tiktok-for-2024/"><u>Complete Guide to Adding Texts to TikTok for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-divas-top-ten-gamers-on-youtube/"><u>Digital Divas Top Ten Gamers on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-0x800704cf-from-windows-marketplace/"><u>Eliminating 0X800704CF From Windows Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fasten-up-your-pc-launches-mastering-windows-11-quick-start-mode/"><u>Fasten Up Your PC Launches: Mastering Windows 11 Quick Start Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fingerprint-fraud-unraveling-the-latest-hack-on-windows-hello/"><u>Fingerprint Fraud? Unraveling the Latest Hack on Windows Hello</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-behavioral-tracking-with-cookiebot-technology/"><u>Harness the Power of Behavioral Tracking with Cookiebot Technology</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-the-power-of-hashtags-in-youtube-gaming-culture/"><u>In 2024, Unlocking the Power of Hashtags in YouTube Gaming Culture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/leveraging-tech-for-better-facebook-live-records/"><u>Leveraging Tech for Better Facebook Live Records</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-prioritize-disk-format-in-windows-errors/"><u>Resolving Prioritize Disk Format in Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-google-drives-synced-files-with-7-key-steps/"><u>Reviving Google Drive's Synced Files with 7 Key Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-combat-gaming-induced-laptop-overheating/"><u>Steps to Combat Gaming-Induced Laptop Overheating</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-device-synergy-samsung-dex-for-galaxy-users/"><u>Streamlining Device Synergy: Samsung DeX for Galaxy Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-fix-for-video-glitch-0xc10100be/"><u>Unlocking Fix for Video Glitch 0XC10100be</u></a></li>
 </ul></div>
 

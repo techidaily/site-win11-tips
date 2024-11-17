@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Diagnostic Skills: Using Command Prompt for Pinpointing & Correcting Windows Errors"
-date: 2024-11-05T11:14:53.119Z
-updated: 2024-11-07T14:25:45.473Z
+date: 2024-11-15T20:16:59.753Z
+updated: 2024-11-17T19:28:20.586Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 
  Below, we have discussed different ways of using Command Prompt to look up Windows error codes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Use the NET HELPMSG Command
 
  The NET HELPMSG command helps convert error codes into strings, which you can use to find relevant solutions for the problem. However, this command can only help you with system error codes, which are specific numerical values. This means you cannot use it for BSOD errors like the INACCESSIBLE\_BOOT\_DEVICE error.
@@ -55,14 +48,14 @@ Here is how you can use this command:
 `NET HELPMSG 8242​​​`  
 ![Execute the net helpmsg command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/net-helpmsg-error.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have the details on the error code, you can either look for solutions online or jump to the solutions listed later in this guide.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use the CertUtil Command
 
@@ -76,6 +69,13 @@ Here is how you can use it:
 3. So for instance, if you are encountering the update error 0x80070002, your command will be:  
 `CertUtil /error 0x80070002​​​​`  
 ![Execute the entered command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/certutil-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You should now be presented with a description of the error message. You can use this detail to identify the culprit and eliminate it.
 
@@ -110,10 +110,10 @@ Here is how you can use it:
  Doing so will create a log file named sfcdetails.txt on your desktop, listing all the issues found during the scan.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Uninstall Windows Updates
@@ -133,10 +133,10 @@ Here is how you can use it:
 ![Uninstall the update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-update-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Fix Boot Issues
@@ -158,10 +158,10 @@ Here is how you can do that:
 7. Restart your computer, and you should be able to boot into Windows successfully!
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Command Prompt to the Rescue
@@ -185,21 +185,19 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ow-to-make-a-channel-trailer-for-2024/"><u>[New] How to Make a Channel Trailer for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-master-mac-screen-and-voice-logging-device/"><u>[Updated] Master Mac Screen and Voice Logging Device</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/animators-choice-full-review-2024-edition/"><u>Animator's Choice Full Review - 2024 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-laptop-onoff-trick-for-energy-conservation/"><u>Boost Your Laptop: On/Off Trick for Energy Conservation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-the-barrier-win-solution-for-epic-games-access/"><u>Bypassing the Barrier: Win Solution for Epic Games Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-footage-excellence-with-these-best-apps-for-windows-11/"><u>Enhance Footage Excellence with These Best Apps for Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-amazon-now-alerts-you-on-product-safety-issues-a-look-at-the-new-feature/"><u>How Amazon Now Alerts You on Product Safety Issues – A Look at the New Feature</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-xr-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone XR</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-transcribe-live-broadcasts-into-digital-format-for-2024/"><u>How to Transcribe Live Broadcasts Into Digital Format for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-enhance-your-media-with-top-free-android-editing-tools/"><u>In 2024, Enhance Your Media with Top Free Android Editing Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sony-hdrcx405-review-capture-life-in-high-definition/"><u>Sony HDRCX405 Review: Capture Life in High Definition</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-overcome-display-drivers-not-launching-on-pcs/"><u>Steps to Overcome Display Drivers Not Launching on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reverse-winerror-exit-point-failure/"><u>Steps to Reverse WinError Exit Point Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-instructions-for-installing-chrome-on-windows-11/"><u>Stepwise Instructions for Installing Chrome on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-solving-obs-errors-windows-edition/"><u>Understanding and Solving OBS Errors: Windows Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-power-management-features-for-maximum-efficiency/"><u>Unlocking Power Management Features for Maximum Efficiency</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-compreehensive-guide-to-youtube-thumbnail-creation-mac-for-2024/"><u>[New] A Compreehensive Guide to YouTube Thumbnail Creation (Mac) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ultimate-guide-to-choosing-a-screen-recorder-for-learning/"><u>2024 Approved Ultimate Guide to Choosing a Screen Recorder for Learning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/astra-pilot-disappearance-steps-for-windows-11-users/"><u>Astra Pilot Disappearance? Steps for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-11-editions-a-compre-point-by-point-analysis/"><u>Deciphering Windows 11 Editions: A Compre Point-by-Point Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodging-the-dead-zone-fix-for-stranded-xbox-on-windows-11/"><u>Dodging the Dead Zone: Fix for Stranded Xbox on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-fixes-for-the-common-missing-propsysdll-problem/"><u>Expert Fixes for the Common 'Missing Propsys.dll' Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-hurdles-restoring-file-transfer-on-win11/"><u>Navigating Network Hurdles: Restoring File Transfer on WIN11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-art-of-epic-save-preservation/"><u>Navigating the Art of Epic Save Preservation</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-paradox-launcher-problems-a-step-by-step-guide-to-fixing-it/"><u>Solve Your Paradox Launcher Problems: A Step-by-Step Guide to Fixing It</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/taking-a-step-back-inverting-image-queries-in-instagram-for-2024/"><u>Taking a Step Back Inverting Image Queries in Instagram for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-3-easy-methods-to-transform-your-mkv-files-into-dvd-compatible-formats-on-pc-or-mac/"><u>Top 3 Easy Methods to Transform Your MKV Files Into DVD-Compatible Formats on PC or Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-why-isnt-my-iphone-alarm-working/"><u>Troubleshooting Tips: Why Isn't My iPhone Alarm Working?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/winter-wonderland-spins-and-jumps/"><u>Winter Wonderland Spins and Jumps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zenith-of-clarity-top-strategies-for-combating-blurry-windows-views/"><u>Zenith of Clarity: Top Strategies for Combating Blurry Windows Views</u></a></li>
 </ul></div>
 

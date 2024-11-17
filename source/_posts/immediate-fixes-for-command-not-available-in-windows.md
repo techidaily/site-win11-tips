@@ -1,7 +1,7 @@
 ---
 title: Immediate Fixes for Command Not Available in Windows
-date: 2024-10-31T18:43:10.995Z
-updated: 2024-11-07T00:58:31.396Z
+date: 2024-11-12T17:55:32.993Z
+updated: 2024-11-17T18:56:01.551Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 7. Then click**Start actions** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan and Repair System Files
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scannow-command.jpg)
 6. Wait until that tool’s scan gets to 100 percent. Then you’ll see a Windows Resource Protection message in the Prompt’s window.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Enable Registry Editor Access in Group Policy Editor
 
  Windows Pro and Enterprise editions have a Group Policy Editor tool that includes a**Prevent access to registry editing tools** option. If you’re a Pro or Enterprise user, check if that policy setting is enabled and causing the issue at hand. This is how you can enable Registry Editor access with Group Policy Editor:
@@ -72,7 +79,22 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 5. Select the**Disabled** option, and click**Apply** to save.  
 ![The prevent access to registry editing tools policy setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/prevent-access-to-registry-edting-tools.jpg)
 6. Press the Prevent access to registry editing tools window’s**OK** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Exit Group Policy Editor, and restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Edit the Path Environment Variable
 
@@ -84,15 +106,16 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 4. Click**Environment Variables** to open up that window.  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 5. Select**Path** , and click the**Edit** button.  
-![The Environment Variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-varibles-window.jpg)
-6. Click**Edit** on the environment variable window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Environment Variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-varibles-window.jpg)
+6. Click**Edit** on the environment variable window.
 
 7. Input this variable:  
 `%USERPROFILE%\AppData\Local\Microsoft\WindowsApps`
@@ -141,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 ![The registry script for restoring default values](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/edit-registry-script.jpg)
 4. Press Notepad’s**Ctrl** +**Shift** +**S** keyboard shortcut for opening the "Save as" window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the**All files** option in the**Save as type** menu.  
 ![The All Files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/all-files-option.jpg)
 6. Type**Registry Fix.reg** inside the name box.
@@ -155,13 +171,6 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 8. Select the**Save** option, and then close Notepad.
 9. Right-click the saved**Registry Fix.reg** script on the desktop and select**Show more options** \>**Merge** .
 10. Click**Yes** to confirm the selected option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Perform a System Restore
 
@@ -178,17 +187,10 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 ![The Reset this PC button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-this-pc-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Edit the Registry With Registry Editor Once More
@@ -210,17 +212,20 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-woven-wisdom-in-digital-weaves-arvr-quote-compilation/"><u>[New] 2024 Approved Woven Wisdom in Digital Weaves AR/VR Quote Compilation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-to-profit-reaching-the-new-500-sub-total/"><u>[New] In 2024, Free to Profit Reaching the New 500 Sub Total</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-navigating-technical-hurdles-for-a-smooth-live-broadcast-experience-for-2024/"><u>[Updated] Navigating Technical Hurdles for a Smooth Live Broadcast Experience for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-new-cycle-begins-without-maintenance-updates-to-windows-xp781/"><u>A New Cycle Begins Without Maintenance Updates to Windows XP/7/8.1</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y100a-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-reno-10-proplus-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo Reno 10 Pro+ 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-windows-11-the-exciting-features-in-feb-2023-patch/"><u>Inside Windows 11 - The Exciting Features in FEB 2023 Patch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-boot-up-a-guide-to-startup-service-management/"><u>Navigate Through Windows Boot-Up: A Guide to Startup Service Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalize-your-w11-browser-by-altering-startup/"><u>Personalize Your W11 Browser by Altering Startup</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726028456007-tiktok/"><u>TikTok動画からロゴ水印を除去する詳細ガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-using-dark-theme-in-notepad/"><u>Understanding and Using Dark Theme in Notepad</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-intel-graphics-card-on-windows-1011-easy-driver-downloads-and-setup-guide/"><u>Update Your Intel Graphics Card on Windows 10/11: Easy Driver Downloads and Setup Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fixing-mistaken-face-id-in-facebook-chats/"><u>[New] 2024 Approved Fixing Mistaken Face ID in Facebook Chats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quick-engagement-techniques-for-zooms-camera-shots/"><u>[Updated] Quick Engagement Techniques for Zoom’s Camera Shots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/20-windows-command-prompt-cmd-commands-you-must-know/"><u>20 Windows Command Prompt (CMD) Commands You Must Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-not-stopping-generic-audio-issue/"><u>Addressing 'Windows Not Stopping Generic Audio' Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-disruptions-securing-winnet-for-peace-of-mind/"><u>Avoid Disruptions: Securing WinNet for Peace of Mind</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-premature-edge-activation-in-w11/"><u>Avoid Premature Edge Activation in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blackviews-big-hard-drive-performance-lacks-pep/"><u>Blackview's Big Hard Drive, Performance Lacks Pep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blast-through-lag-winning-strategies-to-speed-up-bf2/"><u>Blast Through Lag: Winning Strategies to Speed Up BF2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-gaming-tuning-amd-radeon-settings/"><u>Boost Your Gaming: Tuning AMD Radeon Settings</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/delving-into-the-apple-homepod-mini-a-closer-look-at-sound-features-and-user-friendly-siri/"><u>Delving Into the Apple HomePod Mini - A Closer Look at Sound, Features, and User-Friendly Siri</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-resolving-driver-overrun-stack-buffer-issues/"><u>Effective Solutions for Resolving Driver Overrun Stack Buffer Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-cyberpunk-2077s-notorious-black-screen-problem/"><u>How to Overcome Cyberpunk 2077'S Notorious Black Screen Problem</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) without Passcode or Face ID</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-restoring-functionality-to-a-non-working-xbox-series-x-or-s-audio-device/"><u>Step-by-Step Guide: Restoring Functionality to a Non-Working Xbox Series X or S Audio Device</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-linux-masterclass-comparing-the-best-audio-workflow-tools-available-this-year/"><u>Updated Linux Masterclass Comparing the Best Audio Workflow Tools Available This Year</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enforcing Restrictions on Insider Beta Access
-date: 2024-11-01T19:34:58.306Z
-updated: 2024-11-06T16:29:13.500Z
+date: 2024-11-13T18:06:55.040Z
+updated: 2024-11-17T17:01:26.435Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
  If you share your computer with others and don't want them to get the newer build, you need to prevent them from getting Insider Preview Builds in Windows 11\. There are basically three ways to achieve this, using System Settings, Group Policy Editor, or Registry Editor. For a detailed explanation of each, please see the following.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Use the System Settings
 
  If you don't want someone to access the Insider builds, you can disable it from the Windows System settings. This option is hidden in the Windows Update settings, so you will need to navigate through the menus to find it. Here's how to do it:
@@ -45,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 3. Then navigate to **Windows Insider Programme** \> **Stop getting preview builds**.  
 ![Stop Getting Preview Builds in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/stop-getting-preview-builds-in-windows.jpg)
 4. Now toggle the **Unenroll this device when the next version of Windows releases** switch to disable it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will prevent the device from downloading further Insider builds even if someone initiates it manually.
 
@@ -66,27 +66,14 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 6. Select the **Disabled** radio button in the dialog box that appears.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Toggle user control over Insider builds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Toggle-user-control-over-Insider-builds.jpg)
 7. After you've made your changes, click **Apply** and **OK** to save them
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you have completed the steps above, you will need to restart your computer to ensure the changes are applied. After doing that, you'll no longer be able to install or receive Insider builds. If you ever need to give users access to Insider builds on your computer, open the Local Group Policy Editor again.
 
@@ -114,10 +101,16 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 10. Set the value data to **0** and choose the Hexadecimal base.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 11. Click **OK** to save the changes.
@@ -125,6 +118,19 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
  When you're done making these changes, restart your computer. If you ever need to roll back the changes, you can do so whenever you like.
 
  To do this, right-click the AllowBuildPreview key in the Registry Editor and choose **Modify**. You then need to set the Value data to **1** and hit **OK** to apply the changes.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I Need to Enroll in the Windows Insider Program?
 
@@ -149,23 +155,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
  However, it's good to remember that Insider builds can contain bugs or other issues that can lead to instability or data loss. If you are running an insider build and don't want anyone else to download the newer version, you can disable their access. Here's how it works.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>[New] A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-breaking-the-internet-with-these-hysterical-stickers-for-2024/"><u>[New] Breaking the Internet with These Hysterical Stickers for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-from-photoshop-to-phun-best-software-conversion-tools-pc-mac/"><u>[Updated] In 2024, From Photoshop to Phun Best Software Conversion Tools, PC Mac</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ideal-7-video-capture-tools-for-engaging-social-media-presentations/"><u>[Updated] In 2024, Ideal 7 Video Capture Tools for Engaging Social Media Presentations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-note-13-pro-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi Note 13 Pro 5G Unlock Without Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alter-subnet-configurations-in-windows-11/"><u>Alter Subnet Configurations in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-disabled-lock-screen-timer/"><u>Corrective Measures for Disabled Lock Screen Timer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortlessly-resolve-your-ashen-crash-problems-in-no-time/"><u>Effortlessly Resolve Your Ashen Crash Problems in No Time</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-pc-lag-problems-in-resident-evil-village-step-by-step-solutions/"><u>Fixing PC Lag Problems in Resident Evil Village: Step-by-Step Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/neatness-noted-navigating-a-tidier-windowed-explore/"><u>Neatness Noted: Navigating a Tidier Windowed Explore</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-downloading-and-updating-the-scansnap-driver-with-ease/"><u>Quick-Guide: Downloading and Updating the ScanSnap Driver with Ease!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-lost-wireless-ties-with-these-10-windows-10-tweaks/"><u>Reclaiming Lost Wireless Ties with These 10 Windows 10 Tweaks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/why-microsoft-needs-to-reintroduce-metro-interface-for-enhanced-portable-gaming/"><u>Why Microsoft Needs to Reintroduce Metro Interface for Enhanced Portable Gaming</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -173,3 +162,23 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/1726027742203-powerpoint/"><u>「PowerPointスライドを動画にするための新しいテクニック：詳細解説とその仕組み」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-online-tips-creating-title-magic/"><u>2024 Approved Top Online Tips Creating Title Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curtailing-premature-windows-edge-tabs/"><u>Curtailing Premature Windows Edge Tabs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-task-manager-with-finesse/"><u>Elevating Task Manager with Finesse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-a-windows-11-recycle-bin-malfunction/"><u>Fixing a Windows 11 Recycle Bin Malfunction</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-install-the-right-hp-officejet-4650-drivers-on-your-pc-windows/"><u>How to Find and Install the Right HP OfficeJet 4650 Drivers on Your PC (Windows)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-14-pro-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone 14 Pro SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-boosting-brand-visibility-through-youtube-sponsorships/"><u>In 2024, Boosting Brand Visibility Through YouTube Sponsorships</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-building-confidence-against-youtube-critiques/"><u>In 2024, Building Confidence Against YouTube Critiques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-microsoft-bluetooth-driver-updates-for-windows-operating-systems-win-10-11-8-and-7-supported/"><u>Latest Microsoft Bluetooth Driver Updates for Windows Operating Systems: Win 10, 11, 8, and 7 Supported</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-pin-removal-functionality-in-windows-11-os/"><u>Restoring PIN Removal Functionality in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-11-safe-mode-access/"><u>Step-by-Step Guide to Windows 11 Safe Mode Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-right-pace-for-your-cursor-how-to-turn-off-acceleration-win-11/"><u>The Right Pace for Your Cursor: How to Turn Off Acceleration Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-generating-flawless-ai-images-on-windows-11-through-paint-tool-sai/"><u>The Ultimate Guide for Generating Flawless AI Images on Windows 11 Through Paint Tool SAI</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-itel-p55t-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Itel P55T to Gmail | Dr.fone</u></a></li>
+</ul></div>
+

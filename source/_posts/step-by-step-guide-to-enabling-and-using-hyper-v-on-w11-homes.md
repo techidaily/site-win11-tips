@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Enabling and Using Hyper-V on W11 Homes
-date: 2024-09-01T05:12:56.896Z
-updated: 2024-09-02T05:12:56.896Z
+date: 2024-11-15T19:54:38.252Z
+updated: 2024-11-17T18:40:04.480Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
 ![hyper v install windows 11 home script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/hyper-v-install-windows-11-home-script.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. In the Notepad file, copy and paste the following script:
 
 `pushd "%~dp0"  
@@ -65,6 +72,19 @@ pause`
 
 ![save hyperv install script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/save-hyperv-install-script.png)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5\. Next, click the drop-down for **Save as type** and select **All Files.**
 
  6\. Click the **Save** button to save the file.
@@ -78,6 +98,13 @@ pause`
  9.Once completed, you will see the Operation completed successfully message.
 
 ![install hyper v install windows 11 home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/install-hyper-v-install-windows-11-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10\. Type **Y** to confirm and restart your PC. If not, enter N to exit the Command Prompt.
 
@@ -93,16 +120,10 @@ pause`
 `<code>DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V`
 3. The above command uses the Deployment Imaging Service and Management (DISM) tool to enable Microsoft Hyper-V and the necessary dependencies on your Windows computer. The operation completed successfully message means you have successfully enabled Hyper-V.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Disable Hyper-V on Windows 11 Home
 
 ![disable hyper v windows 11 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-windows-11-windows-features.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  You can disable Hyper-V in Windows 11 Home using the Windows Features dialog.
 
  To disable Hyper-V:
@@ -118,8 +139,12 @@ pause`
  Unlike Hyper-V, there is no batch script hack to install the sandbox app on the Home edition of Windows 11\. Instead, you can use one of the [Windows Sandbox Alternatives for Windows](https://www.makeuseof.com/windows-11-sandbox-alternatives/) to run and test applications in isolation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Run Hyper-V on Windows 11 Home
 
  Microsoft has officially restricted the use of Hyper-V to the Pro, Education, and Enterprise edition of the OS. However, a little tweak in the BIOS and a handy batch script can help you install Hyper-V on Windows 11 Home.
@@ -128,11 +153,26 @@ pause`
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2023-play-facebook-videos-on-tv-for-2024/"><u>[New] 2023 | Play Facebook Videos on TV for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-tailored-for-tech-savvy-audiences-unveil-the-youtuber-who-resonates-with-you-through-six-quizzes/"><u>[Updated] Tailored for Tech-Savvy Audiences Unveil the YouTuber Who Resonates with You Through Six Quizzes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/american-airlines-pilots-warn-travelers-of-potential-safety-issues-full-report-available-at-zdnet/"><u>American Airlines Pilots Warn Travelers of Potential Safety Issues – Full Report Available at ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/double-tap-for-apks-a-user-friendly-guide-in-win-11/"><u>Double-Tap for APKs: A User-Friendly Guide in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-no-more-files-errors-in-win-11/"><u>Eliminating 'No More Files' Errors in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-admin-level-execution-woes/"><u>Guiding Users Through Admin-Level Execution Woes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-15-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 15 Pro Max</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-green-screen-filming/"><u>In 2024, Mastering the Art of Green Screen Filming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-personalized-branding-made-easy-use-free-logo-templates-and-edit/"><u>In 2024, Personalized Branding Made Easy Use Free Logo Templates and Edit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-safety-sticky-notes-edition/"><u>Mastering File Safety: Sticky Notes Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximizing-fps-and-reducing-latency-effective-ways-to-upgrade-call-of-duty-warzone-performance/"><u>Maximizing FPS & Reducing Latency: Effective Ways to Upgrade Call of Duty Warzone Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-and-o365-sync-issues-a-quick-guide-to-fixing-errors/"><u>Win 11 and O365 Sync Issues: A Quick Guide to Fixing Errors</u></a></li>
+</ul></div>
+

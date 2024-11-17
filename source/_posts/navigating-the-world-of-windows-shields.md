@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of Windows Shields
-date: 2024-09-01T05:16:15.438Z
-updated: 2024-09-02T05:16:15.438Z
+date: 2024-11-10T19:18:44.524Z
+updated: 2024-11-17T18:48:55.391Z
 tags:
   - windows10
   - windows11
@@ -54,11 +54,15 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 ![set a screen saver on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-a-screen-saver-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you've decided on the screen saver, select a duration (in minutes) the system will wait for before triggering the screen saver. Also, check off the box next to **On resume, display logon screen** if you want. Finally, click **Apply > Ok**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Customize Screen Savers on Windows 11
 
  If you don't fancy Windows screen savers, it's easy to [customize the default screen savers](https://www.makeuseof.com/how-to-customize-windows-11-default-screensavers/) or go for something more technically and aesthetically relevant.
@@ -72,15 +76,23 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 ![customize windows screen saver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/customize-windows-screen-saver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Select Fliqlo from the dropdown menu and hit **Apply > Ok** to save the changes. Also, preview the screen saver to ensure it's working correctly.
 
  You can also [make your own screen saver for Windows](https://www.makeuseof.com/tag/5-ways-to-make-your-own-screensavers-windows/) if you like.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Have Screen Savers Changed?
 
  The first ever screen saver was developed by a programmer named John Socha-Leialoha and it was a simple program that displayed a blank screen whenever a computer was left idle for three minutes.
@@ -92,8 +104,12 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  Fast forward to today, screen savers have "almost" vanished, with Microsoft hiding them deep inside Windows settings. But still, people use them as they prefer watching visually appealing animations fill up their screen rather than glaring at a static, dead desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bringing Back the Old Days With Windows Screen Savers
 
  Although they are now obsolete, you can still choose to set up a screen saver on your Windows machine. LED and LCDs are more prevalent nowadays and outperform the old CRT monitors, but this doesn't mean screen savers won't help them.
@@ -106,11 +122,31 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  Are Windows screen savers still here for your entertainment? And if yes, how do you set up and customize one on Windows?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-accelerate-your-channel-growth-affordable-subscribers-available/"><u>[New] Accelerate Your Channel Growth - Affordable Subscribers Available</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-beef-to-brilliance-jake-pauls-youtube-transformation-for-2024/"><u>[New] From Beef to Brilliance Jake Paul’s Youtube Transformation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-steps-to-enhance-your-ability-as-an-effective-interviewer/"><u>[New] Steps to Enhance Your Ability as an Effective Interviewer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-evaluating-mr-beasts-financial-heft-for-2024/"><u>[Updated] Evaluating Mr. Beast's Financial Heft for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-steam-access-failure-on-win11-platform/"><u>Correcting Steam Access Failure on Win11 Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dusk-drawings-with-digital-darkness-in-paint/"><u>Dusk Drawings with Digital Darkness in Paint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-downloads-every-time-a-windows-guide-to-valorant-speed/"><u>Faster Downloads Every Time: A Windows Guide to Valorant Speed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995370352-how-i-fixed-my-steam-server-connectivity-woes-read-on-for-solutions/"><u>How I Fixed My Steam-Server Connectivity Woes – Read On for Solutions!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-automatically-delete-old-files-in-windows-10-and-11/"><u>How to Automatically Delete Old Files in Windows 10 & 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-elevate-your-photos-free-online-and-app/"><u>In 2024, Elevate Your Photos - FREE Online and App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-100-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor 100 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-transition-converting-your-tablet-to-windows-11s-taskbar/"><u>Seamless Transition: Converting Your Tablet to Windows 11'S Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-turn-off-windows-mobility-mode-win-11/"><u>Swift Steps to Turn Off Windows Mobility Mode (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-wow-reconnecting-wol-on-pc/"><u>Tackling WoW: Reconnecting WoL on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-windows-update-hurdles-quick-solutions/"><u>Troubleshoot: Windows Update Hurdles - Quick Solutions!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winxvideo-ai-the-ultimate-solution-for-high-quality-screenshots-webcam-footage-and-audio-capture/"><u>Winxvideo AI: The Ultimate Solution for High-Quality Screenshots, Webcam Footage, and Audio Capture</u></a></li>
+</ul></div>
+

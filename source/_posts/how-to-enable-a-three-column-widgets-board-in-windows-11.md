@@ -1,7 +1,7 @@
 ---
 title: How to Enable a Three-Column Widgets Board in Windows 11
-date: 2024-09-01T05:17:26.996Z
-updated: 2024-09-02T05:17:26.996Z
+date: 2024-11-15T19:13:47.025Z
+updated: 2024-11-17T19:24:33.512Z
 tags:
   - windows10
   - windows11
@@ -39,15 +39,29 @@ Simply put, they have no separation in the two-column Widgets view.
  For convenience, set up ViveTool and its extracted contents in the**C:/ViVeTool** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Enable the New Widgets Panel in Windows 11
 
 ![Screenshot showing how to enable three column widget panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now that you have successfully set up ViveTool on your PC, you can jump straight to the steps required to enable the specific feature ID for the three-column Widgets view.
 
 1. Open Command Prompt as an Administrator (see[how to open Command Prompt as Administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for steps).
@@ -60,9 +74,6 @@ vivetool /enable /id:43028164
 
  Now, launch the Widgets panel from the taskbar. If you do not have the Widgets icon in the taskbar, you can tweak the taskbar setting and bring that icon to your taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Will the Widgets Panel Be Available for Other Insider Channels?
 
  Every feature that Microsoft tests in Canary Channel build may or may not make it to other Insider Channels. The new Widgets Board is no exception.
@@ -70,37 +81,38 @@ vivetool /enable /id:43028164
  But since Microsoft has officially confirmed that it will be available to more Insiders in the coming days, we are hopeful it will make its way to other channels and, eventually, to a stable Windows 11 release.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Will Widgets Panel Always Have Three Columns in the Future?
 
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
 
  However, we cannot rule out the possibility of Microsoft making the larger Widgets board optional in the future, allowing users to decide which suits them best.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## New Widgets Board in Windows 11, Enabled
 
  The new Widgets panel offers a more organized canvas and is super simple to enable using ViveTool. After enabling the new Widgets board, every other setting remains the same.
 
  In other words, you can tweak Windows 11's Widgets settings to get the most out of it even when it shows all your widgets and the feed content in a single panel.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +121,22 @@ vivetool /enable /id:43028164
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-all-you-need-to-know-about-the-youtube-shorts-fund-for-2024/"><u>[New] All You Need to Know About the YouTube Shorts Fund for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-good-to-great-transformative-tactics-with-studio/"><u>[New] From Good to Great Transformative Tactics with Studio</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-nighttime-shots-iphone-photo-tactics/"><u>[Updated] Mastering Nighttime Shots IPhone Photo Tactics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-video-top-10-camcorders-reviewed/"><u>2024 Approved Mastering Video - Top 10 Camcorders Reviewed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-psychology-behind-successful-facebook-gifting-campaigns/"><u>2024 Approved The Psychology Behind Successful Facebook Gifting Campaigns</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ovative-youtube-thumbnail-designers-for-aspiring-filmmakers/"><u>5 Innovative YouTube Thumbnail Designers for Aspiring Filmmakers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-xs-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone XS - 4 Easy Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-up-to-speed-with-quick-copy-paste-in-powertoys/"><u>Get Up to Speed With Quick Copy-Paste in PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-d3dx939dll-missing-error-on-windows-11/"><u>How to Fix the D3DX9_39.dll Missing Error on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f15-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F15 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-media-errors-in-win11/"><u>Mastering the Art of Fixing Media Errors in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimized-file-picking-toggle-windows-11-checkboxes/"><u>Optimized File Picking: Toggle Windows 11 Checkboxes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-absence-of-power-elapsed-display-in-windows-11/"><u>Resolving Absence of Power Elapsed Display in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-windows-group-policy-interpretation-3-ways/"><u>The Essential Guide to Windows Group Policy Interpretation (3 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-to-disabling-gpu-aided-process-ordering-in-widno/"><u>The Guide to Disabling GPU-Aided Process Ordering in WIDNO</u></a></li>
+</ul></div>
 

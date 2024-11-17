@@ -1,7 +1,7 @@
 ---
 title: Fixing Unheard Sound From Devices on Microsoft Windows
-date: 2024-08-28T01:20:30.972Z
-updated: 2024-08-29T01:20:30.972Z
+date: 2024-11-12T16:22:09.164Z
+updated: 2024-11-17T20:20:02.532Z
 tags:
   - windows10
   - windows11
@@ -59,25 +59,31 @@ To run the troubleshooter:
 3. In**Computer Management** , click on**Local User and Groups.**  
 ![computer management windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/computer-management-windows-11.jpg)
 4. In the right pane, double-click on**Groups** to view all the local accounts.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![local users and groups administrator properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/local-users-and-groups-administrator-properties.jpg)
 5. Select and right-click on the**Administrators** account and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 
 1. Click the**Add** button in the**Administrator Properties** dialog.
 2. ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 3. Next, type**network service** and click**Check Names** . It should change the object name to**NETWORK SERVICE.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![add network service local administrator group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group.jpg)
 4. Click**OK** to add network service to the local user group.
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
 6. Click the**Add** button again and repeat the steps to add**Local Services** to the group as well.
 7. Once done, click**Apply** and**OK** to save the changes.
@@ -85,6 +91,13 @@ No advertising on the website.
  If you use the Windows Home edition, you can use Command Prompt to add Local Network and Local Services to the local administrator group. Here's how to do it.
 
 ![add network service local administrator group command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Press the**Win** key and type**cmd** .
 2. Right-click on**Command Prompt** and select**Run as administrator.**
@@ -95,9 +108,6 @@ No advertising on the website.
 5. If both the commands are executed successfully, type**exit** and press**Enter** to close Command Prompt.
 6. Restart your PC and check if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Uninstall the Audio Device and Driver
 
  Temporary glitches with the audio device driver can cause this error on Windows. To fix the issue, uninstall the audio device and the associated driver from Device Manager. After the restart, Windows will automatically reinstall the driver to resolve the issue.
@@ -110,18 +120,32 @@ To uninstall an audio device:
 4. Right-click on your audio device, like**Realtek** **Audio** .  
 ![uninstall audio device device manager 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager-1.jpg)
 5. Select**Attempt to remove the driver for this device** option in the**Uninstall Device** dialog.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![uninstall audio device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager.jpg)
 6. Click**Uninstall** to remove the device.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Once uninstalled, restart your PC. Windows will automatically install the necessary drivers for your audio device.
 
  If the issue persists, manually reinstall the audio device driver from the manufacturer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Manually Reinstall the Audio Device Driver
 
@@ -140,22 +164,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  With the automatic driver download disabled, reinstall the existing driver to fix the no audio issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Fixing the "No Speaker or Headphones Are Plugged In" Error
 
  The error often occurs due to a bad driver update. To fix it, you can perform a rollback or manually reinstall the audio device driver. In addition, try to update the audio device driver from the manufacturer's website.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +181,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-path-to-powerdirector-proficiency-2024-edition/"><u>[New] The Ultimate Path to PowerDirector Proficiency - 2024 Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-ajeys-youtube-earnings-insight-2023/"><u>[Updated] In 2024, Ajey's YouTube Earnings Insight - 2023</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-from-footage-to-frames-screen-and-webcam-capturing-with-vimeo/"><u>[Updated] In 2024, From Footage to Frames Screen & Webcam Capturing with Vimeo</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-stop-blank-screen-problems-with-obs-applications/"><u>[Updated] In 2024, Stop Blank Screen Problems with OBS Applications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-methods-to-add-a-secure-link-to-your-tiktok-profile/"><u>[Updated] Masterful Methods to Add a Secure Link to Your TikTok Profile</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ishowu-audio-capture-download-and-review/"><u>2024 Approved IShowU Audio Capture Download and Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-starter-guide-8-easy-youtube-money-makers/"><u>2024 Approved Starter Guide 8 Easy YouTube Money-Makers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elevate-video-conferencing-skills-google-meet-aesthetics-guide/"><u>Elevate Video Conferencing Skills Google Meet Aesthetics Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-blocked-experience-in-roblox-addressing-account-restrictions/"><u>Fixing Blocked Experience in Roblox: Addressing Account Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-crash-of-windows-update-error-x712/"><u>Fixing the Crash of Windows Update Error X712</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-comics-an-intuitive-approach-for-win11-users/"><u>Navigating Comics: An Intuitive Approach for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-blockage-issue-on-win11/"><u>Resolving Microsoft Store Blockage Issue on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-correcting-severe-browser-js-problem-in-discord/"><u>Strategies for Correcting Severe Browser JS Problem in Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-efficient-qr-codes-on-windows-systems/"><u>Unlocking Secrets: Efficient QR Codes on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-secure-testing-solution-enabling-and-configuring-sandbox/"><u>Win 11'S Secure Testing Solution: Enabling and Configuring Sandbox</u></a></li>
+</ul></div>
 

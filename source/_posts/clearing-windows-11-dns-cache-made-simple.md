@@ -1,7 +1,7 @@
 ---
 title: Clearing Windows 11 DNS Cache Made Simple
-date: 2024-11-02T23:50:26.770Z
-updated: 2024-11-07T11:33:24.625Z
+date: 2024-11-15T18:14:45.715Z
+updated: 2024-11-17T16:25:54.820Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/4db798dc8e85e2daadf391573bc5ef81d7d7a8b53
 
  The DNS resolver cache can become outdated or corrupt over time which can pose connectivity issues. There is also a looming risk of[DNS cache poisoning](https://www.makeuseof.com/tag/what-is-dns-cache-poisoning/) , which is why you should make it a habit to clean the DNS cache periodically.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Flush the DNS Cache on Windows 11
 
  There are multiple methods to flush the DNS cache on Windows 11\. You can use the Run command box, Command Prompt, or even PowerShell. In addition, you can use a batch file to clear the DNS cache in a few clicks, any time you want. Here are the four ways to clear DNS on Windows 11:
@@ -47,17 +54,17 @@ To flush the DNS cache using the Run command box, do as follows:
 3. Press**Ctrl + Shift + Enter** keys at once. The Command Prompt will launch, execute the flush command, and close automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using CMD
@@ -90,23 +97,17 @@ Repeat the following steps to create a DNS-clearing batch file:
 ![Flush DNS Using A Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-a-batch-file.jpg)
 3. Press**Ctrl + S** to save the file. Enter the name “**flushDNS.bat** ” and keep the**Save as type** as**All Files** .
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click on the**Save** button.
 5. Now go to the batch file location and double-click on it.
 6. The Command Prompt will launch and execute the "**/** flushdns" command.
 7. Type**exit** and press the**Enter** key to close the command prompt window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Flush Your Browser's DNS Records
 
@@ -119,13 +120,6 @@ Repeat the following steps to create a DNS-clearing batch file:
 3. Navigate to the**Host resolver cache** section. Click on the**Clear host cache** button to clear cached DNS records in the Chrome browser.
 
  The process to clear a browser's DNS cache may differ with other browsers like Safari, Opera, and Mozilla. You will have to locate the DNS settings and then wipe out the DNS cache.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keep Your DNS Cache Clean on Windows
 
@@ -146,19 +140,16 @@ Repeat the following steps to create a DNS-clearing batch file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-holiday-memories-revisited-summertimes-best-vacation-flicks/"><u>[New] Holiday Memories Revisited Summertime’s Best Vacation Flicks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-video-builder-how-to-create-video-ads-for-free/"><u>[New] In 2024, YouTube Video Builder How to Create Video Ads for Free?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-minimal-time-maximum-effect/"><u>[New] Minimal Time, Maximum Effect</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-visibility-comprehensive-guide-to-video-marketing-titles/"><u>[Updated] In 2024, Elevate Visibility Comprehensive Guide to Video Marketing Titles</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-itunes-video-capture-techniques-for-2024/"><u>[Updated] Mastering iTunes Video Capture Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-sticky-context-menus-in-windows-11-edition/"><u>Addressing Sticky Context Menus in Windows 11 Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g-stylus-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/dive-into-savvy-bargain-hunting-with-oodles-free-classified-network/"><u>Dive Into Savvy Bargain Hunting with Oodle's Free Classified Network</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-configure-end-task-feature-for-efficient-task-execution-windows-11/"><u>How to Configure End Task Feature for Efficient Task Execution (Windows 11)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-compiling-the-top-windows-11-video-capture-tools/"><u>In 2024, Compiling the Top Windows 11 Video Capture Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-definitive-window-by-window-walkthrough-of-hdr-in-windows-11/"><u>The Definitive Window-by-Window Walkthrough of HDR in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-vivid-graphics-on-your-windows-machine/"><u>Unleash Vivid Graphics on Your Windows Machine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unplugging-problems-addressing-frequent-ps4-disconnection-in-pc/"><u>Unplugging Problems: Addressing Frequent PS4 Disconnection in PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-mysteries-of-microsofts-copilot-key-in-windows-11/"><u>Unveiling the Mysteries of Microsoft's Copilot Key in Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-transforming-social-media-nostalgia-how-to-edit-lookback/"><u>[New] 2024 Approved Transforming Social Media Nostalgia How to Edit Lookback</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/est-camera-lenses-for-youtube-for-2024/"><u>[New] Best Camera Lenses for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-demystifying-youtubes-video-editing-power/"><u>[New] In 2024, Demystifying YouTube's Video Editing Power</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284415524-digiarty-dvd/"><u>Digiarty公式記事: DVDコピーガイドラインと規則 - 最新セキュリティ情報</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-method-integrating-airpods-with-windows/"><u>Efficient Method: Integrating AirPods with Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-vivo-s17e-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Vivo S17e.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-moves-for-unlocking-the-calculator-in-windows-11/"><u>Key Moves for Unlocking the Calculator in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-bypass-windows-admin-installation-restriction-error/"><u>Steps to Bypass Windows 'Admin Installation Restriction' Error</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-infinix-note-30-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Infinix Note 30 Pro Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10win11-troubleshooting-hardware-recognition-issues/"><u>Win10/Win11: Troubleshooting Hardware Recognition Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-and-artificial-intelligence-generating-vibrant-ai-graphics-paint-cocreator/"><u>Windows 11 & Artificial Intelligence: Generating Vibrant AI Graphics (Paint Cocreator)</u></a></li>
 </ul></div>
 

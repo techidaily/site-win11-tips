@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Windows PCs File Synchronization via AOEMi
-date: 2024-11-05T07:30:01.444Z
-updated: 2024-11-06T20:54:10.630Z
+date: 2024-11-15T20:29:45.369Z
+updated: 2024-11-17T17:29:20.798Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 
 ![AOMEI Home Screen UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Home-Screen-UI.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up AOMEI Basic Sync
 
  An AOMEI basic sync allows you to easily sync changed files from a given source directory to the destination directory.
@@ -44,25 +51,26 @@ To perform a basic sync:
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.
 5. ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)  
  For a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.  
-![AOMEI Folder Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Folder-Share.jpg)
-6. You can also click**Options** to configure various settings for your backup such as email notifications, comments, pre- and post-backup scripts to be run as well as options to sync deletions between the source and destination directories.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![AOMEI Folder Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Folder-Share.jpg)
+6. You can also click**Options** to configure various settings for your backup such as email notifications, comments, pre- and post-backup scripts to be run as well as options to sync deletions between the source and destination directories.
 
 7. You can click on**Schedule Sync** to set the backup as a scheduled task to be run whenever you desire.  
 ![AOMEI Schedule Sync](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Schedule-Sync.jpg)
 8. Finally, click**Start Sync** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Two-Way Sync
@@ -93,29 +101,22 @@ Then let's manually run the sync operation.
 
 ![Two Way Sync Manual Operation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Two-Way-Sync-Manual-Operation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Within a few seconds, our file appears in the destination folder.
 
 ![AOMEI Sync Test Result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Sync-Test-Result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Real-Time Sync
@@ -155,17 +156,14 @@ Within a few seconds, our file appears in the destination folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-elite-list-10-best-cases-for-your-gopro/"><u>[New] 2024 Approved The Elite List 10 Best Cases for Your GoPro</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-dissecting-the-potential-of-inshots-video-craft-for-2024/"><u>[New] Dissecting the Potential of InShot's Video Craft for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-prime-maker-of-free-fb-photovideo-content/"><u>[New] In 2024, Prime Maker of FREE FB Photo/Video Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-snapchat-to-subscribers-jake-pauls-youtube-quest/"><u>[New] Snapchat to Subscribers Jake Paul’s Youtube Quest</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-visualizing-vigor-motion-blur-on-faces-in-picsart/"><u>[Updated] Visualizing Vigor Motion Blur on Faces in Picsart</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-definition-hits-top-8k-cameras-for-professionals/"><u>2024 Approved High-Definition Hits Top 8K Cameras for Professionals</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winx-mediatrans-pciphone-ipad/"><u>使用WinX MediaTrans™提升数字内容管理 - 专业PC到iPhone iPad转移方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-productivity-pinning-gmail-icons-to-your-windows-taskbar/"><u>Maximizing Productivity: Pinning Gmail Icons to Your Windows Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-live-updates-for-win-11s-task-monitor/"><u>Optimize Live Updates for Win 11'S Task Monitor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-obs-recording-error-on-windows-11/"><u>Quick Fixes for OBS Recording Error on Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/sim-savvy-savant-techniques-a-complete-guide-to-capturing-the-essence-of-sims-gameplay-for-2024/"><u>Sim-Savvy Savant Techniques A Complete Guide to Capturing the Essence of Sims Gameplay for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-with-these-non-windows-apps/"><u>Unleash Potential With These Non-Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/20-tactics-for-disabling-windows-11/"><u>20 Tactics for Disabling Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-tips-to-tell-if-your-pc-needs-restarting/"><u>5 Tips to Tell if Your PC Needs Restarting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-pc-choose-winning-apps-of-2023/"><u>Accelerate Your PC: Choose Winning Apps of 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-your-keystrokes-typingaid-techniques/"><u>Amplify Your Keystrokes - TypingAid Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-s18-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo S18 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/deciphering-the-twitter-archive-a-beginners-tutorial/"><u>Deciphering the Twitter Archive A Beginner's Tutorial</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-12-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 12</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prodigious-editing-power-utilizing-inshot-on-devices/"><u>In 2024, Prodigious Editing Power Utilizing Inshot on Devices</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-oppo-a18-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Oppo A18 fingerprint</u></a></li>
 </ul></div>
 

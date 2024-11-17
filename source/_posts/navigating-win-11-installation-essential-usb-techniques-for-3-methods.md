@@ -1,7 +1,7 @@
 ---
 title: "Navigating Win 11 Installation: Essential USB Techniques for 3 Methods"
-date: 2024-10-31T14:01:25.725Z
-updated: 2024-11-06T17:50:22.329Z
+date: 2024-11-11T16:27:21.965Z
+updated: 2024-11-17T18:34:18.987Z
 tags:
   - windows10
   - windows11
@@ -42,19 +42,6 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
 
  Once you have the ISO file downloaded, follow one of the methods below to create a Windows 11 bootable USB drive.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. How to Create a Windows 11 Bootable USB Using Rufus
 
 ![create windows 11 bootable usb drive with rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/create-windows-11-bootable-usb-drive-with-rufus.png)
@@ -80,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
 
  Once done, Rufus will show a success message. Now you can use the [Windows 11 bootable drive to install the OS](http://www.makeuseof.com/how-to-clean-install-windows-11/) on any compatible system.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Create a Windows 11 Bootable USB Drive Using the Media Creation Tool
 
  The media creation tool is Microsoft's in-house solution to create an installation media. You can use the media creation tool to create a bootable USB flash drive or download the ISO file to your local drive. Since it needs to download the ISO to create a bootable drive, you cannot use an existing Windows ISO image with this tool.
@@ -99,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
 4. Next, run the **Mediacreationtool.exe** file and click **Yes** if prompted by UAC. The tool may take a few seconds to launch, so wait till you see the **Setup wizard.**
 5. Click the **Accept button** to agree to the terms.  
 ![select language and edition Create bootable drive windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-langugae-and-edition.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. The media creation tool will automatically select the **Edition** and **Language** to match the current Windows configuration on your PC. To change the language, uncheck **Use the recommended options for this PC** box and select your preferred language from the drop-down menu.
 2. Choose your options and click **Next**.  
@@ -122,16 +109,10 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
 3. In the Command Prompt window, type the following command and hit enter to launch the **Windows Diskpart** utility.  
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `DISKPART`
@@ -151,6 +132,20 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
 6. Command Prompt will show the details of your USB drive.  
 ![format usb drive windows 11 cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/format-usb-drive-windows-11-cmd.png)
 7. Type the following command and hit enter to activate the partition:  
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Active`
 8. Then type the following command to format the USB drive. It is important to format the drive in NTFS format as the [FAT32 format will cause the incorrect parameter error](https://www.makeuseof.com/windows-fix-parameter-is-incorrect-error/).  
 `FORMAT FS=NTFS LABEL=&ldquo;BootableUSB&rdquo; QUICK OVERRIDE`
@@ -161,10 +156,10 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
 ![mount ISO image Windows 11 Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/mount-ISO-image-Windows-11-Command-Prompt.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. To do this, type the following command and hit **Enter** to mount the Windows 11 ISO file:  
@@ -197,10 +192,10 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
  That’s it. Now you can use the USB bootable drive to clean install Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Multiple Ways to Create a Windows 11 Bootable USB Drive
@@ -211,23 +206,6 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
 
  Microsoft makes it easy to create an installation media with its Media Creation Tool. In addition, you can also use Rufus and the Command Prompt to create one. In this guide, we show you the three different ways to create a USB flash drive installer for Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-broadcast-like-a-ghost-anonymous-instagram-strategies-for-2024/"><u>[Updated] Broadcast Like a Ghost Anonymous Instagram Strategies for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-cutting-edge-streaming-top-5-tools-for-capturing-every-meeting-for-2024/"><u>[Updated] Cutting-Edge Streaming Top 5 Tools for Capturing Every Meeting for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gender-diversity-in-streaming-celebrating-top-10-females-for-2024/"><u>[Updated] Gender Diversity in Streaming Celebrating Top 10 Females for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-secure-method-storing-tweet-imagesvideos-on-your-mobile/"><u>[Updated] In 2024, Secure Method Storing Tweet Images/Videos on Your Mobile</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-childrens-movie-recommendations-for-disneyplus-in-july-2024/"><u>Best Children's Movie Recommendations for Disney+ in July 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-productivity-with-improved-windows-tiling/"><u>Boost Productivity with Improved Windows Tiling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-window-11-style-hacks-and-themes/"><u>Exclusive Window 11 Style Hacks & Themes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/startup-to-stardom-with-youtube-seo-basics-for-2024/"><u>From Startup to Stardom with YouTube SEO Basics for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-format-missing-error-on-pc-windows/"><u>Overcoming 'Format Missing' Error on PC Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-overcome-post-update-windows-10-booting-failures-with-these-fixes/"><u>Solved! Overcome Post-Update Windows 10 Booting Failures With These Fixes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/squashing-the-issue-insufficient-icloud-capacity-and-how-to-expand-it/"><u>Squashing The Issue: Insufficient iCloud Capacity and How To Expand It</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-solar-powered-presents-perfect-for-eco-friendly-celebrations-zdnet/"><u>Top 5 Solar-Powered Presents Perfect for Eco-Friendly Celebrations - ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-accessibility-issues-of-purchased-software-on-ms-marketplace/"><u>Unlocking Accessibility Issues of Purchased Software on MS Marketplace</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -235,3 +213,27 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/10-new-windows-11-perks-after-version-update/"><u>10 New Windows 11 Perks After Version Update</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-and-easy-filming-techniques-the-best-5-hacks-unveiled/"><u>2024 Approved Fast & Easy Filming Techniques – The Best 5 Hacks Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-there-are-no-startup-items-to-display-in-the-task-manager-error-on-windows/"><u>8 Ways to Fix There Are No Startup Items to Display in the Task Manager Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-beginners-guide-to-using-windows-canary/"><u>A Step-by-Step Beginner’s Guide to Using Windows' Canary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-os-public-ip-command-prompt-tricks/"><u>Accessing OS Public IP: Command Prompt Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-key-components-not-found-error-in-win11-environment/"><u>Addressing Key Components Not Found Error in Win11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-mic-during-screencast-with-powerpoint/"><u>Addressing Missing Mic During Screencast with PowerPoint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-operational-utorrent-installer-on-pcs/"><u>Addressing Non-Operational uTorrent Installer on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ai-integration-microsofts-new-taskbar-helper-in-windows-11-streamlines-tasks/"><u>AI Integration: Microsoft's New Taskbar Helper in Windows 11 Streamlines Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-windows-flexibility-with-additional-menus/"><u>Boost Windows Flexibility with Additional Menus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/central-luts-in-action-movie-visuals-enhancement-for-2024/"><u>Central Luts in Action Movie Visuals Enhancement for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/comprehensive-analysis-of-tech-products-by-toms-hardware-experts/"><u>Comprehensive Analysis of Tech Products by Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-20-great-free-options-for-web-based-photo-tinkering/"><u>In 2024, 20 Great Free Options for Web-Based Photo Tinkering</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-y78-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo Y78 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oneplus-ace-3-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For OnePlus Ace 3 Phones</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcpx-plugin-powerhouse-top-10-free-and-paid-options/"><u>New In 2024, FCPX Plugin Powerhouse Top 10 Free and Paid Options</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-discord-overlay-issues-in-windows-environment/"><u>Resolving Discord Overlay Issues in Windows Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205054994-trouble-with-win-10s-long-lasting-goodbyes-here-are-the-fixes-you-need/"><u>Trouble with Win 10'S Long-Lasting Goodbyes? Here Are the Fixes You Need</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zenith-resolution-for-virtual-voyages/"><u>Zenith Resolution for Virtual Voyages</u></a></li>
+</ul></div>
+

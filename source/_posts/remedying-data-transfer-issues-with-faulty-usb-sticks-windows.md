@@ -1,7 +1,7 @@
 ---
 title: Remedying Data Transfer Issues with Faulty USB Sticks (Windows)
-date: 2024-11-02T21:05:53.939Z
-updated: 2024-11-07T11:56:37.217Z
+date: 2024-11-15T17:20:37.922Z
+updated: 2024-11-17T17:37:56.911Z
 tags:
   - windows10
   - windows11
@@ -45,20 +45,27 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 
  If Windows still can't find any drivers, then you can try locating them yourself. Take note of the manufacturer and model number
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Perform a Malware Scan
 
 ![malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Malware can create all kinds of problems on your PC. From the smallest of bugs to big-blown corruptions—malware can do it all. Problems with your USB are another such problem that can arise because of malware.
 
  In most cases, a [quick scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is often enough to find and fix different malware on your PC. So give Microsoft Defender a go and see if that fixes the error.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Format Your USB Stick
 
@@ -71,22 +78,15 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  And that’s it—when your USB stick will be formatted, you should be able to transfer your USB data to and from your Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Restart Your PC
 
 ![windows booting-up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-booting-up.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve tried all the above methods and none of them have worked so far, it’s likely that the problem is not with the USB stick but with the PC. If that's the case the first thing we'd like to recommend is to restart your PC. You’d be shocked how a simple reboot is often enough to fix many abrupt issues in a PC.
 
@@ -109,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  If none of them work, then it’s very likely a problem with the slot. Getting your PC examined by a tech specialist will be helpful in those cases.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Ways to Transfer Your Data to and From a Windows PC
@@ -121,23 +121,6 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 
  While USB data transferring errors happen for a variety of reasons, definite fixes exist that will get your copying back to normal in time. We’ve gone through a host of methods to get rid of debilitating errors for good, and below present you with the best one. Let’s start with the simplest one.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-earning-estimates-for-youtube-creators-adsense-pay-out-per-1000-viewers/"><u>[Updated] Earning Estimates for YouTube Creators AdSense Pay-Out per 1,000 Viewers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-windows-policy-options-a-triad-exploration/"><u>Deciphering Window's Policy Options: A Triad Exploration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decrypting-windows-credential-access-woes/"><u>Decrypting Windows Credential Access Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-obs-studios-an-unspecified-error-occurred-while-recording-error-on-windows-11/"><u>How to Fix OBS Studio's An Unspecified Error Occurred While Recording Error on Windows 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-digital-delights-the-finest-15-comedic-channels-on-youtube/"><u>In 2024, Digital Delights The Finest 15 Comedic Channels on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-mastering-the-art-of-audio-capture-sans-microphone/"><u>In 2024, Mastering the Art of Audio Capture Sans Microphone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-12-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 12 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-editors-for-virtual-backgrounds-spectrumswitch-studio/"><u>In 2024, Top Editors for Virtual Backgrounds SpectrumSwitch Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-memory-woes-a-tactical-approach/"><u>Navigating Windows Memory Woes: A Tactical Approach</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recover-ethernet-malfunction-on-optibay-slidecaster/"><u>Recover Ethernet Malfunction on OptiBay Slidecaster</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-5-techniques-pour-ameliorer-la-qualite-dimage-en-2024/"><u>Top 5 Techniques Pour Améliorer La Qualité D'Image en 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-wisdom-the-4-best-practices-for-user-suppression/"><u>Unlocking Windows Wisdom: The 4 Best Practices for User Suppression</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-detach-audio-in-premiere-pro-step-by-step-guide-for-2024/"><u>Updated How to Detach Audio in Premiere Pro? Step by Step Guide for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,3 +128,24 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-techniques-in-no-cost-windows-software-recording-for-2024/"><u>[New] Expert Techniques in No-Cost Windows Software Recording for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game-for-2024/"><u>[Updated] Top Streamers Choice Does VirusMix or WireCast Rule the Game for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-adapt-to-facebooks-algorithm-shift-now/"><u>2024 Approved Adapt to Facebook's Algorithm Shift Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-reasons-why-windows-11-is-better-than-macos/"><u>6 Reasons Why Windows 11 Is Better Than macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-microsoft-project-keyboard-shortcuts/"><u>A Complete Guide to Microsoft Project Keyboard Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-step-by-step-plan-msoffice-install-on-win11/"><u>A Complete Step-by-Step Plan: MSOffice Install on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-screen-separation-issues/"><u>Addressing Windows Screen Separation Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginning-on-time-adjusting-startup-services-for-windows-11/"><u>Beginning on Time: Adjusting Startup Services for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bestowing-wondrous-widgets-onto-context-menu/"><u>Bestowing Wondrous Widgets Onto Context Menu</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/enabling-screenshots-and-recordings-of-snaps/"><u>Enabling Screenshots and Recordings of Snaps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-6-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/perfect-preservation-how-to-flawlessly-change-mod-audiovideo-formats-to-mp4-for-top-sound-and-visual-clarity/"><u>Perfect Preservation: How to Flawlessly Change MOD Audio/Video Formats to MP4 for Top Sound and Visual Clarity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-11-compatibility-issues-for-non-functional-headphones/"><u>Solving Windows 11 Compatibility Issues for Non-Functional Headphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719356387702-stuck-google-chrome-on-win11-try-these-immediate-actions/"><u>Stuck Google Chrome on Win11? Try These Immediate Actions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-handbook-for-vr-travelers/"><u>The Ultimate Handbook for VR Travelers</u></a></li>
+</ul></div>
+

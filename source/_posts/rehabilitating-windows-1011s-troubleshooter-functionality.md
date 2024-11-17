@@ -1,7 +1,7 @@
 ---
 title: Rehabilitating Windows 10/11'S Troubleshooter Functionality
-date: 2024-11-01T18:49:57.690Z
-updated: 2024-11-06T23:14:50.572Z
+date: 2024-11-13T20:34:20.303Z
+updated: 2024-11-17T17:33:52.489Z
 tags:
   - windows10
   - windows11
@@ -43,29 +43,9 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 ![The Cryptographic Services Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cryptographic-services-window.jpg)
 5. Click on the **Apply** and **OK** options to set your selected settings.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Repeat the previous steps for the Windows Update, Windows Installer, and the Background Intelligent Transfer Service.
 
  If those services are already running and set to an automatic startup, try restarting them. Right-click the service in the Services window and select a **Restart** option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Flush the DNS Cache and Reset the Winsock Catalog
 
@@ -76,32 +56,34 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 `ipconfig /flushdns`  
 ![The ipconfig /flushdns command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ipconfig-flushdns-command.jpg)
 3. To reset Winsock, execute this command:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `netsh winsock reset`  
 ![The netsch winsock reset command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netsch-winsock-reset-command.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Security Software and Firewalls
 
  Many security software packages incorporate firewalls that can sometimes block Windows troubleshooters from connecting with Microsoft servers. If a third-party security app is on your PC, disable that software’s firewall component to ensure it can’t interfere with Windows troubleshooters. Then try running the troubleshooter with the firewall component disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Rename the Catroot2 and SoftwareDistribution Folders
 
@@ -132,13 +114,6 @@ net start bits
   
 net start msiserver`
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Modify TEMP and TMP Environment Variables
 
  Troubleshooter issues can also arise when the TEMP and TMP environment variables have been changed from their default values. To address this, set the TMP and TEMP environment variables to default values as follows:
@@ -149,7 +124,22 @@ net start msiserver`
 4. Press the **Environment Variables** button on the **Advanced** tab.  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/environment-variables-button.jpg)
 5. Check the **TEMP** and **TMP** values in the System variables box. If they’re not set to **C:\\Windows\\Temp**, proceed with the next few steps to edit their values.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Environment Variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/environment-variables-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Double-click **TEMP** in the System variables box.
 2. Erase the text in the **Variable** **value** box. Then input **%SystemRoot%\\TEMP** inside the **Variable** **value** box.  
@@ -159,10 +149,10 @@ net start msiserver`
 5. Select **OK** on the Environment Variables window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Enable Troubleshooters in Group Policy Editor
@@ -176,6 +166,14 @@ net start msiserver`
 4. Click **Enabled** to re-enable troubleshooters if the policy is disabled.  
 ![The Troubleshooting: Allow users to access and run Troubleshooting Wizards policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-allow-users-to-access-and-run-troubleshooters.jpg)
 5. Press the **Apply** \> **OK** buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Repeat the previous three steps for the **Troubleshooting: Allow users to access online troubleshooting content** and **Configure Security Policy for Scripted Diagnostics** policies.
 
 ## 8\. Utilize the System Restore Tool
@@ -187,10 +185,10 @@ net start msiserver`
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-system-restore-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Utilizing System Restore comes with this caveat: software installed after a restoration date gets removed. This means you may need to reinstall some lost software after performing a restore. Clicking **Scan for affected programs** in System Restore shows you what software a restore point deleted.
@@ -203,36 +201,11 @@ net start msiserver`
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix Your Windows Issues With the Troubleshooters Once More
 
  Although most users can probably live without Windows troubleshooters, there’s no denying their usefulness for fixing computing issues. The potential resolutions above will likely resolve most errors that prevent Windows troubleshooters from initiating their troubleshooting. Then you can utilize the troubleshooters to help you fix Windows 10 or 11 issues again.
 
  The full error messages and codes can vary slightly and appear after users select to run the troubleshooters. Consequently, the affected Windows troubleshooters don’t work. This is how you can fix troubleshooters not working on Windows 11/10 PCs.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-charting-your-course-to-certification-a-guide-to-verified-partnership/"><u>[Updated] In 2024, Charting Your Course to Certification A Guide to Verified Partnership</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-the-structure-and-significance-of-windows-batch-files/"><u>Dissecting the Structure & Significance of Windows Batch Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-text-view-windows-11-notepad-setup-for-focus/"><u>Elevate Your Text View: Windows 11 Notepad Setup for Focus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-accessing-and-using-winnettoolbox/"><u>Essential Tips: Accessing and Using WinNetToolbox</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-resolve-crashes-in-mount-and-blade-ii-bannerlord/"><u>How to Prevent and Resolve Crashes in Mount & Blade II: Bannerlord</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fix-realigning-your-icons/"><u>Immediate Fix: Realigning Your Icons</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/masterclass-review-asus-zephyrus-g1e-and-its-dominance-in-gaming-laptops/"><u>Masterclass Review: ASUS Zephyrus G1e and Its Dominance in Gaming Laptops</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-desktop-instagram-video-upload-guide-for-2024/"><u>Mastering Desktop Instagram Video Upload Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-error-0xc0000001-on-windows/"><u>Mastering the Art of Fixing Error 0XC0000001 on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/maximizing-audio-performance-enhancing-speaker-volume-on-windows-11/"><u>Maximizing Audio Performance: Enhancing Speaker Volume on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-frozen-steam-interface-in-winsteam/"><u>Remedying the Frozen Steam Interface in WinSteam</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-7-audiotrack-issues-service-not-operational-tips/"><u>Resolving Windows 7 Audiotrack Issues - Service Not Operational Tips</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -241,3 +214,23 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[Updated] How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-professional-techniques-for-superior-audacity-sessions-for-2024/"><u>[Updated] Professional Techniques for Superior Audacity Sessions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-fixing-windows-error-xffffff/"><u>A Comprehensive Guide to Fixing Windows' Error XFFFFFF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-guide-to-mastering-windows-11s-search-functionality/"><u>A Quick Guide to Mastering Windows 11'S Search Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11-taskbar-scaling/"><u>Adjusting Windows 11 Taskbar Scaling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-revenue-flow-in-microsofts-windows-11-landscape/"><u>Analyzing Revenue Flow in Microsoft's Windows 11 Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-typing-velocity-with-windows-powertools/"><u>Boost Typing Velocity with Windows' PowerTools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-natural-language-processing-differ-from-machine-learning-techniques/"><u>How Does Natural Language Processing Differ From Machine Learning Techniques?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-easily-update-your-video-graphics-adapter-drivers-step-by-step/"><u>How to Easily Update Your Video Graphics Adapter Drivers – Step by Step</u></a></li>
+<li><a href="https://discover-best.techidaily.com/maximizing-telegrams-file-limit-for-big-size-videos/"><u>Maximizing Telegram's File Limit for Big-Size Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-hacks-for-more-views-no-investment-needed/"><u>Quick Hacks for More Views, No Investment Needed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719320814373-reclaim-control-of-freeze-shift-keys/"><u>Reclaim Control of Freeze Shift Keys.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rev-up-your-gameplay-an-exclusive-look-at-dells-premium-300e-laptop-with-unique-perks-zdnet/"><u>Rev Up Your Gameplay: An Exclusive Look at Dell's Premium $3,00E Laptop with Unique Perks | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-amazon-fire-tv-cube-top-performers-in-speedy-streaming/"><u>Ultimate Guide to Amazon Fire TV Cube: Top Performers in Speedy Streaming</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/visual-monologue-engineer/"><u>Visual Monologue Engineer</u></a></li>
+</ul></div>
+

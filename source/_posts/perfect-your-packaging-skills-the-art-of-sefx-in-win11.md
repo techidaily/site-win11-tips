@@ -1,7 +1,7 @@
 ---
 title: "Perfect Your Packaging Skills: The Art of SEFx in Win11"
-date: 2024-10-31T05:43:13.059Z
-updated: 2024-11-07T01:47:06.333Z
+date: 2024-11-14T19:47:47.646Z
+updated: 2024-11-17T16:32:33.778Z
 tags:
   - windows10
   - windows11
@@ -59,10 +59,16 @@ Now we can get started using IExpress Wizard:
 5. Wait for the package creation process to finish. Then click the Finish button on the IExpress wizard window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Testing the SFX Archive Made With IExpress
@@ -72,13 +78,6 @@ Now we can get started using IExpress Wizard:
  A confirmation message will pop up if you set one up as instructed for step seven. Click**Yes** and then press the**Browse** button to select a folder to extract the files. Select**OK** to extract the files in the archive to the chosen folder. Then go to whatever folder you extracted the archive’s files in to open them from them.
 
 ![An SFX archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfx-archive-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Selecting the**Don’t save SED** option means you can’t modify the self-extracting archive after creating it. If you would prefer the archive to be editable, select the**Save Self Extraction Directive** option instead. Then you can change the archive later by selecting the**Open existing Self Extraction Directive** file radio button within IExpress Wizard.
 
@@ -97,10 +96,16 @@ Now we can get started using IExpress Wizard:
 7. Click the**Archive** box’s ellipses button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Choose a folder to save the SFX archive in and click**Open** .
@@ -114,16 +119,10 @@ Testing the SFX File With 7-ZIP
 ![A 7-Zip self-extracting archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-archive.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to set a password for the archive, you can do so within 7-Zip’s "Add to archive" window. Input some text in the**Enter password** box there. Then users will need to input a password after double-clicking the self-extracting archive. The archive will have an AES-256 encryption method set.
@@ -131,6 +130,13 @@ Testing the SFX File With 7-ZIP
  By default, compression is set to a standard level five. However, you can change that by clicking the**Compression** level drop-down menu. Select**Maximum** or**Ultra** on that menu to increase the compression. However, those compression options are also the slowest.
 
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
 
@@ -155,20 +161,21 @@ Testing the SFX File With 7-ZIP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-selecting-superior-hdr-cameras-a-buyers-guide-for-2024/"><u>[New] Selecting Superior HDR Cameras A Buyer's Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ai-advancements-for-programmers-how-apples-new-free-enhancements-will-transform-your-coding-workflow-insights/"><u>AI Advancements for Programmers: How Apple’s New Free Enhancements Will Transform Your Coding Workflow | Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-window-11s-desktop-menu-add-ons/"><u>Customizing Window 11'S Desktop Menu Add-Ons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719311785872-fix-crashing-file-explorer-on-windows-11-now/"><u>Fix Crashing File Explorer on Windows 11 Now!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-xcover-6-pro-tactical-edition-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy XCover 6 Pro Tactical Edition Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-the-newest-sas-driver-software-for-optimal-compatibility-with-windows-11-8-and-amoeba/"><u>Install the Newest SAS Driver Software for Optimal Compatibility with Windows 11, 8, and Amoeba</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/instant-guide-setup-snapchat-for-mac-users/"><u>Instant Guide Setup Snapchat for Mac Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/money-savers-budget-priced-vr-devices-china/"><u>Money Savers Budget-Priced VR Devices (China)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-and-reinforcing-win-1011-menu-functionality/"><u>Reactivating and Reinforcing Win 10/11 Menu Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-file-lockdowns-access-restoration-on-pcs/"><u>Reversing File Lockdowns: Access Restoration on PCs</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-v29e-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from V29e</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-resolve-windows-1n-error-0xc19001e1/"><u>Step-by-Step Guide to Resolve Windows 1N Error 0Xc19001e1</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-counteract-internal-error-with-remote-desktop/"><u>Strategies to Counteract Internal Error with Remote Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-windows-photos-apps-generative-erase-is-actually-great/"><u>The Windows Photos App's Generative Erase Is Actually Great</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uniting-your-inboxes-connecting-gmail-with-windows-outlook-app/"><u>Uniting Your Inboxes: Connecting Gmail with Windows' Outlook App</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-integrating-social-networks-sharing-fb-videos-on-whatsapp/"><u>[New] 2024 Approved Integrating Social Networks Sharing FB Videos on WhatsApp</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-cutting-edge-edits-mastering-picart-backdrop-removal/"><u>[New] In 2024, Cutting-Edge Edits Mastering PicArt Backdrop Removal</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-techies-guide-best-non-gaming-screen-capture-tech/"><u>[Updated] Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brightness-boost-for-windows-11-control-your-pcs-glow/"><u>Brightness Boost for Windows 11: Control Your PC's Glow</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-crafting-ae-titles-with-maximum-impression/"><u>In 2024, Crafting AE Titles with Maximum Impression</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Create My Pokemon Overworld Maps On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-15-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 15 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-remove-background-in-figma-a-comprehensive-guide/"><u>In 2024, How To Remove Background In Figma A Comprehensive Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-simple-multi-snap-chat-video-creation-and-editing/"><u>In 2024, Mastering Simple Multi-Snap Chat Video Creation & Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insight-into-the-functionality-of-windows-component-services/"><u>Insight Into the Functionality of Windows Component Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-challenges-a-guide-to-fixing-your-manager-tool-in-windows-11/"><u>Navigating Challenges: A Guide to Fixing Your Manager Tool in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-cooling-policies-in-microsofts-os-environment/"><u>Navigating Cooling Policies in Microsoft's OS Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-for-outdated-pcs-on-their-way-to-windows-11/"><u>The Guide for Outdated PCs on Their Way to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-subtle-art-of-windows-11s-user-information-extraction/"><u>The Subtle Art of Windows 11'S User Information Extraction</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-aphaca-bt69-top-reviews-of-the-best-bluetooth-fm-transmitter-for-cars/"><u>Ultimate Guide to Aphaca BT69: Top Reviews of the Best Bluetooth FM Transmitter for Cars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-adobes-secrets-ms-store-version-acquisition/"><u>Unlocking Adobe's Secrets: MS Store Version Acquisition</u></a></li>
 </ul></div>
 

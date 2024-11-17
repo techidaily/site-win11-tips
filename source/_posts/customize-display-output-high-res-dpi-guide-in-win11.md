@@ -1,7 +1,7 @@
 ---
 title: "Customize Display Output: High Res DPI Guide in Win11"
-date: 2024-11-05T20:13:50.724Z
-updated: 2024-11-07T00:33:30.587Z
+date: 2024-11-11T19:53:43.596Z
+updated: 2024-11-17T18:25:08.799Z
 tags:
   - windows10
   - windows11
@@ -41,14 +41,14 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 ![Change DPI Scale in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-dpi-scale-in-settings.jpg)
 6. Select the one that best fits your needs.
 
- After you've made your changes, close the window and restart your computer, so the changes take effect.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After you've made your changes, close the window and restart your computer, so the changes take effect.
 
 ## How to Change Display DPI Scaling Using the Registry Editor
 
@@ -69,10 +69,10 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 | Value data | DPI scale                  |  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 | ---------- | -------------------------- |  
@@ -90,10 +90,10 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 4. In the pop-up menu, set the Value data to**0** if you set Logpixels to 96, or**1** if you used any other value.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select**Hexadecimal** as the base and click**OK** .
@@ -101,10 +101,10 @@ HKEY_CURRENT_USER\Control Panel\Desktop
  After performing the above steps, restart your computer to take effect the changes. If you ever need to restore the default settings, just open Registry Editor and go to the same location. Then double-click on Win8DpiScaling and change the Value data to 0.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Scale the Display DPI on Windows
@@ -126,14 +126,18 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-vanguard-of-virtual-fame-instagrams-25-luminaries/"><u>[New] In 2024, The Vanguard of Virtual Fame Instagram's 25 Luminaries</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-perfect-cone-view-mounts-vr/"><u>[Updated] 2024 Approved Perfect Cone View Mounts VR</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-windows-11-microphone-use-for-high-quality-recordings/"><u>[Updated] 2024 Approved Windows 11 Microphone Use for High-Quality Recordings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-stream-your-audiovid-creations-here/"><u>[Updated] Stream Your AudioVid Creations Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-concealed-smart-radios-in-apple-devices-do-you-own-a-mac-or-ipad-with-one-zdnet/"><u>Discovering Concealed Smart Radios in Apple Devices: Do You Own a Mac or iPad with One? | ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gpt4all-for-pcs-local-free-chatgpt-version/"><u>GPT4All for PCs: Local, Free ChatGPT Version.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/investigating-windows-process-hostaggregate-use-and-security-implications/"><u>Investigating Windows' Process HostAggregate: Use & Security Implications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-incorrect-windows-duo-software-setup/"><u>Steps to Rectify Incorrect Windows Duo Software Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-display-embrace-tiled-workspace/"><u>Streamline Your Display: Embrace Tiled Workspace</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-fb-videobot-downloader-tool/"><u>[New] 2024 Approved FB Videobot Downloader Tool</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-video-bite-by-celeb-on-vimeo/"><u>[New] Video Bite by Celeb on Vimeo</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-breaking-down-lgs-360-camera-updates-and-features/"><u>[Updated] 2024 Approved Breaking Down LG's 360 Camera Updates & Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-art-of-attracting-product-brands-on-youtube/"><u>[Updated] In 2024, The Art of Attracting Product Brands on Youtube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>[Updated] The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-content-creation-free-tools-for-downloading-vids-online/"><u>2024 Approved Unlocking Content Creation Free Tools for Downloading Vids Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-hotkey-hits-unlock-maximum-auto-click-potential/"><u>5 Hotkey Hits: Unlock Maximum Auto Click Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-streamlined-guide-to-resolving-roblox-error-code-262/"><u>A Streamlined Guide to Resolving Roblox Error Code 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-directories-to-w11s-right-click-menu-steps/"><u>Adding Directories to W11's Right-Click Menu Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-13-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-epic-game-launcher-stubbornness-on-w11-computers/"><u>Avoid Epic Game Launcher Stubbornness On W11 Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-system-mastering-windows-11-efficiency/"><u>Boost Your System: Mastering Windows 11 Efficiency</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-k70e-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi K70E</u></a></li>
 </ul></div>
 

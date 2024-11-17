@@ -1,7 +1,7 @@
 ---
 title: "Enhancing File Management: Windows 11 Guide"
-date: 2024-11-05T14:12:32.106Z
-updated: 2024-11-07T04:40:25.437Z
+date: 2024-11-12T20:13:30.144Z
+updated: 2024-11-17T19:50:06.525Z
 tags:
   - windows10
   - windows11
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
 ![Easily view rar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/easily-view-rar-files-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
@@ -92,19 +92,19 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
 ![Winrar customization while compressing a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/winrar-customization-while-compressing-a-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Handle Other Archive Formats on Windows
@@ -113,29 +113,6 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-nextgen-flawless-frame-processor-windowsmac/"><u>[New] In 2024, NextGen Flawless Frame Processor (Windows/Mac)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-inside-the-io-recording-process-what-you-must-know/"><u>2024 Approved Inside the IO Recording Process What You Must Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-lifeline-for-gaming-ensuring-persistent-connection-of-your-ps4-controller-in-windows/"><u>A Lifeline for Gaming: Ensuring Persistent Connection of Your PS4 Controller in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-system-startup-with-auto-auditory-restart-mechanism/"><u>Boosting System Startup with Auto Auditory Restart Mechanism</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-note20-ultra-with-5g-technology/"><u>Comprehensive Analysis of the Samsung Galaxy Note20 Ultra with 5G Technology</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/convert-flawlessly-leading-software-for-high-res-videos-for-2024/"><u>Convert Flawlessly Leading Software for High-Res Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-restricted-it-administrator-message-in-os/"><u>Eliminating 'Restricted IT Administrator' Message in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-solutions-to-resolve-windows-update-error-0x800f080a/"><u>Essential Solutions to Resolve Windows Update Error 0X800F080A</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-1011-camera-error-0xa00f425d/"><u>Fixing Windows 10/11 Camera Error: 0XA00F425D</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y27-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y27 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-zoomed-success-on-set-harnessing-kinemasters-viewer-focus/"><u>In 2024, Zoomed Success on Set Harnessing Kinemaster’s Viewer Focus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/income-streams-from-windows-11-an-examination/"><u>Income Streams From Windows 11: An Examination</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/raid-rebound-hardware-haven/"><u>RAID Rebound: Hardware Haven</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/select-8-dynamic-backgrounds-for-your-mbp-for-2024/"><u>Select 8 Dynamic Backgrounds for Your MBP for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-resetting-windows-settings-on-reboot/"><u>Steps for Resetting Windows Settings on Reboot</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncovering-and-fixing-the-msvcr110dll-gap/"><u>Uncovering & Fixing the Msvcr110.dll Gap</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-door-on-stuck-wow-61-patches/"><u>Unlocking the Door on Stuck WoW 6.1 Patches</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-tunes-heres-how-to-download-safely-and-free-for-2024/"><u>Youtube Tunes? Here's How to Download Safely & Free for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +120,27 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-proven-strategies-for-enhancing-quality-in-obs-edits/"><u>[New] In 2024, Proven Strategies for Enhancing Quality in OBS Edits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ghostly-glimpses-video-review/"><u>[Updated] 2024 Approved Ghostly Glimpses Video Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-key-tips-for-restoring-fbm-functionality-on-desktop/"><u>10 Key Tips for Restoring FBM Functionality on Desktop</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-walkthrough-cortana-data-retrieval-for-windows-users/"><u>A Complete Walkthrough: Cortana Data Retrieval for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-fix-13-solutions-for-windows-system-repair/"><u>A Quick Fix: 13 Solutions for Windows System Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-file-browsing-activate-filters-with-checkbox-on-win11/"><u>Accelerate File Browsing: Activate Filters with Checkbox on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-loading-device-drivers-in-windows-11/"><u>Addressing Non-Loading Device Drivers in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beat-the-100-quagmire-with-these-simple-solutions/"><u>Beat the 100% Quagmire with These Simple Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-windows-11-videoscripting-software-round-up/"><u>Best Windows 11 Videoscripting Software Round-Up</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-google-pixel-7a-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Google Pixel 7a?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-address-and-repair-a-missing-or-not-found-mapi32dll-file/"><u>How to Successfully Address and Repair a Missing or Not Found Mapi32.dll File</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-best-gif-creation-tools-reviewed-by-industry-vets/"><u>In 2024, Best GIF Creation Tools Reviewed by Industry Vets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-real-story-exploring-recordcast-features/"><u>In 2024, The Real Story Exploring RecordCast Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719255690388-pro-tips-to-improve-your-snip-and-sketch-screenshot-experience/"><u>Pro Tips to Improve Your Snip & Sketch Screenshot Experience</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resetting-windows-10-without-a-password-step-by-step-guide/"><u>Resetting Windows 10 without a Password – Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719292309532-revolutionize-incompatibility-on-windows-without-tools/"><u>Revolutionize Incompatibility on Windows without Tools!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-media-sharing-how-to-use-airplay-with-your-mac/"><u>Seamless Media Sharing: How to Use AirPlay with Your Mac</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-propella-7s-40-combining-agility-lightness-and-cost-effectiveness-perfectly/"><u>The Ultimate Review of Propella 7S 4.0 - Combining Agility, Lightness and Cost-Effectiveness Perfectly.</u></a></li>
+</ul></div>
+

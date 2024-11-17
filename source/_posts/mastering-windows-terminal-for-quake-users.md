@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Terminal for Quake Users
-date: 2024-11-05T23:45:12.680Z
-updated: 2024-11-07T01:31:00.254Z
+date: 2024-11-15T16:37:57.042Z
+updated: 2024-11-17T20:10:45.552Z
 tags:
   - windows10
   - windows11
@@ -50,20 +50,13 @@ There are two ways to open the Windows Terminal in Quake mode.
 ![The windows terminal in quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-terminal-quake.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want the command-line tool to be run as an administrator, you will need to use the second method. Learn how to open[Windows PowerShell or Command Prompt as an administrator](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Hiding and Restoring the Terminal Window
 
@@ -88,10 +81,10 @@ To reveal the window again, press the same keyboard shortcut.
  If the[Windows Taskbar is not working](https://www.makeuseof.com/tag/5-steps-fix-windows-10-taskbar-issues/) for some reason, these options won't be available. Instead, you can close the Quake mode terminal window by typing**EXIT** in the terminal and pressing**Return** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Windows Terminal in Quake Mode at Logon
@@ -102,20 +95,28 @@ To reveal the window again, press the same keyboard shortcut.
 2. Open the startup items folder by typing**shell:startup** , then click**Ok** .  
 ![creating a shortcut to quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/auto-open-quake-mode.jpg)
 3. Right-click anywhere in the folder and select**New > Shortcut** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. For the location of the item, type:**wt.exe -w \_quake** . Click**Next** .  
 ![shortcut to automatically open quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quake-mode-shortcut.jpg)
 5. Give the shortcut a name you will recognize, such as**Terminal Quake** . Then click**Finish** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The next time you log on to Windows, the terminal will open automatically in Quake Mode. You can then use it, or press the**Windows + \`** shortcut to minimize it.
 
  If you have[disabled app execution aliases](https://www.makeuseof.com/app-execution-aliases-guide/) , you will have to type or browse to the full path for the Windows Terminal. So instead of typing**wt.exe -w \_quake** , enter **C:\\Users\\\[username\]\\AppData\\Local\\Microsoft\\WindowssApps\\wt.exe -w \_quake** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using the Windows Terminal's Quake Mode
 
@@ -136,20 +137,22 @@ To reveal the window again, press the same keyboard shortcut.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-11-best-practices-for-capturing-online-conferences-for-free/"><u>[New] In 2024, 11 Best Practices for Capturing Online Conferences for Free</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhance-videos-at-no-extra-cost-best-editors-ranked-top-9/"><u>[Updated] 2024 Approved Enhance Videos at No Extra Cost Best Editors Ranked (Top 9)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-seamless-tweet-integration-on-facebook-platform/"><u>[Updated] 2024 Approved Seamless Tweet Integration on Facebook Platform</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/academic-anchors-identifying-top-10-lecture-preservation-tools-for-2024/"><u>Academic Anchors Identifying Top 10 Lecture Preservation Tools for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-disappearing-cursor-on-your-windows-11-system/"><u>Fixing a Disappearing Cursor on Your Windows 11 System</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-common-steam-errors-in-windows-11/"><u>Fixing Common Steam Errors in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-onedrive-connection-problems-in-os-versions/"><u>Fixing OneDrive Connection Problems in OS Versions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-lava-yuva-3-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Lava Yuva 3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-cloud-storage-onedrive-login-on-windows/"><u>Master Your Cloud Storage: OneDrive Login on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-fatal-glitches-steps-to-fix-error-0x00000001-in-xbox-game-pass-for-windows-11/"><u>Overcoming Fatal Glitches: Steps to Fix Error 0X00000001 in Xbox Game Pass for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-netflix-freeze-in-windows-software/"><u>Overcoming Netflix Freeze in Windows Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-default-path-problems-on-windows-1011/"><u>Resolving Default Path Problems on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-windows-installation-privilege-denial-problem/"><u>Solving Windows Installation Privilege Denial Problem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-tactics-in-online-fraudulence/"><u>Tech Tactics in Online Fraudulence</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-crafting-instagram-highlights-for-2024/"><u>The Art of Crafting Instagram Highlights for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-market-mastery-in-3-easy-steps-with-key-vocabulary/"><u>[Updated] In 2024, Market Mastery in 3 Easy Steps with Key Vocabulary</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-deep-sleep-with-asmr-strategies/"><u>[Updated] Unlocking Deep Sleep with ASMR Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>2024 Approved Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-quickly-modify-your-voice-for-gameplay-advantage/"><u>2024 Approved How to Quickly Modify Your Voice for Gameplay Advantage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-new-features-the-moment-4-update-added-to-windows-11/"><u>7 New Features the Moment 4 Update Added to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-new-dimension-in-windows-11-understanding-the-role-of-copilot-key/"><u>A New Dimension in Windows 11: Understanding the Role of Copilot Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-system-file-checker-a-quick-tutorial/"><u>Activating System File Checker: A Quick Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-unsigned-files-issue-for-updated-pcs/"><u>Address 'Unsigned' Files Issue for Updated PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-and-amending-system-call-failures-in-modern-windows/"><u>Addressing and Amending System Call Failures in Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-user-permissions-issues-with-organizational-settings-in-windows-11/"><u>Addressing User Permissions Issues with Organizational Settings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-11-screen-tick/"><u>Addressing Window's 11 Screen Tick</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719365152122-boost-windows-with-top-2023-ms-store-winners/"><u>Boost Windows with Top 2023 MS Store Winners!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/epic-audio-essentials-top-10-for-trending-yt-shorts-for-2024/"><u>Epic Audio Essentials Top 10 for Trending YT Shorts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-guide-to-restoring-connection-with-your-alexa-enabled-device/"><u>Essential Guide to Restoring Connection with Your Alexa-Enabled Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y17s-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y17s</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/visualizing-the-future-virtual-realities-explored/"><u>Visualizing the Future Virtual Realities Explored</u></a></li>
 </ul></div>
 

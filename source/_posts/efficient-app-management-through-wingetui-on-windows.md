@@ -1,7 +1,7 @@
 ---
 title: Efficient App Management Through WingetUI on Windows
-date: 2024-11-03T09:53:54.324Z
-updated: 2024-11-07T02:02:41.286Z
+date: 2024-11-10T19:35:41.972Z
+updated: 2024-11-17T18:11:21.107Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
  The fun doesn’t stop there. You can switch to dark mode in the app, and it even notifies you about the app updates whenever you launch the app and can even auto-update them. Furthermore, you can even view the package details, and its commands, and can share the packages with your friends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Download and Install WingetUI on Windows11
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
  After the installation completes, the app will ask you to select the package managers you want to use. Select the **Enable Winget** option for now, and click on the **Apply and Start WingetUI** button.
 
 ![Install WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-wingetui.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Manage App Packages Using WingetUI on Windows 11
 
@@ -72,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 ![Browse List in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/browse-list-in-wingetui.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Install a Package
@@ -94,17 +87,33 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 2. You can also select a particular version of the app you are trying to install. Expand the **Version to install** dropdown list. You can select any version from here. Keep the **Ignore future updates for this package** option untouched.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Install a Package in WingetUI 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-a-package-in-wingetui-3.jpg)
 3. Next, you can pick the **package architecture**: x64, x86, or arm65, depending upon your OS and CPU architecture.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Lastly, pick the **Scope** of the package installation. If you want to do a machine-wide install, pick the **local machine** option. Or pick the **Current user** if you want to install the app only for one user profile.  
 ![Install a Package in WingetUI 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-a-package-in-wingetui-4.jpg)
 5. Click on the **Install** button. UAC will pop up. Click on the **Yes** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Install a Package in WingetUI 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-a-package-in-wingetui-5.jpg)
 
  You will see the installation status at the button of the WingetUI window. Windows will produce a notification when the installation completes.
@@ -128,25 +137,11 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 ![batch Install a Package in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/batch-install-a-package-in-wingetui.jpg)
 3. WingetUI will install these apps one by one.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To batch uninstall packages, repeat the following steps:
 
 1. Switch to the **Installed Packages** tab. Then, click and select all the packages you want to remove from your PC.
 2. Click on the **Uninstall selected packages** button to remove the selected packages one by one.  
 ![batch unInstall Packages in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/batch-uninstall-packages-in-wingetui.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Import Export Packages List
 
@@ -156,6 +151,14 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 2. Then, click on the **Export selected packages to a file** option.  
 ![Export Packages List in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-packages-list-in-wingetui.jpg)
 3. Enter a **name** for the export file and save it to any location on your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Export Packages List in WingetUI 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-packages-list-in-wingetui-2.jpg)
 4. You can later import this file to another PC or even your PC using Winget or Winget UI.
 
@@ -166,13 +169,6 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 3. **Browse** your PC for the Winget import file and select it. Click on the **Open** button.  
 ![import Packages List in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/import-packages-list-in-wingetui.jpg)
 4. WingetUI will automatically start installing all the packages listed in the import file.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Check Software Updates
 
@@ -185,10 +181,17 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 ![Check Software Updates in WingetUI 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/check-software-updates-in-wingetui-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No More Terminal Woes
@@ -197,23 +200,6 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 
  If you have used Winget even once, you know that knowing the correct commands is of absolute importance if you want to avoid errors. But what if you had a GUI version of Winget? WingetUI is one such app that slaps a coat of UI on Winget. Curious? Let’s begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-ideal-video-snapper-for-your-chromebook/"><u>[New] Ideal Video Snapper For Your Chromebook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-what-are-luts-and-how-they-change-your-photo/"><u>[Updated] 2024 Approved What Are LUTs and How They Change Your Photo</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-best-soundtracks-at-your-fingertips-for-online-creators/"><u>[Updated] The Best Soundtracks at Your Fingertips for Online Creators</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-videology-app-analysis-and-ratings/"><u>[Updated] Videology App Analysis & Ratings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convenient-ways-to-open-up-your-computers-diagnostics/"><u>Convenient Ways to Open Up Your Computer's Diagnostics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-solving-windows-pen-tablet-faults/"><u>Deciphering and Solving Windows Pen Tablet Faults</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionizing-data-retrieval-windows-based-qr-code-reading-guide/"><u>Revolutionizing Data Retrieval: Windows-Based QR Code Reading Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-overlap-camera-error-code-0xa00f4243-on-windows/"><u>Solving Overlap Camera Error Code 0xA00F4243 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speedy-systems-launch-windows-and-access-notes-instantly/"><u>Speedy Systems: Launch Windows & Access Notes Instantly</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210717478-9798885404853-the-power-of-balance/"><u>The Power of Balance | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-premium-gaming-computers-for-2pertinade-year/"><u>The Ultimate Selection of Premium Gaming Computers for 2Pertinade Year</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -221,3 +207,20 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-the-highlighted-online-discourse/"><u>[New] 2024 Approved Finding the Highlighted Online Discourse</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-roadmap-to-creating-unforgettable-facebook-cover-videos/"><u>[Updated] In 2024, The Roadmap to Creating Unforgettable Facebook Cover Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-10-survival-showdowns-for-2024/"><u>[Updated] Premier 10 Survival Showdowns for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-pin-change-procedures/"><u>Breaking Down Windows PIN Change Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brightening-up-the-boot-prompts-appearance/"><u>Brightening Up the BOOT Prompt's Appearance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-error-22-and-restore-device-functionality-in-windows-11/"><u>Bypass Error 22 and Restore Device Functionality in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-interface-limitations-top-solutions/"><u>Bypassing Windows Interface Limitations: Top Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/checking-if-windows-11-is-fully-operational/"><u>Checking If Windows 11 Is Fully Operational</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-xr-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone XR?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-y100-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Y100 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-youtube-shorts-downloaders-free-and-online/"><u>Top 6 YouTube Shorts Downloaders [Free & Online]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-printing-a-pdf-file-quick-fixes-you-must-try-today/"><u>Trouble Printing a PDF File? Quick Fixes You Must Try Today</u></a></li>
+</ul></div>
+

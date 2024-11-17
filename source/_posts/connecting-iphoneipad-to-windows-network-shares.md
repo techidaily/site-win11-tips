@@ -1,7 +1,7 @@
 ---
 title: Connecting iPhone/iPad to Windows Network Shares
-date: 2024-11-03T09:19:59.626Z
-updated: 2024-11-07T03:43:27.196Z
+date: 2024-11-14T19:23:08.832Z
+updated: 2024-11-17T16:50:41.770Z
 tags:
   - windows10
   - windows11
@@ -44,33 +44,33 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
 ![Adding a new user in the access group of the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-a-new-user-in-the-access-group-of-the-shared-drive.jpg)
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's all the steps to share your drive on the local network. However, if you run into any trouble, it's recommended you check out the [dedicated guide on enabling Windows Network Share](https://www.makeuseof.com/how-network-file-share-windows-10/).
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Access Your Windows Files From an Android Device
 
@@ -85,23 +85,16 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![Selecting Network Share on Files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-network-share-on-files-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Manually adding the device and account details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-adding-the-device-and-account-details.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpg)
 
@@ -123,9 +116,23 @@ Close
 
 ![Connecting to the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/connecting-to-the-shared-drive.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Typing in the IP of the Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-the-ip-of-the-windows-pc.jpeg)
 
 ![Typing in user account credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-user-account-credentials.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpeg)
 
@@ -135,32 +142,11 @@ Close
 
  Now you should be able to view the files on the shared drive. You can now download, upload or modify the local files on your Windows PC with ease and without having to download any third-party application.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Access Your PC Files on iOS/Android Without Third-Party Apps
 
  Now that you know how to access your PC files using Windows Network Share, uploading, downloading, and modifying files should be super easy to do. You won't have to rely on downloading and testing third-party applications for minor tasks like copying over a PDF file from your Windows PC to your Android/iOS devices.
 
  If you wish to share files between computers on the same network, that is possible as well. But, for heavy file sharing between two computers, a few alternatives to network sharing may be worth checking out if you'll be sharing large chunks of data.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-money-savers-budget-priced-vr-devices-china/"><u>[Updated] 2024 Approved Money Savers Budget-Priced VR Devices (China)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-visibility-with-any-channel-title-through-free-makers-for-2024/"><u>[Updated] Enhance Visibility With Any Channel Title Through Free Makers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-videocapture-with-vlc-appraisal/"><u>[Updated] Videocapture with VLC Appraisal</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embracing-the-language-first-steps-into-chinese-greetings/"><u>Embracing the Language: First Steps Into Chinese Greetings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-x-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Bypass iPhone X Face ID?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-system-calls-failure-in-windows-11/"><u>Navigating the Maze of System Calls Failure in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/subtle-scams-the-undisclosed-threats-in-affordable-windows-licenses/"><u>Subtle Scams: The Undisclosed Threats in Affordable Windows Licenses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-the-scribe-within-windows-11-speech-mode/"><u>Unleash the Scribe Within: Windows 11 Speech Mode</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win10-pixel-perfect-discover-the-7-finest-artist-apps/"><u>Win10 Pixel Perfect: Discover the 7 Finest Artist Apps</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -169,3 +155,22 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-blocks-for-movie-making-youtubes-framework-and-more/"><u>[New] In 2024, Building Blocks for Movie Making YouTube's Framework & More</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-chuckle-champs-twitters-humor-heap/"><u>[Updated] Chuckle-Champs Twitter’s Humor Heap</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-essential-iphoneside-by-side-guide-for-fb-sharing/"><u>[Updated] In 2024, The Essential iPhoneside by Side Guide for FB Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-ways-to-open-the-display-settings-in-windows-11/"><u>10 Ways to Open the Display Settings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-tricks-to-correct-your-pcs-pink-screen-misstep/"><u>5 Tricks to Correct Your PC's Pink Screen Misstep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-mastery-accessing-windows-admin-settings/"><u>Achieving Mastery: Accessing Windows Admin Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-gaming-experience-optimize-amd-graphics-on-pc/"><u>Amplify Gaming Experience: Optimize AMD Graphics on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-using-powertoys-copy-pasting-features/"><u>Boost Efficiency: Using PowerToys' Copy-Pasting Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-read-error-problems-in-files-and-directories-a-step-by-step-fix/"><u>Overcoming Read-Error Problems in Files & Directories - A Step-by-Step Fix</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-tutorial-designing-striking-video-thumbnails-for-social-media-success-for-2024/"><u>Step-by-Step Tutorial Designing Striking Video Thumbnails for Social Media Success for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-productivity-playlist-podcast-inspired-tasks/"><u>The Ultimate Productivity Playlist Podcast-Inspired Tasks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-repairing-a-non-functional-xbox-series-xs-headset/"><u>Troubleshooting Guide: Repairing a Non-Functional Xbox Series X/S Headset</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-the-apple-os-update-process-top-6-fixes-revealed/"><u>Unsticking the Apple OS Update Process: Top 6 Fixes Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719341599288-windows-chatbot-simulation-localize-for-free-with-gpt4all/"><u>Windows ChatBot Simulation: Localize for Free with GPT4All</u></a></li>
+</ul></div>
+

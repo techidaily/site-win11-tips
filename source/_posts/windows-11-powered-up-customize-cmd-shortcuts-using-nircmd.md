@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Powered Up: Customize Cmd Shortcuts Using NirCmd"
-date: 2024-11-04T23:53:42.906Z
-updated: 2024-11-07T11:45:01.807Z
+date: 2024-11-12T16:11:51.239Z
+updated: 2024-11-17T16:14:14.767Z
 tags:
   - windows10
   - windows11
@@ -57,16 +57,10 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up NirCmd Command Keyboard Shortcuts
@@ -77,6 +71,14 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 2. Click in the Shortcut box and press a key combination to set up a **Ctrl** \+ **Alt** or **Ctrl** \+ **Shift** hotkey.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shortcut-tab.jpg)
 3. Then select **Apply** to save your hotkey.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **OK** to exit the shortcut’s properties window.
 
  Now press your keyboard shortcut to activate the NirCmd command desktop shortcut. However, don’t delete the NirCmd desktop shortcuts for which you’ve created hotkeys. The hotkeys won’t work without them.
@@ -94,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 `nircmd.exe emptybin`
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Center Align All Windows
@@ -111,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
  A hotkey for [signing out of your Windows user account](https://www.makeuseof.com/windows-11-how-to-sign-out/) would be useful. You can create such a keyboard shortcut with this NirCmd command:
 
 `nircmd.exe exitwin logoff`
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Read Out the Copied Clipboard Item
 
@@ -132,25 +141,11 @@ keywords: Windows 11 PowerUp,CommandShortcutCustomize,NirCmdInterface,CMDLaunchA
 thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615c5d83ea5a34a4991c1927bf.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
 
 `nircmd.exe screensaver`
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Close All Open File Explorer Windows
 
@@ -176,26 +171,6 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-techniques-for-saving-roblox-playback-on-mac/"><u>[New] 2024 Approved Essential Techniques for Saving Roblox Playback on Mac</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-screencapture-made-easy-and-effective-on-your-laptop/"><u>[New] 2024 Approved ScreenCapture Made Easy & Effective on Your Laptop</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-secrets-to-storing-and-viewing-digital-television-shows/"><u>[Updated] 2024 Approved Secrets to Storing and Viewing Digital Television Shows</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exploring-alternative-pathways-for-free-anime-emoji-integration-in-discord-for-2024/"><u>[Updated] Exploring Alternative Pathways for Free Anime Emoji Integration in Discord for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-substitute-cinema-classics-ranked-7-1-for-2024/"><u>[Updated] Substitute Cinema Classics, Ranked #7-1 for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-10-iphone-virtual-reality-games-for-next-level-play/"><u>2024 Approved Top 10 IPhone Virtual Reality Games for Next Level Play</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/captivating-concepts-a-guide-to-obsidian-visualization/"><u>Captivating Concepts: A Guide to Obsidian Visualization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-windowsapps-get-inside/"><u>Demystifying WindowsApps: Get Inside</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-your-use-of-windows-explorer-with-advanced-skills-not-ls/"><u>Enhancing Your Use of Windows Explorer with Advanced Skills, Not LS</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y100i-power-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100i Power 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-setup-java-development-kit-in-windows-11/"><u>How to Effortlessly Setup Java Development Kit in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/journey-through-time-exploring-windows-11s-archives/"><u>Journey Through Time: Exploring Windows 11’S Archives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-20-key-cmd-commands-a-primer/"><u>Mastering 20 Key CMD Commands: A Primer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/routes-to-success-system32-on-windows-11/"><u>Routes to Success: System32 on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/your-ultimate-resource-setting-up-microsoft-copilot-on-macos/"><u>Your Ultimate Resource: Setting Up Microsoft Copilot on macOS</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -203,3 +178,21 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-integrating-movie-capture-across-all-operating-systems/"><u>[New] 2024 Approved Integrating Movie Capture Across All Operating Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-best-edges-for-instagram-excellence-an-essential-guide/"><u>[Updated] In 2024, The Best Edges for Instagram Excellence – An Essential Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1153688-9781577319658-active-dreaming/"><u>Active Dreaming | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-system-speed-strategies-for-virtual-memory-upgradation-in-windows-11/"><u>Elevating System Speed: Strategies for Virtual Memory Upgradation in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-secret-windows-11-themes-with-the-registry/"><u>How to Unlock Secret Windows 11 Themes With the Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-errors-fixing-loadlib-failure-87/"><u>Navigating Windows Errors: Fixing LoadLib Failure 87</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-tasks-the-power-of-flow-launcher-in-windows/"><u>Optimize Tasks: The Power of Flow Launcher in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-lan-access-blockades-in-winmc/"><u>Overcoming LAN Access Blockades in WinMC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-digital-life-winning-crypto-apps-ranked-150-chars/"><u>Secure Your Digital Life: Winning Crypto Apps Ranked (150 Chars)</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-12-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone 12 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-zodiac-inspired-whatsapp-bios-enhancing-personal-connections/"><u>Top Zodiac-Inspired WhatsApp Bios Enhancing Personal Connections</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-ddr4-memory-modules-of-2024/"><u>Top-Rated DDR4 Memory Modules of 2024</u></a></li>
+</ul></div>
+

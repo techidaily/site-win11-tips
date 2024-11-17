@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Windows Mail Conundrum: Overcoming Zero X Eight Oh Three One F Obstacle"
-date: 2024-10-31T10:10:36.523Z
-updated: 2024-11-06T20:49:46.754Z
+date: 2024-11-13T17:41:02.305Z
+updated: 2024-11-17T17:35:18.178Z
 tags:
   - windows10
   - windows11
@@ -49,22 +49,15 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 ![The Email navigation option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/email-navigation-option.jpg)
 4. Turn on**Email access** if that option isn’t enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Let apps access your email** to expand options.  
 ![The Let apps access your email option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/let-apps-access-your-email.jpg)
 6. Toggle the**Mail and Calendar** app on if it’s not already.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Also, turn on the**People** app listed there.
@@ -72,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
  If you find those settings are already turned on, try re-enabling them. Turn off the**Allows apps to access your email** and**Mail and Calendar** options, and click**Restart** on the Start menu. Then return to Settings to turn those settings back on after the restart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reset and Repair the Mail App
@@ -85,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Allow Mail and Calendar Through Windows Defender Firewall
@@ -102,18 +95,18 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall-options.jpg)
 4. Next, press the**OK** button below the firewall settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then bring up Mail and try adding an email account to it.
 
  If disabling the firewall resolves error 0x800713f, WDF was probably blocking Mail when it was on. We don’t recommend leaving the firewall off. Allow Mail through WDF as outlined within our guide for[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Then turn the firewall back on.
 
 ![Windows Defender Firewall's allowed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/allowed-firewall-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Do you have a third-party firewall on your desktop or laptop? If you do, that software could also be causing Mail app issues. Try disabling third-party firewall software to see if that makes a difference. If it does, check the firewall’s permission settings to ensure Mail is allowed through.
 
@@ -133,15 +126,22 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 ![Local account info boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-your-local-account-info.jpg)
 3. Press the**Sign out** **and** **Finish** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Sign out and finish button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sign-out-and-finish-button.jpg)
 4. Log in to your local user account.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open**Mail** to check if the 0x800713f error has been fixed.
 
 ## 6\. Reinstall Mail and Calendar
@@ -157,6 +157,14 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 6. Press the**Get in Store** app button on the Mail and Calendar page.  
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-in-store-app-button.jpg)
 7. Click Open in Microsoft Store to bring up a**Get** option for the app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Select**Get** to reinstall Mail.
 
  The steps for reinstalling Mail in Windows 10 Settings are similar. You’ll need to select the**Apps** category in Settings. Then select Mail and Calendar in Apps & features, and press its**Uninstall** button.
@@ -180,20 +188,24 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-enrich-social-media-content-with-auto-generated-speech/"><u>[New] In 2024, How to Enrich Social Media Content with Auto-Generated Speech</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-youtube-creator-summit-a-getaway-for-top-talent-for-2024/"><u>[New] The YouTube Creator Summit - A Getaway for Top Talent for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-skys-dynamic-range-masterpieces-website-roundup/"><u>[Updated] 2024 Approved Sky's Dynamic Range Masterpieces - Website Roundup</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-best-practices-for-hospitals-social-media-health-promos/"><u>[Updated] Best Practices for Hospitals' Social Media Health Promos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-exclusive-list-best-mac-gif-recorders/"><u>[Updated] In 2024, Exclusive List Best Mac GIF Recorders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-podcast-summary-genius-guidance-and-examples/"><u>[Updated] Podcast Summary Genius Guidance & Examples</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-hallucinations-unveiled-strategies-for-recognizing-when-ai-misinterprets-data/"><u>AI Hallucinations Unveiled: Strategies for Recognizing When AI Misinterprets Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-erroneous-0xa00f429f-code-in-camera-app/"><u>Fixing the Erroneous 0xA00F429F Code in Camera App</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-fixing-stutter-and-crashes-in-fall-guys-on-your-computer/"><u>Guide to Fixing Stutter and Crashes in Fall Guys on Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovate-with-ease-the-insiders-guide-to-windows-11-widgets/"><u>Innovate with Ease: The Insider's Guide to Window's 11 Widgets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-software-glitch-audacity-error-9999/"><u>Overcoming Windows Software Glitch: Audacity Error 9999</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shielding-wireless-networks-on-windows/"><u>Shielding Wireless Networks on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-elusive-steam-auth-delays-in-rust-and-pc/"><u>Swift Remedies for Elusive Steam Auth Delays in Rust & PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-overlooked-marvels-of-windows-11-functionality/"><u>The Overlooked Marvels of Windows 11 Functionality</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719154032507-whats-your-platform-of-choice-lets-find-out/"><u>What's Your Platform of Choice? Let's Find Out!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-effortless-editing-a-beginners-guide-to-multi-snaps-in-snapchat/"><u>[New] Effortless Editing A Beginner's Guide to Multi-Snaps in Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ingenious-wavework-wisdom-casters-companion/"><u>[Updated] Ingenious Wavework Wisdom Caster's Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-alternatives-when-bitlocker-isnt-available-on-windows/"><u>5 Alternatives When Bitlocker Isn't Available on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-strategies-to-extend-your-hard-drives-lifespan/"><u>6 Strategies to Extend Your Hard Drive's Lifespan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-dpi-settings-for-optimal-display-performance/"><u>Adjust DPI Settings for Optimal Display Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-techniques-to-eliminate-stale-dns-entries/"><u>Advanced Techniques to Eliminate Stale DNS Entries</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-entering-windows-terminal-admin-mode-ready/"><u>Automate Entering Windows Terminal, Admin Mode Ready</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-disruptions-with-top-fixes-for-file-explorer-glitches-on-win11/"><u>Avoid Disruptions with Top Fixes for File Explorer Glitches on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-a-step-by-step-guide-to-the-taskbars-search-bar-in-windows-11/"><u>Boost Efficiency: A Step-By-Step Guide to the Taskbar’s Search Bar in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-integrating-new-folders-into-windows-11-menu/"><u>Boosting Efficiency: Integrating New Folders Into Windows 11 Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-speed-the-best-windows-mouse-drivers/"><u>Boosting Speed: The Best Windows Mouse Drivers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-lava-blaze-pro-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Lava Blaze Pro 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-nova-y91-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Huawei Nova Y91 Bootloader Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-y56-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Y56 5G Phone Network-Ready</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-acer-chromebook-15-assessment-splendid-performance-on-a-grand-display/"><u>In-Depth Acer Chromebook 15 Assessment: Splendid Performance on a Grand Display</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/reel-mastery-made-simple-with-these-free-apps-to-manage-instagram-videos-for-2024/"><u>Reel Mastery Made Simple with These Free Apps to Manage Instagram Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-harnessing-the-power-of-microsoft-chatgpt-for-enhanced-communication/"><u>Step-by-Step Tutorial on Harnessing the Power of Microsoft ChatGPT for Enhanced Communication</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-20-essential-gopro-extras-for-2024/"><u>Top 20 Essential Gopro Extras for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-pc-crashes-in-wolcen-lords-of-mayhem/"><u>Troubleshooting Guide: Fixing PC Crashes in Wolcen: Lords of Mayhem</u></a></li>
 </ul></div>
 

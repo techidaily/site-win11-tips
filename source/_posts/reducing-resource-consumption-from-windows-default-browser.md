@@ -1,7 +1,7 @@
 ---
 title: Reducing Resource Consumption From Windows' Default Browser
-date: 2024-09-01T05:15:57.167Z
-updated: 2024-09-02T05:15:57.167Z
+date: 2024-11-13T18:21:26.367Z
+updated: 2024-11-17T18:45:24.365Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
  Spreading browser functions over several processes means that the failure of one is less likely to cause the entire browser to crash. It is also better for security, as process isolation means they don't share memory and can be given restricted privileges.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View Edge's Processes on Windows
 
  You can see the processes Edge is using in the[Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) . This will show you the overall number of running processes but provides few details about what they are for. However, it will show you that many of the Edge processes consume minimal system resources.
@@ -41,40 +48,39 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![the task manager in the Edge Browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edge-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Reduce the Number of Edge Processes on Windows
 
  As we have hopefully explained above, many of the Edge processes you see running in Task Manager are simply a part of how the browser works. And few of them put too much strain on system resources.
 
  But there are some simple ways to reduce the number of processes Edge uses if you're concerned about their impact on PC performance.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### 1\. Remove Unused Extensions
 
  Have a look at your installed browser extensions to see if you can remove any. Each active extension can have one or more processes running, so cleaning out your add-on clutter is an easy way to reduce the count.
 
  Check out[how to find, install, and manage extensions on Edge](https://www.makeuseof.com/find-install-manage-extensions-chrome-edge-vivaldi/) for more information on how to do this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Change Edge's Settings
 
  Several optional Edge settings require their own separate processes. This includes Startup Boost and Hardware Acceleration. You can disable both of these features in**Edge Settings > System and Performance** .
 
 <!-- affiliate ads begin -->
-
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3/ Close Some Unused Tabs
 
  Each open tab in Edge could result in ten or more processes. If you regularly leave multiple unused tabs open, closing them will instantly help to reduce the number of active processes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Is There a Better Browser Choice For Windows
 
  Many modern browsers exhibit the same problem, including Opera, Brave, Vivaldi, and Chrome. All of them are based on Chromium. Firefox is one of the few modern browsers not to use the Google-developed browser architecture.
@@ -82,20 +88,27 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  It is worth remembering that the multi-process system is used for a reason and can provide better stability and security. But if you feel like trying out a new browser, peruse our list of the[best browsers for gamers](https://www.makeuseof.com/best-web-browsers-for-gamers/) and the[best browsers for Windows 11](https://www.makeuseof.com/windows-11-best-browsers/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Microsoft Edge's Processes, Cut DOwn
 
  The reasons why Microsoft Edge needs to have so many processes running might make sense, but that doesn't mean you have to be happy about the issue. Processes are an unavoidable part of Windows and any app you use, but reducing their number can provide a welcome performance boost.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +117,20 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-leading-6-social-media-channels-fostering-business-innovation-for-2024/"><u>[New] Leading 6 Social Media Channels Fostering Business Innovation for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-penny-pinching-picks-microphones-under-50/"><u>[Updated] Penny-Pinching Picks Microphones Under $50</u></a></li>
+<li><a href="https://win-best.techidaily.com/come-convertire-i-file-caf-in-mp4ogg-usando-movavi-video-editor-free-and-offline-risultati-ottimali-per-seo/"><u>Come Convertire I File CAF in MP4/OGG Usando Movavi Video Editor Free & Offline - Risultati Ottimali per SEO</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/cost-effective-long-range-radar-detector-options-to-consider/"><u>Cost-Effective Long Range Radar Detector Options to Consider</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/declutter-your-desktop-must-remove-windows-tools-and-programs/"><u>Declutter Your Desktop: Must-Remove Windows Tools and Programs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mystery-of-continuous-pauses-in-photo-booths/"><u>In 2024, Mystery of Continuous Pauses in Photo Booths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-reactivating-windows-task-manager/"><u>Methods for Reactivating Windows Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-systemsettingsexe-breakdown-in-win11/"><u>Overcoming SystemSettings.exe Breakdown in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-when-at-symbol-isnt-responding/"><u>Step-by-Step Solutions: When 'At' Symbol Isn't Responding</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-504-errors-effective-solutions-and-tips/"><u>Troubleshooting 504 Errors: Effective Solutions and Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-to-the-event-log-dilemran/"><u>Unveiling Solutions to the Event Log Dilemran</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-from-abyss-usb-keys-mice-to-revive-dormant-pcs-on-windows/"><u>Wake From Abyss: USB, Keys, Mice to Revive Dormant PCs on Windows</u></a></li>
+</ul></div>
 

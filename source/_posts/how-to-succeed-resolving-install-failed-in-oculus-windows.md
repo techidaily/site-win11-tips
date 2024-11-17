@@ -1,7 +1,7 @@
 ---
 title: "How to Succeed: Resolving Install Failed in Oculus Windows"
-date: 2024-10-30T23:10:21.512Z
-updated: 2024-11-07T03:09:58.698Z
+date: 2024-11-15T16:35:21.646Z
+updated: 2024-11-17T19:21:33.988Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the **OculusSetup.exe** file and selecting **Run as administrator**.
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
@@ -54,34 +61,13 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Install .NET Framework 4.6.1
 
@@ -91,10 +77,31 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 2. Click the **Download** option for .NET Framework 4.6.1.  
 ![The Download button for .NET Framework 4.6.1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/download-button-1.jpg)
 3. Bring up the directory containing the downloaded .NET Framework setup file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Double-click the **NDP461-KB3102438-Web.exe** file to bring up the setup window.
 5. Select to install .NET Framework 4.6.1 if you need to.
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
@@ -107,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `C:\Users\<User Folder>\AppData\LocalLow  
@@ -125,24 +132,6 @@ C:\Users\<User Folder>\AppData`
 
  However, some users can’t install the Oculus Windows app because of an error message that says, “Sorry, we encountered an error during installation.” Users can’t utilize Rift headsets without that software installed. Quest 2 users can’t play Rift PC VR games because of this issue. This is how you can fix the “we encountered an error” Oculus app installation issue.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-highlight-heroics-in-samsung-phone-games/"><u>[New] 2024 Approved Highlight Heroics in Samsung Phone Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-prime-8-android-apps-for-multi-person-video-conferencing/"><u>[New] 2024 Approved Prime 8 Android Apps for Multi-Person Video Conferencing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-game-changing-trick-enter-mac-apple-watch-style/"><u>2024 Approved Game-Changing Trick Enter Mac, Apple Watch Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bitfort-fractured-stay-the-course-before-change/"><u>BitFort Fractured: Stay the Course Before Change</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-printer-disconnection-in-windows-10-and-11-systems/"><u>Fast Track Printer Disconnection in Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-ways-to-leverage-ai-for-hacking-mastery/"><u>Five Ways to Leverage AI for Hacking Mastery</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-nvidias-revolutionary-rtx-ai-bot-install-and-utilize-on-desktop-computers/"><u>Navigating Through NVIDIA’s Revolutionary RTX AI Bot - Install and Utilize on Desktop Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-downloading-the-latest-broadcom-gigabit-driver-on-windows-10-fixed/"><u>Step-by-Step Tutorial to Downloading the Latest Broadcom Gigabit Driver on Windows 10 [FIXED]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-windows-10-audio-capture/"><u>Step-by-Step Windows 10 Audio Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-gateway-how-to-enter-os-settings/"><u>The Gateway: How to Enter OS Settings</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-gionee-f3-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Gionee F3 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/web-accessibility-in-the-absence-of-built-in-browser/"><u>Web Accessibility in the Absence of Built-In Browser</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-and-11-gaming-experience-boosted-by-solving-directdraw-errors/"><u>Windows 11 & 11 Gaming Experience Boosted by Solving DirectDraw Errors</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -150,3 +139,22 @@ C:\Users\<User Folder>\AppData`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-methods-to-flip-video-content-in-android/"><u>[New] 2024 Approved Methods to Flip Video Content in Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-how-to-communicate-with-youtube-subscribers/"><u>[Updated] 2024 Approved How to Communicate with YouTube Subscribers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-peerless-dialogue-creator-zone/"><u>[Updated] Peerless Dialogue Creator Zone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-spotify-listening-swiftly-but-safely/"><u>2024 Approved Streamlining Spotify Listening - Swiftly but Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-teamsters-shutdown-on-windows-11-10-systems/"><u>Avoiding Teamsters Shutdown on Windows 11, 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-act-comparing-two-essential-windows-metrics/"><u>Balancing Act: Comparing Two Essential Windows Metrics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstate-your-devices-access-post-error-22/"><u>Guide to Reinstate Your Device's Access Post Error 22</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-note-12-proplus-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi Note 12 Pro+ 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-steps-to-navigate-windows-system-restore-functions/"><u>Simplified Steps to Navigate Windows' System Restore Functions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-xlivedll-couldnt-be-loaded-dilemma-step-by-step-guide/"><u>Solving the 'Xlive.dll Couldn't Be Loaded' Dilemma - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mline-your-musical-journey-with-youtubes-60-second-clips-for-2024/"><u>Streamline Your Musical Journey with YouTube's 60-Second Clips for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-with-windows-11-safe-boot-tips/"><u>Troubleshoot With Windows 11 Safe Boot Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11-bluescreen-mastery-through-11-fixes/"><u>Unraveling Windows 11 Bluescreen: Mastery Through 11 Fixes</u></a></li>
+</ul></div>
+

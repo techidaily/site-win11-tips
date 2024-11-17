@@ -1,7 +1,7 @@
 ---
 title: "Disabling Read Locks: Free Up Files in Win OS"
-date: 2024-11-01T19:48:54.590Z
-updated: 2024-11-07T11:27:42.983Z
+date: 2024-11-16T19:47:00.138Z
+updated: 2024-11-17T17:42:57.495Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
  Note that Windows may prevent you from changing the read-only attribute of a file if you don’t have the necessary permissions to modify the folder in which the file is located. In that case, you must take ownership of the folder first. If you need help, check our guide on[how to take ownership of folders on Windows](<http://How> to Take Ownership of Folders in Windows 10 & 11) .
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Change the Read-Only Attribute for Files Using the Command Prompt
 
  Command Prompt is one of two command-line tools available on Windows. You can use it to run batch files, troubleshoot errors, and perform various other tasks. It also lets you change a file's read-only attribute with a single command. Here are the steps you need to follow.
@@ -52,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Change Read-Only Attribute With Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-Command-Prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you run the above command, the file will be set as read-only. Likewise, if you want to remove the read-only attribute for a file, use this command:
 
 `attrib -r "FilePath"`
@@ -68,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
  Like using Command Prompt? Check our guide to learn[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Read-Only Attribute for Files Using Windows PowerShell
@@ -92,10 +98,10 @@ To change the read-only attribute using PowerShell:
 ![Change Read-Only Attribute With PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-PowerShell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, if you want to remove the read-only attribute for a file, use this command:
@@ -103,10 +109,10 @@ To change the read-only attribute using PowerShell:
 `Set-ItemProperty -Path "FilePath" -Name IsReadOnly -Value $False`
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modifying the Read-Only Attribute for Files on Windows
@@ -128,24 +134,16 @@ To change the read-only attribute using PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-symphony-of-social-sharing-adding-audio-to-instagram/"><u>[Updated] 2024 Approved The Symphony of Social Sharing Adding Audio to Instagram</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-asmrs-role-in-better-nights-expert-vocal-guides/"><u>[Updated] ASMR's Role in Better Nights Expert Vocal Guides</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-bandicam-review-2023-everything-you-need-to-know/"><u>[Updated] Bandicam Review 2023 – Everything You Need To Know</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>[Updated] In 2024, From the Shadows to Spotlight Rise in Popularity with These Steps on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-tutorial-using-netstat-in-windows-11/"><u>A Comprehensive Tutorial: Using Netstat in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/character-discovery-windows-11-pathway/"><u>Character Discovery: Windows 11 Pathway</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-methods-to-revive-windows-desktop-icons/"><u>Efficient Methods to Revive Windows Desktop Icons</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-from-couch-to-camera-earning-through-personal-vlogging/"><u>In 2024, From Couch-to-Camera Earning Through Personal Vlogging</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/laptop-and-web-navigating-live-video-communication-in-whatsapp/"><u>Laptop & Web Navigating Live Video Communication in WhatsApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-revert-windows-settings-after-restart/"><u>Methods to Revert Windows Settings After Restart</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-network-address-translation-win1110-edition-explained/"><u>Navigating Network Address Translation: Win11/10 Edition Explained</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/poweradd-pilot-pro2-evaluation-a-powerhouse-device-to-recharge-your-tech-gadgets/"><u>POWERADD Pilot Pro2 Evaluation: A Powerhouse Device to Recharge Your Tech Gadgets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-overheat-in-laptops-with-intensive-play/"><u>Preventing Overheat in Laptops with Intensive Play</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/sabrent-thunderbolt-4-integrated-display-mount-at-only-350-ultimate-connectivity-with-usb-power-delivery-and-ethernet/"><u>Sabrent Thunderbolt 4 Integrated Display Mount at Only $350: Ultimate Connectivity with USB Power Delivery & Ethernet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-sound-system-malfunctions/"><u>Tackling Windows Sound System Malfunctions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-cryptic-error-code-0x80004005-expert-tips-for-resolution/"><u>Troubleshooting the Cryptic Error Code 0X80004005: Expert Tips for Resolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-the-microsoft-visual-cplusplus-redistributable-used-for/"><u>What Is the Microsoft Visual C++ Redistributable Used For?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-tools-unveiled-for-the-curious-newbie/"><u>Windows Tools Unveiled for the Curious Newbie</u></a></li>
+<li><a href="https://discover-great.techidaily.com/puede-handbrake-generar-codecs-av1-para-transcodificacion/"><u>¿Puede HandBrake Generar Codecs AV1 Para Transcodificación?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-the-premier-html5-video-players-list/"><u>[New] 2024 Approved Unveiling The Premier HTML5 Video Players List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-record-gameplay-on-xbox-one/"><u>[New] In 2024, How to Record Gameplay on Xbox One</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-hotcapture-firefox-add-ons/"><u>[Updated] 2024 Approved HotCapture FireFox Add-Ons</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pro-level-screenshot-techniques-with-top-11-tools/"><u>[Updated] Pro-Level Screenshot Techniques with Top 11 Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-key-adjustments-to-reestablish-wi-fi-connectivity-in-windows-10-systems/"><u>5 Key Adjustments to Reestablish Wi-Fi Connectivity in Windows 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ancient-windows-features-you-can-still-find-in-windows-11/"><u>7 Ancient Windows Features You Can Still Find in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-repairing-onedrive-on-windows-11/"><u>A Step-by-Step Approach to Repairing OneDrive on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-filmmaking-on-a-shoestring-9-best-budget-friendly-software-options-for-2024/"><u>Updated Filmmaking on a Shoestring 9 Best Budget-Friendly Software Options for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719285972506-windows-error-trouble-with-compatibility-tool-here-are-quick-solutions/"><u>Windows Error: Trouble with Compatibility Tool? Here Are Quick Solutions</u></a></li>
 </ul></div>
 

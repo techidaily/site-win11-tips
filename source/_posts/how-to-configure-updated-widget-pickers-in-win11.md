@@ -1,7 +1,7 @@
 ---
 title: How to Configure Updated Widget Pickers in Win11
-date: 2024-11-01T08:51:54.346Z
-updated: 2024-11-07T08:27:51.454Z
+date: 2024-11-10T16:47:09.377Z
+updated: 2024-11-17T17:55:41.799Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is ViveTool And Why Do You Need It?
 
  Part of Microsoft's job to improve Windows 11 is adding new features to the OS. And many a time, some of these new features remain hidden in Windows 11 Insider builds. This is where ViveTool comes in handy. It's third-party software that allows you to enable hidden features in Windows 11 by enabling feature IDs.
@@ -42,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the Redesigned Widgets Picker Using ViveTool
@@ -53,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 ![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you are done setting up ViveTool on your PC, you are only a few steps away from enabling the specific feature ID for the redesigned Widgets picker. Here are the steps to turn on the feature ID for the new Widgets picker to surface:
@@ -71,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
 
  Microsoft introduces new features and ideas first to Canary and Dev Insider channels. After taking feedback from Insiders, it decides whether it should release them to other Insider channels.
@@ -87,16 +93,10 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
  However, things can go wrong, and Microsoft can scrap the feature before releasing it to other channels.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Redesigned Widgets Picker in Windows 11, Enabled
@@ -105,23 +105,6 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-media-making-filmoras-edge-over-democreator/"><u>[New] In 2024, Mastering Media Making Filmora's Edge Over Democreator</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-change-background-in-google-meet/"><u>[Updated] 2024 Approved How to Change Background in Google Meet</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-meme-framework-essentials/"><u>[Updated] Prime Meme Framework Essentials</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-quickcapture-simplified-windows-screen-record-for-2024/"><u>[Updated] QuickCapture Simplified Windows Screen Record for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/click-without-the-rush-learn-to-deactivate-mouse-acceleration-windows-style/"><u>Click Without the Rush: Learn to Deactivate Mouse Acceleration Windows Style</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cutthroat-capitalism-reimagined-an-in-depth-review-of-offworld-trading-companys-economy-simulation/"><u>Cutthroat Capitalism Reimagined: An In-Depth Review of Offworld Trading Company's Economy Simulation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-to-correct-xbox-mic-issues-in-os/"><u>Guidelines to Correct Xbox Mic Issues in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-adjust-windows-activity-lock/"><u>How to Adjust Windows Activity Lock</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultra-clear-gaming-best-21-hdmi-compatible-monitors-ps5/"><u>In 2024, Ultra Clear Gaming Best 2.1 HDMI Compatible Monitors [PS5]</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-the-onyx-void-restoring-your-iphone-from-a-black-screen-catastrophe/"><u>Overcoming the Onyx Void: Restoring Your iPhone From a Black Screen Catastrophe</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unveiling-the-perfect-compact-aerial-photographer-the-dji-spark-breakdown/"><u>Unveiling the Perfect Compact Aerial Photographer The DJI Spark Breakdown</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-variancies-amazon-echo-pop-vs-echo-dot-explained/"><u>Unveiling the Variancies: Amazon Echo Pop Vs. Echo Dot Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-upgrading-isnt-feeling-right-for-many-to-windows-11/"><u>Why Upgrading Isn't Feeling Right for Many to Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -129,3 +112,21 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-overcome-sound-absence-on-tweeted-film-rolls/"><u>[New] Overcome Sound Absence on Tweeted Film Rolls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-master-the-art-of-photo-display-with-best-frames/"><u>[Updated] In 2024, Master the Art of Photo Display with Best Frames</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-steps-for-unlocking-stuck-obs-fullscreen-mode/"><u>[Updated] In 2024, Steps for Unlocking Stuck OBS Fullscreen Mode</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/cut-trim-and-enhance-leading-apps-for-android-and-pc-editing/"><u>Cut, Trim & Enhance Leading Apps for Android and PC Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-browser-copy-paste-woes-in-windows/"><u>Essential Fixes for Browser Copy-Paste Woes in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-mobile-camera-best-android-practices/"><u>In 2024, Mastering Mobile Camera Best Android Practices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4ps4/"><u>MP4ビデオがPS4で再生しない時の対策とエラー解決法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-screen-unresponsive-error-on-windows-11/"><u>Overcoming 'Screen Unresponsive' Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-faulty-windows-11-recycle-bin-messages/"><u>Purging Faulty Windows 11 Recycle Bin Messages</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-gaming-choice-the-inescapable-magic-of-our-12-tycoons/"><u>Top Gaming Choice The Inescapable Magic of Our #12 Tycoons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-winerror-0x80071a90-in-windows/"><u>Understanding & Resolving WinError: 0X80071a90 in Windows</u></a></li>
+</ul></div>
+

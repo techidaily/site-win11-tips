@@ -1,7 +1,7 @@
 ---
 title: "Trio of Tiles: Windows 11 Widgets Configuration for Peak Performance"
-date: 2024-11-01T02:38:19.962Z
-updated: 2024-11-06T17:39:48.951Z
+date: 2024-11-10T16:14:57.202Z
+updated: 2024-11-17T16:22:07.584Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 
 Simply put, they have no separation in the two-column Widgets view.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the ViveTool and Why Do You Need It to Enable the New Widgets Board?
 
  ViveTool is a third-party application that helps you enable features many Windows Insiders or the general public cannot use in Windows 11\. In other words, the tool allows us to enable hidden features in Windows 11\. We have a detailed guide on[downloading and using ViveTool to enable unreleased features](http://www.makeuseof.com/vivetool-windows-guide/) .
@@ -50,16 +43,16 @@ Simply put, they have no separation in the two-column Widgets view.
 
  For convenience, set up ViveTool and its extracted contents in the**C:/ViVeTool** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable the New Widgets Panel in Windows 11
 
 ![Screenshot showing how to enable three column widget panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you have successfully set up ViveTool on your PC, you can jump straight to the steps required to enable the specific feature ID for the three-column Widgets view.
 
@@ -73,32 +66,57 @@ vivetool /enable /id:43028164
 
  Now, launch the Widgets panel from the taskbar. If you do not have the Widgets icon in the taskbar, you can tweak the taskbar setting and bring that icon to your taskbar.
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will the Widgets Panel Be Available for Other Insider Channels?
 
  Every feature that Microsoft tests in Canary Channel build may or may not make it to other Insider Channels. The new Widgets Board is no exception.
 
  But since Microsoft has officially confirmed that it will be available to more Insiders in the coming days, we are hopeful it will make its way to other channels and, eventually, to a stable Windows 11 release.
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Widgets Panel Always Have Three Columns in the Future?
 
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
 
  However, we cannot rule out the possibility of Microsoft making the larger Widgets board optional in the future, allowing users to decide which suits them best.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New Widgets Board in Windows 11, Enabled
@@ -122,18 +140,18 @@ vivetool /enable /id:43028164
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-edu-top-ten-inspiring-educational-content-yt/"><u>[New] 2024 Approved Edu-Top Ten Inspiring Educational Content YT</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-safely-download-facebook-media-on-windowsmac/"><u>[Updated] In 2024, Safely Download Facebook Media on Windows/Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/breaking-down-rumors-on-the-proposed-apple-car-preliminary-pricing-projected-release-date-and-expert-specs-review/"><u>Breaking Down Rumors on the Proposed Apple Car – Preliminary Pricing, Projected Release Date & Expert Specs Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cartooncast-comprehensive-24-guidebook-for-2024/"><u>CartoonCast Comprehensive '24 Guidebook for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-ai-the-good-and-possible-dangers/"><u>Demystifying AI: The Good & Possible Dangers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-y200e-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Y200e 5G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lure-inducing-title-engineer/"><u>In 2024, Lure-Inducing Title Engineer</u></a></li>
-<li><a href="https://discover-great.techidaily.com/manuel-comprensible-como-usar-correctamente-el-programa-de-copia-de-dvd-winxdvd/"><u>Manuel Comprensible: Cómo Usar Correctamente El Programa De Copia De DVD WinXDVD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhaul-window-mail-and-calendar-appearance-with-pics/"><u>Overhaul Window Mail & Calendar Appearance with Pics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-dxgierrordevicehunk-in-windows-systems/"><u>Remedying DXGI_ERROR_DEVICE_HUNK in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-unsigned-updates-issue/"><u>Techniques to Overcome Unsigned Updates Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-fixes-for-mysterious-disk-space-loss-in-windows/"><u>Top Fixes for Mysterious Disk Space Loss in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/yuneec-breeze-4k-the-ultimate-uav-showcase/"><u>Yuneec Breeze 4K - The Ultimate UAV Showcase</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-reversal-blueprint-swiftly-backward-apple-vids-for-2024/"><u>[New] Reversal Blueprint Swiftly Backward Apple Vids for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-find-your-ideal-wedding-timer-on-android-and-ios-platforms-here/"><u>[Updated] Find Your Ideal Wedding Timer on Android & iOS Platforms Here</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-prime-steadicam-devices-for-drones-in-filmmaking-for-2024/"><u>[Updated] Prime Steadicam Devices for Drones in Filmmaking for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-through-telegram-web-easily-and-quickly/"><u>2024 Approved Navigating Through Telegram Web Easily and Quickly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-your-guide-to-the-finest-youtube-subtitles-extractor/"><u>2024 Approved Your Guide to the Finest YouTube Subtitles Extractor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-meaning-and-solution-of-winerror-0x80071a90/"><u>Decoding the Meaning & Solution of WinError 0X80071a90</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-automated-software-fixes-windows-way/"><u>Delving Into Automated Software Fixes: Windows Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-to-know-wintoys-your-intuitive-guide-to-an-underutilized-tool-in-windows/"><u>Getting to Know WinToys: Your Intuitive Guide to an Underutilized Tool in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-eternal-memory-keepsake-blend-free-cloud-services-with-elite-charged-spaces/"><u>In 2024, Eternal Memory Keepsake Blend Free Cloud Services with Elite Charged Spaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/msstore-dilemma-resolving-windows-error-code-0x0-in-3-steps/"><u>MsStore Dilemma - Resolving Windows Error Code 0X0 in 3 Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-0x80072746-email-failure-on-windows-pc/"><u>Resolving the 0X80072746 Email Failure on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-disconnected-remote-resources-on-your-pc/"><u>Reviving Disconnected Remote Resources on Your PC</u></a></li>
 </ul></div>
 

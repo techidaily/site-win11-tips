@@ -1,7 +1,7 @@
 ---
 title: Function (Fn) Mastery for Smooth Windows Experience
-date: 2024-11-02T03:34:27.627Z
-updated: 2024-11-06T20:06:09.180Z
+date: 2024-11-16T17:35:47.020Z
+updated: 2024-11-17T19:07:14.373Z
 tags:
   - windows10
   - windows11
@@ -35,25 +35,11 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 
  Below, we have listed different ways of locking and unlocking the Fn key in Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Use the Keyboard
 
  In several keyboards, the Esc key acts as a Function padlock key. You will notice a small padlock icon on the Esc key if that is the case for your keyboard.
 
  To lock the Fn key, simply press the Fn key and the Esc key together. Once the lock icon lights up, the Fn key has been successfully locked. To unlock, you can press both keys together again.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access the BIOS Settings
 
@@ -63,21 +49,30 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 2. Head over to**Troubleshoot** and click on**Advanced Options** .  
 ![Advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-troubleshoot-advanced-options-1.jpg)
 3. Click on**UEFI Firmware Settings** and hit**Restart** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 10 Troubleshoot Advanced Options UEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/uefi-screenshot.jpg)
 4. Once the computer restarts, the BIOS will launch.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Head over to the System Configuration section and choose the**Action Key Mode** .
 6. Disable**Action Key Mode** .
 7. Alternatively, in the Advanced tab, access the**Function key behavior** .
 8. Choose the**Function key** option to lock it.  
 ![Function Key Behavior](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key.jpg)
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
 
@@ -91,13 +86,20 @@ Follow these steps to proceed:
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Manage Your Fn Key Better on Windows
 
@@ -118,17 +120,20 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/he-digital-dividend-understanding-the-calculus-of-converting-viewership-into-revenue-for-2024/"><u>[New] The Digital Dividend Understanding the Calculus of Converting Viewership Into Revenue for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-jake-paul-unveiled-charting-the-path-of-youtube-stardom/"><u>[Updated] In 2024, Jake Paul Unveiled Charting the Path of YouTube Stardom</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-top-ideas-to-spice-up-your-daily-snapchat-routine/"><u>[Updated] In 2024, Top Ideas to Spice Up Your Daily Snapchat Routine</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mac-basics-for-creating-attractive-first-youtube-videos/"><u>[Updated] Mac Basics for Creating Attractive First Youtube Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/guide-to-the-elite-audiovideo-makers-web/"><u>Guide to the Elite Audio/Video Makers Web</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-web-server-with-iis-opening-techniques/"><u>Mastering Your Web Server with IIS Opening Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcpx-power-user-mastering-freeze-frames-slow-motion-and-beyond/"><u>New In 2024, FCPX Power User Mastering Freeze Frames, Slow Motion, and Beyond</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-download-speeds-steam-and-windows-collaboration/"><u>Optimizing Download Speeds: Steam & Windows Collaboration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-conflicting-programs-in-win10-environment/"><u>Resolving Conflicting Programs in Win10 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-reactivating-nvidia-cp-not-opened-in-win-11/"><u>Tips for Reactivating Nvidia CP Not Opened in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-error-code-0x800f0831/"><u>Troubleshooting Windows 11: Error Code 0X800F0831</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-conversational-commerce-top-7-insights-on-ai-chatbot-services/"><u>Unlock the Power of Conversational Commerce: Top 7 Insights on AI Chatbot Services</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-next-level-content-workshop/"><u>[New] 2024 Approved Next Level Content Workshop</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-can-you-screen-record-snapchat-on-mobile-phone-for-2024/"><u>[Updated] How Can You Screen Record Snapchat on Mobile Phone for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726223569148-mxf-mp4/"><u>「圧縮せずに直接変換!無料のオンラインMXF MP4コンバーター - ムーヴァビ」</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-the-store-reactivation-steps-for-ms-in-windows-11/"><u>Bring Back the Store: Reactivation Steps for MS in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-outdated-computers-into-the-win11-era/"><u>Bringing Outdated Computers Into the Win11 Era</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-hidden-taskbar-scan-shield-in-windows-11/"><u>Bypass Hidden Taskbar Scan Shield in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-unknown-device-error-step-by-step-guide-for-windows-users/"><u>Bypassing 'Unknown Device Error': Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11-admin-lockdown/"><u>Bypassing Windows 11 Admin Lockdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-your-geforce-experience-scanning-problem-in-win/"><u>Bypassing Your GeForce Experience Scanning Problem in Win</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exploring-techniques-for-photo-based-tileworks/"><u>Exploring Techniques for Photo-Based Tileworks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-interactive-video-magnification-system/"><u>In 2024, Interactive Video Magnification System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-fix-installing-printer-drivers-efficiently/"><u>Instant Fix: Installing Printer Drivers Efficiently</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-demystified-utilizing-facebooks-transparency-hub-features/"><u>Social Media Demystified: Utilizing Facebook's Transparency Hub Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-fixing-hp-printer-driver-conflicts-in-win-os/"><u>Update: Fixing HP Printer Driver Conflicts in Win OS</u></a></li>
 </ul></div>
 

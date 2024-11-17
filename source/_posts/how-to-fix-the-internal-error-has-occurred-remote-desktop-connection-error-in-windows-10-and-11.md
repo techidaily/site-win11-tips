@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “Internal Error Has Occurred” Remote Desktop Connection Error in Windows 10 & 11
-date: 2024-09-01T05:15:50.647Z
-updated: 2024-09-02T05:15:50.647Z
+date: 2024-11-15T17:05:35.133Z
+updated: 2024-11-17T19:25:56.652Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,24 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
 
  If you don’t see the**Allow connections only from computers** option, that probably means the Windows platform isn’t a Pro or Enterprise edition. You can only enable remote connections on host computers with Windows Pro and Enterprise. However, you can still connect to host PCs with Windows Home client PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disable Network Layer Authentication
 
  There’s an **Allow connections only from computers running Remote Desktop with Network Level Authentication** setting just below the**Allow Remote connection** radio button. Selecting that option implements tighter Network Layer Authentication security for remote connections. However, some users confirm that disabling NLA by unticking that checkbox can fix the “internal error has occurred” error. So, deselect that option if you’ve got it selected.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Start or Restart the Remote Desktop Connection Service
 
  Remote Desktop Services is a service needed for connecting to remote PCs. So, it could be the case you need to fix the “internal error has occurred” error because that service isn’t enabled on your PC. This is how you can start the Remote Desktop Services in Windows 11/10:
@@ -51,18 +62,27 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
 3. Double-click**Remote Desktop Services** to access some configuration settings for that service.  
 ![The Remote Desktop Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/services-window.jpg)
 4. If disabled, select**Automatic** on the**Startup** drop-down menu for Remote Desktop Services.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Start** (inside the properties window) to run Remote Desktop Services.  
 ![The Remote Desktop Services Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-services-service.jpg)
 6. Select**Apply** to set the new service options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Then you can exit the window by clicking**OK** or**X** .
 8. If Remote Desktop Services is already running, you can try restarting it instead. Right-click**Remote Desktop Services** to view its context menu and select**Restart** from there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Select the "Reconnect if the Connection Is Dropped" Setting
 
  Some Remote Desktop Connection users have confirmed that selecting a**Reconnect if the connection is dropped** setting in that app can resolve this error. That simple potential resolution is certainly worth a try. You can select that**Reconnect** setting like this:
@@ -71,16 +91,10 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
 2. Click**Show Options** to view RDC’s settings.  
 ![The Remote Desktop Connections app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-connections.jpg)
 3. Select the**Experience** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![The Experience tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/experience-tab.jpg)
 4. Then select the**Reconnect if the connection is dropped** checkbox.
 5. Press the**Connect** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 5\. Set an Automatic DNS Server
 
  If you’ve set a specific DNS server on your PC, change to an automatic DNS server instead. There could be an issue with the DNS server you’ve set. You can set an automatic DNS server like this:
@@ -90,17 +104,32 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
 3. Right-click the internet connection to select its**Properties** context menu option.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/properties-option-1.jpg)
 4. Select**Internet Protocol Version 4** and click**Properties** .
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Then click**Obtain DNS server automatically** radio button.  
 ![The Obtain DNS server radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/obtain-dns-server-option.jpg)
 6. Also, click**Obtain an IP address automatically** if that option isn’t selected.
 7. Select**OK** to confirm the new DNS and IP address settings.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Enable the "Require Use of Specific Security Layer" Group Policy Setting
 
  Group Policy includes a**Require use of specific security layer policy** setting. Enabling an RDP security layer with that policy might fix the “internal error has occurred” error for some users. To do so, set the**Require use of specific security layer** policy setting as follows:
@@ -112,10 +141,31 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
 5. Double-click the **Require use of specific security layer for remote (RDP) connections** policy.  
 ![The Security policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-policies.jpg)
 6. Select the**Enabled** radio button for that policy.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Choose**RDP** in the**Security Layer** drop-down menu.  
 ![The Security Layer RDP option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rdp-option.jpg)
 8. Click**Apply** \>**OK** inside the**Require use of specific security layer** for remote (RDP) connections policy window.
 9. Restart Windows and then open the Remote Desktop Connection app to check if that fixes the issue.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Turn Off UDP on the Client via Group Policy
 
@@ -130,9 +180,6 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
 4. Click**Apply** to set the new**Turn off UDP** on Client policy.
 5. Select**OK** in the**Turn off UDP on Client** window and exit Group Policy Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 8\. Disconnect a Domain Account
 
  Is your PC connected with a domain (work or school) account? If so, that domain account could be causing the remote connection issue. Try disconnecting a domain account like this:
@@ -142,15 +189,9 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
 3. Click**Access work or school** to view connected domain accounts.  
 ![Domain account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/access-work-or-school-accounts.jpg)
 4. Select**Disconnect** for a domain account.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Press your Start menu’s**Restart** button.
 6. Then try connecting to the remote computer with RDC again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Turn Off Any Active VPNs
 
  VPNs that route connections to different servers can also cause the “internal error has occurred” issue to arise. If you’re utilizing a VPN, at least try temporarily disabling it. This is how you can turn off a VPN in Settings:
@@ -171,8 +212,6 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +219,26 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-solution-guide-turning-xml-and-ttml-into-srt/"><u>[New] Comprehensive Solution Guide Turning XML & TTML Into SRT</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-brand-reflection-personalize-free-logo-templates-to-perfection/"><u>[New] In 2024, Brand Reflection Personalize Free Logo Templates to Perfection</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ultimate-cameras-for-athletic-spectacle-for-2024/"><u>[New] Ultimate Cameras for Athletic Spectacle for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-optimal-sound-systems-under-100-for-immersive-gameplay-for-2024/"><u>[Updated] Optimal Sound Systems Under $100 for Immersive Gameplay for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-state-of-the-art-devices-for-online-live-shows/"><u>[Updated] State-of-the-Art Devices for Online Live Shows</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/echo-chatters-how-to-fix-silent-microphones-on-google-meet-windows/"><u>Echo Chatters: How to Fix Silent Microphones on Google Meet, Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-telnet-on-windows-11-a-guide/"><u>Enabling Telnet on Windows 11 - A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-to-try-if-you-cannot-change-the-power-mode-in-windows-11/"><u>Fixes to Try If You Cannot Change the Power Mode in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-way-user-access-control-works-for-administrators-on-windows/"><u>How to Change the Way User Access Control Works for Administrators on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a05s-phone-without-password-by-drfone-android/"><u>How To Unlock Itel A05s Phone Without Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 11 Pro Max</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-lenovos-academic-offers-steps-to-secure-student-pricing-benefits/"><u>Navigating Lenovo's Academic Offers: Steps to Secure Student Pricing Benefits</u></a></li>
+<li><a href="https://win-guides.techidaily.com/revolutionizing-data-protection-with-dell-emcs-advanced-backup-solutions-for-enhanced-security-and-trustworthiness/"><u>Revolutionizing Data Protection with Dell EMC's Advanced Backup Solutions for Enhanced Security and Trustworthiness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-data-cleanse-software-stellar-delete-master-tailored-to-windows-auto-schedule-feature/"><u>Secure Data Cleanse Software: Stellar Delete Master, Tailored to Windows Auto-Schedule Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-resolve-backward-typing-phenomenon/"><u>Solutions to Resolve Backward Typing Phenomenon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-on-or-off-the-windows-feature-service/"><u>Turn On or Off the Windows Feature Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackle-notepad-quick-efficient-ways-to-restart-on-windows-pcs/"><u>Unshackle Notepad: Quick, Efficient Ways to Restart on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-enablingdisabling-usb-device-access/"><u>Windows Security: Enabling/Disabling USB Device Access</u></a></li>
+</ul></div>
 

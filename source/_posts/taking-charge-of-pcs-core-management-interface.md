@@ -1,7 +1,7 @@
 ---
 title: Taking Charge of PC's Core Management Interface
-date: 2024-11-05T22:16:01.682Z
-updated: 2024-11-07T10:23:48.622Z
+date: 2024-11-15T16:15:47.771Z
+updated: 2024-11-17T17:05:21.825Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  This will open up the Control Panel with elevated privileges so that you can make changes effectively and safely. And while we're at it, did you know there are many[ways to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Open the Control Panel as an Administrator With a Desktop Shortcut
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 C:\WINDOWS\system32\control.exe
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You now need to name your shortcut (Control Panel) and click**Finish** . Once you’ve created the shortcut, it will be placed on your desktop.  
@@ -62,16 +62,10 @@ C:\WINDOWS\system32\control.exe
 4. Next, right-click on the shortcut and select**Properties** .
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the Shortcut tab, click on**Advanced** .
@@ -81,16 +75,10 @@ C:\WINDOWS\system32\control.exe
  Now, whenever you need to access an elevated Control Panel, simply double-click on it.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Most Out of Elevated Control Panel
@@ -112,21 +100,18 @@ C:\WINDOWS\system32\control.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-student-focused-historical-yt-series/"><u>[Updated] 2024 Approved Best Student-Focused Historical YT Series</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-crescendo-to-calmness-premier-asmr-artists/"><u>[Updated] 2024 Approved Crescendo to Calmness Premier ASMR Artists</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-tech-skills-record-on-hangouts/"><u>[Updated] 2024 Approved Essential Tech Skills Record on Hangouts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-maximizing-video-impact-with-zoom-in-tiktok/"><u>2024 Approved Maximizing Video Impact with Zoom in TikTok</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-the-common-d3de-error-not-available-problem/"><u>Diagnosing and Fixing the Common D3DE ERROR: Not Available Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-error-30005-struggles-with-new-file-creation/"><u>Fixing Windows Error 30005 - Struggles with New File Creation</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-spark-10-5g-by-drfone-android/"><u>How to Bypass FRP from Tecno Spark 10 5G?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implementing-fixes-for-unstartable-windows-services/"><u>Implementing Fixes for Unstartable Windows Services</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-blur-and-background-erasure-in-photography/"><u>In 2024, The Ultimate Guide to Blur and Background Erasure in Photography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsofts-copilot-key-what-does-it-mean-for-your-windows-11-pc/"><u>Microsoft's Copilot Key: What Does It Mean For Your Windows 11 PC?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/oculus-spectacular-expert-reviews-and-choices/"><u>Oculus Spectacular Expert Reviews and Choices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalizing-your-pcs-dns-with-ease-in-windows-11/"><u>Revitalizing Your PC's DNS with Ease in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-win11-wi-fi-accessibility-with-9-steps/"><u>Securing Win11 Wi-Fi Accessibility with 9 Steps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/speed-on-thin-ice-top-performances-from-the-olympics-for-2024/"><u>Speed on Thin Ice Top Performances From the Olympics for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-non-displaying-searches-in-win-1011-os/"><u>Strategies for Fixing Non-Displaying Searches in Win 10/11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-manipulating-the-windows-11-registry-to-unlock-themes/"><u>The Art of Manipulating the Windows 11 Registry to Unlock Themes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-6-minecraft-abodes-for-survivors/"><u>[Updated] Top 6 Minecraft Abodes for Survivors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-to-create-gifs-from-youtube-videos-on-desktop-and-mobile-devices/"><u>2024 Approved How to Create GIFs From YouTube Videos on Desktop and Mobile Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/boosting-game-speed-optimizing-minecrafts-ram-usage-for-2024/"><u>Boosting Game Speed Optimizing Minecraft's RAM Usage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/cambia-da-ape-a-aiff-senza-costi-utilizzando-il-servizio-online-di-conversione-di-movavi/"><u>Cambia Da .ape a .aiff Senza Costi Utilizzando Il Servizio Online Di Conversione Di Movavi</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comprehensive-walkthrough-for-reviving-damaged-hard-disk-sectors/"><u>Comprehensive Walkthrough for Reviving Damaged Hard Disk Sectors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-master-windows-blue-screen-troubleshooting/"><u>How to Master Windows Blue Screen Troubleshooting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pushing-boundaries-with-enhanced-exposure-controls/"><u>Pushing Boundaries with Enhanced Exposure Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-windows-11-support-features/"><u>Re-Establishing Windows 11 Support Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reach-out-to-digiarty-now-your-digital-partner/"><u>Reach Out to Digiarty Now - Your Digital Partner</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-old-password-needed-on-windows-11-errors/"><u>Remedy for 'Old Password Needed' On Windows 11 Errors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-streamline-your-windows-netconnection-access/"><u>Step-By Step to Streamline Your Windows NetConnection Access</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/streamlining-your-viewing-experience-6-effective-mac-strategies-for-netflix-screenshots/"><u>Streamlining Your Viewing Experience 6 Effective Mac Strategies for Netflix Screenshots</u></a></li>
 </ul></div>
 

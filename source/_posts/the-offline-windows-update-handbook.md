@@ -1,7 +1,7 @@
 ---
 title: The Offline Windows Update Handbook
-date: 2024-10-30T22:57:32.848Z
-updated: 2024-11-07T03:09:38.255Z
+date: 2024-11-14T19:54:16.656Z
+updated: 2024-11-17T16:29:10.593Z
 tags:
   - windows10
   - windows11
@@ -36,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
  After launching Portable Update, click on **Start** for the app to download the files it needs to run. This process shouldn't take long, and when it's done, the app should open completely.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan for the Update Files
@@ -54,25 +48,18 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
 ![an empty search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/an-empty-search-tab-in-portable-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the Portable Update completes its search, it will list the available Windows updates that you can download.
 
 ![a populated search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-populated-search-tab-in-portable-update.jpg)
 
- Now, that you know what's available, it's time to download the files for offline installation.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now, that you know what's available, it's time to download the files for offline installation.
 
 ## 3\. Download the Windows Update You Want
 
@@ -84,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
 ![the Cache folder in the Portable Update folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-cache-folder-in-the-portable-update-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you're ready to move the program over to the offline computer.
 
 ## 4\. Install the Selected Windows Updates
@@ -92,40 +86,18 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
 ![the Install tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-install-tab-in-portable-update.jpg)
 
- After Portable Update does its thing, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/) to let the OS finish installing the updates on its side of things (like it normally does).
-
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After Portable Update does its thing, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/) to let the OS finish installing the updates on its side of things (like it normally does).
 
 ## Install Windows Updates Another Way
 
  You can update an offline computer easily with Portable Update. As long as you have the program and all the necessary Windows Update files, the process should be a breeze. The best part is that you can update any other computer that needs an update this way, even if it has internet access.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/avoiding-user-adjustments-to-windows-screensaver/"><u>Avoiding User Adjustments to Windows Screensaver</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cpu-generation-inquiry-on-windows-8-efficient-approaches/"><u>CPU Generation Inquiry on Windows – 8 Efficient Approaches</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/extend-your-apple-watchs-lifeline-discover-the-ultimate-8-settings-tweaks-for-enhanced-battery-performance-by-tech-experts-at-zdnet/"><u>Extend Your Apple Watch's Lifeline: Discover the Ultimate 8 Settings Tweaks for Enhanced Battery Performance by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-10-best-video-zoom-editor/"><u>In 2024, 10 Best Video Zoom Editor</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-moto-e13-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Moto E13 Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-a24-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy A24 Face Lock?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-regain-normal-colors-of-microsoft-shop/"><u>Methods to Regain Normal Colors of Microsoft Shop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-the-mechanics-of-gpt4all-an-insightful-explanation/"><u>Navigating Through the Mechanics of GPT4All - An Insightful Explanation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-high-definition-videos-best-editing-software-2023/"><u>Unleash High-Definition Videos Best Editing Software 2023</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-youre-overlooking-with-low-priced-activation-keys/"><u>What You're Overlooking with Low-Priced Activation Keys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-mastering-delete-confirmation-options/"><u>Windows: Mastering Delete Confirmation Options</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,3 +106,22 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leveraging-phone-capabilities-for-efficient-video-recording/"><u>[New] 2024 Approved Leveraging Phone Capabilities for Efficient Video Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-registration-simplified-for-2024/"><u>[Updated] Facebook Registration Simplified for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-locomotion-survey-2023/"><u>[Updated] Total Locomotion Survey 2023</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-the-power-of-vsco-color-grading/"><u>2024 Approved Unveiling the Power of VSCO Color Grading</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ais-best-podcast-naming-tools-top-ten-list-for-2024/"><u>AI's Best Podcast Naming Tools Top Ten List for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-file-organization-grouped-directories-at-a-glance-on-windows-11/"><u>Enhance File Organization - Grouped Directories at a Glance on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-vigilance-tracking-top-7-potential-infection-pathways/"><u>Essential Windows Vigilance: Tracking Top 7 Potential Infection Pathways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-a-tidy-desktop-unnecessary-windows-software-list/"><u>Get a Tidy Desktop: Unnecessary Windows Software List</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-sony-xperia-10-v-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Sony Xperia 10 V Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-keyboard-functionality-embedding-commands-for-wordpad-into-context-bar/"><u>Optimizing Keyboard Functionality: Embedding Commands for Wordpad Into Context Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-operation-failure-in-windows-11-error-0x0000011b/"><u>Overcoming Operation Failure in Windows 11 (Error 0X0000011B)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-sudden-security-hurdles/"><u>Overcoming Windows 11'S Sudden Security Hurdles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/proiphone-close-ups-techniques-for-captivating-images-for-2024/"><u>Proiphone Close-Ups Techniques for Captivating Images for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Customizing File Explorer for D: Drive Accessibility"
-date: 2024-11-04T10:07:51.703Z
-updated: 2024-11-06T18:41:00.482Z
+date: 2024-11-15T19:04:41.560Z
+updated: 2024-11-17T17:41:13.708Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
@@ -43,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
@@ -94,16 +88,16 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The D: drive should now be visible in the bottom part of the Navigation pane.
 
@@ -123,36 +117,15 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
  Now the D: drive should be gone from the navigation pane in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create an Easier Way to Access the D: Drive on Your Windows Computer
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b/"><u>[New] High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-a-leaders-list-of-8-online-havens-for-golden-3d-and-text/"><u>[New] In 2024, A Leader's List of 8 Online Havens for Golden 3D & Text</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-storytelling-free-onlineoffline-animations/"><u>[Updated] Revolutionizing Storytelling Free Online/Offline Animations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-new-interfaces-in-windows-11-post-update-edition/"><u>Discovering New Interfaces in Windows 11 Post-Update Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-deep-into-server-management-using-iis-manager/"><u>Dive Deep Into Server Management Using IIS Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/illuminate-your-living-space-embrace-the-season/"><u>Illuminate Your Living Space, Embrace the Season</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-full-apps-deep-dive-with-az-video-logger-pro/"><u>In 2024, Full-Apps Deep Dive with AZ Video Logger Pro</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-real-time-engagement-proven-strategies-for-facebook-video-screen-sharing/"><u>In 2024, Real-Time Engagement Proven Strategies for Facebook Video Screen Sharing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-depth-walkthrough-for-theme-implementation-via-microsoft-store/"><u>In-Depth Walkthrough for Theme Implementation via Microsoft Store</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g-pro-driver-version-available-compatible-with-windows-os/"><u>Latest Logitech G PRO Driver Version Available: Compatible with Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-syncing-wsl-with-windows-11/"><u>Mastering the Art of Syncing WSL With Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-windows-11-soundscape-with-custom-control-commands/"><u>Optimize Windows 11 Soundscape with Custom Control Commands</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-guide-to-updating-and-downloading-sata-driver-software-for-windows-machines/"><u>Seamless Guide to Updating and Downloading SATA Driver Software for Windows Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-win-password-update/"><u>Step-by-Step Guide to Win Password Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-eliminate-invalid-tags-from-onedrives-reparse-buffer/"><u>Tips to Eliminate Invalid Tags From OneDrive's Reparse Buffer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-unfreezing-path-of-exile-on-your-pcmac/"><u>Troubleshooting Steps for Unfreezing Path of Exile on Your PC/Mac</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -161,3 +134,27 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-from-lesser-known-to-youtube-star-amassing-an-army-of-admirers/"><u>[New] 2024 Approved From Lesser Known to YouTube Star Amassing an Army of Admirers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-reel-in-riches-a-guide-to-earning-on-youtube-shorts/"><u>[New] 2024 Approved Reel In Riches A Guide to Earning on YouTube Shorts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-crafting-dynamic-image-ensembles-with-precision/"><u>[New] Crafting Dynamic Image Ensembles with Precision</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-grand-adventures-reimagined-post-gta-v-lineup/"><u>[Updated] In 2024, Grand Adventures Reimagined - Post-GTA V Lineup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-clearer-anonymity-discreet-faces-deletion/"><u>2024 Approved Clearer Anonymity Discreet Faces Deletion</u></a></li>
+<li><a href="https://win-dash.techidaily.com/a-comprehensive-tutorial-for-keeping-your-ati-radeon-drivers-up-to-date-in-windows/"><u>A Comprehensive Tutorial for Keeping Your ATI Radeon Drivers Up-To-Date in Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-detailed-analysis-of-the-avengers-marvels-adequate-effort-or-just-ordinary/"><u>A Detailed Analysis of the Avengers: Marvel's Adequate Effort or Just Ordinary?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-journey-to-windows-11s-god-like-settings-mastery/"><u>A Journey to Windows 11'S God-Like Settings Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-simple-guide-to-adjusting-mask-in-windows-11/"><u>A Simple Guide to Adjusting MASK in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-windows-solid-state-drive-power-of-fresh/"><u>Accelerate Your Windows' Solid State Drive - Power of Fresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ai-machines-explained-how-they-stand-out/"><u>AI Machines Explained: How They Stand Out</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-could-not-create-window-mmc-snapshot-issues/"><u>Avoiding 'Could Not Create' Window MMC Snapshot Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginners-guide-to-component-services-on-windows-11/"><u>Beginner’s Guide to Component Services on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719300675775-localize-chatgpt-on-pc-free-and-simple-with-gpt4all/"><u>Localize ChatGPT on PC - Free & Simple With GPT4All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719370712079-resolve-windows-issues-swiftly-with-expert-insights/"><u>Resolve Windows Issues Swiftly with Expert Insights!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719338143984-revitalizing-your-chrome-browser-on-the-latest-os-win11/"><u>Revitalizing Your Chrome Browser on the Latest OS (Win11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-24-unbeatable-christmas-offers-on-laptops-and-pcs-from-dell-best-buy-amazon-newegg-reviewed/"><u>Top 24 Unbeatable Christmas Offers on Laptops & PCs From Dell - Best Buy, Amazon, Newegg Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/undo-new-xbox-joy-sticks-sync-in-x-and-s-systems/"><u>Undo New Xbox Joy Sticks Sync in X and S Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-potential-of-the-samsung-galaxy-tab-s4-a-review-for-savvy-android-enthusiasts/"><u>Unveiling the Potential of the Samsung Galaxy Tab S4 - A Review for Savvy Android Enthusiasts</u></a></li>
+</ul></div>
+

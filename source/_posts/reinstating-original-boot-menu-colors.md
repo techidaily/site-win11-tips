@@ -1,7 +1,7 @@
 ---
 title: Reinstating Original Boot Menu Colors
-date: 2024-11-02T20:11:33.785Z
-updated: 2024-11-07T01:18:43.915Z
+date: 2024-11-12T17:30:52.034Z
+updated: 2024-11-17T19:03:04.402Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  If you don't have any such option, try the troubleshooting steps below to restore the Legacy boot option in BIOS.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Disable Secure Boot to Enable Boot
 
  Secure Boot is a UEFI feature that protects your computer against malware by allowing only trusted system software to run on your computer. When enabled, it will perform a cryptographic check during the boot process to verify the integrity of the system image.
@@ -59,6 +52,13 @@ To disable secure boot:
 5. Next, click on**UEFI Firmware Settings.**  
 ![Advanced OptionspUEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-optionspuefi-firmware-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click**Restart** to boot into the**Startup Menu.**  
 ![startup menu HP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/startup-menu-hp-1.jpg)
 2. In the Startup Menu, press**F10** to access the**BIOS Settings** . You may see other options depending on your computer manufacturer.
@@ -68,10 +68,16 @@ To disable secure boot:
 5. Select**Disabled** and make sure the changes are shown in the Boot Options tab.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Press**F10** to save the changes and disable Secure Boot.
@@ -81,10 +87,10 @@ To disable secure boot:
 ![disable TPM state BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-tpm-state-bios-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In addition to Secure Boot, you may also have enabled Trusted Platform Module (TPM), disabling Legacy BIOS. To fix the issue, check if TPM is enabled on your PC, which is likely a case on a Windows 11 running system, and disable the option if necessary.
@@ -104,16 +110,10 @@ To disable secure boot:
  To fix the issue, try to[disable Modern Standby on your Windows computer](https://www.makeuseof.com/windows-disable-modern-standby/) . Once disabled, restart your PC to see if you can switch to Legacy Boot now.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Restore a Grayed Out Legacy Boot Option in Your BIOS
@@ -135,24 +135,15 @@ To disable secure boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ite-sized-script-producer-for-2024/"><u>[New] Bite-Sized Script Producer for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/oost-traffic-to-your-videos-top-seo-practices-for-youtube-success/"><u>[New] Boost Traffic to Your Videos Top SEO Practices for YouTube Success</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-editors-compendium-top-devices-transforming-media-projects/"><u>[New] In 2024, Editor's Compendium Top Devices Transforming Media Projects</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-free-video-conferencing-excellence-plus-screen-sharing-guide-for-2024/"><u>[Updated] Free Video Conferencing Excellence + Screen Sharing Guide for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-perfecting-live-footage-with-fbx-recorder-for-2024/"><u>[Updated] Perfecting Live Footage with FBX Recorder for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-select-20-unencumbered-pubg-visual-stories/"><u>[Updated] Select 20 Unencumbered PUBG Visual Stories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-fresh-perspective-key-modifications-in-windows-11-marketplace/"><u>A Fresh Perspective: Key Modifications in Windows 11' Marketplace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-linking-drives-on-new-windows-version/"><u>Efficiently Linking Drives on New Windows Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expedite-your-pcs-performance-windows-11-cleansing-tips/"><u>Expedite Your PC's Performance: Windows 11 Cleansing Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721959772969-get-started-with-discreet-communication-experience-duckduckgos-ai-and-alternatives/"><u>Get Started with Discreet Communication: Experience DuckDuckGo's AI & Alternatives!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-refresh-your-virtual-space-in-google-meet-pc-and-mobile-way/"><u>In 2024, Refresh Your Virtual Space in Google Meet, PC & Mobile Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-tackle-non-responsive-function-keys-for-brighness-on-windows-11/"><u>Methods to Tackle Non-Responsive Function Keys for Brighness on Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/optimizing-video-capture-with-mov-on-windows-10/"><u>Optimizing Video Capture with MOV on Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinvigorate-dull-volume-options-in-disk-management-tool/"><u>Reinvigorate Dull Volume Options in Disk Management Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reinstate-working-state-of-amd-graphics-suite/"><u>Steps to Reinstate Working State of AMD Graphics Suite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-steam-disk-write-failures-effectively/"><u>Tackling Windows Steam Disk Write Failures Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-uninstall-guide-enhancing-your-workflow-in-windows/"><u>The Ultimate Uninstall Guide: Enhancing Your Workflow in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-xbox-game-pass-error-code-0x00000001-on-windows-os/"><u>Troubleshooting Xbox Game Pass Error Code 0X00000001 on Windows OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/updating-intel-graphics-on-win-7-step-by-step-guide/"><u>Updating Intel Graphics on Win 7: Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dialing-up-deliverables-a-comprehensive-guide-to-gainful-vlogging/"><u>[Updated] Dialing Up Deliverables A Comprehensive Guide to Gainful Vlogging</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-desktop-not-out-yet-heres-an-incredible-free-alternative-to-try-now/"><u>ChatGPT Desktop Not Out Yet? Here's an Incredible Free Alternative to Try Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-vlc-input-compatibility-faults/"><u>Correcting Windows VLC Input Compatibility Faults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-seamless-workflows-ifttt-for-task-management/"><u>Crafting Seamless Workflows: IFTTT for Task Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-solving-the-enigmatic-windows-c0000022-hurdle/"><u>Decoding and Solving the Enigmatic Window's C0000022 Hurdle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-mac-mouse-sensitivity-a-step-by-step-guide/"><u>Disabling Mac Mouse Sensitivity: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-6-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 6 Without a Passcode</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-demystifying-the-world-of-youtube-shorts/"><u>In 2024, Demystifying the World of YouTube Shorts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/next-gen-gloves-top-picks-to-immerse-in-vr-worlds/"><u>Next-Gen Gloves Top Picks to Immerse in VR Worlds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealth-mode-for-windows-11-apps/"><u>Stealth Mode for Windows 11 Apps</u></a></li>
 </ul></div>
 

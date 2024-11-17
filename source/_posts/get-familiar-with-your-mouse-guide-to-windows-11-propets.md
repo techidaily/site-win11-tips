@@ -1,7 +1,7 @@
 ---
 title: "Get Familiar with Your Mouse: Guide to Windows 11 Propets"
-date: 2024-09-05T19:32:03.700Z
-updated: 2024-09-06T19:32:03.700Z
+date: 2024-11-12T20:07:25.658Z
+updated: 2024-11-17T19:50:51.390Z
 tags:
   - windows10
   - windows11
@@ -28,20 +28,15 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 2. Type **mouse settings** in the search bar and press the **Enter** key to open the Settings app page.  
 ![Open Mouse Properties Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu.jpg)
 3. Or, you can type **main.cpl** in the search bar and press **Enter** to open the Control Panel applet.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Mouse Properties Using Start Menu 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Using the Control Panel
 
  Before the Settings app came into the picture, Control Panel organized all the Windows tools under one shed. So, you can open the Mouse Properties applet using the Control Panel. Here’s how to do it:
@@ -53,17 +48,12 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 4. The Mouse Properties window will launch.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Using Settings App
 
  Windows 11 Settings app slaps a fresh coat of paint on the bland UI of Windows 10 and contains a dedicated section for Mouse customization. It is part of a larger push to move everything to the Settings app and reduce dependency from the Control Panel. Repeat the following steps:
@@ -74,17 +64,18 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 ![Open Mouse Properties Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You will only find some mouse settings on this page. The rest of them are clubbed under the Related Settings section which opens the Mouse Properties applet or redirects you to the Display or Accessibility section.
 
 ## 4\. Using the Run Dialog Box
@@ -95,18 +86,6 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 2. Type **control /name Microsoft.Mouse** in the text box and press the **Enter** key to launch the Mouse Properties applet.  
 ![Open Mouse Properties Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-run-dialog-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Using File Explorer
 
  You can access the Mouse Properties tool using the **System32** folder in the C drive. Despite being a **.cpl** file, you can launch it directly. Repeat the following steps:
@@ -118,18 +97,6 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 ![Open Mouse Properties Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-file-explorer.jpg)
 5. Double-click on the **main.cpl** file to open Mouse Properties tool.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Using Task Manager
 
  If the Control Panel app or [File Explorer isn’t working](https://www.makeuseof.com/windows-file-explorer-not-opening/), you can launch the Mouse Properties window using the Task Manager. Here’s how to do it:
@@ -138,12 +105,6 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 2. Click on the **Run new task** button. Type **control mouse** in the text box and click on the **OK** button.  
 ![Open Mouse Properties Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-task-manager.jpg)
 3. The Mouse Properties window will launch.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Close the Task Manager.
 
 ## 7\. Using Command Prompt
@@ -154,20 +115,23 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 2. Type **control /name Microsoft.Mouse** in the terminal and press the **Enter** key.  
 ![Open Mouse Properties Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-cmd.jpg)
 3. Mouse Properties will open in a new window.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Type **exit** and press Enter to close the Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Using PowerShell
 
  You can use the **start-process** cmdlet in PowerShell to launch an app or Windows tools. You don’t need to run [PowerShell with administrator privileges](https://www.makeuseof.com/windows-11-powershell-administrator/) for this method. Repeat the following steps:
@@ -176,17 +140,12 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 2. Type the following command in the PowerShell window and press the Enter key: **start-process control mouse**  
 ![Open Mouse Properties Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-powershell.jpg)
 3. Mouse Properties tool will open in a new window.
+
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Using a Desktop Shortcut
@@ -213,6 +172,13 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 ![Open Mouse Properties Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-keyboard-shortcut.jpg)
 5. Now, test the mapped shortcut key combination and check if it launches the Mouse Properties tool.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Gain Absolute Control Over Your Mouse on Windows
 
  Mouse Properties is an applet, so you cannot pin it to the Taskbar or Start menu. But, you can launch it using the Run dialog box or Terminal or you can create a desktop shortcut. For the fastest access to the tool, map a shortcut key combination.
@@ -221,11 +187,33 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 
  But it isn’t the only method to open the tool on Windows 11\. We will list out ten ways using which you can launch the tool on your system and calibrate your mouse or trackpad. Let’s begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-evaluating-rapid-subscriptions-impact-on-video-engagement-for-2024/"><u>[Updated] Evaluating Rapid Subscription's Impact on Video Engagement for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unearthing-the-best-storytelling-channels-yearly-roundup/"><u>[Updated] In 2024, Unearthing the Best Storytelling Channels Yearly Roundup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-key-destinations-enhancing-youtube-video-impact/"><u>2024 Approved Key Destinations Enhancing YouTube Video Impact</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-copypaste-utility-in-application-guard-of-microsoft-edge-windows-11-version/"><u>Enabling Copy/Paste Utility in Application Guard of Microsoft Edge, Windows 11 Version</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/framed-perfection-websites-and-apps-to-elevate-your-images/"><u>Framed Perfection Websites and Apps to Elevate Your Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reestablish-interactive-stream-on-windows-pcs/"><u>How to Reestablish Interactive Stream on Windows PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-samsung-dex-app-to-control-your-galaxy-phone-on-windows-11/"><u>How to Use the Samsung DeX App to Control Your Galaxy Phone on Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-itel-a05s-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Itel A05s PC | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-novice-to-pro-the-funimate-guide/"><u>In 2024, From Novice to Pro - The Funimate Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-in-game-video-a-detailed-tool-analysis/"><u>In 2024, In-Game Video A Detailed Tool Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-accelerated-troubleshooting-in-w11/"><u>Initiating Accelerated Troubleshooting in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-errors-in-new-windows-11-os/"><u>Overcoming Device Errors in New Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-forbidden-page-access-in-windows-os/"><u>Resolving Forbidden Page Access in Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-hooking-up-the-nintendo-switch-to-a-tv-set/"><u>Step-by-Step Tutorial on Hooking Up the Nintendo Switch to a TV Set</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-spotting-hidden-sd-on-pc-explorer/"><u>Steps for Spotting Hidden SD on PC Explorer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-mystery-of-persistent-iphone-photographs-post-deletion-8-fixes-explained/"><u>The Mystery of Persistent iPhone Photographs Post-Deletion - 8 Fixes Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-windows-update-hurdles-quick-solutions/"><u>Troubleshoot: Windows Update Hurdles - Quick Solutions!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-standard-app-imports-on-modern-windows-pcs/"><u>Troubleshooting Non-Standard App Imports on Modern Windows PCs</u></a></li>
+</ul></div>
+

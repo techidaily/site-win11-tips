@@ -1,7 +1,7 @@
 ---
 title: Strategies for Lowering CPU Consumption
-date: 2024-09-01T05:13:29.254Z
-updated: 2024-09-02T05:13:29.254Z
+date: 2024-11-12T17:16:34.949Z
+updated: 2024-11-17T18:22:04.332Z
 tags:
   - windows10
   - windows11
@@ -35,16 +35,17 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
  Let's look at how to fix all of these things that can affect Modern Setup Host.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## How to Fix it Modern Setup Host Causing High CPU Usage
 
  There are several things you can do to stop Modern Setup Host from causing high CPU usage, and we're going to cover several of them in this section. And if none of them work and the situation gets so bad that you can't operate your PC efficiently, you can consider [resetting your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/)[Computer](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Run an SFC or DISM Scan
 
  When your computer has corrupted, damaged, or missing system files, it can affect system components, including Modern Setup Host. This can cause these components to not function properly, leading to high CPU usage. To fix this, you can [repair or replace the affected Windows system files](https://www.makeuseof.com/windows-built-in-repair-tools/) using built-in tools like the SFC and DISM scan.
@@ -53,15 +54,19 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
  Once you run the scans, restart your computer and check if Modern Setup Host is still causing high CPU usage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use the Update Troubleshooter
 
  The Update Troubleshooter is a tool on Windows that can help diagnose and fix common issues related to Windows Updates. And since Modern Setup Host is integral to the Windows Update process, running the troubleshooter can also help fix issues that affect it, including what's making it cause high CPU usage.
 
  To do that, you can learn [how to run any troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/), including the Update Troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Delete the Contents of the SoftwareDistribution Folder
 
  Before Windows installs an update, it will store it in the SoftwareDistribution distribution folder temporarily. So, if one of the update files there is corrupt, it can cause Modern Setup Host to use more resources than it needs to. If you clear this folder, you can potentially solve the issue.
@@ -70,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![services msc Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/services-msc-Windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Find **Windows Update** in the list of services, right-click it, and select **Stop**.
 
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
@@ -82,16 +84,24 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, press **Ctrl + A** to select everything inside the folder and press **Shift + Delete**. In the prompt, confirm that you want to clear the folder by clicking on **Yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Try a Clean Boot
 
  A clean boot can help you rule out third-party programs and services that could conflict with Modern Setup Host. In this mode, Windows will launch with only the essential programs and services it needs to run, allowing you to rule out the culprit. Luckily, [launching Windows in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) is easy, and the instructions are the same for both Windows 10 and 11\.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop the Modern Setup Host From Negatively Impacting Your Computer
 
@@ -99,11 +109,28 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
  So, try fixing corrupted or damaged system files, using the Update Troubleshooter, clearing the SoftwareDistrubiton folder, or performing a clean boot. Hopefully, the problem will go away before you have to reset your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-strategies-to-have-your-video-embrace-by-vimeo-experts/"><u>[Updated] In 2024, Strategies to Have Your Video Embrace by Vimeo Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-photoshop-insider-tips-for-novice-editors-for-2024/"><u>[Updated] Photoshop Insider Tips for Novice Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youthful-wealth-wonders-a-look-at-ryans-online-riches/"><u>[Updated] Youthful Wealth Wonders A Look at Ryan's Online Riches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-achieving-accuracy-and-artistry-in-altered-image-tones/"><u>2024 Approved Achieving Accuracy and Artistry in Altered Image Tones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-engaging-photoshop-on-modern-windows-machines/"><u>Effortlessly Engaging Photoshop on Modern Windows Machines</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-with-tesla-inspired-cybertruck-by-robomower-surprisingly-impressive-review-on-zdnet/"><u>Experience with Tesla-Inspired Cybertruck by RoboMower: Surprisingly Impressive Review on ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oneplus-ace-2-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock OnePlus Ace 2 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fortify-windows-11-security-integrating-firewalls-into-the-menubar-ui/"><u>Fortify Windows 11 Security: Integrating Firewalls Into the Menubar UI</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-6-eco-friendly-affordable-4k-home-theaters/"><u>In 2024, Top 6 Eco-Friendly, Affordable 4K Home Theaters</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-announces-enhanced-customer-support-qanda/"><u>Mondly Announces Enhanced Customer Support Q&A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovery-of-missing-widgets-and-icons-on-windows-11/"><u>Recovery of Missing Widgets and Icons on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-switching-back-the-windows-11-search-icons/"><u>Steps for Switching Back the Windows 11 Search Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-1011-photography-setup/"><u>Streamlining Windows 10/11 Photography Setup</u></a></li>
+</ul></div>
+

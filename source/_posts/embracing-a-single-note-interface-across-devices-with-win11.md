@@ -1,7 +1,7 @@
 ---
 title: Embracing a Single Note Interface Across Devices with Win11
-date: 2024-09-01T05:16:25.928Z
-updated: 2024-09-02T05:16:25.928Z
+date: 2024-11-12T17:53:46.211Z
+updated: 2024-11-17T18:36:37.148Z
 tags:
   - windows10
   - windows11
@@ -53,10 +53,14 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 
 ![OneNote iPhone App Homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-homescreen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![OneNote iPhone App Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-folders.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -71,21 +75,39 @@ Close
  To create a new note, hit the plus icon in the bottom right corner of the screen. You’ll then see a display similar to the Sticky Notes app for Windows, including its text formatting options. One helpful tool is the camera button, which allows you to upload a photo from your camera or iOS photo album.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. How to Use Your Windows Sticky Notes on Android Devices
 
 ![Sticky Notes list in OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-list-in-onenote-for-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Sticky Note Window on OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-onenote-for-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Sort and filter options in OneNote](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sort-and-filter-options-in-onenote.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -102,16 +124,17 @@ Close
 
 ![Sticky notes widget in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-widget-in-microsoft-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Sticky note window on Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-microsoft-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Feed settings in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/feed-settings-in-microsoft-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  An alternative way of using Windows Sticky Notes if you’re an Android user is through Microsoft Launcher. This polished launcher comes packed with features to boost your productivity and is a [must-have for Android users who own a PC](https://www.makeuseof.com/microsoft-android-apps-for-windows/).
@@ -124,22 +147,24 @@ Close
 
 ![Windows 11 Sticky Notes in Outlook Online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-sticky-notes-in-outlook-online.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Screenshot by author - Joe Brown  
 
   You can also edit Windows Sticky Notes on the web. To combine note-taking with your scheduling needs, Microsoft has integrated Windows Sticky Notes with Microsoft Outlook.
 
  Ensuring you are signed in to your Microsoft Account, you can access [Windows Sticky Notes in Outlook](https://www.onenote.com/stickynotes) directly, or you can sign in to Outlook and access the dedicated **Notes** tab. This can be found inside the Folders dropdown menu from the sidebar. For faster access to your sticky notes, you can hit the star icon next to the **Notes** title to add it to your favorites.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Use Windows Sticky Notes on Any Device and Boost Your Productivity
 
  If you’re in a rush and need to jot things down fast, Windows Sticky Notes is a great app for quick and easy note-taking. With these solutions, you don’t need to rely on keeping one device to take notes. Access sticky notes everywhere using this guide.
 
  In this guide, we’ll explore how to use Windows Sticky Notes on all your devices, whether you’re an Android or iOS user, or if you're using a web browser.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -147,3 +172,27 @@ Screenshot by author - Joe Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-capturing-life-with-precision-an-overview-of-advanced-camera-modes-for-2024/"><u>[New] Capturing Life with Precision An Overview of Advanced Camera Modes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-use-zoom-in-your-daily-gmail-routine/"><u>[New] How to Use Zoom in Your Daily Gmail Routine</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-surprise-uncovered-secrets-to-take-your-window-11-experience-up-a-notch/"><u>[New] Surprise! Uncovered Secrets to Take Your WINDOW 11 Experience Up a Notch</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-top-50-digital-rich-list/"><u>[Updated] In 2024, Top 50 Digital Rich List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-look-at-adobes-cloud-and-comparable-services/"><u>[Updated] In-Depth Look at Adobe's Cloud & Comparable Services</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-secure-approach-verifying-your-youtube-login-details-for-2024/"><u>[Updated] Secure Approach Verifying Your YouTube Login Details for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-your-clock-is-aheadbehind-error-in-chrome-for-windows/"><u>How to Fix the Your Clock Is Ahead/Behind Error in Chrome for Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-6-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 6</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-to-tackle-windows-activation-problem-code-0x803f700f/"><u>Key Steps to Tackle Windows Activation Problem Code 0X803F700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-non-opening-windows-command-prompt-woes/"><u>Navigating Non-Opening Windows Command Prompt Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-windows-11-login-problems/"><u>Overcoming Common Windows 11 Login Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-extraneous-window-notifications/"><u>Preventing Extraneous Window Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-pc-fixes-for-a-stalled-windows-updates/"><u>Revive Your PC: Fixes for a Stalled Windows Updates</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-your-email-communications-easy-guide-to-two-factor-authentication-methods/"><u>Secure Your Email Communications: Easy Guide to Two-Factor Authentication Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/starting-with-telegram-advertising-essential-steps-for-newbies/"><u>Starting with Telegram Advertising Essential Steps for Newbies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-zero-30-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix Zero 30 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unchangeable-wallpapers-made-simple-in-win11/"><u>Unchangeable Wallpapers Made Simple in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visual-cplusplus-distribution-its-main-purpose/"><u>Visual C++ Distribution: Its Main Purpose</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-setup-simplified-a-steam-deck-tutorial/"><u>Windows Setup Simplified: A Steam Deck Tutorial</u></a></li>
+</ul></div>
+

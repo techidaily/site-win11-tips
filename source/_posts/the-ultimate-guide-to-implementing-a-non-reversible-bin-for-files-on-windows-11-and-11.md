@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Implementing a Non-Reversible Bin for Files on Windows 11 & 11
-date: 2024-10-31T08:36:05.368Z
-updated: 2024-11-06T23:13:55.821Z
+date: 2024-11-12T17:14:23.572Z
+updated: 2024-11-17T19:15:13.235Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
@@ -61,18 +61,18 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Now you’ll see a Free File Wiper bin icon somewhere on the Windows desktop. Left-click and drag that icon to reposition it if necessary.
 
  To permanently delete something with the shredder app, bring up Explorer, left-click a file, and then drag it onto the Free File Wiper bin desktop icon. A warning prompt will appear that says you won’t be able to recover the file after wiping it. Select**Yes** if you’re sure about permanently erasing the file.
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
@@ -80,21 +80,7 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -119,9 +105,23 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
@@ -146,21 +146,19 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-infographic-analysis-the-hottest-2023-trends/"><u>[New] In 2024, Infographic Analysis The Hottest 2023 Trends</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-comprehensive-analysis-of-samsung-image-editor/"><u>[Updated] 2024 Approved Comprehensive Analysis of Samsung Image Editor</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-reclaiming-acoustics-lost-in-social-media-videos-for-2024/"><u>[Updated] Reclaiming Acoustics Lost in Social Media Videos for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-gionee-f3-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Gionee F3 Pro.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/device-disparity-enhancing-your-windows-browsers-pace/"><u>Device Disparity: Enhancing Your Windows Browser's Pace</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-guide-to-the-jaco-smartpro-digital-tire-pump-compact-strong-and-user-friendly-review/"><u>Essential Guide to the Jaco SmartPro Digital Tire Pump: Compact, Strong and User-Friendly Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-esd-to-iso-essential-steps-for-windows-conversion/"><u>From ESD to ISO: Essential Steps for Windows Conversion</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-c67-4g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme C67 4G Face Lock?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-ready-for-vbox-checking-windows-pre-conditions/"><u>Get Ready for VBox - Checking Windows Pre-Conditions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-samsung-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Samsung</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-google-pixel-8-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Google Pixel 8 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-update-problem-zeroerror-80073712/"><u>Overcoming Update Problem: ZeroError 80073712</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-linking-airpods-with-windows-pcs/"><u>Quick Guide: Linking AirPods with Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stabilizing-your-windows-mouse-quick-fixes/"><u>Stabilizing Your Windows Mouse - Quick Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/walkthrough-to-elevate-user-role-in-windows-os/"><u>Walkthrough to Elevate User Role in Windows OS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-scriptwriting-secrets-for-docu-films-for-2024/"><u>[New] Scriptwriting Secrets for Docu-Films for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-aperture-authority-picking-the-top-10-camera-lenses/"><u>[Updated] Aperture Authority Picking the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://windows11.techidaily.com/awaken-slumbering-screens-remedy-key-mouse-woes-on-windows/"><u>Awaken Slumbering Screens: Remedy Key, Mouse Woes on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-loading-barriers-on-league-of-legends/"><u>Breaking Through Loading Barriers on League of Legends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-the-grayed-out-memory-barrier-in-win11/"><u>Breaking Through the Grayed-Out Memory Barrier in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breakthrough-techniques-for-selecting-text-in-windows-pdfs/"><u>Breakthrough Techniques for Selecting Text in Windows PDFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-new-life-into-your-windows-audio-system-with-updates/"><u>Breathe New Life Into Your Windows Audio System with Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-old-games-back-to-life-with-retroarch-shaders/"><u>Bringing Old Games Back to Life with RetroArch Shaders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-xbox-games-access-issue-code-0x800700e9-in-windows/"><u>Bypassing Xbox Games Access Issue Code 0X800700E9 in Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ting-your-place-in-youtube-by-mastering-creative-studio-techniques/"><u>Cementing Your Place in YouTube by Mastering Creative Studio Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-what-sets-the-new-sony-playstation-5-apart-from-older-models/"><u>Discover What Sets the New Sony PlayStation 5 Apart From Older Models</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-actual-pc-requirements-balancing-speed-and-functionality/"><u>Unveiling Actual PC Requirements: Balancing Speed and Functionality</u></a></li>
 </ul></div>
 

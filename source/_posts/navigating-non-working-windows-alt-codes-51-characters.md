@@ -1,7 +1,7 @@
 ---
 title: Navigating Non-Working Windows ALT Codes (51 Characters)
-date: 2024-09-01T05:17:06.111Z
-updated: 2024-09-02T05:17:06.111Z
+date: 2024-11-14T19:01:14.557Z
+updated: 2024-11-17T19:15:17.495Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
  Another cause of this problem is incorrect language settings on Windows. If your language settings don't match the keyboard layout you're using, then it's possible your input won't be interpreted properly by Windows.
 
  The problem may also occur due to conflicting background programs, outdated software drivers, or hardware compatibility glitches. If you are experiencing this issue, here are some tips for resolving it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Turn On Mouse Keys
 
@@ -66,6 +73,14 @@ To get started, follow these steps:
 3. When a UAC window appears on the screen, click**Yes** .  
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
 4. After opening the Registry Editor, navigate to the following directory. Alternatively, you can copy and paste the given location in the registry address field and hit**Enter** on your keyboard:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 HKEY_CURRENT_USER\Control Panel\Input Method
 5. Now right-click on**Input Method** and choose**New > String Value** .
 6. Once you have created the string value, name it**EnableHexNumpad** and press**Enter** to save it.
@@ -74,9 +89,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
  Once you've completed the above steps, close Registry Editor and restart your computer. Upon restarting, hold down the right Alt key and press the + (plus) key on your numeric keypad. Then enter the hex code, and release the Alt key to enter any character.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Remove the Problematic Application
 
  If you have installed any third-party applications that might be causing problems with the ALT codes, then uninstalling them could also help fix this issue. To do this, follow these steps:
@@ -86,9 +98,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Once you find it, click the three dots and click**Uninstall** .
 4. Then follow the onscreen instructions to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Try a Different Keyboard Layout
 
  If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
@@ -97,9 +106,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
 ![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
 3. Under the**Formats** tab, select a different language from the list.
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
  After selecting one, click**Apply** , then**OK** , and restart your computer. Now try using ALT codes again to see if they work now.
 
@@ -112,34 +118,44 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Make sure that the box**Load startup items** is unchecked.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. The next step is to click on the**Services** tab.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Click**Hide all Microsoft services** , then click**Disable all** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Click the**Apply** button to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Go to the**Startup** tab and click**Open Task Manager** .
 8. On the Startup tab, right-click each service and disable it.
 9. After making changes to System Configuration, click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Troubleshooting Windows ALT codes
 
  ALT codes are a useful tool to have when it comes to typing special characters, but outdated software drivers or conflicting background programs may prevent it from working properly. In this case, you can rely on the information above to help you resolve the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +164,18 @@ HKEY_CURRENT_USER\Control Panel\Input Method
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-comprehensively-guide-to-transferring-videos-onto-facebook-from-pc-and-android/"><u>[New] In 2024, Comprehensively Guide to Transferring Videos Onto Facebook From PC & Android</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mirthful-mayhem-makers/"><u>[Updated] 2024 Approved Mirthful Mayhem Makers</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/edigiarty2checkout/"><u>安全なeコマース：Digiartyが採用する充実した2Checkoutサービスの紹介！</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-and-maximize-your-taskbar-on-win11/"><u>Enhance and Maximize Your Taskbar on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-listening-experience-with-thx/"><u>Enhancing Windows Listening Experience with THX</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fading-audio-tracks-with-ease-in-adobe-premiere-pro-for-2024/"><u>Fading Audio Tracks with Ease in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-update-woes-with-0x800736cc/"><u>Navigate Through Windows Update Woes with 0X800736CC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-pcs-file-synchronization-via-aoemi/"><u>Step-by-Step Guide to Windows PCs File Synchronization via AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-unauthorized-app-restriction/"><u>Strategies to Overcome Unauthorized App Restriction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/xbox-one-mastering-live-gaming-broadcasts-for-2024/"><u>Xbox One Mastering Live Gaming Broadcasts for 2024</u></a></li>
+</ul></div>
 

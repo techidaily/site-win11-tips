@@ -1,7 +1,7 @@
 ---
 title: Rectifying the Stopped Window Lock Screen Countdown
-date: 2024-11-04T07:50:38.954Z
-updated: 2024-11-06T22:52:36.962Z
+date: 2024-11-15T19:25:39.138Z
+updated: 2024-11-17T17:53:22.096Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
  After setting your preferred timeout, observe if Windows locks your PC after the specified period.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Configure Screen Saver Settings
 
  Incorrectly configured screen saver settings on Windows can also be the cause of this issue. Here's how you can configure Windows to display the lock screen after you resume from a screensaver.
@@ -55,14 +48,14 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 5. Hit **Apply** followed by **OK**.  
 ![Screen Saver Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screen-saver-settings-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, Windows should lock your system once the screen saver activates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check Screen Saver Settings in the Local Group Policy
 
@@ -82,13 +75,20 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 8. Similarly, enable the **Password protect the screen saver** policy as well.  
 ![Password Protect Screen Saver Policy in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/password-protect-screen-saver-policy-in-group-policy-editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your PC after applying the above changes and check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Other Generic Fixes to Try
@@ -102,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 * **Perform a System Restore:** If the issue has only started occurring recently, you can [perform a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to undo recent changes and fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Lock Screen Timeout Working Again on Windows
@@ -114,27 +114,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
  To help out, we have listed some useful tips that should get the lock screen timeout to work on your Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/new-spark-creativity-30-unique-video-projects/"><u>[New] Spark Creativity 30 Unique Video Projects</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-video-boost-tips-for-enhancement-22/"><u>[Updated] In 2024, Mastering Video Boost Tips for Enhancement (2.2)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-premier-video-call-alternatives-zooms-rivalry-explained/"><u>[Updated] Premier Video Call Alternatives Zoom's Rivalry Explained</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-smart-list-essential-6-fb-lite-videos-for-you-for-2024/"><u>[Updated] Smart List Essential 6 FB Lite Videos for You for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-steam-online-connectivity-failures-w11/"><u>Addressing Steam Online Connectivity Failures W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/executing-customized-policies-to-a-singular-account-in-win-1011/"><u>Executing Customized Policies to a Singular Account in Win 10/11</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-retrieve-a-missing-microsoft-word-file-thats-nowhere-found-in-the-trash/"><u>How to Retrieve a Missing Microsoft Word File That's Nowhere Found in the Trash</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-google-pixel-8-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Google Pixel 8 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/orderly-movie-marathon-experience-middle-earth-with-the-lord-of-the-rings/"><u>Orderly Movie Marathon: Experience Middle Earth with 'The Lord of The Rings'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-implementation-of-updater-in-win11-version-22h2/"><u>Seamless Implementation of Updater in WIN11 Version 22H2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-non-working-activation-codes-in-win11/"><u>Solutions for Non-Working Activation Codes in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solution-regain-shared-resources-access/"><u>Swift Solution: Regain Shared Resources Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-controlling-sounds-on-windows-11/"><u>The Ultimate Guide to Controlling Sounds on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-djis-sky-artistry-20-free-color-filters-offer-for-2024/"><u>Transform DJI's Sky Artistry 20 Free Color Filters Offer for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninstalling-microsoft-edge-from-windows-11/"><u>Uninstalling Microsoft Edge From Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-flawless-gameplay-combat-apex-legends-freezes/"><u>Unleash Flawless Gameplay: Combat Apex Legends Freezes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,3 +121,25 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world/"><u>[New] In 2024, Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-realizing-youre-off-the-friends-list-for-2024/"><u>[New] Realizing You're Off the Friends List for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-experts-choice-the-best-windows-pc-screen-recorders/"><u>[Updated] In 2024, Expert's Choice The Best Windows PC Screen Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-fix-the-cannot-find-gpeditmsc-error-in-windows/"><u>4 Ways to Fix the “Cannot Find Gpedit.msc” Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-key-steps-to-resolve-epic-launcher-security-code-errors-on-windows/"><u>7 Key Steps to Resolve Epic Launcher Security Code Errors on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-get-started-with-windows-11s-widgets/"><u>7 Ways to Get Started With Windows 11'S Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-visuals-in-webcams/"><u>Addressing Absence of Visuals in Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-crashing-keep-your-file-explorer-fixed-in-windows-11/"><u>Avoid Crashing: Keep Your File Explorer Fixed in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-windows-pop-up-non-adobe-issue/"><u>Avoiding Windows Pop-Up: Non-Adobe Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-writing-with-these-top-pc-apps/"><u>Boost Your Writing with These Top PC Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-realme-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Realme</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-real-number-of-youtube-views-you-need-to-make-a-living/"><u>In 2024, The Real Number of YouTube Views You Need to Make a Living</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-vpn-solutions-for-accessing-blocked-sites-in-academia/"><u>Leading VPN Solutions for Accessing Blocked Sites in Academia</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/league-of-legends-speech-problems-heres-how-you-can-solve-them/"><u>League of Legends Speech Problems? Here's How You Can Solve Them</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-budget-friendly-visual-elements-for-2024/"><u>Leveraging Budget-Friendly Visual Elements for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719335028418-stop-early-window-11-edge-tabs-now/"><u>Stop Early Window 11 Edge Tabs Now</u></a></li>
+</ul></div>
+

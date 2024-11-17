@@ -1,7 +1,7 @@
 ---
 title: Re-Establishing Microsoft Store Functionality in Windows 11
-date: 2024-11-01T05:51:00.467Z
-updated: 2024-11-06T22:25:29.680Z
+date: 2024-11-13T20:12:19.041Z
+updated: 2024-11-17T17:12:00.550Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
  Windows will now search for any possible issues with the store apps. Once it finishes the process, it will provide troubleshooting instructions, so make sure to follow them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Switch to a Different Account
@@ -49,15 +49,28 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
  But if this didn’t fix the problem, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reset Microsoft Store
 
  You might be dealing with restricted actions in Microsoft Store due to outdated or corrupted cache files. Fortunately, there are multiple[ways to reset Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) and fix the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Edit the Group Policy
 
@@ -72,20 +85,6 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 
 ![Disabling or Enabling the Microsoft Store using the LGPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disabling-or-Enabling-the-Microsoft-Store-using-the-LGPE.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Check Registry Editor
 
  If you’re using Windows Home, there’s a chance the Group Policy is missing on your computer. However, you can edit the Registry to unblock the Microsoft Store.
@@ -95,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
  Restart your computer and check if the Microsoft Store is now unblocked.
 
 ![Clicking the “RemoveWindowsStore” value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Clicking-the-“RemoveWindowsStore”-value-in-the-Registry-Editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Unblock the Microsoft Store on Windows
 
@@ -115,24 +121,22 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-5-pro-audio-techniques-for-windows-10-users/"><u>[New] 5 Pro Audio Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-hidden-screenshotters-concealed-photography-on-the-snapchat-app-for-2024/"><u>[New] Hidden ScreenShotters Concealed Photography on the Snapchat App for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-glossary-for-googles-voice-to-text-feature/"><u>[Updated] Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-alternative-av-solutions-despite-microsoft-defender-blockade/"><u>Enabling Alternative AV Solutions Despite Microsoft Defender Blockade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-file-transfer-capabilities-chrome-downloads-in-windows/"><u>Enhancing File Transfer Capabilities: Chrome Downloads in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-lele-playable-again-fix-windows-wol-issues/"><u>Getting LeLë Playable Again: Fix Windows WoL Issues</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-boost-photographic-vision-get-free-and-paid-lut-upgrades/"><u>In 2024, Boost Photographic Vision - Get FREE & Paid LUT Upgrades</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-frozen-frontiers-highlights-from-beijings-winter-games/"><u>In 2024, Frozen Frontiers Highlights From Beijing's Winter Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-go-pro-karma-drone-review/"><u>In 2024, Go Pro Karma Drone Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-wsl-android-resource-allocation/"><u>Optimizing WSL Android Resource Allocation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-nvidias-visual-boost-on-your-system/"><u>Stop NVIDIA's Visual Boost on Your System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-fix-non-transferring-data-from-windows-usb-devices/"><u>Strategies to Fix Non-Transferring Data From Windows USB Devices</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-x50i-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor X50i</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-how-to-restore-depth-effect-on-your-ios-16-device-learn-from-these-7-tips/"><u>Unlocking the Secrets: How to Restore Depth Effect on Your iOS 16 Device - Learn From These 7 Tips!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-1011-the-essential-password-addition-technique/"><u>Windows 10/11: The Essential Password Addition Technique</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-pin-woes-heres-what-to-do/"><u>Windows PIN Woes? Here's What to Do</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-completing-windows-endless-countdowns/"><u>Winning Strategies for Completing Windows' Endless Countdowns</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-reviews-tiny-tech-titans-a-comparative-look-at-the-new-m4-powered-mac-mini-and-apple-tv-dimensions-and-specs/"><u>ZDNet Reviews: Tiny Tech Titans - A Comparative Look at the New M4-Powered Mac Mini & Apple TV Dimensions & Specs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-lightning-fast-windowed-photo-reader-for-win11/"><u>[New] 2024 Approved Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-3-techniques-for-exceptional-lol-gaming-broadcasts-for-2024/"><u>[New] Top 3 Techniques for Exceptional LOL Gaming Broadcasts for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-timing-your-insta-shots-for-maximum-impact/"><u>[Updated] 2024 Approved Timing Your Insta Shots for Maximum Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-soundstage-excellence-critical-interface-tips-for-podcasters/"><u>[Updated] Soundstage Excellence Critical Interface Tips for Podcasters</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-g2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo G2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-into-intel-graphic-upgrades-for-underperforming-pcs/"><u>Easing Into Intel Graphic Upgrades for Underperforming PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-to-follow-guide-setting-up-and-managing-iphone-bluetooth-pairings-for-first-timers/"><u>Easy-to-Follow Guide: Setting Up and Managing iPhone Bluetooth Pairings for First-Timers</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/enhancing-your-online-presence-the-ultimate-manycam-virtual-webcam-solution/"><u>Enhancing Your Online Presence: The Ultimate ManyCam Virtual Webcam Solution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-13-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 13 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-system32-access-on-windows-11/"><u>Mastering System32 Access on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-historical-directx-titles-through-enhanced-dxvk-performance/"><u>Refreshing Historical DirectX Titles Through Enhanced DXVK Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-read-only-settings-for-steam-libraries-on-win-11-pcs/"><u>Removing Read-Only Settings for Steam Libraries on Win 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-safety-proven-ways-to-prevent-unauthorized-access/"><u>System Safety: Proven Ways to Prevent Unauthorized Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-way-to-cut-out-unwanted-onedrive-in-explorer/"><u>The Way to Cut Out Unwanted OneDrive in Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-reviving-non-responsive-ctrl-in-windows-11/"><u>Troubleshooting: Reviving Non-Responsive Ctrl in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-the-disabled-recycle-icon-on-win11/"><u>Unblocking the Disabled Recycle Icon on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-office-capabilities-installing-outlook-preview-on-windows-11/"><u>Unlock Full Office Capabilities: Installing Outlook Preview on Windows 11</u></a></li>
 </ul></div>
 

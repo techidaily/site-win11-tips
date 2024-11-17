@@ -1,7 +1,7 @@
 ---
 title: Eliminating Limited Controls in Windows - Voice-Only Bluetooth Outputs Only
-date: 2024-11-01T18:21:06.419Z
-updated: 2024-11-06T21:55:25.397Z
+date: 2024-11-16T18:51:50.735Z
+updated: 2024-11-17T18:11:01.903Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 
  Let the Get Help app try all available fixes until the issue is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Bluetooth Services in Device Properties
 
  Your headset or speaker offers distinct services which are enabled by default. However, if disabled, one or more Bluetooth functions can stop working for your audio device. To fix the issue, open the Bluetooth device properties using the Control Panel and review the services.
@@ -61,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 2. Type **control Printer** and click **OK** to open the **Bluetooth & devices** tab in the **Settings** app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Next, click on **Devices**.  
@@ -84,10 +77,10 @@ Remotely Controllable Device`
  Close the Control Panel, and your Bluetooth audio device should start to work now. If not, perform a restart and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check and Enable the Windows Bluetooth Services
@@ -104,10 +97,10 @@ Remotely Controllable Device`
 3. In the Services snap-in, locate the following services and check if the status shows **Running**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Bluetooth Audio Gateway Service  
@@ -127,6 +120,13 @@ Bluetooth User Support Service`
 * **Update the driver**: You can [find and replace outdated drivers on Windows using Device Manager](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/). In Device Manager, expand the **Bluetooth** section and locate your Bluetooth adapter. On most computers, you may find an **Intel Bluetooth Wireless Bluetooth** device. Find the device and check if a new driver update is available.
 * **Roll back a recent driver update**: New but buggy driver update can also cause the Bluetooth adapter to act up. To fix the issue, you can [perform a driver rollback for the Bluetooth adapter](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) to install the previous driver version. While a handy option, its availability can differ depending on when the driver was installed.
 * **Reinstall the Bluetooth adapter driver:** A reinstall may be necessary if a corrupt or partially installed driver causes Bluetooth-related problems. To [uninstall Bluetooth drivers in Windows](https://www.makeuseof.com/windows-11-uninstall-drivers/), you can use the Device Manager or the Command Prompt. Restart your PC and Windows should reinstall the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update the Bluetooth Driver Manually From the Manufacturer’s Website
 
@@ -153,21 +153,6 @@ Bluetooth User Support Service`
 
  However, if a quick reconnect doesn’t help, the problem may be due to a buggy audio driver, incorrect audio device configuration, and stopped audio services. Here we show you a few troubleshooting tips to help you resolve this problem on Windows and get your Bluetooth headset working again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unlocking-revenue-with-strategic-snapchat-promotions/"><u>[New] In 2024, Unlocking Revenue with Strategic Snapchat Promotions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-no-root-audio-recording-on-android-devices-tutorial/"><u>[Updated] 2024 Approved No-Root Audio Recording on Android Devices [Tutorial]</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-do-i-use-adobe-premiere-to-upload-youtube-videos-for-2024/"><u>[Updated] How Do I Use Adobe Premiere To Upload YouTube Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-rhythm-and-reel-incorporating-tunes-on-instagram/"><u>[Updated] In 2024, Rhythm & Reel Incorporating Tunes on Instagram</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-quick-success-with-tinder-profiles-check-out-these-hacks-now-for-2024/"><u>[Updated] Quick Success with Tinder Profiles? Check Out These Hacks Now for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-empower-your-taskbar-with-new-features/"><u>How to Empower Your Taskbar with New Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-unreadable-source-issue-on-your-windows-pc/"><u>How to Fix ‘Unreadable Source’ Issue on Your Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-no-server-issues-fixes-and-tips-for-apex-on-windows-(156-chars/"><u>Overcoming 'No Server' Issues: Fixes and Tips for Apex on Windows (<156 Chars)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-internal-audio-error-in-audacity-win-11-and-11/"><u>Tackling Internal Audio Error in Audacity, Win 11 & 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 15 Plus</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -175,3 +160,27 @@ Bluetooth User Support Service`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-tips-to-find-the-best-videographer/"><u>[New] Tips to Find The Best Videographer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-scriptwriting-101-decoding-and-writing-slug-lines/"><u>[Updated] 2024 Approved Scriptwriting 101 Decoding and Writing Slug Lines</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-directory-30-premier-websites-for-accessible-vector-design-tools/"><u>[Updated] Leading Directory 30 Premier Websites for Accessible Vector Design Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-10-best-android-and-ios-clock-apps-for-a-perfectly-countdownwedding/"><u>[Updated] The 10 Best Android & iOS Clock Apps for a Perfectly Countdownwedding</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-essential-fixes-for-unresponsive-windows-family-safety/"><u>5 Essential Fixes for Unresponsive Windows Family Safety</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-compelling-arguments-why-windows-11-eclipses-macos/"><u>6 Compelling Arguments Why Windows 11 Eclipses macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-gmaps-installation-on-pc/"><u>A Step-by-Step Approach to GMaps Installation on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-microsoft-edge-fix-for-w10w11/"><u>Accelerate Your Microsoft Edge: Fix for W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-playstation-services-hiccup-on-windows/"><u>Addressing PlayStation Services Hiccup on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-guide-to-extend-windows-10-shutdown-duration/"><u>Advanced Guide to Extend Windows 10 Shutdown Duration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosted-efficiency-with-mouse-gestures-get-set-for-edges-latest-features-win-11/"><u>Boosted Efficiency with Mouse Gestures: Get Set for Edge's Latest Features (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-virtualization-turning-on-hyper-v-for-win-11/"><u>Boosting Virtualization: Turning On Hyper-V for Win 11</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-infinix-note-30i-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Note 30i? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>In 2024, Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-humorhub-quick-and-quirky-images/"><u>In 2024, HumorHub Quick & Quirky Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-paperwork-into-digital-format-using-iphones-best-ocr-scanner-pluspdf-converter/"><u>Transform Your Paperwork Into Digital Format Using iPhone's Best OCR Scanner +PDF Converter!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-install-brother-hl-l2380dw-color-laser-all-in-one-printer-with-windows-software/"><u>Ultimate Guide: Install Brother HL-L2380DW Color Laser All-in-One Printer with Windows Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-f14-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy F14 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719338830306-windows-lacks-drive-letters-why-and-how-to-rectify-this-issue/"><u>Windows Lacks Drive Letters: Why and How to Rectify This Issue</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Fixing Spooler Service Failed Error in Windows OS
-date: 2024-11-05T17:59:14.337Z
-updated: 2024-11-06T22:35:26.342Z
+date: 2024-11-16T16:14:43.145Z
+updated: 2024-11-17T16:12:06.723Z
 tags:
   - windows10
   - windows11
@@ -44,37 +44,17 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 ![windows 11 troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-troubleshoot.jpg)
 4. Next, click on **Other troubleshooters.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Next, click the **Run** button for the **Printer** option. The troubleshooter will scan the system and try to detect any issues.  
 ![windows 11 printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-printer-troubleshooter.jpg)
 6. Select the printer you want to troubleshoot and click **Next**.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Wait for the scan to complete and check if it finds any problem. Then, apply the recommended fixes if available.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Restart Print Spooler Service
@@ -88,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 3. Next, locate the **Print Spooler** service from the list of services.
 4. Right-click on the service, select **Restart** and wait for the process to complete.
 5. Give a new print job and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Set the Print Spooler Service Startup Type to Automatic
 
@@ -104,24 +91,10 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 ![print spooler service properties services startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-properties-services-startup-type-automatic.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. If it is already set to **Automatic**, then select **Disabled**. Click **Apply** and **OK** to save the changes.
 8. Now open the Print Spooler service properties and set the **Startup type** to **Automatic**.
 9. Click **OK** and **Apply** to save the changes.
 10. Close the Services snap-in and restart your PC. Next, create a print job and check if the error printer spooler service is not running is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Clear the Print Spooler Files
 
@@ -138,10 +111,25 @@ C:\Windows\System32\spool\PRINTERS
 7. Here, clear all the files inside the Printers folder. Click **Yes** if prompted by **User Account Control (UAC).** Do Not Delete the **PRINTERS** folder, but only the files inside the folder.  
 ![delete printer spooler service files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/delete-printer-spooler-service-files.jpg)
 8. Close File Explorer and go back to the **Services** snap-in.  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![print spooler service start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-start.jpg)
 9. Select and right-click on the **Print Spooler** service and select **Start**.
 
  Now create a new print job and check if the error is resolved. If not, disconnect and reconnect the printer to see if that helps.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Check Windows Defender Firewall
 
@@ -161,20 +149,27 @@ C:\Windows\System32\spool\PRINTERS
 ![turn off Microsoft defender firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-off-Microsoft-defender-firewall.jpg)
 8. With the Firewall disabled, create a new print job, and see if it completes successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Once done, enable the **Windows Defender Firewall** protection.
 
  If you use your printer frequently, disabling Windows Defender Firewall is not a feasible solution. You’ll need to investigate the issue further to allow the connection through the Firewall.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Update Your Printer Driver
 
 ![update drive printer device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/update-drive-printer-device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Outdated or corrupted [computer drivers](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) can cause your connected device to malfunction. Try updating your printer driver to see if that helps resolve the error. You can update the generic printer driver using the Device Manager. Here’s how to do it.
 
@@ -197,24 +192,24 @@ C:\Windows\System32\spool\PRINTERS
 ![bluetooth and devices printers scanners](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/bluetooth-and-devices-prnters-scanners.jpg)
 3. Next, click on **Printers & scanners.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Now locate and click on your printer.  
 ![uninstall printer settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-printer-settings.jpg)
 5. Click the **Remove** button in the top right corner and click **Yes** to confirm the action.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, restart your PC. After the restart, download the latest drivers for your printer from the manufacturer's website and complete the setup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the "Print Spooler Service Is Not Running" Error
@@ -223,27 +218,6 @@ C:\Windows\System32\spool\PRINTERS
 
  It is a common error associated with print jobs. However, the reasons for the error can vary. You may encounter this error when setting up a new printer, after installing an update, or upgrading your router. In any case, here are a few troubleshooting steps to help you resolve this error in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/assessing-the-credibility-of-online-self-imaging-on-instagram/"><u>Assessing the Credibility of Online Self-Imaging on Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/become-a-pro-at-subway-surfers-with-these-top-10-techniques/"><u>Become a Pro at Subway Surfers with These Top 10 Techniques!</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-civi-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Civi 3 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-0x00000001-a-guide-to-xbox-fixes/"><u>Conquering 0X00000001: A Guide to Xbox Fixes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-a-strong-introduction-url-for-2024/"><u>Crafting a Strong Introduction URL for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-faster-rendering-speeds-now-intuitive-setup-for-intels-iris-graphics-driver-v540/"><u>Get Faster Rendering Speeds Now! Intuitive Setup for Intel's Iris Graphics Driver V540</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-redmi-note-13-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi Redmi Note 13 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-and-longer-passwords-for-windows-1011-users/"><u>Secure and Longer Passwords for Windows 10/11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-your-files-learn-the-no-nos-of-file-explorer-usage/"><u>Secure Your Files: Learn the No-No's of File Explorer Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-start-winning-app-list-for-new-pcs/"><u>Skyrocket Start: Winning App List for New PCs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/speedy-download-the-ultimate-linksys-ae1200-driver-guide-and-installation-tips/"><u>Speedy Download: The Ultimate Linksys AE1200 Driver Guide and Installation Tips!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-windows-from-noting-when-programs-run/"><u>Stop Windows From Noting When Programs Run</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-guru-guide-free-up-space-by-removing-windows-temp/"><u>Tech Guru Guide: Free Up Space by Removing Windows' Temp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-guide-to-obscuring-windows-11s-search-icon/"><u>The Guide to Obscuring Windows 11'S Search Icon</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-luts-role-in-image-color-alteration/"><u>Unveiling LUTs' Role in Image Color Alteration</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-demystifying-ai-game-generators-from-definition-to-distinction-for-2024/"><u>Updated Demystifying AI Game Generators From Definition to Distinction for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-rising-four-successors-to-cortana/"><u>Windows Rising: Four Successors to Cortana</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -251,3 +225,20 @@ C:\Windows\System32\spool\PRINTERS
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovative-prime-lenses-for-top-tier-film-projects/"><u>[New] 2024 Approved Innovative Prime Lenses for Top-Tier Film Projects</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-camera-shake-in-photographyvideo-what-you-need-to-know/"><u>[New] Camera Shake In Photography/Video | What You Need to Know</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-bringing-up-the-height-editing-instagram-content-with-fcpx-for-2024/"><u>[Updated] Bringing Up the Height Editing Instagram Content with FCPX for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-microsoft-can-improve-phone-link-on-windows-11/"><u>7 Ways Microsoft Can Improve Phone Link on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-optimal-dns-performance-via-reset/"><u>Achieving Optimal DNS Performance via Reset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-windows-subsystem-for-linux-wsl-steps/"><u>Activating Windows Subsystem for Linux (WSL) Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-game-interruption-preventing-frequent-ps4-controller-drop-outs-in-windows/"><u>Avoid Game Interruption: Preventing Frequent PS4 Controller Drop-Outs in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-virtual-cameras/"><u>Live Streaming Made Easy: Discover the Power of ManyCam Virtual Cameras</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/set-up-alternative-light-for-facebook-appearance/"><u>Set Up Alternative Light for Facebook Appearance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-gaming-experience-achieved-no-more-crashes-in-remnant/"><u>Smooth Gaming Experience Achieved - No More Crashes in Remnant</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ight-approach-to-partial-youtube-downloads-for-2024/"><u>The Right Approach to Partial YouTube Downloads for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Securing Browser Connections Without Defaults
-date: 2024-11-03T06:13:34.139Z
-updated: 2024-11-06T16:57:58.425Z
+date: 2024-11-13T19:23:40.471Z
+updated: 2024-11-17T19:40:29.999Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
  When installing a browser, be sure to check the publisher to avoid installing fake apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Install Browsers Using Commands
 
  You can use PowerShell or Command Prompt to download a browser using a command as well. For simplicity, we'll use PowerShell throughout this guide. You don't need to know any commands or scripting to use this method. Just follow the steps illustrated below.
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
 Let's talk about how you can use these to download a browser.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use Winget
 
  If you're running Windows 10 v1809 or later, Winget is one of the easiest ways to download a browser without a browser. Start by launching PowerShell by searching for it in the Start Menu. Then, execute one of the following commands based on the browser you want to download:
@@ -64,20 +64,14 @@ Let's talk about how you can use these to download a browser.
 
 ![installing chrome using the winget packet manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-winget.jpg)
 
- Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
-
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
 
 ### Download a Browser Using the Curl Command
 
@@ -92,6 +86,13 @@ Let's talk about how you can use these to download a browser.
 Paste the link in quotation marks like so:
 
 ![installing chrome using the curl command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-curl.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
 
@@ -121,14 +122,14 @@ Next, run the following command:
 
 ![installing chrome using chocolatey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-choco.jpg)
 
-Once the process is complete, you can start using the new browser.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Once the process is complete, you can start using the new browser.
 
 ## 3\. Use a Invoke-WebRequest PowerShell Script
 
@@ -150,13 +151,6 @@ Run the following command in PowerShell:
 
  Replace the word link with the link to your browser's setup file. Once you execute the command, you'll see PowerShell downloading the file. Once the download is complete, exit PowerShell and run the download.exe file stored on your desktop. Follow the installation wizard's instructions and you're set.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Start Browsing on Your Fave Browser From Day One
 
  Hopefully, you were able to download a browser and install it using one of these methods. Windows offers a ton of options to get things done. Take your pick when installing a browser without a browser. What matters is installing a browser you think best suits your needs.
@@ -176,20 +170,21 @@ Run the following command in PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-break-the-ice-with-these-beginner-video-gadgets-for-2024/"><u>[New] Break the Ice with These Beginner Video Gadgets for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-quick-red-eye-photo-fixes-on-your-iphone-no-money-needed/"><u>[New] Quick Red-Eye Photo Fixes on Your iPhone, No Money Needed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-chapters-essentials-for-seamless-cutting/"><u>[Updated] 2024 Approved Vimeo Chapters Essentials for Seamless Cutting</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-cutting-edge-imaging-a-shoppers-selection-process/"><u>[Updated] In 2024, Navigating Cutting-Edge Imaging A Shopper's Selection Process</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-step-by-step-incorporating-songs-into-your-facebook-timeline-for-2024/"><u>[Updated] Step-by-Step Incorporating Songs Into Your Facebook Timeline for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-internet-constraints-on-windows-11-devices/"><u>Configuring Internet Constraints on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-esd-files-and-their-conversion-into-iso-on-windows-os/"><u>Decoding ESD Files and Their Conversion Into ISO on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/digital-disguise-mastering-the-art-of-hiding-on-windows-11/"><u>Digital Disguise: Mastering the Art of Hiding on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-error-correction-tackling-0x8007045d-in-win11/"><u>Mastering Error Correction: Tackling 0X8007045d in Win11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/must-watch-10-unique-igtv-content-formats-for-brands/"><u>Must-Watch 10 Unique IGTV Content Formats for Brands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-keybinding-strategies-for-predefined-text-in-windows-11/"><u>Personalized Keybinding Strategies for Predefined Text in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/retrace-your-files-accessing-windows-11s-historical-data/"><u>Retrace Your Files: Accessing Windows 11'S Historical Data</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722851691454-snag-your-dream-apple-watch-at-exclusive-deals-just-in-time/"><u>Snag Your Dream Apple Watch at Exclusive Deals Just In Time!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-immediate-fix-boot-sound-service-reset/"><u>Step-by-Step to Immediate Fix: Boot Sound Service Reset</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-your-computers-mouse-with-ease/"><u>Upgrading Your Computer's Mouse with Ease</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-cutting-edge-alternatives-to-vimeos-video-editor/"><u>[New] In 2024, Cutting Edge Alternatives to Vimeo's Video Editor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-scriptwriting-the-art-of-utilizing-slug-lines/"><u>[Updated] Scriptwriting The Art of Utilizing Slug Lines</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-virtual-ventures-10-near-misses-to-gta-v-for-2024/"><u>[Updated] Virtual Ventures 10 Near-Misses to GTA V for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1-ultimate-guide-to-securing-your-files-verify-backups-and-safeguard-information-accuracy/"><u>1. Ultimate Guide to Securing Your Files: Verify Backups & Safeguard Information Accuracy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-alternative-techniques-for-temporarily-haltin-windows-11-safety/"><u>5 Alternative Techniques for Temporarily Haltin Windows 11 Safety</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-strategies-for-windows-firewall-configuration/"><u>7 Strategies for Windows Firewall Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-glimpse-into-gloom-crafting-art-in-paints-dim-modes/"><u>A Glimpse Into Gloom: Crafting Art in Paint's Dim Modes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disappearing-badge-icons/"><u>Addressing Disappearing Badge Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-functional-utorrent-installers-on-pc-with-os-x/"><u>Addressing Non-Functional uTorrent Installers on PC with OS X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-restart-and-shutdown-disruptions-from-windows-faulty-apps/"><u>Addressing Restart and Shutdown Disruptions From Windows Faulty Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-note-visibility-in-windows-desktop/"><u>Boost Note Visibility in Windows Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-windows-11-notepad-using-ai-mentor/"><u>Boost Windows 11 Notepad Using AI Mentor</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-master-video-editing-on-mac-with-mkvtoolnix-a-step-by-step-guide-2023-for-2024/"><u>New Master Video Editing on Mac with MKVtoolnix A Step-by-Step Guide 2023 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-cut-screenplay-snippet/"><u>Quick-Cut Screenplay Snippet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-6-tested-and-trusted-ai-solutions-for-high-quality-video-up-scaling/"><u>Ultimate Guide: 6 Tested & Trusted AI Solutions for High-Quality Video Up-Scaling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-your-smartphone-a-comparative-analysis-of-iphone-16-pro-vs-iphone-14-pro-is-it-worth-it-tech-advisor/"><u>Upgrading Your Smartphone: A Comparative Analysis of iPhone 16 Pro Vs. IPhone 14 Pro - Is It Worth It? | Tech Advisor</u></a></li>
 </ul></div>
 

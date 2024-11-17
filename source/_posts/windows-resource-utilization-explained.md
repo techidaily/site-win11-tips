@@ -1,7 +1,7 @@
 ---
 title: Windows Resource Utilization Explained
-date: 2024-11-04T22:44:21.996Z
-updated: 2024-11-07T04:35:06.957Z
+date: 2024-11-16T16:40:05.507Z
+updated: 2024-11-17T18:22:52.193Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
  If you want to check the storage usage of apps on a specific drive, click the drop-down menu next to **Filter by** and choose the desired drive.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check How Much Space Your Apps or Programs Are Using via the Control Panel
 
  Although Microsoft is gradually transitioning from the Control Panel to the modern Settings app, the Control Panel still remains accessible in all versions of Windows, including Windows 11\. So, if you prefer using the Control Panel, use these steps to check how much storage your apps or programs are using on Windows.
@@ -53,15 +46,28 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 4. Click on **Programs and Features** to view a list of programs installed on your computer. You can check the **Size** column to find out how much space a program is using.  
 ![Check App Storage Usage via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In case the **Size** column is not visible, right-click on the **Name** column header and select **Size** from the context menu.
 
  Like using the Control Panel in Windows? Why not [set up Control Panel shortcuts](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) on your desktop or the Start menu to access it quickly?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check How Much Space Your Apps or Programs Are Using via File Explorer
@@ -76,17 +82,17 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 ![Check App Storage Usage via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Check App Storage Usage on Windows
@@ -95,21 +101,6 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
  Whether you want to check the storage usage of your Microsoft Store apps or traditional desktop programs, this guide will help you with both.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-budget-friendly-backdrops-a-journey-through-tiktoks-visual-wonderland/"><u>[New] Budget-Friendly Backdrops A Journey Through TikTok's Visual Wonderland</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-non-displayed-results-in-windows-11/"><u>Clearing Up Non-Displayed Results in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicate-scandisk-errors-for-a-smooth-run/"><u>Eradicate ScanDisk Errors for a Smooth Run</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-vector-databases-on-ai-performance-and-efficiency/"><u>Exploring the Impact of Vector Databases on AI Performance and Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harness-the-virtual-world-with-hyper-v-in-windows-11/"><u>Harness the Virtual World with Hyper-V in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-itel-a05s-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Itel A05s Phone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 11 Pro?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/problem-mit-der-outlook-datendatei-schritt-fur-schritt-zur-problemlosung/"><u>Problem Mit Der Outlook Datendatei – Schritt-Für-Schritt Zur Problemlösung</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-a-stuck-recycle-bin-on-microsofts-latest-os/"><u>Reviving a Stuck Recycle Bin on Microsoft's Latest OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/triumph-over-windows-11-theme-lockdown-a-registry-approach/"><u>Triumph Over Windows 11 Theme Lockdown: A Registry Approach</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -117,3 +108,24 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-blending-pictures-into-a-single-storyboard-image/"><u>[New] 2024 Approved Blending Pictures Into a Single Storyboard Image</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-why-is-my-photobooth-video-stopping-in-2024/"><u>[Updated] Why Is My Photobooth Video Stopping, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-perfection-your-path-to-exceptional-edits/"><u>2024 Approved Pixel Perfection Your Path to Exceptional Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-change-boot-menu-timeout-in-windows-11/"><u>4 Ways to Change Boot Menu Timeout in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-cease-chromes-unintended-tabs/"><u>A Step-By-Step Guide to Cease Chrome's Unintended Tabs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-to-customize-your-laptops-touchpads/"><u>A Step-by-Step to Customize Your Laptop's Touchpads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-system-blocked-issue-on-your-windows-machine/"><u>Addressing the System Blocked Issue on Your Windows Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-performance-of-windows-for-swift-steam-uploads/"><u>Boosting Performance of Windows for Swift Steam Uploads</u></a></li>
+<li><a href="https://win-online.techidaily.com/comprendre-et-activer-lalignment-des-partitions-de-ssd-pour-optimiser-les-performances-de-votre-ordinateur/"><u>Comprendre Et Activer L’Alignment Des Partitions De SSD Pour Optimiser Les Performances De Votre Ordinateur</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-tips-repairing-common-issues-with-your-electronic-gadgets/"><u>DIY Troubleshooting Tips: Repairing Common Issues with Your Electronic Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-asrock-motherboard-drivers-compatibility-and-installation-guide/"><u>Download the Latest ASRock Motherboard Drivers: Compatibility & Installation Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719268063873-ensuring-complete-screen-images-with-snip-and-sketch-tips/"><u>Ensuring Complete Screen Images with Snip & Sketch Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-x50-gt-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor X50 GT Face Lock?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719377868664-is-prtscr-a-gateway-to-windows-11s-snipping-tool-no/"><u>Is PrtScr a Gateway to Windows 11'S Snipping Tool? No!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-cd-players-and-cd-changers-of-2024/"><u>The Best CD Players and CD Changers of 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-m14-4g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy M14 4G Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
+

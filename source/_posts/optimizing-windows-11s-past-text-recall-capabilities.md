@@ -1,7 +1,7 @@
 ---
 title: Optimizing Windows 11'S Past Text Recall Capabilities
-date: 2024-09-01T05:16:55.462Z
-updated: 2024-09-02T05:16:55.462Z
+date: 2024-11-14T19:39:21.070Z
+updated: 2024-11-17T18:17:38.532Z
 tags:
   - windows10
   - windows11
@@ -38,64 +38,81 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 
  clipboard history will be much better with pinned items always on top of the window. This will make pinned items easier to access, as they should be. We hope Microsoft will introduce this change in future software updates for Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Ability to Search Through Clipboard History
 
  You might often struggle to find the exact copied items, especially the older ones you are looking for in the clipboard history. Finding the same item you copied a couple of minutes ago will take less time with a simple search capability in the clipboard history window.
 
  Windows 11 clipboard history should have the ability to allow users to search through it to make looking up copied items easier.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. The Ability to Resize the Clipboard History Window
 
 ![Screenshot showing Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clipboard-resize.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you press **Win + V** on your keyboard, your PC will display the clipboard history window on the screen. However, the window is smaller than it should be for many people. The clipboard history window can get small when you use a large display, causing difficulty spotting the copied items.
 
  Microsoft can address this issue by adding the ability to resize the clipboard history window. Windows users should be able to drag the window's edges to change the size, just like how we can resize app windows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Allow Pinning of Clipboard History to Taskbar
 
  While opening the clipboard history in Windows 10 and 11 is already easy, it will be even more accessible if it gets pinned on the taskbar. This can be helpful if you are facing issues with keyboard switches (check out [fixes for keyboard switch not working on Windows](https://www.makeuseof.com/fix-keyboard-keys-not-working-windows/)), as pinning the clipboard history to the taskbar gives you an alternative way to access all the copied items.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Add Paste as Plain Text in Clipboard History
 
 ![Screenshot showing copy as text in Windows 11 Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clipboard-paste-as-plain-texxt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you copy a piece of formatted text, the clipboard history on Windows will not allow you to paste it as plain text. You will have to change its formatting after pasting, which takes time and is not how many of us would want it to be.
 
  Windows users can be more productive with the ability to paste as plain text capability in the clipboard history. Microsoft should at least give us the option on top of what we already have.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Clipboard Should Survive Through a Reboot
 
  While clipboard history can get you access to recently copied items, it can't survive a reboot. In other words, Windows wipes out all the copied items when you turn off or restart your PC. In that case, you need to start all over again.
 
  Instead of wiping everything once the PC shuts down, Microsoft should add the option to save the copied items for a few days. You won't need to worry when your PC restarts automatically, as your copied items will be saved in the clipboard history.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Increase the Number of Items Clipboard History Can Store
 
  clipboard history can store up to 25 items you've cut or copied. That number may not be sufficient for a better workflow for someone who uses copy and paste extensively. Microsoft needs to increase the number of items that clipboard history can store to improve the overall copy-and-paste experience on Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Bring the Option to Share Items in Clipboard History with Users
 
  Many Windows users would want to share their clipboard history with others. This will enable other users to paste the same set of copied items. Hopefully, Microsoft will add this one, too, in future Windows 11 versions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9\. Other Improvements Microsoft Can Bring to Clipboard History
 
  A piece of software is considered good when it is reliable with a minimum number of failures. clipboard history with all its flaws works well most of the time, but Microsoft needs to bring more improvements to make it more reliable and faster. Meanwhile, if you are facing issues, you can easily [fix the clipboard history when it stops working](https://www.makeuseof.com/windows-11-fix-clipboard-history/) on Windows.
@@ -106,11 +123,26 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 
  In this article, we are putting together a list of features Microsoft can add to improve the clipboard history capability in Windows 11\. But before that, here is a brief introduction to the clipboard history feature.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-hidden-gems-galore-top-10-unique-meme-webpages-for-2024/"><u>[New] Hidden Gems Galore – Top 10 Unique Meme Webpages for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dive-into-makers-earnings-exploring-youtube-shorts-revenue-structure/"><u>[New] In 2024, Dive Into Maker's Earnings Exploring YouTube Shorts Revenue Structure</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-striking-the-balance-visual-strategies-for-podcast-identity-for-2024/"><u>[New] Striking the Balance Visual Strategies for Podcast Identity for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/are-feedbacks-on-items-monetized-in-videos-in-2024/"><u>Are Feedbacks on Items Monetized in Videos, In 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/combating-content-id-blocks-on-youtube-with-knowledge/"><u>Combating Content ID Blocks on YouTube with Knowledge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-desktop-cleanliness-with-self-deleting-files-in-windows-os/"><u>Enhance Desktop Cleanliness with Self-Deleting Files in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-command-not-available-in-windows/"><u>Immediate Fixes for Command Not Available in Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/innovative-snapchat-strategies-the-ultimate-list/"><u>Innovative Snapchat Strategies The Ultimate List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/organizational-culture-is-a-set-of-shared-values-beliefs-norms-and-practices-that-influence-employee-behavior-and-the-organizations-performance/"><u>Organizational Culture Is a Set of Shared Values, Beliefs, Norms, and Practices that Influence Employee Behavior and the Organization's Performance.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-desktop-connection-on-w11/"><u>Streamlining Desktop Connection on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tighten-up-yuzu-loading-screens-wins-style/"><u>Tighten Up Yuzu Loading Screens, WINs Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1011s-vanishing-windows-how-to-bring-them-back-quickly/"><u>Win10/11's Vanishing Windows: How to Bring Them Back Quickly</u></a></li>
+</ul></div>
+

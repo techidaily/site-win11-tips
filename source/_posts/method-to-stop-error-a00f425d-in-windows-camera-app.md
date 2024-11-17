@@ -1,7 +1,7 @@
 ---
 title: Method to Stop Error A00F425D in Windows Camera App
-date: 2024-10-31T17:32:04.036Z
-updated: 2024-11-07T01:35:30.397Z
+date: 2024-11-14T19:20:03.373Z
+updated: 2024-11-17T16:12:51.022Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ This is how you can run those troubleshooters in Windows 10 and 11:
  Accessing troubleshooters in Windows 10 isn’t quite the same. Select**Update & Security** and Troubleshooter in Windows 10’s Settings app. Then click**Additional troubleshooter** to bring up the window from which you can open the tools. Note that Windows 10 also has an alternative**Speech** troubleshooter that can also resolve microphone issues.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable Your PC’s Microphone
@@ -63,36 +63,16 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-device-option.jpg)
 4. Press**Windows** logo +**I** to go into Settings, and select**Privacy** there.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Microphone** to access settings for that device.
 6. Turn on the**Microphone access** (or**Allow apps to access your Microphone**) option.  
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-access-option.jpg)
 7. Then toggle on the**Camera** option to enable microphone access for that app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Plug an External Webcam Into an Alternative USB Port
@@ -113,6 +93,14 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 1. Select**DWORD (32-bit) Value** option and input**EnableFrameServerMode** for the name.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dword-option.jpg)
 2. Double-click the**EnableFrameServerMode** DWORD you’ve just added.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. The**EnableFrameServerMode’s** value might be set to**0** by default. If it isn’t, however, input**0** in the data box to set that value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-option.jpg)
 4. Exit the Edit DWORD window by clicking**OK** .
@@ -120,6 +108,13 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 `HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Media Foundation\Platform`  
 ![A Platform key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enableframeserver-dword.jpg)
 6. Repeat steps six to 10 for the second**Platform** key.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update Your Webcam’s Driver
 
@@ -132,10 +127,10 @@ This is how you can run those troubleshooters in Windows 10 and 11:
  Alternatively, you can find and replace an outdated camera driver without third-party software. The other way to do it is to manually download the latest driver for your camera from the manufacturer’s website and install it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Clean Boot Your PC
@@ -144,6 +139,13 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/services-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Delete Your PC’s Most Recent Windows Patch Update
 
  Sometimes error 0xA00F425D can be triggered by a newly installed Windows patch update. Such updates have introduced bugs that have broken webcams on Windows 10 in the past. The KB4601319 cumulative update is a recent example. If your PC has recently received an update, there’s a slight possibility that could have caused 0xA00F425D.
@@ -151,13 +153,6 @@ This is how you can run those troubleshooters in Windows 10 and 11:
  Deleting your PC’s most recent Windows update would fix the error if that’s the case. You can apply such a potential resolution by manually uninstalling the latest update listed in the Control Panel’s Programs and Features applet. Our guide to[uninstalling Windows updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) includes step-by-step instructions for how to do that.
 
 ![Install updates in the Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installed-updates.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Record Videos With the Camera App Again
 
@@ -178,19 +173,24 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-guide-to-androids-finest-podcast-platforms-top-6/"><u>[New] Exclusive Guide to Android's Finest Podcast Platforms (Top 6)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-punctuality-perfection-scheduling-fb-content-for-free/"><u>[Updated] Punctuality Perfection Scheduling FB Content for Free</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-techniques-to-perfectly-transcribe-ppts-for-2024/"><u>[Updated] Techniques to Perfectly Transcribe PPTs for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-blueprint-for-successful-individual-podcasts/"><u>[Updated] The Blueprint for Successful Individual Podcasts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-keep-it-flowing-repasting-content-on-ig/"><u>2024 Approved Keep It Flowing Repasting Content on IG</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1164029-9781101633755-afterlife/"><u>Afterlife | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-audio-subtitle-symphony-streamlining-prime-viewing-in-windows-11/"><u>Decoding Audio-Subtitle Symphony: Streamlining Prime Viewing in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-restore-microphone-functionality-on-turtle-beach-elite-atlas-headset/"><u>Effective Solutions to Restore Microphone Functionality on Turtle Beach Elite Atlas Headset</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-gt-neo-5-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme GT Neo 5 Phone Network-Ready</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/peering-into-ftdibussys-an-analysis-of-windows-memory-controls/"><u>Peering Into ftdibus.sys: An Analysis of Windows' Memory Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realigning-chromes-system-time-a-fix-guide-windows/"><u>Realigning Chrome's System Time: A Fix Guide (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-file-access-mastering-network-drives-in-win11/"><u>Seamless File Access: Mastering Network Drives in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-approach-to-bypassing-no-permission-on-pc/"><u>Step-by-Step Approach to Bypassing 'No Permission' On PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/uncover-the-reasons-behind-your-mics-failure-to-record-expert-diagnosis-and-fixes/"><u>Uncover the Reasons Behind Your Mic’s Failure to Record: Expert Diagnosis and Fixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-which-is-better-for-vloggers-on-facebook-vertical-or-horizontal-for-2024/"><u>[New] Which Is Better for Vloggers on Facebook Vertical or Horizontal for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-exploring-earth-with-high-res-the-mi-drone-review/"><u>[Updated] In 2024, Exploring Earth with High Res The MI Drone Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-earn-more-maximizing-income-through-youtube-mobile-advertising/"><u>2024 Approved Earn More Maximizing Income Through YouTube Mobile Advertising</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-understanding-disk-distinctions-c-and-d/"><u>A Guide to Understanding Disk Distinctions (C & D)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-taskbar-inactivity-in-windows-os/"><u>Addressing Taskbar Inactivity in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismantling-lan-access-barriers-on-winsminecraft/"><u>Dismantling LAN Access Barriers on WinsMinecraft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-mechanics-of-generative-ai-in-search-top-companies-leveraging-this-technology/"><u>Exploring the Mechanics of Generative AI in Search: Top Companies Leveraging This Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-to-wipe-login-page-contacts/"><u>Guiding You to Wipe Login Page Contacts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-improve-quality-of-pictures-on-iphone-with-low-mp-camera/"><u>How to Improve Quality of Pictures on iPhone with Low MP Camera</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/k850-ultrahd-samsung-2023-tech-review/"><u>K850 UltraHD Samsung 2023 Tech Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-track-of-windows-shots-folders/"><u>Keeping Track of Windows Shots' Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-strategies-for-unlocking-store-apps-directory/"><u>Proven Strategies for Unlocking Store Apps Directory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-uninstall-failure-windows-1011-access-issue/"><u>Resolving Uninstall Failure: Windows 10/11 Access Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487420-score-unbeatable-deal-grab-your-steelseries-arctis-nova-pro-wireless-for-just-64-top-choice-in-gaming-headsets/"><u>Score Unbeatable Deal: Grab Your SteelSeries Arctis Nova Pro Wireless for Just $64 - Top Choice in Gaming Headsets!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-to-preferred-pdf-viewer-on-windows/"><u>Switching to Preferred PDF Viewer on Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-teleporting-technique-upgrading-phones-for-vr-immersion/"><u>The Teleporting Technique Upgrading Phones for VR Immersion</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-thread-that-binds-fabric-fixing-in-a-feature-rich-app/"><u>The Thread That Binds Fabric Fixing in a Feature-Rich App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-wintoys-unlocking-a-versatile-tool-in-windows-os/"><u>Understanding WinToys: Unlocking a Versatile Tool in Windows OS</u></a></li>
 </ul></div>
 

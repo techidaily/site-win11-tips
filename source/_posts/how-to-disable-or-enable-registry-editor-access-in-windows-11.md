@@ -1,7 +1,7 @@
 ---
 title: How to Disable or Enable Registry Editor Access in Windows 11
-date: 2024-11-01T16:46:19.587Z
-updated: 2024-11-07T01:07:32.171Z
+date: 2024-11-14T18:30:39.655Z
+updated: 2024-11-17T16:51:39.825Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
  Following this, users will see the “Registry editing has been disabled by your administrator” message when they attempt to access the Registry Editor. If you want to re-enable Registry Editor later, repeat the above steps and set the **Prevent access to registry editing tools** policy to **Not configured** or **Disabled**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Disable or Enable Registry Editor Access via the Registry Editor
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 ![Block Registry Editor Access via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you complete the above steps, the Registry Editor will be disabled on your PC.
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 4. Click the **File** menu and select **Save as**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select **Desktop** in the **Save as** dialog box.
@@ -96,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
  Once you run the above command, the Registry Editor will become accessible again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Allowing or Disallowing Registry Editor Access on Windows
@@ -108,29 +108,6 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 
  Fortunately, it’s possible to disable (or enable) Registry Editor access on your Windows 11 PC. Let's see how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-zoom-audio-capture-techniques/"><u>[New] In 2024, Ultimate ZOOM Audio Capture Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-quintessential-list-of-top-15-masterpieces-in-stop-motion/"><u>[New] The Quintessential List of Top 15 Masterpieces in Stop Motion</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discovering-beyond-vidcon-key-youtube-occasions/"><u>[Updated] 2024 Approved Discovering Beyond VidCon Key Youtube Occasions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1716069203858-updated-in-2024-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[Updated] In 2024, Essential Offline iOS Game List - Unplugged Fun Awaits!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-typing-experience-the-win-enter-key-fix/"><u>Enhancing Typing Experience: The Win Enter Key Fix</u></a></li>
-<li><a href="https://fox-that.techidaily.com/four-key-strategies-to-accelerate-safari-speed-issues-on-ios-devices/"><u>Four Key Strategies to Accelerate Safari Speed Issues on iOS Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-mend-failed-connections-with-secure-vpn-access/"><u>How to Mend Failed Connections with Secure VPN Access</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-versus-macbook-air-determining-the-ideal-device-for-your-needs-techradar/"><u>IPad Pro Versus MacBook Air: Determining the Ideal Device for Your Needs | TechRadar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-memory-overuse-in-windows-via-edges-webview2/"><u>Minimizing Memory Overuse in Windows via Edge's WebView2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-iomap64sys-blue-screen-errors-on-windows-os/"><u>Solving IOMap64.sys Blue Screen Errors on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategic-insights-for-free-players-on-old-chessboard-mastery/"><u>Strategic Insights for Free-Players on Old Chessboard Mastery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-maintaining-vscode-on-windows-11/"><u>Strategies for Maintaining VSCode on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-conversion-software-roundup-for-win-users/"><u>Top Conversion Software Roundup for Win Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-tasks-with-chatgpt-for-professional-success/"><u>Transforming Tasks with ChatGPT for Professional Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-now-webcam-and-mic-functionality-check/"><u>Troubleshoot Now: Webcam & Mic Functionality Check</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbots-the-reason-behind-their-rising-popularity/"><u>Understanding AI Chatbots: The Reason Behind Their Rising Popularity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-and-correcting-windows-update-hiccup-error-0x800f080a/"><u>Unraveling & Correcting Window's Update Hiccup Error 0X800f080a</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-mobile-video-mastery-top-split-screen-apps-for-iphone-and-android-for-2024/"><u>Updated Mobile Video Mastery Top Split Screen Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-razr-40-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Razr 40 Auto Does Not Work | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,3 +115,21 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-rise-from-oblivion-mastery-of-tiktok-shadowban-evasion/"><u>[New] 2024 Approved Rise From Oblivion Mastery of TikTok Shadowban Evasion</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-mastering-storytelling-anime-influencers-on-tiktok/"><u>[New] In 2024, Mastering Storytelling Anime Influencers on TikTok</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-compreayers-guide-to-monetizing-videos-critical-view-figures-for-2024/"><u>[Updated] A Compreayer's Guide to Monetizing Videos Critical View Figures for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-gpu-nostalgia-update-for-2024/"><u>[Updated] GPU Nostalgia Update for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-new-life-into-wt-color-schemes/"><u>Breathing New Life Into WT: Color Schemes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/building-a-safe-window-shortcut-for-easy-hardware-disconnect-on-win11/"><u>Building a Safe Window Shortcut for Easy Hardware Disconnect on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-the-brick-wall-top-fixes-for-windows-install-verification-pause/"><u>Bypass the Brick Wall: Top Fixes for Windows Install Verification Pause</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-the-worst-8-bad-habits-in-windows-11-life/"><u>Bypass the Worst: 8 Bad Habits in Windows 11 Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-quick-access-go-straight-to-file-explorer-via-onedrive/"><u>Bypassing Quick Access: Go Straight to File Explorer via OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capturing-uac-notifications-with-precision/"><u>Capturing UAC Notifications with Precision</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-15-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 15 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-shell-out-5-key-factors-supporting-premium-gaming-apps/"><u>Why Shell Out? 5 Key Factors Supporting Premium Gaming Apps</u></a></li>
+</ul></div>
+

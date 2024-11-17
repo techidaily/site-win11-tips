@@ -1,7 +1,7 @@
 ---
 title: "Tackling Microsoft'e Shop Error Code: 0X80073CF3"
-date: 2024-09-01T05:17:32.711Z
-updated: 2024-09-02T05:17:32.711Z
+date: 2024-11-12T17:20:34.647Z
+updated: 2024-11-17T16:06:44.994Z
 tags:
   - windows10
   - windows11
@@ -41,14 +41,31 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 
 ![The wsreset Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsreset-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Reset the Microsoft Store App
 
  Windows Settings also includes a **Reset** option for the Microsoft Store. Selecting **Reset** is a similar fix to running the wsreset command, but it’s a more general option for clearing all Microsoft Store’s data. As such, if the wsreset command is ineffective, try performing a reset instead. You can apply this solution by following the instructions within our guide on [how to reset apps in Windows](https://www.makeuseof.com/windows-reset-app/).
 
 ![The Repair and Reset buttons for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-reset-and-repair-buttons.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Repair the Gaming Services App
 
@@ -58,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 
 ![The Gaming Services app page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-gaming-services-app-page.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 5\. Turn Off Any Active Antivirus Apps
 
  Antivirus apps can sometimes interfere with the downloading and installing of legitimate apps. This can happen when an antivirus utility wrongly flags an app.
@@ -72,13 +86,24 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 ![The real-time protection setting for Microsoft Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/real-time-protection-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Set Windows to Perform a Clean Boot
 
  The description for error 0x80073CF3 hints that a software (or app) conflict can cause this issue to arise. Setting Windows to clean boot could eliminate such a potential software conflict. Applying that potential fix will disable all unnecessary third-party startup items from running automatically.
 
 ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-configuration-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can configure a clean boot by selecting to disable third-party startup programs and services with Task Manager and System Configuration. Our guide to [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) includes full guidelines for how to disable startup items with those tools. Then restart your PC and try downloading the required Microsoft Store apps again to see if error 0x80073CF3 continues.
 
@@ -89,20 +114,18 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 ![The Apps & features uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-features-uninstaller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
+
 ## 8\. Reinstall the Microsoft Store App
 
  Reinstalling the Microsoft Store app is another error 0x80073CF3 fix that’s worked for some users. Those users fixed the issue by removing and reinstalling the Microsoft Store with several PowerShell commands. Our guide about [reinstalling the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes the PowerShell commands you need to execute for this potential fix.
 
 ![The remove MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-remove-app-package-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Perform a Windows In-Place Upgrade
 
  This potential solution will install the latest Windows 11/10 version on your PC. It is otherwise an in-place upgrade troubleshooting method that enables you to reinstall Windows without losing apps and user files. Performing an in-place upgrade will likely resolve any other Windows issues causing error 0x80073CF3 other potential fixes above don’t address.
@@ -112,15 +135,17 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-setup-window2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Get the Microsoft Store Error 0x80073CF3 Sorted
 
  Error 0x80073CF3 can be a tricky one to sort out because it has numerous variable potential causes. This guide includes some of the most widely confirmed error 0x80073CF3 resolutions to work by users who’ve fixed that issue. So, one of those possible resolutions will probably get that Microsoft Store issue sorted on your Windows PC.
 
  Users can’t install Microsoft Store apps that trigger the 0x80073CF3 error. Some users might try to wait out that error hoping it will somehow fix itself after a few days, but seldom will that happen. This is how you can fix Microsoft Store error code 0x80073CF on a Windows 11/10 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,3 +153,22 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-gentle-echoes-mac-and-windows-sound-controls/"><u>[New] Gentle Echoes Mac and Windows Sound Controls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-mystery-behind-professional-looking-time-lapses-in-gopro/"><u>2024 Approved Unveiling the Mystery Behind Professional-Looking Time Lapses in GoPro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-steams-failed-file-synchronization-on-pc/"><u>Correcting Steam's Failed File Synchronization on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-technicalities-inside-the-windows-iscsi-initiator/"><u>Deciphering the Technicalities: Inside the Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-the-echoes-correcting-server-stumbled-errors-in-win-store/"><u>Eliminate the Echoes: Correcting Server Stumbled Errors in Win Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-hardware-not-recognized-issue-on-windows/"><u>Fixing 'Hardware Not Recognized' Issue on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-lenovo-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Lenovo Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/"><u>In 2024, Ultimate Buyer's Guide to Top 6 HDMI Monitors (2.1)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mirthful-methodology-making-memes-for-free-for-2024/"><u>Mirthful Methodology Making Memes for Free for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/public-policy-tools-for-negative-externalities-include-taxes-and-regulations-for-positive-externalities-subsidies-and-direct-provision-are-common-responses.99/"><u>Public Policy Tools for Negative Externalities Include Taxes and Regulations; for Positive Externalities, Subsidies and Direct Provision Are Common Responses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-the-shift-installing-apps-on-your-newest-windows-11-laptop/"><u>Simplifying the Shift: Installing Apps on Your Newest Windows 11 Laptop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-obs-ile-ekran-kaydi-sondurme-hareketi-detailed-instructions-for-easy-usage/"><u>Step-by-Step OBS Ile Ekran Kaydı Söndürme Hareketi - Detailed Instructions for Easy Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-storage-recognizing-excessive-disk-use-windows-style/"><u>Streamline Storage: Recognizing Excessive Disk Use Windows Style</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-enchanted-realm-of-bygone-writings-a-literary-pilgrimage/"><u>The Enchanted Realm of Bygone Writings A Literary Pilgrimage</u></a></li>
+</ul></div>
+

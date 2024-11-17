@@ -1,7 +1,7 @@
 ---
 title: Methods for Performing an SFC Scan in Windows
-date: 2024-11-01T22:57:14.546Z
-updated: 2024-11-06T22:48:50.460Z
+date: 2024-11-12T20:30:57.799Z
+updated: 2024-11-17T16:44:07.550Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
  If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Happens After I Run the System File Checker?
 
  After the System File Checker completes its scan, it will display a message in the Command Prompt window with the results.
@@ -55,14 +48,14 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
- On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
 ## Other SFC Commands You Can Run on Windows
 
@@ -88,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Find the SFC Log File On Windows
 
  After the SFC does its thing, it will log the results of the scan and any repairs it made into a text file called**CBS.log** . To open it, press**Win + R** to open Windows Run, enter the below text, and click**OK** :
@@ -99,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
@@ -113,19 +113,6 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
 ![the sfc details text file in File Explorer on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll see that the log file contains entries from the System File Checker only.
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
@@ -135,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 `/offlogfile=[offline log file path]`
 
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
 
@@ -157,21 +151,17 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlocking-the-secrets-to-professional-quality-instagram-videos/"><u>[New] 2024 Approved Unlocking the Secrets to Professional-Quality Instagram Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-videos-vertical-or-horizontal-for-2024/"><u>[Updated] Facebook Videos; Vertical or Horizontal for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/classic-resurrection-windows-11-redesigned-for-98-feel/"><u>Classic Resurrection: Windows 11 Redesigned for 98 Feel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-monitors-malfunction-alerts/"><u>Correcting Windows Monitor's Malfunction Alerts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-pdf-and-rw2-to-png-upgrade-free-downloads-via-rapidwidgets/"><u>Effortless PDF and RW2 to PNG Upgrade - Free Downloads via RapidWidgets!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-features-of-googles-latest-innovation-the-advanced-palm-2-llm/"><u>Exploring the Features of Google's Latest Innovation: The Advanced PaLM 2 LLM</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-x50iplus-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor X50i+ Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-interconnected-digital-universes-meta-and-omni/"><u>In 2024, Exploring Interconnected Digital Universes Meta & Omni</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-guide-to-iphone-screen-adjustment/"><u>In 2024, Simplified Guide to iPhone Screen Adjustment</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-variants-of-windows-movie-maker-a-comprehensive-list/"><u>In 2024, Variants of Windows Movie Maker A Comprehensive List</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/losung-fur-den-fehler-papierkorb-zeigt-leer-an-aber-das-stimmt-nicht/"><u>Lösung Für Den Fehler: 'Papierkorb' Zeigt Leer an - Aber Das Stimmt Nicht!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-wake-up-call-from-dark-screen-mode/"><u>Quick Fixes for Wake-Up Call From Dark Screen Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-windows-store-glitch-error-x80072f17-fix/"><u>Rectifying Windows Store Glitch: Error X80072F17 Fix</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-circumvent-microsofts-virus-prevention-hurdles/"><u>Strategies to Circumvent Microsoft's Virus Prevention Hurdles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-your-computers-print-command-solutions-for-faulty-wwinplusp-operations/"><u>Unlock Your Computer's Print Command: Solutions for Faulty WWin+P Operations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-not-found-top-8-fixes-for-windows/"><u>Unmasking 'Not Found': Top 8 Fixes for Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-stop-ff-videos-from-not-rendering-on-android/"><u>[New] In 2024, Stop FF Videos From Not Rendering on Android</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-key-tips-for-locating-your-preferred-discord-server-for-2024/"><u>[New] Key Tips for Locating Your Preferred Discord Server for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-itop-a-screencast-game-changer-for-2024/"><u>[New] Unveiling ITop A Screencast Game-Changer for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-walking-dead-top-picks-for-horror-gamers-for-2024/"><u>[New] Walking Dead Top Picks for Horror Gamers for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-11-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 11 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-amd-card-drivers-in-windows-11-an-overview/"><u>Effortless AMD Card Drivers in Windows 11: An Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-bring-back-photo-viewer-features-on-win11/"><u>Guide to Bring Back Photo Viewer Features on Win11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-marketplace-malfunction-error-0x80073cf3/"><u>Overcoming the Marketplace Malfunction: Error 0X80073CF3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surviving-extended-blackouts-with-ecoflows-innovative-battery-system-an-insightful-review-for-zdnet-readers/"><u>Surviving Extended Blackouts with EcoFlow's Innovative Battery System - An Insightful Review for ZDNet Readers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-to-customized-pdf-program-on-pc/"><u>Switching to Customized PDF Program on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-redefining-spacing-between-desktop-widgets-in-windows-1011/"><u>Title: Redefining Spacing Between Desktop Widgets in Windows 10/11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Gamepad Unresponsiveness
-date: 2024-11-05T11:03:24.325Z
-updated: 2024-11-07T07:16:20.754Z
+date: 2024-11-12T20:37:37.789Z
+updated: 2024-11-17T19:45:08.804Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
  If your controller does not show up in the Game Controllers window or the status does not say **OK**, you may be experiencing a connection problem.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disconnect and Reconnect the Controller
@@ -56,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 1. Right-click on the **Start icon** and select **Device Manager** from the list.
 2. Right-click anywhere on an empty spot within the Device Manager window and select **Scan for hardware changes**.  
 ![Scan for Hardware Changes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-for-hardware-changes-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Following that, your controller should appear in the Device Manager window and work as expected.
 
@@ -87,7 +86,21 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 3. Click the **Run** button next to **Bluetooth**.  
 ![Bluetooth Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bluetooth-troubleshooter-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After running the above troubleshooter, try using your controller again.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall the Controller's Driver
 
@@ -99,22 +112,15 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 4. Select the **Search for updated drivers on Windows Update** option.  
 ![Update Controller Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-controller-driver-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for Windows to check for any pending updates for the driver and install them.
 
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to [uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/). Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Update Your Controller’s Firmware
@@ -131,24 +137,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
  Don’t worry, there's no need to purchase a new controller just yet. Here are some fixes that should get your controller working again on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-virtual-reality-breakthrough-apps-for-smartphones/"><u>[Updated] 2024 Approved Virtual Reality Breakthrough Apps for Smartphones</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cutting-edge-accessories-reviewing-the-best-in-vr/"><u>[Updated] Cutting-Edge Accessories Reviewing the Best in VR</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-to-unbeatable-ps5-accessory-choices/"><u>A Guide to Unbeatable PS5 Accessory Choices</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-s18-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo S18 Pro to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210687252-9781475869200-learning-compassion/"><u>Learning Compassion | Free Book</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/lively-discourse-evaluation-iteration-8/"><u>Lively Discourse Evaluation - Iteration 8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-notepads-visual-transformation-with-dark-themes-windows/"><u>Master Notepad’s Visual Transformation with Dark Themes (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-auditory-anomaly-code-0xd36b4-on-windows/"><u>Navigating Through Auditory Anomaly: Code 0Xd36b4 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalize-keyboard-actions-on-windows-platform/"><u>Personalize Keyboard Actions on Windows Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reignite-your-onedrive-login-windows-solutions-needed/"><u>Reignite Your OneDrive Login: Windows Solutions Needed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/stars-quick-visibility-check/"><u>Star's Quick Visibility Check</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-ipad-gameplay-using-the-apple-pencil-a-step-by-step-guide-to-better-entertainment/"><u>Transform Your iPad Gameplay Using the Apple Pencil - A Step-by-Step Guide to Better Entertainment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/vcplusplus-redistribution-purpose-explored/"><u>VC++ Redistribution Purpose Explored</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -156,3 +144,23 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-top-6-tiktok-money-calculators-earnings-estimator/"><u>[New] Top 6 TikTok Money Calculators [Earnings Estimator]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-and-crafting-youtube-live-thumbnails/"><u>[New] Understanding and Crafting YouTube Live Thumbnails</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-core-ethos-universal-youtube-guidelines/"><u>[Updated] Core Ethos Universal YouTube Guidelines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-essential-solutions-for-troubleshooting-missing-wireless-connections-in-windows-10/"><u>10 Essential Solutions for Troubleshooting Missing Wireless Connections in Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-future-of-flying-games-mavic-air-vs-dji-spark-showdown/"><u>2024 Approved The Future of Flying Games Mavic Air Vs. DJI Spark Showdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-empty-directory-alert-in-windows-11/"><u>Addressing Empty Directory Alert in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-default-screen-saver-in-windows-11/"><u>Adjusting Default Screen Saver in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/battle-bugs-tackling-skyrims-extension-failure/"><u>Battle Bugs: Tackling Skyrim's Extension Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/black-friday-special-612-unlimited-win10-life/"><u>Black Friday Special: $6.12, Unlimited Win10 Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-by-mastering-task-management-on-a-windows-11-pc/"><u>Boost Productivity by Mastering Task Management on a Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-start-menu-efficiency-in-the-world-of-windows-11/"><u>Boost Your Start Menu Efficiency in the World of Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-se-2020-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone SE (2020)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-voices-in-azeroth-overcoming-no-sound-challenges-in-wow/"><u>Reviving Voices in Azeroth: Overcoming No Sound Challenges in WoW</u></a></li>
+<li><a href="https://games-able.techidaily.com/vintage-video-games-redefined-for-modern-times/"><u>Vintage Video Games Redefined for Modern Times</u></a></li>
+</ul></div>
+

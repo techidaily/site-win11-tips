@@ -1,7 +1,7 @@
 ---
 title: Mitigating Shortfall of Physical Storage Space on VMware Systems
-date: 2024-11-05T13:21:35.730Z
-updated: 2024-11-06T17:27:14.103Z
+date: 2024-11-15T19:59:27.498Z
+updated: 2024-11-17T19:24:52.978Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,14 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 3. Right-click the**config.ini** file and select**Open with** .  
 ![The Open with option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-open-with-option.jpg)
 4. Select**Notepad** to view the configuration file in that text editor.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then **input vmmon.disableHostParameters = “TRUE”** at the bottom of the configuration file as in the image below.  
 ![WMware's config.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-config-ini-file.jpg)
 6. Click**File** on Notepad’s menubar.
@@ -66,17 +74,10 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 4. Click**OK** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update VMware
@@ -88,6 +89,14 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 3. Select**Software Updates** to view that window.  
 ![The Software Updates option in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-software-updates-option.jpg)
 4. Then click the**Check for Updates** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-option4.jpg)
 5. Press the**Get More Information** button for an available update.
 
@@ -99,25 +108,11 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 6. Go to the downloads folder that includes the WMware setup wizard.
 7. Double-click the downloaded VMware installer to open it. Go through the setup wizard to install the latest VMware version.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Delete a Recent Windows Update
 
  The “not enough physical memory” error can be caused by a Windows update that conflicts with VMware. So, uninstalling a recent update could fix that issue for some users. Check out our guide about[uninstalling Windows updates](https://www.makeuseof.com/windows-11-uninstall-updates/) for further details on how to apply this potential solution.
 
 ![The Installed Updates Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-uninstall-update-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Perform a Clean Boot
 
@@ -126,15 +121,22 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-services-tab-in-msconfig.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To disable all third-party startup programs and services, check out the guidelines in our guide on[how to clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will perform a clean boot whenever you restart Windows.
 
  Try utilizing your VMware virtual machine after clean booting. If this works,
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Set Up a New Virtual Machine
 
@@ -159,22 +161,18 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-cognitive-conclave-2024-selective-guide-to-top-trivia-channels/"><u>[Updated] Cognitive Conclave 2024 Selective Guide to Top Trivia Channels</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-simplified-techniques-for-crafting-captions-on-fb-videos/"><u>[Updated] Simplified Techniques for Crafting Captions on FB Videos</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1727404320080-mp3/"><u>「簡便方法轉換電影成MP3：推荐無需付費的優良軟件」</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-boomerangs-unveiled-your-how-to-guide/"><u>2024 Approved SnapChat Boomerangs Unveiled – Your How-To Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo Y200e 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-15-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 15 Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-recycle-bin-corrupted-error-on-windows-11-and-11/"><u>How to Fix a Recycle Bin Corrupted Error on Windows 11 & 11</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-g54-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-clearing-steams-dns-cache/"><u>Mastering the Art of Clearing Steam's DNS Cache</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-upgrades-safely-with-tpm-and-secure-boot-enablement/"><u>Navigating Upgrades Safely with TPM and Secure Boot Enablement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-reactivating-windows-11s-diagnostic-features/"><u>Quick Fixes: Reactivating Windows 11'S Diagnostic Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-lost-control-panel-features-on-windows-11/"><u>Reclaim Lost Control Panel Features on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-virtualboxs-0x80004005-failure-message/"><u>Resolving Virtualbox's 0X80004005 Failure Message</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-normal-display-on-microsoft-store/"><u>Restoring Normal Display on Microsoft Store</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/significant-top-5-flexible-video-recorders-list/"><u>Significant Top 5 Flexible Video Recorders List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-hello-5-ways-to-tackle-fingerprint-problems/"><u>Unlock Windows Hello: 5 Ways to Tackle Fingerprint Problems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-a-course-for-cash-flows-the-3-step-methodology-for-measuring-youtube-earnings/"><u>[New] 2024 Approved Charting a Course for Cash Flows The 3-Step Methodology for Measuring YouTube Earnings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-beyond-the-surface-what-you-dont-know-about-stories-for-2024/"><u>[Updated] Beyond the Surface What You Don't Know About Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-social-media-strategy-fb-video-angles/"><u>2024 Approved Social Media Strategy – FB Video Angles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-stuck-windows-enter-mechanism/"><u>Addressing Stuck Windows 'Enter' Mechanism</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/boost-communication-how-to-use-google-hangouts-on-mobile-for-2024/"><u>Boost Communication How to Use Google Hangouts on Mobile for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-proficiency-decoding-errors-in-windows-through-advanced-troubleshooting-techniques/"><u>Command Line Proficiency: Decoding Errors in Windows Through Advanced Troubleshooting Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-s17-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo S17 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigating the World of Electronics with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-barriers-how-to-successfully-install-java/"><u>Overcoming Barriers: How to Successfully Install Java</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-google-chrome-from-creating-new-tabs-ownself/"><u>Preventing Google Chrome From Creating New Tabs Ownself</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/sonicscope-in-depth-auditory-evaluation/"><u>SonicScope In-Depth Auditory Evaluation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/taste-the-difference-top-7-tactics-for-cutting-edge-cookery-films/"><u>Taste the Difference Top 7 Tactics for Cutting-Edge Cookery Films</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-overcoming-shell32dll-error-messages/"><u>Troubleshooting Tips for Overcoming Shell32.dll Error Messages</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficient Steps to Unlock Control Panel Settings
-date: 2024-09-01T05:15:04.527Z
-updated: 2024-09-02T05:15:04.527Z
+date: 2024-11-12T18:27:30.772Z
+updated: 2024-11-17T17:43:38.103Z
 tags:
   - windows10
   - windows11
@@ -47,8 +47,12 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 ![Opening the Control Panel Via the Run Command Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Run-Command-Dialog-Box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Access the Control Panel via the Windows Start Menu
 
  The Windows Start Menu can also help you easily access the Control Panel. Here’s how:
@@ -58,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 3. Select **Control Panel** from the menu items.
 
 ![Opening the Control Panel Via the Windows Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Windows-Start-Menu.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Access the Control Panel via the Quick Access Menu
 
@@ -70,11 +81,15 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
 ![Opening the Control Panel Via the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Quick-Access-Menu.png)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, type **Control Panel** in the search box and press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Access the Control Panel via the File Explorer Address Bar
 
  File Explorer's address bar makes it easy for you to access the software programs on your device. So, let's take you through the process of using this tool to access the Control Panel:
@@ -84,18 +99,8 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
 ![Opening the Control Panel Via File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-File-Explorers-Address-Bar.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  Alternatively, type **C:\\Windows\\System32** in the File Explorer address bar and click **control.exe** or **control** in the next window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 6\. Access the Control Panel via the Task Manager
 
  The Task Manager also offers an easy way to access the Control Panel. Here’s how you can use it:
@@ -107,17 +112,12 @@ No advertising on the website.
 ![Opening the Control Panel Via the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Task-Manager.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Access the Control Panel via Windows Settings
 
  Did you know that you can also access the Control Panel via the Windows settings? Here’s how:
@@ -127,18 +127,17 @@ No advertising on the website.
 
 ![Opening the Control Panel Via the System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-System-Settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 8\. Access the Control Panel via the Command Prompt or PowerShell
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you like running commands on [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) or the Command Prompt (CMD), this method is for you.
 
  Follow these steps to open the Control Panel using the CMD:
@@ -152,6 +151,19 @@ The powerful video editing program for your Windows PC</a>
 1. Press **Win + R** to open the Run command dialog box.
 2. Type **powershell** and press **Ctrl + Shift + Enter** to open an elevated PowerShell window.
 3. Type **control panel** and press **Enter**.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Access the Control Panel via the System32 Directory
 
@@ -178,6 +190,13 @@ The powerful video editing program for your Windows PC</a>
 
 ![Creating a Control Panel desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/creating-a-control-panel-desktop-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the next window, type **Control Panel** in the name field and then click **Finish** to save the shortcut. Now, you can easily access the Control Panel anytime by clicking on its Desktop shortcut.
 
 ## 11\. Pin the Control Panel to Your Taskbar or Start Menu
@@ -192,14 +211,8 @@ The powerful video editing program for your Windows PC</a>
 
 ![Clicking the Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-pin-to-taskbar-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And that's it! You can now access the Control Panel by clicking its icon in the taskbar or Start menu, depending on where you've pinned it.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What's Your Favorite Method for Opening the Control Panel?
 
  The Control Panel is a critical tool that helps you easily configure your system settings. If you're unsure about how to open this tool, try any of the methods we’ve covered. And if you still can’t access the Control Panel, then perhaps you need to try a few troubleshooting fixes.
@@ -208,11 +221,28 @@ The powerful video editing program for your Windows PC</a>
 
  In this article, we'll look at the 11 different methods for accessing this incredible tool.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-rules-of-engagement-on-youtube/"><u>[Updated] 2024 Approved Essential Rules of Engagement on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-student-vids-essential-histories-channel-list/"><u>[Updated] 2024 Approved Top Student Vids Essential Histories Channel List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-comprehensive-list-of-leading-no-cost-video-chat-apps-iosandroid/"><u>2024 Approved Comprehensive List of Leading No-Cost Video Chat Apps (iOS/Android)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-errors-office-activation-success-guide/"><u>Disabling Errors: Office Activation Success Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-track-down-anyone-with-these-8-websites/"><u>Easy Ways to Track Down Anyone with These 8 Websites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-system-image-0x80780119-error-on-windows/"><u>How to Fix the System Image 0X80780119 Error on Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-progopro-series-camera-comparison/"><u>In 2024, ProGoPro Series Camera Comparison</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-virtual-forum-transcription/"><u>In 2024, Virtual Forum Transcription</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/itext-file-update-component-efficient-text-handling/"><u>IText File Update Component: Efficient Text Handling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/merging-windows-expertise-into-macos-strategy/"><u>Merging Windows Expertise Into macOS Strategy</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-converting-dvd-subtitles-into-srt-files-for-pcs-and-macs/"><u>Step-by-Step Guide: Converting DVD Subtitles Into SRT Files for PCs and Macs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tips-simplifying-windows-pcs-for-aging-elders/"><u>Tech Tips: Simplifying Windows PCs for Aging Elders</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-realities-of-handheld-games-beyond-the-appeal/"><u>The Realities of Handheld Games: Beyond the Appeal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-10-replacement-apps-for-windows-11-default-tools/"><u>Top 10 Replacement Apps for Windows 11 Default Tools</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Prolific Peak Performance: The Ultimate List of Windows 11 Widgets"
-date: 2024-11-04T04:59:38.692Z
-updated: 2024-11-07T01:45:43.191Z
+date: 2024-11-12T17:27:49.882Z
+updated: 2024-11-17T20:08:29.257Z
 tags:
   - windows10
   - windows11
@@ -36,28 +36,15 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
  To access all of Microsoft’s widgets, you’ll need to be signed in to your Microsoft account. Click the profile icon at the top right of the widgets board. At the top of the widget settings, hit the sign-in button to log in to your Microsoft account. Let’s explore the best widgets to boost your productivity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Outlook Calendar
 
 ![Outlook Calendar productivity widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/outlook-calendar-productivity-widget-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Outlook Calendar is the perfect widget if you need a quick glance at your schedule. The widget displays an upcoming outline of today’s events alongside a flexible weekly view.
 
@@ -71,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
  The To Do widget puts all the app’s essentials into one condensed space. Using the dropdown at the top of the widget, you can easily switch between different lists. For an overview of all your to-do items, click on **Tasks**. The **My Day** tab is another useful tool for viewing urgent tasks. To Do syncs with your mobile app, so you can keep up-to-date with your schedule. Best of all, you can add new tasks directly from the widget.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Focus Session
 
 ![Focus session widget expanded view Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/focus-session-widget-expanded-view-windows-11-1.jpg)
@@ -81,22 +75,15 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
  You can also change which features are disabled during focus sessions by heading to the Windows Settings page and then navigating to **System > Focus**.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Phone Link
 
 ![Phone Link widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-link-widget-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Phone Link is one of Microsoft’s newer features, allowing you to connect your Android or iOS device to your PC. Using the tool, you can view mobile notifications and updates directly from your Windows machine.
@@ -111,16 +98,16 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
  To enable the Tips widget, hit the **plus** (**+**) button from the widgets display, select **Tips**, then click **Pin**. This tool guides you on how to reorder, remove, and customize widgets. Using the Tips widget helps remind you of handy shortcuts and features to maximize your productivity in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Memory Check
 
 ![Memory check widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-check-widget-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Memory Check is a widget not offered by Microsoft but can be found on the Microsoft Store. After installing the app, you can find it from your widgets sidebar.
 
@@ -138,34 +125,18 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
 **Download**: [Memodown](https://apps.microsoft.com/detail/9NKNC4KWP66N) ($2.99, free trial available)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Be More Productive With the Help of Windows 11 Widgets
 
  If you’re often distracted while working on your PC, these productivity widgets can help you stay focused on what’s important. Using widgets, you can stay on top of your schedule and keep track of your reminders at a quick glance.
 
  Widgets are a fast and easy way to view important updates at a glance, and it’s simple to get started. Here’s a list of the best Windows 11 widgets to improve your productivity.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-uncover-the-best-10-online-vectors-collections/"><u>[New] 2024 Approved Uncover the Best 10 Online Vectors Collections</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-utilizing-picture-in-picture-feature-across-all-chrome-devices/"><u>[New] 2024 Approved Utilizing Picture In Picture Feature Across All Chrome Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-free-logos-sculpt-your-brand-with-stock-imagery/"><u>[New] Free Logos Sculpt Your Brand with Stock Imagery</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-from-novice-to-leader-mastering-social-media-marketing-smm-in-10-steps/"><u>[New] In 2024, From Novice to Leader Mastering Social Media Marketing (SMM) in 10 Steps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-z2-mobile-a-cutting-edge-device-analysis-for-2024/"><u>[New] Z2 Mobile A Cutting-Edge Device Analysis for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-resizing-imagery-on-iphone-without-hassle/"><u>[Updated] Resizing Imagery on iPhone Without Hassle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-mystery-windows-headset-mic-not-working/"><u>Deciphering the Mystery: Windows Headset Mic Not Working</u></a></li>
-<li><a href="https://extra-information.techidaily.com/1723262423538-discover-the-future-of-music-programming-musicians-can-now-own-a-micropython-tulip-computer-for-under-60/"><u>Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dominating-desktop-space-with-taskmanager/"><u>Dominating Desktop Space with TaskManager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dormant-devices-alive-keyboard-plus-mouse-wake-windows-1011/"><u>Dormant Devices Alive! Keyboard + Mouse Wake Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-disabled-game-experience-in-roblox-for-windows-users/"><u>Fixing the Disabled Game Experience in Roblox for Windows Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/vs-paid-youtubes-exclusive-picks-for-superior-opening-tutorials-for-2024/"><u>Free vs Paid YouTube's Exclusive Picks for Superior Opening Tutorials for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-11-login-problems/"><u>How to Fix Windows 11 Login Problems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-best-top-text-overlays-and-animations/"><u>In 2024, Best Top Text Overlays & Animations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-windows-shared-folder-permission-errors/"><u>Overcome Windows Shared Folder Permission Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-unoperative-fn-button-for-screen-brighness-adjustment-in-win-11/"><u>Reviving Unoperative Fn Button for Screen Brighness Adjustment in Win 11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/seeking-the-best-ps2-games-try-these-5-android-emulators/"><u>Seeking the Best PS2 Games? Try These 5 Android Emulators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skillful-strategies-to-unlock-credential-manager/"><u>Skillful Strategies to Unlock Credential Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-non-operational-voice-recognition-in-microsofts-win11/"><u>Solving Non-Operational Voice Recognition in Microsoft's Win11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +145,23 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-excellent-replacements-to-top-rated-fbx-recorder-apps/"><u>[New] Excellent Replacements to Top-Rated FBX Recorder Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-art-of-documenting-xbox-playtime-online/"><u>[New] The Art of Documenting Xbox Playtime Online</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pcs-finest-ps3-simulators-for-gaming-enthusiasts/"><u>[Updated] 2024 Approved PC's Finest PS3 Simulators for Gaming Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-logitech-f710-blamed-in-court-for-role-in-deep-sea-explorers-disaster/"><u>Affordable Logitech F710 Blamed in Court for Role in Deep-Sea Explorer's Disaster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-malfunctioning-windows-diagnostic-tools/"><u>Correcting Malfunctioning Windows Diagnostic Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-the-dns-client-service-in-windows-11/"><u>How to Configure the DNS Client Service in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-high-contrast-mode-on-windows/"><u>How to Turn Off High Contrast Mode on Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-innovating-the-open-a-podcasters-playbook/"><u>In 2024, Innovating the Open A Podcaster's Playbook</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-11-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 11 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-10-gear-for-next-gen-musical-video-production-quality/"><u>In 2024, Top 10 Gear for Next-Gen Musical Video Production Quality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-digital-memory-lane-with-backward-image-scans-facebook/"><u>Navigating Digital Memory Lane with Backward Image Scans (Facebook)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-mbs-unable-to-link-error-on-win11/"><u>Strategies to Resolve MB's Unable to Link Error on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-finding-your-missing-steam-controllers/"><u>The Ultimate Guide to Finding Your Missing Steam Controllers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-isnt-ideal-for-computer-renovation/"><u>Why Windows Isn't Ideal for Computer Renovation</u></a></li>
+</ul></div>
+

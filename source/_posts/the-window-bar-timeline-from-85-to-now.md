@@ -1,7 +1,7 @@
 ---
 title: "The Window Bar Timeline: From '85 to Now"
-date: 2024-09-05T19:32:04.421Z
-updated: 2024-09-06T19:32:04.421Z
+date: 2024-11-15T16:50:05.597Z
+updated: 2024-11-17T17:44:49.395Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Bar's History,The Window Bar Legacy,Timeless Tavern Experience,Classic
 thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973ecd1f3c8cd4da92e1845552.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Window Bar Timeline: From '85 to Now
 
  The taskbar is a cornerstone user interface feature of Windows. That bar along the bottom of the Windows desktop includes your active minimized/maximized program windows, the **Start** button, the System Tray area, pinned shortcuts, and the clock. It enables you to multitask by switching between minimized program windows.
@@ -34,26 +28,8 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 ![The program bar in Windows 1.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, it didn’t include a Start menu or system tray area and wasn’t even present in Windows 3.0\. Program windows minimized to the desktop background area in Windows 3.0\.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 95: The Introduction of the Taskbar
 
  Daniel Oran, a former Microsoft interface designer, is credited with inventing the taskbar and Start menu in 1993\. He suggested Microsoft add a Start menu button to Windows 95 that users could access from a new taskbar. This would make it easier to access everything from a central system menu.
@@ -68,24 +44,12 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
  Some third-party software packages enable you to restore the classic Windows 95 taskbar in Windows 11/10\. For example, you can [revive the Windows 95 and XP taskbar](http://www.makeuseof.com/windows-95-xp-taskbars-windows-11/) with the RetroBar app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows XP: A Revamped Taskbar Appears
 
  Microsoft gave Windows XP a new visual style and redesigned the taskbar to match it. Windows XP’s taskbar had a default blue color scheme with a green **Start** button, which was quite a departure from the gray taskbars of Windows 95, 98, and Millennium. Minimized taskbar windows also had more rounded corners to match the rest of the new-look design.
 
 ![The Windows XP taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-xp-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows XP’s taskbar was the first to have grouped windows. This feature enabled the grouping of multiple open windows from the same application on the taskbar. Users could click to view different windows from the same taskbar app windows.
 
 ## Windows Vista: The Introduction of Window Previews
@@ -97,11 +61,12 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 ![The Windows Vista taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-vista-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Windows 7: Another Taskbar Overhaul From Microsoft
 
  Microsoft gave the taskbar one of the biggest overhauls in its history for Windows 7\. The most notable change was that minimized apps on Windows 7’s taskbar did not include labels, but users could still clearly identify them with their expanded icons. This significantly reduced the width of taskbar app windows.
@@ -114,12 +79,6 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
  Microsoft also swapped the **Show Desktop** button from the Quick Launch area with an Aero Peek alternative at the far right of the taskbar. Clicking the **Aero Peek** button minimizes all windows to the taskbar. Hovering the cursor over that button enables users to view the desktop area without minimizing anything.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 8: The Start Button Goes Missing From the Taskbar
 
  The taskbar didn’t change much in Windows 8\. However, it was the first taskbar in Windows history not to include a **Start** button. The Start screen replaced the Start menu in Windows 8\. So, a taskbar **Start** button for accessing a menu was seemingly no longer required.
@@ -127,11 +86,12 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
  However, the removal of the taskbar’s **Start** button generally didn’t go down well with users. Microsoft later released a Windows 8.1 upgrade that restored a new-style taskbar **Start** button for accessing the Start screen. That wasn’t enough to save Windows 8 though, and the OS never recovered.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Windows 10: The Introduction of New Taskbar Icons
 
  Microsoft added buttons for new features to Windows 10’s taskbar. The Windows Cortana virtual assistant was originally tied to the Windows Search tool. However, Microsoft separated the search tool from Cortana in later Windows 10 versions.
@@ -139,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
  Consequently, Windows 10’s taskbar became the first to include a **Type here to search** (magnifying glass) button on it for accessing the search box, which isn’t available through the Start menu.
 
 ![The Type here to search button in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/type-here-to-search-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Task View was another notable new Windows 10 taskbar feature. Clicking the **Task View** taskbar button brings up virtual desktop options. You can also access file and Edge webpage shortcuts from Task View’s timeline.
 
@@ -150,19 +117,33 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 ![The Windows 11 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-11-taskbar.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft also added a new **Widgets** button to Windows 11’s taskbar. The Widgets Board is one of the biggest new features in Windows 11 on which you can pin weather, sport, Game Pass, traffic, entertainment, and other widgets that provide info and content. The Widgets feature also displays a weather icon and description on the taskbar.
 
 ![The Widgets button on Windows 11's taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/widgets-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, many users have complained about the features omitted from Windows 11’s taskbar. Microsoft removed the taskbar’s repositing and resizing functionality in Windows 11\. Nor can you pin icons to the taskbar by dragging and dropping them onto it as you can in Windows 10\.
 
  The taskbar’s right-click menu has been considerably trimmed down in Microsoft's latest desktop OS, leaving it without many options previously available.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where Would Windows Be Without Its Taskbar?
 
@@ -170,11 +151,31 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
  The taskbar has been a part and parcel of Windows for more than 25 years, and over that time period, Microsoft has added and removed features to and from the taskbar. This is the history of the Windows taskbar from its inception up to 2023\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-revolutionary-metaverse-tech-highlights-of-top-8-helmets/"><u>[Updated] 2024 Approved Revolutionary Metaverse Tech Highlights of Top 8 Helmets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clarity-counts-how-to-zoom-into-every-aspect-of-google-meet-calls/"><u>2024 Approved Clarity Counts How to Zoom Into Every Aspect of Google Meet Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-file-explorer-for-d-drive-accessibility/"><u>Customizing File Explorer for D: Drive Accessibility</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/extensive-review-capturing-every-angle-with-gear-360/"><u>Extensive Review Capturing Every Angle with Gear 360</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-spooler-service-failed-error-in-windows-os/"><u>Fixing Spooler Service Failed Error in Windows OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-k11-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo K11 5G?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-detection-of-razers-by-synapse/"><u>Overcoming Non-Detection of Razers by Synapse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rehabilitating-windows-1011s-troubleshooter-functionality/"><u>Rehabilitating Windows 10/11'S Troubleshooter Functionality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revitalize-your-sharp-printing-experience-with-updated-drivers-on-windows-pc-instructions-inside/"><u>Revitalize Your Sharp Printing Experience with Updated Drivers on Windows PC - Instructions Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-browser-connections-without-defaults/"><u>Securing Browser Connections Without Defaults</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-playback-integrating-intel-gpu-in-gaming/"><u>Streamline Playback: Integrating Intel GPU in Gaming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-s18e-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo S18e Phone Hassle-Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-6-leading-ai-upgrade-applications-for-crisp-video-clarity/"><u>Ultimate Guide: 6 Leading AI Upgrade Applications for Crisp Video Clarity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-your-desktops-power-draw-on-windows-os/"><u>Understanding Your Desktop's Power Draw on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-mail-conundrum-overcoming-zero-x-eight-oh-three-one-f-obstacle/"><u>Unraveling Windows Mail Conundrum: Overcoming Zero X Eight Oh Three One F Obstacle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-over-x80072f30-streamline-your-shopping-in-store/"><u>Winning Over X80072F30: Streamline Your Shopping in Store</u></a></li>
+</ul></div>
+

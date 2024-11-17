@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Microsoft Store: Win11 Edition Guide"
-date: 2024-11-01T10:28:23.424Z
-updated: 2024-11-07T00:51:35.924Z
+date: 2024-11-14T17:50:02.449Z
+updated: 2024-11-17T18:07:01.458Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
  But don’t worry. You can remove the app and then reinstall it if you want. Reinstallation can fix persistent issues with the current version of the Microsoft Store app. It will remove the current app installation and all its related files and corrupt data. After that, you can reinstall the Microsoft app with a single command.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Uninstall Microsoft Store App From Windows 11
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
  You can remove the Microsoft Store app from Windows 11 using the winget tool and run it using the command prompt. In addition, you can use the PowerShell cmdlet to remove the Microsoft Store application package from your system or use a batch file.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Using Winget
@@ -63,22 +63,15 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 6. Type**exit** in the command prompt window and press enter to close it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using PowerShell
 
  Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Using a Batch File
 
@@ -93,6 +86,13 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 5. Press**Win + D** to switch to the desktop again. Right-click on the batch file and select the**Run as administrator** option from the context menu.
 6. A command prompt window will open, run the Microsoft Store app uninstallation command, and close automatically. You don’t need to interact with the window.
 7. Open the Start menu and search for Microsoft Store. You won’t find any matching app on your system.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easily Remove the Microsoft Store From Windows
 
@@ -113,20 +113,24 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-expanding-your-instagram-video-footprint-practical-tips/"><u>[New] In 2024, Expanding Your Instagram Video Footprint Practical Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[Updated] 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-crafting-a-united-front-brand-integrations-on-youtube-platform/"><u>[Updated] Crafting a United Front Brand Integrations on YouTube Platform</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-joyful-sign-uplogout-flowchart-for-2024/"><u>[Updated] Joyful Sign-Up/Logout Flowchart for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-social-media-mastery-how-to-make-a-post-take-off-on-fb-for-2024/"><u>[Updated] Social Media Mastery How to Make a Post Take Off on FB for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-seamless-execution-of-power-users-commands/"><u>Enabling Seamless Execution of Power Users Commands</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-depths-of-digital-gadgets-at-toms-equipment-emporium/"><u>Exploring the Depths of Digital Gadgets at Tom’s Equipment Emporium</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-zero-error-in-windows-sandbox-missing-hypervisor-solution/"><u>Fixing Zero Error in Windows Sandbox - Missing Hypervisor Solution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-identifying-devices-with-windows-tools/"><u>In-Depth Analysis: Identifying Devices with Windows Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/leading-mp4-companies-to-watch-for-2024/"><u>Leading MP4 Companies to Watch for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reestablishing-usb-connection-in-windows-11/"><u>Reestablishing USB Connection in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-addressing-windows-update-errors/"><u>Step-by-Step: Addressing Windows Update Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-taskbar-in-windows-11/"><u>Tailoring Your Taskbar in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlink-others-login-on-win-11/"><u>Unlink Others' Login on Win 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-new-world-keeps-freezing/"><u>[FIXED] New World Keeps Freezing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-uploading-and-sharing-videos-on-instagram/"><u>[New] 2024 Approved Mastering the Art of Uploading and Sharing Videos on Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-rated-apps-for-taking-screenshots-in-windows-8-for-2024/"><u>[New] Top-Rated Apps for Taking Screenshots in Windows 8 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-live-video-streaming-software/"><u>[Updated] Best Live Video Streaming Software</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-adding-divisions-to-vimeos-media-shows/"><u>2024 Approved Adding Divisions to Vimeo's Media Shows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-clear-the-microsoft-defender-protection-history-on-windows-10-and-11/"><u>4 Ways to Clear the Microsoft Defender Protection History on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-alternative-protection-strategies-for-missing-bitlocker-in-winoss/"><u>5 Alternative Protection Strategies for Missing Bitlocker in WinOSs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-secrets-the-fastest-ways-to-uncover-windows-11s-credential-manager/"><u>Accessing Secrets: The Fastest Ways to Uncover Windows 11'S Credential Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-digital-dreamland-with-windows-pcs/"><u>Achieving Digital Dreamland with Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-10-and-11s-phishing-protection-settings/"><u>Adjusting Windows 10 & 11'S Phishing Protection Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/artificial-intelligence-windows-future-trailblazer/"><u>Artificial Intelligence: Windows' Future Trailblazer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-act-keeping-high-vitality-in-check-on-windows/"><u>Balancing Act: Keeping High Vitality in Check on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-practices-unveiled-supercharge-wsl-2-with-windows-dev-tools/"><u>Best Practices Unveiled: Supercharge WSL 2 with Windows Dev Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-boundaries-artificinas-intelligence-in-windows-11/"><u>Beyond Boundaries: Artificinas Intelligence in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-c51-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme C51</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-evaluation-a-vll-approach-to-apps/"><u>In 2024, Precision Evaluation A VLL Approach to Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/quick-guide-altering-screen-colors-on-google-meet/"><u>Quick Guide Altering Screen Colors on Google Meet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/splitcam-assessment-best-video-recorder-ranking/"><u>SplitCam Assessment Best Video Recorder Ranking?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-great-ai-debate-whos-best-gpt-vs-microsoftgoogles-innovations/"><u>The Great AI Debate: Who's Best? GPT Vs. Microsoft/Google's Innovations</u></a></li>
 </ul></div>
 

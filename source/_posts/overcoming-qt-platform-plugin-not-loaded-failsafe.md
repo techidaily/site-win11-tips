@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Qt Platform Plugin Not Loaded' Failsafe
-date: 2024-11-04T10:58:29.755Z
-updated: 2024-11-07T00:05:30.660Z
+date: 2024-11-16T18:29:16.471Z
+updated: 2024-11-17T16:18:56.449Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 7. Windows will warn you there’s already a folder with the same name. Click**Replace the files in the destination** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run an SFC Scan
@@ -53,20 +53,13 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 ![sfc-scan-1-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the System File Checker didn’t fix the problem, there are[more built-in tools to repair corrupt Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Perform a Clean Boot
@@ -75,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
  If Windows stops displaying the error, it means something you've installed on your PC is causing the problem. Take a look at your installed apps, and remove any software that might be causing the problem. If you're unsure as to what might be doing it, slowly re-enable apps through the clean boot until the issue reappears.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update the Malfunctioning App
 
  An outdated version of the app you're trying to use might be the reason for the QT error. In this case, simply updating the app should solve the issue.
@@ -89,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  If you’ve downloaded the app from Microsoft Store, launch it and head to**Library** . There, you’ll see a list of available updates. You can update the apps individually, or click**Get updates** to update them all.
 
 ![Update Microsoft Store apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mcirosoft-store-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Troublesome App
 
@@ -108,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 4. Right-click the latest update and select**Uninstall** .
 
 ![Uninstall recent Windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-updates-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Rid of the QT Error on Windows
 
@@ -130,19 +130,15 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-checklist-seamless-conversion-of-phone-photos-to-snapchat/"><u>[New] 2024 Approved The Ultimate Checklist Seamless Conversion of Phone Photos to Snapchat</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-picking-your-perfect-pair-dji-drones-face-off-with-gopro-and-insta360-cameras/"><u>[New] Picking Your Perfect Pair DJi Drones Face-Off With GoPro and Insta360 Cameras</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-windows-screencast-champions-revealed/"><u>[Updated] 2024 Approved Windows Screencast Champions Revealed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-filming-techniques-for-high-quality-facebook-video-content-for-2024/"><u>[Updated] Filming Techniques for High-Quality Facebook Video Content for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-harnessing-skypes-potential-on-pc-and-mac-with-ease-for-2024/"><u>[Updated] Harnessing Skype's Potential on PC & Mac with Ease for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-belly-laughs-list-ultimate-guide-to-free-memes/"><u>2024 Approved Belly Laughs List Ultimate Guide to Free Memes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/create-a-seamless-workflow-with-alt-tab-in-win1110/"><u>Create a Seamless Workflow with Alt-Tab in Win11/10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-audio-editing-software-for-high-quality-productions/"><u>Expert-Approved Audio Editing Software for High-Quality Productions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-11-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 11 in the Best Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pivotal-techniques-for-reworking-windows-via-shortcuts/"><u>Pivotal Techniques for Reworking Windows via Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-applying-apple-maps-to-windows/"><u>Step-by-Step Guide: Applying Apple Maps to Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-startup-paths-essential-steps/"><u>Unlocking Windows' Startup Paths: Essential Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/visualize-storage-quickly-integrate-diskanalyzer-into-windows-menu/"><u>Visualize Storage Quickly: Integrate DiskAnalyzer Into Windows Menu</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-professional-livestream-selector-pick-between-virusmix-and-castpro/"><u>[New] 2024 Approved Professional Livestream Selector Pick Between VirusMix and CastPro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-creative-shots-with-photoshops-radial-distortion/"><u>[New] Unlock Creative Shots with Photoshop's Radial Distortion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphones-prime-camera-utilities/"><u>[Updated] IPhone's Prime Camera Utilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-world-of-vr-with-your-phone-in-minutes/"><u>[Updated] Unlock the World of VR with Your Phone in Minutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-msresourceappname-text-glitch-win11-fix/"><u>Addressing 'MsResource/AppName Text' Glitch, Win11 Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-defenders-0x80004004-issue/"><u>Breaking Down Windows Defender's 0X80004004 Issue</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-you-store-high-quality-videos-in-128gb-for-2024/"><u>Can You Store High-Quality Videos in 128Gb for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-lightweight-browser-ram-usage-with-comparative-tests/"><u>Exploring Lightweight Browser RAM Usage with Comparative Tests</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-5-lite-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 5 Lite Phone without PIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-solution-for-fixing-error-code-0x80073d26/"><u>The Ultimate Solution for Fixing Error Code: 0X80073D26</u></a></li>
 </ul></div>
 

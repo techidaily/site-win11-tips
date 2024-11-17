@@ -1,7 +1,7 @@
 ---
 title: Keeping Insider Beta Features Hidden
-date: 2024-09-05T19:32:03.836Z
-updated: 2024-09-06T19:32:03.836Z
+date: 2024-11-13T16:42:45.690Z
+updated: 2024-11-17T19:04:15.091Z
 tags:
   - windows10
   - windows11
@@ -14,27 +14,22 @@ keywords: Hidden Features Strategy,Insider Access Secrecy,Exclusive Beta Content
 thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34ec60d7f7f9e3cbb3a84553c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keeping Insider Beta Features Hidden
 
  Microsoft rolls out Insider builds to Windows Insiders before releasing them to the public. The preview is only intended for testing and feedback, and it provides access to the latest features & changes that will be included in the next release.
 
  However, it's good to remember that Insider builds can contain bugs or other issues that can lead to instability or data loss. If you are running an insider build and don't want anyone else to download the newer version, you can disable their access. Here's how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Stop Users From Getting Insider Preview Builds in Windows 11
 
  If you share your computer with others and don't want them to get the newer build, you need to prevent them from getting Insider Preview Builds in Windows 11\. There are basically three ways to achieve this, using System Settings, Group Policy Editor, or Registry Editor. For a detailed explanation of each, please see the following.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Use the System Settings
 
@@ -46,14 +41,15 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 ![Stop Getting Preview Builds in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/stop-getting-preview-builds-in-windows.jpg)
 4. Now toggle the **Unenroll this device when the next version of Windows releases** switch to disable it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will prevent the device from downloading further Insider builds even if someone initiates it manually.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Use the Local Group Policy Editor
 
  Windows 11's Local Group Policy Editor provides you with a wide range of options for configuring system settings. In fact, you can use this tool to disable access to preview builds. However, you will not have access to the Local Group Policy editor if you use Windows Home Edition.
@@ -97,12 +93,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 9. Click twice on the newly created DWORD key to open a pop-up menu.  
 ![Block Insider Preview Builds Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Block-Insider-Preview-Builds-Using-Registry-Editor.jpg)
 10. Set the value data to **0** and choose the Hexadecimal base.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 11. Click **OK** to save the changes.
 
  When you're done making these changes, restart your computer. If you ever need to roll back the changes, you can do so whenever you like.
@@ -110,11 +100,12 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
  To do this, right-click the AllowBuildPreview key in the Registry Editor and choose **Modify**. You then need to set the Value data to **1** and hit **OK** to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Do I Need to Enroll in the Windows Insider Program?
 
  Windows Insider Program is a feature that allows you to try out new builds and features of Windows OS before they become publicly available. It is a great way to get early access to new features and provide feedback to Microsoft. The program is free to join, and you can opt out at any time.
@@ -125,11 +116,12 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 2. The second thing you should know is how beta testing works. When you join the Windows Insider Program, you can test out the new features and give feedback to Microsoft. It is important to note that you will be using pre-release software that could be unstable. Some of these builds may have bugs or other issues that could cause problems for your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why Would You Want to Prevent Access to Insider Builds?
 
  There are a few reasons people may want to prevent access to insider builds:
@@ -144,11 +136,31 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  However, it's good to remember that Insider builds can contain bugs or other issues that can lead to instability or data loss. If you are running an insider build and don't want anyone else to download the newer version, you can disable their access. Here's how it works.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>[New] Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-kinemaster-guide-to-green-screening/"><u>[New] The Ultimate KineMaster Guide to Green Screening</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-covertly-crafted-covers-for-iphones-and-androids/"><u>[Updated] 2024 Approved Covertly Crafted Covers for iPhones & Androids</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-browse-backwards-a-guide-to-facebook-archives-for-2024/"><u>[Updated] Browse Backwards A Guide to Facebook Archives for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-audience-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks/"><u>2024 Approved Audience Attraction in a Minute Comparing YouTubes Shorts and TikToks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-c22-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of C22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-your-win-os-window-snapping-paradigm/"><u>Crafting Your Win OS Window Snapping Paradigm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-hidden-windows-bar-when-edges-are-expanded/"><u>Dealing With Hidden Windows Bar when Edges Are Expanded</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-techkey-bluetooth-dongle-driver-compatible-with-windows-11-7-and-8/"><u>Download Techkey Bluetooth Dongle Driver: Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-pc-performance-reducing-extraneous-tasks/"><u>Enhancing PC Performance: Reducing Extraneous Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mysterious-menu-moves-win11s-vanishing-power-option/"><u>Mysterious Menu Moves: Win11's Vanishing Power Option</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-system-switches-win11s-undetectable-power-feature/"><u>Silent System Switches: Win11's Undetectable Power Feature</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/speedy-realignment-youtube-videos-for-mac-views-for-2024/"><u>Speedy Realignment YouTube Videos for MAC Views for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-windows-1011-photo-package-errors/"><u>Steps to Correct Windows 10/11 Photo Package Errors</u></a></li>
+<li><a href="https://win-dash.techidaily.com/toughness-is-the-energy-absorption-capacity-of-a-material-up-to-fracture-combining-strength-and-ductility/"><u>Toughness Is the Energy Absorption Capacity of a Material up to Fracture, Combining Strength and Ductility.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-x80246007-in-windows-updates/"><u>Troubleshooting X80246007 in Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-diagnostic-skills-using-command-prompt-for-pinpointing-and-correcting-windows-errors/"><u>Unlocking Diagnostic Skills: Using Command Prompt for Pinpointing & Correcting Windows Errors</u></a></li>
+</ul></div>
+

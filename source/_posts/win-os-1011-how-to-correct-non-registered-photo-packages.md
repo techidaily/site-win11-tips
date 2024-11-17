@@ -1,7 +1,7 @@
 ---
 title: Win OS 10/11 – How to Correct Non-Registered Photo Packages
-date: 2024-11-05T00:59:39.187Z
-updated: 2024-11-07T02:14:16.824Z
+date: 2024-11-11T16:35:11.154Z
+updated: 2024-11-17T17:32:53.467Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
  The same troubleshooter is also available within Windows 10’s Settings app. To access it, click the**Update & Security** category and**Troubleshoot** tab. Then you can select**Additional troubleshooters** to bring up the list of troubleshooting tools.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Update Photos
 
  Updating Microsoft Store apps like Photos can fix issues with them. So, try updating Microsoft Photos like this:
@@ -57,10 +50,17 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 4. Wait for the Photos app update to finish before closing Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Photos Apps
@@ -79,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
  Run the Deployment Image Servicing Management scan command before the System File Checker tool. Leave the Command Prompt open until it shows a Windows Resource Protection message for the SFC scan. If it says Windows Resource Protection repaired files, this resolution might have resolved the “Package could not be registered” error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Reinstall Photos
 
  If the “Package could not be registered” error persists after applying the resolutions above, you might need to reinstall Photos to fix it. This solution is the most likely one to fix a corrupted Photos app. You can uninstall and reinstall Photos with PowerShell like this:
@@ -89,23 +96,9 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 ![The uninstall Photos command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-photos-command.jpg)
 3. To reinstall Photos, input this PowerShell command and press**Enter** :  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Get-AppxPackage -allusers Microsoft.Windows.Photos | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
 ![The reinstall Photos app command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-photos-app.jpg)
 4. Restart your PC after reinstalling Photos.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reset Windows
 
@@ -114,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-this-pc-tool.jpg)
 
  This is suggested as a last resort because you’ll need to reinstall third-party software installed before resetting Windows. However, you can select to keep user files such as photos, documents, videos, etc. Our[guide to resetting Windows 10 and 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) tells you how to perform a factory reset.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Your Images in Photos Again
 
@@ -134,22 +134,22 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-zoom-communication-guide-unlocking-the-power-of-remote-conversations-for-2024/"><u>[New] The Ultimate Zoom Communication Guide Unlocking the Power of Remote Conversations for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ling-challenge-brainstroming-7-humorous-youtube-videos/"><u>Chuckling Challenge Brainstroming 7 Humorous YouTube Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725288959075-dvd/"><u>DVDデクリプターにおける日本語パッチでの文字化け原因・修正手順</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-pathway-to-boot-your-pc-with-intel-network-hardware/"><u>Easy Pathway to Boot Your PC with Intel Network Hardware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-pc-info-retrieval-with-everythingapp/"><u>Fast PC Info Retrieval with EverythingApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-broken-internet-links-an-in-depth-examination-of-solutions-for-win-pc-network-issues/"><u>Fix Broken Internet Links: An In-Depth Examination of Solutions for Win PC Network Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidance-to-tackle-windows-loading-library-error-87paramerr/"><u>Guidance to Tackle Windows Loading Library Error 87:ParamErr</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-maintaining-a-fixed-win-printer/"><u>Guidelines for Maintaining a Fixed Win Printer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-loaderror-87-on-windows-libraries-misalignment/"><u>Handling LoadError 87 on Windows Libraries Misalignment</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-chic-crests-curating-the-best-websites-for-aesthetic-laptop-backgrounds/"><u>In 2024, Chic Crests Curating the Best Websites for Aesthetic Laptop Backgrounds</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-ideal-cutting-edge-apps-top-10-for-editing-youtube-shorts/"><u>In 2024, Ideal Cutting Edge Apps Top 10 for Editing Youtube Shorts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/introduccion-al-software-black-mith-optimiza-el-mantenimiento-de-tu-informacion-con-funciones-de-archivado-proteccion-y-respaldo/"><u>Introducción Al Software Black Mith: Optimiza El Mantenimiento De Tu Información Con Funciones De Archivado, Protección Y Respaldo</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-number-necessary-signing-up-for-chatgpt-telegram-whatsapp-with-alternative-methods/"><u>No-Number Necessary: Signing Up for ChatGPT, Telegram, WhatsApp with Alternative Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/refreshing-your-steam-game-victories/"><u>Refreshing Your Steam Game Victories</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-why-is-call-of-duty-warzone-still-crashing-tips-and-tricks-to-fix-it-now/"><u>The Ultimate Solution: Why Is Call of Duty Warzone Still Crashing ? Tips & Tricks to Fix It Now!</u></a></li>
-<li><a href="https://facebook.techidaily.com/top-4-metrics-and-tools-for-thriving-businesses/"><u>Top 4 Metrics & Tools for Thriving Businesses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-synchronizing-sticky-notes-on-w11/"><u>Troubleshooting Non-Synchronizing Sticky Notes on W11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-content-platform-wars-direct-engagement-or-wider-distribution-twitch-vs-youtube/"><u>[New] In 2024, Content Platform Wars Direct Engagement or Wider Distribution? – Twitch Vs YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughing-through-the-metaverse-making-your-own-humor/"><u>[Updated] Laughing Through the Metaverse Making Your Own Humor</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621285-9781632659323-ancient-giants-of-the-americas/"><u>Ancient Giants of the Americas | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-performance-dashboard-functionality/"><u>Bridging Gaps in Performance Dashboard Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-smooth-drag-and-drop-on-windows-11-pcs/"><u>Bring Back Smooth Drag & Drop on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-compatibility-barriers-with-simple-fixes-in-xp-vista-and-7/"><u>Bypass Compatibility Barriers with Simple Fixes in XP, Vista & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-firewallantivirus-grant-chrome-network-access-in-windows/"><u>Bypass Firewall/Antivirus: Grant Chrome Network Access in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-unwanted-team-sign-in-prompts-on-windows-pcs/"><u>Bypassing Unwanted Team Sign-In Prompts on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capture-your-thoughts-no-additional-software-needed/"><u>Capture Your Thoughts, No Additional Software Needed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-your-digital-path-in-windows-11/"><u>Charting Your Digital Path in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-woes-on-windows-11-a-fixers-guide-to-reopening-it/"><u>Chrome Woes on Windows 11: A Fixer’s Guide to Reopening It</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-right-drivers-for-your-xbox-360-controller/"><u>Download and Install the Right Drivers for Your Xbox 360 Controller</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-top-audiovisual-enhancements-for-video-producers/"><u>In 2024, Top Audiovisual Enhancements for Video Producers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-unavailable-gpeditmsc-on-windows-home-systems/"><u>Resolved: Unavailable gpedit.msc on Windows Home Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-resource-finding-and-updating-surface-book-2-driver-software-in-no-time/"><u>Ultimate Resource: Finding & Updating Surface Book 2 Driver Software in No Time</u></a></li>
 </ul></div>
 

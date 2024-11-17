@@ -1,7 +1,7 @@
 ---
 title: Jumpstart Your Valorant Pace on Windows PC
-date: 2024-09-01T05:16:49.079Z
-updated: 2024-09-02T05:16:49.079Z
+date: 2024-11-11T20:06:08.347Z
+updated: 2024-11-17T18:30:43.316Z
 tags:
   - windows10
   - windows11
@@ -30,23 +30,30 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  Thankfully, you can quickly resolve the problem with a few simple fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Download
 
  Let's start with the basic but most effective solution—restarting the download. As it turns out, the problem can result from a temporary glitch in the Riot Client. In this situation, just give the download a restart and check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Check Your Internet Connection
 
  The Riot Client will fail to download or update Valorant if you are connected to a weak and unstable internet connection. You can check internet stability and speed by visiting an[internet speed checking website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . If you notice that you are getting a comparatively lower speed, try rebooting the router.
 
  If power cycling the router didn't improve your download speeds, contact your ISP and ask that they resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Close All the Discord Services From the Background
 
  Valorant's download speed may reduce to a crawl if Discord or any of its related services is running in the background. As it turns out, Discord is known for consuming a major part of available bandwidth and adversely affecting other applications' downloads.
@@ -61,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  Next, launch the Riot Client, start the downloading process, and check if the problem continues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 4\. Switch to Google's DNS Server
 
  The Riot Client will struggle to initiate the downloading process if your current[DNS server](https://www.makeuseof.com/what-is-dns/) is unstable. You can try switching to a different DNS server to eliminate the problem.
@@ -76,17 +80,19 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 4. Click on**Edit** next to**DNS server assignment** .  
 ![Wi-Fi properties screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/DNS-server.jpg)
 5. Click on the drop-down icon under**Edit DNS settings** , and choose**Manual** from the context menu.
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. As per your DNS provider, choose**IPv4** or**IPv6** .
 7. If you choose IPv4, enter**8.8.8.8** and**8.8.4.4** in**Preferred** and**Alternate DNS servers** , respectively.
 8. If you choose IPv6, enter**2001:4860:4860::8888** and**2001:4860:4860::8844** in**Preferred** and**Alternate DNS servers** , respectively.  
 ![Edit DNS settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/IPv6-settings.jpg)
 9. Click on Save.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check if you are still facing the problem.
 
@@ -99,15 +105,16 @@ Check if you are still facing the problem.
 3. Checkmark both**Private** and**Public** boxes next to**Riot Client** .  
 ![Allow app to communicate through the Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Riot-Client.jpg)
 4. Click on OK to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to download Valorant and check if the problem continues. If yes, try the next solution on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Uninstall Avast Antivirus
 
  For many users, Valorant started downloading at normal speed after uninstalling the Avast antivirus. So, you can try this on your computer as well and check if it makes any difference. Here's how to uninstall Avast on your computer:
@@ -129,14 +136,20 @@ Check if you are still facing the problem.
 ![The flush DNS command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/flushdns-command.jpg)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Wait until you see the message "Successfully flushed the DNS Resolver Cache." After that, reboot the system and check for the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Update Your Network Drivers
 
@@ -152,6 +165,13 @@ Here are the steps for downloading the latest network drivers:
 
  Windows will now look for and install the best available network driver for the system. Once the update process is complete, reboot the system and check if the problem is fixed or not.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change Riot Client Priority
 
  The next solution on the list is to change the priority of Riot Client. After changing the priority to high, Windows will give more importance to Riot Client, automatically fixing the problem at hand.
@@ -163,9 +183,6 @@ Here are the steps you need to follow.
 3. Right-click on**RiotClientServices.exe** , hover the cursor to**Set priority** , and choose**High** from the context menu.  
 ![Task Manager Detail tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Set-Priority-.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Relaunch the client, and you will notice that you are no longer facing the problem.
 
 ## 10\. Reset the Network Settings
@@ -191,8 +208,6 @@ Here's how to reset the network settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +215,24 @@ Here's how to reset the network settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-surpass-everyday-photo-taking-with-ios-11/"><u>[New] Surpass Everyday Photo-Taking with iOS 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-fast-track-your-mobile-vids-with-these-tools/"><u>[Updated] 2024 Approved Fast-Track Your Mobile Vids with These Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-plot-craft-guild-bestowed-batch/"><u>[Updated] Plot Craft Guild - Bestowed Batch</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-securing-successful-video-ventures-through-team-choices/"><u>[Updated] Securing Successful Video Ventures Through Team Choices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-8-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 8 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fast-downloads-with-utorrent-on-pcs/"><u>Mastering Fast Downloads with uTorrent on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-device-not-reachable-error-in-windows-os/"><u>Navigating Through Device Not Reachable Error in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/network-nuances-exploring-4-windows-ways-to-measure-internet-speed/"><u>Network Nuances: Exploring 4 Windows Ways to Measure Internet Speed</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-samsung-galaxy-s24-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy S24? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-discord-wins-search-functionality-a-step-by-step-guide/"><u>Repairing Discord Win's Search Functionality: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpening-windows-gameplay-boost-yuzu-speed/"><u>Sharpening Windows Gameplay: Boost Yuzu Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210242492-stop-the-interruptions-solve-your-pcs-unintended-sleep-problems-now/"><u>Stop the Interruptions: Solve Your PC's Unintended Sleep Problems Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-set-windows-back-to-original-configs/"><u>Strategies to Set Windows Back to Original Configs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-in-win11-using-nircmd-tips/"><u>Streamline Your Workflow in Win11 Using NirCmd Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-effective-ai-prompting-essential-tactics-you-cant-ignore/"><u>The Ultimate Guide to Effective AI Prompting: Essential Tactics You Can't Ignore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-enhance-steam-downloads-in-windows-pcs/"><u>Tips to Enhance Steam Downloads in Windows PCs</u></a></li>
+</ul></div>
 

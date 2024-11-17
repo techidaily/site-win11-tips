@@ -1,7 +1,7 @@
 ---
 title: Elevate Win 11 Gaming with These Top 7 Essentials
-date: 2024-11-03T03:42:51.683Z
-updated: 2024-11-06T16:06:30.058Z
+date: 2024-11-14T19:33:06.238Z
+updated: 2024-11-17T18:40:16.820Z
 tags:
   - windows10
   - windows11
@@ -44,28 +44,15 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 ![Screenshot showing how to switch on HDR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-of-display-screen-to-switch-on-hdr.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose your display from the drop-down menu if you have multiple displays connected. Then, check under**Display Capabilities** . If the option to Use HDR is supported, toggle the options**Use HDR** and**Auto HDR** to the**On** positions.
 
  Once they're on you should be able to enjoy an immersive gaming experience. And if you're unsure as to what HDR does exactly, be sure to read[HDR vs. SDR: what's the difference?](https://www.makeuseof.com/hdr-vs-sdr-whats-the-difference/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Ensure Your Games Use Your Primary GPU
 
@@ -74,6 +61,19 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
  Once you follow the above steps to get into the Game Mode menu, select the**Graphics** option. This will display another default setting you may wish to change; using per-app GPU selection settings. You can also toggle on the**Hardware-accelerated GPU scheduling** while you're here.
 
 ![Screenshot showing how to use per-app GPU selection settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-to-use-per-app-gpu-selection-settings.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Enhanced Pointer Precision
 
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
  This action opens the**Mouse Properties** menu. From there, open the**Pointer Options** tab and untick the**Enhanced pointer precision** checkbox. Click**Apply** then**OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update Your GPU's Drivers
@@ -102,18 +102,18 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  There are a few ways you can update your GPU's drivers, from downloading them manually to using special software released by the GPU's manufacturer. Fortunately, all the[ways to update your GPU on Windows 10](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) also work on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Update Windows
 
  Just as it's important to update your GPU drivers, it's also best to regularly update the Windows 11 OS on your PC. Before you install games and applications on your PC you should check if there are any pending OS updates. These usually come with performance and user experience improvements.
 
  If you're not sure how to do this, be sure to read[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for more information. Note that Windows won't automatically update on metered connections. So if you’re on one, you must manually check for pending updates periodically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Apply Generic Windows Performance Tweaks
 
@@ -144,18 +144,22 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-elevate-your-facebook-voice-with-gratuitous-enhancement-tools-for-2024/"><u>[Updated] Elevate Your Facebook Voice with Gratuitous Enhancement Tools for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-facetimes-role-in-modern-communication-best-practices-for-recording-calls/"><u>2024 Approved FaceTime's Role in Modern Communication Best Practices for Recording Calls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-pc-searches-using-everythingapp/"><u>Fast-Track PC Searches Using EverythingApp</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/get-the-updated-gratis-5kplayer-for-macos-supports-big-sur-and-earlier-versions/"><u>Get the Updated, Gratis 5KPlayer for macOS: Supports Big Sur and Earlier Versions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-windows-blue-screen-with-error-code-0x0000001e/"><u>How to Fix the Windows Blue Screen with Error Code 0X0000001E</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-smart-8-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Smart 8 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-user-experience-managing-wins-in-win-11/"><u>Maximize User Experience: Managing Wins in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-your-pc-superuser-status-achievable/"><u>Reclaim Your PC: Superuser Status Achievable</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-strike-quick-fixes-for-mouse-lags-on-sw/"><u>Speed Strike: Quick Fixes for Mouse Lags on SW</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-the-perplexing-black-screen-on-win11/"><u>Swift Remedies for the Perplexing Black Screen on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-w10w11s-err0r-x7e1-issue/"><u>Tackling W10/W11's Err0r: X7E1 Issue</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-insiders-guide-to-excellent-ppt-video-creation-for-2024/"><u>The Insider's Guide to Excellent PPT Video Creation for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unraveling-the-secrets-to-soaring-podcast-rankings-with-seo-for-2024/"><u>Unraveling the Secrets to Soaring Podcast Rankings with SEO for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-secret-to-amplifying-your-igtv-reach-through-hashtags/"><u>[Updated] 2024 Approved The Secret to Amplifying Your IGTV Reach Through Hashtags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-privilege-restrictions-for-windows-installer-success/"><u>Easing Privilege Restrictions for Windows Installer Success</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-fixes-for-when-your-computer-cant-find-msvcp60dll/"><u>Essential Fixes for When Your Computer Can't Find MSVCP60.DLL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-underutilized-tools-for-system-monitoring/"><u>Exploring the Underutilized Tools for System Monitoring</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/full-uninstallation-blueprint-for-wsl-in-modern-windows/"><u>Full Uninstallation Blueprint for WSL in Modern Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-edit-uploaded-published-youtube-videos-for-2024/"><u>How to Edit Uploaded/ Published YouTube Videos for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-v30-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo V30 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-magic-v2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor Magic V2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-windows-artistry-with-these-7-distinguished-drawing-tools/"><u>Masterful Windows Artistry with These 7 Distinguished Drawing Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-tech-detailed-reviews-by-tom/"><u>Navigating the World of Tech: Detailed Reviews by Tom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnecting-disconnected-network-via-windows-settings/"><u>Reconnecting Disconnected Network via Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-situation-when-another-software-overrides-speakers/"><u>Remedying the Situation When Another Software Overrides Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-razer-headset-mic-functionality-a-5-step-troubleshooting-guide/"><u>Restoring Razer Headset Mic Functionality: A 5-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-professional-5-the-ultimate-software-removal-tool/"><u>Revo Uninstaller Professional 5: The Ultimate Software Removal Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-resetting-video-driver-errors/"><u>Steps to Fix Resetting Video Driver Errors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-action-cam-for-high-intensity-sports/"><u>Ultimate Action Cam for High-Intensity Sports</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-windows-error-0xc0000001-quickly/"><u>Understanding & Fixing Windows Error 0xC0000001 Quickly</u></a></li>
 </ul></div>
 

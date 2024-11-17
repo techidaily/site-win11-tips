@@ -1,7 +1,7 @@
 ---
 title: Reinstating Failed Installation Process for Apps From Microsoft Store
-date: 2024-10-31T03:44:56.790Z
-updated: 2024-11-06T20:16:36.362Z
+date: 2024-11-14T20:32:38.781Z
+updated: 2024-11-17T18:22:24.287Z
 tags:
   - windows10
   - windows11
@@ -65,24 +65,25 @@ To restart Microsoft Store Install Service:
 4. Right-click on the service entry and select**Properties** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. In the**Properties** dialog, check if the**Startup type** is set to**Disabled** .  
 ![microsoft store install service manual startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-manual-startup-type.jpg)
 6. If yes, click the**Startup type** drop-down and select**Manual** .  
-![microsoft store install service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-restart.jpg)
-7. Click**Apply** and**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![microsoft store install service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-restart.jpg)
+7. Click**Apply** and**OK** to save the changes.
 
 8. Next, right-click on**Microsoft Store Install Services** and select**Restart** .
 
@@ -91,6 +92,13 @@ To restart Microsoft Store Install Service:
 ## 4\. Perform a Microsoft Store Repair
 
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the built-in repair tool to fix common issues that may prevent the Microsoft Store from triggering such errors. Follow these steps to repair the Microsoft Store app.
 
@@ -106,6 +114,19 @@ To restart Microsoft Store Install Service:
 ## 5\. Manually Reset Microsoft Store Apps
 
 ![reset microsoft store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-microsoft-store.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can manually reset the Microsoft Store app from the Settings app. The Reset option will delete all the app data, and you may need to log in to use Microsoft Store again.
 
@@ -126,13 +147,6 @@ To reset Microsoft Store:
 
 ![powershell re_register microsoft store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-re_register-microsoft-store-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another way to fix the "this app couldn’t be installed" error is to re-register the Microsoft Store using PowerShell. Here’s how to do it.
 
 1. Make sure**Microsoft Store** is closed.
@@ -143,10 +157,10 @@ To reset Microsoft Store:
 5. Wait for the command to process and close PowerShell. Relaunch Microsoft Store and check if you can install the app without the error.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Microsoft Store
@@ -165,10 +179,10 @@ To reinstall Microsoft Store:
 3. Next, in the PowerShell Windows, type the following command and press Enter:  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `get-appxpackage *store |remove-appxpackage`
@@ -179,13 +193,6 @@ To reinstall Microsoft Store:
 5. Wait for the app to install successfully. Then, type**exit** and press**Enter** to close PowerShell.  
 ![reinstall microsoft store powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reinstall-microsoft-store-powershell.jpg)
 6. Press**Win** key and type**Microsoft Store** to launch the app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the "This App Couldn’t Be Installed" Error on Windows
 
@@ -208,24 +215,17 @@ To reinstall Microsoft Store:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-individual-to-institutional-growth-in-youtube-space/"><u>[Updated] From Individual to Institutional Growth in YouTube Space</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-virtual-reality-explained-meta-vs-omni-insights/"><u>[Updated] In 2024, Virtual Reality Explained Meta Vs. Omni Insights</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-reigning-reddit-stars-10-all-time-favorites/"><u>[Updated] Reigning Reddit Stars 10 All-Time Favorites</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-5-online-av-creation-leaders-for-2024/"><u>[Updated] The Ultimate 5 Online AV Creation Leaders for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-keyways-to-activate-telnet-on-windows-11-pcs/"><u>3 Keyways to Activate Telnet on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-downloading-errors-in-microsoft-store/"><u>Addressing Downloading Errors in Microsoft Store</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adepts-compendium-of-fullscreen-insights-in-premiere-pro-for-2024/"><u>Adept's Compendium of Fullscreen Insights in Premiere Pro for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-inactivity-lock-timer/"><u>Adjusting Windows Inactivity Lock Timer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-windows-lav-filters-usage-and-functionality/"><u>Demystifying Windows LAV Filters Usage and Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-unauthorized-windows-shared-folder-access/"><u>Fix Unauthorized Windows Shared Folder Access</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-13-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 13? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-capturing-youtube-videos-subtitles-in-srt-format/"><u>In 2024, The Ultimate Guide to Capturing YouTube Videos' Subtitles in SRT Format</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-access-control-the-powertoys-way/"><u>Mastering Access Control: The PowerToys Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-system-restore-a-guide-to-rollbacks/"><u>Mastering Windows' System Restore: A Guide to Rollbacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quipquill-memes-and-more-at-your-fingertips-for-2024/"><u>QuipQuill Memes & More at Your Fingertips for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-file-extensions-windows-guide/"><u>Switching File Extensions: Windows Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-solution-to-error-code-0x80070570-rescuing-damaged-files-on-windows-11/"><u>Unlocking Solution to Error Code 0X80070570: Rescuing Damaged Files on Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-paving-the-way-to-a-more-engaging-profile-adding-linktree-on-tiktok/"><u>[New] 2024 Approved Paving the Way to a More Engaging Profile Adding Linktree on TikTok</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-use-zoom-for-win11-pc/"><u>[New] In 2024, How to Use Zoom for Win11 PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-empowering-learning-through-educational-videos-on-youtube/"><u>[Updated] In 2024, Empowering Learning Through Educational Videos on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-your-vision-leading-tablet-art-tools/"><u>Capture Your Vision Leading Tablet Art Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-compelling-solo-videos-on-a-budget-for-2024/"><u>Creating Compelling Solo Videos on a Budget for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722768260372-discover-the-top-10-travel-gadgets-today/"><u>Discover the Top 10 Travel Gadgets Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dual-virus-defense-think-again-windows-users/"><u>Dual Virus Defense? Think Again, Windows Users!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-run-pcs-leveraging-the-power-of-key-optimization-tools/"><u>Efficiently Run PCs: Leveraging the Power of Key Optimization Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/get-the-edge-this-memorial-day-snag-your-new-gaming-pc-at-ibuypower-discount-sale/"><u>Get the Edge This Memorial Day - Snag Your New Gaming PC at iBUYPOWER Discount Sale</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-background-removal-in-photo-editing-tools/"><u>Mastering Background Removal in Photo Editing Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reinstating-sound-on-hdmi-tips-for-computer-to-monitortv-connections/"><u>Reinstating Sound on HDMI: Tips for Computer-to-Monitor/TV Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-fixing-non-detectable-wi-fi-in-win11/"><u>The Ultimate Guide to Fixing Non-Detectable Wi-Fi in Win11</u></a></li>
 </ul></div>
 

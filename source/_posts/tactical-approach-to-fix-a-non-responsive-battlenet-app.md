@@ -1,7 +1,7 @@
 ---
 title: Tactical Approach to Fix a Non-Responsive Battle.net App
-date: 2024-09-01T05:14:16.641Z
-updated: 2024-09-02T05:14:16.641Z
+date: 2024-11-13T19:57:15.439Z
+updated: 2024-11-17T16:51:46.673Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
  In addition, running the software in compatibility mode might help some users fix Battle.net not opening. You can do that by selecting the**Run this program in compatibility mode** option on the same**Compatibility** tab. Choose Windows 8 on the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Delete the Battle.net and Blizzard Entertainment Data Folders
 
  Battle.net and Blizzard Entertainment are two cache folders for Blizzard’s game launcher software. The Battle.net software often doesn’t start right when those folders contain corrupted data. Deleting those directories will clear Battle.net’s cache.
@@ -44,15 +51,20 @@ This is how you can erase those folders in Windows 11/10:
 3. Clear Explorer’s folder path bar, and input this directory location there: C:\\ProgramData  
 ![The Blizzard Entertainment folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/blizzard-entertainment-folder.jpg)
 4. Right-click the Battle.net directory and select the**Delete** context menu option.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-button.jpg)
 5. Next, erase the Blizzard Entertainment folder.
 6. Try opening Battle.net again.
 
  This should hopefully clear any cache issues and Battle.net should open correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Check the Secondary Logon Service Is Enabled
 
  The Secondary Logon service enables the starting of processes with alternative types of user credentials. That’s a required prerequisite service for Battle.net’s Blizzard agent. So, check Secondary Login is enabled and running like this:
@@ -61,10 +73,14 @@ This is how you can erase those folders in Windows 11/10:
 2. Double-click**Secondary Logon** to view the properties window for that service.  
 ![The Secondary Logon service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/secondary-logon-service.jpg)
 3. Set the**Startup type** option to**Automatic** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Click the**Start** service button for Secondary Logon.  
 ![The Secondary Logon Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-logon-properties-window.jpg)
 5. Remember to select**Apply** to save the setting.
@@ -74,8 +90,12 @@ This is how you can erase those folders in Windows 11/10:
  If you find Secondary Logon is already enabled, restart the service instead. Right-click Secondary Logon on the Services window to select**Restart** . Or you can click**Stop** and**Start** in the service’s properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Turn Off the Windows Defender Firewall
 
  Windows Defender Firewall will block Battle.net from connecting with Blizzard services if that software isn’t permitted through it. To test if that firewall is blocking the Battle.net client, temporarily disable it in the following steps:
@@ -84,18 +104,12 @@ This is how you can erase those folders in Windows 11/10:
 2. Select the**Turn Windows Defender Firewall on or off** navigation option on the left of the applet.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-defender-control-panel-applet.jpg)
 3. Click the**Turn off Windows Defender Firewall** options for both the public and private network settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![The Turn off Windows Defender Firewall radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-off-windows-defender-firewall-settings.jpg)
 4. Select**OK** to save the new WDF options.
 5. Try opening Battle.net again with the firewall disabled.
 
  If Battle.net now starts, check Windows Defender Firewall’s app permission settings. Make sure the Battle.net software is allowed through that firewall. Check out our article about[allowing apps through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for full instructions. Then you can turn WDF back on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Third-Party Antivirus and Firewall Software
 
  Some third-party antivirus and firewall software can also block Battle.net from running. Antivirus utilities sometimes wrongly identify legitimate programs to be malware. So, temporarily disable third-party antivirus tools or firewalls before selecting to launch Battle.net if you don’t want to uninstall anything.
@@ -113,17 +127,26 @@ This is how you can erase those folders in Windows 11/10:
 5. Next, click**LAN settings** to view a Local Area Network (LAN) window.  
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/LAN-settings-button.jpg)
 6. Uncheck (deselect) the**Use a proxy server** option if its checkbox is selected.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-a-proxy-server-checkbox.jpg)
 7. Press the**OK > Apply** buttons.
 
  Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our[Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Set Windows 11/10 to Clean Boot
 
  Clean-booting Windows is when you boot a PC without any third-party startup programs or services automatically starting. Configuring a clean boot disables all such startup apps and services. Our[guide for performing a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) provides details about how to remove all third-party software and services from the startup.
@@ -152,8 +175,6 @@ This is how you can erase those folders in Windows 11/10:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +182,26 @@ This is how you can erase those folders in Windows 11/10:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ultimate-examination-unveiling-the-360-camera-wonders/"><u>[New] In 2024, Ultimate Examination Unveiling the 360 Camera Wonders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-handbook-audio-notes-101/"><u>[Updated] The Ultimate Handbook Audio Notes 101</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-into-the-twitch-scene-a-mobile-users-handbook/"><u>Breaking Into the Twitch Scene - A Mobile User's Handbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-your-win-os-window-snapping-paradigm/"><u>Crafting Your Win OS Window Snapping Paradigm</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-audio-capture-gear-top-7-list-2023-edition-for-2024/"><u>Cutting-Edge Audio Capture Gear Top 7 List, 2023 Edition for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-hidden-windows-bar-when-edges-are-expanded/"><u>Dealing With Hidden Windows Bar when Edges Are Expanded</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-youtube-content-with-7-premium-free-audio-sounds/"><u>Elevate Your YouTube Content With 7 Premium, Free Audio Sounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-pc-performance-reducing-extraneous-tasks/"><u>Enhancing PC Performance: Reducing Extraneous Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-techniques-for-determining-folder-size-via-powershell/"><u>Expert Techniques for Determining Folder Size via Powershell</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mysterious-menu-moves-win11s-vanishing-power-option/"><u>Mysterious Menu Moves: Win11's Vanishing Power Option</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-gaming-experience-with-the-newest-nvidia-geforce-gtx-980-ti-drivers/"><u>Optimize Your Gaming Experience with the Newest Nvidia GeForce GTX 980 Ti Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-system-switches-win11s-undetectable-power-feature/"><u>Silent System Switches: Win11's Undetectable Power Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-windows-1011-photo-package-errors/"><u>Steps to Correct Windows 10/11 Photo Package Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-ai-practices-7-proven-strategies/"><u>Transformative AI Practices: 7 Proven Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-x80246007-in-windows-updates/"><u>Troubleshooting X80246007 in Windows Updates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-top-three-privacy-threats-linked-with-using-chatbots/"><u>Understanding the Top Three Privacy Threats Linked with Using Chatbots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-diagnostic-skills-using-command-prompt-for-pinpointing-and-correcting-windows-errors/"><u>Unlocking Diagnostic Skills: Using Command Prompt for Pinpointing & Correcting Windows Errors</u></a></li>
+</ul></div>
 

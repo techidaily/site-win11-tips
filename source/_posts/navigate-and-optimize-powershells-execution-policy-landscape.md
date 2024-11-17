@@ -1,7 +1,7 @@
 ---
 title: Navigate & Optimize PowerShell's Execution Policy Landscape
-date: 2024-09-05T19:32:02.899Z
-updated: 2024-09-06T19:32:02.899Z
+date: 2024-11-13T18:22:23.022Z
+updated: 2024-11-17T17:47:47.765Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 
  However, if it’s your first time executing a script via PowerShell, you’ll encounter the "running script is disabled" error. By default, script execution on PowerShell is disabled as a security measure to prevent malicious scripts from running on your system. Here we show you the two ways to enable the scrip execution policy on Windows PowerShell.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Check Your Existing Execution Policy
 
 ![Powershell set execution policy undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-undefined.jpg)
@@ -44,11 +38,12 @@ To get your current execution policy for the current user:
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
  You can change and set the PowerShell execution policy to RemoteSigned using the Settings app. All you have to do is tweak the PowerShell settings in the developers' section to change the execution policy to enable PowerShell script execution.
@@ -63,24 +58,32 @@ To change execution policy using Settings:
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
 
  Also, the Settings app can only enable or disable the RemoteSigned execution policy. Whereas PowerShell lets you set other policies and scopes as well.
@@ -94,6 +97,13 @@ To change the execution policy using PowerShell:
 4. For example, to set the**RemoteSigned** execution policy for**CurrentUser** , use the following command:  
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Remove Script Execution Policy Using PowerShell
 
@@ -110,12 +120,6 @@ To disable script execution using PowerShell:
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding Execution Policies and Scopes
 
  Simply put, PowerShell’s execution policy is a policy that controls how PowerShell executes config files and scripts. The intended purpose is to prevent users from accidentally running malicious scripts. The seven PowerShell execution policies are **Default, Restricted, RemoteSigned, AllSigned, Unrestricted, Bypass, and Undefined** .
@@ -146,26 +150,17 @@ The below table briefly explains all the execution policy scopes:
 | LocalMachine           | Configured for all users and stored in HKEY\_CURRENT\_MACHINE registry subkey.           |
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Add or Remove PowerShell Script Execution Policy on Windows
 
  Script execution on PowerShell is disabled by default for Windows clients and set to RemoteSigned for Windows server. Power users, however, can change execution policies to run local, signed, and unsigned PowerShell scripts.
 
  Alternatively, you can bypass the PowerShell execution policy by pasting the script into a PowerShell console or ECHO your script into PowerShell standard input. This is useful if you want to execute scripts without changing the execution policy.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +169,22 @@ The below table briefly explains all the execution policy scopes:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-boost-communication-how-to-use-google-hangouts-on-mobile/"><u>[New] 2024 Approved Boost Communication How to Use Google Hangouts on Mobile</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-increase-your-fb-popularity-top-ten-seo-best-practices/"><u>[New] In 2024, Increase Your FB Popularity Top Ten SEO Best Practices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-approaches-for-rising-through-the-rankings/"><u>[New] In 2024, Innovative Approaches for Rising Through the Rankings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-stealth-watch-instagram-stories-without-profile-links-pc-android-ios/"><u>[Updated] 2024 Approved Mastering Stealth Watch Instagram Stories Without Profile Links [PC, Android, iOS]</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/copycat-cinema-steps-for-satirical-video-making-for-2024/"><u>Copycat Cinema Steps for Satirical Video Making for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-file-explorer-for-d-drive-accessibility/"><u>Customizing File Explorer for D: Drive Accessibility</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725284194283-dvddvd/"><u>DVDのセキュリティ回避とデジタル化：法律を守りながらDVDコピー手順</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-perfect-first-impressions-on-any-device/"><u>In 2024, Crafting Perfect First Impressions on Any Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inshot-alternatives-for-laptop-editors/"><u>Inshot Alternatives for Laptop Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-basics-of-printer-settings-in-win11-max-56-chars/"><u>Mastering the Basics of Printer Settings in Win11 (Max 56 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rehabilitating-windows-1011s-troubleshooter-functionality/"><u>Rehabilitating Windows 10/11'S Troubleshooter Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-browser-connections-without-defaults/"><u>Securing Browser Connections Without Defaults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-shortage-of-usb-ports-in-windows-os/"><u>Tackling Shortage of USB Ports in Windows OS</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-guide-restoring-accidentally-erased-files-on-nikon-cameras/"><u>Ultimate Guide: Restoring Accidentally Erased Files on Nikon Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-the-game-of-access-paths-to-opening-directories/"><u>Win the Game of Access: Paths to Opening Directories</u></a></li>
+</ul></div>
 

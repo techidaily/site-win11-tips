@@ -1,7 +1,7 @@
 ---
 title: How to Pinpoint and Tackle Large Disk Space Users
-date: 2024-10-31T14:35:48.685Z
-updated: 2024-11-07T12:53:55.466Z
+date: 2024-11-15T20:12:37.523Z
+updated: 2024-11-17T18:57:43.520Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
  Having found that, let's look at how to find the data type that occupies the most space.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Identify the Data Type Occupying the Most Space on Your Crowded Drive
@@ -73,23 +73,9 @@ Follow these steps to remove extra apps and features:
 ![Sorting the Installed Apps by Size in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-sorting-the-installed-apps-by-size-in-windows-settings-app.jpg)
 6. Determine which apps are redundant and taking up the most disk space.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click the**three vertical dots** next to each app and click**Uninstall** .  
 ![Uninstalling the App by Clicking on Three Vertical Dots Next to it in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-uninstalling-the-app-by-clicking-on-three-vertical-dots-next-to-it-in-windows-settings.jpg)
 8. Repeat the above step for all apps you find hefty, and you should be able to free up quite a bit of space.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your operating system lives on the same overcrowded disk, the system and reserved files could be the next big space eater.
 
@@ -99,6 +85,13 @@ Follow these steps to remove extra apps and features:
 
 ![Managing System and Reserved Files Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-managing-system-and-reserved-files-storage-in-storage-tab-of-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Space consumed by system files, reserved storage, and virtual memory is actually used by your device to perform its functions; refrain from deleting files contained therein. Therefore, there are only two types of storage left to manage; the hibernation file and the space reserved for System Restore. This raises the question: can you free this up?
 
  Although you can disable the hibernation mode, you shouldn't do so if you frequently use this feature for keeping in-use apps open while the device is in hibernation. However, this feature takes up a lot of space in GBs, so if you aren't using it, you can free some room. Our guide on[if you should delete the Hiberfil.sys file on Windows](https://www.makeuseof.com/tag/delete-hiberfil-sys-windows-10/) will walk you through every step.
@@ -106,10 +99,10 @@ Follow these steps to remove extra apps and features:
  Likewise, restore points consume a considerable amount of storage, but it is worth it since it allows you to restore your device to a previous point in time if something goes wrong. However, having multiple restore points would be a waste of space on the hard drive. Therefore, it is recommended to[delete any extra restore points on Windows](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) you created.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Manage Temporary Files Storage
@@ -126,6 +119,13 @@ Follow these steps to remove extra apps and features:
  With these tips, you'll hopefully be able to free up a significant amount of space that was previously unnecessarily occupied. Are you still running low on disk space? If so, then your device's storage drive is not large enough. So, upgrade it to accommodate your data more effectively.
 
  If you decide to go this route, check out our roundup of[best NVMe SSDs for faster performance](https://www.makeuseof.com/tag/best-nvme-ssds/) first.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avoid Cluttering Up Your Precious Disk Space
 
@@ -148,20 +148,21 @@ Follow these steps to remove extra apps and features:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-effortless-mac-pics-with-no-cost/"><u>[New] In 2024, Effortless Mac Pics with No Cost</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-navigating-the-nuances-of-nonlinear-audio-editing-in-audacity-for-2024/"><u>[New] Navigating the Nuances of Nonlinear Audio Editing in Audacity for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-live-streaming-hardware-encoder-and-equipment-you-should-know/"><u>[New] Top Live Streaming Hardware Encoder and Equipment You Should Know</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-banish-the-automatic-post-proposals-on-instagram/"><u>[Updated] Banish the Automatic Post Proposals on Instagram</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-pinnacle-12-apps-for-unlimited-screen-recording/"><u>2024 Approved Pinnacle 12 Apps for Unlimited Screen Recording</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-complex-archives-efficiently-handling-multiple-zips-in-one-go/"><u>Decoding Complex Archives: Efficiently Handling Multiple ZIPS in One Go</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-delete-email-from-windows-sign-in-screen/"><u>Efficient Ways to Delete Email From Windows Sign-In Screen</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-evaluation-djis-latest-drone-the-inspire-1-for-2024/"><u>Full Evaluation DJI's Latest Drone, The Inspire 1 for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-a-nonfunctional-nvidia-cp-on-windows-11/"><u>How to Reactivate a Nonfunctional Nvidia CP on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rejuvenate-itunes-that-wont-respond-on-windows/"><u>How to Rejuvenate iTunes That Won't Respond on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-mouse-controls-in-win11-effortlessly/"><u>Navigating Mouse Controls in Win11 Effortlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-tackling-windows-1011-interrupt-crashes/"><u>Strategies for Tackling Windows 10/11 INTERRUPT Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-your-mouse-icon-with-ease-on-win-os/"><u>Transforming Your Mouse Icon with Ease on Win OS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-10-best-drawing-apps-for-chromebook/"><u>[New] 2024 Approved 10 Best Drawing Apps for Chromebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-profit-power-up-innovative-ways-to-earning-with-youtube-mobile-views/"><u>[New] 2024 Approved Profit Power-Up Innovative Ways to Earning with YouTube Mobile Views</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-impactful-youtube-channel-logo-tips/"><u>[New] In 2024, Crafting Impactful YouTube Channel Logo Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-effective-ways-to-design-fb-ad-videos-for-2024/"><u>[Updated] Effective Ways to Design FB Ad Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726224939353-movavi3gpwebm/"><u>「如何使用Movavi直覺轉換器，無限制地從3GP改造成高品質的WEBM影片」</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-multitasking-made-simple-understanding-chrome-pip-integration/"><u>2024 Approved Multitasking Made Simple Understanding Chrome PIP Integration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-subtitles-in-a-click-our-free-top-10-converter-picks/"><u>2024 Approved Subtitles in a Click - Our Free, Top 10 Converter Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-signs-its-probably-time-to-factory-reset-your-windows-pc/"><u>4 Signs It's Probably Time to Factory Reset Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-set-up-image-slideshows-in-windows-11-without-installing-extra-software/"><u>7 Ways to Set Up Image Slideshows in Windows 11 Without Installing Extra Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-strategy-to-reactivate-winget-on-w11/"><u>A Step-by-Step Strategy to Reactivate Winget on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-storage-with-windows-iscsi-initiator/"><u>Accessing Storage with Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-with-file-history-backup-on-windows/"><u>Addressing Error with File History Backup on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-operational-windows-keyboard-entry/"><u>Addressing Non-Operational Windows Keyboard Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/app-aesthetics-the-hidden-culprits-in-windows-11-performance-drop/"><u>App Aesthetics: The Hidden Culprits in Windows 11 Performance Drop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211348800-9798869372321-you-are-not-alone/"><u>You are Not Alone | Free Book</u></a></li>
 </ul></div>
 

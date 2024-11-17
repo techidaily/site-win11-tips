@@ -1,7 +1,7 @@
 ---
 title: Decoding and Solving Defender's 0X80004004 Error
-date: 2024-11-03T11:28:23.121Z
-updated: 2024-11-07T05:11:53.638Z
+date: 2024-11-15T18:19:35.358Z
+updated: 2024-11-17T20:37:42.902Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Microsoft Defender Services
 
  The first thing that we recommend doing is restarting the services that Microsoft Defender relies on to function properly. It's possible that these services may have been disabled by another user or malware on the system, or they may have encountered corruption errors, leading to the problem. Restarting these services can help resolve such issues and get Microsoft Defender back on track.
@@ -79,26 +72,39 @@ Here is how you can do that:
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Try Some Generic Windows-Based Fixes
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run the Windows Update Troubleshooter
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Install the Update Manually
 
@@ -115,10 +121,10 @@ Here is how you can do that:
  Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Microsoft Defender Error 0x80004004, Resolved
@@ -140,20 +146,15 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-enhancing-zoom-experience-on-chromebooks/"><u>[New] Enhancing Zoom Experience on Chromebooks</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/effortless-conversion-transform-avi-videos-to-mp4-for-windows-10-and-macos-users/"><u>Effortless Conversion: Transform AVI Videos to MP4 for Windows 10 & macOS Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-reactivating-file-explorer/"><u>Essential Tips: Reactivating File Explorer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-6s-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 6s Passcode without a Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-sfc-tool-for-windows-file-integrity/"><u>Initiating SFC Tool for Windows File Integrity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-windows-apps-for-the-switcher-from-mac-users-to-windows-warriors/"><u>Key Windows Apps for the Switcher: From Mac Users to Windows Warriors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maintain-screen-integrity-against-unwanted-scrolls/"><u>Maintain Screen Integrity Against Unwanted Scrolls</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-dark-mode-dilemma-in-halo-infinite-now-solved/"><u>Mastering the Dark Mode Dilemma in Halo Infinite - Now Solved!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sketching-simplicity-crafting-windows-11-desktop-designs/"><u>Sketching Simplicity: Crafting Windows 11 Desktop Designs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/step-by-step-guide-to-dimming-audio-with-logic-pro/"><u>Step-by-Step Guide to Dimming Audio with Logic Pro</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/step-by-step-perfecting-the-art-of-mi-11-screen-recording/"><u>Step-by-Step Perfecting the Art of Mi 11 Screen Recording</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-complete-players-guide-to-navigating-ea-play-features-on-ps5/"><u>The Complete Player’s Guide to Navigating EA Play Features on PS5</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trouble-with-talking-solve-your-destiny-amid-voice-chat-glitches-easily/"><u>Trouble with Talking? Solve Your Destiny Amid Voice Chat Glitches Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zero-net-windows-update-techniques/"><u>Zero-Net Windows Update Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iscover-7-essential-free-audio-tracks-for-youtubers/"><u>[New] Discover 7 Essential Free Audio Tracks for YouTubers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-setup-guide-for-mac-devices-for-2024/"><u>[New] Snapchat Setup Guide for Mac Devices for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-prime-low-end-pc-capture-programs-reviewed/"><u>[Updated] In 2024, Prime Low-End PC Capture Programs Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-control-over-systems-performance-bounds/"><u>Commanding Control over System's Performance Bounds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-t2x-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo T2x 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defaults-defined-user-permission-reset-guide-for-win11/"><u>Defaults Defined: User Permission Reset Guide for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-flawless-windows-11-anydesk-performance/"><u>Ensuring Flawless Windows 11 AnyDesk Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-account-recovery-navigating-through-common-chatgpt-login-errors/"><u>Mastering Account Recovery: Navigating Through Common ChatGPT Login Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-for-fixing-internal-rdp-failures-on-windows-1111-pro/"><u>Quick Steps for Fixing Internal RDP Failures on Windows 11/11 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-enabling-bluetooth-functionality-in-windows-7-systems/"><u>Step-by-Step Tutorial: Enabling Bluetooth Functionality in Windows 7 Systems</u></a></li>
 </ul></div>
 

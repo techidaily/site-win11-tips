@@ -1,7 +1,7 @@
 ---
 title: Implementing Irreversible Deletion on Desktop Trash Interface
-date: 2024-11-03T11:07:29.406Z
-updated: 2024-11-07T09:39:07.883Z
+date: 2024-11-10T18:31:52.776Z
+updated: 2024-11-17T18:19:32.571Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
@@ -58,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
@@ -80,13 +67,34 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -103,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
@@ -117,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
@@ -152,17 +146,24 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-discover-how-to-craft-videos-flawlessly-in-8-tools/"><u>[Updated] Discover How to Craft Videos Flawlessly in 8 Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-from-concept-to-creation-a-blueprint-for-powerful-snap-campaigns/"><u>[Updated] From Concept to Creation A Blueprint for Powerful Snap Campaigns</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smirk-secrets-crafting-chuckles-with-simplicity/"><u>[Updated] Smirk Secrets Crafting Chuckles with Simplicity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonic-transition-a-playlist-migration-masterclass/"><u>2024 Approved Harmonic Transition A Playlist Migration Masterclass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/faster-access-simpler-tasks-creating-windows-shortcuts-uwp/"><u>Faster Access, Simpler Tasks: Creating Windows Shortcuts (UWP)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-error-code-microsoft-store-x80131500/"><u>Fixing Error Code: Microsoft Store, X80131500</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-fb-with-ease-6-simple-methods-to-find-users/"><u>Navigating FB with Ease: 6 Simple Methods to Find Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/prime-selections-the-best-free-screencasting-apps-for-2024/"><u>Prime Selections The Best Free Screencasting Apps for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-wi-fi-connectivity-snags-filling-action-voids-in-windows/"><u>Rectifying Wi-Fi Connectivity Snags: Filling Action Voids in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-terminals-treasure-chest-unveil-five-hidden-gems/"><u>The Terminal's Treasure Chest: Unveil Five Hidden Gems</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/undisclosed-browsing-of-fb-stories/"><u>Undisclosed Browsing of FB Stories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1011-curing-file-write-inaccessibility/"><u>Win 10/11: Curing File Write Inaccessibility</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-step-by-step-mastery-your-phone-as-a-personalized-vr-headset/"><u>[Updated] 2024 Approved Step-by-Step Mastery Your Phone as a Personalized VR Headset</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-cinematic-expertise-top-15-innovative-gopro-action-cam-look-ups/"><u>[Updated] In 2024, Cinematic Expertise Top 15 Innovative GoPro Action Cam Look-Ups</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-iphone-slideshow-software-selection-xs-to-xr/"><u>[Updated] In 2024, Essential iPhone Slideshow Software Selection (XS to XR)</u></a></li>
+<li><a href="https://discover-great.techidaily.com/iphoneipad-winx/"><u>【限定終了】iPhone・iPad間でスムーズなデータ移行 - WinX メディアトランスの無料ダウンロードキャンペーン</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-blocked-files-on-windows-with-powershell/"><u>Breaking Down Blocked Files on Windows With PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-the-cannot-create-windows-mmc-error/"><u>Breaking Down the 'Cannot Create' Windows MMC Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-frozen-services-manager-top-7-methods-explored/"><u>Breathe Life Into Frozen Services Manager: Top 7 Methods Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-life-to-your-desk-with-win-1011-sketches/"><u>Bring Life to Your Desk with Win 10/11 Sketches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-barriers-to-implement-win11-version-22h2-update/"><u>Bypassing Barriers to Implement Win11 Version 22H2 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-frozen-program-error-in-windows-security/"><u>Bypassing Frozen Program Error in Windows Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/centralize-and-simplify-files-with-powertools/"><u>Centralize and Simplify Files With PowerTools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-preferred-initial-web-address-on-w11/"><u>Changing Preferred Initial Web Address on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-the-account-lockout-threshold-post-unsuccessful-accesses-in-windows-1011/"><u>Changing the Account Lockout Threshold Post Unsuccessful Accesses in Windows 10/11</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-hidden-message-shield-effectiveness/"><u>Facebook's Hidden Message Shield Effectiveness</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-7-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-text-plugin-compendium/"><u>In 2024, Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-vfx-for-free-mastering-the-art-of-background-substitution-through-4-innovative-video-tutorials/"><u>Learn VFX for Free Mastering the Art of Background Substitution Through 4 Innovative Video Tutorials</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-c67-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme C67 5G without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

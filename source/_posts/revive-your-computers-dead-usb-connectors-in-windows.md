@@ -1,7 +1,7 @@
 ---
 title: Revive Your Computer's Dead USB Connectors in Windows
-date: 2024-09-01T05:14:54.253Z
-updated: 2024-09-02T05:14:54.253Z
+date: 2024-11-13T18:49:17.957Z
+updated: 2024-11-17T18:10:19.675Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
  Of course, you could take this to an expert for repair, but there will be associated costs with this. If you want to do it yourself, make sure you [learn how to solder](http://www.makeuseof.com/tag/learn-solder-simple-tips-projects/). If you're not sure, check out the software fixes first.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can Restarting a Computer Fix Broken USB Ports?
 
  "Have you tried turning it off and back on again?"
@@ -61,14 +68,6 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
  With your unrecognized USB device correctly inserted into the suspect USB port, restart your computer. Once the operating system has rebooted, it should detect the USB device. If not, it's worth looking at the device in the Windows device manager.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## How to Check USB Ports on Windows 10 With Device Manager
 
  Device Manager is a system tool in Windows that lists devices attached to your computer. They’re grouped into categories, listed alphabetically, which enables you to quickly find the device you’re looking for.
@@ -81,19 +80,35 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 3. Expand this and look for the **USB Host Controller**(your device may have a longer title, but it will feature those three words)  
 ![Find the USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller.png)
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
 5. Restart your computer
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. If no USB Host Controller is listed, click **Scan for hardware changes** on the toolbar
 
  If you're using a USB mouse and keyboard, it will be disabled while the USB Host Controllers are uninstalled.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Have Power Settings Stopped Your USB Ports Working?
 
  If power management settings are overriding your USB controller, this will impact the detection of USB devices. It will appear that USB is not working, but in fact the operating system has put the device to sleep.
@@ -114,16 +129,10 @@ The ultimate burning program for all your needs!</a>
 6. Change the drop-down menu to **Disabled**  
 ![Alter USB power settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/muo-windows-dead-usb-suspend-bg-2022.jpg)
 7. Click **Apply** and **OK** to confirm
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Finally, reboot your PC to ensure this change is applied
 
  You should find that any USB ports that were not working have now been fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## USB Port Still Not Working? Reset the BIOS/UEFI Settings
 
  Your BIOS/UEFI exists to help provide a low-level interface between the hardware, software, and firmware on your computer. In other words, it helps all the major components of your PC combine and work together. In terms of specific functions, it helps you carry out the boot-up process, hardware initialization, system configuration, firmware updates, and so on.
@@ -132,16 +141,11 @@ The ultimate burning program for all your needs!</a>
 
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## You've Fixed Your Broken USB Port
 
  As you can see, you have several options for repairing an unresponsive USB port. In most cases, it won't be dead, and you'll be able to fix it.
 
  USB ports aren't the only potential weak spots on your computer. Looking after your hardware will reduce potential failures, and you can save a lot of money if you know how to test your PC for failing hardware.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -149,3 +153,23 @@ The ultimate burning program for all your needs!</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-inside-out-with-t5-ultimate-sport-and-action-recorder/"><u>[New] In 2024, Inside Out with T5 - Ultimate Sport and Action Recorder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-navigating-the-pathway-to-royalty-free-images/"><u>[New] In 2024, Navigating the Pathway to Royalty-Free Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-virtual-landscape-an-overview/"><u>[New] Navigating the Virtual Landscape An Overview</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-professional-tips-achieving-crisp-focus-during-online-conferences/"><u>[Updated] In 2024, Professional Tips Achieving Crisp Focus During Online Conferences</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comparing-top-free-mac-dvd-ripping-tools-handbrake-vs-mactheripper/"><u>Comparing Top Free Mac DVD Ripping Tools: HandBrake Vs. MacTheRipper</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-methods-for-installing-updated-nvidia-audio-on-win11/"><u>Efficient Methods for Installing Updated NVIDIA Audio on Win11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exclusive-nintendo-switch-fighter-lineups-max-156/"><u>Exclusive Nintendo Switch Fighter Lineups (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-guide-for-windows-unlaunched-lunar-client-errors/"><u>Fix Guide for Windows Unlaunched Lunar Client Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-unsuccessful-install-of-microsofts-pc-manager/"><u>Fix Unsuccessful Install of Microsoft's PC Manager</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-14-pro-versus-iphone-14-pro-max-choosing-your-next-smartphone-upgrade-wisely/"><u>IPhone 14 Pro Versus iPhone 14 Pro Max: Choosing Your Next Smartphone Upgrade Wisely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-win11-networks-with-effective-dns-setup/"><u>Optimize Win11 Networks with Effective DNS Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-start-the-ultimate-in-three-windows-steps/"><u>Skyrocketing Start: The Ultimate in Three Windows Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-fix-windows-pc-ignoring-your-gamepad/"><u>Solved: How to Fix Windows PC Ignoring Your Gamepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-solving-non-sync-problems-in-to-do/"><u>Unraveling and Solving Non-Sync Problems in To Do</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-resource-utilization-explained/"><u>Windows Resource Utilization Explained</u></a></li>
+</ul></div>
+

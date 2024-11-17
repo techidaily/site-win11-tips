@@ -1,7 +1,7 @@
 ---
 title: Mastering Multi-File Unzipping on Windows
-date: 2024-11-03T16:54:15.033Z
-updated: 2024-11-07T09:27:10.132Z
+date: 2024-11-10T17:39:08.246Z
+updated: 2024-11-17T17:49:33.881Z
 tags:
   - windows10
   - windows11
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 
  The "**\*\\**" in 7-Zip’s **Extract** window means the archives get extracted to new folders. If you prefer to extract all selected archives to the same subfolder, delete the "**\*\\"** from the text box. Input a new folder name at the end of the chosen path. Then 7-Zip will batch extract all the ZIP files to the new folder added in the **Extract to** box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Simultaneously Extract Multiple ZIP Archives With ExtractNow
 
  ExtractNow is freeware software more specifically designed for extracting multiple archives all in one go. You can batch extract ZIP and RAR archives, among others, on Windows platforms dating back to 1995 with this software. This is how you can batch-extract your ZIP files with ExtractNow:
@@ -64,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now it's time to use the app:
 
 1. Right-click inside the ExtractNow window and select **Add archives**.  
@@ -78,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 2. Select multiple ZIP archives by holding the **Ctrl** key and clicking **Open**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click **Extract** to unzip the ZIP files.  
@@ -89,30 +89,24 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 4. Then click **OK** **to All** to extract the selected archives to subfolders with titles that match the ZIP files within the same directory. Alternatively, you can manually select a different destination to extract each file within the Browse for Folder window and click **OK**.  
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
 
 ![The Destination tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/destination-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to set a location to always extract selected ZIPs, click the **Browse for Folder** button; select a directory within the Browse for Folder window and click **OK**. Then select **OK** on the Settings window to save options.
 
@@ -124,24 +118,6 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 
  So, Windows’ built-in extraction tool isn’t ideal when you need to unzip numerous ZIP files. It’s better to utilize a third-party app like 7-Zip or ExtractNow that enables you to extract multiple ZIP archives. This is how you can simultaneously extract multiple ZIP files with those software packages.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-expert-tips-migrating-twitch-videos-to-youtube/"><u>[New] Expert Tips Migrating Twitch Videos to YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-leveraging-youtube-trailers-for-optimal-revenue-generation/"><u>[Updated] In 2024, Leveraging YouTube Trailers for Optimal Revenue Generation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unveiling-5-must-have-mac-tools-for-effortless-sniping/"><u>[Updated] Unveiling 5 Must-Have Mac Tools for Effortless Sniping</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-beware-the-allure-of-sham-youtube-audience/"><u>2024 Approved Beware the Allure of Sham YouTube Audience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sophisticated-screen-capture-3-top-tier-techniques-for-zoom-conversion/"><u>2024 Approved Sophisticated Screen Capture 3 Top-Tier Techniques for Zoom Conversion</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-resurrection-customer-story/"><u>Data Resurrection - Customer Story</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-c32-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia C32 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-nokia-130-music-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Nokia 130 Music Android SIM Unlock APK</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/incor-cooker-adding-cli-to-task-manager-windowed-console/"><u>Incor Cooker: Adding CLI to Task Manager Windowed Console</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-epson-scanner-functionality-in-windows-11/"><u>Restoring Epson Scanner Functionality in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-steams-inability-to-access-windows-11-files/"><u>Reversing Steam's Inability to Access Windows 11 Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-pcs-ip-address-with-win11/"><u>Transform Your PC's IP Address with Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-video-driver-failure-on-windows-1110/"><u>Troubleshooting Video Driver Failure on Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unilateral-audio-fix-for-windows-users-with-single-speaker-working/"><u>Unilateral Audio Fix for Windows Users with Single Speaker Working</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -149,3 +125,21 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-exploring-video-threads-on-youtube/"><u>[New] 2024 Approved Exploring Video Threads on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-bridge-the-gap-between-skype-and-zoom-with-simple-steps-for-2024/"><u>[New] Bridge the Gap Between Skype & Zoom with Simple Steps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-hacks-for-minimalist-video-presentation/"><u>[New] IPhone Hacks for Minimalist Video Presentation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-smooth-panoramas-state-of-the-art-tracker-tech-for-2024/"><u>[New] Smooth Panoramas State-of-the-Art Tracker Tech for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-premium-zero-cost-windows-media-tools/"><u>7 Premium Zero-Cost Windows Media Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-locate-elusive-gpeditmsc-on-pc/"><u>7 Ways to Locate Elusive 'Gpedit.msc' On PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-remedies-to-clear-windows-setup-stuck-on-validation-error/"><u>9 Remedies to Clear Windows Setup Stuck on Validation Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-walkthrough-to-unveil-ms-paint-windows-11/"><u>A Quick Walkthrough to Unveil MS Paint, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-with-automatic-file-disposal-in-windows-11/"><u>Boost Efficiency with Automatic File Disposal in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-into-the-next-era-with-2023s-enhanced-samsung-k850u/"><u>In 2024, Into The Next Era with 2023'S Enhanced Samsung K850U</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/maximiza-tu-experiencia-en-email-personaliza-y-organiza-tu-bandeja-de-entrada-con-yahoo-mail/"><u>Maximiza Tu Experiencia en Email: Personaliza Y Organiza Tu Bandeja De Entrada Con Yahoo Mail</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/restore-accidentally-removed-bookmarks-on-chrome-and-firefox/"><u>Restore Accidentally Removed Bookmarks on Chrome and Firefox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719284654722-software-environment-setup/"><u>Software Environment Setup:</u></a></li>
+</ul></div>
+

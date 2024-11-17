@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Embracing Windows 11 Widgets"
-date: 2024-11-05T06:48:10.388Z
-updated: 2024-11-07T14:21:54.812Z
+date: 2024-11-10T20:11:38.170Z
+updated: 2024-11-17T17:08:34.441Z
 tags:
   - windows10
   - windows11
@@ -44,18 +44,18 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 
  If you do not want to see the widgets button on the Taskbar and still want to launch it quickly, press**Win key+W** on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Adding Widgets to Windows
 
  Microsoft recently added support for third-party developers to bring app widgets to Windows 11\. But even without support for third-party support, you get a decent collection of first-party app widgets, including Outlook, To Do, Weather, Game Pass, and more. And the best thing about Windows 11's widgets is that it takes little effort to add them to the panel.
 
 ![Add Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-widgets-edit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Follow the below steps to add widgets:
 
@@ -83,10 +83,10 @@ To change the size of widgets, follow the below steps:
 ![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://support.microsoft.com/en-us/windows/stay-up-to-date-with-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4)
@@ -95,9 +95,23 @@ To change the size of widgets, follow the below steps:
 
 ![Tweak the news feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tuning-the-news-feed-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It is also possible to view and manage the publishers and interests. If you do not like what you see from specific publishers, you can hide them from the**My Interests** page in Microsoft Start. You can select your field of interest from a range of categories, including Politics, World, Money, Science, and more.
 
  You can go to the Microsoft Start Page by clicking on the**Manage interests** link on the**Widgets settings** page, which you can bring by clicking on the**user profile logo** at the top of the widgets board. However, it is important to note that ability to follow publishers and fine-tune your news feed is currently available for English speakers in the US.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Tweak the Widget Taskbar Behaviors
 
@@ -107,16 +121,16 @@ To change the size of widgets, follow the below steps:
 
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Expand the Widgets Panel
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The ability to expand the widgets board to take up the entire screen space of your computer screen was not available when Microsoft first launched it. However, the full-screen widgets experience should be available to you if you are running Windows 11 22H2 with Windows Web Experience Pack version (423.2300.0.0).
 
@@ -127,13 +141,6 @@ To expand the widgets panel, follow the below steps:
 
  It is important to note that a full-screen widgets panel will remember its previous state when you close it. If the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Use Widgets Without a Microsoft Account
 
  The widgets panel in Windows 11 will provide you with a more personalized experience when you are logged in with a Microsoft account. However, if you do not want to sign in to the Widgets panel, you can still get the most important information from the supported app widgets in the panel.
@@ -141,13 +148,6 @@ To expand the widgets panel, follow the below steps:
  If you stay signed in, Microsoft will collect data and learn your usage pattern to provide you with the best experience. Individual widgets can also collect data.
 
  If you are running Windows 11 Insider builds, you can use widgets without logging in with your Microsoft account. If you are running Windows 11 22H2, you need to make sure you have Windows Web Experience Pack version 423.3000.10.0 installed on your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## You Are Ready to Get the Most Out of Widgets in Windows 11
 
@@ -168,21 +168,18 @@ To expand the widgets panel, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2023-best-8-private-video-downloaders-for-2024/"><u>[New] 2023 | Best 8 Private Video Downloaders for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-clearer-facebook-audio-addressing-half-volume-problems/"><u>[New] Clearer Facebook Audio Addressing Half-Volume Problems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ow-to-edit-youtube-videos/"><u>[New] How To Edit YouTube Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-simplified-guide-to-using-virtual-whiteboards-in-zoom-platforms/"><u>[New] In 2024, Simplified Guide to Using Virtual Whiteboards in Zoom Platforms</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-text-that-talks-back-adding-life-to-vids-on-a-budget/"><u>[New] Text that Talks Back Adding Life to Vids on a Budget</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-windows-cab-file-installation-steps/"><u>Comprehensive Guide to Windows Cab File Installation Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delve-deep-into-git-workflows-with-github-desktop-for-win-11-users/"><u>Delve Deep Into Git Workflows with GitHub Desktop for Win 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-experience-10-crucial-ms-store-downloads/"><u>Elevate Your Experience: 10 Crucial MS Store Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-inoperative-discord-games-detect-in-windows-systems/"><u>Fixing Inoperative Discord Games Detect in Windows Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-c55-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco C55 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 5G Phone without Google Account?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-narratives-distributed-among-8-movie-segments/"><u>In 2024, Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-client-and-server-vpn-hurdles-demystifying-the-800-error-fixes/"><u>Navigating Through Client and Server VPN Hurdles: Demystifying the 800 Error Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimum-vmm-setups-to-elevate-your-windows-11-experience/"><u>Optimum VMM Setups to Elevate Your Windows 11 Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-password-required-error-on-win11win11-system/"><u>Overcoming “Password Required” Error on Win11/Win11 System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/utilizing-intel-unison-in-windows-11-for-flawless-mobile-dialing/"><u>Utilizing Intel Unison in Windows 11 for Flawless Mobile Dialing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-step-by-step-changing-file-types-for-mac-snapshots/"><u>[New] 2024 Approved Step-by-Step Changing File Types for Mac Snapshots</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-downloading-youtubes-iconic-icons-via-web-windowsmac-methods/"><u>[Updated] In 2024, Downloading YouTube's Iconic Icons via Web, Windows/Mac Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-critical-avenues-artificial-intelligence-and-cybercrime-synergy/"><u>5 Critical Avenues: Artificial Intelligence and Cybercrime Synergy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-the-fix-for-xbox-game-pass-error-0-on-windows-11-pcs/"><u>Breaking Down the Fix for Xbox Game Pass Error 0 on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breatenticating-healthy-windows-and-dotnet-status-max-156/"><u>Breatenticating Healthy Windows & DotNet Status (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-disabled-accounts-fixing-windows-login-fails/"><u>Bypassing Disabled Accounts: Fixing Windows Login Fails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-obstacle-dealing-with-device-error-22-on-windows-11/"><u>Bypassing the Obstacle: Dealing with Device Error 22 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/change-your-windows-terminal-color-scheme/"><u>Change Your Windows Terminal Color Scheme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/christmas-magic-for-your-windows-11-setup/"><u>Christmas Magic for Your Windows 11 Setup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-dbpower-600a-18000mah-capacity-rechargeable-battery-pack-expert-review/"><u>Comprehensive DBPower 600A, 18000mAh Capacity Rechargeable Battery Pack - Expert Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-new-realms-of-thought-30plus-vr-metaphysical-messages-for-2024/"><u>Exploring New Realms of Thought 30+ VR Metaphysical Messages for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/strategy-dominion-discovering-the-7-pinnacle-conflicts-for-2024/"><u>Strategy Dominion Discovering the 7 Pinnacle Conflicts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-the-missing-binkw32dll-error-on-your-pc/"><u>Troubleshooting and Correcting the Missing binkw32.dll Error on Your PC</u></a></li>
 </ul></div>
 

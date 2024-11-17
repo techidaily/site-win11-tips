@@ -1,7 +1,7 @@
 ---
 title: Tackling Lost LAN Signal in Windows System
-date: 2024-09-01T05:14:52.436Z
-updated: 2024-09-02T05:14:52.436Z
+date: 2024-11-14T18:08:05.391Z
+updated: 2024-11-17T20:16:42.128Z
 tags:
   - windows10
   - windows11
@@ -42,16 +42,27 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  If none of the above fixes resolve the issue, and you suspect the problem could lie with the router, get it inspected.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Troubleshoot Your Ethernet Connection
 
 ![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your other device successfully connects to the internet over Wi-Fi in the previous step but not through Ethernet, there could be an issue with the Ethernet connection, not the internet connection, that requires further investigation.
 
  To rule out temporary issues with the connection, disable the Ethernet adapter and enable it again. In addition, ensure the Ethernet connection isn't loose; disconnect the Ethernet cable from your router and your device, then reconnect it back. Also, inspect the cable carefully for any damage.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Rule Out Operating System Issues
 
@@ -65,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  If the above fixes don't help and the problem persists, then apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Change the Network Profile and Turn Off Metered Connection
 
  Changing the network profile and turning off the metered connection can also help resolve the issue under discussion. Therefore, you should make these changes in your Ethernet connection settings.
@@ -73,18 +91,12 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![Change Network Profile and Disable Metered Connection in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-network-profile-and-disable-metered-connection-in-windows-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To make both of these changes in Windows 11, go to **Settings** \> **Network and internet** \> **Ethernet**.
 
 ![disable metered connection in the Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-metered-connection.jpg)
 
  After that, restart your device once to ensure the changes take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Change Your DNS Settings and Flush the DNS Cache
 
 ![Cables plugged into an example DNS server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-server.jpg)
@@ -96,29 +108,25 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  In addition, you should [flush your DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) to remove old and bad entries. Both steps will improve internet reachability, enabling you to connect to the internet successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Reset the Network Settings
 
 ![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If none of the above fixes work, and you still see the no internet access error, you should reset your network. The network reset restores the network settings to their defaults, which may resolves any network issues you're experiencing. However, you should keep in mind that the resetting process will revert your network configuration and restore the defaults.
 
  If you don't mind that, follow the instructions in our guide on [how to reset the network settings in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) (or [Windows 10](https://www.makeuseof.com/tag/reset-network-settings-windows/)) to see if the network reset fixes the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Effortlessly Connect Your Device to an Ethernet Connection
 
  Seeing your Ethernet connected but not being able to access the internet can make us lose our cool. Hopefully, the above fixes will help you solve the problem and start using the internet again. If none of the fixes work and you need help figuring out the problem, contact your ISP and have them diagnose and fix it.
 
  Outdated or incompatible network drivers, incorrect DNS settings, misconfigured network settings, or a router problem usually cause this issue. If you want to fix this issue and get connected to the internet again, here are a few solutions you can try.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -126,3 +134,23 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>[New] An Easy Guide for How to Add Photos on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-cinematic-wisdom-bank/"><u>2024 Approved Cinematic Wisdom Bank</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209826514-9780008366414-capricorn-2021-your-personal-horoscope/"><u>Capricorn 2021: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-the-depths-of-windows-policy-mechanics-triple-techniques/"><u>Delving Into the Depths of Window's Policy Mechanics (Triple Techniques)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-windows-11-control-appetizer/"><u>Mastering the Windows 11 Control Appetizer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-pin-lockouts-effective-methods/"><u>Overcoming Windows PIN Lockouts: Effective Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/professionelle-festplattenklonierung-unter-windows-topfreie-und-startbar-programme-zum-schutz-ihrer-daten/"><u>Professionelle Festplattenklonierung Unter Windows: Topfreie Und Startbar-Programme Zum Schutz Ihrer Daten</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210704086-9798885403467-souls-that-bind/"><u>Souls That Bind | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-eradicating-office-365-failure-code-30015-26/"><u>Strategies for Eradicating Office 365 Failure Code 30015-26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-workflow-creating-custom-shortcuts-for-windows-11/"><u>Streamline Workflow: Creating Custom Shortcuts for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sweetening-windows-soundscape-with-irq-fixes/"><u>Sweetening Windows Soundscape with IRQ Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-biggest-gains-in-windows-11s-february-2023-patch/"><u>The Biggest Gains in Windows 11'S February 2023 Patch</u></a></li>
+</ul></div>
+

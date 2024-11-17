@@ -1,7 +1,7 @@
 ---
 title: Master How to Manipulate Audio Configurations with Windows 11
-date: 2024-09-01T05:15:00.637Z
-updated: 2024-09-02T05:15:00.637Z
+date: 2024-11-10T17:35:08.800Z
+updated: 2024-11-17T18:05:59.683Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 
 ![Open Sound Settings Using Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Open Sound Settings Using Run Command
 
  The Run command is another quick method to open Sound Settings. Windows offers a host of shortcut commands helpful in accessing settings and programs quickly. The process is different from the search bar but if you’d like to try this method, follow these steps:
@@ -42,8 +49,12 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 ![Open Sound Settings Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-run-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. How to Open Sound Settings Through the Taskbar
 
  The taskbar acts as the main launchpad for essential Windows applications. It provides quick access to apps, programs, and settings via the Start menu. If you’d like to open Sound Settings from here, follow these steps:
@@ -53,9 +64,20 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 ![Open Sound Settings Through Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-through-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Sound Settings window will open, and you can make the desired changes from here.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Sound Settings Using Task Manager
 
@@ -67,11 +89,15 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 4. Type **ms-settings:sound** in the dialog box and press Enter.  
 ![Open Sound Settings Through Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-through-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This opens the Sound Settings window where you can customize and optimize your audio. When done, close the window, and you’re back on track.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Open Sound Settings Using Command Prompt
 
  The Command Prompt is a text-based interface on Windows used to execute MS-DOS commands and programs. It runs specific commands to perform certain tasks faster than traditional GUI methods.
@@ -83,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 3. Input **start ms-settings:sound** on the command line and press Enter.  
 ![Open Sound Settings Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This opens the Sound Settings window on your computer. Make the necessary changes then close it.
 
 ## 6\. How to Open Sound Settings Using Windows PowerShell
@@ -99,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 3. If the UAC window pops up, click **Yes** to grant permission.  
 ![Open Sound Settings Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-powershell.jpg)
 4. In the PowerShell window, type the following command:  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 `start-process ms-settings:sound`
 5. Now press Enter to execute it.
 
@@ -118,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 
  This opens up the Sound Settings page with options to adjust output, input, and system sounds.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. How to Open Sound Settings Using a Desktop Shortcut
 
  Desktop shortcuts are another quick way to access a file, program, or setting without using the search bar or command line. It is especially helpful if you repeat a task multiple times. You can create one for Sound Settings to adjust your audio settings faster.
@@ -129,19 +156,8 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 3. In the Location field, type **ms-settings:sound** and click **Next**.  
 ![Create Desktop Shortcut of Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-desktop-shortcut-of-sound-settings.jpg)
 4. Now name your shortcut, such as **Sound Settings,** and click **Finish**.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Name Sound Settings Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-sound-settings-shortcut-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  A new shortcut appears on the desktop. Double-click it to open Sound Settings directly. This is a great way to quickly access this setting instead of using the search bar or other methods.
 
 ## 9\. How to Open Sound Settings Using a Shortcut Key
@@ -160,16 +176,11 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 
  Your shortcut key is now ready to use. Press **Ctrl + Alt** **\+ the keystroke you just assigned** to open Sound Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Access to the Windows Sound Settings
 
  This guide has explained several ways to access Windows Sound Settings. It allows you to customize your sound preferences and control your audio settings conveniently. If you frequently use the settings, then create a desktop shortcut or hotkey for it.
 
  This guide shows you nine different methods to find and open Sound Settings in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +188,25 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-guardians-of-the-screen-the-best-webcam-cover-options/"><u>[New] In 2024, Guardians of the Screen - The Best Webcam Cover Options</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-the-financial-aspects-of-youtube-success/"><u>[Updated] 2024 Approved Navigating the Financial Aspects of YouTube Success</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/best-ways-to-set-up-a-bootable-norton-ghost-disk-on-usb-compatible-with-windows-11-10-8-and-7/"><u>Best Ways to Set Up a Bootable Norton Ghost Disk on USB: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/luts-uncovered-elevating-the-quality-of-digital-imagery/"><u>LUTs Uncovered Elevating the Quality of Digital Imagery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-remove-error-0x0000004e-from-win11/"><u>Methods to Remove Error 0X0000004E From Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-device-not-reachable-error-in-windows-os/"><u>Navigating Through Device Not Reachable Error in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/network-nuances-exploring-4-windows-ways-to-measure-internet-speed/"><u>Network Nuances: Exploring 4 Windows Ways to Measure Internet Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-discord-wins-search-functionality-a-step-by-step-guide/"><u>Repairing Discord Win's Search Functionality: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpening-windows-gameplay-boost-yuzu-speed/"><u>Sharpening Windows Gameplay: Boost Yuzu Speed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-creating-custom-universal-remote-software/"><u>Step-by-Step Tutorial on Creating Custom Universal Remote Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-set-windows-back-to-original-configs/"><u>Strategies to Set Windows Back to Original Configs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-in-win11-using-nircmd-tips/"><u>Streamline Your Workflow in Win11 Using NirCmd Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-enhance-steam-downloads-in-windows-pcs/"><u>Tips to Enhance Steam Downloads in Windows PCs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-tier-srt-transformations-for-mac-and-windows-pcs-for-2024/"><u>Top-Tier SRT Transformations for Mac & Windows PCs for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-frame-rate-drops-and-glitches-in-fortnite-on-windows-systems/"><u>Troubleshooting Frame Rate Drops and Glitches in Fortnite on Windows Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-a14-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy A14 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
+

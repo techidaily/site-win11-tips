@@ -1,7 +1,7 @@
 ---
 title: "From Audio to Alphabets: Transcribing Talk on Your PC with Whisper"
-date: 2024-11-05T01:11:46.259Z
-updated: 2024-11-07T10:49:57.487Z
+date: 2024-11-12T19:25:10.318Z
+updated: 2024-11-17T19:59:57.612Z
 tags:
   - windows10
   - windows11
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  Compared to the alternatives, CUDA is considered more mature, performant, and easier to use. Thus, most developers only target CUDA, which, in turn, means that their software only takes advantage of the hardware features on Nvidia GPUs. And that includes Whisper.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Download and Install Whisper
 
  Unfortunately, Whisper is not a standalone app you can download, install, and run. It relies on other software, which must also be installed.
@@ -70,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 `pip3 install python-ffmpeg`  
 ![pip install python ffmpeg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip-install-python-ffmpeg.jpg)
 3. Finally, install Whisper from its Github page with:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `pip3 install git+https://github.com/openai/whisper.git`
 
 ## Getting Whisper's CUDA-Enabled Version
@@ -86,6 +87,20 @@ To have Whisper use the CUDA cores of your Nvidia GPU:
 `pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117`  
 ![pip3 install torch torchvision torchaudio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip3-install-torch-torchvision-torchaudio.jpg)
 3. To check if Whisper can use your Nvidia GPU, use:  
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `whisper --help | findstr -i pytorch`  
  You should see**(default: cuda)** instead of**(default: cpu)** .
 
@@ -101,6 +116,13 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 
 ![choco install python alternate version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choco-install-python-alternate-version.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, use the path of the secondary version for all "generic" Whisper commands (e.g., "c:\\Python310\\Scripts\\pip.exe" rather than just "pip").
 
 ## How to Record Your Voice
@@ -112,17 +134,10 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 ![Recording voice with Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/recording-voice-with-audacity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Start Transcribing With Whisper
@@ -147,10 +162,10 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
  The "model" flag is required because Whisper uses one out of various options. Let's expand on them to help you choose the best for your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Which Model to Choose?
@@ -177,6 +192,19 @@ For example:
 
 `whisper --model small My_Voice_Note.mp3`
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Streamline Your Transcription
 
  Having to type the whole Whisper command every time you want to transcribe some audio can quickly get boring. Let's make a globally accessible batch file to streamline the process.
@@ -192,13 +220,6 @@ For example:
 ![Creating WHT Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-wht-batch-file.jpg)
 6. Create two more batch files, "whs" and "whm".
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Place this inside the first script:  
 `whisper --model small --language en %1`
 8. Place this inside the second:  
@@ -210,13 +231,6 @@ For example:
 2. **Right-click** on an empty spot and choose**Open in Terminal** .
 3. Type this command, replacing "wht" with "whs" or "whm" to use the small or medium language models:  
 `wht YOUR_AUDIO_FILE.mp3`
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Typing at the Speed of Sound With Whisper
 
@@ -241,18 +255,19 @@ For example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-the-art-of-digital-recording-for-gotomeet-sessions/"><u>[New] 2024 Approved Mastering the Art of Digital Recording for GoToMeet Sessions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-spectacular-racing-sims-number-one-to-five/"><u>[New] Spectacular Racing Sims Number One to Five</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/digital-disguise-dos-and-donts-mastering-zip-concealment-windows-11/"><u>Digital Disguise Dos and Don'ts: Mastering ZIP Concealment (Windows 11)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-xr-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone XR</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-a-flawed-windows-11-taskbar-setup/"><u>Mending a Flawed Windows 11 Taskbar Setup</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-non-detected-audio-driver-on-win-10/"><u>Tackling Non-Detected Audio Driver on Win 10</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-technological-leap-in-home-camcorders-and-live-feeds-for-2024/"><u>The Technological Leap in Home Camcorders and Live Feeds for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/timely-access-control-with-powertoys-locksmith/"><u>Timely Access Control with PowerToys Locksmith</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-file-not-found-on-windows-pc/"><u>Understanding and Fixing “File Not Found” On Windows PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unleash-maximum-speed-and-minimize-delays-in-playing-capcoms-street-fighter-6-on-windows-pc-a-step-by-step-guide/"><u>Unleash Maximum Speed & Minimize Delays in Playing Capcom's Street Fighter 6 on Windows PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/winning-the-battle-against-crashing-windows-explorer-proven-tactics-and-remedies/"><u>Winning the Battle Against Crashing Windows Explorer: Proven Tactics & Remedies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-best-free-downloaders-for-facebook-links/"><u>[Updated] 2024 Approved The Best Free Downloaders for Facebook Links</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-freeze-the-action-find-these-top-9-gif-recipes-on-windows-pc/"><u>[Updated] Freeze the Action! Find These Top 9 GIF Recipes on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-improve-your-gaming-experience-on-a-windows-11-pc/"><u>7 Ways to Improve Your Gaming Experience on a Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-plan-for-installing-win11-version-22h2-updater/"><u>A Step-by-Step Plan for Installing WIN11 Version 22H2 Updater</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absent-file-application-linkages-in-win10/"><u>Addressing Absent File Application Linkages in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-connectivity-boost-for-windows-11-webcams/"><u>Android Connectivity Boost for Windows 11 Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-edge-safety-implement-windows-11-defender-application-guard/"><u>Boosting Edge Safety: Implement Windows 11 Defender Application Guard</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-t-series-online-earnings-stream-for-2024/"><u>Decoding T-Series' Online Earnings Stream for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/determining-excellence-in-hdr-via-luminance-for-2024/"><u>Determining Excellence in HDR via Luminance for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/freepaid-audio-cleanup-tools-for-higher-video-quality-for-2024/"><u>Free/Paid Audio-Cleanup Tools for Higher Video Quality for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-pc-running-smoothly-with-fresh-downloads-of-amd-radeon-hd-7870-drivers-on-windows-10-where-to-find-them/"><u>Keep Your PC Running Smoothly with Fresh Downloads of AMD Radeon HD 7870 Drivers on Windows 10 | Where to Find Them!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-effective-solutions-for-when-your-wifi-stops-working/"><u>Quick and Effective Solutions for When Your WiFi Stops Working</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solve-cybercrimes-engage-in-4-innovative-ai-puzzle-games/"><u>Solve Cybercrimes: Engage in 4 Innovative AI Puzzle Games</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-converting-audio-files-into-m4r-ringtone-format-for-your-iphone/"><u>Step-by-Step Guide: Converting Audio Files Into M4R Ringtone Format for Your iPhone</u></a></li>
 </ul></div>
 

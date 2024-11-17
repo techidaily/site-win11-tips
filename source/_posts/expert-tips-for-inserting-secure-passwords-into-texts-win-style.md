@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Inserting Secure Passwords Into Texts, Win-Style
-date: 2024-11-05T01:36:17.312Z
-updated: 2024-11-07T12:34:19.085Z
+date: 2024-11-12T18:30:12.063Z
+updated: 2024-11-17T18:15:41.711Z
 tags:
   - windows10
   - windows11
@@ -63,6 +63,19 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 
 ![The View menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-formatting-options.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Passwords to Text Files With Secure Edit
 
  Like LockNote, Secure Edit incorporates password and encryption features into your text file. However, it also lets you add images in PNG and BMP format. So, this is how you can add passwords to Windows text files with Secure Edit.
@@ -75,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 ![The Secure Edit window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/secure-edit-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Input some content within the text editor.
@@ -97,27 +110,20 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 
 ![The open file with options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-selection-box.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The **Visual Options** menu within Secure Edit includes customization options for the software. Click **Options** and **Visual Options** to access that menu. Then you can select four alternative themes from there.
 
 ![Visual Options drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/visual-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To change the text style in Secure Edit, click the **Select Editor Font** option. Then you can choose a different font, style, and size in the open window. The Font window also includes **Strikeout**, **Underline**, and **Color** options.
 
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Apply Passwords to Notepad Text Files With PeaZip
 
@@ -142,25 +148,20 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 2. Press the **Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-button.jpg)
 3. Choose **ZIP** in the **Type** drop-down menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the **Set password / keyfile** option.  
 ![Archive settings in PeaZip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/archive-settings-in-peazip.jpg)
 5. Enter your desired password in the **Password** box.
 6. Re-enter the same password in the **Confirm** box.  
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
 7. Select **OK** in the **Password** window.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click the three-dot button for the **Output** box. Choose a directory to include the archive in and select **Save**.
 9. Select **OK** to create the password-protected archive.
@@ -172,16 +173,10 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Secure Your Text Files in Windows 11/10
@@ -194,29 +189,6 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 
  This is how you can use these three apps to protect the information you save on text files in Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-zero-price-virtual-gatherings/"><u>[Updated] 2024 Approved The Ultimate Guide to Zero-Price Virtual Gatherings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-disrupted-microphone-input-in-valorant-windows/"><u>Addressing Disrupted Microphone Input in Valorant (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altering-admin-username-on-windows-11-step-by-step-guide/"><u>Altering Admin Username on Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-iphone-16-vs-iphone-15-essential-factors-for-choosing-the-new-standard-from-apple-insights-from-zdnet/"><u>Apple iPhone 16 vs iPhone 15: Essential Factors for Choosing the New Standard From Apple - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diminish-noise-restoring-your-keys-sound-functionality/"><u>Diminish Noise: Restoring Your Key's Sound Functionality</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/efficiently-clear-out-mac-storage-stellar-file-erasers-timetabled-cleanup-for-filesfolders/"><u>Efficiently Clear Out Mac Storage - Stellar File Eraser's Timetabled Cleanup for Files/Folders</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-maintain-peaceful-posting-dismiss-ig-recommendations/"><u>In 2024, Maintain Peaceful Posting Dismiss IG Recommendations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-the-dxgidll-file-missing-in-windows-11-heres-how-to-fix-it/"><u>Is the Dxgi.dll File Missing in Windows 11? Here's How to Fix It</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-tv-streaming-platforms-of-the-year-2024-your-essential-list/"><u>Leading TV Streaming Platforms of the Year 2024: Your Essential List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-terminal-configuration-basics/"><u>Mastering Windows Terminal Configuration Basics</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ering-in-play-a-step-by-step-to-thriving-gaming-channels/"><u>Pioneering in Play A Step-by-Step to Thriving Gaming Channels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/power-up-your-device-instantly-mastering-win-11s-double-clicked-apk-method/"><u>Power Up Your Device Instantly: Mastering Win 11'S Double-Clicked APK Method</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pros-recommended-slow-motion-camera-apps-ios-and-android-edition/"><u>Pro's Recommended Slow Motion Camera Apps IOS & Android Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-lost-dxgidll-with-these-win11-hacks/"><u>Restore Your Lost Dxgi.dll with These Win11 Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-initiate-sfc-process-in-windows-1087/"><u>Steps to Initiate SFC Process in Windows 10/8/7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-hidden-pathways-open-directory-games-in-windows/"><u>The Hidden Pathways: Open Directory Games in Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-x100-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo X100 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/44ox44ot44k744k55yig5p6q44ks5rex44kb44kl44k44k544kv5yplusk44gz44ox44ot44k744k544oe44kk44ol44oz44kw/"><u>プロセス分析を深めるタスク及びプロセスマイニング</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -224,3 +196,21 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-ideal-15-color-filters-for-improving-gopro-shots/"><u>[New] Ideal 15 Color Filters for Improving GoPro Shots</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-screen-success-brand-endorsement-strategies/"><u>[New] Screen Success Brand Endorsement Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-premier-options-to-play-sonys-ps1-games-on-pc/"><u>[Updated] In 2024, Premier Options to Play Sony's PS1 Games on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-d3dx9-point-on-windows-11/"><u>Addressing Missing D3DX9 Point on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-overview-of-user-dissatisfaction-with-windows-11-upgrade/"><u>An Overview of User Dissatisfaction with Windows 11 Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blackview-spacious-and-slow-a-bittersweet-blend/"><u>Blackview: Spacious and Slow - A Bittersweet Blend</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-the-art-of-powerpoint-presentation-video-documentation-for-2024/"><u>Mastering the Art of PowerPoint Presentation Video Documentation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719266840560-prevent-unwanted-updates-on-your-pc-today/"><u>Prevent Unwanted Updates on Your PC Today!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-edge-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Edge 2023 without backup.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-of-packet-travel-the-ultimate-tutorial-for-executing-tracert-in-windows-environments/"><u>Unveiling the Secrets of Packet Travel: The Ultimate Tutorial for Executing Tracert in Windows Environments</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/where-to-find-the-finest-laptops-a-guide-to-the-best-6-locations/"><u>Where to Find the Finest Laptops: A Guide to the Best 6 Locations</u></a></li>
+</ul></div>
+

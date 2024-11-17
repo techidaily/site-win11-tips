@@ -1,7 +1,7 @@
 ---
 title: Transform Windows' Email/Calendar by Adding Fav Photos
-date: 2024-11-01T19:52:48.492Z
-updated: 2024-11-06T19:39:37.178Z
+date: 2024-11-16T17:07:44.844Z
+updated: 2024-11-17T18:13:50.512Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  Fortunately, you can easily customize Mail and Calendar on your Windows PC, so let's explore how.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Personalize Your Mail App with a Colorful Background or Favorite Picture
 
  The Mail app is simple yet effective to use. Make the Mail experience your own by customizing it with colors, background images that appear when no email is selected, and themes with specific backgrounds and colors. You can even set a favorite wallpaper.
@@ -47,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 3. Then scroll down to the**Background** section. Under the**Background** section, you will see 20 thumbnails of images and themes. The first is just a thumbnail of the default setting when no background is selected.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. The next seven thumbnails portray colorful background images. Choose any of them and change the color of the extreme left pane to match the background or suit your liking.  
@@ -65,16 +66,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 ![Background Theme Selected in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-background-theme-mail-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set a Favorite Picture as Your Mail Background
@@ -86,27 +81,21 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 ![Browse Option to Choose Picture for Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browse-to-choose-picture-mail-app.jpg)
 3. Click on**Open,** and the**Mail** app will open again with your picture on the right pane. The picture's thumbnail will be at the bottom of the**Background** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Chosen Picture On Right Pane in the Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/chosen-picture-on-right-pane-mail-app.jpg)
 4. Your favorite picture will appear on the right pane when no email is selected and you can choose to match the color of the left pane with this picture. So scroll up to the**Colors** sections in the**Personalization** flyout, where you can choose from one of the 10 colors for the left pane. You'll find the option to choose your Windows accent color too.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Left Pane Color Matching With Picture in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-left-pane-color-to-match-picture.jpg)  
  Remember, if you choose Dark Mode for the Mail or Calendar apps, the left pane will not show the selected color as its solid color background. Instead, it will use the color black.
 5. You can also have a background theme or your favorite picture spread across the Mail app screen and also appear on the left pane instead of a color. In the**Background** section, turn on the toggle to**Fill entire window** with your background picture, as you can see in the screenshot below.  
 ![Picture Extending to Left Pane in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extend-picture-to-left-pane-mail-app.jpg)  
  Your chosen background picture will appear with a blurred effect on the left pane so that the text is legible on it. With the Dark Mode on, the picture will appear behind a dark blurred background on the left pane.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. To enjoy your favorite picture to the max, you can hide most of the left pane by clicking on the**three-lines icon** on the top left of the Mail app.  
 ![Enjoy a Bigger Picture on Your Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enjoy-bigger-picture-on-mail-app-1.jpg)
@@ -150,24 +139,14 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-dynamic-portraits-techniques-for-effective-motion-blur-using-picsart-for-2024/"><u>[New] Dynamic Portraits Techniques for Effective Motion Blur Using Picsart for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-essential-gif-sharing-on-snapchat-easy-tutorial/"><u>[Updated] Essential Gif Sharing on Snapchat [Easy Tutorial]</u></a></li>
-<li><a href="https://video-capture.techidaily.com/4-outstanding-conversion-methods-secure-your-music-files-from-bandcamp-in-various-audio-formats-at-no-cost/"><u>4 Outstanding Conversion Methods: Secure Your Music Files From Bandcamp in Various Audio Formats at No Cost!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-setting-up-windows-11s-pc-manager/"><u>A Step-by-Step Approach to Setting Up Windows 11'S PC Manager</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-access-entry-error-in-microsoft-os/"><u>Disabling 'Access Entry' Error in Microsoft OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-windows-and-macos-utilities-a-comprehensive-guide-of-11-key-software-recommendations/"><u>Essential Windows and macOS Utilities: A Comprehensive Guide of 11 Key Software Recommendations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-securitys-unexpected-error-in-windows-11-and-11/"><u>How to Fix Windows Security’s “Unexpected Error” In Windows 11 & 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-remote-connection-issues/"><u>Mastering Windows Remote Connection Issues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/perfect-photos-effortless-best-10-screenshot-sticker-enhancers-for-smartphones/"><u>Perfect Photos, Effortless Best 10 Screenshot-Sticker Enhancers for Smartphones</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/power-play-nvidia-shield-tv-pro-revealed-how-gamers-are-revolutionizing-their-viewing-experience/"><u>Power Play: Nvidia Shield TV Pro Revealed – How Gamers Are Revolutionizing Their Viewing Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-followers-gps-drones-of-the-year-for-2024/"><u>Precision Followers GPS Drones of the Year for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-control-over-typing-with-these-9-fixes-for-broken-keyboard-commands-on-windows-pc/"><u>Reclaiming Control over Typing with These 9 Fixes for Broken Keyboard Commands on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rejuvenate-outdated-systems-why-not-windows/"><u>Rejuvenate Outdated Systems: Why Not Windows?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/retro-game-revival-elevating-experiences-by-adding-achievements-using-retroarch/"><u>Retro Game Revival: Elevating Experiences by Adding Achievements Using Retroarch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-your-tech-game-with-these-top-7-windows-tips/"><u>Skyrocket Your Tech Game with These Top 7 Windows Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-tailored-ai-interactions-with-chatgpt/"><u>Unlocking the Potential of Tailored AI Interactions with ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveil-windows-potential-get-the-outlook-preview-installed/"><u>Unveil Windows' Potential: Get the Outlook Preview Installed</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/242024/"><u>精選24件筆電螢幕錄影軟體：2024年新推薦清單與用家反饋</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-artistry-in-depth-on-ps-distortion-techniques/"><u>Digital Artistry In-Depth on PS Distortion Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ram-management-for-effective-cross-platform-communication/"><u>Efficient RAM Management for Effective Cross-Platform Communication</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17t-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17t Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapidly-engageturn-off-bings-ai-window-chat/"><u>Rapidly Engage/Turn Off Bing's AI Window Chat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sign-out-failures-from-non-standard-windows-applications/"><u>Resolving Sign-Out Failures From Non-Standard Windows Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-realme-c51-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme C51 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/strumenti-di-clonazione-gratis-per-unita-usb-avviabili-scopri-la-chiavetta-usb-ideale/"><u>Strumenti Di Clonazione Gratis per Unità USB Avviabili: Scopri La Chiavetta USB Ideale</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-pasting-feature-in-chrome-edge-firefox-oses/"><u>Unblocking Pasting Feature in Chrome, Edge, Firefox OSes</u></a></li>
 </ul></div>
 

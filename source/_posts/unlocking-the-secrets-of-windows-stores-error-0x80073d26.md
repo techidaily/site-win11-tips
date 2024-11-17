@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secrets of Windows Store's Error 0X80073D26
-date: 2024-11-03T06:00:28.020Z
-updated: 2024-11-07T12:03:36.136Z
+date: 2024-11-15T18:50:31.097Z
+updated: 2024-11-17T18:00:38.016Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
  You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Repair and Reset the Microsoft Store App
 
  Accumulated and corrupted Microsoft Store cache data is a potential cause for error 0x80073D26\. Resetting the Microsoft Store app via Settings or the Command Prompt will clear the app’s data. Try applying both methods in this guide to resetting Microsoft Store. Also, select the **Repair** option for the Microsoft Store just above its **Reset** button in Settings to see if that resolves the issue.
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Edit the Registry
@@ -63,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 4. Right-click the **GamingServices** subkey within the Services key to select **Delete** \> **Yes**.  
 ![The Delete registry key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-option-1.jpg)
 5. Click the **GamingServicesNet** key with the mouse’s right button and select the **Delete** \> **Yes** options.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Exit Registry Editor and restart your PC.
 
@@ -89,16 +89,17 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -recurse` 
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 6. Close out of PowerShell to restart Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Reopen Powershell and execute the following command:  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`
 8. Then click the **Get** button for installing Gaming Service.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Perform Some Generic Windows Fixes for Errors
 
@@ -107,19 +108,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ### Repair System Files
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
 
@@ -131,9 +119,29 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
  To apply this fix, check out this guide about [clean-booting Windows 10 or 11](https://www.makeuseof.com/clean-boot-windows-11/). Disable startup programs in Task Manager and services in MS Config as covered within that guide; then restart your PC and try installing Microsoft Store games again to see if the issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reinstall the Microsoft Store
 
 ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
@@ -149,26 +157,19 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy the Best Xbox Game Pass Games Available on the Microsoft Store
@@ -177,29 +178,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
  Players can’t enjoy their Xbox Game Pass titles because of error 0x80073D26, which makes this an annoying issue for Xbox Game Pass users. This is how you can fix the Microsoft Store error 0x80073D26 in Windows
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-supercharge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts/"><u>[New] 2024 Approved Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-high-quality-capture-on-mac-a-review-of-top-10-software-for-2024/"><u>[New] High-Quality Capture on Mac A Review of Top 10 Software for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-apex-fusion-hubs-all-in-one-4k-multi-touch-desktops/"><u>2024 Approved Apex Fusion Hubs All-in-One 4K Multi-Touch Desktops</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-14-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone 14 Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-video-lags-with-chromes-youtube-support/"><u>Eliminating Video Lags with Chrome's YouTube Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-dell-network-driver-downloads-for-windows-7-systems/"><u>Free Dell Network Driver Downloads for Windows 7 Systems</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-rhythm-and-reels-for-music-masters-on-ig/"><u>In 2024, Rhythm & Reels for Music Masters on IG</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-strategic-steps-for-effective-annotations-and-cards-on-your-youtube-videos/"><u>In 2024, Strategic Steps for Effective Annotations & Cards on Your YouTube Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/iphone-sharing-files-from-a-windows-pc/"><u>IPhone Sharing Files From a Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-access-control-return-users-to-standard-settings/"><u>Mastering Access Control: Return Users to Standard Settings</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-load-issues-discover-proven-fixes-for-an-instant-startup-rescue/"><u>Minecraft Load Issues? Discover Proven Fixes for an Instant Startup Rescue</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/navigating-vlc-software-basics-for-macos-for-2024/"><u>Navigating VLC Software Basics for MacOS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-incompatible-volume-driver-error-on-windows/"><u>Resolving Incompatible Volume Driver Error on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/teredos-struggle-in-sports-an-analysis-of-non-qualification-factors/"><u>Teredo's Struggle in Sports: An Analysis of Non-Qualification Factors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-8-study-techniques-for-maximum-efficiency-in-windows/"><u>Top 8 Study Techniques for Maximum Efficiency in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-stop-minecraft-crashes-in-windows/"><u>Troubleshooting Guide: Stop Minecraft Crashes in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-stop-default-save-location-issues/"><u>Troubleshooting Windows: Stop Default Save Location Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-lunar-client-failure-in-windows/"><u>Troubleshooting: Resolving Lunar Client Failure in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-potential-of-netstat-for-network-monitoring/"><u>Unlocking the Potential of Netstat for Network Monitoring</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -207,3 +185,27 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-easy-steps-for-achieving-facebooks-prestigious-blue-badge-for-2024/"><u>[New] Easy Steps for Achieving Facebook's Prestigious Blue Badge for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-guide-to-posting-on-instagram/"><u>[Updated] A Step-by-Step Guide to Posting on Instagram</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-capturing-the-perfect-snap-on-pexels/"><u>[Updated] In 2024, Capturing the Perfect Snap on Pexels</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/5-second-stories-explained-well-for-2024/"><u>5-Second Stories Explained Well for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-top-rated-online-services-for-creating-custom-birthday-videos/"><u>Best Top-Rated Online Services for Creating Custom Birthday Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/break-away-from-grouped-icons-in-win-11/"><u>Break Away From Grouped Icons in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-whats-lost-recovering-windows-11s-disappearing-bluetooth/"><u>Bring Back What's Lost: Recovering Windows 11’S Disappearing Bluetooth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/building-a-flask-based-python-server-for-networked-file-transfers/"><u>Building a Flask-Based Python Server for Networked File Transfers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-the-frozen-pause-of-windows-update-fails/"><u>Bypass the Frozen Pause of Windows Update Fails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-content-unavailable-on-steam-client/"><u>Bypassing Content Unavailable on Steam Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-freeze-windows-update-savior-guide/"><u>Bypassing Freeze: Windows Update Savior Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-http-overload-in-win-based-software-0x80860010/"><u>Bypassing HTTP Overload in Win-Based Software (0X80860010)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-misleading-anti-virus-alerts-in-chrome-browser-for-pc-users/"><u>Bypassing Misleading Anti-Virus Alerts in Chrome Browser for PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-update-failure-error-code-0x800f0845/"><u>Bypassing Update Failure - Error Code: 0X800F0845</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-12-4g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Redmi Note 12 4G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-poco-x5-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Poco X5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-asus-rog-phone-8-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Asus ROG Phone 8 Pro Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/page-not-found-no-more-navigate-with-ease-using-wonderfoxs-advanced-solutions/"><u>Page Not Found No More! Navigate with Ease Using WonderFox's Advanced Solutions</u></a></li>
+</ul></div>
+

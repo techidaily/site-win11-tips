@@ -1,7 +1,7 @@
 ---
 title: Tackling Microsoft Store Failure with Error Code 0X00000000
-date: 2024-09-05T19:32:05.064Z
-updated: 2024-09-06T19:32:05.064Z
+date: 2024-11-14T19:12:34.886Z
+updated: 2024-11-17T16:11:58.238Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  Users can’t download new apps or updates from the Microsoft Store in Windows 11/10 because of error 0x00000000\. Thus, error 0x00000000 is a big deal for users who get most of their software from Microsoft’s storefront. This is how you can resolve Microsoft Store’s error x00000000 in Windows 11 and 10\.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Run the Troubleshooter for Windows Store Apps
 
  First, start with potential error 0x00000000 resolutions that are more straightforward to apply, such as running the Windows Store Apps troubleshooter. Microsoft Store is itself a UWP app for which the Windows Store Apps troubleshooter can fix issues. So, try running the Windows Store Apps troubleshooting tool like this:
@@ -36,15 +30,16 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 4. Click the **Run** option for starting the Windows Store Apps troubleshooter.  
 ![The Run Windows Store Apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-run-button.jpg)
 5. Then select to apply any potential solution presented within Windows Store Apps.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-apps-troubleshooter.jpg)
 
  In Windows 10, the steps for opening Windows Store Apps aren’t quite the same. Click the **Update & Security** category in Windows 10’s Settings app and select the **Troubleshoot** tab. Then you can click an **Additional troubleshooter** navigation option to reach the list of troubleshooting utilities.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Enable the Microsoft Store Install Service
 
@@ -73,6 +68,19 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  There are a few Windows-based fixes you can try that fix general Windows Store issues. So, give these a try:
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run the System File Checker Command
 
  Error 0x00000000 can occur because of a wider PC issue with corrupted system files. You can address such a potential cause by running the System File Checker utility. Our [post about running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to apply this potential solution within the Command Prompt.
@@ -90,17 +98,12 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 ![The Use a proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-use-a-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Reinstall the Microsoft Store
 
 ![An uninstall Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-apppackage-command.jpg)
@@ -110,37 +113,27 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  However, you cannot simply uninstall the Microsoft Store in Settings and download the app from a web source. Instead, you’ll need to remove that app and reinstall it again by inputting PowerShell commands. Our article about [how to reinstall Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes step-by-step instructions for applying this potential error 0x00000000 solution.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Set Up a New Windows User Account
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-account-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You might need to fix error 0x00000000 because of a corrupted user account. Setting up a fresh new user account would then be a probable fix. Note that you can create a new user account and transfer the data from the old one to it.
 
  Our guide on [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) explains how to apply such a potential resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Perform a Windows System Restore
 
  System Restore is a utility that saves Windows system snapshots. Those system snapshots, otherwise restore points, enable you to roll back Windows to the dates saved. Thus, System Restore is kind of like a time machine with which you can undo system changes applied after selected restore point dates.
@@ -152,23 +145,12 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-restore-window.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Do an In-Place Windows Upgrade
 
  An in-place upgrade effectively installs a new copy of Windows. That may sound like a drastic solution but applying it won’t affect user files or third-party software installed on your PC. Furthermore, upgrading Windows in such a way will probably fix any system issues causing error 0x00000000\.
@@ -177,18 +159,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![The Windows 11 setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Screenshot captured by Jack Slater - No attribution required
 
  To apply the same potential solution in Windows 10, click **Download tool now** on the [Microsoft Windows 10 download page](https://www.microsoft.com/en-gb/software-download/windows10).
@@ -201,11 +171,33 @@ Screenshot captured by Jack Slater - No attribution required
 
  Users can’t download new apps or updates from the Microsoft Store in Windows 11/10 because of error 0x00000000\. Thus, error 0x00000000 is a big deal for users who get most of their software from Microsoft’s storefront. This is how you can resolve Microsoft Store’s error x00000000 in Windows 11 and 10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/alert-intermittent-mouse-functionality-in-window-10/"><u>[Alert]: Intermittent Mouse Functionality in Window 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-directcapture-pro-windows-11-recording-made-simple/"><u>2024 Approved DirectCapture Pro - Windows 11 Recording Made Simple</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elite-quad-pack-of-superior-4k-video-gear/"><u>2024 Approved Elite Quad Pack of Superior 4K Video Gear</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/7-multimedia-cameras-for-quality-live-streams-and-video-blogs/"><u>Best 7 Multimedia Cameras For Quality Live Streams & Video Blogs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-windows-11-dns-cache-made-simple/"><u>Clearing Windows 11 DNS Cache Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-correcting-inefficient-defragmenter/"><u>Diagnosing and Correcting Inefficient Defragmenter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/google-or-windows-nearby-transfer-what-to-opt-for/"><u>Google or Windows Nearby Transfer: What to Opt For?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-succeed-resolving-install-failed-in-oculus-windows/"><u>How to Succeed: Resolving Install Failed in Oculus Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-2755e-driver-download-guide-compatible-with-all-windows-versions/"><u>HP Deskjet 2755E Driver Download Guide: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-c12-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nokia C12 Lock Screen Password?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimal-cloud-audio-devices/"><u>In 2024, Optimal Cloud Audio Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-error-resolution-0x800704b3-in-windows/"><u>Mastering Network Error Resolution: 0X800704B3 in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-xiaomi-redmi-note-13-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-qt-platform-plugin-not-loaded-failsafe/"><u>Overcoming 'Qt Platform Plugin Not Loaded' Failsafe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-downloads-that-just-wont-go/"><u>Overcoming Downloads that Just Won't Go</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-nubia-red-magic-9-pro-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Nubia Red Magic 9 Pro.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sony-bdp-s6500-review-updated-for-2024/"><u>Sony BDP-S6500 Review - Updated for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-functional-link-app-alerts-on-windows-pc/"><u>Troubleshooting Non-Functional Link App Alerts on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/usb-issues-troubleshooting-and-resolving-windows-problems/"><u>USB Issues? Troubleshooting & Resolving Windows Problems</u></a></li>
+</ul></div>
+

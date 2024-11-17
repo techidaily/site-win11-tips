@@ -1,7 +1,7 @@
 ---
 title: Solutions for Non-Detectable Razer Peripherals in Synapse & Windows
-date: 2024-09-01T05:15:49.366Z
-updated: 2024-09-02T05:15:49.366Z
+date: 2024-11-12T17:35:21.185Z
+updated: 2024-11-17T20:18:35.504Z
 tags:
   - windows10
   - windows11
@@ -42,8 +42,12 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 7. Select**Apply this fix** for resolutions the troubleshooter suggests.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Plug the Razer Device into an Alternative USB Port
 
  This issue can occur because of USB port connection issues. Some users have revealed that plugging Razer devices into different USB ports on their PCs resolved the issue of synapse not detecting them. So, try unplugging your Razer device and plugging it into an alternative USB port. Also, plug the device directly into your PC without using any intermediary USB hubs.
@@ -51,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
  It’s also recommended to select a**Remove device** option in Settings before plugging your device into another port. To do that, press the**Windows** logo +**I** key, select**Bluetooth and devices** , and click**View more** **devices** . Then click the three-dot button for your Razer hardware and select**Remove device** . In Windows 10’s Settings app, you can select a Razer peripheral on the**Bluetooth & other devices** tab and press**Remove device** .
 
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-device-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Select Synapse’s Repair Option
 
@@ -61,19 +72,10 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 3. Click the**Change** button for Razer Synapse.  
 ![The Change button for Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-button.jpg)
 4. Select the**Repair** option in the window that opens.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-button.jpg)
 5. Sign back into Razer Synapse after selecting**Repair** .
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Then select**Restart** in Windows 11/10 before launching Synapse.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reinstall Razer Synapse
 
  Corrupted or missing Synapse modules can cause the issue of Synapse not detecting Razer devices. So, thoroughly uninstalling Synapse by erasing leftover data and reinstalling the software will often resolve that issue. Reinstall Razer Synapse as follows:
@@ -96,14 +98,25 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 
 ![The ProgramData > Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-subfolder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Repeat steps eight and nine to delete all files in the Razer directories folder. Once done, restart your PC.
 
 1. Click**Download Now** on the[Razer Synapse](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2022703&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Fsynapse-3) page.
 2. Double-click the downloaded**RazerSynapseInstaller\_V1.12.0.385.exe** file to open the setup wizard.  
 ![The Razer software installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-installer.jpg)
 3. Select the**Synapse** checkbox along with other Razer software to reinstall, and click the**Install** option.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Mouse and Keyboard Device Drivers
@@ -119,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 6. Then double-click the**Keyboards** category.  
 ![The Keyboards device category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboards-category.jpg)
 7. Uninstall all Razer and HID keyboard devices listed there as outlined in step four.
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Reboot the Windows PC for the automatic reinstallation of device drivers. You can also select**Action** and**Scan for hardware changes** in Device Manager to reinstall uninstalled peripherals.
 
 ## 6\. Disable Antivirus Utilities
@@ -131,9 +141,20 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 ![Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the[exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Configure Your Razer Devices in Synapse Again on Windows
 
@@ -145,8 +166,6 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +173,23 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-efficient-techniques-to-solve-w10s-photo-viewer-errors/"><u>[New] 2024 Approved Efficient Techniques to Solve W10's Photo Viewer Errors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-expedite-channel-growth-surpass-the-10k-view-threshold-now/"><u>[New] Expedite Channel Growth Surpass the 10K View Threshold Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-download-free-mcb-skin-designs-for-2024/"><u>[Updated] Download Free MCB Skin Designs for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitreact-wisdom-a-complete-reference-book/"><u>[Updated] In 2024, TwitReact Wisdom A Complete Reference Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciding-on-nearby-networking-software-tech-giants-compared/"><u>Deciding on Nearby Networking Software: Tech Giants Compared</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-illusions-shaping-your-pics/"><u>Digital Illusions Shaping Your Pics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-null-audio-device-issue-in-win-10/"><u>How To Fix Null Audio Device Issue in Win 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-v30-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo V30 Phones? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-verbal-interface-the-windows-11-way/"><u>Mastering Verbal Interface: The Windows 11 Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-fatal-error-unraveling-0x800f0831/"><u>Navigating Through Fatal Error: Unraveling 0X800f0831</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-lost-wi-fi-link-on-windows-device/"><u>Restoring Lost Wi-Fi Link on Windows Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-unblocking-device-after-error-code-22-on-windows-11/"><u>Solutions for Unblocking Device After Error Code 22 on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-isnt-my-laptop-mic-working-expert-tips-and-tricks/"><u>Solved: Why Isn't My Laptop Mic Working? – Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-to-get-your-astro-headset-recognized-by-command-center/"><u>Step-by-Step Guide to Get Your Astro Headset Recognized by Command Center</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/transform-your-live-broadcasting-skills-using-dslr-on-personal-computers/"><u>Transform Your Live Broadcasting Skills Using DSLR on Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/updating-the-password-policys-lockout-threshold-post-failed-logins/"><u>Updating the Password Policy's Lockout Threshold Post-Failed Logins</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimizing File Sharing Between Two Computers with AOEMi
-date: 2024-11-02T18:51:26.930Z
-updated: 2024-11-07T02:19:41.257Z
+date: 2024-11-13T17:30:39.019Z
+updated: 2024-11-17T19:03:13.002Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 
 ![AOMEI Home Screen UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Home-Screen-UI.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up AOMEI Basic Sync
 
  An AOMEI basic sync allows you to easily sync changed files from a given source directory to the destination directory.
@@ -42,20 +49,29 @@ To perform a basic sync:
 3. Specify a source folder by clicking the**Add Folder** button.  
 ![AOMEI Add Source Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Add-Source-Folder.jpg)
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)  
  For a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![AOMEI Folder Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Folder-Share.jpg)
 6. You can also click**Options** to configure various settings for your backup such as email notifications, comments, pre- and post-backup scripts to be run as well as options to sync deletions between the source and destination directories.
 7. You can click on**Schedule Sync** to set the backup as a scheduled task to be run whenever you desire.  
 ![AOMEI Schedule Sync](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Schedule-Sync.jpg)
 8. Finally, click**Start Sync** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Two-Way Sync
 
@@ -72,16 +88,10 @@ To perform a two-way sync:
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.  
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
@@ -99,22 +109,16 @@ Then let's manually run the sync operation.
 
 ![Two Way Sync Manual Operation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Two-Way-Sync-Manual-Operation.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Within a few seconds, our file appears in the destination folder.
 
 ![AOMEI Sync Test Result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Sync-Test-Result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Real-Time Sync
 
@@ -130,24 +134,10 @@ Within a few seconds, our file appears in the destination folder.
 ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
 5. Once again, for a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. You have the same options as before to create a scheduled sync or set up email notifications, comments, or scripts.
 7. Select**Start Sync** .
 
  Now, whenever changes are detected in the source directory they will carry over to the destination folder almost instantly. Note the time stamps of the New Bitmap Images in our test below. It's probably also worth mentioning at this point, that if you are constantly dealing with very large files, due to the nature of real-time sync, it may not be the optimal solution. You would probably be better off sticking with a basic sync or two-way sync instead.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AOMEI Has Your Sync Solutions Sorted
 
@@ -168,21 +158,20 @@ Within a few seconds, our file appears in the destination folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-accelerating-ar-development-leveraging-custom-luts/"><u>[New] 2024 Approved Accelerating AR Development Leveraging Custom LUTs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-high-quality-sound-memos/"><u>[New] Expert Tips for High-Quality Sound Memos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-video-merging/"><u>[Updated] Mastering YouTube Video Merging</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-professional-photographers-pick-of-edits-for-2024/"><u>[Updated] Professional Photographers' Pick of Edits for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bf-price-war-save-612-on-endless-win10-lifetime-life/"><u>BF Price War: Save $6.12 on Endless Win10 Lifetime Life</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-the-loop-of-0xf0831-error-in-win11-os/"><u>Breaking the Loop of 0XF0831 Error in Win11 OS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/hacking-facebook-fast-profile-discovery-methods/"><u>Hacking Facebook Fast Profile Discovery Methods</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-20-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark 20 Pro Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-error-code-0xc00000f-strategies-for-success/"><u>Mastery over Windows Error Code 0Xc00000f: Strategies for Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-hidden-paths-of-window-menus-on-pc/"><u>Navigating the Hidden Paths of Window Menus on PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/professional-techniques-for-webcam-integration-and-capture/"><u>Professional Techniques for WebCam Integration & Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-gmaps-windows-pc-guide/"><u>Setting Up GMaps: Windows PC Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-synapse-unidentified-razer-peripherals-on-win-11/"><u>Troubleshooting Synapse: Unidentified Razer Peripherals on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-windows-settings-dim-display/"><u>Unveiling the Secrets of Windows Settings: 'Dim Display'</u></a></li>
-<li><a href="https://win-able.techidaily.com/wwe-2k22-pc-version-why-is-it-continuously-freezing-troubleshooting-tips/"><u>WWE 2K22 PC Version: Why Is It Continuously Freezing? - Troubleshooting Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-revolutionize-your-instagram-content-with-these-4-loopy-techniques-for-2024/"><u>[New] Revolutionize Your Instagram Content with These 4 Loopy Techniques for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-optimizing-video-playback-with-pip-on-safari-devices/"><u>[Updated] 2024 Approved Optimizing Video Playback with PIP on Safari Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-streamlining-media-with-apple-music-and-video-mixes/"><u>2024 Approved Streamlining Media with Apple Music & Video Mixes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/webcams-for-youtube-livestreaming-for-2024/"><u>Best Webcams for YouTube Livestreaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beware-deception-secrets-to-identifying-genuine-windows-store-apps/"><u>Beware Deception: Secrets to Identifying Genuine Windows Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-outlook-crashed-with-simple-solutions-windows-edition/"><u>Conquering Outlook Crashed with Simple Solutions, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-system-integration-windows-plus-kali-linux-setup/"><u>Conquering System Integration: Windows + Kali Linux Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-broken-enter-button-on-pc/"><u>Fixing Broken Enter Button on PC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/galactic-repository-gateway-cosmic-recovery-hub/"><u>Galactic Repository Gateway - Cosmic Recovery Hub</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reappearing-act-steps-to-fix-a-hidden-wi-fi-connection-problem/"><u>Reappearing Act: Steps to Fix a Hidden Wi-Fi Connection Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silence-missed-specification-alert-on-windows-11/"><u>Silence Missed Specification Alert on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/terrifying-realities-in-metas-media-empire/"><u>Terrifying Realities in Meta’s Media Empire</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-10-finest-no-cost-software-for-cutting-edge-podcast-recordings/"><u>Updated In 2024, The 10 Finest No-Cost Software for Cutting-Edge Podcast Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winfixing-comprehensive-steps-for-repairing-windows-filesystem-issues/"><u>Winfixing: Comprehensive Steps for Repairing Windows Filesystem Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-mediatrans-guide-complete-step-by-step-instructions-for-effortless-music-video-and-photo-conversions/"><u>WinX MediaTrans Guide: Complete Step-by-Step Instructions for Effortless Music, Video & Photo Conversions</u></a></li>
 </ul></div>
 

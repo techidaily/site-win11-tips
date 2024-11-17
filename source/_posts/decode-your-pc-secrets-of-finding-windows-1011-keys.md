@@ -1,7 +1,7 @@
 ---
 title: "Decode Your PC: Secrets of Finding Windows 10/11 Keys"
-date: 2024-09-01T05:17:03.440Z
-updated: 2024-09-02T05:17:03.440Z
+date: 2024-11-10T20:11:15.155Z
+updated: 2024-11-17T16:54:06.317Z
 tags:
   - windows10
   - windows11
@@ -44,15 +44,29 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
  Note that each edition of Windows uses its own unique product key. For example, if you have a license for the Windows 11/10 Home edition, you cannot use it to activate Windows Pro or other editions.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. How to Find Your Windows 11/10 Product Key Using the Command Prompt
 
 ![Command Prompt window running the wmic path SoftwareLicensingService get OA3xOriginalProductKey command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/command-prompt-windows-11-product-key.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can use the ever-trustworthy Command Prompt to find the product key for your copy of Windows. Here’s how to do it:
 
 1. Press **Win + S** on your keyboard to openthe search field on the Start menu.
@@ -68,9 +82,12 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 ![PowerShell console running the command to find Windows 11 and 10 product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/powershell-windows-11-product-key.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You also use PowerShell and the WMI cmdlet to find and display your Windows 11 or 10 product key. Here’s how to do this:
 
 1. Press the **Window** key and type **powershell**.
@@ -79,13 +96,17 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 `(Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey`
 4. The command may take a few seconds to execute. Upon successful execution, it will display the product key for your copy of Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use a Third-Party Tool to Find Your Windows 11/10 Product Key
 
 ![showkeyplus tool showing the retrieved Windows product information.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/showkeyplus-tool-find-product-key.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you would rather avoid the hassle of typing commands or running scripts, third-party tools like ShowKeyPlus can help you find the Windows activation code with a few clicks. You can download this app from the Microsoft Store to retrieve Windows product key information. Here’s how:
 
 1. Visit the Microsoft Store page for [ShowKeyPlus](https://apps.microsoft.com/detail/9PKVZCPRX9NV) and install the app.
@@ -100,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 
  As another option, look for physical stickers on your computer with information related to your computer hardware and software configuration. These may also include the Windows product key or other necessary details to help you locate it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Contact Microsoft Support
 
  If all else fails, try contacting Microsoft support for assistance. You can ask for a callback using the **Get Help** app on your computer:
@@ -107,22 +135,14 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 1. Press **Win + I** to open **Settings**.  
 ![Windows 11 Settings app showing the activation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-activation-shown.jpg)
 2. Open the **System** tab and click on **Activation.**  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 11 Settings app activation screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-activation-screen.jpg)
 3. Click **Get Help.**  
 ![Windows 11 get help app showing the Contact Support option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-get-help-app-contact-support-option.jpg)
 4. Click **Contact Support** and then choose the product.  
 ![Windows 11 get help choose products and services screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-get-help-choose-products-and-services-screen.jpg)
 5. Click on **Provide your phone number and the support agent will call you** and follow on-screen instructions.
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
  In Windows 10 and 11, Microsoft has streamlined the license activation process. Irrespective of how you got your license, once activated, the product key is tied to your system hardware. Whether you upgrade to the next version or clean install the OS, Windows should automatically detect and verify the ownership.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +150,23 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-tutorial-on-vlcs-automatic-screen-recorder/"><u>[Updated] 2024 Approved Tutorial on VLC's Automatic Screen Recorder</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-master-the-art-of-archiving-with-these-13-key-techniques-for-2024/"><u>[Updated] Master the Art of Archiving with These 13 Key Techniques for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1725290260838-cddvd/"><u>如何用速度和效率将CD/DVD图像移动到你的计算机存储设备</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-soon-to-expire-license-warning-on-windows-1011/"><u>Circumventing Soon to Expire License Warning on Windows 10/11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/football-manager-2021-launch-failures-effective-solutions-to-fix-stuck-screen-issues-quickly/"><u>Football Manager 2021 Launch Failures – Effective Solutions to Fix Stuck Screen Issues Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-back-to-gaming-solve-your-xbox-pc-problems/"><u>Get Back to Gaming: Solve Your Xbox PC Problems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-se-2020-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone SE (2020) Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shoot-in-slow-motion-essential-gopro-hero-10-techniques/"><u>In 2024, Shoot in Slow Motion Essential GoPro Hero 10 Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-languages-effortlessly-with-windows-keystrokes-shortcuts/"><u>Master Languages Effortlessly with Windows Keystrokes Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-addressing-windows-np-errors-immedirancy/"><u>Quick Guide: Addressing Windows NP Errors Immedirancy</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-low-brightness-lenovo-screens/"><u>Rectifying Low-Brightness Lenovo Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remodel-retro-videos-the-ultimate-guide-to-windows-madvr-techniques/"><u>Remodel Retro Videos: The Ultimate Guide to Windows MadVR Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-fixed-intel-unison-on-win11/"><u>Step-by-Step Guide to Fixed Intel Unison on Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/viewsense-capture-report-summary/"><u>ViewSense Capture Report Summary</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-essential-guide-to-the-hottest-lgbtqplus-shows-on-netflix-in-july-2024/"><u>Your Essential Guide to the Hottest LGBTQ+ Shows on Netflix in July 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Tips for Using the Windows 11 Home Feature
-date: 2024-11-02T02:39:09.554Z
-updated: 2024-11-06T22:49:21.594Z
+date: 2024-11-14T18:17:42.834Z
+updated: 2024-11-17T19:28:43.462Z
 tags:
   - windows10
   - windows11
@@ -35,22 +35,15 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 
  The new Home section brings all the common settings under one roof, so the users don't have to dive deep into the Settings app to change a network or personalization setting.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable the Home Section in the Settings App
 
  Repeat the following steps to enable and use the Home section in the Settings App:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Download the Latest Insider Build and ViveTool
@@ -74,11 +67,26 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 5. Type **vivetool** and press the **Enter** key to check if the tool runs perfectly or not.  
 ![Enable the New Home Section in the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app.jpg)
 6. Now, type the following commands and press the **Enter** key to execute them one by one:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `vivetool /enable /id:42058345  
 vivetool /enable /id:42058313`
 7. **Close** the Command Prompt window.  
 ![Enable the New Home Section in the Settings App 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app-2-1.jpg)
 8. **Restart** your PC to apply the changes made by the Vivetool in the Settings app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does the Enhanced Settings App Look Like?
 
@@ -88,52 +96,26 @@ vivetool /enable /id:42058313`
 
 ![New and old settings app side by side-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-and-old-settings-app-side-by-side-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Below that, there is a card that displays the recommended settings. You also get a bird’s eye view of the total available storage space in your Outlook account. There’s also a much-needed personalization card that you can use to change the themes and color mode of your Windows PC.
 
  If you haven’t completed a crucial security setup for your Microsoft account, you will see a reminder on the Home Page. Apart from that, Microsoft brazenly promotes its Microsoft service as a separate card. You cannot rearrange or remove tiles, so you are stuck with the layout and the promotional stuff from Microsoft.
 
 ![New home section in the settings app-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-home-section-in-the-settings-app-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Still, it is a much-needed overhaul from the existing Settings app, which will improve the overall user experience. Microsoft is also trying out a Home section in the File Explorer app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Revamped Settings App on Windows
 
  Microsoft’s take on the new Home section in the Settings app is a change we would definitely want to see in the stable builds in the upcoming months. But there are major changes arriving to the File Explorer and other Windows apps like the Photos app which recently got an update to support the dark mode and some zoom and usability improvements.
 
  However, it isn't just a cosmetic change because many utilities and Control Panel items are migrated to the Settings app. Microsoft also released a different version of the Settings app which incorporates a new Home section and a layout that will help you access the most commonly used settings. Let’s learn how to enable it on your PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-engagement-finding-your-youtube-segment/"><u>[New] In 2024, Elevating Engagement Finding Your YouTube Segment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-missing-taskbar-notifications-in-windows/"><u>Fixing Missing Taskbar Notifications in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-proplus-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 Pro+ 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-oculus-drivers-for-seamless-experience-on-all-windows-systems-including-111087/"><u>How To Update Your Oculus Drivers for Seamless Experience on All Windows Systems Including 11/10/8/7</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-honor-90-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Honor 90 Pro Through Google Earth?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/investigating-the-silence-of-non-suggestive-video-content-on-fb/"><u>Investigating the Silence of Non-Suggestive Video Content on FB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-correction-of-error-1132-in-windows-11/"><u>Mastering the Correction of Error 1132 in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-game-pass-error-0x800700e9-on-windows-11/"><u>Overcoming Xbox Game Pass Error: 0X800700E9 on Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/simple-solutions-quick-guide-on-resolving-fifa-19s-directx-issue/"><u>Simple Solutions: Quick Guide on Resolving FIFA 19'S DirectX Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tutorial-implementing-microsoft-copilot-in-your-windows-workspace/"><u>Tutorial: Implementing Microsoft Copilot in Your Windows Workspace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-third-party-av-solutions-amidst-microsoft-guard/"><u>Unlocking Third-Party AV Solutions Amidst Microsoft Guard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-full-potential-without-tpm/"><u>Unlocking Windows 11'S Full Potential without TPM</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-from-still-to-stunning-how-to-use-ken-burns-effect-in-final-cut-pro-for-maximum-impact-for-2024/"><u>Updated From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-custom-inactive-period-setting/"><u>Windows: Custom Inactive Period Setting</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -142,3 +124,25 @@ vivetool /enable /id:42058313`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-affordable-hardware-achieve-peak-via-obs-tuning-for-2024/"><u>[New] Affordable Hardware - Achieve Peak via OBS Tuning for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-capacity-of-64128gb-in-video-storage-an-overview/"><u>[Updated] 2024 Approved Capacity of 64/128GB in Video Storage - An Overview</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-downgrade-or-rollback-the-macos-sierra-to-os-x-el-capitan/"><u>[Updated] In 2024, How To Downgrade Or Rollback The macOs Sierra To Os X El Capitan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-index-performance-on-your-pc/"><u>Enhancing Index Performance on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insights-into-utilizing-dism-for-win11-fixes/"><u>Expert Insights Into Utilizing Dism for Win11 Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-photography-simplified-adopt-these-10-easy-rules/"><u>In 2024, IPhone Photography Simplified Adopt These 10 Easy Rules</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-apex-servers-on-pc-7-ways-to-fix-no-server-errors-(156-chars/"><u>Mastering Apex Servers on PC: 7 Ways to Fix 'No Server' Errors (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-11-search-quick-fixes-to-follow/"><u>Mastery of Windows 11 Search: Quick Fixes to Follow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-widespread-connectivity-problem-in-steam-windows-11/"><u>Resolving Widespread Connectivity Problem in Steam Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-system-space-essential-windows-extras-for-elimination/"><u>Revamp Your System Space: Essential Windows Extras for Elimination</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/revolutionizing-action-video-with-polaroid-xs-100i/"><u>Revolutionizing Action Video with Polaroid XS 100I</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-troubleshooting-windows-1011-file-issues/"><u>Strategies for Troubleshooting Windows 10/11 File Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-tools-focused-uninstall-strategies-for-windows-1011/"><u>Tailored Tools: Focused Uninstall Strategies for Windows 10/11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-media-with-winxvideos-fast-gpu-based-video-and-audio-editing-tools/"><u>Transform Your Media with WinxVideo's Fast GPU-Based Video & Audio Editing Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-frozen-opera-downloads-in-windows-sphere/"><u>Unlock Frozen Opera Downloads in Windows Sphere</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211058844-9781734378337-unlocking-the-ancient-secrets-to-healing/"><u>Unlocking the Ancient Secrets to Healing | Free Book</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-converting-videos-to-live-photos-on-mobile/"><u>Updated 2024 Approved The Ultimate Guide to Converting Videos to Live Photos on Mobile</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unzipping Files Proficiently Using PowerShell Commands
-date: 2024-11-03T18:30:17.234Z
-updated: 2024-11-07T02:27:14.157Z
+date: 2024-11-16T18:13:35.962Z
+updated: 2024-11-17T19:14:48.728Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,13 @@ Here's how to zip files using Windows PowerShell:
 `Compress-Archive -LiteralPath 'file destination\file name' -DestinationPath 'target location\destination name'`  
 ![Zipping command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to zip multiple files, execute the following command. Replace**file destination** and**file destination 1** with the location of the first and second files, respectively. And replace**file name** and**file name 2** with the first and second file names.
 
 `Compress-Archive -LiteralPath 'file destination\file name', 'file destination 1\file name 2 -DestinationPath 'target location\destination name'  
@@ -64,17 +71,17 @@ Here's how to zip files using Windows PowerShell:
 ![Zipping 2 files at once](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Unzip Files Using Command Prompt
@@ -87,21 +94,7 @@ Here's how to zip files using Windows PowerShell:
 `tar -xf Name.zip`  
 ![Unzipping file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You've successfully unzipped the file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Unzip Files Using Windows PowerShell
 
@@ -111,6 +104,13 @@ You've successfully unzipped the file.
 2. Type the following command and press**Enter** . Make sure to replace <**file** **destination** \> and <**target** **location** \> with the location of the zip file and the place where you want the file to be unzipped, respectively.  
 `Expand-Archive -LiteralPath <file destination> -DestinationPath <target location>`  
 ![Unzipping file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Save Up Space on Windows 11 by Zipping Your Files
 
@@ -133,22 +133,19 @@ You've successfully unzipped the file.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-explore-top-rated-windows-10-video-capture-software/"><u>[New] 2024 Approved Explore Top-Rated Windows 10 Video Capture Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-vlc-features-in-mac-os/"><u>[New] The Ultimate Guide to VLC Features in Mac OS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-stepwise-approach-to-mastering-vimeo-recording/"><u>2024 Approved Stepwise Approach to Mastering Vimeo Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-straightforward-approach-to-discovering-ram-in-windows/"><u>A Straightforward Approach to Discovering RAM in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-boot-efficiency-with-windows-11-programs/"><u>Boosting Boot Efficiency with Windows 11 Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719373707174-check-physical-connections-make-sure-cables-are-firmly-connected-if-you-have-external-monitors-or-projectors-with-separate-brightness-controls/"><u>Check Physical Connections: Make Sure Cables Are Firmly Connected if You Have External Monitors or Projectors with Separate Brightness Controls.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compute-discerning-window-systems-origins/"><u>Compute: Discerning Window Systems' Origins</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-a59-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo A59 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a23-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A23 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-restrictions-and-unlocking-full-ram-potential/"><u>Overcoming Restrictions and Unlocking Full RAM Potential</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/perfecting-videos-a-premier-editor-for-vimeo-professionals-for-2024/"><u>Perfecting Videos A Premier Editor for Vimeo Professionals for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-resolving-unreachable-device-error-on-pc/"><u>Quick Guide: Resolving Unreachable Device Error on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-pc-gaming-with-yuzu-on-windows/"><u>Skyrocket PC Gaming with Yuzu on Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-orbi-mesh-router-analysis-ultimate-guide-to-the-finest-wireless-range-extender/"><u>Top Orbi Mesh Router Analysis: Ultimate Guide to the Finest Wireless Range Extender</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-your-content-simple-steps-to-change-numbers-on-tiktok/"><u>Transform Your Content Simple Steps to Change Numbers on TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-microphone-issues-live-recording-fixes-in-obs-w11/"><u>Troubleshooting Microphone Issues: Live Recording Fixes in OBS, W11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-maximizing-memories-techniques-for-gameplay-recording-for-2024/"><u>[New] Maximizing Memories Techniques for Gameplay Recording for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-rising-above-the-crowd-trending-techniques-for-youtubers/"><u>[Updated] 2024 Approved Rising Above the Crowd Trending Techniques for YouTubers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-tips-rotate-and-flip-iphone-imagery/"><u>2024 Approved Professional Tips Rotate and Flip iPhone Imagery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unraveling-time-reverse-video-on-instagram-secrets/"><u>2024 Approved Unraveling Time Reverse Video on Instagram Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-a-convenient-upgrade-notification-toolbar-in-windows-1111/"><u>Adding a Convenient Upgrade Notification Toolbar in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-tutorial-making-sense-of-blue-screen-in-w11/"><u>Comprehensive Tutorial: Making Sense of Blue Screen in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-winning-software-for-the-ultimate-pc/"><u>Discover Winning Software for the Ultimate PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-12-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi 12 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-taming-darkness-for-a-bright-youtube-experience/"><u>In 2024, Taming Darkness for a Bright YouTube Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-pc-chips-identifying-gen-through-windows-8-ways/"><u>Navigating the World of PC Chips – Identifying Gen Through Windows (8 Ways)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-power-user-master-40-time-saving-shortcuts/"><u>New In 2024, Final Cut Pro X Power User Master 40 Time-Saving Shortcuts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-guide-best-android-video-editor-apps-for-chromebook/"><u>New In 2024, The Ultimate Guide Best Android Video Editor Apps for Chromebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-toggle-smartscreen-filters-in-windows-11/"><u>Steps to Toggle SmartScreen Filters in Windows 11</u></a></li>
 </ul></div>
 

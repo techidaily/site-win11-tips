@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Crafting Stunning Slideshows & Fixes in Windows 11 Photo App
-date: 2024-11-01T10:44:43.191Z
-updated: 2024-11-06T18:18:40.627Z
+date: 2024-11-15T16:24:04.412Z
+updated: 2024-11-17T19:07:57.702Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
  The updated Photos app also supports the option to switch the slideshow to windowed mode. It means that you can drag and resize the slideshow window and continue running it in one section of your display.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Update the Photos App
 
  All the new features are available with the Photos app version number **2023.11050.2013.0** or higher. At the time of writing, this is only available for Windows Insiders. If you're not an Insider, you can still [download the Windows 11 Insider ISO without joining the Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/).
@@ -51,16 +44,10 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 ![Download Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the Slideshow Feature in the Photos App
@@ -70,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 ![Start Slideshow in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-slideshow-in-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The slideshow will continue playing in the background even if you click on the music icon. You can press the **Spacebar** or click on the **Pause** icon to stop it.
@@ -91,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Spot Fix Feature?
@@ -111,18 +98,18 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
 ![Spotfix feature in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We tried deleting some taskbar icons from an image and the tool worked perfectly. But it also struggled in some areas, where transparency effects were in action. However, with a real-world image of an ice cream cone the tool somewhat struggled to do a convincing spot fix. So, the end result depends on the number of objects, shapes, patterns, and colors in an image.
 
 ![Spotfix feature in Photos App 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app-2.jpg)
 
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Improvements in the Photos App
 
@@ -132,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
 
 ## A Much-Needed Overhaul for Photos on Windows 11
@@ -140,23 +134,6 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-a-comprehensive-guide-to-producing-engaging-subtitles-and-captions-for-fb-for-2024/"><u>[New] A Comprehensive Guide to Producing Engaging Subtitles and Captions for FB for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-navigating-win11-like-a-pro-your-guidebook/"><u>[New] Navigating Win11 Like a Pro - Your Guidebook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-visualloger-12-professional/"><u>[Updated] 2024 Approved VisualLoger 12 Professional</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-best-practices-to-avoid-missed-frames-during-video-capture-for-2024/"><u>[Updated] Best Practices to Avoid Missed Frames During Video Capture for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevating-engagement-with-innovative-techniques-in-fb-lives/"><u>[Updated] In 2024, Elevating Engagement with Innovative Techniques in FB Lives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directly-engage-with-images-in-windows-explorer/"><u>Directly Engage with Images in Windows Explorer</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/keep-it-confidential-top-privacy-blunders-to-escape-on-social-media/"><u>Keep It Confidential! Top Privacy Blunders to Escape on Social Media</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-explorer-onedrive-as-a-launchpad/"><u>Mastering File Explorer: OneDrive as a Launchpad</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/utionize-your-content-with-innovative-tagging-approaches/"><u>Revolutionize Your Content with Innovative Tagging Approaches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-no-write-error-a-guide-for-windows-users/"><u>Tackling the No Write Error: A Guide for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-unraveling-dark-tales-through-these-13-true-crime-audio-dramas/"><u>The Ultimate List: Unraveling Dark Tales Through These 13 True Crime Audio Dramas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-freezes-in-apex-legends/"><u>Winning the Battle Against Freezes in Apex Legends</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -164,3 +141,25 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-6-youtuber-quizzes-to-know-which-youtuber-you-are-for-2024/"><u>[New] 6 YouTuber Quizzes to Know Which YouTuber You Are for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-extensive-appraisal-the-essence-of-hero4-black-for-2024/"><u>[New] Extensive Appraisal The Essence of Hero4 Black for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamlining-capture-procedures-with-adobe-presenter/"><u>[Updated] 2024 Approved Streamlining Capture Procedures with Adobe Presenter</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-7-headset-quiet-down-hacks-stop-the-crackle-and-pop-on-your-windows-machine/"><u>Arctis 7 Headset Quiet Down Hacks: Stop the Crackle & Pop on Your Windows Machine</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/beauty-blogging-beginnings-crafting-a-captivating-youtube-channel-for-2024/"><u>Beauty Blogging Beginnings Crafting a Captivating YouTube Channel for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-exception-interrupted-glitches-in-windows-systems/"><u>Combat 'Exception Interrupted' Glitches in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-batch-script-execution-power/"><u>Elevate Your Batch Script Execution Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-full-screen-freezes-in-sonic-on-w11/"><u>Eliminating Full-Screen Freezes in Sonic on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-friendly-forecast-tools/"><u>Essential Windows-Friendly Forecast Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-troubleshooting-counter-strike-2-desktop-issues/"><u>Expert Tips for Troubleshooting Counter-Strike 2 Desktop Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-edge-always-active-on-windows-11-guide/"><u>Is Edge Always Active on Windows 11? Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/office-integration-a-concise-guide-to-windows-1011/"><u>Office Integration: A Concise Guide to Windows 10/11</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oppo-k11x-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Oppo K11x IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultra-quick-turn-off-windows-11-dings/"><u>Ultra-Quick Turn Off Windows 11 Dings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719283991472-update-windows-11-ensure-your-system-is-up-to-date-for-any-built-in-improvements-and-fixes-regarding-display-settings/"><u>Update Windows 11: Ensure Your System Is up to Date for Any Built-In Improvements and Fixes Regarding Display Settings.</u></a></li>
+</ul></div>
+

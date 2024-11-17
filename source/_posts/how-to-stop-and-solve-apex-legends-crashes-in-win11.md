@@ -1,7 +1,7 @@
 ---
 title: How to Stop and Solve Apex Legends Crashes in Win11
-date: 2024-09-01T05:17:47.231Z
-updated: 2024-09-02T05:17:47.231Z
+date: 2024-11-15T20:07:35.176Z
+updated: 2024-11-17T18:51:49.393Z
 tags:
   - windows10
   - windows11
@@ -38,15 +38,19 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![End task option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Looking at the taskbar, you might feel that your computer has no applications open, but there may be plenty running in the background. Google Chrome, Microsoft Teams, and your graphics card software are some of the many programs that start running as soon as you boot your computer.
 
  If there are plenty of such applications running in the background, then your system becomes prone to connectivity and crashing issues. The solution here is simple -- close as many background apps as possible before launching Apex Legends.
 
  To do this, open the Task Manager, right-click on all unnecessary background applications and choose**End Task** . You can also[stop these programs from launching on boot in Windows 11](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Is Your CPU Overclocked?
 
  Overclocking your CPU is one of the many things you can do to get a better gaming performance on your computer.[CPU overclocking](https://www.makeuseof.com/tag/cpu-overclocking/) can do wonders, provided you offer good ventilation and cooling.
@@ -55,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
  So, to fix Apex Legends' crashing issue, consider disabling CPU overclocking, which will reset your processor to its default settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Change the EasyAntiCheat Priority
 
  EasyAntiCheat is an anti-cheat service that ensures your multiplayer game is free from hacking and cheating. But sometimes, this service can consider your computer background processes malicious and cause various issues, including a complete game crash.
@@ -66,18 +67,25 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![Settings EasyAntiCheat priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/easyanticheat-priority.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, switch to Apex Legends and check if you still experience the crash.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 4\. Tweak the In-Game Settings
 
 ![Apex Legends Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apex-legends-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  Apex Legends offers a plethora of graphics-related options that you can enable to enhance the look of the game. Some of these options are only compatible with high-spec devices.
 
  Somehow, if you manage to enable these options on a low-spec device, the game will become prone to crashing. So, if you have a low-end computer, ensure the game is running on low resolution, and all the optional features are disabled.
@@ -100,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
  These settings work well on most low-end devices. Still, you can play around with these settings till you get the best combination for your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check the Apex Legends Files for Corruption
 
  Apex Legends will likely crash on your computer if its files are corrupted. To detect and remove corruption, you'll have to verify the integrity of game files.
@@ -112,6 +117,13 @@ Here's how to do it in the EA app:
 1. Launch the EA app and choose**My Collection** from the left sidebar.
 2. Click the**three dots** on Apex Legends and choose**Repair.**  
 ![Repair option in the EA App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The EA app will now look for and remove any corruption in the Apex Legends files.
 
@@ -128,13 +140,17 @@ Here's how to do it in the EA app:
 ![Update Graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-driver.jpg)
 5. Select**Search automatically for drivers** option.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Device Manager will search for and download any available graphics driver update on your computer.
 
  Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on[how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Allow the Apex Legends Launcher Through the Windows Firewall
 
  Windows Defender Firewall might interfere with the Apex Legends launcher and cause it to crash. To stop this from happening, you'll have to allow the launcher to run through the Windows Defender Firewall. Here's how:
@@ -143,6 +159,14 @@ Here's how to do it in the EA app:
 2. Type**Allow an app through Windows Firewall** and choose**Open.**  
 ![Allow an app through Windows Firewall in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-an-app-through-windows-firewall.jpg)
 3. Click the**Change settings** option.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check both the**Private** and**Public** boxes of all the EA app services.  
 ![Allow EA Services through Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-ea-services.jpg)
 5. Click**OK.**
@@ -153,14 +177,11 @@ Here's how to do it in the EA app:
 
  Multiplayer games like Apex Legends are always prone to crashes. These crashes often result due to corruption in the game files or misconfigured in-game settings. Fortunately, you can use the above solutions to quickly troubleshoot the crashing issue for good.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +190,17 @@ Here's how to do it in the EA app:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ips-for-effortless-sharing-of-musical-selections/"><u>[New] Tips for Effortless Sharing of Musical Selections</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-enhancing-your-videos-step-by-step-for-ken-burns-effect-in-camtasa/"><u>[Updated] Enhancing Your Videos Step-by-Step for Ken Burns Effect in Camtasa</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>[Updated] In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-realme-note-50-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Realme Note 50.</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-fb-video-download-top-5-tools-list/"><u>In 2024, FB Video Download Top 5 Tools List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-11-clipchamp-setup-hurdles-effectively/"><u>Resolve Windows 11 ClipChamp Setup Hurdles Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-operational-functions-for-diagnostic-tools-in-winos/"><u>Streamlining Operational Functions for Diagnostic Tools in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-making-the-most-of-old-pc-on-win10/"><u>Tips for Making The Most of Old PC on Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-vectors-the-top-vm-picks-for-windows-11-pcs/"><u>Winning Vectors: The Top VM Picks for Windows 11 PCs</u></a></li>
+</ul></div>
 

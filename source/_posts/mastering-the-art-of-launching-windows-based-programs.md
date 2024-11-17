@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Launching Windows-Based Programs
-date: 2024-11-04T05:29:42.225Z
-updated: 2024-11-06T17:28:06.859Z
+date: 2024-11-14T19:33:04.213Z
+updated: 2024-11-17T19:28:29.151Z
 tags:
   - windows10
   - windows11
@@ -33,20 +33,33 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 2. Type the name of the app or program you want to open in the text box and press**Enter** .  
 ![Open Apps and Programs Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Open Apps and Programs Using Its EXE File
 
 ![Open Apps and Programs Using Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-desktop-shortcuts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you install an app or program on Windows, it often adds a shortcut to the EXE file on your desktop. This allows you to launch the app or program by double-clicking the shortcut.
 
  If the desktop shortcut isn't available, you can[find where the program is installed on Windows](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) and double-click on its EXE file to open it.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Open Programs With the Run Tool
 
@@ -57,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 ![Open Apps and Programs Using Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-run-dialog.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Open Programs via Task Manager
@@ -73,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 4. Click**OK** .  
 ![Open Apps and Programs Using Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-windows-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Open Apps and Programs via Command Prompt
 
  Command Prompt is a handy utility in Windows that allows you to automate tasks, troubleshoot[system files](https://www.makeuseof.com/windows-system-files-guide/) , and perform other administrative functions. But did you know you could also use it to launch apps on Windows? We'll show you how.
@@ -82,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 3. Type**cd <file path>** in the Command Prompt window, and hit**Enter** to navigate to the folder that contains the app you want to launch. Make sure you replace**<file path>** with the actual path of the program.
 4. Type**start <filename.exe>** and hit**Enter** to launch the app.  
 ![Open Apps and Programs Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. How to Open Programs With Keyboard Shortcuts
 
@@ -103,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 ![Open Apps and Programs Using Keyboard Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-keyboard-shortcuts.jpg)
 
  After that, you can quickly launch the app or program by pressing the assigned key combination.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Many Ways to Open Apps and Programs on Windows
 
@@ -130,18 +136,22 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-text-that-moves-two-fascinating-techniques-revealed/"><u>[New] Text That Moves Two Fascinating Techniques Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-nocturnal-nuances-expert-insights-into-nighttime-photography/"><u>[Updated] 2024 Approved Nocturnal Nuances Expert Insights Into Nighttime Photography</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>[Updated] Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-quick-walkthrough-on-windows-11-sound-settings-navigation/"><u>A Quick Walkthrough on Windows 11 Sound Settings Navigation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cortana-ends-new-windows-aid-emerges/"><u>Cortana Ends, New Windows Aid Emerges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-into-cmd-mastery-the-20-most-important-commands/"><u>Dive Into CMD Mastery: The 20 Most Important Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dxgidll-missing-heres-how-win11-can-help/"><u>Dxgi.dll Missing? Here's How Win11 Can Help</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-14-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 14 Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-exception-handling-breaking-point-solution/"><u>Mastering Windows Exception Handling: Breaking Point Solution</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-zte-nubia-z60-ultra-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock ZTE Nubia Z60 Ultra Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-guide-to-samsung-phone-footage-editing-techniques-for-smartphone-clips-on-pc-and-mobile/"><u>Ultimate Guide to Samsung Phone Footage: Editing Techniques for Smartphone Clips on PC and Mobile</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-comprehensive-guide-to-top-music-editing-applications-for-smartphone-users-ios-and-android-updated-for-2024/"><u>Updated Comprehensive Guide to Top Music Editing Applications for Smartphone Users (iOS & Android) - Updated for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-seamless-creation-at-your-fingertips-selecting-androids-top-editors/"><u>[Updated] Seamless Creation at Your Fingertips Selecting Android's Top Editors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastery-of-text-effects-best-practices-in-ae/"><u>2024 Approved Mastery of Text Effects Best Practices in AE</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unleashing-popularity-how-to-make-a-youtube-hit/"><u>2024 Approved Unleashing Popularity How to Make a YouTube Hit</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-windows-update-error-0x800f080a/"><u>6 Ways to Fix the Windows Update Error 0X800f080a</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-pathways-to-revitalize-a-dying-windows-services-console/"><u>7 Pathways to Revitalize a Dying Windows Services Console</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-optional-features-not-installing-on-windows-10-and-11/"><u>7 Ways to Fix Optional Features Not Installing on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-dive-into-modern-standby-and-its-problematic-aspects/"><u>A Dive Into Modern Standby and Its Problematic Aspects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-startup-manipulating-boot-timeout-on-windows-11/"><u>Accelerate Startup: Manipulating Boot Timeout on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-notepad-display-from-light-to-dark-in-win-11-version/"><u>Adapting Notepad Display: From Light to Dark in Win 11 Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-launch-problem-effective-solutions-and-tips-to-resolve-it/"><u>Alan Wake 2 Launch Problem: Effective Solutions and Tips to Resolve It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/are-your-windows-apps-struggling-to-connect-to-the-internet-try-these-fixes/"><u>Are Your Windows Apps Struggling to Connect to the Internet? Try These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-your-agenda-linking-to-do-to-ifttt/"><u>Automate Your Agenda: Linking To-Do to IFTTT</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-huawei-nova-y71-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Huawei Nova Y71 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spotlight-on-snapchat-a-users-handbook-for-highlights/"><u>In 2024, Spotlight on Snapchat A User's Handbook for Highlights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/set-up-efficient-live-conversations-on-pc-via-whatsapp-web/"><u>Set Up Efficient Live Conversations on PC via WhatsApp Web</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-iphones-unresponsive-email-functionality-essential-steps/"><u>Troubleshooting iPhone's Unresponsive Email Functionality: Essential Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Efficient PowerToys Setup in Win11"
-date: 2024-09-05T19:32:04.700Z
-updated: 2024-09-06T19:32:04.700Z
+date: 2024-11-14T16:18:45.979Z
+updated: 2024-11-17T17:59:37.712Z
 tags:
   - windows10
   - windows11
@@ -14,36 +14,12 @@ keywords: Win11 PowerSetup Guide,Efficient PowerToys Win11,Quick Win11 Configuri
 thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5ad463dfb82faf3689dc358c1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Guide: Efficient PowerToys Setup in Win11
 
  Microsoft PowerToys is a collection of productivity tools that enhance your Windows experience to the next level. This software package offers awesome features like FancyZones for custom window layouts, PowerRename for bulk file renaming, and the Shortcut Guide for easy access to Windows key shortcuts.
 
  To access these features, you need Microsoft PowerToys installed on your PC. Let's look at the different ways you can install it on your Windows computer and walk through the installation process for each.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Install Microsoft PowerToys From the Microsoft Store
 
  Microsoft Store is an online marketplace pre-installed on Windows. It offers a diverse array of free and paid apps, games, and even device updates, all in one place. This gives Windows users access to everything they need under one roof.
@@ -56,13 +32,14 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 4. If you feel satisfied, click **Install** to begin the downloading & installation process. The process might take a few minutes.  
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Install Microsoft PowerToys From the GitHub Page
 
@@ -74,29 +51,18 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 2. In the Releases section, click on the most recent stable version. It should be at the top and have the word **Latest** beside it.  
 ![Installing PowerToys From the GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-from-the-github-page.jpg)
 3. Now look for a file that is named something like **PowerToysSetup-0.##.#-x64.exe**. Here, the **#** represents the version number. Click on this file to start the download. After that, navigate to your downloads folder and double-click on it. This will start the installation process.
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. A window might pop up asking for permission to change your device. Click **Yes** to continue. The setup wizard will then open. Here, follow the installation prompts. Typically, you just need to click **Next** a few times and then **Install**.
 5. Once the installation process is completed, you'll be prompted to finish and exit the setup. Click **Finish**. You might be asked to agree to terms and conditions, choose an installation location, and decide whether you want a shortcut created.
 
  After performing the above procedure, you can access Microsoft PowerToys from the Start menu or the shortcut if you created one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Install Microsoft PowerToys Through the Command Prompt
 
  If you're comfortable using the command prompt, this might be the quickest and most efficient way to install Microsoft PowerToys.
@@ -110,14 +76,22 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 winget install --id Microsoft.PowerToys  
 ![Installing PowerToys Through Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-powertoys-through-command-prompt.jpg)
 5. Now hit Enter to execute the command. This will download and install Microsoft PowerToys.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Download Microsoft PowerToys Easily on Windows
 
@@ -127,11 +101,31 @@ winget install --id Microsoft.PowerToys
 
  To access these features, you need Microsoft PowerToys installed on your PC. Let's look at the different ways you can install it on your Windows computer and walk through the installation process for each.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-stunning-pixel-perfect-combinations/"><u>[New] The Ultimate Guide to Stunning Pixel-Perfect Combinations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-edit-like-a-championtop-strategies-for-beginner-youtubers/"><u>[Updated] 2024 Approved Edit Like a Champion—Top Strategies for Beginner YouTubers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/61521725-updated-2024-approved-your-marketing-journey-begins-here-experience-the-full-spectrum-of-over-50-free-ads/"><u>[Updated] 2024 Approved Your Marketing Journey Begins Here - Experience the Full Spectrum of Over 50 FREE Ads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-shorter-path-cutting-video-duration-on-youtube/"><u>2024 Approved The Shorter Path Cutting Video Duration on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-captcha-errors-on-steam-software/"><u>Correcting CAPTCHA Errors on Steam Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiency-at-your-fingertips-windows-command-shortcuts/"><u>Efficiency at Your Fingertips: Windows Command Shortcuts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-roblox-running-again-top-tips-for-overcoming-launch-errors/"><u>How to Get Roblox Running Again: Top Tips for Overcoming Launch Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-high-res-display-scaling-on-windows-1011/"><u>Navigating High-Res Display Scaling on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-pc-game-stability-solutions-to-code-1/"><u>Navigating PC Game Stability - Solutions to Code: 1</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-podcast-editing-101-how-to-edit-a-podcast/"><u>New In 2024, Podcast Editing 101 How to Edit a Podcast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-disable-pin-when-projecting-on-windows-11/"><u>Quick Tips: Disable PIN When Projecting on Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/real-time-engagement-tracker-for-2024/"><u>Real-Time Engagement Tracker for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solucion-inmediata-para-la-no-sincronizacion-de-onedrive-en-mac-un-guia-paso-a-paso/"><u>Solución Inmediata Para La No Sincronización De OneDrive en Mac: Un Guía Paso a Paso</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-winerror-0x80072f17-in-ms-store/"><u>Solving WinError: 0X80072f17 in MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-opening-excel-in-windows-notepad/"><u>Tips for Opening Excel in Windows Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-modifying-the-oss-delete-safeguard/"><u>Understanding & Modifying the OS's Delete Safeguard</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-the-utilization-of-comments-feature-in-aomei-backup-software/"><u>Understanding the Utilization of Comments Feature in AOMEI Backup Software</u></a></li>
+</ul></div>
+

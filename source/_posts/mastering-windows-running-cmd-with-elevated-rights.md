@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows: Running CMD with Elevated Rights"
-date: 2024-09-01T05:17:02.152Z
-updated: 2024-09-02T05:17:02.152Z
+date: 2024-11-16T17:56:37.646Z
+updated: 2024-11-17T19:14:52.898Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
  Once you've done that, Command Prompt will open with administrative privileges. From there, you can enter any commands you like; just keep in mind that they will have full system access, so use them wisely!
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Run Command Prompt as an Administrator Using the Run Dialog
 
  If you need to run Command Prompt as an administrator in Windows 11, you can do so by using the Run dialog box. The steps are as follows:
@@ -41,7 +48,21 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 ![Run Command Prompt Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Run-Command.jpg)
 3. This will open Command Prompt with administrative privileges. From here, you can enter any commands that you need to run.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need to close Command Prompt, simply type “exit” and press Enter on your keyboard. This will close the program and return you to the desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Run Command Prompt as an Administrator via the Quick Access Menu
 
@@ -53,14 +74,8 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 2. Then select **Terminal (Admin)** from the menu that appears.  
 ![Run Command Prompt Via Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Via-Quick-Access-Menu.jpg)
 3. If you see a User Account Control message, click **Yes**.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 4. Next, press **Ctrl + Shift + 2** to bring up the elevated Command Prompt page.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 4\. How to Run Command Prompt as an Administrator From the Start Menu
 
  This is one of the most popular methods of opening almost every Windows program. To open a command prompt with admin access, follow these steps:
@@ -72,13 +87,21 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 4. Now right-click on Command Prompt and select **Run as administrator**.  
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
 5. If UAC appears on the screen, click **Yes** to continue.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. How to Run Command Prompt as an Administrator Through Task Manager
 
  Task Manager is a tool that every Windows user should know about. It's a great way to see what programs are running on your computer and how many resources they're using at the same time. If you ever need to run a command prompt as an administrator, you can do so by opening Task Manager.
@@ -101,9 +124,6 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 4. Next, right-click on **Command Prompt** and select **Run as administrator**.  
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. How to Run Command Prompt as an Administrator Via File Explorer
 
  There is an address bar in the File Explorer window that can be used to open Command Prompt as an administrator. In order to do this, follow these steps:
@@ -114,9 +134,6 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 4. Once you find the executable file, right-click on it and select **Run as administrator**.  
 ![Open Command Prompt Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Command-Prompt-Via-File-Explorer.jpg)
 5. When UAC appears on the screen, click **Yes** to continue.
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. How to Run Command Prompt as an Administrator Using a Desktop Shortcut
 
@@ -136,9 +153,6 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
  Once you have finished, click **OK** and then **Apply**. Your shortcut is now ready for use.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 9\. How to Pin the Command Prompt to the Taskbar and Open It With Admin Rights
 
  If you're looking for a way to make your life a bit easier when it comes to using the Command Prompt, be sure to try out this method in Windows 11\.
@@ -147,14 +161,25 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 2. Right-click on Command Prompt and select **Pin to taskbar**.  
 ![Pin Command Prompt to taskbar tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Command-Prompt-to-taskbar-tray.jpg)
 3. Now go to the taskbar, and right-click on the Command Prompt icon.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Right-click on **Command Prompt** again and select **Run as administrator**.  
 ![Pin Command Prompt to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Command-Prompt-to-Taskbar.jpg)
 
  This way you will never have to worry about finding it again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. How to Run Command Prompt as an Administrator Using a Keyboard Shortcut
 
@@ -168,9 +193,14 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 5. In the Shortcut tab, go to the **Shortcut key** field.  
 ![How to Run Command Prompt as an Administrator Using a Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/how-to-run-command-prompt-as-an-administrator-using-a-keyboard-shortcut.jpg)
 6. Press a key combination of your choice and click **Advanced**.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Make sure to check the **Run as administrator** box and click **OK**.
 8. Finally, click **Apply** \> **OK**, and your shortcut will be ready to use.
 
@@ -178,9 +208,6 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
  This is an easy and fast way of opening the Command Prompt as an administrator without using the search box.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Run Elevated Command Prompts Like a Pro
 
  Running a command prompt is quite simple, but some tasks require elevated privileges. This guide will show you different methods for opening Command Prompt as an administrator without a hitch. So, check them out and let us know which method you find most useful.
@@ -189,11 +216,26 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
  Some commands, however, require administrator-level privileges to run properly. As such, here are some quick and easy ways to open Command Prompt as an administrator in Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-kinemaster-proficiency-unleashed-strategies-features-and-10-online-rivals-for-2024/"><u>[New] KineMaster Proficiency Unleashed Strategies, Features & 10 Online Rivals for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-shortcomings-hindering-gamefis-integration-with-gamers/"><u>5 Shortcomings Hindering GameFi’s Integration with Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-m2ts-mp4/"><u>最佳快速策略：如何使用 Movavi 转换 M2TS 到 MP4 - 专业指南</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connecting-iphoneipad-to-windows-network-shares/"><u>Connecting iPhone/iPad to Windows Network Shares</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-techniques-for-bulk-downloading-anime-a-step-by-step-guide/"><u>Efficient Techniques for Bulk Downloading Anime: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-lenovo-phone-by-drfone-android/"><u>How to Reset a Locked Lenovo Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-windows-imitate-macos-aesthetics-with-5-key-adjustments/"><u>Making Windows Imitate macOS Aesthetics with 5 Key Adjustments</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-pro-quality-videos-mastering-gopro-quik-editing-on-macbook/"><u>New Unlock Pro-Quality Videos Mastering GoPro Quik Editing on MacBook</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/preview-techniques-for-websites-a-comprehensive-checklist/"><u>Preview Techniques for Websites: A Comprehensive Checklist</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quell-windows-aural-enhancement-mechanisms/"><u>Quell Windows' Aural Enhancement Mechanisms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-the-absence-of-rockalldlldll-in-winos/"><u>Rectifying the Absence of Rockalldll.dll in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-elevate-required-failure-in-windows-10-and-11/"><u>Troubleshooting 'Elevate Required' Failure in Windows 10 & 11</u></a></li>
+</ul></div>
+

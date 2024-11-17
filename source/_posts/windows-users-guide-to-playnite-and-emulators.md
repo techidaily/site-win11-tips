@@ -1,7 +1,7 @@
 ---
 title: Windows Users' Guide to Playnite and Emulators
-date: 2024-11-02T13:01:21.417Z
-updated: 2024-11-07T13:21:20.718Z
+date: 2024-11-15T19:14:18.765Z
+updated: 2024-11-17T20:03:27.544Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 ![Playnite Menu Add Ons Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-add-ons-entry.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Metadata Sources
 
  In Playnite, metadata sources are online databases the app can query to "pull in" information about your games.
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  You can click on each one in Playnite and check the details pane to learn more about them.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The "Generic" Page
 
  Although we won't use them for this article, Playnite has some emulation-related add-ons, making your retro-gaming life easier.
@@ -75,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
  You can find those on the **Generic** page, directly below the **Metadata Sources** page we saw above.
 
 ![Playnite Add Ons Browse For More Generic Emulation Toolbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-add-ons-browse-for-more-generic-emulation-toolbox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The ones we suggest you check are the following:
 
@@ -92,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
  With Playnite ready to play nice with emulated content, we are prepared to add some retro games to its library.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Configure Emulators With Playnite
@@ -116,22 +109,29 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 ![Playnite Menu Settings Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-settings-entry.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, select **Updating** in the navigational tree on the left of that window. Use the drop-down menu on the right of **Scan emulation folders** to change its value to **Only manually**. Then, click **Save** to register your tweak and exit that window.
 
 ![Playnite Settings Updating Emulation Folders Only Manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-settings-updating-emulation-folders-only-manually.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With that out of the way, it's time to add some emulators to Playnite.
 
  Click on **Playnite's icon** on the top left of its window again to access its menu, and select **Library** \> **Configure Emulators**. It's probably quicker if you press Ctrl + T on your keyboard, though.
 
 ![Playnite Menu Library Configure Emulators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-library-configure-emulators.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Download Emulators in Playnite
 
@@ -149,18 +149,24 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 ![Playnite Configure Emulators RPCS3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-rpcs3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to customize how an emulator launches your titles, click on its **Default built-in profile**. Then, check the launch arguments and update them as you wish, according to the emulator's specifications.
 
  With those flags, and depending on the emulator, you can, for example, set a specific resolution for launching your games, change the input device you'll use for playing, etc.
 
 ![Playnite Configure Emulators Duckstation Default Profile Arguments](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-duckstation-default-profile-arguments.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also create more profiles with alternative configurations for each emulator. Still, we won't go over this in this article.
 
@@ -169,6 +175,19 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 ![Playnite Configure Auto Scan Configurations PS3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-auto-scan-configurations-ps3.jpg)
 
  Depending on how you keep your game ROMs stored and the chosen emulator, you can also select if you want to import those titles using a relative path, scan the chosen platform's folder for more games within subfolders, scan inside archives, and if all files related to a title should be presented individually or "merged" into a single library entry.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Importing ROMs With Auto-Scan Configuration
 
@@ -182,13 +201,6 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
  Playnite might ask you from which metadata source to "pull" details for a title. The app may also ask you to ensure it identified some games correctly, presenting a list of titles for them it deems similar.
 
  After a while, your Playnite library should present all your emulated titles for all the emulators and platforms you've added among your "native" PC games.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Navigating Your Emulated Games in Playnite
 
@@ -204,14 +216,14 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 ![Playnite Seeking God Of With God Of War III Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-seeking-god-of-with-god-of-war-iii-selected.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If, even after you have access to every single game on your PC through Playnite, it still doesn't cut it for you, there are alternatives worth trying. Check [our list of the best game launchers to launch and organize PC games](https://www.makeuseof.com/tag/pc-game-launchers/), but keep in mind that many of them are less emulation-friendly.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Retro Gaming Made Easier With Playnite
 
@@ -221,21 +233,6 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  Let's see how you can have Playnite detect them, scan your emulated games, and include them in your unified game library.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dissecting-and-defeating-dreadful-greenscreen-a-mac-editors-directive/"><u>[New] In 2024, Dissecting & Defeating Dreadful Greenscreen A Mac Editor's Directive</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-control-video-pace-in-instagram/"><u>[New] Step-by-Step Guide to Control Video Pace in Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-easy-steps-to-share-your-screen-via-google-meet/"><u>2024 Approved Easy Steps to Share Your Screen via Google Meet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-a-boot-ready-windows-11-usb-best-practices-in-three-ways/"><u>Crafting a Boot-Ready Windows 11 USB: Best Practices in Three Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-the-pause-window-solutions-for-slow-gpsvc/"><u>Dissecting the Pause Window: Solutions for Slow GPSVC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-display-driver-error-on-windows-11-systems/"><u>Fixing 'Display Driver Error' On Windows 11 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-troubleshoot-and-resolve-the-windows-10-taskbar-malfunction-a-comprehensive-guide/"><u>How to Troubleshoot and Resolve the Windows 10 Taskbar Malfunction: A Comprehensive Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-a1-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo A1 5G Lock Screen Password?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-updated-razer-naga-mouse-drivers-a-step-by-step-for-windows-users/"><u>Installing Updated Razer Naga Mouse Drivers: A Step-by-Step for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-system-maintenance-with-terminal-commands/"><u>Secure System Maintenance with Terminal Commands</u></a></li>
-<li><a href="https://program-issues.techidaily.com/usda-economic-research-service-nd-glyphosate-usage-in-us-crops-retrieved-from-(httpswwwersusdagovwebdocspuptwg127045htmsthashocj6ztm9dpuf)/"><u>USDA Economic Research Service (N.d.). Glyphosate Usage in U.S. Crops. Retrieved From <https://www.ers.usda.gov/webdocs/PUPTWG/127045.htm#sthash.Ocj6zTm9.dpuf></u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -243,3 +240,27 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-journey-through-podcast-land-iphoneipad-edition/"><u>[New] Journey Through Podcast Land IPhone/iPad Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-resolving-the-mystery-of-missing-shorts-thumbnails-on-youtube/"><u>[Updated] In 2024, Resolving the Mystery of Missing Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-video-subtitle-skills-using-these-top-online-aids/"><u>2024 Approved Boost Your Video Subtitle Skills Using These Top Online Aids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-focus-techniques-for-videoleap-users/"><u>2024 Approved Optimal Focus Techniques for Videoleap Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-creator-studio-vs-youtube-studio-beta/"><u>2024 Approved YouTube Creator Studio Vs. YouTube Studio (Beta)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-your-pcs-problems-4-top-pct-strategies/"><u>Ace Your PC's Problems: 4 Top PCT Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-peak-performance-tweaking-amd-radeon-windows-settings/"><u>Achieve Peak Performance: Tweaking AMD Radeon Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-oculus-quest-2-for-windows-vr-compatibility/"><u>Adapting Oculus Quest 2 for Windows VR Compatibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-x80049dd3-for-smooth-typing-on-windows-11/"><u>Addressing Error X80049DD3 for Smooth Typing on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-words-settings-for-consistent-openness-of-email-attachments-as-text/"><u>Adjust Word's Settings for Consistent Openness of Email Attachments as Text</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-settings-for-continuous-save-support-in-nvidia-control-center/"><u>Adjusting Settings for Continuous Save Support in NVidia Control Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-outlook-speed-for-a-smooth-win-experience/"><u>Amplify Outlook Speed for a Smooth WIN Experience</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhance-your-videos-effective-titles-and-keywords-on-youtube/"><u>Enhance Your Videos Effective Titles and Keywords on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719204304616-gpt4all-free-chatbot-clones-at-home-for-windows/"><u>GPT4All: Free ChatBot Clones at Home for Windows.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-xcover-6-pro-tactical-editionmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy XCover 6 Pro Tactical EditionMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-v30-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme V30 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/orchestrating-images-with-musical-echoes-for-2024/"><u>Orchestrating Images with Musical Echoes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719370071964-resolve-wwin-plus-p-non-functionality-in-windows-systems/"><u>Resolve WWin + P Non-Functionality in Windows Systems.</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-budget-friendly-gaming-keyboards/"><u>The Best Budget-Friendly Gaming Keyboards</u></a></li>
+</ul></div>
+

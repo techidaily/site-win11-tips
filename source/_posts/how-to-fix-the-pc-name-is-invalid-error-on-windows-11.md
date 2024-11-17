@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “PC Name Is Invalid” Error on Windows 11
-date: 2024-11-02T10:25:56.406Z
-updated: 2024-11-07T08:07:43.188Z
+date: 2024-11-13T20:10:19.206Z
+updated: 2024-11-17T17:15:33.450Z
 tags:
   - windows10
   - windows11
@@ -43,14 +43,14 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 ![Screenshot Showing Windows 11 Updates Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-updates-settings.jpg)
 
- You’d see a list of pending updates, and you can click on any one of them to install. Once your PC is updated, cycle back to**System** Settings and try renaming your PC to see if it works.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You’d see a list of pending updates, and you can click on any one of them to install. Once your PC is updated, cycle back to**System** Settings and try renaming your PC to see if it works.
 
 ### 2\. Character Limits and the Use of Special Characters
 
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
  So, one of the things you might want to double-check when you encounter this problem is your account status. To do this, open the start menu and click on the user icon in the bottom left corner of the screen.
 
 ![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click**Change account settings.**
 
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 ![Screenshot Showing Windows 11 Power Off Options on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-power-off-options-on-the-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a New User Account
 
  If the error doesn’t clear away still, you can try creating a new account (with administrative rights), then attempt renaming your PC.
@@ -102,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 ![Screenshot Showing the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, click on**User Accounts** .
@@ -113,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 ![Screenshot Showing User Accounts Settings on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-user-accounts-settings-on-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, click**Add or remove user accounts.**
@@ -127,20 +133,13 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 ![Screenshot Showing Windows 11 Accounts Settings (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-accounts-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, click the**Add account** icon.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Preference Sync Across Your Devices
@@ -153,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 ![Screenshot Showing Windows 11 Sync Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-sync-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Afterward, toggle off the**Remember my preferences** option to disable sync.
 
 ## 4\. Use Windows PowerShell
@@ -162,16 +168,10 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 ![Screenshot Showing Windows Powershell in the Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-powershell-in-the-search-bar.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve clicked**Yes** in the confirmation dialogue, PowerShell will come up. Then, type in the command**Rename - Computer - NewName “New name”** where the words in quotes are replaced with the name you intend to rename your PC.
@@ -201,19 +201,17 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-undisclosed-secrets-to-growth-on-social-media/"><u>[New] 2024 Approved The Undisclosed Secrets to Growth on Social Media</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-leading-free-online-screencasting-solutions/"><u>[New] In 2024, The Leading Free Online Screencasting Solutions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unmatched-12-apps-for-endless-screen-saving/"><u>2024 Approved Unmatched 12 Apps for Endless Screen Saving</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-video-editing-tips-for-beginner-editors/"><u>2024 Approved YouTube Video Editing Tips for Beginner Editors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-chrome-setup-in-windows-11/"><u>Comprehensive Guide to Chrome Setup in Windows 11</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/elevating-your-macs-tiktok-opener-quality-for-2024/"><u>Elevating Your Mac's TikTok Opener Quality for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-8-most-effective-authentic-promotion-techniques/"><u>In 2024, The 8 Most Effective, Authentic Promotion Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-zip-in-windows-11-with-these-tips/"><u>Master ZIP in Windows 11 With These Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-token-reference-error-in-modern-oses/"><u>Overcoming the Token Reference Error in Modern OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stick-to-your-pc-screen-8-innovative-non-writing-tools/"><u>Stick to Your PC Screen: 8 Innovative, Non-Writing Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-graphics-issues-a-windows-10-and-11-fix-it/"><u>Troubleshooting Graphics Issues: A Windows 10 & 11 Fix-It</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/what-is-elgoog/"><u>What Is elgooG?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-playwrights-tactics-creating-compelling-dialogues/"><u>[Updated] 2024 Approved Playwrights' Tactics Creating Compelling Dialogues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-kinemaster-guide-to-seamless-green-screen-implementation/"><u>[Updated] Kinemaster Guide to Seamless Green Screen Implementation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaching-windows-11-theme-shields-with-registry-insights/"><u>Breaching Windows 11 Theme Shields with Registry Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-and-solving-windows-steams-error-e84/"><u>Breaking Down and Solving Windows Steam's Error E84</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-windows-11-tpm-release-methods/"><u>Breaking Through Windows 11: TPM Release Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capturing-your-desktop-prtsc-vs-snipping-tool-in-windows-10/"><u>Capturing Your Desktop: PrtSc Vs. Snipping Tool in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/child-protection-mastering-windows-11-safety-settings/"><u>Child Protection: Mastering Windows 11 Safety Settings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/efficient-workflow-with-firefoxs-picture-in-picture/"><u>Efficient Workflow with Firefox’s Picture-in-Picture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/home-workflow-mastery-discover-6-uses-for-chatgpt/"><u>Home Workflow Mastery: Discover 6 Uses for ChatGPT</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-immediate-ios-screen-playback-guide/"><u>In 2024, Immediate iOS Screen Playback Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reviewing-tech-trends-the-vlle-method/"><u>Reviewing Tech Trends The VLLE Method</u></a></li>
 </ul></div>
 

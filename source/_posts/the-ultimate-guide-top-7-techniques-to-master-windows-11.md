@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Top 7 Techniques to Master Windows 11"
-date: 2024-09-05T19:32:03.111Z
-updated: 2024-09-06T19:32:03.111Z
+date: 2024-11-12T16:03:50.214Z
+updated: 2024-11-17T17:43:38.679Z
 tags:
   - windows10
   - windows11
@@ -14,18 +14,6 @@ keywords: Win11 Mastery Tips,Pros' Window 11 Tricks,Advanced Win11 Skills,Essent
 thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c53599613008193fcbe550b0f87978d3601d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Guide: Top 7 Techniques to Master Windows 11
 
  As more productivity apps are released, accessing programs on your Windows 11 PC can be challenging. Especially if your work revolves around multitasking, accessing and switching between apps fast is crucial.
@@ -42,28 +30,10 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
  To change the list order, you can use the **Sort By** feature beneath the search bar. Apps can be sorted by their name, size, or by their installation date. If you have multiple drives, you can also filter results based on which drives apps are located in.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Pin Programs to the Taskbar
 
 ![Windows 11 taskbar beneath calculator app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-taskbar-beneath-calculator-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Windows taskbar offers a superfast way to open apps without having to navigate to the desktop. Windows 11 offers an easy method to [pin almost anything to the taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/), so you can access your favorite programs with the click of a button.
 
  Here’s how you can pin an app to the taskbar:
@@ -73,17 +43,25 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 2. Right-click the app, then select **Pin to taskbar**.  
 ![Pin to taskbar option Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-to-taskbar-option-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a further benefit, some programs offer additional quick access options that you can view by right-clicking on them. The options include shortcuts to common in-app features. You can also open any app on the taskbar by holding the **Windows** key, followed by the number representing the app's position on the taskbar. For instance, **Windows + 3** will open the third item on the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Create Desktop Shortcuts
 
 ![Desktop Shortcuts on Windows 11 Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/desktop-shortcuts-on-windows-11-desktop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Creating desktop shortcuts is one of the fastest ways to access apps with minimal effort. Before starting, you’ll first want to [declutter your Windows 11 Desktop](https://www.makeuseof.com/revamp-windows-11-desktop/) to create a clean environment for your apps.
 
@@ -93,26 +71,28 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
 ![Run Dialogue on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-dialogue-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Not all apps are easy to find, especially if you’re a developer. The Run dialogue is a powerful tool to locate programs that are harder to find on your Windows 11 device.
 
  To open the Run dialogue, use the shortcut **Windows + R**. In the search box, you can type the executable file name of any app to open it. Some basic commands include typing “calc” to open the calculator app, “notepad” to open Windows 11’s Notepad, and “control” to open the Control Panel. View our [Run commands cheat sheet](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for a full list of handy shortcuts.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Create Custom Keyboard Shortcuts
 
 ![oranage and black mechanical keyboard on table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/oranage-and-black-mechanical-keyboard-on-table.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  One of the less-known methods to open Windows apps quicker is by creating custom keyboard shortcuts. By using these shortcuts, you can open a program instantly from any location.
 
  You can assign a keyboard shortcut to any Windows app by following these steps:
@@ -121,34 +101,30 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 2. Right-click the app and select **Open File Location**.  
 ![Tutorial 5 Step 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-2.jpg)
 3. In File Explorer, right-click the file and select **Properties**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tutorial 5 Step 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-3.jpg)
 4. Click in the box next to the Shortcut Key field and enter a desired shortcut.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tutorial 5 Step 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-4.jpg)
 
  If this method is of interest, you can explore our guide for creating shortcuts to [install websites as apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Utilize the Quick Access Menu
 
 ![Quick Access Menu on Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/quick-access-menu-on-windows-11-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Quick Access menu is a list of common programs and tools. This is not to be confused with the Quick Access feature seen in Windows File Explorer. However, the two features achieve similar goals.
 
  You can open the Quick Access menu in two ways:
@@ -164,12 +140,6 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
 ![Multiple desktops in Task View Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/multiple-desktops-in-task-view-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re dealing with an overflow of open windows and need a better way to transition between apps, you’ll find this next tip helpful.
 
  The keyboard shortcut **Alt + Tab** can be used to switch windows in your workspace. To navigate to another app, simply hold **Alt** and keep tapping **Tab** until you reach the desired app. If you prefer the older retro look of the **Alt** \+ **Tab** switcher, you can hit the right **Alt** key before pressing **Tab** to navigate the old-fashioned way.
@@ -184,11 +154,30 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
  This article will cover tips to make Windows 11 apps more accessible, so you can navigate around your digital workspace with minimal effort and little time.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-navigating-youtube-tv-the-ultimate-guide/"><u>[New] 2024 Approved Navigating YouTube TV The Ultimate Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-audio-take-from-twitter-video-sources/"><u>[New] Audio Take From Twitter Video Sources</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-filming-on-the-go-what-you-need/"><u>[New] Filming On-the-Go – What You Need</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-guide-to-conveniently-documenting-your-gaming-victories/"><u>[Updated] In 2024, A Guide to Conveniently Documenting Your Gaming Victories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-the-mystery-choosing-music-for-movie-trailers/"><u>2024 Approved Unraveling the Mystery Choosing Music for Movie Trailers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-errors-office-activation-success-guide/"><u>Disabling Errors: Office Activation Success Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-11-proplus-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Realme 11 Pro+.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/merging-windows-expertise-into-macos-strategy/"><u>Merging Windows Expertise Into macOS Strategy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scaling-up-innovative-design-methods-with-canva-and-ai-assistance/"><u>Scaling Up: Innovative Design Methods with Canva & AI Assistance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seven-crucial-windows-functions-to-monitor-vigilantly/"><u>Seven Crucial Windows Functions to Monitor Vigilantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-fastload-webpages-on-windows-when-firefox-fails/"><u>Solutions to Fastload Webpages on Windows when Firefox Fails</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-on-restoring-data-loss-in-your-western-digital-passport-portable-ssd/"><u>Step-by-Step Tutorial on Restoring Data Loss in Your Western Digital Passport Portable SSD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-from-windows-fatal-blue-screen-0x8007007e/"><u>Steps to Recover From Windows Fatal Blue Screen: 0X8007007E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tips-simplifying-windows-pcs-for-aging-elders/"><u>Tech Tips: Simplifying Windows PCs for Aging Elders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-10-replacement-apps-for-windows-11-default-tools/"><u>Top 10 Replacement Apps for Windows 11 Default Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/your-path-to-metaverse-dominance-with-7-key-devices/"><u>Your Path to Metaverse Dominance with 7 Key Devices</u></a></li>
+</ul></div>
+

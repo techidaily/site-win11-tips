@@ -1,7 +1,7 @@
 ---
 title: "Optimized File Picking: Toggle Windows 11 Checkboxes"
-date: 2024-10-31T10:37:11.506Z
-updated: 2024-11-07T11:10:48.488Z
+date: 2024-11-11T17:47:37.186Z
+updated: 2024-11-17T20:09:13.082Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 
  That's it. You might need to restart your computer to see the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Checkboxes Using the Folder Option
 
  The[Folder Option](https://www.makeuseof.com/windows-folder-options-guide/) is an incredible Windows feature using which you can configure important File Explorer settings. You can use it to[clear File Explorer history](https://www.makeuseof.com/windows-10-clear-file-explorer-search-address-bar-history/) , change privacy settings, and even enable checkboxes in File Explorer.
@@ -51,23 +58,10 @@ Here's how to use the Folder Option to enable the checkboxes:
 5. Click**Apply** and then**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable Checkboxes by Editing the Registry
@@ -85,31 +79,19 @@ Here's how to use the Folder Option to enable the checkboxes:
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enabling Checkboxes in the File Explorer
@@ -131,22 +113,22 @@ Here's how to use the Folder Option to enable the checkboxes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-dangerous-depths-top-10-roguelite-showdowns/"><u>[New] 2024 Approved Dangerous Depths Top 10 Roguelite Showdowns</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-story-hacks-your-path-to-prominence-for-2024/"><u>[New] Instagram Story Hacks Your Path to Prominence for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-the-moment-leading-recorder-analysis/"><u>[Updated] In 2024, Capturing the Moment Leading Recorder Analysis</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-tiktok-video-aspect-ratios/"><u>2024 Approved TikTok Video Aspect Ratios</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-4k-tvs-top-ten-selection/"><u>Best 4K TVs Top Ten Selection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-docker-performance-within-wsl-2-environment/"><u>Elevating Docker Performance Within WSL 2 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-error-xc0f1103f-on-geforce-nowwindows-11-duo/"><u>Fixing Error Xc0f1103f on GeForce Now/Windows 11 Duo</u></a></li>
-<li><a href="https://techtrends.techidaily.com/freshly-updated-d-link-default-passwords-for-enhanced-security-july-2024/"><u>Freshly Updated D-Link Default Passwords for Enhanced Security (July 2024)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-a-youtube-video-that-wont-play-a-step-by-step-guide/"><u>How to Fix a YouTube Video That Won't Play: A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Moto G34 5G</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-discover-best-alternatives-to-gopro-15-camera-choices/"><u>In 2024, Discover Best Alternatives to GoPro 15 Camera Choices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-ways-to-save-uac-prompts-in-windows/"><u>Innovative Ways to Save UAC Prompts in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/learn-to-leverage-copymove-the-win-11-guide-for-efficiency/"><u>Learn to Leverage Copy/Move: The Win 11 Guide for Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-merge-windows-embraces-kali-linux/"><u>Masterful Merge: Windows Embraces Kali Linux</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-stuck-lock-screen-timer-in-windows-1011/"><u>Solving Stuck Lock Screen Timer in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-window-apps-with-easy-internet-troubleshooting-steps/"><u>Streamline Window Apps with Easy Internet Troubleshooting Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-over-errors-fixing-no-server-in-apex-legends-(156-chars/"><u>Winning Over Errors: Fixing No Server in Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adding-words-to-pictures-easy-photo-text-editing-tips-for-2024/"><u>Adding Words to Pictures Easy Photo Text Editing Tips for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-walkthrough-of-locating-and-using-component-services/"><u>Detailed Walkthrough of Locating and Using Component Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-mouse-features-10-easy-steps-in-win11/"><u>Explore Mouse Features: 10 Easy Steps in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-to-grips-with-powertoys-plain-text-methods/"><u>Get to Grips With PowerToys' Plain Text Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-non-signed-updates-in-w11w10/"><u>Guide to Rectify Non-Signed Updates in W11/W10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-god-mode-option-to-windows-11s-context-menu/"><u>How to Add a God Mode Option to Windows 11’S Context Menu</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xperia-10-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xperia 10 V?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-recurring-image-importer-errors-with-ios-devices-on-w11/"><u>How to Resolve Recurring Image Importer Errors with iOS Devices on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-lost-renderer-issue-in-ow2-on-windows/"><u>Immediate Fixes for Lost Renderer Issue in OW2 on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-audio-and-visual-quality-in-youtube-videos/"><u>Mastering Audio & Visual Quality in YouTube Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-art-and-science-of-capturing-real-time-audio-for-digital-platforms/"><u>New 2024 Approved The Art and Science of Capturing Real-Time Audio for Digital Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/next-gen-windows-os-crafted-with-artificial-intelligence/"><u>Next-Gen Windows OS Crafted with Artificial Intelligence</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208484589-reviving-keyboard-vertical-arrow-buttons-expert-solutions-for-you/"><u>Reviving Keyboard Vertical Arrow Buttons: Expert Solutions for You!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stealth-mode-for-chatgpt-conversations-hide-them-like-a-pro/"><u>Stealth Mode for ChatGPT Conversations: Hide Them Like a Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-windows-11-photos-the-top-6-rescaling-methods/"><u>Transform Your Windows 11 Photos – The Top 6 Rescaling Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/updating-old-pcs-think-beyond-windows/"><u>Updating Old PCs? Think Beyond Windows</u></a></li>
 </ul></div>
 

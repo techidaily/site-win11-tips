@@ -1,7 +1,7 @@
 ---
 title: "Mastering Networks: Configure Win11's DNS Client Service"
-date: 2024-09-05T19:32:04.960Z
-updated: 2024-09-06T19:32:04.960Z
+date: 2024-11-12T18:54:33.108Z
+updated: 2024-11-17T16:22:38.368Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
  But how do you configure the service if nothing works? Well, that’s where the trusty old method of registry tweaking comes in handy. We will elaborate on the process to disable and configure the DNS Client service as per your liking.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Disable the DNS Client Service Using the Registry Editor
 
  Even if you try to use the Command Prompt and run the command to stop the service, it responds with a “the requested pause, continue, or stop is not valid for this service.” message. So, you need to edit the registry settings of the DNS Client service to disable it.
@@ -41,26 +35,21 @@ Repeat the following steps to disable the DNS client service:
 4. Change the**Value Data** to**4** and keep the base as**Hexadecimal** . Click on the**OK** button.  
 ![Disable the DNS Client Service Using Registry Editor-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-1.jpg)
 5. Close the Registry editor.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Press**Win + S** and type**services.msc** . Click on the**Run as administrator** option.
 7. Locate the DNS Client service. You will see that the service is still running but the Startup Type field shows Disabled.  
 ![Disable the DNS Client Service Using Registry Editor 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-2.jpg)
 8. Close the Services utility and restart your system to apply the changes.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.  
 ![Disable the DNS Client Service Using Registry Editor 3-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg)
 
  Now, DNS Client Service won’t start until you manually tweak its registry key again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is It Possible to Configure the DNS Client Service Without the Registry Editor?
 
@@ -79,17 +68,18 @@ Repeat the following steps to disable the DNS client service:
  Open the Registry Editor with administrator privileges and navigate to the DNS Client service path as described in the previous section. Now, you can change the**Value Data** of the**Start DWORD value** to any of the numbers described above.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
+<span id="1938141">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Quickly Disable the DNS Client Service Using Command Prompt
 
  It is possible to disable the DNS Client Service using Command Prompt as well. All you need to do is run the command to change the Startup Type of the service to "Disabled". Here’s how to do it:
@@ -100,37 +90,30 @@ Repeat the following steps to disable the DNS client service:
 3. After you see the “The operation completed successfully.” message, type "exit" and press**Enter** to close the Command Prompt window.  
 ![Disable the DNS Client Service Using CMD-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-cmd-1.jpg)
 4. **Restart** your system for the changes to take effect. DNS Client Service will remain disabled on your system.
+
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Tweak Your DNS Client Service Easily
 
  Microsoft makes it very difficult to disable the DNS Client service on Windows 10 and 11\. But you can use the registry hack to disable the service whenever the need arises. Or if you want to disable the service quickly, use the Command Prompt method.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +122,22 @@ Repeat the following steps to disable the DNS client service:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality/"><u>[New] Transform the Way You View Web Content Using MS Edge's Split Screen Functionality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-decoding-youtubes-top-mp3-conversion-apps-for-2024/"><u>[Updated] Decoding YouTube's Top MP3 Conversion Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-holding-attention-6-video-classifications/"><u>2024 Approved The Art of Holding Attention 6 Video Classifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-windows-interface-adding-directories-for-efficiency/"><u>Customizing Windows Interface: Adding Directories for Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fortify-firefoxedge-adding-secure-domains-to-windows-11/"><u>Fortify Firefox/Edge: Adding Secure Domains to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-to-rearrange-onedrive-folder-in-windows-os/"><u>Guiding You to Rearrange OneDrive Folder in Windows OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-securely-sign-in-in-windows-11-from-a-convenient-pin-to-an-ironclad-password/"><u>How to Securely Sign-In in Windows 11: From a Convenient PIN to an Ironclad Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-your-files-future-with-these-20-best-in-class-no-cost-services/"><u>In 2024, Boost Your Files' Future with These 20 Best-in-Class No-Cost Services</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-roadmap-how-to-make-your-covers-shine/"><u>In 2024, The Roadmap How To Make Your Covers Shine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-terminal-standardization/"><u>Mastering Windows 11 Terminal Standardization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-without-rush-disabling-mouse-speed-in-win-11/"><u>Navigating Without Rush: Disabling Mouse Speed in Win 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/six-effective-techniques-to-transfer-an-iso-file-onto-a-dvd-using-windows-10-or-macos/"><u>Six Effective Techniques to Transfer an ISO File Onto a DVD Using Windows 10 or macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-non-working-windows-alt-codes-49-characters/"><u>Solving Non-Working Windows Alt Codes (49 Characters)</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tutorial-completo-sobre-como-desactivar-una-eliminacion-en-la-computadora-guia-de-2024/"><u>Tutorial Completo Sobre Cómo Desactivar Una Eliminación en La Computadora (Guía De 2024)</u></a></li>
+</ul></div>
 

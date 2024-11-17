@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Security: Expanding Context Menu with Firewall Restrictions"
-date: 2024-09-05T19:32:02.534Z
-updated: 2024-09-06T19:32:02.534Z
+date: 2024-11-12T20:15:29.510Z
+updated: 2024-11-17T17:34:04.958Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Windows 11 Secure,Firewall Protection,Context Menu Security,Windows Gu
 thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734ca57b3143f21e9c629c5f8e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 11 Security: Expanding Context Menu with Firewall Restrictions
 
  Windows Defender Firewall enables users to block specific software packages from accessing the internet. However, users must usually manually set up outbound firewall rules that block internet connectivity for software.
@@ -36,21 +30,9 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 4. Then extract the file as covered within our guide for[how to unzip](https://www.makeuseof.com/unzip-files-windows-10/) [archives in Windows](https://www.makeuseof.com/unzip-files-windows-10/) .  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option2.jpg)
 5. Bring up the extracted OneClickFirewall folder.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select the**OneClickFirewall-1.0.0.2.exe** to bring up its setup wizard.  
 ![The OneClickFirewall setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/oneclickfirewall-window.jpg)
 7. Click**Next** \>**Install** to add new firewall options to the context menu.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Select**Finish** to exit the OneClickFirewall wizard.
 
  Now you can block software internet access from the classic context menu in Windows 11\. Bring up a software installation folder in File Explorer. Then right-click the program’s EXE (application) file to select**Show more options** . Select the new**Block Internet Access** option to set up an outbound rule.
@@ -65,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  If you decide you don’t want to keep the firewall context menu options, you can remove them by uninstalling OneClickFirewall. Remove OneClickFirewall with one of the methods in our guide on[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Firewall Block Options With the Right Click App
 
  The Right Click app (full name (Right Click) Allow, Block or Remove - Windows Firewall) is an alternative to OneClickFirewall that adds similar context menu options for blocking and allowing programs through the firewall. However, this software also adds an option for removing software from the firewall. You can add firewall block options to the context menu with Right Click like this:
@@ -77,17 +66,12 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 6. Double-click**Right\_Click\_Options.exe** to bring up a**Right Click Menu Options** window.  
 ![The Add Right Click Menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-right-click-menu-option.jpg)
 7. Select the**Add Right Click Menu** option, and click**OK** on the dialog box.
+
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now it’s time to check out the new**Tweaking - Windows Firewal** l submenu on the context menu. Right-click any software to apply a firewall block and select Show more options. Move the cursor over the**Tweaking – Allow in Windows Firewall** submenu. Selecting**Block in Windows Firewall** will apply an outbound rule in the Windows Defender Firewall app the same as OneClickFirewall.
@@ -95,21 +79,23 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![The Tweaking.com - Windows Firewall submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/tweaking-com-windows-firewall-submenu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can remove the Tweaking firewall context menu options within the window you selected to add them. Double-click**Right\_Click\_Options.exe** again to view that window. Then select the**Remove Right Click Menu** option there.
 
  You’ll also need to restart File Explorer for the change to take effect. To do this, perform one of the many[ways to open the Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and select its**Processes** tab. Right-click the Windows Explorer process and select**Restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Apply Firewall Blocks to Software via the Context Menu
 
  The convenience of a context menu firewall option for blocking apps’ internet connectivity cannot be understated. That option will save you from going through all the manual steps required to create rules that apply firewall blocks to software packages.
@@ -122,8 +108,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +115,26 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-high-fidelity-windows-playlists/"><u>[New] High-Fidelity Windows Playlists</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unpacking-techniques-for-facebook-live-embedding/"><u>[New] Unpacking Techniques for Facebook Live Embedding</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-exploring-vidma-revolutionizing-the-recording-industry/"><u>[Updated] 2024 Approved Exploring Vidma Revolutionizing the Recording Industry</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-macos-sierra-switching-back-to-os-x-el-capitan-for-2024/"><u>[Updated] MacOS Sierra Switching Back To OS X El Capitan for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-effortlessly-how-to-clear-your-browsers-youtube-cache/"><u>2024 Approved Navigate Effortlessly How to Clear Your Browser's YouTube Cache</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-steams-failed-file-synchronization-on-pc/"><u>Correcting Steam's Failed File Synchronization on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-hardware-not-recognized-issue-on-windows/"><u>Fixing 'Hardware Not Recognized' Issue on Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-100-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/intelligent-collaboration-chatgpt-in-google-workspace/"><u>Intelligent Collaboration: ChatGPT in Google Workspace</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigate-the-pros-and-cons-of-blueear-bluetooth-beanie-a-review-on-design-comfort-and-audio-quality/"><u>Navigate the Pros and Cons of Blueear Bluetooth Beanie: A Review on Design, Comfort, and Audio Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-windows-standard-performance-mode/"><u>Navigating to Windows' Standard Performance Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/separate-windows-11-taskbar-items/"><u>Separate Windows 11 Taskbar Items</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-the-shift-installing-apps-on-your-newest-windows-11-laptop/"><u>Simplifying the Shift: Installing Apps on Your Newest Windows 11 Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-storage-recognizing-excessive-disk-use-windows-style/"><u>Streamline Storage: Recognizing Excessive Disk Use Windows Style</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamline-your-life-quick-tips-to-beginning-on-discord-broadcasts-for-2024/"><u>Streamline Your Life Quick Tips to Beginning on Discord Broadcasts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-fatal-error-0x8007045d-on-windows-devices/"><u>Tackling Fatal Error 0X8007045D on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unique-methods-to-fire-up-your-pcs-software-tools/"><u>Unique Methods to Fire Up Your PC's Software Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11-v22h2s-installation-conundrum/"><u>Unraveling Windows 11 V22H2's Installation Conundrum</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Effectively Assigning Shortcuts on Windows 11
-date: 2024-09-01T05:14:45.626Z
-updated: 2024-09-02T05:14:45.626Z
+date: 2024-11-10T19:17:44.982Z
+updated: 2024-11-17T17:54:31.253Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 
  If you prefer, you can bring up the classic context menu in Windows 11 with a handy keyboard shortcut. Press the **Shift + F10** hotkey to open the menu instead. Then select your software shortcuts from there.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Your Own Shortcuts to the Windows 11 Context Menu
 
  You can add a shortcut for whatever software you'd like in a similar way to adding Edge. To do this, you need to change the name of the primary registry key to match the name of the software it’s for. Then, open the program’s folder in File Explorer to copy its full path, and paste it in the Value data box for the command subkey’s **(Default)** string.
@@ -63,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 
  This registry tweak also works much the same in Windows 10 and earlier Microsoft desktop platforms. So, this isn’t just a Windows 11 trick. As Windows 10 has a classic context menu by default, you don’t need to click **Show more options** on that menu to select the shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Program Shortcuts to the Context Menu With Easy Context Menu
 
  If you prefer not to manually edit the registry, add program shortcuts to the desktop’s context menu with Easy Context Menu. Easy Context Menu is a freeware third-party app for customizing context menus in Windows 11/10\. It enables you to add and remove shortcuts to and from the context menu. This is how you can add shortcuts for opening programs to Windows 11’s context menu with that software:
@@ -76,46 +80,51 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 4. Click the **List Editor** button.  
 ![The List Editor button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/list-editor-button.jpg)
 5. Press the **Add new** button.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Select the application (EXE) file for a program to add to the context menu and click **Open**.
 2. Next, select **Desktop Context Menu** on the **Target Context Menu** drop-down menu for the shortcut.  
 ![The Target Context Menu drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/target-context-menu-drop-down-menu.jpg)
 3. Click the **Show at bottom of the menu** radio button.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Press the **Save changes** button.
 5. Select the checkbox for the program shortcut in the Easy Context Menu window.
 6. Click the **Apply Changes** button on the Easy Context Menu window.  
 ![The Apply Changes button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/apply-changes-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now you’ve added a new program shortcut to the classic context menu in Windows 11\. Bring up the classic context menu by right-clicking anywhere on the desktop and selecting **Show more options**. Then select the new software shortcut, which will be somewhere near the bottom of the classic menu.
 
  You can remove that shortcut and other options from the right-click menu with Easy Context Menu. To do so, click the **ContextMenu Cleaner** button; deselect the checkbox for the software shortcut to disable it on the context menu (you can still restore it later). Then click **Refresh** to save the context menu changes.
 
 ![The ContextMenu Cleaner window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/contextmenu-cleaner-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There’s also much more you can add to the desktop’s right-click menu with Easy Context Menu than software shortcuts. Easy Context Menu includes many other checkboxes for adding various tools and turn-off options to the right-click menu. Select some of the checkboxes for system tools and turn-off options, and click **Apply Changes** to add handy shortcuts for accessing utilities and shutting down Windows to the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make the Most Out of Windows 11’s Context Menu
 
  Now you can add program shortcuts to the context menu instead of flooding your desktop wallpaper or taskbar with them. That’s a great alternative place to add shortcuts because they don’t clutter your desktop. Keep your Windows 11 desktop clean and tidy by adding more shortcuts to the context menu instead.
 
  Nevertheless, you can still add program shortcuts to the desktop context menu in Windows 11 by editing the registry. By doing so, you can replace desktop shortcut icons with context menu ones.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +132,25 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-cutting-edge-cost-free-platforms-for-professional-video-editing/"><u>[New] Unveiling The Cutting-Edge, Cost-Free Platforms for Professional Video Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-must-have-accessories-for-sj4000/"><u>[Updated] Top 10 Must Have Accessories for SJ4000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-epic-launcher-backups/"><u>Essential Tips for Epic Launcher Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-stuck-gpsvc-loop-in-windows-systems/"><u>Fixing the Stuck GPSVC Loop in Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edge-40-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge 40 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-share-issues-on-nvidias-windows-software/"><u>How to Fix Share Issues on NVIDIA's Windows Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stabilizing-high-flying-camera-work-a-guide/"><u>In 2024, Stabilizing High-Flying Camera Work A Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/instant-switch-to-a-dimmer-interface-on-facebook/"><u>Instant Switch to a Dimmer Interface on Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconfiguring-your-start-menu-directly-access-file-explorer-via-onedrive/"><u>Reconfiguring Your Start Menu: Directly Access File Explorer via OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-windows-mic-testing/"><u>Step-by-Step: Windows Mic Testing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-image-adjustment-on-your-pc-with-these-win-11-tips/"><u>Streamline Image Adjustment on Your PC with These Win 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-work-around-the-third-party-av-blockade-on-defender/"><u>Tips to Work Around the Third-Party AV Blockade on Defender</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-zte-nubia-flip-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace ZTE Nubia Flip 5G Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/sh-your-creativity-with-youtubes-green-screens-for-2024/"><u>Unleash Your Creativity with YouTube's Green Screens for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-monster-hunter-rise-overcoming-not-responding-issues/"><u>Unlocking Monster Hunter Rise: Overcoming Not Responding Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-you-shouldnt-turn-off-windows-11s-notifications/"><u>Why You Shouldn't Turn Off Windows 11'S Notifications</u></a></li>
+<li><a href="https://discover-community.techidaily.com/m4pmp3-4/"><u>あなたを助けるフリーソフト: M4PファイルをMP3へ 4選び!最適な方法がこちら!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Remedial Actions for Failed Message Load in Discord Desktop
-date: 2024-11-04T00:27:54.064Z
-updated: 2024-11-06T17:44:25.050Z
+date: 2024-11-10T16:03:28.739Z
+updated: 2024-11-17T19:38:25.523Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
  If the problem is with Discord's servers you can't do much about it until the developers resolve the server issues. Once they're done, Discord should return to normal operation.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Rule Out Any Internet Issues
 
 ![Wi-Fi router with power adapter on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/how-to-access-your-router-remotely.jpg)
@@ -50,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
  However, if other apps do work, try closing bandwidth-hogging apps on your PC. Double-check if any devices on your network are soaking up bandwidth, too. Once you've freed up some space, try running Discord again.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Give Discord a Fresh Start
 
  Sometimes, just giving Discord a fresh start is enough to knock it out of its issues. Log out of your account, close Discord, restart the app, and log back in. Check to see if messages are loading correctly this time.
@@ -59,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 ![It's important to troubleshoot slow internet speeds to determine if ISP is throttling you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Troubleshoot-internet-router-modem-connection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Although less likely, your ISP may also be responsible for annoying app issues. When your ISP is at fault, you will likely have similar problems with other apps. So, if you're also experiencing problems with other apps, ensure that the problem isn't with your ISP.
@@ -70,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
  Simply changing your service provider will confirm that. Try connecting your device to a network with a different internet provider, such as mobile data, if you're using Wi-Fi, and see if messages load successfully this time.
 
  If changing the network works in resolving the issue, the problem is with your ISP. In such a case,[change the DNS](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) to see if it fixes the problem. If that doesn't work, you should inform your ISP or switch to another provider.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Check for Channel-Specific Issues
 
@@ -88,10 +101,23 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 ![Unmuting the Muted Server in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Mark Messages as Read
@@ -104,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 3. Wait for the app to load messages.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Make Sure You Are Not Temporarily Banned From Discord
@@ -129,10 +155,16 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
  If you're using Discord while you have a VPN enabled and you get this error, the IP assigned by the VPN might have been blocked by Discord. Therefore, temporarily disable the VPN to resolve the issue. You could also try connecting to other servers via your VPN and see if any of them work better.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Clear Discord Cache
@@ -144,24 +176,17 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 ![Opening the DIscord AppData Folder Using the Windows Run Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-1.jpg)
 3. Find the cache folders, namely**Cache, Code Cache,** and**GPU Cache** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click each folder and select**Delete** .  
 ![Deleting the Cache Code, Cache, and GPU Cache Folders in the Discord AppData Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-1.jpg)
 
- Once you have completed these steps, close the Discord app and restart your device. When your device has fully restarted, open Discord and see if messages have loaded successfully this time. If the messages remain stuck and the error persists, move on to the next step.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you have completed these steps, close the Discord app and restart your device. When your device has fully restarted, open Discord and see if messages have loaded successfully this time. If the messages remain stuck and the error persists, move on to the next step.
 
 ## 11\. Update Discord
 
@@ -174,13 +199,6 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 ## 12\. Switch to a Different Discord Client
 
 ![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1).jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If none of the fixes have worked, you should try loading messages on a different Discord client. You can access Discord in several ways, including a PC client, a mobile app, and a web version you can use in your browser.
 
@@ -211,22 +229,15 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-validity-of-vibration-reduction-in-adobes-world/"><u>[New] 2024 Approved The Validity of Vibration Reduction in Adobe's World</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-expertly-enhance-photos-with-free-technology/"><u>[New] In 2024, Expertly Enhance Photos with Free Technology</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-practical-steps-to-enhance-videos-with-device-based-filtering/"><u>[New] Practical Steps to Enhance Videos with Device-Based Filtering</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sleep-well-with-asmr-techniques-and-tips/"><u>[Updated] Sleep Well with ASMR Techniques and Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-closer-look-at-ais-individuality-and-innovation/"><u>A Closer Look at AI's Individuality and Innovation</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-every-gameplay-session-ensuring-optimal-frames-per-second-in-valorant-for-pc-users/"><u>Ace Every Gameplay Session: Ensuring Optimal Frames Per Second in Valorant for PC Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciph-written-as-a-dialogue-between-two-characters-user-and-assistant-in-an-online-forum-setting-discussing-the-topic-of-what-is-aggregatorhostexe-on-windo37/"><u>Deciph Written as a Dialogue Between Two Characters (User and Assistant) in an Online Forum Setting Discussing the Topic of What Is AggregatorHost.exe on Windows, and Is It Safe?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/defend-with-confidence-top-4-password-protectors-for-win-11-users/"><u>Defend With Confidence: Top 4 Password Protectors for Win 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directives-for-managing-setup-service-state-in-windows/"><u>Directives for Managing Setup Service State in Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dive-into-a-world-of-timelessness-crafting-slow-motion-videos-using-mobile-apps/"><u>Dive Into a World of Timelessness Crafting Slow Motion Videos Using Mobile Apps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722967359587-hassle-free-setup-of-your-scansnap-device-downloads-for-windows-inside/"><u>Hassle-Free Setup of Your ScanSnap Device - Downloads for Windows Inside</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-imovies-repaired-files-in-quicktime-player-a-step-by-step-guide/"><u>How to Play iMovie's Repaired Files in QuickTime Player: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/led-lighting-milestones/"><u>LED Lighting Milestones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-reinstalling-microsofts-mspm/"><u>Master the Art: Reinstalling Microsoft's MSPM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-error-x80072f30-in-windows/"><u>Resolving Microsoft Store Error X80072F30 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-peaceful-sleep-windows-1011-automatic-shutdown/"><u>Securing Peaceful Sleep: Windows 10/11 Automatic Shutdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-personalized-window-pin-creation/"><u>The Ultimate Guide to Personalized Window PIN Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-clip-concoction-station/"><u>[New] In 2024, Clip Concoction Station</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-exploring-user-experiences-triller-and-tiktok-compared-max-156-chars/"><u>[Updated] Exploring User Experiences Triller & TikTok Compared (Max 156 Chars)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-from-frame-to-script-innovative-ways-of-integrating-text-in-images-for-2024/"><u>[Updated] From Frame to Script Innovative Ways of Integrating Text in Images for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-pc-strategies-for-acquiring-twitter-jokes-gifs/"><u>[Updated] PC Strategies for Acquiring Twitter Jokes (GIFs)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-modern-warfare-stability-enhancement-resolving-the-recurrent-game-crashes/"><u>Call of Duty: Modern Warfare Stability Enhancement - Resolving the Recurrent Game Crashes.</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-proxy-configurations-on-windows-11/"><u>Mastering the Art of Proxy Configurations on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-old-school-gaming-adventures-integrate-trophies-through-retroarch/"><u>Revitalize Your Old-School Gaming Adventures - Integrate Trophies Through Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-directdraw-a-focused-guide-for-win11-enthusiasts/"><u>Troubleshooting DirectDraw: A Focused Guide for Win11 Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfettered-functions-embrace-tiny11s-power/"><u>Unfettered Functions: Embrace Tiny11's Power</u></a></li>
 </ul></div>
 

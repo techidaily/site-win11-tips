@@ -1,7 +1,7 @@
 ---
 title: "Swift Finder Power: Adopting EverywhereApp Techniques"
-date: 2024-09-01T05:13:53.042Z
-updated: 2024-09-02T05:13:53.042Z
+date: 2024-11-11T16:11:58.552Z
+updated: 2024-11-17T18:17:43.602Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,24 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 ![Everything search indexed database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Perform Basic Everything Configuration
 
  Everything works just fine out of the box. However, there are some settings and options, which you should modify to get more out of the program. Head over to**Everything Options** by clicking on**Tools > Options** or pressing the**Ctrl + P** keyboard shortcut, and you'll see a bunch of these options.
 
 ![Everything search options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 We recommend enabling the following options from here:
 
@@ -60,16 +71,23 @@ We recommend enabling the following options from here:
 
  Finally, click**Apply** to apply the settings and click**OK** to close the window.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to Find Files and Folders on Windows With Everything
 
  Finding files and folders with Everything is easy. Here are all the different kinds of searches and operations you can perform in Everything.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Search for a File or Folder
 
  When you want to look up a file or folder on your computer, click the search box at the top and start typing its name. Everything will start showing a list of all the relevant results as you do this with information like path, size, and date modified.
@@ -90,9 +108,6 @@ We recommend enabling the following options from here:
 
  Depending on what file or folder you're doing this on, you'll see a range of options in this menu, like rename, copy full path, open path, cut, copy, delete, and more. Most of the actions you perform here will apply directly to the file/folder on the file system and reflect in the File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Sort Your Results
 
  If Everything returns multiple files and folders matching your query, you can sort them by different properties to quickly get to the item you need. To do this, click on**View** , select**Sort by** , and select a sorting option.
@@ -100,17 +115,12 @@ We recommend enabling the following options from here:
 ![Everything sorting options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-sort-options.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Filter Results by Type
 
  By default, when you search for something in Everything, it looks through all the indexed data, which includes different types of files and folders, to find a match. However, if you want, you can select the type beforehand to get results even faster.
@@ -120,9 +130,20 @@ We recommend enabling the following options from here:
 ![filter results by type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/filter-everything-results-by-type.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Everything will filter the results and only show you files and folders that match the specified type.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Match Case to Find Accurate Results
 
@@ -132,9 +153,6 @@ We recommend enabling the following options from here:
 
 ![match case option in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/match-case-in-everything-search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Everything will then return only those files and folders that match the specified case style.
 
 ### 6\. Use Advanced Search
@@ -177,8 +195,6 @@ We recommend enabling the following options from here:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +202,24 @@ We recommend enabling the following options from here:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-harnessing-the-full-spectrum-of-vsco-filters/"><u>[New] 2024 Approved Harnessing the Full Spectrum of VSCO Filters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-leveraging-the-strengths-of-ez-grabber-software/"><u>[New] 2024 Approved Leveraging the Strengths of EZ Grabber Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-into-cinematic-quality-using-instagrams-chroma-keying-effect/"><u>[New] Step Into Cinematic Quality Using Instagram’s Chroma Keying Effect</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-tips-for-faster-vimeo-video-viewing/"><u>[New] Tips for Faster Vimeo Video Viewing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/essential-15-cameras-for-professional-vlogging-experience/"><u>Essential 15 Cameras for Professional Vlogging Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-increase-the-performance-of-android-studio-on-windows/"><u>How to Increase the Performance of Android Studio on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-classic-diablo-a-beginners-guide/"><u>Mastering Classic Diablo: A Beginner's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-administrative-roadblocks-during-software-setup/"><u>Navigating Administrative Roadblocks During Software Setup</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915267445-navigating-the-digital-landscape-exploring-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape: Exploring Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-nubia-red-magic-8s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebooting-to-standard-power-plans-guide-for-win-11/"><u>Rebooting to Standard Power Plans: Guide for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-common-snip-and-sketch-screenshot-hurdles-4-fixes/"><u>Sidestep Common Snip & Sketch Screenshot Hurdles: 4 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-dxgi-failure-in-windows-fix-for-removed-devices/"><u>Tackling DXGI Failure in Windows: Fix for Removed Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-synchronized-note-taking-in-windows-11/"><u>The Art of Synchronized Note-Taking in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-not-responding-errors-for-file-explorer-in-windows-11/"><u>Ultimate Guide: Resolving 'Not Responding' Errors for File Explorer in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-system-details-locate-windows-ip-and-mac-via-powershell/"><u>Unveiling System Details: Locate Windows' IP and MAC via Powershell</u></a></li>
+</ul></div>
 

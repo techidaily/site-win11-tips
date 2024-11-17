@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Correcting Inefficient Defragmenter
-date: 2024-10-31T11:45:30.516Z
-updated: 2024-11-07T00:37:12.339Z
+date: 2024-11-12T18:13:37.691Z
+updated: 2024-11-17T17:21:00.475Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/df6d6f7af97a6f2a263dcbc0519760a864ba0996c
 
  Now we know what causes the Disk Defragmenter to stop working, it's time to look at some solutions that may help you fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check Disk Defragmenter's Status
 
  If your computer is running slowly, one potential reason could be that the Disk Defragmenter service is not running properly. This service helps to optimize your hard drive by rearranging files so that they can be read more quickly and efficiently.
@@ -50,21 +57,7 @@ thumbnail: https://thmb.techidaily.com/df6d6f7af97a6f2a263dcbc0519760a864ba0996c
 ![Set Optimise drives Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Optimise-drives-Properties.jpg)
 5. Click**Apply > OK** to save it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After making the above changes, check if it solves the problem. If not, move on to the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker tool
 
@@ -88,6 +81,13 @@ To run the System File Checker, follow these steps:
 
  Once the scan is complete, restart your computer and try defragmenting again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the CHKDSK Utility
 
  If your computer's Disk Defragmenter is still not working, you can try[running the CHKDSK utility](http://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) . This is a computer program designed to check the integrity of your hard drive, identify errors, and fix them.
@@ -101,16 +101,10 @@ To run the CHKDSK utility, follow the below steps:
 4. When you're in Command Prompt, type the following command and press Enter:  
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `chkdsk C: /f`
@@ -132,14 +126,14 @@ To run the CHKDSK utility, follow the below steps:
 3. Then select**End task** from the context menu.  
 ![Close Programs Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Close-Programs-Via-Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After closing one, check if the disk defragmenter works again. If it does, the service you just closed is the culprit. Now you can either update, re-install, or even uninstall the problematic app so it stops interfering with Disk Defragmenter.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Windows Disk Defragmenter's Opening Issues
 
@@ -160,18 +154,20 @@ To run the CHKDSK utility, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-streamlining-content-tweeting-videos-on-snapchat/"><u>[New] In 2024, Streamlining Content Tweeting Videos on Snapchat</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-transforming-shopping-insights-into-youtube-paychecks/"><u>[Updated] In 2024, Transforming Shopping Insights Into YouTube Paychecks</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-maximizing-tiktok-video-velocity-effectively/"><u>[Updated] Maximizing TikTok Video Velocity Effectively</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-everyones-guide-to-youtube-success-10-straightforward-video-tips/"><u>2024 Approved Everyone's Guide to YouTube Success 10 Straightforward Video Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-molds-changing-the-winadmin-access-paradigm/"><u>Breaking Molds: Changing the WinAdmin Access Paradigm</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/complete-guide-on-resolving-kernel-memory-glitches-leading-to-blue-screens-step-by-step-repair-tutorial/"><u>Complete Guide on Resolving Kernel Memory Glitches Leading to Blue Screens - Step by Step Repair Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/confronting-memory-write-issues-in-windows/"><u>Confronting 'Memory Write' Issues in Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-rpg-legacy-meets-innovation-written-by-time/"><u>In 2024, RPG Legacy Meets Innovation' Written by Time</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-productivity-grab-the-ultimate-multitasking-dock-at-a-steal-save-35-today-only-featured-by-zdnet/"><u>Maximize Your Productivity: Grab the Ultimate Multitasking Dock at a Steal - Save 35% Today Only, Featured by ZDNET!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-to-startup-folder-in-windows-os-quickly/"><u>Navigating to Startup Folder in Windows OS Quickly</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/say-goodbye-to-annoying-pop-ups-a-guide-to-using-malwarefox-on-samsung-phones-and-tablets/"><u>Say Goodbye to Annoying Pop-Ups: A Guide to Using MalwareFox on Samsung Phones and Tablets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-wmp-failures/"><u>Understanding & Correcting WMP Failures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/flac-and-mkv-movavi/"><u>무료 인터넷 공급 - FLAC & MKV 비디오를 원형으로 전환: Movavi 소개</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-celebrity-evanescent-video-review/"><u>[New] Celebrity Evanescent Video Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-capture-live-camera-video-using-vlc-media/"><u>[New] In 2024, Capture Live Camera Video Using VLC Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-hero5-black-vs-yi-4k-the-latest-in-action-cam-showdown/"><u>[New] In 2024, Hero5 Black Vs. Yi 4K The Latest in Action Cam Showdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cpu-gen-identification-using-eight-proven-windows-methods/"><u>CPU Gen Identification Using Eight Proven Windows Methods</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/fixes-and-solutions-how-to-restore-your-apple-mobile-devices-usb-connection-on-windows-systems/"><u>Fixes & Solutions: How To Restore Your Apple Mobile Device's USB Connection On Windows Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-console-management-with-admin-rights/"><u>Mastering Windows Console Management with Admin Rights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-pink-screens-in-windows-systems/"><u>Quick Fixes for Pink Screens in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectify-your-input-cannot-be-opened-error-in-windows-vlc/"><u>Rectify 'Your Input Cannot Be Opened' Error in Windows, VLC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-y78-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo Y78 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-strikes-winning-warfare-without-lag-in-star-wars-bf2/"><u>Swift Strikes: Winning Warfare Without Lag in Star Wars BF2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tame-noisy-keys-regaining-control-over-sound-on-your-pc/"><u>Tame Noisy Keys: Regaining Control Over Sound on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-beginners-roadmap-to-google-maps-on-pc/"><u>The Beginner's Roadmap to Google Maps on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-snapchat-account-again-effective-reactivation-methods/"><u>Unlocking Your Snapchat Account Again – Effective Reactivation Methods</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerful-performance-a-thorough-look-at-the-samsung-galaxy-tab-s4-for-android-users/"><u>Unveiling the Powerful Performance: A Thorough Look at the Samsung Galaxy Tab S4 for Android Users</u></a></li>
 </ul></div>
 

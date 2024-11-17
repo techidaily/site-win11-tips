@@ -1,7 +1,7 @@
 ---
 title: Easy Step-by-Step Process for Converting Your Mp3 Collection Into Widespread, High-Quality Audio Cds via ImgBurn (Windows)
-date: 2024-11-05T04:03:19.432Z
-updated: 2024-11-07T00:42:55.808Z
+date: 2024-11-12T18:42:12.039Z
+updated: 2024-11-17T20:24:24.386Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
  Note that if you want to perform the opposite, to bring your CDs into the modern age by converting them to MP3s, we've got you covered, too. Check our article on[how to rip a CD to MP3 (and auto-name the files correctly)](https://www.makeuseof.com/tag/how-to-rip-a-cd-automatically-correctly-name-the-files-windows/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Download and Install ImgBurn
 
  With the necessary information out of the way, it's time to write some music on your CDs. For this article, we're taking for granted that your PC is equipped with a CD writer and that you have a handful of audio files and blank CDs available.
@@ -72,13 +79,26 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![ImgBurn Main Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-main-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Place an "empty" CD in your CD writer, and prepare to burn some music.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Make a Cue File
@@ -88,15 +108,16 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 1. To create such a CUE from a bunch of audio files with ImgBurn, choose**Create CUE File** from the app's**Tools** menu.  
 ![ImgBurn Tools Create CUE File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-tools-create-cue-file.jpg)
 2. Drag and drop your audio files from a file manager on ImgBurn's**Create CUE File** window. You'll see them in serialized sequence inside the**Layout** part of ImgBurn's window.  
-![ImgBurn Creating the CUE list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-list.jpg)
-3. If you want to remove a file from your Audio CD, select it in the**Layout** and click on the button with the**red "X"** on the right. Audio CDs can hold up to 70 minutes of audio. If your files add up to more, you should remove some of them, or ImgBurn won't be able to write them on an Audio CD.  
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![ImgBurn Creating the CUE list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-list.jpg)
+3. If you want to remove a file from your Audio CD, select it in the**Layout** and click on the button with the**red "X"** on the right. Audio CDs can hold up to 70 minutes of audio. If your files add up to more, you should remove some of them, or ImgBurn won't be able to write them on an Audio CD.  
 
 ![ImgBurn Creating the CUE Removing Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-removing-files.jpg)
 4. You can use the**arrow buttons** on the right of the window to change the placement of files in the CUE sequence.  
@@ -105,21 +126,7 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 ![ImgBurn Creating the CUE CD TEXT Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-cd-text-options.jpg)
 6. Enable the option**Add To Write Queue When Done** on the bottom left of ImgBurn's window. Then, click on OK to save your CUE file and have it "forwarded" to the CD writing section of the app.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ImgBurn Creating the CUE Add to Write Queue When Done](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-add-to-write-queue-when-done.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to "Burn" Your Music Onto a CD
 
@@ -130,26 +137,27 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 2. If you have more than one optical disc writing device on your PC, select the correct one under**Destination** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ImgBurn Select Writing Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-select-writing-device.jpg)
 3. Turn your attention to the bottom right of ImgBurn's writing window. Change the**Write Speed** under**Settings** to 4x or even lower for optimal results.  
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ImgBurn Choose Writing Speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-choose-writing-speed.jpg)
 4. Click on the large button on the bottom left of ImgBurn's writing window to start the burning process.  
 ![ImgBurn Burn Media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-burn-media.jpg)
 5. ImgBurn's main window will "morph" again to show you the writing process progress. Your Audio CD will be ready when the bar under**Complete** fills up. Depending on your settings and hardware, your CD tray may eject when the writing completes.  
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ImgBurn Writing Progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-writing-progress.jpg)
 
 ## Listen to Music the Retro Way With ImgBurn
@@ -173,24 +181,24 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-blue-band-promise-made-easy-snapping-strategies/"><u>[Updated] 2024 Approved The Blue Band Promise Made Easy Snapping Strategies</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-ranking-the-top-16-youtube-intros-to-amplify-views/"><u>[Updated] In 2024, Ranking the Top 16 YouTube Intros to Amplify Views</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-prime-chrome-drawing-programs-the-ultimate-list-for-2024/"><u>[Updated] Prime Chrome Drawing Programs The Ultimate List for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-balance-your-shots-best-camera-stabilizers-reviewed/"><u>2024 Approved Balance Your Shots Best Camera Stabilizers Reviewed</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-note-30-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Note 30 Pro FRP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-seamless-multilingual-input-adjusting-keyboard-layout-in-windows-11/"><u>Achieve Seamless Multilingual Input: Adjusting Keyboard Layout in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-security-account-manager-glitches/"><u>Correcting Windows Security Account Manager Glitches</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-the-hidden-gems-in-marvels-avengers-amidst-mixed-receptions/"><u>Discovering the Hidden Gems in Marvel's Avengers Amidst Mixed Receptions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-to-stop-windows-10-blue-screens/"><u>Essential Fixes to Stop Windows 10 Blue Screens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exceptional-all-rounder-the-highly-praised-laptop-that-wows-with-robust-hardware-features-insights-from-zdnet/"><u>Exceptional All-Rounder: The Highly Praised Laptop That Wows With Robust Hardware Features - Insights From ZDNet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/exquisite-stardew-valley-enhancements-revealed-top-7/"><u>Exquisite Stardew Valley Enhancements Revealed (Top 7)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reinstalling-microsoft-store-apps-on-windows-10-and-11/"><u>Guide to Reinstalling Microsoft Store Apps on Windows 10 & 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-master-money-makers-the-best-of-the-top-ig-earners/"><u>In 2024, Master Money Makers The Best of the Top IG Earners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-sticky-notes-display-on-win-11/"><u>Mastering the Art of Sticky Notes Display on Win 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/professional-picks-top-gimbals-for-drones-for-2024/"><u>Professional Picks Top Gimbals for Drones for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-keyboard-errors-for-functional-shortcuts-in-windows-11/"><u>Resolve: Keyboard Errors for Functional Shortcuts in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/say-goodbye-to-speedy-pointers-curtailing-acceleration-on-windows-11/"><u>Say Goodbye to Speedy Pointers: Curtailing Acceleration on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-ceasing-random-windows-key-activation/"><u>Strategies for Ceasing Random Windows Key Activation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-devices-on-the-frontline-top-5-ways-to-confirm-availability/"><u>Windows 11 Devices on the Frontline: Top 5 Ways to Confirm Availability</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exclusive-insight-into-low-cost-footage-websites-for-2024/"><u>[Updated] Exclusive Insight Into Low-Cost Footage Websites for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-seamless-live-recording-on-fb-uncover-4-critical-steps/"><u>[Updated] In 2024, Seamless Live Recording on FB Uncover 4 Critical Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-online-markets-for-quality-tamil-ringtone-downloads/"><u>2024 Approved Unveiling Top Online Markets for Quality Tamil Ringtone Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-analysis-of-windows-lav-filter-usage-and-outputs/"><u>A Comprehensive Analysis of Windows LAV Filter Usage and Outputs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/bridging-photo-realms-on-your-system/"><u>Bridging Photo Realms on Your System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-your-preferred-soft-install-tool-on-win-devices/"><u>Finding Your Preferred Soft Install Tool on Win Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-non-starting-adobe-photoshopping-in-windows-11/"><u>How to Enable Non-Starting Adobe Photoshopping in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-camera-apps-error-0xa00f425d-in-windows-11-and-11/"><u>How to Fix the Camera App’s Error 0xA00F425D in Windows 11 & 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-x50i-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor X50i to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-8-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 8 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-quick-youtube-comment-removal-techniques/"><u>In 2024, Mastering Quick YouTube Comment Removal Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-personalize-your-tune-list-a-step-by-step-guide-to-youtube-playlist-creation/"><u>In 2024, Personalize Your Tune List A Step-by-Step Guide to YouTube Playlist Creation</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-android-into-windows-11-select-the-best-6-companion-apps/"><u>Integrating Android Into Windows 11: Select the Best 6 Companion Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/multi-vm-mastery-setting-up-linux-vm-in-hyper-v-on-windows/"><u>Multi-VM Mastery: Setting Up Linux VM in Hyper-V on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-dir-not-empty-error-0x80070091/"><u>Overcoming Windows 11 Dir Not Empty Error (0X80070091)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivate-your-windows-11-explore-with-ease/"><u>Reactivate Your Windows 11 Explore with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-tips-for-sticky-note-backup/"><u>The Essential Tips for Sticky Note Backup</u></a></li>
 </ul></div>
 

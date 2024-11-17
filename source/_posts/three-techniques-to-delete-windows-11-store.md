@@ -1,7 +1,7 @@
 ---
 title: Three Techniques to Delete Windows 11 Store
-date: 2024-11-05T03:40:54.298Z
-updated: 2024-11-06T22:57:48.679Z
+date: 2024-11-10T19:34:02.587Z
+updated: 2024-11-17T19:44:16.853Z
 tags:
   - windows10
   - windows11
@@ -32,22 +32,15 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
  But don’t worry. You can remove the app and then reinstall it if you want. Reinstallation can fix persistent issues with the current version of the Microsoft Store app. It will remove the current app installation and all its related files and corrupt data. After that, you can reinstall the Microsoft app with a single command.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Uninstall Microsoft Store App From Windows 11
 
  You can remove the Microsoft Store app from Windows 11 using the winget tool and run it using the command prompt. In addition, you can use the PowerShell cmdlet to remove the Microsoft Store application package from your system or use a batch file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Using Winget
 
@@ -62,16 +55,16 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 ![Uninstall Microsoft Store App using winget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-store-app-using-winget.jpg)
 6. Type**exit** in the command prompt window and press enter to close it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using PowerShell
 
  Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Using a Batch File
 
@@ -83,15 +76,23 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 3. Now, press**Ctrl + Shift + S** to open the "Save as" window. Name the batch file as**UninstallStore.bat** and keep the**Save as** type option as**All files** .  
 ![Uninstall Microsoft Store App using batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-store-app-using-batch-file.jpg)
 4. Click on the**Save** button. Close the Notepad window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Press**Win + D** to switch to the desktop again. Right-click on the batch file and select the**Run as administrator** option from the context menu.
 6. A command prompt window will open, run the Microsoft Store app uninstallation command, and close automatically. You don’t need to interact with the window.
 7. Open the Start menu and search for Microsoft Store. You won’t find any matching app on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Remove the Microsoft Store From Windows
@@ -113,17 +114,18 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-top-5-mac-snippet-applications-for-2024/"><u>[New] Unveiling Top 5 Mac Snippet Applications for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-guerrilla-mic-guide-top-chip-selection-on-a-shoestring/"><u>2024 Approved Guerrilla Mic Guide Top Chip Selection on a Shoestring</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-mp3m4r-m4r/"><u>2024 MP3到M4R无损转换解决方案：锁定最佳免费工具与转换技巧 - M4R专家指南</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-idea-to-action-creating-custom-window-pattern-loops/"><u>From Idea to Action: Creating Custom Window Pattern Loops</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/full-guide-to-implementing-sysprep-with-windows-server-2019-in-vmware-environments/"><u>Full-Guide to Implementing Sysprep with Windows Server 2019 in VMware Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-turn-fingertip-writing-onoff-windows/"><u>Guide to Turn Fingertip Writing On/Off Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-adjust-windows-key-functioning/"><u>How To Effortlessly Adjust Windows Key Functioning</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-m34-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy M34 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-no-more-files-warning-on-windows-11/"><u>Removing 'No More Files' Warning on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocked-voice-connectivity-with-xbox-app-on-windows-11-pcs/"><u>Unblocked Voice Connectivity with Xbox App on Windows 11 PCs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-rapid-rendering-of-epic-battle-royale-tiles/"><u>[New] In 2024, Rapid Rendering of Epic Battle Royale Tiles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-guide-to-podcast-cover-design-10-core-insights-for-2024/"><u>[Updated] Guide to Podcast Cover Design 10 Core Insights for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-repairing-windows-error-0x80040610-in-outlook/"><u>Comprehensive Guide: Repairing Windows Error 0X80040610 in Outlook</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-sennheiser-gamers-mic-a-comprehensive-troubleshooting-tutorial/"><u>Fixing Your Sennheiser Gamer's Mic: A Comprehensive Troubleshooting Tutorial</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-in-depth-skype-audio-capture-guide-with-obs-software/"><u>In 2024, In-Depth Skype Audio Capture Guide with OBS Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-unconnect-error-for-windows-nvidia-applications/"><u>Removing Unconnect Error for Windows' Nvidia Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shed-light-on-dark-windows-11-desktops-tips-inside/"><u>Shed Light on Dark Windows 11 Desktops - Tips Inside!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-amd-graphics-drivers-update-for-windows-11-pcs/"><u>Step-by-Step AMD Graphics Drivers Update for Windows 11 PCs</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>The way to get back lost data from Sony Xperia 5 V</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-best-windows-photo-organizers-listed-here/"><u>Unveiling the Best Windows Photo Organizers Listed Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-ancient-pcs-for-modern-operations-using-windows-to-go-and-rufus/"><u>Upgrading Ancient PCs for Modern Operations: Using Windows To Go and Rufus</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-harmony-essential-soundtracks-for-popular-video-shorts/"><u>Viral Harmony Essential Soundtracks For Popular Video Shorts</u></a></li>
 </ul></div>
 

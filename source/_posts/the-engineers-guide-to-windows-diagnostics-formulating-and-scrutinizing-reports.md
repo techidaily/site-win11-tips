@@ -1,7 +1,7 @@
 ---
 title: "The Engineer's Guide to Windows Diagnostics: Formulating & Scrutinizing Reports"
-date: 2024-11-02T07:58:08.087Z
-updated: 2024-11-06T22:34:42.028Z
+date: 2024-11-13T17:34:07.291Z
+updated: 2024-11-17T18:06:51.620Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  The system report is a text document that contains detailed information about the hardware and software installed on your computer. This information includes the status and configurations of the hardware and software. The system report comes in handy when you need to troubleshoot a specific problem, check the specifications of your computer, or when you want to send the file to a support technician who can assist you with diagnosing a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create a System Report on Windows
 
  To generate the system report, you'll first have to [open the System Information window](https://www.makeuseof.com/windows-open-system-information/) and then save the information you see there as a text file. Here's how to do that.
@@ -43,8 +36,23 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 1. Press **Win + R** to bring up the Windows Run dialog box, enter **msinfo** in the text box, and then hit the **Enter** key to bring up System Information.  
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
 2. To generate the report, click **File** in the top left corner and select **Save**. Alternatively, you can press **Ctrl + S** on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![saving systemr eport on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/saving-system-report-windows.jpg)
 3. Choose a location where you want to save the file and click **Save**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can open the system report or send it to a technician to analyze and find out what is wrong with your computer.
 
@@ -56,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 ![Ensuring Our PC Supports Secure Boot in the System Information Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Within **System Summary** in the navigation pane, you'll find subsections that contain even more detailed information, with the first one being **Hardware Resources**. Here, you'll find information about the hardware currently installed on your system and how it's functioning.
 
  You can, for example, use this section to find out about any hardware conflicts, which happen when hardware on your computer competes for the same resources, by selecting **Conflict/Sharing**.
@@ -73,25 +74,31 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 ![the Display section of the system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/display-section-system-report-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In **Software Environment**, you can get information on things like system drivers, running tasks, startup programs, and print jobs on your computer.
 
 ![the System Drivers section of system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/system-drivers-section-system-report-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So that's all you need to know to get started with the system report.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Search for Information in the System Report
 
@@ -109,29 +116,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  No matter the case, we are going to show you how to create this useful report and start making sense of it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-fitness-frontiers-unveiling-premier-virtual-reality-walkers/"><u>[New] Fitness Frontiers Unveiling Premier Virtual Reality Walkers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-discovering-the-dynamics-of-whatsapp-vocal-messages/"><u>[New] In 2024, Discovering the Dynamics of WhatsApp Vocal Messages</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-maximizing-exposure-submitting-to-apple/"><u>[New] Maximizing Exposure Submitting to Apple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/chromes-unwanted-tab-behavior-stop-and-reverse/"><u>Chrome's Unwanted Tab Behavior: Stop and Reverse</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tifying-creator-studio-a-practical-handbook-for-2024/"><u>Demystifying Creator Studio A Practical Handbook for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/differentiating-siri-from-chatgpt-key-factors-to-consider/"><u>Differentiating Siri From ChatGPT: Key Factors to Consider</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-6-powerpoint-file-saving-solutions-in-windows-11/"><u>Essential Fixes: 6 PowerPoint File Saving Solutions in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-muting-pc-sound-boosting-options/"><u>Guide to Muting PC Sound Boosting Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-restore-a-missing-windows-update-service-on-windows/"><u>How to Restore a Missing Windows Update Service on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-z-fold-5-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy Z Fold 5 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-the-windows-engine-crafting-and-deciphering-system-data/"><u>Inside the Windows Engine: Crafting & Deciphering System Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-manipulation-opening-and-exploring-mouse-in-win11/"><u>Masterful Manipulation: Opening and Exploring Mouse in Win11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/powerful-wireless-experience-comprehensive-review-of-the-netgear-nighthawk-x1-8ad7200-router/"><u>Powerful Wireless Experience: Comprehensive Review of the Netgear Nighthawk X1 8AD7200 Router</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revised-take-on-s3700-sony-bdp-review/"><u>Revised Take on S3700 Sony BDP Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-making-your-windows-clicklock-work-better/"><u>Step-by-Step Guide: Making Your Windows ClickLock Work Better</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-to-update-lenovo-docking-station-device-drivers/"><u>Step-by-Step Process to Update Lenovo Docking Station Device Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-time-travel-reimagining-windows-11-as-98/"><u>Tech Time Travel: Reimagining Windows 11 as 98</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-discontent-in-windows-11-upgrades/"><u>Unveiling the Discontent in Windows 11 Upgrades</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -139,3 +123,20 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-record-screen-with-ezvid-video-maker-for-2024/"><u>[New] How to Record Screen with Ezvid Video Maker for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-accelerate-your-adrenaline-the-ultimate-5-racing-game-list/"><u>[New] In 2024, Accelerate Your Adrenaline The Ultimate 5 Racing Game List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mac-innovators-handbook-crafting-cool-youtube-videos/"><u>[Updated] 2024 Approved Mac Innovators' Handbook Crafting Cool Youtube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-for-faulty-windows-batch-file-operations/"><u>Bridging the Gap for Faulty Windows Batch File Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-incompatible-system-mark-on-windows-11/"><u>Bypass Incompatible System Mark on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-cant-add-your-folder-now-hiccup-in-windows-onedrive/"><u>Bypassing the 'Can't Add Your Folder Now' Hiccup in Windows OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/celestial-mastery-revealed-unlocking-god-mode-in-windows-11/"><u>Celestial Mastery Revealed: Unlocking God Mode in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/change-display-axis-in-windows-interface/"><u>Change Display Axis in Windows Interface</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210132702-9781953791115-i-sing-my-psalm/"><u>I Sing My Psalm | Free Book</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-8-websites-for-3d-graffiti-fonts/"><u>In 2024, Top 8 Websites for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rectifying-the-dysfunction-of-steelseries-arctis-pro-headsets-microphone-the-definitive-fixes/"><u>Rectifying the Dysfunction of SteelSeries Arctis Pro Headset's Microphone - The Definitive Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-ie-driver-integration-for-old-and-new-windows/"><u>Streamlined IE Driver Integration for Old & New Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Guiding Through Keyboard-Driven Program Resizing for Windows 11
-date: 2024-09-01T05:16:37.904Z
-updated: 2024-09-02T05:16:37.904Z
+date: 2024-11-14T18:35:25.380Z
+updated: 2024-11-17T19:59:49.867Z
 tags:
   - windows10
   - windows11
@@ -65,23 +65,37 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 3. Then select one of the sizes for a hotkey to resize a window to on the**Menu** tab.  
 ![The Menu tab in Sizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-tab.jpg)
 4. Click the**Edit** button.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
 6. Press a letter to combine with your selected key.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Click**OK** on the Sizer Menu Entry window.
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now open File Explorer using one of the many[ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
  If you want to create a hotkey for a window size not included on the**Menu** tab, click the**Add Size** button; input alternative dimension values in the**Width** and**Height** boxes. Enter a title for the keyboard hotkey in the**Description** box. Then set a hotkey for the window size as instructed for steps 10 to 13 above.
@@ -91,8 +105,12 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also set the hotkeys to move windows to specific positions. To do that, select size you set a hotkey for on the**Menu** and click**Edit** . Select an option on the Move to drop-down menu. Click the**OK** \>**Apply** option to save the changes.
 
  If you want to remove a hotkey, select the window size you set it for on the Menu tab. Press the**Delete** button to erase. You can also reorder the sizes on the**Menu** tab by selecting them and pressing the**Move Up** and**Move Down** options.
@@ -101,21 +119,8 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
  Resizing windows helps you fit multiple apps open on the desktop better. You may find it better to utilize keyboard keys for changing window sizes with the methods above instead of the mouse.
@@ -128,8 +133,6 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +140,16 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-cinematic-chronicles-reviewing-high-fidelity-recorders/"><u>[New] 2024 Approved Cinematic Chronicles Reviewing High-Fidelity Recorders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-discover-two-hands-on-approaches-to-personalize-snapchat-audio/"><u>[New] 2024 Approved Discover Two Hands-On Approaches to Personalize Snapchat Audio</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y28-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y28 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-facilitate-copy-and-paste-features-with-microsoft-edges-security-functionality-win11/"><u>How to Facilitate Copy & Paste Features with Microsoft Edge's Security Functionality (Win11)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-terminal-for-quake-users/"><u>Mastering Windows Terminal for Quake Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-solving-the-lack-of-audio-devices-error-on-windows-11-pcs/"><u>Step-by-Step Guide: Solving the Lack of Audio Devices Error on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-gameplay-addressing-windows-boltgun-stutters/"><u>Streamline Your Gameplay: Addressing Window's Boltgun Stutters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-route-for-installing-java-development-kit-on-windows-11/"><u>The Ultimate Route for Installing Java Development Kit on Windows 11</u></a></li>
+</ul></div>
 

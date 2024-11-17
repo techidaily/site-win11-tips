@@ -1,7 +1,7 @@
 ---
 title: Fix Guide for Windows Unlaunched Lunar Client Errors
-date: 2024-11-01T04:39:37.970Z
-updated: 2024-11-07T12:07:18.660Z
+date: 2024-11-11T18:53:54.584Z
+updated: 2024-11-17T17:48:46.494Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ First off, carry out the following preliminary checks:
 
  If the above checks do not solve the problem, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run Lunar Client as an Administrator
 
  You may encounter the error under discussion if Lunar Client doesn't have access to some system files. To ensure that the restricted access isn't causing the problem, run the client as an administrator. Doing so will allow Lunar Client to access files or resources that would otherwise be inaccessible.
@@ -53,21 +46,7 @@ Follow these steps to run Lunar Client as an administrator:
 3. Right-click on Lunar Client's EXE file and select**Run as administrator** from the context menu.  
 ![Run Lunar Client as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-run-lunar-client-as-an-administrator-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If launching Lunar Client as an administrator fixes the problem, this indicates that operating system restrictions are causing this error. So, you should[configure the application to always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Delete Lunar Client's Cache Folders
 
@@ -97,6 +76,19 @@ To change Lunar Client's memory allocation, follow these steps:
 3. To change the memory allocation, drag the slider under**Allocated Memory** .  
 ![Change the Allocated Memory in the Lunar Client Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-allocated-memory-in-the-lunar-client-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  How much memory you should allocate depends entirely on the amount of memory you have on your computer. If you have 16GB of RAM installed, allocating 5GB would be a better decision. If the overall memory is less than that, you can allocate it accordingly.
 
 ## 5\. Delete the Old Renderer Log File
@@ -112,23 +104,10 @@ To change Lunar Client's memory allocation, follow these steps:
 ![Delete the Old Renderer Log File in Lunar Client's Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-delete-the-old-renderer-log-file-in-lunar-client-s-installation-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Whitelist Lunar Client in Windows Defender and Your Antivirus
@@ -136,6 +115,13 @@ To change Lunar Client's memory allocation, follow these steps:
  Lunar Client is a third-party software application. So, Windows Defender and other antivirus programs installed on your device can interfere with the client's processing. To prevent this, whitelisting the lunar client from security software is necessary.
 
  Our guide on[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) describes the steps to whitelist apps from Windows' built-in security suite. If you use a third-party antivirus as an extra layer of protection, you can find instructions about whitelisting apps through it on its official website.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Java Runtime Environment
 
@@ -151,9 +137,23 @@ To change Lunar Client's memory allocation, follow these steps:
 5. Then click on the**Install** button.  
 ![Install Java Runtime Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-install-java-runtime-environment.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you encounter any problems during installation, uninstall the existing installation. To do that, open the**Settings** app and go to the**Apps** tab on the left. Then, find the**Java**  package from the list of installed programs, click on the**three horizontal dots** next to it, and click**Uninstall** .
 
 ![Uninstall the Existing Java Package From Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-uninstall-the-existing-java-package-from-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the installation window automatically detects an old Java version, uninstall it by clicking**Uninstall** .
 
@@ -178,22 +178,20 @@ To change Lunar Client's memory allocation, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-navigating-skype-recordings-on-windows-and-mac-free-vs-paid-guide/"><u>[New] 2024 Approved Navigating Skype Recordings on Windows & Mac - Free vs Paid Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-embark-on-an-avatar-journey-crafting-characters-with-ease-and-style-for-2024/"><u>[New] Embark on an Avatar Journey Crafting Characters with Ease and Style for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-brighten-up-your-gaming-setup-eliminate-black-screens-with-obs/"><u>2024 Approved Brighten Up Your Gaming Setup Eliminate Black Screens with OBS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-hdr-tvs-explored-is-aurora-at-the-forefront/"><u>2024 Approved HDR TVs Explored Is Aurora at the Forefront?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-apk-setup-with-a-single-click-for-w11-users/"><u>Effortless APK Setup with a Single Click for W11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-advice-when-and-how-to-leverage-ping-on-windows/"><u>Expert Advice: When and How to Leverage Ping on Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xr-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XR to Mac? | Dr.fone</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/hp-laptop-not-responding-after-sleep-mode-on-windows-11-how-to-fix/"><u>HP Laptop Not Responding After Sleep Mode on Windows 11 - How to Fix</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-outlook-and-gmail-synergy-on-your-pc/"><u>Mastering Outlook & Gmail Synergy on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-pc-essential-free-tools-for-win11-users/"><u>Mastering Your PC: Essential Free Tools for Win11 Users</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximize-visibility-with-well-structured-yt-summaries-for-2024/"><u>Maximize Visibility with Well-Structured YT Summaries for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/monetization-approaches-for-microsoft-and-windows-11/"><u>Monetization Approaches for Microsoft & Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redesigning-the-user-experience-in-win11-settings/"><u>Redesigning the User Experience in Win11 Settings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-30-essential-gmail-shortcut-keys-for-faster-emailing/"><u>Top 30 Essential Gmail Shortcut Keys for Faster Emailing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-a-frozen-xbox-app-in-windows-10/"><u>Unlocking a Frozen Xbox App in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-secret-to-a-cleaner-win11-experience/"><u>Unveiling the Secret to a Cleaner Win11 Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-a-compreayers-guide-to-capturing-console-games-on-a-computer/"><u>[New] A Compreayer's Guide to Capturing Console Games on a Computer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-efficient-youtube-ad-blocking-on-chromefirefoxandroid-devices/"><u>[New] In 2024, Efficient YouTube Ad Blocking on Chrome/Firefox/Android Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hriving-online-finding-compatible-co-stars-for-youtube/"><u>[New] Thriving Online Finding Compatible Co-Stars for YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-and-annotate-comics-easily-on-win11/"><u>Access and Annotate Comics Easily on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-webcam-integration-on-windows-11-pcs/"><u>Android Webcam Integration on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beating-the-default-shrinking-in-winos/"><u>Beating the Default Shrinking in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-tools-for-win-soft-installation-chocolatey-or-wm/"><u>Best Tools for Win Soft Installation: Chocolatey or WM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-functionality-with-windows-11s-taskbar/"><u>Boosting Functionality with Windows 11'S Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-the-effectiveness-of-your-pointer-on-win11s-system/"><u>Boosting the Effectiveness of Your Pointer on Win11's System</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-sound-system-advances-announced/"><u>In 2024, Sound System Advances Announced</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-edge-discover-the-5-emerging-ai-hardware-technologies/"><u>Leading Edge: Discover the 5 Emerging AI Hardware Technologies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-conversation-design-with-these-7-online-prompt-crafting-platforms/"><u>Mastering Conversation Design with These 7 Online Prompt Crafting Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/masterpiece-selection-worldwide-stream-plus-local-channel-aggregation/"><u>Masterpiece Selection Worldwide Stream + Local Channel Aggregation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-onlineavim4a/"><u>Movavi Online無料で優れた品質のAVIとM4Aフォーマット変換サービス</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-ranking-instagram-photo-enhancers/"><u>Top-Ranking Instagram Photo Enhancers</u></a></li>
 </ul></div>
 

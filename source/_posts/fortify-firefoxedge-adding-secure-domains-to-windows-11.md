@@ -1,7 +1,7 @@
 ---
 title: "Fortify Firefox/Edge: Adding Secure Domains to Windows 11"
-date: 2024-10-30T22:43:39.213Z
-updated: 2024-11-06T21:58:58.933Z
+date: 2024-11-15T17:03:18.807Z
+updated: 2024-11-17T16:09:53.743Z
 tags:
   - windows10
   - windows11
@@ -55,19 +55,19 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 3. Click the drop-down icon next to the **Insecure content** option and choose **Allow** from the context menu. Then, restart Google Chrome.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Insecure content option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that’s about it. Now you can access the added website without any pop-up or warning by Google Chrome.
@@ -75,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  In the future, if you want to remove the website from the trusted list, choose **Block(default)** from the Insecure content drop-down menu and then restart Google Chrome to save the changes.
 
 ![Block option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/block-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add a Website to the Microsoft Edge Trusted List
 
@@ -84,21 +91,15 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 2. Click the Lock icon on the left side of the URL box and choose **Permissions** **for this site** option.  
 ![Permission for this site option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-for-this-site.jpg)
 3. Choose Allow from the Insecure content drop-down menu. Then, restart Microsoft Edge to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Allow option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add a Website to the Mozilla Firefox Trusted List
 
@@ -109,6 +110,14 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 3. Click the **hamburger icon** at the top right corner, and choose **Settings.**  
 ![Settings option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option.jpg)
 4. Choose the **Privacy** **& Security** option from the left sidebar and click the **Manage Exceptions** button in the right pane.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Manage exceptions option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-exceptions-option.jpg)
 5. Paste the copied URL in the **Address of website** field and click the **Add Exception** button.  
 ![Add exception option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-exception-option.jpg)
@@ -119,10 +128,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 ![Remove Website option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-website-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Website to the Brave Trusted List
@@ -135,37 +144,11 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 3. Click the drop-down icon next to the Insecure content option and choose Allow.  
 ![Insecure content option in Brave](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set Up Trusted Sites List
 
  Oftentimes, you will notice your browser showing error messages upon accessing certain websites or web pages. This is in place to keep your computer secure from potentially harmful websites. But if you know the website you're trying to access is safe, you can add it to the trusted list of different browsers.
 
  In this article, we will show how to add trusted sites on Windows 11, plus instructions for various browsers such as Google Chrome, Brave, Microsoft Edge, and Mozilla Firefox.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-real-time-skype-monitoring-with-live-obs-integration/"><u>[New] 2024 Approved Real-Time Skype Monitoring with Live OBS Integration</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-decorate-your-snaps-iphoneandroids-best-10-sticker-enhancing-apps-for-2024/"><u>[New] Decorate Your Snaps IPhone/Android's Best 10 Sticker-Enhancing Apps for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-real-time-storytelling-on-the-rise-navigating-and-thriving-in-a-social-media-world-for-2024/"><u>[New] Real-Time Storytelling on the Rise Navigating and Thriving in a Social Media World for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-image-booster-intense-visual-upgrade/"><u>[Updated] Ultimate Image Booster Intense Visual Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-failed-logon-wait-duration-settings/"><u>Adjusting Failed Logon Wait Duration Settings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/amazon-primes-trending-series-twitters-choice-2023/"><u>Amazon Prime's Trending Series - Twitter's Choice, 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-data-safety-embedding-secure-passwords-into-files/"><u>Elevate Data Safety: Embedding Secure Passwords Into Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-frozen-windows-update-pause/"><u>Eliminate Frozen Windows Update Pause</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-continuity-of-settings-with-nvidia-control-panel-in-windows-11/"><u>Ensuring Continuity of Settings with NVidia Control Panel in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-hot-40i-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Hot 40i for Free? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/manage-your-profile-detailed-guide-to-navigating-account-preferences/"><u>Manage Your Profile: Detailed Guide to Navigating Account Preferences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-packages-on-pc-the-choco-way-or-wm-approach/"><u>Navigating Packages on PC: The Choco Way or WM Approach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-reducing-system-resource-utilization-by-services/"><u>Strategies for Reducing System Resource Utilization by Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-graphics-performance-on-hogwarts-learning-platform/"><u>Strategies to Improve Graphics Performance on Hogwarts Learning Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-tips-for-overcoming-server-notifications-on-pc-apex-(156-chars/"><u>Top Tips for Overcoming Server Notifications on PC Apex (<156 Chars)</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +157,21 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-your-first-step-on-twitter-creating-an-account/"><u>[Updated] 2024 Approved Your First Step on Twitter Creating an Account</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-ultimate-step-by-step-guide-to-using-and-curating-gifs-in-discord/"><u>[Updated] In 2024, The Ultimate Step-by-Step Guide to Using and Curating GIFs in Discord</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boost-your-sales-opening-plans/"><u>Boost Your Sales Opening Plans</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-11-writable-memory-protection/"><u>Correcting Windows 11' Writable Memory Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-code-0x80070141-making-unreachable-devices-connectable/"><u>Eliminating Error Code 0X80070141: Making Unreachable Devices Connectable</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-with-the-power-of-cookiebot-technology/"><u>Enhanced with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-v30-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo V30 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flattening-the-cornered-look-of-win11/"><u>Flattening the Cornered Look of Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-error-code-0x80-point-to-point-link-failure-on-windows/"><u>How to Handle Error Code: 0X80 Point-to-Point Link Failure on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-precision-in-visuals-how-to-blur-backgrounds-on-teamblend/"><u>In 2024, Precision in Visuals How to Blur Backgrounds on Teamblend</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/learn-to-optimize-google-meet-host-plus-participant-without-spending-a-dime/"><u>Learn to Optimize Google Meet (Host + Participant) Without Spending a Dime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-erroneous-code-fixing-0x800713f-mail-glitch-in-windows-11/"><u>Tackling Erroneous Code: Fixing 0X800713F Mail Glitch in Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-the-durable-asus-chromebook-c2/"><u>The Ultimate Review of the Durable Asus Chromebook C2</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Default Apps: How to Change Them and What to Do If You Can't"
-date: 2024-09-01T05:16:05.775Z
-updated: 2024-09-02T05:16:05.775Z
+date: 2024-11-12T20:26:55.708Z
+updated: 2024-11-17T16:49:19.512Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  Below, we have listed different ways of changing the default apps in Windows 11:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Choose the Open With Option
 
  The easiest method of changing the default apps option is by using the Open with option in the context menu for files.
@@ -41,6 +48,13 @@ Here is how you can do that:
 4. Click on**Always use this app to open files** and click**OK** . This should set the selected app as the default preference.  
 ![Set a default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-the-default-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use the Settings App
 
  The next thing that you can do is access the Default Apps option and choose the preferred app from there.
@@ -52,17 +66,18 @@ Follow these steps to proceed:
 3. Click on**Default apps** .  
 ![Click on the Default apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-settings-apps-default-apps.jpg)
 4. Next, choose the app that you want to set as default. You should now see all the file types and link types the app is registered with.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 5. If you want to choose a program as the default for all its registered file types and links, you'd need to click each type and choose the desired application in the following dialog.  
 ![Pick a default file type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pick-a-default-file-type.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This should set the app as the default option for the selected file and link types. However, if you[reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### 3\. Use File Properties
 
  You can also change the file properties of the targeted file to open it with a new default app.
@@ -76,8 +91,12 @@ To proceed, follow these steps:
 3. Now, choose the desired app and click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
 
  If you are unable to change the default apps in Windows 11 despite trying the different methods mentioned above, it could be due to the following reasons:
@@ -103,6 +122,19 @@ Here is how you can do that:
 
  Once this is done, follow one of the steps above to change the default app.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Reset the Targeted App
 
  If the problem is within the app that you are trying to change, you can reset the program to solve the problem.
@@ -118,8 +150,12 @@ Get-AppxPackage packagename -AllUsers | Reset-AppxPackage
 Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage  
 ![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
 6. Once the command is executed, check if you can change the default app.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall the App
@@ -133,20 +169,11 @@ Here is how you can proceed:
 3. In the following window, navigate to**Uninstall a program** .  
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
 4. Locate the targeted app and right-click on it.
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Choose**Uninstall** and follow the on-screen instructions to proceed.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once the uninstallation is completed, restart the computer and reinstall the app. Hopefully, this time, you will be able to set it as the default option without any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make Your Preferred Apps Default
 
  The apps set as the default options on Windows are quite user-friendly and efficient. It is possible, however, to change the default preference to a better option if you have found one that suits your system better.
@@ -159,8 +186,6 @@ Here is how you can proceed:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +193,23 @@ Here is how you can proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-building-brands-together-a-guide-to-selecting-youtube-teams/"><u>[Updated] 2024 Approved Building Brands Together A Guide to Selecting YouTube Teams</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sharp-smudge-free-shooting-with-gopro-for-2024/"><u>[Updated] Sharp, Smudge-Free Shooting with GoPro for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-audio-acquisition-iphoneipad-edition/"><u>2024 Approved The Ultimate Guide to Audio Acquisition IPhone/iPad Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-ultimate-youtube-community-guidelines/"><u>2024 Approved Ultimate YouTube Community Guidelines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airpods-pro-two-years-in-do-they-continue-to-justify-the-hype/"><u>AirPods Pro: Two Years In, Do They Continue To Justify The Hype?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-for-downloading-and-installing-windows-11-arm-iso-version/"><u>Easy Steps for Downloading & Installing Windows 11 ARM ISO Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-finding-windows-launch-codes/"><u>Essential Tips for Finding Windows' Launch Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-updated-widget-pickers-in-win11/"><u>How to Configure Updated Widget Pickers in Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-to-stop-error-a00f425d-in-windows-camera-app/"><u>Method to Stop Error A00F425D in Windows Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-breakthrough-swift-smart-team-tools/"><u>Microsoft's Breakthrough: Swift, Smart Team Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-away-from-constant-enter-credential-messages/"><u>Navigating Away From Constant Enter Credential Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-folders-cannot-be-opened-error-in-windows-outlook-20192022/"><u>Overcoming 'Folders Cannot Be Opened' Error in Windows Outlook 2019/2022</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-new-era-of-capturing-life-with-updated-lg-360-cameras-for-2024/"><u>The New Era of Capturing Life with Updated LG 360 Cameras for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-path-to-perfected-morphvox-control-for-2024/"><u>The Ultimate Path to Perfected MorphVOX Control for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-clone-yourself-in-videos-with-filmora/"><u>Updated How to Clone Yourself in Videos with Filmora?</u></a></li>
+</ul></div>
 

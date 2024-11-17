@@ -1,7 +1,7 @@
 ---
 title: Optimize PC Query Speed Using EverythingApp
-date: 2024-09-05T19:32:04.737Z
-updated: 2024-09-06T19:32:04.737Z
+date: 2024-11-10T20:02:52.909Z
+updated: 2024-11-17T19:37:32.778Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 
  What makes Everything so fast is how it indexes files and folders. Unlike the[Windows Search Indexer](https://www.makeuseof.com/windows-search-indexer-guide/) , which relies on both filenames and their content, Everything uses just file and folder names. Hence, indexing files and folders take less time, which, in turn, speeds up the entire process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install Everything on Windows
 
  Everything is available for all versions of Windows. And depending on whether you plan on using Everything on your or someone else's computer, you can either install it or run it as a portable executable from a thumb drive. We'll focus on installing Everything directly on a computer in this guide.
@@ -36,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 
 ![Everything app install options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-everything-on-windows-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, click**Yes** on the**User Account Control** prompt and tap**Finish** to close the installer and launch Everything.
 
  Wait for a few seconds, and Everything will create a database by indexing all the files and folders on your computer
@@ -43,11 +57,12 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 ![Everything search indexed database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Perform Basic Everything Configuration
 
  Everything works just fine out of the box. However, there are some settings and options, which you should modify to get more out of the program. Head over to**Everything Options** by clicking on**Tools > Options** or pressing the**Ctrl + P** keyboard shortcut, and you'll see a bunch of these options.
@@ -63,22 +78,17 @@ We recommend enabling the following options from here:
 
  Finally, click**Apply** to apply the settings and click**OK** to close the window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Find Files and Folders on Windows With Everything
 
  Finding files and folders with Everything is easy. Here are all the different kinds of searches and operations you can perform in Everything.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Search for a File or Folder
 
  When you want to look up a file or folder on your computer, click the search box at the top and start typing its name. Everything will start showing a list of all the relevant results as you do this with information like path, size, and date modified.
@@ -89,12 +99,6 @@ We recommend enabling the following options from here:
 
  Similarly, you can specify a folder name to tell Everything to find a file or folder inside that specific folder. For instance, if you'd like to search files inside the**Music** directory in**D** drive, your query would look like this:**d:\\music.**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Get More Information and Perform Operations on Search Results
 
  If you wish to find out details about a file/folder in the results, select it, and Everything will show its details in the status bar below.
@@ -106,17 +110,12 @@ We recommend enabling the following options from here:
  Depending on what file or folder you're doing this on, you'll see a range of options in this menu, like rename, copy full path, open path, cut, copy, delete, and more. Most of the actions you perform here will apply directly to the file/folder on the file system and reflect in the File Explorer.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Sort Your Results
 
  If Everything returns multiple files and folders matching your query, you can sort them by different properties to quickly get to the item you need. To do this, click on**View** , select**Sort by** , and select a sorting option.
@@ -132,25 +131,14 @@ We recommend enabling the following options from here:
 ![filter results by type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/filter-everything-results-by-type.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Everything will filter the results and only show you files and folders that match the specified type.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Match Case to Find Accurate Results
 
  When you search for a file or folder in Everything, it doesn't take into consideration the case style to filter results. As a result, if you've named a file or folder in a particular case style, looking it up using a regular search will simply return too many results.
@@ -159,20 +147,8 @@ We recommend enabling the following options from here:
 
 ![match case option in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/match-case-in-everything-search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Everything will then return only those files and folders that match the specified case style.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Use Advanced Search
 
  Advanced search involves using special search options to quickly find a file or folder on the file system. Everything offers a bunch of advanced search options, which you can use when the regular search can't return relevant results. Here's a look at a few of them.
@@ -199,18 +175,6 @@ We recommend enabling the following options from here:
 
 **Example:** If you want to find all the files inside the**Images** folder that are less than**15MB** , you can use the size function to get to them:**images\\ size:>15MB** .
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Everything Goes Beyond What We've Covered
 
  Everything is quite a powerful tool, as you've seen by now. However, we've only scratched the surface here, and there are several other advanced search options that it offers to simplify file and folder searches on your computer.
@@ -225,8 +189,6 @@ We recommend enabling the following options from here:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +196,26 @@ We recommend enabling the following options from here:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-edu-top-ten-inspiring-educational-content-yt/"><u>[New] In 2024, Edu-Top Ten Inspiring Educational Content YT</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-resolve-hdr-video-issue-clearing-blank-display/"><u>[New] Resolve HDR Video Issue Clearing Blank Display</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-analyze-youtube-data-efficiently-with-social-blade-tools/"><u>[Updated] 2024 Approved Analyze YouTube Data Efficiently with Social Blade Tools</u></a></li>
+<li><a href="https://win-hot.techidaily.com/accessible-language-solutions-convert-your-multimedia-content-with-these-free-video-translation-services/"><u>Accessible Language Solutions: Convert Your Multimedia Content with These Free Video Translation Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/coherence-and-creativity-note-taking-made-visible-with-obsidian-canvas/"><u>Coherence & Creativity - Note-Taking Made Visible with Obsidian Canvas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-shortcuts-to-ignore-windows-login-alerts/"><u>Creating Shortcuts to Ignore Windows Login Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-display-output-high-res-dpi-guide-in-win11/"><u>Customize Display Output: High Res DPI Guide in Win11</u></a></li>
+<li><a href="https://facebook.techidaily.com/eliminate-existence-the-guide-to-dismantling-a-facebook-company-pages/"><u>Eliminate Existence: The Guide to Dismantling a Facebook Company Pages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-limited-controls-in-windows-voice-only-bluetooth-outputs-only/"><u>Eliminating Limited Controls in Windows - Voice-Only Bluetooth Outputs Only</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-productivity-with-customized-notifications-on-win-11/"><u>Enhance Productivity with Customized Notifications on Win 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472340233-error-erupted-during-your-iphone-updaterestore-heres-how-to-fix-error-4013/"><u>Error Erupted During Your iPhone Update/Restore? Here's How to Fix Error 4013</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-introducing-10-elusive-instagram-story-visionaries/"><u>In 2024, Introducing 10 Elusive Instagram Story Visionaries</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-workflow-key-wsl-2-techniques-for-windows-users/"><u>Optimize Your Workflow: Key WSL 2 Techniques for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-games-from-pop-up-on-your-win11-screen/"><u>Stopping Games From Pop-Up on Your Win11 Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-your-pc-when-it-gets-stuck-during-boot/"><u>Troubleshooting: How to Fix Your PC When It Gets Stuck During Boot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uniting-worlds-the-best-6-cross-platform-android-apps-for-windows-11/"><u>Uniting Worlds: The Best 6 Cross-Platform Android Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-past-life-project-the-98-spirit/"><u>Windows 11'S Past Life Project: The '98 Spirit</u></a></li>
+</ul></div>
 

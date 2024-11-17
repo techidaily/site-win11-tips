@@ -1,7 +1,7 @@
 ---
 title: Tips to Work Around the Third-Party AV Blockade on Defender
-date: 2024-11-06T12:49:02.245Z
-updated: 2024-11-07T01:25:19.893Z
+date: 2024-11-16T18:43:56.537Z
+updated: 2024-11-17T20:15:41.394Z
 tags:
   - windows10
   - windows11
@@ -44,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
  After disabling Tamper Protection, see if your third-party antivirus works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Turn Off Microsoft Defender
 
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Add an Exclusion for the File to Windows Defender
 
@@ -68,26 +68,35 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
 
@@ -101,47 +110,11 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
 
  Microsoft Defender is an essential security tool bundled with Windows. However, it may interfere with third-party antivirus software. Hopefully, one of these solutions has helped you resolve your problem.
 
  So how do you fix this? Let's check it out.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-10-best-face-editor-for-android-and-iphone/"><u>[New] 10 Best Face Editor for Android and iPhone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-drone-buying-roadmap-pre-purchase-essentials/"><u>[New] The Ultimate Drone Buying Roadmap Pre-Purchase Essentials</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unlocking-the-potential-of-vocal-talent-for-engaging-videos/"><u>[Updated] 2024 Approved Unlocking the Potential of Vocal Talent for Engaging Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-advanced-animators-toolkit-samples-for-2024/"><u>[Updated] Advanced Animator's Toolkit Samples for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-network-adapter-error-31-quickly/"><u>Addressing Windows Network Adapter Error 31 Quickly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-user-experience-google-clears-out-non-functional-apps-from-play-store-catalog/"><u>Enhancing User Experience: Google Clears Out Non-Functional Apps From Play Store Catalog</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-insights-employing-law-filters-within-windows/"><u>Essential Insights: Employing LAW Filters Within Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fallout-cuarentena-de-pantalla-negra-solucion-efectiva/"><u>Fallout Cuarentena De Pantalla Negra, Solución Efectiva</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-ricoh-printer-up-and-running-in-windows-with-these-free-drivers/"><u>Get Your Ricoh Printer Up & Running in Windows with These Free Drivers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/globalviewers-access-unlimited-local-tv-for-life-for-2024/"><u>GlobalViewers Access Unlimited Local TV for Life for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-examine-excel-data-in-notepad/"><u>How to Examine Excel Data in Notepad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-strategies-against-locked-out-windows-pin/"><u>Immediate Strategies Against Locked-Out Windows PIN</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-dropbox-cpu-utilization-on-windows-machines/"><u>Lowering Dropbox CPU Utilization on Windows Machines</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-future-the-3-must-watch-tech-trends-today/"><u>Navigating the Future: The 3 Must-Watch Tech Trends Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-ignoring-soon-expiring-licenses-alerts-in-windows/"><u>Quick Fix for Ignoring Soon Expiring Licenses Alerts in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-internal-errors-quickly-with-windows-rdp-connections/"><u>Resolving Internal Errors Quickly with Windows RDP Connections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-file-organization-in-windows-11/"><u>Simplifying File Organization in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-securing-quality-8k-videos-via-leading-8k-media-extractor-tools/"><u>Step-by-Step Tutorial on Securing Quality 8K Videos via Leading 8K Media Extractor Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-history-hiccup-quick-fixes-in-3-steps/"><u>Windows History Hiccup - Quick Fixes in 3 Steps</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,3 +123,25 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-optimizing-vr-video-quality-during-live-gaming-for-2024/"><u>[Updated] Optimizing VR Video Quality During Live Gaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-fix-strategies-for-your-windows-resolution-dilemmas/"><u>10 Fix Strategies for Your Windows Resolution Dilemmas</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-razr-40-ultra-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola Razr 40 Ultra by Name | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-a-missing-bluetooth-option-in-windows-11/"><u>9 Ways to Fix a Missing Bluetooth Option in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-compreenas-for-conquering-windows-10-bsod-woes/"><u>A Compreenas for Conquering Windows 10 BSOD Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-and-resolving-msvcr110dll-lack/"><u>Addressing and Resolving MSVCR110.dll Lack</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-inaccessibility-of-roblox-due-to-user-settings-in-windows/"><u>Addressing the Inaccessibility of Roblox Due to User Settings in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-wsl-registration-failure-error-x80370102-fix-guide/"><u>Addressing WSL Registration Failure - Error X80370102 Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-lockout-interval-after-unsuccessful-windows-sign-in/"><u>Adjusting Lockout Interval After Unsuccessful Windows Sign In</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-keystrokes-speed-top-tips-to-decrease-delay-on-windows/"><u>Boost Your Keystrokes' Speed: Top Tips to Decrease Delay on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-gpts-top-pairings-with-files-and-text/"><u>Discover GPT's Top Pairings with Files and Text</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/diving-deep-into-viva-video-functionality/"><u>Diving Deep Into Viva Video Functionality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-video-opening-line-template-packs/"><u>Free Video Opening Line Template Packs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laugh-loom-imgur-memomaker-for-2024/"><u>Laugh Loom Imgur MemoMaker for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-october-sale-metas-exclusive-51-gb-quest-3-offer-outshines-competitors-this-prime-day-insights/"><u>Top-Ranking October Sale: Meta's Exclusive 51^ GB Quest 3 Offer Outshines Competitors This Prime Day - Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unlocking-new-dimensions-in-picture-tones/"><u>Unlocking New Dimensions in Picture Tones</u></a></li>
+</ul></div>
+

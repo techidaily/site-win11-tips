@@ -1,7 +1,7 @@
 ---
 title: Upgrading Legacy UEFI Features
-date: 2024-09-05T19:32:02.985Z
-updated: 2024-09-06T19:32:02.985Z
+date: 2024-11-11T18:58:27.597Z
+updated: 2024-11-17T18:59:19.129Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Legacy UEFI Improvements,UEFI Update Advances,Enhancing Old UEFI,Legac
 thumbnail: https://thmb.techidaily.com/a1248d9b4e7ad7b3aedb40cb2befdc93715f7a75414c6458bd1e077bee973ffa.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Upgrading Legacy UEFI Features
 
  Newer computers come with Unified Extensible Firmware Interface (UEFI) as the new standard. However, Legacy BIOS is still largely part of most active systems due to legacy software and hardware support. Switching from UEFI to Legacy BIOS is easy using the firmware utility. But what if the legacy boot option is grayed out in BIOS?
@@ -37,17 +31,12 @@ thumbnail: https://thmb.techidaily.com/a1248d9b4e7ad7b3aedb40cb2befdc93715f7a754
  If you don't have any such option, try the troubleshooting steps below to restore the Legacy boot option in BIOS.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Disable Secure Boot to Enable Boot
 
  Secure Boot is a UEFI feature that protects your computer against malware by allowing only trusted system software to run on your computer. When enabled, it will perform a cryptographic check during the boot process to verify the integrity of the system image.
@@ -66,48 +55,33 @@ To disable secure boot:
 ![Advanced OptionspUEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-optionspuefi-firmware-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Click**Restart** to boot into the**Startup Menu.**  
 ![startup menu HP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/startup-menu-hp-1.jpg)
 2. In the Startup Menu, press**F10** to access the**BIOS Settings** . You may see other options depending on your computer manufacturer.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Use the right and left arrow keys to open the**Boot Options** tab in the BIOS Utility.
 4. Next, use the up and down arrow key to highlight the**Secure Boot** option and press**Enter** to view more options.  
 ![disable secure boot bios](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-secure-boot-bios.jpg)
 5. Select**Disabled** and make sure the changes are shown in the Boot Options tab.
-6. Press**F10** to save the changes and disable Secure Boot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Press**F10** to save the changes and disable Secure Boot.
+
 ## 2\. Disable Trusted Platform Technology (TPM)
 
 ![disable TPM state BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-tpm-state-bios-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In addition to Secure Boot, you may also have enabled Trusted Platform Module (TPM), disabling Legacy BIOS. To fix the issue, check if TPM is enabled on your PC, which is likely a case on a Windows 11 running system, and disable the option if necessary.
 
  You can disable TPM from the BIOS setup utility. Here's how to do it.
@@ -117,6 +91,13 @@ To disable secure boot:
 3. Highlight the**TPM State** option and press**Enter** . If no TPM option is available, look for the**PTT** option.
 4. Select**Disabled** to disable TPM on your device.
 5. Press**F10** to save the change and exit.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Disable Modern Standby
 
@@ -134,8 +115,6 @@ To disable secure boot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +122,22 @@ To disable secure boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-vimeo-record-features/"><u>[New] 2024 Approved The Ultimate Guide to Vimeo Record Features</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-key-tips-for-sourcing-elite-filmmakers/"><u>[Updated] 2024 Approved Key Tips for Sourcing Elite Filmmakers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-zen-of-zoom-advanced-tips-for-flawless-audio-recording-on-video-platforms/"><u>[Updated] 2024 Approved The Zen of Zoom Advanced Tips for Flawless Audio Recording on Video Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diy-windows-text-conversion-using-ahk-and-whisper-libraries-effectively/"><u>DIY Windows Text Conversion: Using AHK & Whisper Libraries Effectively</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-poco-x5-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-se-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone SE</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-wirecast-playbook-for-engaging-youtube-streamers/"><u>In 2024, The Ultimate WireCast Playbook for Engaging YouTube Streamers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-ru7300-the-ultimate-guide-for-choosing-a-shape-shifting-smart-tv-with-quality-display/"><u>Samsung RU7300: The Ultimate Guide for Choosing a Shape-Shifting Smart TV with Quality Display</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-into-retro-gaming-with-top-5-ps1-emulators-for-pc/"><u>Step Into Retro Gaming with Top 5 PS1 Emulators for PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-lsassexe-failure-in-windows/"><u>Strategies for Resolving lsass.exe Failure in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-systems-startup-a-windows-11-clean-boot-tutorial/"><u>Streamlining Your System's Startup: A Windows 11 Clean Boot Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-easy-windows-11-pin-less-display/"><u>Techniques for Easy WIndows 11 PIN-Less Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-streamlining-desktop-icon-proximity-in-windows-1110/"><u>Title: Streamlining Desktop Icon Proximity in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-layered-over-linux-growth-insight/"><u>Windows Layered Over Linux Growth Insight</u></a></li>
+</ul></div>
 

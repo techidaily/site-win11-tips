@@ -1,7 +1,7 @@
 ---
 title: Overcoming Notepad Non-Opening Issue in Windows Environment
-date: 2024-09-01T05:17:57.550Z
-updated: 2024-09-02T05:17:57.550Z
+date: 2024-11-11T17:29:15.657Z
+updated: 2024-11-17T18:27:21.769Z
 tags:
   - windows10
   - windows11
@@ -58,9 +58,6 @@ To repair the Notepad app on Windows:
 5. Scroll down to the Reset section and click the**Repair** button.  
 ![Repair or Reset the Notepad App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-notepad-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You should see a checkmark next to the Repair button once the process is complete. Then, try to[open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
 
  If repairing the Notepad app does not make any difference, you can try resetting it. Here are the steps for the same.
@@ -71,9 +68,6 @@ To repair the Notepad app on Windows:
 
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Reinstall the Notepad App
 
  You can also try uninstalling and reinstalling the Notepad app on your computer. To do so, you’ll need to access the[optional features on Windows](https://www.makeuseof.com/tag/windows-10-optional-features-guide/) . Here’s how you can go about it.
@@ -84,9 +78,6 @@ To repair the Notepad app on Windows:
 4. Click the**Uninstall** button.  
 ![Uninstall Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-notepad-app-on-windows.jpg)
 5. Wait for Windows to uninstall Notepad from your computer.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Next, click the**View features** button at the top.
 7. Type**Notepad** in the search box.
 8. Tick the**Notepad (system)** checkbox and click**Next** .
@@ -94,8 +85,12 @@ To repair the Notepad app on Windows:
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
 
 ## 5\. Run the SFC and DISM Scans
@@ -116,7 +111,21 @@ To run the SFC scan on Windows:
 
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the scan is complete, restart your PC and see if you can access Notepad.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Clean Boot
 
@@ -125,17 +134,12 @@ To run the SFC scan on Windows:
  If you perform a clean boot and Notepad opens normally, it means that the culprit causing the issue got disabled. If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Create Another User Account
 
  If some of the files in your user account have become corrupt, you may have difficulty performing simple tasks like opening an app. If that seems to be the case, your best option is to create and switch to a new user account.
@@ -149,8 +153,12 @@ To create a new user account on Windows:
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
@@ -159,14 +167,11 @@ To create a new user account on Windows:
 
  Hopefully, the solutions provided above have helped, and you’re able to use Notepad again. However, if none of the above solutions work, you can perform a system restore to undo any recent changes that may have caused the problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +180,18 @@ To create a new user account on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-hands-free-tips-saving-instagram-stories-as-videos/"><u>[Updated] Hands-Free Tips Saving Instagram Stories as Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-for-your-computer-screen-superior-benefits-over-web-based-interaction/"><u>ChatGPT for Your Computer Screen - Superior Benefits Over Web-Based Interaction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/help-can0t-connect-to-latest-cam-post-windows-10-update-fixed-solutions-found-fixed/"><u>Help! Can'0t Connect to Latest Cam Post Windows 10 Update - Fixed Solutions Found [Fixed]</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-steadying-your-pcs-cpu-with-windows-rm/"><u>The Ultimate Guide: Steadying Your PC's CPU with Window's RM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-benefit-of-bi-weekly-windows-data-save/"><u>The Unseen Benefit of Bi-Weekly Windows Data Save</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-emailcalendar-by-adding-fav-photos/"><u>Transform Windows' Email/Calendar by Adding Fav Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unzipping-files-proficiently-using-powershell-commands/"><u>Unzipping Files Proficiently Using PowerShell Commands</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-the-essential-guide-to-emoji-memoji-animoji-and-bitmoji-for-2024/"><u>Updated The Essential Guide to Emoji, Memoji, Animoji, and Bitmoji for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713966033930-updated-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-simple-step/"><u>Updated Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps for 2024</u></a></li>
+</ul></div>
 

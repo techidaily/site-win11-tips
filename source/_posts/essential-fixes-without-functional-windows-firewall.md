@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes Without Functional Window’s Firewall
-date: 2024-11-02T01:41:43.850Z
-updated: 2024-11-07T09:34:20.892Z
+date: 2024-11-10T19:50:11.981Z
+updated: 2024-11-17T18:52:49.315Z
 tags:
   - windows10
   - windows11
@@ -41,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 
  You can now close the troubleshooter and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check if Another Security Software Is Active
 
  Are you using a third-party security program on your computer? If so, there is a good chance that it is conflicting with Windows Firewall and stopping it from working. As such, if you have installed another antivirus app recently, we recommend temporarily disabling or uninstalling the third-party security program and then enabling Windows Firewall.
@@ -63,20 +50,13 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After disabling the antivirus, try enabling the Windows Firewall and check if it functions properly now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Windows Firewall settings
 
@@ -99,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 5. Once you are inside the Command Prompt window, type the command mentioned below and click **Enter** to execute it. This will force enable the Firewall component.  
 `netsh firewall set opmode mode=ENABLE exceptions=enable`
 6. Wait for the command to execute and then restart your computer. Check if the problem is now fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Modify the Registry Editor
 
@@ -133,7 +106,22 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 4. Type "Everyone" in the "Enter the object names to select" and click **OK**.  
 ![Modify permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/modify-permissions.jpg)
 5. Now, head over to the "Permissions for Everyone" section and checkmark the box associated with **Full Control** under Allow.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **Apply** to save the changes and check if the issue is now resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Additional Generic Fixes to Try
 
@@ -143,30 +131,18 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 * **Scan with SFC**: You can also scan the system for underlying corruption errors that might be leading to the problem using the [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/). You can run it via Command Prompt and analyze the results to find the culprit.
 * **Clean install Windows**: If nothing works and it is essential for you to enable Firewall, you can [perform a clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) of Windows. It will wipe the existing installation and download a new one without any underlying problems.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Protect Your System With Windows Firewall
 
  The steps above should help you fix issues with Windows Firewall easily. If the error persists and you do not want to clean install the system yet, you can report the issue to Microsoft and wait for them to suggest a fix.
 
  Below, we explore the different solutions you can try to fix this issue for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-broadcasting-brevity-news-outro-tips/"><u>[Updated] 2024 Approved Broadcasting Brevity News Outro Tips</u></a></li>
-<li><a href="https://media-tips.techidaily.com/hd1080p/"><u>全功能免費HD播放器:支援1080p高清並可轉換多種影片格式</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/apex-racecraft-games-5-top-titles-for-2024/"><u>Apex Racecraft Games 5 Top Titles for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/beyond-the-basics-streamlabs-competitors-analyzed-for-2024/"><u>Beyond the Basics Streamlabs Competitors Analyzed for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-repair-guide-recognizing-and-restoring-unresponsive-usb-devices/"><u>DIY Repair Guide: Recognizing and Restoring Unresponsive USB Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-13-mini-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 13 mini? Heres the Best Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-creating-and-sharing-voice-memos-on-your-iphone-device/"><u>Guide to Creating and Sharing Voice Memos on Your iPhone Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-mend-windows-disk-read-problems/"><u>Guide to Mend Windows Disk Read Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-curtail-pc-sound-enhancement-effects/"><u>How To Curtail PC Sound Enhancement Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-hdr-capabilities/"><u>Mastering Windows 11'S HDR Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrecting-the-lost-top-tips-to-regain-missing-windows-in-11/"><u>Resurrecting the Lost: Top Tips to Regain Missing Windows in 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-speech-detection-with-windows/"><u>Streamlining Speech Detection with Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-flyer-discounts-save-25-on-flights-with-your-amazon-prime-benefits-insight-from-zdnet/"><u>Unlock Flyer Discounts: Save $25 on Flights with Your Amazon Prime Benefits - Insight From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-disk-potential-masterful-techniques-in-w10w11/"><u>Unlocking Disk Potential: Masterful Techniques in W10/W11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtubes-foe-a-guide-to-the-top-5-editing-rivals-for-2024/"><u>YouTube's Foe? A Guide to the Top 5 Editing Rivals for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -175,3 +151,27 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-break-boundaries-with-these-7-unique-platforms-for-art-to-nfts/"><u>[New] 2024 Approved Break Boundaries with These 7 Unique Platforms for Art to NFTs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-a-loyal-following-with-respectful-requests/"><u>[New] In 2024, Building a Loyal Following with Respectful Requests</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-music-mastery-essentials-high-quality-dj-video-samples/"><u>[Updated] 2024 Approved Music Mastery Essentials High-Quality DJ Video Samples</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-for-efficient-whatsapp-use/"><u>[Updated] Expert Strategies for Efficient WhatsApp Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-system-insights-step-by-step/"><u>Accessing Windows System Insights Step-by-Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-fatal-wow-bug-on-latest-windows-11-version/"><u>Addressing Fatal WoW Bug on Latest Windows 11 Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-in-depth-look-at-windows-cab-and-its-functionality/"><u>An In-Depth Look at Windows CAB and Its Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-insight-into-runtime-brokers-role-on-your-machine/"><u>An Insight Into Runtime Broker's Role on Your Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-common-fails-keeping-your-temp-folder-valid-in-win11/"><u>Avoiding Common Fails: Keeping Your Temp Folder Valid in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banishing-windows-store-crash-code-error-0x80072efd/"><u>Banishing Windows Store Crash Code: Error 0X80072EFD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/batch-heic-image-transformation-into-jpeg-using-w11-features/"><u>Batch Heic Image Transformation Into JPEG Using W11 Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-productivity-with-windows-command-shortcuts/"><u>Boost Your Productivity with Windows Command Shortcuts</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-deal-hp-victus-15l-gaming-laptop-now-at-a-steal-only-480-this-labor-day-weekend/"><u>Exclusive Deal: HP Victus 15L Gaming Laptop Now at a Steal - Only $480 This Labor Day Weekend!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-similarities-and-disparities-amazon-kindle-and-fire-tablet-compared/"><u>Exploring Similarities and Disparities: Amazon Kindle and Fire Tablet Compared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719306648168-fix-your-windows-onedrive-hurdles-now/"><u>Fix Your Windows OneDrive Hurdles Now!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-approaches-converting-visual-content-on-pinterest-to-audio-for-2024/"><u>Key Approaches Converting Visual Content on Pinterest To Audio for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ring-or-nest-an-in-depth-analysis-of-leading-smart-doorbells-on-the-market/"><u>Ring or Nest? An In-Depth Analysis of Leading Smart Doorbells on the Market</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-the-new-nintendo-switch-oled-why-it-outshines-rivals-expert-review-by-zdnet/"><u>The Definitive Guide to the New Nintendo Switch OLED: Why It Outshines Rivals | Expert Review by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-your-instagram-accounts-verification-badge-a-step-by-step-tutorial/"><u>Unlocking Your Instagram Account's Verification Badge: A Step-by-Step Tutorial</u></a></li>
+</ul></div>
+

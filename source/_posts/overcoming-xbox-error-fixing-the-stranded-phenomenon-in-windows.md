@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Xbox Error: Fixing the ‘Stranded’ Phenomenon in Windows"
-date: 2024-10-30T19:08:50.359Z
-updated: 2024-11-07T04:17:57.344Z
+date: 2024-11-16T20:07:47.526Z
+updated: 2024-11-17T20:31:21.975Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 
  The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Reinstall Your Xbox App
 
  Finally, reinstall your Xbox app if nothing else works for fixing the “Looks like you’re stranded” error. You can do that by removing Xbox with the Settings method in our [guide to uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Then open the [Xbox Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) and click **Get in Store app** \> **Open Microsoft Store**. Select **Get** within the Microsoft Store window to reinstall the latest Xbox app on your PC.
@@ -54,10 +61,17 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Try Some Generic Windows App Fixes
@@ -65,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
  If none of the above worked, try these fixes that work for any malfunctioning Windows app:
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Update the Xbox App
@@ -78,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 ![The Update all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-update-all-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Select the Xbox App’s Reset Option
@@ -89,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
  Resetting the Xbox app is a confirmed fix for the “Looks like you’re stranded” error. Doing so will clear away any corrupted or old app data that could be causing the error. It’s easy to clear the Xbox app’s data with the **Reset** option in Settings. You can apply this potential resolution by following the instructions in our article about [resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/).
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Change Your DNS Server to Google's Public DNS
 
@@ -105,41 +112,11 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get the Xbox App Working Again
 
  The Xbox Windows app is undoubtedly important for players who install games with that app and utilize its features. Applying the potential fixes above for the “Looks like you’re stranded” error will probably get the Xbox Windows app working for most players. Then you can access your games and utilize all the features in your Xbox app again.
 
  Users can’t utilize the Windows Xbox app when this error keeps reoccurring. Does the same thing happen when you try to utilize the Xbox app on Windows? If it does, this is how you can fix the Xbox app’s “Looks like you’re stranded” error in Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-25-pioneers-reshaping-social-media-landscapes-for-2024/"><u>[New] 25 Pioneers Reshaping Social Media Landscapes for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-sites-for-high-end-vector-graphics/"><u>[New] Top 10 Sites for High-End Vector Graphics</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-sound-savings-guide-youtubers-selection-of-affordable-mics/"><u>[Updated] In 2024, Sound Savings Guide Youtuber's Selection of Affordable Mics</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-how-youtube-manages-post-upload-content/"><u>[Updated] Understanding How YouTube Manages Post-Upload Content</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-toast-to-trending-celebrating-reddit-writings-top-10/"><u>2024 Approved A Toast to Trending Celebrating Reddit’ Writings (Top 10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-power-management-on-win-11/"><u>Efficient Power Management on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enable-tone-playback-on-windows-post-hardware-failure/"><u>Enable Tone Playback on Windows Post Hardware Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unclog-the-windows-vds-startup-process/"><u>How to Unclog the Windows VDS Startup Process</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/lamicalls-ergonomic-tablet-stand-a-comprehensive-review-of-style-meets-utility/"><u>Lamicall's Ergonomic Tablet Stand: A Comprehensive Review of Style Meets Utility</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-videos-size-and-format-tips/"><u>Mastering Instagram Videos Size and Format Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenges-of-o365-sync-failures-in-win11/"><u>Overcoming the Challenges of O365 Sync Failures in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-setting-up-windows-outlook-preview/"><u>Quick Guide: Setting Up Windows' Outlook Preview</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safe-windows-storage-expansion-methods/"><u>Safe Windows Storage Expansion Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-security-by-learning-the-quickest-ways-to-access-credentials-in-win11/"><u>Skyrocket Security by Learning the Quickest Ways to Access Credentials in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-restore-razer-devices-detection-via-synapse-on-windows/"><u>Steps to Restore Razer Devices Detection via Synapse on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-systemsettings-issues-on-win11/"><u>Strategies to Overcome SystemSettings Issues on Win11</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-guide-why-cant-you-install-the-latest-ios-15/"><u>Troubleshooting Guide: Why Can't You Install the Latest iOS 15?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleash-extreme-photography-with-nikon-coolpix-p1000/"><u>Unleash Extreme Photography with Nikon COOLPIX P1000</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-camon-30-pro-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Camon 30 Pro 5G Auto Does Not Work | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -148,3 +125,21 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-editorial-expertise-counteract-dimness-in-iphone-hdr-with-four-premiere-techniques-for-2024/"><u>[New] [Editorial Expertise] Counteract Dimness in iPhone HDR with Four Premiere Techniques for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-do-paid-followers-impact-channel-popularity/"><u>2024 Approved Do Paid Followers Impact Channel Popularity?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alternate-routes-to-open-the-latest-windows-apps/"><u>Alternate Routes to Open the Latest Windows Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210867552-9781398444409-conversations-with-ghosts/"><u>Conversations with Ghosts | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808098354-expert-tips-for-enhancing-file-transfer-speeds-no-hassle/"><u>Expert Tips for Enhancing File Transfer Speeds - No Hassle!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-command-not-working-issue/"><u>Fixing Windows 11 Command Not Working Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-from-smartphone-to-desktop-android-gameplay-in-windows-11-with-google/"><u>Jump From Smartphone to Desktop: Android Gameplay in Windows 11 with Google</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-world-with-wonder-workshop-dash-insightful-critique-on-this-smart-educational-robot/"><u>Navigating the World with Wonder Workshop Dash: Insightful Critique on This Smart, Educational Robot</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/t-potential-per-viewer-youtubes-financial-dynamics/"><u>Profit Potential Per Viewer YouTube's Financial Dynamics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-ui-evolution-focusing-on-the-taskbar/"><u>Windows UI Evolution - Focusing on the Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-against-zero-x-eight-oh-three-one-f-failures-in-mail-apps/"><u>Winning Against Zero X Eight Oh Three One F Failures in Mail Apps</u></a></li>
+</ul></div>
+

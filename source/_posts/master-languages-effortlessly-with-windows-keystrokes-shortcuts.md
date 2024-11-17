@@ -1,7 +1,7 @@
 ---
 title: Master Languages Effortlessly with Windows Keystrokes Shortcuts
-date: 2024-11-02T05:47:12.967Z
-updated: 2024-11-06T19:57:09.344Z
+date: 2024-11-11T16:39:44.907Z
+updated: 2024-11-17T18:41:32.324Z
 tags:
   - windows10
   - windows11
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Customise QTranslate
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
  You can reconfigure QTranslate’s hotkeys via its**Options** window. Right-click the**QTranslate** system tray icon and select**Options** . Select the**Hotkeys** tab on the setting window. Then double-click an action there to bring up a keyboard shortcut window for it. Press a different key combination, and click the**OK** \>**Apply** buttons.
 
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
 
@@ -84,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Translate Files With DeepL
 
  DeepL also enables you to select files to translate. Click the**Translate Files** tab at the top of its window. Then press the**Browse** button to select a file for translation and click the**Open** .
@@ -98,28 +98,28 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you would like to change the keyboard shortcuts, click the menu button at the top right of DeepL’s window. Select Settings to view hotkey options for the software. There you can select alternative**Alt** ,**Ctrl** ,**Key** , and**Shift** keys for each hotkey. Click in the boxes to set combination keys by pressing them.
 
  DeepL has a hotkey for a text-capturing translation feature that isn’t enabled by default. Click the**Capture text on screen** option in the settings to enable that feature. Pressing**Ctrl** +**F8** will activate a tool with which you can select text for translation by dragging a grey box over it.
 
  DeepL matches your system’s dark or light mode by default. However, you can select for the app to be dark or light. Click the**Select dark or light mode** drop-down menu to choose your preference.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Translate Text With Handy Hotkeys in Windows
 
@@ -140,21 +140,14 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-speakers-file-download-inspect/"><u>[New] 2024 Approved Speaker's File Download, Inspect</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-best-5-chrome-extensions-to-download-facebook-videos-for-2024/"><u>[New] Best 5 Chrome Extensions to Download Facebook Videos for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-economical-desktop-encoder-software-guide-revealed-for-2024/"><u>[Updated] Economical Desktop Encoder Software Guide Revealed for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-master-instagram-livestreams-with-ease-your-complete-guide-to-obs-usage-for-2024/"><u>[Updated] Master Instagram Livestreams with Ease Your Complete Guide to OBS Usage for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/a-step-by-step-approach-to-google-voice-recordings/"><u>A Step-by-Step Approach to Google Voice Recordings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deactivating-cortana-service-in-win11/"><u>Deactivating Cortana Service in Win11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-price-tag-samsung-un65nu8000fxza-smart-tv-in-detail/"><u>Evaluating the Price Tag: Samsung UN65NU8000FXZA Smart TV in Detail</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-spotify-error-on-frozen-windows-11-devices/"><u>Immediate Fixes for Spotify Error on Frozen Windows 11 Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-recirculate-artists-bundle/"><u>In 2024, Recirculate Artist's Bundle</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g14-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G14 Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-navigate-and-control-windows-function-fn-button/"><u>Quick Guide to Navigate & Control Windows' Function (Fn) Button</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/say-goodbye-to-file-upload-errors-in-chrome-for-windows-users/"><u>Say Goodbye to File Upload Errors in Chrome for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-win11s-application-dimensions/"><u>Tailoring Win11's Application Dimensions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-shifting-window-bar-through-decades-1985-2023/"><u>The Shifting Window Bar Through Decades (1985-2023)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tweaking-the-preferred-pdf-application-in-windows/"><u>Tweaking the Preferred PDF Application in Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-preeminent-80s-effects-for-video-artistry/"><u>[New] 2024 Approved Preeminent 80S Effects for Video Artistry</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-simplify-image-editing-picart-background-shedding/"><u>[Updated] In 2024, Simplify Image Editing PicArt Background Shedding</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-infinix-note-30-vip-racing-edition-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Infinix Note 30 VIP Racing Edition by Name | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-lately-used-files-in-windows/"><u>A Step-by-Step Guide to Lately Used Files in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-write-access-denial-errors-in-windows-11-system/"><u>Addressing Write Access Denial Errors in Windows 11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ascertain-if-your-computer-meets-11th-gen-os-needs/"><u>Ascertain If Your Computer Meets 11Th Gen OS Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-audio-and-video-recording-on-windows-11s-snipping-tool-max-156/"><u>Blend Audio and Video Recording on Windows 11'S Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y56-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y56 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-multimedia-balancing-audio-visuals-and-content-quality-live/"><u>Mastering Multimedia Balancing Audio, Visuals, and Content Quality Live</u></a></li>
 </ul></div>
 

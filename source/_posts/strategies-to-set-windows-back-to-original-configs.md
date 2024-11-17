@@ -1,7 +1,7 @@
 ---
 title: Strategies to Set Windows Back to Original Configs
-date: 2024-11-04T23:10:30.048Z
-updated: 2024-11-07T10:56:11.865Z
+date: 2024-11-14T19:56:13.591Z
+updated: 2024-11-17T20:34:23.594Z
 tags:
   - windows10
   - windows11
@@ -31,16 +31,16 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
  Sometimes, if there is a system error or a hardware issue like a faulty hard drive, Windows settings may reset when the computer restarts. This could happen due to an unforeseen power outage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix Windows Settings Resetting Upon Reboot
 
  The best way to fix Windows settings resetting upon reboot is to identify the cause of the problem and take corrective action. Here are some tips to get your settings back.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Look Out for Suspicious Programs
 
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 2. In the Task Manager window, switch to the**Processes** tab and look for any unfamiliar program or process that is hogging up your system resources.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Once you find a suspicious program, right-click on it and select**End task** to terminate the process.
@@ -95,6 +95,13 @@ On the next screen, navigate to the following path:
 
 ![Modify Registry to repair user profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-registry-to-repair-user-profile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you find the correct profile, double-click on the**State** field and change the value from**1 to 0** . Similarly, change the**RefCount** field from**1 to 0** .
 
  In case the RefCount field is missing in the right pane, you’ll have to create it manually. For this, right-click on the right pane and select**New > DWORD (32-bit) Value** . Name the new value**RefCount** and press**Enter** .
@@ -113,19 +120,6 @@ On the next screen, navigate to the following path:
 
  Click**Roll Back Driver** and then follow the instructions on-screen to complete the process. After rolling back the driver, restart your computer to apply the changes and check if it solves the settings reset issue.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Perform Some Generic Windows Fixes
 
  There are some general Windows-based fixes you can apply to fix this issue.
@@ -137,10 +131,10 @@ On the next screen, navigate to the following path:
  Keep in mind that all files and applications installed after the selected restore point will be deleted. To avoid losing important data, create a backup before performing a System Restore.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing Windows Settings Reset on Reboot
@@ -162,24 +156,19 @@ On the next screen, navigate to the following path:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-a-beginners-journey-into-gameplay-capturing-with-obs/"><u>[New] 2024 Approved A Beginner's Journey Into Gameplay Capturing with OBS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-latest-idevice-screenshots-capture-hacks/"><u>[New] 2024 Approved Latest iDevice Screenshots Capture Hacks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-best-practices-in-finding-quality-photo-and-video-banners/"><u>[Updated] 2024 Approved Best Practices in Finding Quality Photo & Video Banners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-top-windows-platforms-for-ndsswitch-players/"><u>Cutting Edge: Top Windows Platforms for NDS/Switch Players</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-file-path-of-your-current-wallpaper/"><u>Discover the File Path of Your Current Wallpaper</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-filesharing-in-windows-11/"><u>Enabling Filesharing in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fundamentals-of-window-glass-idleness-exploration/"><u>Fundamentals of Window Glass Idleness Exploration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-to-your-systems-kickstart-area/"><u>Navigating to Your System's Kickstart Area</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-your-pcs-program-space-allocation/"><u>Optimizing Your PC's Program Space Allocation</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-achievement-roadblocks-on-steam-games/"><u>Overcoming Achievement Roadblocks on Steam Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-device-disconnect-errors-on-win-11-os/"><u>Remedying Device Disconnect Errors on Win 11 OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tackling-common-iphone-troubles-in-the-new-apple-devices-expert-analysis/"><u>Tackling Common iPhone Troubles in the New Apple Devices - Expert Analysis</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nokia-c300-by-drfone-android/"><u>Three Ways to Sim Unlock Nokia C300</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-xs-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone XS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tricks-for-unsignatured-drivers-on-modern-windows/"><u>Tricks for Unsignatured Drivers on Modern Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-windows-11s-full-potential-through-taskbar-utilization/"><u>Unleash Windows 11'S Full Potential Through Taskbar Utilization</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-10-free-whiteboard-animation-tools-for-windows-and-mac/"><u>Updated Unleash Your Creativity 10 Free Whiteboard Animation Tools for Windows and Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-the-ultimate-alternatives-to-native-software/"><u>Win 11: The Ultimate Alternatives to Native Software</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/world-awaits-embrace-your-language-skills-with-mondly/"><u>World Awaits: Embrace Your Language Skills with Mondly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-kinemaster-mastery-sculpting-close-up-cinematic-brilliance/"><u>[New] Kinemaster Mastery Sculpting Close-Up Cinematic Brilliance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlocking-spotify-promotion-potential/"><u>[Updated] In 2024, Unlocking Spotify Promotion Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-easy-ways-to-check-your-ram-type-on-windows/"><u>4 Easy Ways to Check Your RAM Type on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-serenity-windows-sleep-mode-guide/"><u>Achieving Serenity: Windows Sleep Mode Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-sudden-screen-blackouts-in-winsteam/"><u>Addressing Sudden Screen Blackouts in WinSteam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-display-drivers-that-dont-launch-in-windows-10/"><u>Avoiding Display Drivers That Don’t Launch in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-system-performance-by-enabling-automatic-file-deletion-in-winos/"><u>Boost System Performance by Enabling Automatic File Deletion in WINOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/detailed-evaluation-gopro-silver-hero4/"><u>Detailed Evaluation GoPro Silver Hero4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-download-updated-amd-radeon-video-card-software-windows/"><u>Direct Download: Updated AMD Radeon Video Card Software (Windows)</u></a></li>
+<li><a href="https://solve-help.techidaily.com/experiencez-la-solution-incontournable-pour-le-transfert-et-la-gestion-des-donnees-iphones-a-laide-du-winx-mediatrans-sur-les-systemes-windows/"><u>Experiencez La Solution Incontournable Pour Le Transfert Et La Gestion Des Données iPhones À L'aide Du WinX MediaTrans Sur Les Systèmes Windows ^</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/germanys-heartbeat-top-25-authentic-phrases-for-immersion/"><u>Germany's Heartbeat: Top 25 Authentic Phrases for Immersion</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-desktop-performance-the-imac-with-m1-integration-reviewed/"><u>Revolutionizing Desktop Performance: The iMac with M1 Integration Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-do-when-android-texting-stops-working-a-step-by-step-guide/"><u>What to Do When Android Texting Stops Working: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-dvd-copy-software-feature-comparison-and-edition-overview-digieity/"><u>WinX DVD Copy Software: Feature Comparison & Edition Overview | Digieity</u></a></li>
 </ul></div>
 

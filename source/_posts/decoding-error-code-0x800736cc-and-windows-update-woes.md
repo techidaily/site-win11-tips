@@ -1,7 +1,7 @@
 ---
 title: Decoding Error Code 0X800736CC and Windows Update Woes
-date: 2024-11-02T08:02:34.624Z
-updated: 2024-11-07T03:06:18.987Z
+date: 2024-11-15T18:58:56.388Z
+updated: 2024-11-17T18:02:37.973Z
 tags:
   - windows10
   - windows11
@@ -40,23 +40,17 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 3. On the right sidebar, click **Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Under **Most frequent**, locate **Windows Update** and click **Run**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the on-screen instructions to complete the troubleshooting process. It may take a few minutes for the tool to finish its job.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Clear the Windows Update Cache
 
@@ -73,14 +67,14 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 6. After deleting the files, head back to the Services window, right-click on the **Windows Update** service, and select **Start**. This step restarts the Windows Update service.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now restart your computer. It will allow Windows Update to recreate cache files from scratch.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable your Antivirus Temporarily
 
@@ -159,6 +153,14 @@ net start cryptsvc`
 7. Type **ResetWindowsUpdate.bat** as the file name and save it to your desktop.  
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 8. Now, you have the batch script on your desktop. Right-click on it and select **Run as administrator**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. When the UAC pops up, click **Yes** to grant elevated privileges.
 
  The script will take a few minutes to run. When it's finished, close the Command Prompt window and restart your computer. Once your computer restarts, check if the 0x800736cc error is resolved.
@@ -174,39 +176,15 @@ net start cryptsvc`
 * [Manually Install the Update](https://www.makeuseof.com/update-windows-manually/) \- If Windows Update fails to install or is stuck, you can download and install it manually
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing Windows Update Error 0x800736cc
 
  As you can see, multiple ways exist to fix the Windows Update error. We hope one of these methods has solved your problem, and you can now successfully install Windows Update. If nothing else works, you can restore your computer to a previous state or reinstall Windows.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-illuminating-emotions-an-hdr-portraitists-guide/"><u>[Updated] In 2024, Illuminating Emotions An HDR Portraitist's Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-ace-2-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus Ace 2 to Roku | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/boost-online-engagement-with-our-advanced-cookiebot-solutions/"><u>Boost Online Engagement with Our Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-limited-edition-feature/"><u>Decoding Windows 11’S Limited Edition Feature</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-mini-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 mini</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disable-integrated-graphics-on-windows-and-when-you-should/"><u>How to Disable Integrated Graphics on Windows (and When You Should)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/master-bangla-in-just-10-mins-a-day/"><u>Master Bangla in Just 10 Mins a Day</u></a></li>
-<li><a href="https://fox-access.techidaily.com/melodic-matchmaking-complementary-soundtracks-for-boxings-for-2024/"><u>Melodic Matchmaking Complementary Soundtracks for Boxings for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-access-quest-six-ways-to-property-peephole/"><u>Quick Access Quest: Six Ways to Property Peephole</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-system-call-failed-in-windows-11-and-11/"><u>Quick Fixes for “System Call Failed” In Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-reintroduce-disabled-cooling-directive/"><u>Resolving Windows: Reintroduce Disabled Cooling Directive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-resolving-windows-error-code-0x0000004e/"><u>Step-by-Step: Resolving Windows' Error Code 0X0000004E</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-spectacular-hdr-imagery-with-sunbriteverandas-durable-55-inch-4k-veranda-television/"><u>Unleash Spectacular HDR Imagery with SunBriteVeranda's Durable 55-Inch 4K Veranda Television</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -215,3 +193,19 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-list-of-top-5-iphone-podcast-platforms/"><u>[New] Exclusive List of Top 5 iPhone Podcast Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-gain-command-over-youtubes-video-playback-speed/"><u>2024 Approved Gain Command Over YouTube's Video Playback Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-harmony-with-googles-cross-platform-tool/"><u>Achieving Harmony with Google's Cross-Platform Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-fun-integrating-games-into-windows-11-through-google-play/"><u>Android Fun: Integrating Games Into Windows 11 Through Google Play</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/asmr-expertise-soundscapes-that-ease-sleeplessness/"><u>ASMR Expertise Soundscapes That Ease Sleeplessness</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-online-deals-on-webcam-protection-kits/"><u>Best Online Deals on Webcam Protection Kits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-windows-and-photoshop-open-up-delays/"><u>Bridging the Gap Between Windows and PhotoShop Open-Up Delays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-user-account-prompts-in-windows/"><u>Bypassing User Account Prompts in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-vivo-y100i-power-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo Y100i Power 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/preting-laws-around-youtube-content-capture-for-2024/"><u>Interpreting Laws Around YouTube Content Capture for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719360477145-reigniting-your-computers-print-functionality-with-effective-wwin-solutions/"><u>Reigniting Your Computer's Print Functionality with Effective WWin Solutions</u></a></li>
+</ul></div>
+

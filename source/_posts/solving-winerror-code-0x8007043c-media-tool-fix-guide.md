@@ -1,7 +1,7 @@
 ---
 title: "Solving WinError Code: 0X8007043C - Media Tool Fix Guide"
-date: 2024-09-01T05:13:51.747Z
-updated: 2024-09-02T05:13:51.747Z
+date: 2024-11-13T17:12:20.054Z
+updated: 2024-11-17T18:14:11.946Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,24 @@ To run Media Creation Tool as administrator:
 4. Next, check the**Unblock** option.  
 ![unblock media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unblock-media-creation-tool.jpg)
 5. Click**Apply** , and the security option will disappear.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Next, click**OK** to apply the changes.
 7. Run the Media Creation Tool again, and it should work without the 0x8007043C - 0x90017 error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Install Any Pending Windows Updates
 
  If the error occurs during an upgrade, ensure you have installed all the latest updates available for your PC. Often Windows updates consist of performance improvements and bug fixes. Install all the updates to see if that helps you resolve any issues interrupting the upgrade process.
@@ -61,9 +72,6 @@ To update your Windows computer:
 3. Click on**Check for updates** to find the pending updates.  
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
 4. If available, click on**Download & Install** and wait for the updates to install. Restart your PC and run the tool again to see if the error is resolved.
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the Windows Update Troubleshooter
 
@@ -79,11 +87,15 @@ To run the Windows Update Troubleshooter:
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
 ![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
 5. The update troubleshooter will initialize diagnostic and scan for issues. If found, it will apply the fix and show a status report. With the Windows Update dialog open, run Media Creation Tool and check if the error is resolved.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 6. If not, click**No** in the Windows Update troubleshooter dialog.
 7. Next, click on**View detailed** information. Here you can view the issues found and potential issues that were checked.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Check for a Third-Party Antivirus Conflict
 
@@ -91,9 +103,6 @@ To run the Windows Update Troubleshooter:
 
  Once disabled, relaunch the Media Creation Tool and check if the error persists. If not, check and reconfigure your antivirus settings or switch to one of the[best antivirus solutions on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Run the DISM and System File Checker Tool
 
  Deployment Image Servicing and Management (DISM) is a command-line tool to repair your Windows 10 and 11 images. It can look for corrupted or missing system files and repair them to fix critical errors on your PC.
@@ -108,6 +117,14 @@ To run the DISM and System File Checker Tool:
 DISM.exe /Online /Cleanup-image /Restorehealth
 4. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt.jpg)  
  Press**Enter** to execute the command. It may take some time for the process to complete. Once the process reaches 100%, you can run the System File Checker tool.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Type the following command and press**Enter** to run the System File Checker utility:  
 sfc /scannow
 6. The verification can take several minutes. So wait for the verification to reach 100%. The return will indicate if any issue is found and if the tool was able to fix it.
@@ -119,9 +136,6 @@ sfc /scannow
 
  Rufus is safe to use and offers some customization, such as choosing a partition format. You can also download the ISO file using Rufus.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## 8\. Perform a Repair Reinstall or Clean Install Windows
 
  Before we do a full clean of Windows, consider performing a repair reinstall. This allows you to perform an in-place upgrade and[reinstall the Windows OS without deleting your files and apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) .
@@ -129,20 +143,21 @@ sfc /scannow
  If all else fails, a clean install may be necessary. Make sure to create a backup of your data and then learn[how to clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fixing the Media Creation Tool Error 0x8007043C - 0x90017 Error
 
  The 0x8007043C - 0x90017 Media Creation Tool error is often due to an insufficient permission issue. You can unblock the utility in the Properties dialog to run the utility without the error. Only in rare instances, you may need to perform a clean install due to system file corruption.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +166,22 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-discover-the-best-html5-video-players-around-for-2024/"><u>[New] Discover the Best HTML5 Video Players Around for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hero5-black-in-action-essential-shooting-advice-for-amazing-results/"><u>[Updated] Hero5 Black in Action Essential Shooting Advice for Amazing Results</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-seamless-youtube-to-file-conversion-techniques/"><u>[Updated] In 2024, Seamless YouTube to File Conversion Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-default-settings-keep-your-usb-running-on-windows-11/"><u>Disable Default Settings - Keep Your USB Running on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-superior-case-options-for-your-raspberry-pi-top-picks/"><u>Discovering Superior Case Options for Your Raspberry Pi - Top Picks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-honor-80-pro-straight-screen-edition-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Honor 80 Pro Straight Screen Edition without App | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-machine-how-to-optimize-windows-11-settings/"><u>Master Your Machine: How to Optimize Windows 11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-uninstall-quickly-in-windows-11/"><u>Navigating to Uninstall Quickly in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-signed-file-barrier-for-system-upgrades/"><u>Overcoming Non-Signed File Barrier for System Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-languages-change-navigating-hotkeys-in-windows-11-and-11-pro/"><u>Quick Languages Change: Navigating Hotkeys in Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/schritt-fur-schritt-anleitung-zum-hochladen-einer-dvd-auf-google-drive/"><u>Schritt-Für-Schritt-Anleitung Zum Hochladen Einer DVD Auf Google Drive</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/troubleshooting-netflix-issues-effective-strategies-to-resolve-typical-streaming-hiccups/"><u>Troubleshooting Netflix Issues: Effective Strategies to Resolve Typical Streaming Hiccups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-restoring-power-for-your-ps5-gamepad/"><u>Ultimate Guide to Restoring Power for Your PS5 Gamepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-policy-editor-in-windows-11/"><u>Unlock the Full Potential of Policy Editor in Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Improve Computer Efficiency with W11 VM Reset
-date: 2024-09-01T05:15:08.429Z
-updated: 2024-09-02T05:15:08.429Z
+date: 2024-11-16T18:40:55.256Z
+updated: 2024-11-17T20:19:21.792Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  Let's now see how to reset Virtual Memory on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Use the System Properties window
 
  If you want to reset virtual memory settings on your Windows device, you can use the System Properties window. To do this, press **Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
@@ -35,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
  In the text box, type **sysdm.cpl**, and hit Enter. A system properties window will open up. Then, go to the **Advanced** tab and click the **Settings** button in the Performance section.
 
 ![How to Reset Virtual Memory on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-reset-virtual-memory-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will open up the Performance Options window, where you can manage virtual memory settings. For this, switch to the **Advanced** tab and click on **Change** in the Virtual Memory section.
 
@@ -47,8 +61,12 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
  After following the above steps, click **OK** to save your changes. Now close the System Properties and Settings windows and restart your computer. The new virtual memory settings should now be in effect.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Use Group Policy Editor
 
  You can also use the Local Group Policy Editor to reset virtual memory settings on your Windows device. But remember that this method is only available on Pro and Enterprise editions.
@@ -59,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
 ![Clear virtual memory pagefile Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clear-virtual-memory-pagefile-using-group-policy.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  Then navigate to the following location:
 
 Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Option
@@ -69,38 +84,33 @@ Local Computer Policy > Computer Configuration > Windows Settings > Security Set
  Scroll down and double-click **Shutdown: Clear virtual memory pagefile** policy. In the Properties window, select Enabled and then click **Apply**. Next, click **OK** to save it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Use Registry Editor
 
  If you don't have access to the Local Group Policy Editor, you can also use the Registry Editor to reset virtual memory settings on Windows. Before proceeding, you should [create a backup of the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) in case something gets wrong.
 
 ![Reset Virtual Memory Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-virtual-memory-using-registry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  To get started, search for **Registry Editor** in the Start menu and click on it. Once you open the Registry Editor, navigate to the following path:
 
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management
 
  Next, double-click on the **ClearPageFileAtShutdown** key and set its value to **1**. Click on the **OK** button to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Reset Virtual Memory To Get Better Performance
 
  Resetting virtual memory settings improves Windows computer performance. This guide introduces three methods to learn how to reset virtual memory on Windows. Give it a try and see which methods work best for you. If you face any issues while doing this, you can always use system restore to revert to the previous settings.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +119,22 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-14-youtube-adsense-earnings-how-much-does-adsense-pay-per-1000-view/"><u>[New] 2024 Approved 14- YouTube AdSense Earnings How Much Does AdSense Pay per 1,000 View</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-key-practices-to-amplify-your-social-media-impact-on-fb/"><u>[New] Key Practices to Amplify Your Social Media Impact on FB</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>[Updated] Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>[Updated] No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-fusing-inboxes-linking-your-gmail-with-outlook-on-windows/"><u>Efficiently Fusing Inboxes: Linking Your Gmail with Outlook on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-desktop-cleanliness-with-self-deleting-files-in-windows-os/"><u>Enhance Desktop Cleanliness with Self-Deleting Files in Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensured-smooth-data-flow-on-drives/"><u>Ensured Smooth Data Flow on Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-driver-tools-for-performance-the-ultimate-5-guide/"><u>Essential Driver Tools for Performance: The Ultimate 5 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-command-not-available-in-windows/"><u>Immediate Fixes for Command Not Available in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-a-guide-for-mobile-filmmakers-on-crafting-youtube-thumbnails/"><u>In 2024, A Guide for Mobile Filmmakers on Crafting YouTube Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-utorrent-connection-issues-windows-fix-guide/"><u>Overcoming uTorrent Connection Issues: Windows Fix Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/sewn-sequences-learning-loom-screen-casting-for-2024/"><u>Sewn Sequences Learning Loom Screen Casting for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocked-connection-top-6-tactics-to-solve-non-functional-network-hardware-in-pcs/"><u>Unblocked Connection: Top 6 Tactics to Solve Non-Functional Network Hardware in PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y100-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y100 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1011s-vanishing-windows-how-to-bring-them-back-quickly/"><u>Win10/11's Vanishing Windows: How to Bring Them Back Quickly</u></a></li>
+</ul></div>
 

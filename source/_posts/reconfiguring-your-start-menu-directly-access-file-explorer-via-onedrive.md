@@ -1,7 +1,7 @@
 ---
 title: "Reconfiguring Your Start Menu: Directly Access File Explorer via OneDrive"
-date: 2024-11-03T10:11:18.447Z
-updated: 2024-11-07T07:19:59.488Z
+date: 2024-11-12T17:52:47.351Z
+updated: 2024-11-17T19:06:19.713Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
  From now on, opening File Explorer will automatically launch OneDrive rather than Quick Access.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Using the Registry Editor
 
  You can also use the Registry Editor to set OneDrive as your default File Explorer view. But be warned: if you make an incorrect change to the system registry, you could damage your computer. We recommend [backing up the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before changing it.
@@ -54,28 +61,15 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 6. Double-click on this newly created value and set its value to **4**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click **OK** and close the registry window.
 
  After that, restart your computer for the changes to take effect. Once your PC restarts, launch File Explorer. With this method, you will launch File Explorer directly to your cloud storage without navigating through Quick Access.
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Using a Reg File
 
@@ -97,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 7. Double-click the REG file you just created. If you're prompted for permission to change your computer, click **Yes**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Finally, restart your computer for the changes to take effect.
@@ -108,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
  After your system restarts, launch File Explorer. You'll see OneDrive as the main view instead of Quick Access.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set File Explorer to Open OneDrive Instead of Quick Access
@@ -120,25 +114,6 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
  Read this comprehensive guide if you want File Explorer to open OneDrive instead of Quick Access.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-high-skies-simple-snaps-vertical-phone-panoramas/"><u>[New] High Skies, Simple Snaps Vertical Phone Panoramas</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-premier-ios-tools-replicating-ps2-games-for-2024/"><u>[New] Premier iOS Tools Replicating PS2 Games for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-5-virtual-reality-vr-treadmills-review/"><u>[New] Top 5 Virtual Reality (VR) Treadmills Review</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-essential-listings-the-leading-tv-streaming-houses/"><u>[Updated] Essential Listings The Leading TV Streaming Houses</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-dashboard-directions-entering-google-meet-pcmobile/"><u>2024 Approved Dashboard Directions Entering Google Meet (PC/Mobile)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/halt-the-haste-of-edges-tabs-in-w11/"><u>Halt the Haste of Edge's Tabs in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-dxgierrordeviceremoved-error-in-windows-10-and-11/"><u>How to Fix the DXGI_ERROR_DEVICE_REMOVED Error in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-yourphoneexe-malware-insights-on-windows-87/"><u>Is YourPhone.exe Malware? Insights on Windows 8/7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-account-security-changing-reset-counter-after-failed-logins/"><u>Optimizing Account Security: Changing Reset Counter After Failed Logins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-access-reactivating-ms-store-apps-in-windows-11/"><u>Regaining Access: Reactivating MS Store Apps in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-world-of-warcraft-wow-connection-delays/"><u>Troubleshooting World of Warcraft (WoW) Connection Delays</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleashing-potential-the-easy-path-to-blending-linktree-with-tiktok-bios/"><u>Unleashing Potential The Easy Path to Blending Linktree with TikTok Bios</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-potential-via-powertoys-install/"><u>Unleashing Windows 11 Potential via PowerToys Install</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-1011-volume-control-fix-guide/"><u>Windows 10/11 Volume Control Fix Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -146,3 +121,25 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-title-and-description-tweaks-for-maximum-engagement-on-igtv-for-2024/"><u>[New] Title and Description Tweaks for Maximum Engagement on IGTV for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-secrets-unveiled-expert-adobe-captive-screen-recording-tips/"><u>[Updated] In 2024, Secrets Unveiled Expert Adobe Captive Screen Recording Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-htcs-immersive-revolution-a-deep-dive-into-vr-headset-magic/"><u>2024 Approved HTC's Immersive Revolution A Deep Dive Into VR Headset Magic</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-guide-to-internet-based-image-trimming/"><u>2024 Approved The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-critical-tweaks-to-reactivate-firewall/"><u>4 Critical Tweaks to Reactivate Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-window-updates-that-left-old-traits-behind/"><u>6 Window Updates That Left Old Traits Behind</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-simple-guide-to-windows-11-home-interface-activation/"><u>A Simple Guide to Windows 11 Home Interface Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-tasks-power-up-window-10-and-11-with-keybinds/"><u>Accelerate Tasks: Power-Up Window 10 and 11 with Keybinds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-file-access-dilemnas-on-windows-os/"><u>Addressing File Access Dilemnas on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-inconsistent-thx-sound-on-pcs/"><u>Addressing Inconsistent THX Sound on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-isdonedll-issue-on-w11-and-11x-systems/"><u>Addressing the ISDone.dll Issue on W11 & 11X Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-taskbar-size-step-by-step-guide/"><u>Altering Taskbar Size: Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-elite-circle-5-premier-secure-messaging-platforms/"><u>Explore the Elite Circle: 5 Premier Secure Messaging Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/key-facts-on-youtube-lives-visual-identity/"><u>Key Facts on YouTube Live's Visual Identity</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-streamline-your-video-editing-best-flv-editor-for-windows-8-users/"><u>New 2024 Approved Streamline Your Video Editing Best FLV Editor for Windows 8 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-our-selection-8-most-exceptional-book-apps-to-enhance-your-reading-experience/"><u>Unveiling Our Selection: 8 Most Exceptional Book Apps to Enhance Your Reading Experience</u></a></li>
+</ul></div>
+

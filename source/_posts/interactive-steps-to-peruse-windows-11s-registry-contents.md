@@ -1,7 +1,7 @@
 ---
 title: Interactive Steps to Peruse Windows 11'S Registry Contents
-date: 2024-09-01T05:13:57.010Z
-updated: 2024-09-02T05:13:57.010Z
+date: 2024-11-12T19:39:26.593Z
+updated: 2024-11-17T18:06:17.138Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 5. Now, click on the registry file you want to preview. The Preview pane will display a loading screen and then display the contents of the registry file. If you're going to copy the contents of the registry file from the Preview pane, select the text, press **Ctrl + C**, and then paste it into a text editor.  
 ![View the Registry File Contents Using File Explorer Preview 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-file-explorer-preview-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Using Windows Notepad
 
  Notepad is an inseparable part of Windows OS; the latest version even supports the tabs feature. So, you can open multiple files without even opening another Notepad window and stacking them side by side. Repeat the following steps:
@@ -52,10 +59,14 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 4. Now, you will see the registry file in the folder location—Double-click on the registry file to open it in Notepad.  
 ![View the Registry File Contents Using Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-notepad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  With that, you will see the contents of the registry file on Notepad.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Using the Command Prompt
 
@@ -69,8 +80,19 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 5. After reviewing the file, type **exit** in the Command Prompt window and press **Enter** key to close it.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Using PowerShell
 
  Like Command Prompt, you can open a registry file inside PowerShell using an inbuilt cmdlet. Repeat the following steps:
@@ -83,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 ![View the Registry File Contents Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-powershell.jpg)
 6. PowerShell will display the contents of the registry file. **Close** the PowerShell window afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Using PowerToys Registry Preview
 
  PowerToys recently launched a new registry file preview feature. You can open and view registry files and change them from the same window. But you must [install PowerToys from GitHub](https://github.com/microsoft/PowerToys) or Microsoft Store to preview the registry file.
@@ -99,30 +118,25 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 4. The registry file will open in the left-hand side pane of the Registry Preview window. On the right, you will see the corresponding registry key and value that the registry file will change.  
 ![View the Registry File Contents Using PowerToys 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-powertoys-2.jpg)
 5. If you want to tweak the registry file, click on the left-hand side and type the changes. Then, you can either save the file or create a new registry file.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Using Chrome or Any Other Browser
 
  Since the registry file only contains text, you can preview it in Chrome or Edge. Just copy the file path of the registry file. Open Chrome browser, paste the file path in the address bar, and press enter. Chrome will open the registry file in a new tab.
 
 ![View the Registry File Contents Using Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-chrome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Easily Preview Registry Files on Windows
 
  These were the multiple methods to check the contents of the registry file on Windows 11\. The easiest way to preview the file is using the File Explorer preview pane. Alternatively, you can use the Command Prompt or PowerShell. But if you want to edit the registry file, you can use Notepad or PowerToys Registry Preview feature.
 
  But have you ever opened and checked a registry file's contents before importing it into your system? If not, here are some ways to preview its contents before adding it to your system's registry.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +144,17 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-innovative-use-of-multimedia-in-modern-classrooms/"><u>[New] 2024 Approved Innovative Use of Multimedia in Modern Classrooms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-broken-disk-organization-in-os/"><u>Addressing Broken Disk Organization in OS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/everything-you-should-know-about-instagram-video-length/"><u>Everything You Should Know About Instagram Video Length</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/hd-gaming-video-recording-high-quality-gameplay-videos-and-ultimate-software-list/"><u>HD Gaming Video Recording, High-Quality Gameplay Videos, and Ultimate Software List.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-value-save-on-upgrade-with-windows-11-pro-key/"><u>Maximize Value, Save on Upgrade with Windows 11 Pro Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-download-performance-in-the-microsoft-app-shop/"><u>Maximizing Download Performance in the Microsoft App Shop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-administrative-tasks-a-new-approach-to-windows-uac/"><u>Streamlining Administrative Tasks: A New Approach to Windows UAC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-8-youtube-to-avi-convertors-explained-for-2024/"><u>Top 8 YouTube-to-AVI Convertors Explained for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/wie-man-einen-gesperrten-pc-mit-windows-10-wieder-freischaltet-effektive-strategien-erklart/"><u>Wie Man Einen Gesperrten PC Mit Windows 10 Wieder Freischaltet - Effektive Strategien Erklärt</u></a></li>
+</ul></div>
+

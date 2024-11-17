@@ -1,7 +1,7 @@
 ---
 title: "Mastering Whisper: Converting Speech to Text on Windows"
-date: 2024-09-05T19:32:03.321Z
-updated: 2024-09-06T19:32:03.321Z
+date: 2024-11-11T20:07:01.946Z
+updated: 2024-11-17T17:38:40.197Z
 tags:
   - windows10
   - windows11
@@ -35,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 * If you have a relatively modern Nvidia GPU (GTX970 or newer), Whisper can run in "hardware accelerated mode" to boost its speed.
 * There's no requirement to register, purchase a license, or buy a subscription.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Are AMD GPUs Not Supported?
 
  For GPUs to be useful for more than graphics, they'd have to act as fully programmable processors. That's why Nvidia created CUDA, officially deemed "a parallel computing platform and programming model". To learn more about CUDA and related hardware ("CUDA cores"), read our article on[what are CUDA cores and how they improve PC gaming](https://www.makeuseof.com/tag/what-are-cuda-cores-pc-gaming/) .
@@ -50,11 +44,12 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
  Compared to the alternatives, CUDA is considered more mature, performant, and easier to use. Thus, most developers only target CUDA, which, in turn, means that their software only takes advantage of the hardware features on Nvidia GPUs. And that includes Whisper.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Download and Install Whisper
 
  Unfortunately, Whisper is not a standalone app you can download, install, and run. It relies on other software, which must also be installed.
@@ -86,14 +81,15 @@ To have Whisper use the CUDA cores of your Nvidia GPU:
 `pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117`  
 ![pip3 install torch torchvision torchaudio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip3-install-torch-torchvision-torchaudio.jpg)
 3. To check if Whisper can use your Nvidia GPU, use:  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `whisper --help | findstr -i pytorch`  
  You should see**(default: cuda)** instead of**(default: cpu)** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to Do if Torch Fails to Install
 
@@ -108,19 +104,14 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 ![choco install python alternate version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choco-install-python-alternate-version.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Then, use the path of the secondary version for all "generic" Whisper commands (e.g., "c:\\Python310\\Scripts\\pip.exe" rather than just "pip").
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Record Your Voice
 
  You can use any sound-recording app to turn your voice into a WAV or MP3 file. Windows includes such an app—for more info on that, see[how to use the Windows 10 Voice Recorder app](https://www.makeuseof.com/how-to-use-the-windows-10-voice-recorder-app/) .
@@ -128,6 +119,20 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
  For a more full-featured option, try**Audacity** . Learn how to do it with our guide on[how to use Audacity to record audio on Windows and Mac](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/) .
 
 ![Recording voice with Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/recording-voice-with-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Start Transcribing With Whisper
 
@@ -150,12 +155,6 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 
  The "model" flag is required because Whisper uses one out of various options. Let's expand on them to help you choose the best for your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Which Model to Choose?
 
  Whisper offers various language models. The larger the model, the more improved its accuracy, but also the higher its hardware requirements. They are:
@@ -181,11 +180,18 @@ For example:
 `whisper --model small My_Voice_Note.mp3`
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Streamline Your Transcription
 
  Having to type the whole Whisper command every time you want to transcribe some audio can quickly get boring. Let's make a globally accessible batch file to streamline the process.
@@ -197,21 +203,9 @@ For example:
 4. Find the**Path** variable under**User variables for YOUR\_USERNAME** . Double-click on it to edit it. Click on**New** , and paste the path to your scripts folder. Click on**OK** to accept the changes.  
 ![Environment Variables User Account Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/environment-variables-user-account-path.jpg)
 5. Return to your scripts folder in Windows Explorer. Create a new batch file there named "wht.bat". "Inside" it, place this command:  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `whisper --model tiny --language en %1`  
 ![Creating WHT Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-wht-batch-file.jpg)
 6. Create two more batch files, "whs" and "whm".
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Place this inside the first script:  
 `whisper --model small --language en %1`
 8. Place this inside the second:  
@@ -224,18 +218,6 @@ For example:
 3. Type this command, replacing "wht" with "whs" or "whm" to use the small or medium language models:  
 `wht YOUR_AUDIO_FILE.mp3`
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Typing at the Speed of Sound With Whisper
 
  Even the quickest touch-typists can't match the speed at which we speak. However, until recently, talking instead of typing wasn't optimal for creating documents.
@@ -244,14 +226,11 @@ For example:
 
  After the steps above, you should be ready to transcribe or translate your voice with high accuracy, using only a single command.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -260,4 +239,24 @@ For example:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-optimizing-game-streams-through-ai-facial-recognition/"><u>[New] Optimizing Game Streams Through AI Facial Recognition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlined-screencasting-experts-top-recommendations-for-2024/"><u>[New] Streamlined Screencasting Experts' Top Recommendations for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-exploring-the-extensive-features-of-logitechs-4k-cam/"><u>[Updated] In 2024, Exploring the Extensive Features of Logitech's 4K Cam</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lgs-monitor-marvel-an-exhaustive-look-at-ultra-clear-technology/"><u>2024 Approved LG's Monitor Marvel An Exhaustive Look at Ultra-Clear Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensure-seamless-connectivity-9-tips-to-unlock-usb-wi-fi-on-pcs/"><u>Ensure Seamless Connectivity: 9 Tips to Unlock USB Wi-Fi on PCs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-seamless-visuals-with-instagrams-chroma-key/"><u>In 2024, Crafting Seamless Visuals with Instagram's Chroma Key</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-itel-p55t-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Itel P55T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-windows-11-control-appetizer/"><u>Mastering the Windows 11 Control Appetizer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-terminal-for-quake-users/"><u>Mastering Windows Terminal for Quake Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-pin-lockouts-effective-methods/"><u>Overcoming Windows PIN Lockouts: Effective Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-restoring-erratic-windows-software/"><u>Quick Guide to Restoring Erratic Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-gameplay-addressing-windows-boltgun-stutters/"><u>Streamline Your Gameplay: Addressing Window's Boltgun Stutters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sweetening-windows-soundscape-with-irq-fixes/"><u>Sweetening Windows Soundscape with IRQ Fixes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-is-netgear-nighthawk-rax80-a-game-changer-for-wi-fi-6-users/"><u>The Ultimate Review: Is Netgear Nighthawk RAX80 a Game Changer for Wi-Fi 6 Users?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-route-for-installing-java-development-kit-on-windows-11/"><u>The Ultimate Route for Installing Java Development Kit on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-drones-into-cinematic-experiences-with-editing-for-2024/"><u>Transforming Drones Into Cinematic Experiences with Editing for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-required-video-aspect-ratios-explained-for-2024/"><u>Twitter's Required Video Aspect Ratios Explained for 2024</u></a></li>
+</ul></div>
 

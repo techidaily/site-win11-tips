@@ -1,7 +1,7 @@
 ---
 title: "Uninstall Challenges Busted: Tactics for Features Not Installed on Windows 11 & 11 Pro"
-date: 2024-10-31T13:09:11.580Z
-updated: 2024-11-07T10:35:16.256Z
+date: 2024-11-14T18:42:05.108Z
+updated: 2024-11-17T16:17:06.875Z
 tags:
   - windows10
   - windows11
@@ -42,13 +42,6 @@ To use the DISM tool, follow these steps:
 
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run the System File Checker or SFC Utility
 
  Another tool you can use to fix issues with optional feature installation is the System File Checker (SFC) utility.
@@ -62,16 +55,22 @@ To check your system using SFC, follow these steps:
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Windows Update Components
 
@@ -111,20 +110,20 @@ Follow these steps to run the update troubleshooter on Windows:
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
@@ -164,10 +163,10 @@ Here's how you can update Windows to the latest version:
  Once the service restarts, try installing the optional feature again, and it should work now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Restore Windows Features Using PowerShell
@@ -193,6 +192,13 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get Back the Windows Optional Features
 
  Hopefully, the issue with optional features not installing on your system should be fixed now. In any case, it is important to keep your system up-to-date and to follow best practices for maintaining your computer properly to help prevent issues like this from occurring.
@@ -212,19 +218,21 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-innovative-methods-for-overwatch-audio-capture/"><u>[Updated] Innovative Methods for Overwatch Audio Capture</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quickening-your-live-feed-on-periscope-platform/"><u>2024 Approved Quickening Your Live Feed on Periscope Platform</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/expert-tips-for-pc-gamers-ideal-snapshots/"><u>Expert Tips for PC Gamer's Ideal Snapshots</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-zero-5g-2023-turbo-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Zero 5G 2023 Turbo Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-install-microsoft-works-on-windows-11-or-11/"><u>How to Install Microsoft Works on Windows 11 or 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-farm-fantasy-a-decade-of-dirt-digging-delights/"><u>In 2024, Farm Fantasy A Decade of Dirt Digging Delights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-epson-v39-scan-driver-on-windows-7810-step-by-step-guide-and-download-links/"><u>Install Epson V39 Scan Driver on Windows 7/8/10: Step-by-Step Guide and Download Links</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-windows-slide-show-setup-7-essential-steps/"><u>Instant Windows Slide Show Setup: 7 Essential Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/invest-smart-with-economy-led-monitor/"><u>Invest Smart with Economy LED Monitor</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/repairing-password-management-on-windows-systems/"><u>Repairing Password Management on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-smooth-windows-11-display-transitions/"><u>Steps for Smooth Windows 11 Display Transitions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-wsl-factor-in-the-linux-desktop-landscape/"><u>The WSL Factor in the Linux Desktop Landscape</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-what-to-anticipate-with-the-discontinuation-of-its-taskbar-chatting-feature/"><u>Windows 11: What to Anticipate With the Discontinuation of Its Taskbar Chatting Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restart-computer-at-games-command/"><u>[RESTART] Computer At Game's Command</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-effortlessly-record-time-lapses-on-apple-devices/"><u>[Updated] In 2024, Effortlessly Record Time-Lapses on Apple Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-dreame-x40-ultra-unit-review-the-epitome-of-luxury-robot-vacuums/"><u>Comprehensive Dreame X40 Ultra Unit Review – The Epitome of Luxury Robot Vacuums</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digital-impressions-drawing-techniques-for-pc-screens/"><u>Digital Impressions: Drawing Techniques for PC Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ditch-installation-struggles-preparations-before-vbox-on-pc/"><u>Ditch Installation Struggles: Preparations Before VBox on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-deep-a-comprehensive-guide-to-os-settings/"><u>Dive Deep: A Comprehensive Guide to OS Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-engine-start-up-halted/"><u>Graphic Engine Start Up Halted</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-redmi-note-12-pro-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Redmi Note 12 Pro 5G online without jailbreak</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-selling-vr-games-on-oculus-devices/"><u>In 2024, Best-Selling VR Games on Oculus Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opera-installer-lockdown-try-these-window-tips/"><u>Opera Installer Lockdown? Try These Window Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-operations-in-powershell-and-command-prompt/"><u>Optimizing File Operations in PowerShell & Command Prompt</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nokia-c32-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nokia C32 Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-administrative-controls-on-windows-defense-measures/"><u>Reversing Administrative Controls on Windows Defense Measures</u></a></li>
+<li><a href="https://win11.techidaily.com/time-tracker-tweaks-top-apps-to-modify-file-timestamps-on-pc/"><u>Time Tracker Tweaks: Top Apps to Modify File Timestamps on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-5-steps-to-reset-windows-defender-status/"><u>Troubleshooting Guide: 5 Steps to Reset Windows Defender Status</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-z-flip-6-launch-details-and-cutting-edge-specs/"><u>Unveiling the Samsung Galaxy Z Flip 6 - Launch Details & Cutting-Edge Specs</u></a></li>
 </ul></div>
 

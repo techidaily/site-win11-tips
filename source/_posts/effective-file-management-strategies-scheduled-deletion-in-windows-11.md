@@ -1,7 +1,7 @@
 ---
 title: "Effective File Management Strategies: Scheduled Deletion in Windows 11"
-date: 2024-11-01T22:24:04.107Z
-updated: 2024-11-06T17:16:02.602Z
+date: 2024-11-10T19:50:01.483Z
+updated: 2024-11-17T17:51:24.730Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
  If you want, you can always turn off the setting by simply disabling the **Storage Sense** button later on.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Deleted Old Files or Folders With the Command Prompt
 
  Like most things on Windows, you can use the Command Prompt here as well. A replacement for the easy pin-and-point graphical user interface, the Command Prompt works with simple text-based commands to help you perform different admin functions and fix various troubleshooting issues on Windows.
@@ -62,7 +55,21 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your files will be removed as quickly as soon as you hit the above commands.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use Task Scheduler on Windows
 
@@ -84,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 10. Under the **Settings** section, set up the timings of the tasks you'd like to run. Finally, click on **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, head to the **Actions** tab and click on the **New** button. From the **Actions** drop-down menu, select the **Start a program** option.
@@ -115,20 +122,13 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 ![new action setting on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-setting-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Auto-Deleting Old Files or Folders on a Windows Computer
 
@@ -138,29 +138,6 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
  You can get rid of Windows 10 bloatware. You can sort your right click menu. You can even declutter your search results. And of course, you can clean up your desktop. If you're looking for a more passive approach, here's how to erase old files on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-avoidance-manual-how-to-skip-edgenuity-courses-without-penalty-for-2024/"><u>[Updated] Avoidance Manual How to Skip Edgenuity Courses Without Penalty for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/advanced-cards-for-crystal-clear-output-for-2024/"><u>Advanced Cards for Crystal Clear Output for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/camrecorder-essential-techniques-for-gaming-pros-for-2024/"><u>CamRecorder Essential Techniques for Gaming Pros for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/come-ritrovare-i-tuoi-video-mp4-perduti-metodi-di-recupero-efficaci/"><u>Come Ritrovare I Tuoi Video MP4 Perduti: Metodi Di Recupero Efficaci</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-motorola-edge-40-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-rectifying-error-0x800700e1-on-windows-11-devices/"><u>Guidelines for Rectifying Error 0X800700E1 on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-to-mend-vac-verification-issues-on-pc/"><u>Guidelines to Mend VAC Verification Issues on PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-easily-troubleshoot-and-resolve-startech-driver-conflicts-on-windows-operating-systems-7-8-and-n/"><u>How to Easily Troubleshoot and Resolve StarTech Driver Conflicts on Windows Operating Systems (7, 8 & N)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-privacy-essential-windows-encrypted-apps-150-chars/"><u>Mastering Privacy: Essential Windows Encrypted Apps (150 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-of-file-type-modification-in-the-windows-realm/"><u>Mastery of File Type Modification in the Windows Realm</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-sticky-notes-sync-failures-on-windows-11/"><u>Overcoming Sticky Notes Sync Failures on Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/recording-your-browsers-video-call-for-2024/"><u>Recording Your Browser's Video Call for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/resolving-the-windows-file-recovery-failure-understanding-and-solving-cannot-create-destination-folder-mistakes/"><u>Resolving the Windows File Recovery Failure: Understanding and Solving 'Cannot Create Destination Folder' Mistakes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ts-to-crafting-enthralling-edu-videos-for-the-digital-age/"><u>Secrets to Crafting Enthralling Edu-Videos for the Digital Age</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speedy-problem-resolution-in-windows-with-troubleshoot-shortcuts/"><u>Speedy Problem Resolution in WIndows with Troubleshoot Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/spotting-hidden-pane-panes-strategies-to-try-with-win11/"><u>Spotting Hidden Pane Panes: Strategies to Try with Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-hardware-identification-in-windows-systems/"><u>Unveiling the Power: Hardware Identification in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/vanguard-of-windows-11-selecting-your-most-trusted-password-guardians/"><u>Vanguard of Windows 11: Selecting Your Most Trusted Password Guardians</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -168,3 +145,20 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-converting-youtube-to-gif-a-comprehensive-online-process-for-2024/"><u>[Updated] Converting YouTube to GIF A Comprehensive Online Process for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-preservation-straightforward-techniques-unpacked/"><u>[Updated] Instagram Video Preservation Straightforward Techniques Unpacked</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-masterclass-in-tv-streaming-the-ultimate-guide/"><u>2024 Approved Masterclass in TV Streaming The Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-cant-get-mail-easy-fixes-for-windows-11-users/"><u>Breaking Down 'Can't Get Mail': Easy Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-the-basics-resetting-windows-11-privileges/"><u>Bring Back the Basics: Resetting Windows 11 Privileges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-windows-blocks-for-handbrake-success/"><u>Bypass Windows Blocks for HandBrake Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-chromes-automatic-conversion-to-webp-format-pc-users/"><u>Cease Chrome’s Automatic Conversion to WebP Format PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charming-windows-echoing-winters-joyful-spirit/"><u>Charming Windows: Echoing Winter's Joyful Spirit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expand-your-video-editing-experience-no-inshot-required/"><u>Expand Your Video Editing Experience No Inshot Required</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316574-9781401920579-sara-book-2/"><u>Sara, Book 2 | Free Book</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-art-of-inverted-investigation-finding-true-sources-on-instagram-photos-for-2024/"><u>The Art of Inverted Investigation Finding True Sources on Instagram Photos for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Neutralize the Noise: Tackling Pink, Purple Windows Displays"
-date: 2024-11-05T01:08:41.303Z
-updated: 2024-11-06T20:51:54.902Z
+date: 2024-11-15T18:49:48.607Z
+updated: 2024-11-17T19:13:27.236Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
  In some cases, restarting your Windows device could help. Perform any one of the many[ways to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) and see if that fixes this.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart File Explorer
 
  The issue at hand might be caused by a faulty app on your device. Now, a quick solution here would be to close a few active programs and restart the File Explorer.
@@ -46,6 +53,13 @@ Let’s take a look at the steps for restarting File Explorer:
 3. Right-click on**Windows Explorer** and then select**Restart** .
 
 ![Restarting the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Restarting-the-Windows-File-Explorer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Disable the Color Filters
 
@@ -61,10 +75,10 @@ In this instance, here’s how you can resolve the problem:
 ![Turning off the Turn on color filters button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Turn-on-color-filters-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Configure the Night Light Settings
@@ -92,10 +106,10 @@ To get rid of the problem, follow these steps:
 ![Adjusting the Night light colors strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Adjusting-the-Night-light-colors-strength.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall the Windows Display Drivers
@@ -119,19 +133,6 @@ Let’s first check out how you can update the display drivers:
 3. Navigate to the**Action** tab and select**Scan for hardware changes** .
 4. Close the Device Manager when the process is complete.
 5. Restart your PC to apply these changes.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Use the Built-In Windows Troubleshooters
 
@@ -161,13 +162,6 @@ Let’s first check out how you can update the display drivers:
 
 ![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Scan and Remove Malware From Your PC
 
  In some rare instances, malware might be the reason you’re experiencing the issue at hand. In this case, you can resolve the problem by scanning and removing harmful programs from your PC.
@@ -184,10 +178,10 @@ Here are the steps you need to follow:
 ![Scanning a PC with the Windows Security tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Scanning-a-PC-with-the-Windows-Security-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Use a System Restore Point
@@ -208,10 +202,10 @@ Here are the steps you need to follow:
 ![Using a Restore Point on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Using-a-Restore-Point-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Say Goodbye to Strange Windows Desktop Colors
@@ -235,16 +229,18 @@ Here are the steps you need to follow:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-pioneering-sustainability-transforming-metropolitan-environments-for-2024/"><u>[Updated] Pioneering Sustainability Transforming Metropolitan Environments for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/compact-portable-tp-link-wr902ac-travel-wi-fi-router/"><u>Compact Portable TP-Link WR902AC Travel Wi-Fi Router</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/craft-the-perfect-christmas-look-in-windows-11/"><u>Craft the Perfect Christmas Look in Windows 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-high-performance-windows-editing-tools-roundup-reviewed/"><u>In 2024, High Performance Windows Editing Tools Roundup Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-more-frustrations-installation-fixes-for-missing-windows-upgrades/"><u>No More Frustrations! Installation Fixes for Missing Windows Upgrades</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-guide-diagnosing-and-resolving-issue-0x80070570/"><u>Quick Guide: Diagnosing & Resolving Issue 0X80070570</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/space-data-refresh-the-sql-guidebook/"><u>Space Data Refresh: The SQL Guidebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-connections-how-to-clear-dns-in-steam-settings/"><u>Streamline Connections: How to Clear DNS in Steam Settings</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/swagtron-swagger-electric-scooter-review/"><u>Swagtron Swagger Electric Scooter Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-from-s-mode-essential-tips-for-windows-1011/"><u>Transitioning From S Mode: Essential Tips for Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11-screen-recording-techniques-combining-audio-and-visual-features-in-snipping-tool-max-156/"><u>Unveiling Windows 11 Screen Recording Techniques: Combining Audio & Visual Features in Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>[New] Revitalize Your Reels A Compreenas Guide for Enhancer 2.2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-face-fluidity-masterclass-perfecting-the-art-of-motion-blur-via-picsart/"><u>[Updated] Face Fluidity Masterclass Perfecting the Art of Motion Blur via Picsart</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-compreenas-guide-for-efficient-pip-integration-in-edge-browser-for-2024/"><u>A Compreenas Guide for Efficient PIP Integration in Edge Browser for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-hp-63-a9cb8x-printhead-driver-for-windows-compatible-with-p1102w/"><u>Download & Install HP 63-A9C/B8X Printhead Driver for Windows - Compatible with P1102w</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-crashing-file-explorer-on-windows-11-now/"><u>Fix Crashing File Explorer on Windows 11 Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fundamental-concepts-of-cyber-narratives/"><u>Fundamental Concepts of Cyber Narratives</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pixel-perfect-free-mobile-photography-booster/"><u>Pixel Perfect Free Mobile Photography Booster</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivate-your-iphone-essential-steps-to-overcome-device-lockout/"><u>Reactivate Your iPhone: Essential Steps to Overcome Device Lockout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-code-30015-26-in-m365-for-windows-computers/"><u>Resolving Error Code 30015-26 in M365 for Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-server-slip-ups-overcoming-ms-store-glitches-on-win-1011/"><u>Resolving Server Slip-Ups: Overcoming MS Store Glitches on Win 10/11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341723532-the-lowdown-on-sabrents-rocket-nano-an-in-depth-examination-of-the-1tb-m2-222-gen3-x4-ssd/"><u>The Lowdown on Sabrent's Rocket Nano – An In-Depth Examination of the 1TB M.2 22#2 Gen3 X4 SSD.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-path-to-reinstating-default-windows-backups/"><u>The Path to Reinstating Default Windows Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-missing-5ghz-network-on-windows-11-top-7-solutions/"><u>Troubleshoot Missing 5GHz Network on Windows 11: Top 7 Solutions</u></a></li>
 </ul></div>
 

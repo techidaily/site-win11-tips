@@ -1,7 +1,7 @@
 ---
 title: "Master Windows Mail: Overcoming Hurdle X, Error 0X80072746"
-date: 2024-10-30T16:49:40.344Z
-updated: 2024-11-07T07:37:58.545Z
+date: 2024-11-12T16:21:09.567Z
+updated: 2024-11-17T16:01:14.651Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,19 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  It's worth noting that the exact steps of performing this action can vary depending on the specific program you are using. Typically, this information is available in the application settings of the app.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Modify VPN Settings
 
  Active VPNs can also interfere with the Mail app's ability to establish network connections, leading to the problem at hand.
@@ -57,17 +70,18 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 3. Enable the **Allow VPN over metered network** option.  
 ![Allow VPN over metered network in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/vpn-over-metered-network.jpg)
 4. Now, head over to the "Related settings" section and choose **Change adapter options**.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click on your LAN (Wi-Fi) connectivity and choose **Properties** from the context menu.
 6. Select **Internet Protocol Version 6 (TCP/PV6)** and click **OK** to save the changes.
 
  You can now close the Settings app and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Set Up Your Account Manually
 
@@ -84,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![Manage accounts option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-accounts.jpg)
 3. Select the problematic email and choose **Delete account from this device** from the options available.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Delete the account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-mail-app.jpg)
 4. Confirm your action in the next window.
 5. Once the email account is removed, launch the official website of your email provider and copy the manual settings for IMAP. If these settings are not available, choose POP3\.
@@ -100,24 +107,18 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-account.jpg)
 3. Scroll down and choose **Advanced Setup**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Choose Advanced setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-setup-option.jpg)
 4. Click on **Internet email** and enter the manual settings you copied earlier.  
-![Click Internet email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/internet-email-option.jpg)
-5. Finally, click on **Sign in** and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Click Internet email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/internet-email-option.jpg)
+5. Finally, click on **Sign in** and check if the issue is resolved.
 
 ## 4\. Update the Mail App
 
@@ -133,20 +134,27 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![The Get updates button in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-updates-button.jpg)
 4. Wait for the updates to download and check if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While you are at it, we also recommend installing any system updates that might be available in the Settings app.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Fix Corruption Issues Within the Mail App
 
  If updating the application did not help, there are also some other fixes that can help you resolve any corruption issues within the Mail app that might be leading to the problem. This involves [repairing and resetting the Mail application](https://www.makeuseof.com/mail-app-cant-get-mail-windows/).
 
  The Repair option attempts to fix any damaged or missing files that might be contributing to the error, while the Reset option will restore the default, error-free state of the application. It is important to note, however, that while these solutions are effective at fixing the underlying problem, you are likely to lose your settings and preferences within the Mail app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Multiple Ways to Fix the Windows Mail App
 
@@ -156,29 +164,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  Below, we take a look at the different troubleshooting methods that can help fix this issue for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-best-webp-converters-convert-webp-to-jpg/"><u>[New] In 2024, Best WebP Converters Convert WebP to JPG</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-quick-fix-guide-adding-a-flip-tone-to-your-pcs-vocal-array/"><u>[New] In 2024, Quick-Fix Guide Adding a Flip Tone to Your PC's Vocal Array</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-your-path-to-uninterrupted-mobile-experience-with-these-7-apps/"><u>[New] Your Path to Uninterrupted Mobile Experience with These 7 Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capture-the-thrill-mastering-4-techniques-of-xbox-screen-recording/"><u>[Updated] Capture the Thrill Mastering 4 Techniques of Xbox Screen-Recording</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-speedy-techniques-for-converting-srt-files-into-text-format/"><u>[Updated] In 2024, Speedy Techniques for Converting SRT Files Into Text Format</u></a></li>
-<li><a href="https://win-forum.techidaily.com/amv-avi-movavi/"><u>AMV에서 AVI로의 속도를 조정하기 위한 제공 무료 온라인 변환 – Movavi 접갈</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convenient-cleanup-integrating-uninstall-shortcuts-into-wins-interface/"><u>Convenient Cleanup: Integrating Uninstall Shortcuts Into Win's Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-sudden-win-device-disconnections/"><u>Essential Fixes for Sudden Win Device Disconnections</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/free-avi-video-rotator-software-and-apps-for-all-devices/"><u>Free AVI Video Rotator Software and Apps for All Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-halt-automatic-windows-11-reboots/"><u>How to Halt Automatic Windows 11 Reboots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-server-slip-solutions-for-microsoft-store-errors/"><u>Mastering Server Slip Solutions for Microsoft Store Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-pc-invalid-name-issue-on-windows-11/"><u>Overcoming PC Invalid Name Issue on Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211278201-9781667470467-por-que-o-divorcio-e-obrigatorio/"><u>Por que o divórcio é obrigatório | Free Book</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pursuing-passion-professionally-a-guide-for-aspiring-designers/"><u>Pursuing Passion Professionally A Guide for Aspiring Designers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-your-file-explorer-top-troubleshooting-for-win11/"><u>Revive Your File Explorer: Top Troubleshooting for Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-crashing-drivers-on-modern-windows-oses/"><u>Tackling Crashing Drivers on Modern Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-embellishing-system-tray-with-weather-icons-in-windows-11/"><u>The Complete Guide to Embellishing System Tray with Weather Icons in Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-truth-behind-the-lens-an-honest-review-of-googles-pixel-6/"><u>The Truth Behind the Lens: An Honest Review of Google's Pixel 6</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-erratic-print-device-in-os/"><u>Troubleshooting Erratic Print Device in OS</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -186,3 +171,24 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-streaming-strategies-8-beginners-tips/"><u>[New] 2024 Approved Earning Streaming Strategies - 8 Beginners' Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-premiere-pros-guide-to-avoiding-overlit-iphone-hdr-videos-for-2024/"><u>[Updated] Premiere Pro's Guide to Avoiding Overlit iPhone HDR Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-files-write-access-no-more-restrictions/"><u>Adjusting Windows Files: Write Access No More Restrictions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversione-mkv-a-mp3-online-gratuita-come-usare-movavi-senza-costi/"><u>Conversione MKV a MP3 Online Gratuita: Come Usare Movavi Senza Costi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-service-failure-error-1053/"><u>Correcting Windows Service Failure Error 1053</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-list-of-15-no-cost-subtitle-software-options/"><u>Discover the Ultimate List of 15 No-Cost Subtitle Software Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-onedrives-cant-add-your-folder-right-now-error-on-windows/"><u>How to Fix OneDrive's Can’t Add Your Folder Right Now Error on Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-liftoff-to-high-end-imagery-on-a-budget/"><u>In 2024, Liftoff to High-End Imagery on a Budget</u></a></li>
+<li><a href="https://common-error.techidaily.com/maintaining-data-security-overcoming-memory-corruption-in-ftdis-with-compatible-drivers/"><u>Maintaining Data Security: Overcoming Memory Corruption in FTDIS with Compatible Drivers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/master-the-art-of-preserving-your-musical-journey-for-2024/"><u>Master the Art of Preserving Your Musical Journey for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-access-restoring-standard-user-privileges-in-win11/"><u>Redefine Access: Restoring Standard User Privileges in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-complications-caused-by-latest-windows-updates/"><u>Resolving Complications Caused by Latest Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-selection-of-4-webp-viewer-software/"><u>The Ultimate Selection of 4 WebP Viewer Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-choosing-a-superior-screen-recording-tool-for-windows-users/"><u>Ultimate Guide to Choosing a Superior Screen Recording Tool for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-true-power-of-windows-screen-capture-toolkit/"><u>Unleash the True Power of Windows' Screen Capture Toolkit.</u></a></li>
+</ul></div>
+

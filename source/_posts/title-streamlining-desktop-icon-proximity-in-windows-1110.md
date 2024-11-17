@@ -1,7 +1,7 @@
 ---
 title: "Title: Streamlining Desktop Icon Proximity in Windows 11/10"
-date: 2024-11-05T13:31:22.068Z
-updated: 2024-11-06T19:27:35.174Z
+date: 2024-11-10T17:23:03.246Z
+updated: 2024-11-17T20:21:20.923Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
  Now you might wonder how you can restore the default desktop icon spacing. The default spacing value for both the strings is**\-1125** , which amounts to 75 pixels. So, return to the WindowMetric registry key and enter**\-1125** for both the**IconString** and**IconVerticalSpacing** string values. Thereafter, restart your PC to restore the default spacing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Desktop Icon Spacing With Winaero Tweaker
 
  Some third-party customization software packages for Windows 11/10 include options for changing desktop icon spacing. Among them is the freeware Winaero Tweaker, which has two slider bars with which you can increase or decrease horizontal and vertical icon spacing. As that software also specifies space values in pixels, some users might prefer to change icon spacing with it. This is how to change the spacing for desktop icons with Winaero Tweaker.
@@ -64,6 +71,14 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 4. Right-click the winaerotweaker.zip file and select its**Extract All** option.  
 ![The Extract All button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/extract-all-button4.jpg)
 5. Select the checkbox for the**Show extracted files when complete** setting on the Extract Compressed (Zipped) Folders window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
 
 1. To unzip the archive, click**Extract** .
@@ -80,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 ![The Icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/icons-option.jpg)
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Press the**Apply changes** button.
 7. Click the**Sign out now** option to restart your PC and apply the icon spacing changes.
 
@@ -101,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
  There you can select a different icon font from a wide variety of alternatives in the**Font** menu. The**Font style** menu there includes 12 different styles for icon fonts to choose from. Input a higher or lower value in the**Size** box to increase or decrease the font size. You can also select**Strikeout** and**Underline** text effect options there.
 
  Click**OK** when you’ve customized the desktop icon font, and then select the**Apply Changes** and**Sign out** now options.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With DesktopOK
 
@@ -124,26 +125,26 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
 3. Select**Windows-Metrics** on the**Tools** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Much Icon Space Do You Want on Your Desktop?
 
@@ -164,19 +165,15 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-audio-craftsmanship-weaving-voiceovers-into-visual-tapestries/"><u>[New] Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-banishing-the-blank-screen-from-youtube-videos/"><u>[New] In 2024, Banishing the Blank Screen From YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-economics-a-detailed-blueprint-for-profit/"><u>[Updated] In 2024, Instagram Economics A Detailed Blueprint for Profit</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-making-your-mark-on-facebooks-algorithmic-landscape/"><u>[Updated] In 2024, Making Your Mark on Facebook's Algorithmic Landscape</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-optimizing-recording-quality-tips-and-tricks-for-ps3-gamers/"><u>[Updated] In 2024, Optimizing Recording Quality Tips and Tricks for PS3 Gamers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-account-25-top-instagram-tags-for-maximum-engagement/"><u>2024 Approved Elevate Your Account 25 Top Instagram Tags for Maximum Engagement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-we-found-errors-in-your-file-history-settings-error-in-windows/"><u>How to Fix the “We Found Errors in Your File History Settings” Error in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modernizing-your-windows-group-policy-settings/"><u>Modernizing Your Windows Group Policy Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-slow-steam-downloads-windows-tips-and-tricks/"><u>Overcoming Slow Steam Downloads: Windows Tips and Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/parrot-ar-drone-enhanced-a-compreayer-report/"><u>Parrot AR Drone Enhanced - A Compreayer Report</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-searches-implementing-descriptive-notes-in-windows/"><u>Streamlined Searches: Implementing Descriptive Notes in Windows</u></a></li>
-<li><a href="https://win-news.techidaily.com/transferts-completes-de-fichiers-avec-xcopy-sur-systemes-windows-7-a-11-methode-resolue/"><u>Transferts Complètes De Fichiers Avec XCopy Sur Systèmes Windows 7 À 11 - Méthode Résolue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-to-cross-platform-maps-apples-solution-for-windows/"><u>Transitioning to Cross-Platform Maps: Apple's Solution for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unique-pathways-to-commence-programs-in-windows-environments/"><u>Unique Pathways to Commence Programs in Windows Environments</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-from-airwaves-to-archives-online-recording-strategies-for-tv-shows/"><u>[Updated] From Airwaves to Archives Online Recording Strategies for TV Shows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unveiling-the-efficiency-of-screencastify-recorder/"><u>2024 Approved Unveiling the Efficiency of Screencastify Recorder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ad-free-horizon-your-future-with-w11s-start-menu/"><u>Ad-Free Horizon: Your Future with W11's Start Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-no-connected-systems-error-windows/"><u>Addressing No Connected Systems Error Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-and-reset-windows-11s-touch-keyboard-layout/"><u>Adjust and Reset Windows 11'S Touch Keyboard Layout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/atlasos-makeover-new-life-for-vintage-pcs/"><u>AtlasOS Makeover: New Life for Vintage PCs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-latest-linux-65-kernel-a-wealth-of-cutting-edge-enhancements-tech-insights/"><u>Exploring the Latest Linux 6.5 Kernel: A Wealth of Cutting-Edge Enhancements - Tech Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-lava-agni-2-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Lava Agni 2 5G Through Google Earth?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-internet-havens-tune-downloads-directory-for-2024/"><u>Premium Internet Havens Tune Downloads Directory for 2024</u></a></li>
 </ul></div>
 

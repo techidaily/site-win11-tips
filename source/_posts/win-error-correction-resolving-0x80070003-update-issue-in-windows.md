@@ -1,7 +1,7 @@
 ---
 title: "Win Error Correction: Resolving 0X80070003 Update Issue in Windows"
-date: 2024-11-05T10:12:28.114Z
-updated: 2024-11-07T13:55:27.766Z
+date: 2024-11-15T19:19:15.484Z
+updated: 2024-11-17T16:01:28.372Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  Now that you know what might be causing the problem let’s see how to resolve this case of missing update files in Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Delete the Contents of the DataStore Folder
 
  The DataStore folder in Windows is a log file that stores information about all the updates installed in the system. This folder is located in the SoftwareDistribution folder, which is a directory of update-related information in Windows.
@@ -59,7 +52,21 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 ![Delete the DataStore folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/software-distribution-datastore-delete-1.jpg)
 4. Click**Yes** in the confirmation prompt to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the folder is deleted, open the Settings app and try installing the updates again.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run System Scans
 
@@ -87,10 +94,10 @@ Here is all that you need to do:
  While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Repair the Update Components
@@ -124,17 +131,10 @@ net start appidsvc`
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Missing Update Files Back on Windows
@@ -156,20 +156,22 @@ net start appidsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-essential-screen-recording-software-list-for-vloggers/"><u>[New] 2024 Approved Essential Screen Recording Software List for Vloggers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-video-magic-best-tools-for-effortless-webm-conversion/"><u>[New] YouTube Video Magic Best Tools for Effortless WebM Conversion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-the-artistry-of-impressive-gopro-timelapse-videos/"><u>[Updated] Unleash the Artistry of Impressive GoPro Timelapse Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplify-windows-11-systray-with-scroll-lock-and-num-indicators/"><u>Amplify Windows 11 SysTray with Scroll Lock and Num Indicators</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/auditory-alchemy-for-imovie-masterpieces-for-2024/"><u>Auditory Alchemy for iMovie Masterpieces for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-virtualboxs-0x80004005-failure-on-win/"><u>Dealing with VirtualBox's 0X80004005 Failure on Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-utilities-for-a-high-performing-windows/"><u>Essential Utilities for a High-Performing Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-disk-designations-c-and-d-varieties/"><u>Navigating Disk Designations: C and D Varieties</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-network-drives-made-simple-for-mac-enthusiasts/"><u>Navigating Network Drives Made Simple for Mac Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-normalcy-show-startups-on-task-manager/"><u>Restoring Normalcy: Show Startups on Task Manager</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/school-success-with-gadgets-discover-the-nine-vital-tech-products-for-academic-excellence/"><u>School Success with Gadgets: Discover the Nine Vital Tech Products for Academic Excellence</u></a></li>
-<li><a href="https://fox-links.techidaily.com/shutterbug-secrets-iphone-night-photography/"><u>Shutterbug Secrets IPhone Night Photography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/terminals-in-win11-undo-changes-and-start-new/"><u>Terminals in Win11: Undo Changes & Start New</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-unraveling-breakpoint-failed-in-windows-devices/"><u>Tips for Unraveling Breakpoint Failed in Windows Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ech-to-record-your-live-video-feeds-online/"><u>Top Tech to Record Your Live Video Feeds Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-game-on-in-reality-the-ultimate-vr-headset-comparison/"><u>[New] Game On in Reality The Ultimate VR Headset Comparison</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-rooting-in-cities-cultivating-urban-biodiversity/"><u>[Updated] 2024 Approved Rooting in Cities Cultivating Urban Biodiversity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/webmmkvmovavi/"><u>免費直接WEBM轉MKV在線上，如何運用Movavi轉換工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-look-at-addressing-error-code-262-on-roblox/"><u>A Comprehensive Look at Addressing Error Code 262 on Roblox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-gaining-entry-into-windows-11s-application-repository/"><u>A Guide to Gaining Entry Into Windows 11'S Application Repository</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-fixing-steam-contact-issues-on-win11/"><u>A Step-by-Step Guide to Fixing Steam Contact Issues on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-gameplay-9-tricks-to-end-wwe-2k23-freezes-in-windows/"><u>Accelerate Gameplay: 9 Tricks to End WWE 2K23 Freezes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-gmail-to-windows-outlook-seamless-integration-method/"><u>Adding Gmail to Windows Outlook: Seamless Integration Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-system-id-inaccuracy-in-windows-11/"><u>Addressing System ID Inaccuracy in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-mobility-center-activation-in-w11-systems/"><u>Avoid Mobility Center Activation in W11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banishing-screen-glitches-in-modern-operating-systems/"><u>Banishing Screen Glitches in Modern Operating Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-12-mini-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 12 mini? Heres the Best Fixes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-dissecting-drama-introducing-chapters-to-video-content/"><u>In 2024, Dissecting Drama Introducing Chapters to Video Content</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Moto G34 5G Phones with/without a PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/speech-to-text-solutions-for-engaging-ppts/"><u>Speech-to-Text Solutions for Engaging PPTs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforming-video-codecs-on-a-budget-7-practical-tips-to-convert-mp4-into-mpeg-2-for-free/"><u>Transforming Video Codecs on a Budget: 7 Practical Tips to Convert MP4 Into MPEG-2 for Free</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Hot 30 5G | Dr.fone</u></a></li>
 </ul></div>
 

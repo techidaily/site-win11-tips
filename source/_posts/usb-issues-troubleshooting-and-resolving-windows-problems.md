@@ -1,7 +1,7 @@
 ---
 title: USB Issues? Troubleshooting & Resolving Windows Problems
-date: 2024-10-31T13:53:53.951Z
-updated: 2024-11-07T12:22:50.219Z
+date: 2024-11-14T19:22:12.878Z
+updated: 2024-11-17T16:00:36.822Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 
  Finally, grab a USB cable (or flash drive) and gently wiggle it around. If the drive is moving and feels loose---typically this will be up and down---then you have a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix a Broken USB Port on PC and Laptop
 
  We'll look at some software fixes in a moment, but first, what if the USB port is loose?
@@ -65,6 +58,19 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 
  Of course, you could take this to an expert for repair, but there will be associated costs with this. If you want to do it yourself, make sure you [learn how to solder](http://www.makeuseof.com/tag/learn-solder-simple-tips-projects/). If you're not sure, check out the software fixes first.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can Restarting a Computer Fix Broken USB Ports?
 
  "Have you tried turning it off and back on again?"
@@ -72,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
  This old tech support standby is well-known for a reason: it works!
 
  With your unrecognized USB device correctly inserted into the suspect USB port, restart your computer. Once the operating system has rebooted, it should detect the USB device. If not, it's worth looking at the device in the Windows device manager.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Check USB Ports on Windows 10 With Device Manager
 
@@ -89,21 +88,38 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 1. Right-click **Start** and select **Device Manager**  
 ![Open Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr.png)
 2. **Browse the list for** **Universal Serial Bus controllers**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Expand this and look for the **USB Host Controller**(your device may have a longer title, but it will feature those three words)  
 ![Find the USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller.png)
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
 5. Restart your computer
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. If no USB Host Controller is listed, click **Scan for hardware changes** on the toolbar
 
  If you're using a USB mouse and keyboard, it will be disabled while the USB Host Controllers are uninstalled.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Have Power Settings Stopped Your USB Ports Working?
 
@@ -137,34 +153,11 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You've Fixed Your Broken USB Port
 
  As you can see, you have several options for repairing an unresponsive USB port. In most cases, it won't be dead, and you'll be able to fix it.
 
  USB ports aren't the only potential weak spots on your computer. Looking after your hardware will reduce potential failures, and you can save a lot of money if you know how to test your PC for failing hardware.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-bandicam-vs-camtasia-a-comparative-review/"><u>[New] Bandicam Vs. Camtasia A Comparative Review</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-insightful-evaluation-androids-photography-tool-lightroom/"><u>[New] Insightful Evaluation Android's Photography Tool, Lightroom</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-solving-the-silent-problem-a-step-by-step-guide-to-restoring-audio-in-mpeg-4-video-files/"><u>1. Solving the Silent Problem: A Step-by-Step Guide to Restoring Audio in MPEG-4 Video Files</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-playwriting-workshop/"><u>2024 Approved Ultimate Playwriting Workshop</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-motorola-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Motorola ?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-windows-10-win10/"><u>Compelling Case for Continuing with Windows 10 (Win10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-p55-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel P55 Phones with/without a PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/no-member-overlooked-the-art-of-group-recognition-in-social-media/"><u>No Member Overlooked: The Art of Group Recognition in Social Media</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-strategy-for-integrating-linktree-in-tiktok-profiles/"><u>Optimal Strategy for Integrating Linktree in TikTok Profiles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-apps-hindered-by-qt-plugin-issue/"><u>Steps to Reactivate Apps Hindered by Qt Plugin Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-anomalies-dealing-with-anydesk-issues-in-windows/"><u>Streamlining Anomalies: Dealing with AnyDesk Issues in Windows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -173,3 +166,25 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-maintaining-access-to-your-tiktok-videos-with-tech-tools/"><u>[New] In 2024, Maintaining Access to Your TikTok Videos with Tech Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ace-the-outdoors-with-eco-friendly-solar-bluetooth-speakers-experts-selection-of-best-picks-zdnet/"><u>Ace the Outdoors with Eco-Friendly Solar Bluetooth Speakers: Expert's Selection of Best Picks | ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/administrative-controls-unveiled-windows-11-and-home-edition/"><u>Administrative Controls Unveiled: Windows 11 & Home Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-installing-the-western-digital-ses-usb-drive-in-windows-pcs-post-2-marketing-year/"><u>Comprehensive Guide: Installing the Western Digital SES USB Drive in Windows PCs (Post-2# Marketing Year)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-invalid-device-label-in-windows-os/"><u>Correcting 'Invalid Device' Label in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-easy-drive-mapping-for-windows-11-users/"><u>Enhancing Productivity: Easy Drive Mapping for Windows 11 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-gear-for-beginner-filmmakers-under-1000/"><u>Essential Gear for Beginner Filmmakers (Under $1,000)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-successfully-unplug-epic-games-from-your-w11-system/"><u>How to Successfully Unplug Epic Games From Your W11 System</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-x-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone X with/without SIM Card</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-12-proplus-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 12 Pro+ 5G Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quiet-quandaries-winning-back-volume-from-vexed-keyboard/"><u>Quiet Quandaries: Winning Back Volume From Vexed Keyboard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-up-slack-alerts-directly-on-your-apple-watch-a-step-by-step-guide/"><u>Setting Up Slack Alerts Directly on Your Apple Watch - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-steam-network-via-dns-cleanup/"><u>Streamlining Your Steam Network via DNS Cleanup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-13t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi 13T Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-repairing-inpage-kernel-failures/"><u>Troubleshooting and Repairing InPage Kernel Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-deactivated-rulesets-in-outlookwindows/"><u>Troubleshooting Deactivated Rulesets in Outlook/Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-potential-of-folder-multiplication-on-windows-devices/"><u>Unlocking the Potential of Folder Multiplication on Windows Devices</u></a></li>
+</ul></div>
+

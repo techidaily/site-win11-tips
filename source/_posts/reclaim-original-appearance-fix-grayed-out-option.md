@@ -1,7 +1,7 @@
 ---
 title: "Reclaim Original Appearance: Fix Grayed Out Option"
-date: 2024-09-01T05:15:12.152Z
-updated: 2024-09-02T05:15:12.152Z
+date: 2024-11-10T19:19:20.882Z
+updated: 2024-11-17T17:02:48.248Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,12 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
  The formatting process may take some time, depending on the amount of data on the partition. Once done, restart your computer and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Delete a Partition and Create Unallocated Space
 
  The "extend volume" option will gray out if there is no unallocated space next to the partition you want to extend. To create unallocated space, you will have to delete a partition that is next to the partition you want to extend.
@@ -56,9 +59,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Delete Volume option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-volume-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the partition is a recovery partition, you cannot delete it using Disk Management. You'll have to delete it using the Command Prompt. Here are the steps to do it:
 
 1. Press the **Win** key to open the Start Menu, type **Command** **Prompt**, and choose **Run as administrator** from the right pane. If this method doesn't work, check out other [ways to launch Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
@@ -69,32 +69,39 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. Type **list partition** and press **Enter**. This will list all the partitions on the disk.  
 ![list partition command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-partition.jpg)
 6. In the Type column, look for the partition that says **Recovery**. Note the partition number. For example, if the partition number is 4, type **select partition 4** and press **Enter**. This will select the recovery partition.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. To delete the recovery partition, type **delete partition override** and press **Enter**.  
 ![delete partition override command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-partition-override.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You will see the message **DiskPart successfully deleted the selected partition**. This indicates that the recovery partition has been deleted.
 
 ![DiskPart successfully deleted the selected partition message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/diskpart-successfully-deleted-the-selected-partition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  Next, open the Disk Management tool, and you will see an unallocated space next to the partition you want to extend. Right-click on the partition, choose **Extend** **Volume**, and then click **Next**.
 
 ![Extend partition option in Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extend-partition-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once the wizard completes, you will see the partition size has been increased.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Extend Your Windows Partitions Without Any Further Issues
 
@@ -102,11 +109,30 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  If this is happening to you, try the below solutions for a grayed-out "extend volume" option on Windows
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-soundscapes-of-success-building-youtube-playlists-with-precision/"><u>[New] 2024 Approved The Soundscapes of Success Building YouTube Playlists with Precision</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-upgrade-your-channel-description-with-ease-and-flair/"><u>[New] 2024 Approved Upgrade Your Channel Description with Ease and Flair</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-checklist-for-logitech-webcam-setup/"><u>[New] In 2024, The Ultimate Checklist for Logitech Webcam Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-exploration-of-sierra-icloud-documentdesktop-views/"><u>2024 Approved Complete Exploration of Sierra iCloud Document/Desktop Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-path-for-your-print-job-overcome-usage-hurdles/"><u>Clear Path for Your Print Job: Overcome Usage Hurdles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-the-future-revolutionary-tools-for-3d-modelers-for-2024/"><u>Crafting the Future Revolutionary Tools for 3D Modelers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diy-windows-text-conversion-using-ahk-and-whisper-libraries-effectively/"><u>DIY Windows Text Conversion: Using AHK & Whisper Libraries Effectively</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-the-art-of-design-10-secrets-for-podcast-imagery/"><u>Mastering the Art of Design 10 Secrets for Podcast Imagery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-error-0xc00ce556-parsing-style/"><u>Mending Windows Error 0xC00CE556, PARSING Style</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/multi-platform-speech-to-mp3-technology-for-everyday-use-for-2024/"><u>Multi-Platform Speech-to-MP3 Technology for Everyday Use for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-mend-windows-updates-x8024a205-glitch/"><u>Steps to Mend Windows Update's X8024A205 Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-systems-startup-a-windows-11-clean-boot-tutorial/"><u>Streamlining Your System's Startup: A Windows 11 Clean Boot Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-easy-windows-11-pin-less-display/"><u>Techniques for Easy WIndows 11 PIN-Less Display</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-poco-x5-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Poco X5 Pro Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-layered-over-linux-growth-insight/"><u>Windows Layered Over Linux Growth Insight</u></a></li>
+</ul></div>
+

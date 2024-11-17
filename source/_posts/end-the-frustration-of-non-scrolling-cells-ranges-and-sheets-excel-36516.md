@@ -1,7 +1,7 @@
 ---
 title: End the Frustration of Non-Scrolling Cells, Ranges, and Sheets (Excel 365/16)
-date: 2024-09-01T05:17:16.650Z
-updated: 2024-09-02T05:17:16.650Z
+date: 2024-11-13T17:47:18.990Z
+updated: 2024-11-17T18:13:44.942Z
 tags:
   - windows10
   - windows11
@@ -47,8 +47,12 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  Following this, your Excel spreadsheet should scroll as expected.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Disable the Zoom on Roll With IntelliMouse Option
 
  Is your Microsoft Excel spreadsheet zooming in or out when you try to scroll through it? That could happen if you have enabled the "Zoom on roll with IntelliMouse" option in Excel. Here’s how to turn it off.
@@ -72,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 5. Click **OK** to save the changes.  
 ![Enable Scroll Bar in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-scroll-bar-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 5\. AutoFit Row Height in Excel
 
  Several Excel users reported fixing the scrolling issue by formatting all the cells in the sheet with the AutoFit Row Height feature. You can also give this method a shot.
@@ -86,17 +87,18 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 ![AutoFit Row Height in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autofit-row-height-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
 
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 6\. Update Microsoft Excel
 
  By default, Microsoft Office tends to install newer updates automatically on your Windows computer. However, if you have previously [disabled automatic Office updates on Windows](https://www.makeuseof.com/windows-stop-automatic-office-updates/), you may be running an outdated version of Excel. This can result in all kinds of issues, including the one discussed here. Hence, it’s a good idea to update Microsoft Excel on your PC.
@@ -106,11 +108,22 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Microsoft Office to update Excel as well as other Office apps and check if that fixes the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Run the Office Repair Tool
 
  Microsoft offers a useful repair tool for resolving common issues with Office apps like Excel. So, if the above fixes prove ineffective, you can try fixing the scrolling issue in Excel by running the Office repair tool. Here’s how.
@@ -126,8 +139,18 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  Allow the repair tool to fix any issues with the Office apps. If the problem persists, Microsoft recommends that you repeat the above steps and conduct an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair. It's important to note that this process requires your PC to have an active internet connection.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Apply Some Generic Fixes
 
  If the above fixes don’t help, you can try some generic fixes and see if that solves the problem.
@@ -146,11 +169,31 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
  Scrolling issues in Microsoft Excel can not only disrupt your workflow but also leave you feeling annoyed. Here, we share some quick and easy tips that will help you get back to scrolling spreadsheets in Excel once again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-power-your-day-with-essential-windows-10-hacks/"><u>[Updated] Power Your Day with Essential Windows 10 Hacks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-digital-artists-dreamland-ultimate-afx-template-set/"><u>2024 Approved Digital Artist's Dreamland Ultimate AFX Template Set</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-precision-flight-matching-cameras-to-ideal-gimbal-models/"><u>2024 Approved Precision Flight Matching Cameras to Ideal Gimbal Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-rgb-led-with-windows-11/"><u>Customizing RGB LED with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/function-fn-mastery-for-smooth-windows-experience/"><u>Function (Fn) Mastery for Smooth Windows Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-initiate-startup-diagnostics-on-pcs/"><u>How to Initiate Startup Diagnostics on PCs</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-10t-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme 10T 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/leading-seo-experts-across-europe-maximize-web-presence-with-superior-strategies-primesearch-successkit/"><u>Leading SEO Experts Across Europe - Maximize Web Presence with Superior Strategies | PrimeSearch SuccessKit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-not-sync-follow-these-steps-now/"><u>Microsoft To-Do Not Sync? Follow These Steps Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-change-key-windows-11-explore-updates/"><u>Navigating Through Change: Key Windows 11 Explore Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigational-knowledge-incorporating-apple-maps-on-a-windows-laptop/"><u>Navigational Knowledge: Incorporating Apple Maps on a Windows Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-screamer-troubleshoot-and-use-your-microphone-in-google-meet/"><u>Silent Screamer? Troubleshoot and Use Your Microphone in Google Meet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-strategies-for-phoenix-points-game-crashing-glitches-now-fixed/"><u>Solution Strategies for Phoenix Point's Game-Crashing Glitches Now Fixed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-strategies-to-make-your-video-stand-out-with-effective-end-screens/"><u>Step-by-Step Strategies to Make Your Video Stand Out with Effective End Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-embracing-windows-11-widgets/"><u>Step-by-Step: Embracing Windows 11 Widgets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mechanics-of-generative-ai-for-enhanced-search-capabilities-and-key-players/"><u>Unraveling the Mechanics of Generative AI for Enhanced Search Capabilities and Key Players</u></a></li>
+</ul></div>
+

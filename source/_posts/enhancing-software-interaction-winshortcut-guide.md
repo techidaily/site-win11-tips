@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Software Interaction: WinShortcut Guide"
-date: 2024-10-31T04:14:05.077Z
-updated: 2024-11-07T06:52:23.352Z
+date: 2024-11-13T16:04:06.454Z
+updated: 2024-11-17T16:42:29.831Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. How to Assign a Keyboard Shortcut to a Shortcut Link on Your Desktop
 
  One of the best ways to [improve your productivity](https://www.makeuseof.com/how-to-improve-productivity-mini-habits/) is to navigate using as few clicks and keystrokes as possible. One way to do that is by setting up keyboard shortcuts. If you’re interested, check out our [ultimate guide to Windows keyboard shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/).
@@ -55,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
  Now, when you press the shortcut key combination, the program will be launched.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Assign a Keyboard Shortcut to a Shortcut Link in the Start Menu
 
  The process is pretty much the same here, with a few extra steps. Here’s how:
@@ -72,20 +58,13 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 ![Setting up a keyboard shortcut via the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/02-start-menu-keyboard-shortcut.jpg)
 4. Right-click on the shortcut and select **Properties**.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. In the **Shortcut key** field, type in the keyboard shortcut you want to have assigned to the program.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Set up a Keyboard Shortcut for a Shortcut Link on the Taskbar
@@ -100,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
 
  To remove a keyboard shortcut, navigate to the program shortcut’s properties and delete the entry in the **Shortcut key** field. This should reset it to **None** and remove the associated keyboard shortcut.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. How to Add a Keyboard Shortcut to Literally Any Program in Windows, Using Microsoft PowerToys
 
@@ -119,19 +105,40 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 5. Then click on the **Add shortcut mapping** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![05-powertoys-shortcut-mapping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/05-powertoys-shortcut-mapping.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Under **Shortcut**, click on the button with the pen icon. Then press the shortcut key combo you want to set.  
 ![Simple way to creating keyboard shortcuts - PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/06-set-up-keyboard-shortcut.jpg)
 2. Under **Action**, click on the drop-down and select **Run Program**.  
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
 5. The **If running** field tells Windows how to handle the command if the program is already open and running. You can set this to one of several options: show the open window; open another instance of the program (if possible); close the program; do nothing; or end the entire program task.
@@ -142,19 +149,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-conquering-macs-record-functionality-keyboard-driven-tips-for-2024/"><u>[Updated] Conquering Mac's Record Functionality Keyboard-Driven Tips for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-step-up-your-iphone-x7s-selfies-with-these-top-free-tools-for-2024/"><u>[Updated] Step Up Your iPhone X/7's Selfies with These Top Free Tools for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/budget-friendly-asmr-solutions-premium-quality-mics-awaiting-you/"><u>Budget-Friendly ASMR Solutions Premium Quality Mics Awaiting You</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-firewall-essential-fixes-for-a-shutdown-system/"><u>Enabling Firewall: Essential Fixes for a Shutdown System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-usability-faster-uninstall-options-in-win/"><u>Enhancing Usability: Faster Uninstall Options in Win</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-macos-mkv-players-exposed/"><u>Leading macOS MKV Players Exposed</u></a></li>
-<li><a href="https://facebook.techidaily.com/rethinking-the-hype-surrounding-social-media-statistics/"><u>Rethinking the Hype Surrounding Social Media Statistics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-csgo-launch-failures-on-w11/"><u>Troubleshooting CS:GO Launch Failures on W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrading-widely-used-directx-classics-through-dxvk/"><u>Upgrading Widely-Used DirectX Classics Through DXVK</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -162,3 +156,25 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-beat-of-the-moment-the-1-10-music-video-ranks/"><u>[New] Beat of the Moment The #1-#10 Music Video Ranks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-editing-movie-maker-on-w11-in-detail/"><u>[New] Mastering the Art of Editing Movie Maker on W11 in Detail</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-android-vocal-mixer-app/"><u>[New] Premier Android Vocal Mixer App</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-taking-flight-in-edits-top-9-choices-for-every-drone-enthusiast/"><u>[New] Taking Flight in Edits Top 9 Choices for Every Drone Enthusiast</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-complete-guide-to-mastering-games-with-kinemaster-android/"><u>[Updated] The Complete Guide to Mastering Games with KineMaster Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-android-innovations-to-transform-your-windows-11-setup/"><u>6 Android Innovations to Transform Your Windows 11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-windows-narrators-legacy-keyboard-shortcuts/"><u>A Complete Guide to Windows Narrator's Legacy Keyboard Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-slowness-in-windows-discord-interface/"><u>Addressing Slowness in Windows Discord Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-tips-for-managing-users-via-command-prompt/"><u>Advanced Tips for Managing Users via Command Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-in-depth-look-at-winservicesexe-and-its-errors/"><u>An In-Depth Look at Winservices.exe and Its Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-power-visibility-customizing-full-charge-alerts-for-win11/"><u>Boost Power Visibility: Customizing Full Charge Alerts for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-the-ultimate-guide-to-wpm-in-windows-11/"><u>Boost Your Workflow: The Ultimate Guide to WPM in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-break-free-from-frozen-dark-ui-settings/"><u>How to Break Free From Frozen Dark UI Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-expert-picks-for-4k-dslr-mounts/"><u>In 2024, Best Practices Expert Picks for 4K DSLR Mounts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-professional-handbook-integrating-countdown-mechanisms-into-streaming-tools/"><u>In 2024, Professional Handbook Integrating Countdown Mechanisms Into Streaming Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-photos-into-timeless-slow-mo-artistry/"><u>In 2024, Transforming Your Photos Into Timeless Slow-Mo Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719381156661-reactive-keys-reclaiming-shift-on-win/"><u>Reactive Keys: Reclaiming Shift on Win</u></a></li>
+</ul></div>
+

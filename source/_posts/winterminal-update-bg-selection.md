@@ -1,7 +1,7 @@
 ---
 title: "WinTerminal: Update Bg Selection"
-date: 2024-11-01T20:04:13.619Z
-updated: 2024-11-07T02:55:14.765Z
+date: 2024-11-13T19:52:53.458Z
+updated: 2024-11-17T19:47:45.359Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 ![Change Windows Terminal Background Image via Default Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-via-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scroll down to the**Background image** section, then click the**Background image path** option. Next, click the**Browse** option and select an image you want to use as a background.
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
  If you want to switch to the default image,[reset the Windows Terminal to its default settings](https://www.makeuseof.com/windows-11-reset-terminal-settings/) . This will automatically restore your background to the default image.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Change the Windows Terminal Background Image via Windows File Explorer
@@ -94,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
  Restart Windows Terminal for the changes to take effect. In this way, you can easily customize your Windows Terminal background image using the settings.json file.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Change the Windows Terminal Background Image Using the Run Command
 
  The Run Command can also help you change your Windows Terminal background image. Instead of searching for the settings.json file in Windows File Explorer, you can directly access and modify it using this tool.
@@ -108,23 +115,16 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 4. Scroll down to the**backgroundImage** section and replace the image path with your own.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
 
  You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Set a New Background Image for Windows Terminal
 
@@ -145,15 +145,24 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-fine-tuning-your-frames-with-videoleap-for-2024/"><u>[New] Fine-Tuning Your Frames with Videoleap for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-examining-the-income-stream-for-t-series-youtube-channel/"><u>2024 Approved Examining the Income Stream for T-Series YouTube Channel</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-polarr-photo-editor-features-in-detail/"><u>2024 Approved Explore Polarr Photo Editor Features in Detail</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/a-comprehensive-guide-on-how-to-use-the-f11-function-to-reboot-with-aomei-onekey-system-restore/"><u>A Comprehensive Guide on How To Use The F11 Function to Reboot With AOMEI OneKey System Restore</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ai-revelations-absent-at-apples-showcase-what-to-expect-in-tomorrows-tech-evolution/"><u>AI Revelations Absent at Apple's Showcase: What to Expect in Tomorrow's Tech Evolution?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722974873358-get-your-konica-minolta-printer-running-on-any-windows-os-free-drivers-available-here/"><u>Get Your Konica Minolta Printer Running on Any Windows OS - Free Drivers Available Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-build-your-own-voice-to-text-software-with-ahk-and-whisper/"><u>How to Build Your Own Voice-To-Text Software with AHK and Whisper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-ensure-alerts-when-webcam-is-used-in-windows-11/"><u>How to Ensure Alerts When Webcam Is Used in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-default-settings-for-your-touch-input-in-win-11-system/"><u>Restore Default Settings for Your Touch Input in Win 11 System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uniting-worlds-explore-your-galaxys-full-potential-via-dex/"><u>Uniting Worlds: Explore Your Galaxy's Full Potential via DeX</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ideal-chat-and-meetup-tools-for-large-groups/"><u>[New] Ideal Chat & Meetup Tools for Large Groups</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-auditory-data-extraction-and-analysis/"><u>[Updated] 2024 Approved Auditory Data Extraction & Analysis</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-24-techniques-for-recording-virtual-conferences-on-a-dime/"><u>[Updated] 24 Techniques for Recording Virtual Conferences on a Dime</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-guide-to-using-eraser-tool-in-photoshop/"><u>2024 Approved Guide to Using Eraser Tool In Photoshop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boot-camp-backing-up-your-hard-drive-solo/"><u>Boot Camp: Backing up Your Hard Drive Solo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-inactive-apps-in-windows-11/"><u>Breathing Life Into Inactive Apps in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-devices-a-practical-guide-to-android-and-pc-synchro/"><u>Bridging Devices: A Practical Guide to Android & PC Synchro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-dual-windows-mastering-data-consistency-using-aoemi/"><u>Bridging Dual Windows: Mastering Data Consistency Using AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-browser-requirement-a-new-user-guide/"><u>Bypassing Browser Requirement: A New User Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-incompatibility-with-latest-windows-version/"><u>Bypassing Incompatibility with Latest Windows Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-use-the-program-compatibility-troubleshooter-on-windows-try-these-fixes/"><u>Can't Use the Program Compatibility Troubleshooter on Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-new-territories-top-7-updates-from-windows-11s-filesystem/"><u>Charting New Territories: Top 7 Updates From Windows 11'S Filesystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-preferred-pdf-application-on-windows/"><u>Choosing Preferred PDF Application on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-when-your-steelseries-arctis-pro-headset-mic-stops-working/"><u>Fixes for When Your SteelSeries Arctis Pro Headset Mic Stops Working</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-conversion-transforming-f4v-files-into-swf-format-with-ease-movavi/"><u>Free Online Conversion: Transforming F4V Files Into SWF Format with Ease - Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone 14 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-auto-tracking-cameras/"><u>In 2024, Best Auto Tracking Cameras</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-secrets-of-writing-impressive-podcast-summaries/"><u>The Secrets of Writing Impressive Podcast Summaries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287699326-windows-mac-android-iphone/"><u>운영 기기(Windows, Mac, Android, iPhone)에 가장 훌륭한 비디오 안정화 스타일리지</u></a></li>
 </ul></div>
 

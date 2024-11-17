@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Fusing Inboxes: Linking Your Gmail with Outlook on Windows"
-date: 2024-11-01T14:36:34.406Z
-updated: 2024-11-07T02:57:33.512Z
+date: 2024-11-16T18:28:58.502Z
+updated: 2024-11-17T17:13:45.655Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a7
 
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add a Gmail Account to Outlook
 
  Now that you're using the preview version of Outlook, you can now make use of its Gmail integration. Once enabled, users can access their Google calendar and contacts right through the Outlook for Windows app, so you can say goodbye to using a browser to access your email and calendar.
@@ -53,34 +46,29 @@ thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a7
 1. From the**Start** menu, launch the**Mail** app and slide the**Try the new Outlook** toggle button.  
 ![enable outlook preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-outlook-preview.jpg)
 2. Alternatively, if you’ve set up Microsoft 365 Insider, launch the**Outlook** app and enable the**Try the new Outlook** toggle button.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Wait for the app to relaunch and quickly walk through the quick start guide.
 4. In the folder pane on the right, scroll to the bottom and select**Add account** .  
 ![add account outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account-outlook.jpg)
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Enter your Gmail account and press**Continue.**  
 ![outlook-preview-account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-preview-account.jpg)
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
 4. Once you’ve signed in, press**Open Outlook** when prompted to add your Gmail account to Outlook for Windows preview.  
@@ -88,10 +76,17 @@ thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a7
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The New Outlook App Is Getting Better
@@ -113,20 +108,20 @@ thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-yourself-instagram-live-basics/"><u>[New] In 2024, Unveiling Yourself Instagram Live Basics</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastery-in-one-bite-io-screen-capture-guidebook/"><u>[Updated] 2024 Approved Mastery in One Bite IO Screen Capture Guidebook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transforming-augmented-reality-with-downloaded-free-luts-for-development/"><u>[Updated] Transforming Augmented Reality with Downloaded, Free LUTs for Development</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-easy-steps-to-wipe-your-drives-partitions-in-windows/"><u>4 Easy Steps to Wipe Your Drive's Partitions in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combat-dxgierror-with-device-reattachment/"><u>Combat DXGI_ERROR with Device Reattachment</u></a></li>
-<li><a href="https://fox-http.techidaily.com/eyeem-pro-your-ultimate-guide-to-freepaid-substitutes-for-2024/"><u>EyeEm Pro Your Ultimate Guide to Free/Paid Substitutes for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-a-fantastic-deal-save-50-when-you-buy-an-elite-weber-electric-grill-tips-from-zdnet/"><u>Get a Fantastic Deal: Save $50 When You Buy an Elite Weber Electric Grill - Tips From ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-login-error-compatibility-issue-with-scanner/"><u>Overcoming Windows Login Error: Compatibility Issue with Scanner</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-sudden-device-disconnection-dxgi/"><u>Remedy for Sudden Device Disconnection (DXGI)</u></a></li>
-<li><a href="https://windows11.techidaily.com/reverse-webp-images-in-chrome-for-windows-users/"><u>Reverse WebP Images in Chrome for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solutions-for-windows-11s-0x8004def5-glitches/"><u>Swift Solutions for Windows 11'S 0X8004DEF5 Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-keep-microsoft-teams-from-crashing-win11-win10/"><u>Tips to Keep Microsoft Teams From Crashing Win11, Win10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-innovative-gadgets-on-toms-tech-oasis/"><u>Unveiling Innovative Gadgets on Tom's Tech Oasis</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-broadcast-brilliance-transforming-fb-live-for-tv/"><u>[New] Broadcast Brilliance Transforming FB Live for TV</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-guide-unveiling-the-top-8-youtube-boosters/"><u>[New] In 2024, The Ultimate Guide Unveiling the Top 8 Youtube Boosters</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-crown-jewels-of-online-watching-youtubes-treasures/"><u>[Updated] In 2024, Crown Jewels of Online Watching YouTube's Treasures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-enhance-and-immerse-in-atmos-on-windows/"><u>A Complete Guide to Enhance and Immerse in Atmos on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-solution-manual-windows-rainmeter-problems-decoded/"><u>A Comprehensive Solution Manual: Windows Rainmeter Problems Decoded</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-iomap64-bsod-with-easy-steps-for-windows-users/"><u>Addressing IOMap64 BSoD with Easy Steps for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-terminals-user-privilege-settings/"><u>Adjusting Windows Terminal's User Privilege Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/behind-closed-curtains-of-windows-how-to-open-hidden-self-assessment-tool/"><u>Behind Closed Curtains of Windows: How to Open Hidden Self-Assessment Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/essential-vlc-utility-manual-for-effective-mac-usage-for-2024/"><u>Essential VLC Utility Manual for Effective Mac Usage for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-razr-40-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Razr 40 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-phantoms-time-reversal-feature/"><u>In 2024, Mastering Phantom's Time-Reversal Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719289062860-rescue-your-browser-fix-google-chrome-in-w11-today/"><u>Rescue Your Browser: Fix Google Chrome in W11 Today</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/reviving-your-sql-express-databases-top-5-backup-restoration-techniques-explained/"><u>Reviving Your SQL Express Databases: Top 5 Backup Restoration Techniques Explained</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/stical-sweep-illuminating-youtubes-data-diversity-2e17/"><u>Statistical Sweep! Illuminating YouTube's Data Diversity (2E17)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-free-video-cutting-software-for-mp4-files-for-2024/"><u>Updated The Best Free Video Cutting Software for MP4 Files for 2024</u></a></li>
 </ul></div>
 

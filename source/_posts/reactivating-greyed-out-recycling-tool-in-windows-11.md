@@ -1,7 +1,7 @@
 ---
 title: Reactivating Greyed-Out Recycling Tool in Windows 11
-date: 2024-09-05T19:32:04.819Z
-updated: 2024-09-06T19:32:04.819Z
+date: 2024-11-10T19:51:30.274Z
+updated: 2024-11-17T18:56:12.181Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: W11 Recycle Tool Reactive,Revive Windows 11 Recycle,Reactivate Grayed 
 thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a638075023e09360ad01372b41d6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reactivating Greyed-Out Recycling Tool in Windows 11
 
  The Recycle Bin has been a staple on Windows for a long time, but not everyone wants it on the desktop. You can disable it via the Desktop Icon Settings, but there is a bug where if you try to re-enable it, the "Recycle Bin" option is grayed out and cannot be toggled.
@@ -44,12 +38,6 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 5. In the **Properties** dialog, select **Not Configured**.  
 ![edit remove recycle bin icon from settings gpedit policy not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy-not-configured.jpg)
 6. Click **Apply** and **OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Close the Group Policy Editor and check your desktop to see if you can access the Recycle Bin. If not, make sure the Recycle Bin is set to show in Desktop Icon Settings.
 
@@ -67,11 +55,12 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
  If you can’t access Group Policy Editor or if the issue persists, you can use the Registry Editor to fix this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Modify the Recycle Bin Registry Settings
 
  Another way to resolve and restore the grayed-out Recycle Bin icon in the Desktop settings is via the Windows Registry. You can modify the registry entry value responsible for the settings and configurations of Recycle Bin working to restore the functionality.
@@ -87,39 +76,42 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 4. In the right pane, locate the **{645FF040-5081-101B-9F08-00AA002F954E}** DWORD (32-bit) value.  
 ![registry editor nonnum new dword value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value.jpg)
 5. If it does not exist, you’ll need to create a new value. To do this, right-click on the **NonEnum** subkey folder in the left pane and select **New > DWORD (32-bit) Value**.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Rename the value as **{645FF040-5081-101B-9F08-00AA002F954E}**.
 7. Next, double-click on the new DWORD value to open its properties.  
 ![registry editor nonnum new dword value edit 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value-edit-0.jpg)
 8. Type **0** in the Value data field and click **OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 9. Close Registry Editor and restart your computer. Sometimes, you’ll need to restart your computer for the new registry modifications to work.
 
  If the issue persists, try to [create a new user account with administrative rights](https://www.makeuseof.com/windows-11-create-local-user-account/), [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/), or [repair corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Get Access to the Recycle Bin Desktop Icon Setting Again
 
  An incorrectly modified group policy can gray out the Recycle Bin icon in the Desktop Icon Settings dialog. Fortunately, it's an easy fix, and you should now have your Recycle Bin back to how you like it.
 
  Fortunately, you can fix the issue by reverting specific changes in the Registry Editor or the Group Policy Editor.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -127,3 +119,27 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-realistic-quantum-leaps-a-vfx-perspective/"><u>[New] 2024 Approved Realistic Quantum Leaps A VFX Perspective</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-spicing-up-chats-with-gifs-a-complete-snapchat-tutorial/"><u>[New] Spicing Up Chats with GIFs A Complete Snapchat Tutorial</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-recover-missing-social-media-icon-in-facebook-watch/"><u>2024 Approved Recover Missing Social Media Icon in Facebook Watch</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-microsoft-store-win11-edition-guide/"><u>Eliminate Microsoft Store: Win11 Edition Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-frustrating-camera-errors-code-0xa00f4289/"><u>Eliminating Frustrating Camera Errors: Code 0xA00F4289</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-0x800704cf-glitch-windows-11/"><u>Fixing Microsoft Store 0X800704CF Glitch Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/flawlessly-merged-the-linkage-of-instagram-and-tiktok/"><u>Flawlessly Merged The Linkage of Instagram & TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-through-recovering-frozen-netflix-in-windows/"><u>Guiding You Through Recovering Frozen Netflix in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-razr-40-ultra-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Razr 40 Ultra For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-4k-videos-with-the-versatile-nikon-1j5/"><u>In 2024, Mastering 4K Videos with the Versatile Nikon 1J5</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/learn-the-art-of-virality-infuse-insta-reels-with-tiktok-charm/"><u>Learn the Art of Virality Infuse Insta Reels With TikTok Charm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-legacy-keys-an-insiders-look-at-narrator-shortcuts/"><u>Leveraging Legacy Keys: An Insider's Look at Narrator Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-understand-these-top-8-missteps/"><u>Mastering Windows 11: Understand These Top 8 Missteps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-pc-sound-output-with-windows-11-mixer-settings-guide/"><u>Optimize PC Sound Output with Windows 11 Mixer Settings Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-steams-captcha-failed-issue/"><u>Quick Fixes for Steam's 'CAPTCHA Failed' Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-downloads-with-these-5-torrent-clients/"><u>Streamline Your Downloads with These 5 Torrent Clients</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssential-checklist-for-yt-creator-mastery/"><u>The Essential Checklist for YT Creator Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unparalleled-templates-for-meme-artists/"><u>Unparalleled Templates for Meme Artists</u></a></li>
+</ul></div>
+

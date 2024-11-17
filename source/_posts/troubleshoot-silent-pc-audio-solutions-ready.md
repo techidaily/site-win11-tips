@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Silent PC Audio – Solutions Ready!
-date: 2024-09-01T05:15:17.304Z
-updated: 2024-09-02T05:15:17.304Z
+date: 2024-11-13T16:57:58.975Z
+updated: 2024-11-17T16:14:40.492Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check the Speaker Jack
 
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
@@ -52,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  If everything is okay here and there is still no sound, it's worth connecting the speakers to another device. This might be a different PC or even a phone or tablet. As long as it has a suitable audio port, you should be able to connect your PC speakers or headphones.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Confirm That the HDMI Audio Is Selected
 
  Some HD displays don't support audio over an HDMI cable, even when the cable does. As such, there could be a scenario in which you're using an HDMI display that won't play audio.
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 Audio should now play on your HDMI TV.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 5\. Check Your Windows Audio Device Drivers
 
  Made all the checks to your hardware and cabling, and still getting no sound from your computer speakers? Then it's time to try a software solution. Remember the last time you did a driver update? If not, now might be the right time.
@@ -89,9 +89,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 6\. Could Your Bluetooth Headset Be the Problem?
 
  When a cable is plugged into your computer, it's obvious that a device is connected. With Bluetooth, however, it's easy to forget.
@@ -100,9 +97,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  So, if you use a Bluetooth headset, remember to switch off or disconnect the device from your computer when not in use. Also, take a moment to click the speaker icon in the system tray and choose a different audio output.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Check Your Monitor's Speakers
 
  Many monitors nowadays come with in-built speakers. Take a look at the speakers, and see if you're using such a monitor. You can then tweak the volume from the buttons on your monitor or the through the settings on your Windows.
@@ -110,8 +104,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The exact procedure to do this will vary depending on the manufacturer. So, it would be a good idea to check out the manufacturer's website.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Ensure the Speaker Volume Is Turned On
 
  This isn't the same as having your computer set to mute. We are talking about your audio driver software here.
@@ -120,10 +118,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Check for Corruption of Windows System Files
 
@@ -134,12 +136,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![sfc command execution to fix speakers that are not working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/run-sfc-command.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  The SFC will scan the system and fix any errors that it finds. If there really was a corruption issue with system files, it'll be resolved by the end of this scan.
 
  If you're interested in keeping Windows working smoothly, check out how to repair corrupt Windows files with built-in tools.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Disable Audio Enhancements
 
@@ -152,6 +158,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will turn off all enhancements that could be the cause of your speakers not working.
 
 ## 11\. Your Computer Speakers Just Aren't Working
@@ -161,6 +174,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  You've made it this far, but there's still no audio. Well, it looks like it's time to find some new speakers for your PC.
 
  Sure, you could take the time to get your speakers repaired, but unless they're top-end pieces of audio gold, it will probably be cheaper just to buy a new set. And we've collected[the best speakers for PC gaming](https://www.makeuseof.com/best-pc-gaming-speakers/) for an easier time choosing.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are Your Speakers Working Again?
 
@@ -172,8 +192,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +199,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-full-examination-hero4-black-designs/"><u>[Updated] In 2024, Full Examination Hero4 Black Designs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-beginners-guide-to-editing-content-on-windows-11/"><u>2024 Approved The Beginner's Guide to Editing Content on Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-10-sound-enhancers-across-os-platforms-for-2024/"><u>Elite 10 Sound Enhancers Across OS Platforms for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-and-maximize-your-taskbar-on-win11/"><u>Enhance and Maximize Your Taskbar on Win11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-pc-sound-experience-with-these-5-recording-techniques-on-windows-11/"><u>Enhance PC Sound Experience with These 5 Recording Techniques on Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-reality-beyond-boundaries-grasping-the-metaverse-through-6-models/"><u>In 2024, Reality Beyond Boundaries Grasping the Metaverse Through 6 Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-update-woes-with-0x800736cc/"><u>Navigate Through Windows Update Woes with 0X800736CC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-windows-print-connections/"><u>Securing Your Windows Print Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-pcs-file-synchronization-via-aoemi/"><u>Step-by-Step Guide to Windows PCs File Synchronization via AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-unauthorized-app-restriction/"><u>Strategies to Overcome Unauthorized App Restriction</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/transforming-video-content-on-tiktok-with-oversized-characters/"><u>Transforming Video Content on TikTok with Oversized Characters</u></a></li>
+</ul></div>
 

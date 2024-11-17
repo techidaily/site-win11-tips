@@ -1,7 +1,7 @@
 ---
 title: "Efficiency at Your Fingertips: Windows Command Shortcuts"
-date: 2024-11-02T13:58:22.516Z
-updated: 2024-11-06T18:06:56.244Z
+date: 2024-11-13T17:29:03.640Z
+updated: 2024-11-17T16:18:31.831Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows shortcuts must take the form:
 
 * Ctrl + Alt + \[key\]
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 * Ctrl + Shift + Alt + \[key\]
 
  Now, when you press the shortcut key combination, the program will be launched.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. How to Assign a Keyboard Shortcut to a Shortcut Link in the Start Menu
 
@@ -65,21 +65,7 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 ![Setting up a keyboard shortcut via the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/02-start-menu-keyboard-shortcut.jpg)
 4. Right-click on the shortcut and select **Properties**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. In the **Shortcut key** field, type in the keyboard shortcut you want to have assigned to the program.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Set up a Keyboard Shortcut for a Shortcut Link on the Taskbar
 
@@ -89,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 2. Right-click on the program and click on **Properties**.  
 ![Setting up a keyboard shortcut via the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/03-taskbar-keyboard-shortcut.jpg)
 3. Add a keyboard shortcut to the **Shortcut key** field.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
 
@@ -110,18 +103,26 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 4. Click on **Remap a shortcut**.  
 ![Remap shortcut in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/04-powertoys-remap-shortcut.jpg)
 5. Then click on the **Add shortcut mapping** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![05-powertoys-shortcut-mapping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/05-powertoys-shortcut-mapping.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Under **Shortcut**, click on the button with the pen icon. Then press the shortcut key combo you want to set.  
 ![Simple way to creating keyboard shortcuts - PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/06-set-up-keyboard-shortcut.jpg)
 2. Under **Action**, click on the drop-down and select **Run Program**.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
@@ -129,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. The **If running** field tells Windows how to handle the command if the program is already open and running. You can set this to one of several options: show the open window; open another instance of the program (if possible); close the program; do nothing; or end the entire program task.
@@ -143,27 +144,6 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-optimize-video-posts-a-comprehensive-crop-and-export-method/"><u>[New] 2024 Approved Optimize Video Posts A Comprehensive Crop & Export Method</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-360-degree-shoot-selecting-your-perfect-model/"><u>[New] Ultimate 360-Degree Shoot Selecting Your Perfect Model</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-comprehensive-instructional-series-adding-time-tracks-to-live-shows/"><u>2024 Approved Comprehensive Instructional Series Adding Time Tracks to Live Shows</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1728468840041-outlook-10/"><u>添付ファイルをOutlookで見られない? こうすれば大丈夫!: 簡単な10工夫</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-arp-cache-how-to-empty-it/"><u>Decoding Windows ARP Cache: How to Empty It?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-domain-services-printer-failures-on-newest-microsoft-os/"><u>Fixing Domain Services Printer Failures on Newest Microsoft OS</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mouse-double-click-3-essential-tips/"><u>Mastering Mouse Double-Click: 3 Essential Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/notepads-dark-shift-windows-11-guide/"><u>Notepad's Dark Shift: Windows 11 Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/online-trp-to-mpeg-transformation-no-cost-solution-by-movavi/"><u>Online TRP to MPEG Transformation - No Cost Solution by Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-nokia-c210-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Nokia C210</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realigning-steam-for-seamless-gameplay-on-windows-11-devices/"><u>Realigning Steam for Seamless Gameplay on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-your-pc-restarting-windows-11-apps/"><u>Reviving Your PC: Restarting Windows 11 Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-error-that-prevents-microsoft-outlook-from-opening/"><u>Solving the Error That Prevents Microsoft Outlook From Opening</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-aural-anomaly-fixing-audacity-writes-on-wos/"><u>Tackling the Aural Anomaly: Fixing Audacity' Writes on WOS</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/vivo-s17-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo S17 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-keyboard-command-center-mastery-of-shortcuts-for-fixed-paste-tasks/"><u>Win11's Keyboard Command Center: Mastery of Shortcuts for Fixed Paste Tasks</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,3 +151,25 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-guide-iphones-easiest-screen-recording-method-for-2024/"><u>[New] Quick Guide IPhone's Easiest Screen Recording Method for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-securing-streams-of-cash-from-content-creation-for-2024/"><u>[Updated] Securing Streams of Cash From Content Creation for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-efficacy-of-vlcs-screen-recording/"><u>[Updated] The Efficacy of VLC's Screen Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-insights-on-staying-with-older-windows-editions/"><u>7 Insights on Staying with Older Windows Editions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-using-microsofts-bluetooth-app/"><u>A Step-by-Step Guide to Using Microsoft's Bluetooth App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-common-failures-when-importing-iphones-to-windows/"><u>Addressing Common Failures When Importing iPhones to Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-hang-error-dxgierrordevicehunk-on-windows/"><u>Addressing the HANG Error: DXGI_ERROR_DEVICE_HUNK on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bargain-alert-key-enthusiasts-snag-612lifetime-windows-11-deal-today-only/"><u>Bargain Alert: Key Enthusiasts Snag $6.12/Lifetime Windows 11 Deal Today Only</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-fps-measurement-software-for-windows-11-users/"><u>Best FPS Measurement Software for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blending-windows-innovations-into-linux/"><u>Blending Windows Innovations Into Linux</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-browser-performance-fix-youtube-delays/"><u>Boosting Browser Performance: Fix YouTube Delays</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/efficiently-creating-backup-restores-for-windows-server-nvme-ssd-2003-a-dual-approach-guide/"><u>Efficiently Creating Backup Restores for Windows Server Nvme SSD 2003: A Dual-Approach Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy M14 4G?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y78plus-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y78+ to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Online? Here are 6 Easy Ways</u></a></li>
+</ul></div>
+

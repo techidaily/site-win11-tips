@@ -1,7 +1,7 @@
 ---
 title: Intricate Control of Firewall Areas on Windows OS
-date: 2024-11-02T12:30:00.284Z
-updated: 2024-11-07T11:29:36.471Z
+date: 2024-11-13T16:56:43.369Z
+updated: 2024-11-17T20:02:30.220Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
  Therefore, keeping this area hidden is important, especially if you share your computer with someone else. You must be signed in as an administrator if you want to hide the Firewall & Network area, so check out[how to enable or disable the built-in administrator account](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) on Windows if you need to turn it on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Hide or Show Firewall & Network Area in Windows Security Using the Local Group Policy Editor
@@ -55,20 +55,26 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 5. Select the**Enabled** option.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Enabled Option in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enabled-option.jpg)
 6. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it. You might need to restart your computer for the changes to take effect.
@@ -76,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
  If you want to unhide the Firewall & Network area, open the Local Group Policy Editor again and repeat the above steps. At the very end, select the**Disabled** option and then save the settings.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Your Network Settings Safe and Secure
@@ -103,24 +109,18 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-screen-grab-insights-a-critical-appraisal/"><u>[New] 2024 Approved Screen Grab Insights A Critical Appraisal</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effortless-screen-saving-on-android-devices/"><u>[Updated] Effortless Screen Saving on Android Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-no-money-no-problem-guide-to-flying-solo-in-google-meet/"><u>[Updated] In 2024, No Money? No Problem! Guide to Flying Solo in Google Meet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-vids-excellence-the-top-20-techniques/"><u>2024 Approved Facebook Vids Excellence The Top 20 Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-computing-essential-windows-software-to-banish/"><u>Efficient Computing: Essential Windows Software to Banish</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-steam-interface-error-in-windows-os/"><u>Fixing Steam Interface Error in Windows OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-the-repeated-malfunctioning-and-crashing-of-wotb-a-solution-guide/"><u>How to Stop the Repeated Malfunctioning and Crashing of WotB: A Solution Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-realme-c67-4g-frp-bypass-by-drfone-android/"><u>In 2024, About Realme C67 4G FRP Bypass</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-caption-creation-process-for-compelling-facebook-media/"><u>In 2024, The Ultimate Caption Creation Process for Compelling Facebook Media</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y36i-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y36i to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-overheat-during-intense-play/"><u>Minimizing Overheat During Intense Play</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-setup-for-gpt/"><u>Navigating Through Windows Setup for GPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-double-click-with-these-simple-windows-adjustments/"><u>Optimize Your Double-Click with These Simple Windows Adjustments</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revolutionize-your-income-with-these-13-reddit-tactics-for-2024/"><u>Revolutionize Your Income with These 13 Reddit Tactics for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealth-mode-off-how-to-turn-down-windows-11/"><u>Stealth Mode Off: How to Turn Down Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-winscomrssvdll-issues-during-system-boot/"><u>Steps to Address WinscomrssvDll Issues During System Boot</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/syncing-your-youtube-watchlist-with-instagram-feed/"><u>Syncing Your YouTube Watchlist with Instagram Feed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-pro-efficient-docx-to-pdf-conversion-made-simple/"><u>Win 11 Pro: Efficient DOCX to PDF Conversion Made Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workarounds-for-static-energy-controls-on-windows-11/"><u>Workarounds for Static Energy Controls on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-essentials-to-initiate-in-google-meet/"><u>[New] 2024 Approved The Essentials to Initiate in Google Meet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-vidma-redefining-standard-practices-in-video-capture-for-2024/"><u>[New] Vidma Redefining Standard Practices in Video Capture for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-choosing-the-right-fps-30-or-60-which-is-better/"><u>[Updated] Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-insiders-method-for-rl-recording-for-2024/"><u>[Updated] The Insider's Method for RL Recording for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-v29-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-open-the-ease-of-access-center-on-windows/"><u>5 Ways to Open the Ease of Access Center on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-hyper-v-on-your-windows-11-pc/"><u>Activating Hyper-V on Your Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-mfc71udll-missing-issue-in-windows/"><u>Addressing Mfc71u.dll Missing Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-portaudio-fault-in-audacity-windows-11-os/"><u>Addressing PortAudio Fault in Audacity, Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-setbacks-remedying-system-calls-on-windows-11/"><u>Avoiding Setbacks: Remedying System Calls on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-watchlist-using-double-display-with-netflix/"><u>Enhance Your Watchlist Using Double Display with Netflix</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-15-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 15 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719358270699-reclaim-shift-control-with-easy-fixes/"><u>Reclaim Shift Control with Easy Fixes.</u></a></li>
 </ul></div>
 

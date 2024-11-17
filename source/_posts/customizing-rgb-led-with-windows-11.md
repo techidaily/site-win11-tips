@@ -1,7 +1,7 @@
 ---
 title: Customizing RGB LED with Windows 11
-date: 2024-11-01T20:32:12.692Z
-updated: 2024-11-07T05:12:43.853Z
+date: 2024-11-16T18:12:00.089Z
+updated: 2024-11-17T18:44:25.360Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
  This setting will act as a central hub to manage and tweak all the connected devices with RGB lighting. So, you will need fewer or no third-party apps for adjusting RGB effects on any connected device in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable RGB Lighting Controls in Windows 11
 
  The RGB lighting feature is in the testing phase and is only available in Windows Insider build 25295 and above. So, you need to first update to the latest Canary channel build and then use ViveTool to enable the feature on your system.
@@ -57,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
  However, if you don’t want to enroll in the program, you can use[UUP Dump to download the latest Windows Insider builds](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) and try it on your system or on a virtual machine. After that, install the build and boot to the desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Enable RGB Lighting Using ViVeTool
@@ -77,23 +70,31 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 ![Enabling RGB Lighting Using ViveTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabling-rgb-lighting-using-vivetool.jpg)
 7. Once you boot to the Desktop, press**Win + I** to launch the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Click on the**Personalization** option in the left-hand side menu.  
 ![RGB Lighting Settings 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-1.jpg)
 9. Scroll down, and you see the**Lighting** option in the personalization settings. Click on it and then tweak the RGB lighting of all the supported devices. You can even match the RGB effects of a device with the Windows accent color.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![RGB Lighting Settings 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control All Your RGB Peripherals in One Place
@@ -115,18 +116,18 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ive-into-diy-the-beginners-guide-to-eye-catching-mac-videos/"><u>[New] Dive Into DIY The Beginner’s Guide to Eye-Catching Mac Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-delving-deep-into-ios-video-recording-capabilities/"><u>[Updated] In 2024, Delving Deep Into IO's Video Recording Capabilities</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reflect-your-vision-affordable-personalization-of-professional-logo-designs-free/"><u>[Updated] Reflect Your Vision Affordable Personalization of Professional Logo Designs (Free)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-new-territory-strategies-for-youtube-keyword-research-for-2024/"><u>Charting New Territory Strategies for YouTube Keyword Research for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deactivating-license-validity-remaining-time-alert-on-winoses/"><u>Deactivating License Validity Remaining Time Alert on WinOSes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-your-fitness-routine-top-10-yoga-streams-unveiled-for-2024/"><u>Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-windows-fixes-to-restore-dotnet-health-max-156/"><u>Essential Windows Fixes to Restore DotNet Health (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-deactivated-patch-service-in-windows/"><u>How to Reactivate Deactivated Patch Service in Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-bluetooth-speaker-audio-only-issue/"><u>Resolving Windows: Bluetooth Speaker - Audio Only Issue</u></a></li>
-<li><a href="https://games-able.techidaily.com/review-illusions-why-gaming-metrics-are-misleading/"><u>Review Illusions: Why Gaming Metrics Are Misleading</u></a></li>
-<li><a href="https://facebook.techidaily.com/revitalize-the-silent-sphere-reactivating-facebook/"><u>Revitalize the Silent Sphere: Reactivating Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seizing-opportunities-how-copilot-key-elevates-your-windows-11-pc/"><u>Seizing Opportunities: How Copilot Key Elevates Your Windows 11 PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-football-video-analysis-top-youtube-infographics/"><u>2024 Approved Football Video Analysis Top YouTube Infographics</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-is-there-money-in-evaluating-merchandise-vids/"><u>2024 Approved Is There Money in Evaluating Merchandise Vids?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-straightforward-screen-capture-program/"><u>2024 Approved Straightforward Screen Capture Program</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-a-blueprint-for-fixing-zero-x-eight-oh-three-one-f-in-windows-mail/"><u>Bridging the Gap: A Blueprint for Fixing Zero X Eight Oh Three One F in Windows Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-successful-drag-operations-on-win11/"><u>Bring Back Successful Drag Operations on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-back-memories-craft-a-windows-1198-vibe/"><u>Bringing Back Memories: Craft a Windows 11/98 Vibe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-google-chrome-to-life-with-windows-11/"><u>Bringing Google Chrome to Life with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-frozen-right-click-options-in-windows/"><u>Bypassing Frozen Right-Click Options in Windows</u></a></li>
+<li><a href="https://win-great.techidaily.com/etapes-pour-sauvegarde-de-windows-server-201/"><u>Etapes Pour Sauvegarde De Windows Server 201</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-frame-rate-drop-in-dying-light-an-ultimate-guide/"><u>Fixing the Frame Rate Drop in Dying Light: An Ultimate Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fine-tuning-your-remote-visual-experience/"><u>In 2024, Fine-Tuning Your Remote Visual Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-t460-drivers-download-and-update-on-windows-10/"><u>Lenovo T460 Drivers Download & Update on Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
 </ul></div>
 

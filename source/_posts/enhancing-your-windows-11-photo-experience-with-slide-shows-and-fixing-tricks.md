@@ -1,7 +1,7 @@
 ---
 title: Enhancing Your Windows 11 Photo Experience with Slide Shows & Fixing Tricks
-date: 2024-09-01T05:16:29.710Z
-updated: 2024-09-02T05:16:29.710Z
+date: 2024-11-15T16:19:13.619Z
+updated: 2024-11-17T19:46:28.370Z
 tags:
   - windows10
   - windows11
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 
 ![Download Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use the Slideshow Feature in the Photos App
 
  When you launch the Photos app, you will notice a **Start Slideshow** icon in the **All Photos** section next to the filters option. Click on it to begin the slideshow. Alternatively, you can press the **F5** key to start the slideshow.
@@ -53,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
 
  If you want to adjust the volume of the slideshow, you can hover on the **speaker** icon and use the **slider bar**. It doesn’t affect the system volume settings. Click on the **speaker** icon or press the **M** key to mute the slideshow.
@@ -66,16 +59,30 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## What Is the Spot Fix Feature?
 
  Spot fix feature can remove spots or objects from any image. Think of it as an eraser tool that factors in the background color and nearby elements. It deletes the selected spot or object and tries to blend the empty space with the color scheme or pattern of the nearby objects.
 
  So, you don’t need to blur areas in an image before sending it to others. The end result is flawless (in most cases with simple backgrounds). Still, you don’t have to send partially blurred images which sparks more curiosity about what was blurred. A simpler use case is to remove spots from the face.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use the Spot Fix Feature in the Photos App
 
@@ -90,13 +97,14 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 ![Spotfix feature in Photos App 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Other Improvements in the Photos App
 
  The app reintroduces the Timeline Scrollbar using which you can quickly view photos added in a particular month or year. Microsoft also added the [timeline scrollbar in the Gallery section of the File Explorer](https://www.makeuseof.com/enable-gallery-file-explorer-windows-11/) which is also in the experimental stage.
@@ -105,7 +113,21 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Much-Needed Overhaul for Photos on Windows 11
 
@@ -113,11 +135,33 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unleash-clarity-efficient-background-erasure-in-affinity-photo/"><u>[Updated] 2024 Approved Unleash Clarity Efficient Background Erasure in Affinity Photo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-storage-solutions-the-20-finest-free-online-spaces/"><u>[Updated] Streamline Storage Solutions The 20 Finest FREE Online Spaces</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-insiders-guide-to-recording-games-in-windows-11/"><u>2024 Approved The Insider's Guide to Recording Games in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-techniques-to-dodge-windows-11-security/"><u>Efficient Techniques to Dodge Windows 11 Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-recording-of-new-apps/"><u>Eliminate Windows Recording of New Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-ai-driven-shooting-modes-in-todays-cameras-for-2024/"><u>Exploring the AI-Driven Shooting Modes in Today's Cameras for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hid-compliant-mouse-drivers-freshly-updated-for-optimal-performance/"><u>HID-Compliant Mouse Drivers - Freshly Updated for Optimal Performance!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-enable-cross-platform-compatibility-using-parallels-desktop-18-for-windows-11-on-intel-and-apples-m1-chip/"><u>How to Enable Cross-Platform Compatibility: Using Parallels Desktop 18 for Windows 11 on Intel & Apple's M1 Chip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-hard-drive-not-installed-issue-on-windows-11/"><u>How to Fix the Hard Drive Not Installed Issue on Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-transmit-facebook-live-via-televisions/"><u>In 2024, How to Transmit Facebook Live via Televisions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-se-2022-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone SE (2022) for Free</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>In-Depth Analysis Top 9 Freeware Logo Designers Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-original-boot-menu-colors/"><u>Reinstating Original Boot Menu Colors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-silent-audio-input-quick-remedies-for-obs-and-windows-11/"><u>Resurrecting Silent Audio Input: Quick Remedies for OBS & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retro-tech-adopting-windows-11-on-pre-2021-models/"><u>Retro Tech: Adopting Windows 11 on Pre-2021 Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-display-driver-failure-in-windows-11plus/"><u>Troubleshooting Display Driver Failure in Windows 11+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-enabling-grammarly-for-windows/"><u>Troubleshooting: Enabling Grammarly for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-struggles-restoring-steam-offline-functionality/"><u>Win Struggles: Restoring Steam Offline Functionality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-prime-stream-essential-tech-equipment-guide-for-creators-for-2024/"><u>YouTube's Prime Stream Essential Tech, Equipment Guide for Creators for 2024</u></a></li>
+</ul></div>
+

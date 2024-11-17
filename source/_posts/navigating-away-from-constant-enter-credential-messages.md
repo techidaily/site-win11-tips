@@ -1,7 +1,7 @@
 ---
 title: Navigating Away From Constant Enter Credential Messages
-date: 2024-10-31T22:23:06.653Z
-updated: 2024-11-07T03:34:49.118Z
+date: 2024-11-10T17:20:51.976Z
+updated: 2024-11-17T18:19:13.119Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
  After you've transferred the files, re-enable password-protected sharing so that others don't get easy access to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use Your Microsoft Account Credentials or the Computer's Name
 
  You can also try logging onto the target PC using the Microsoft account credentials instead of the local username and password.
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
  Alternatively, you can also try using the name of the computer you are using alongside your username in the text field associated with the Username. Do not enter a space, bar, or any other symbol between the names.
 
  If the problem is associated with the credentials, one of these two methods is likely to help you get rid of it for good.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Manually Add the Credentials of the Target Computer to the Credential Manager
 
@@ -76,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 2. Select **Windows Credential** and click on **Add a Windows Credential**.  
 ![Windows credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-credentials-1.jpg)
 3. Now, add the username, computer name, and password of the computer you are trying to access. Check if you can now share files with the other device successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Create a New User Account on Both Devices
 
@@ -108,10 +87,25 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 6. In case it is working already, click on the **Stop button**, wait for a few seconds, and then hit the **Start button**.
 7. ![Credential Manager properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/credential-manager-properties.jpg)  
  Make sure that the Startup type is set to **Automatic**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Credential Manager service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/credential-manager-service.jpg)
 8. Click **Apply** \> **OK** to save the changes.
 
  Now try connecting to the targeted computer and see if you can do so without any problems.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Make Changes to the Local Security Policy
 
@@ -126,10 +120,10 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 5. Restart your computer and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Try Using Safe Mode With Networking
@@ -154,24 +148,18 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 
  In case you cannot access this Windows state using the steps outlined above, you can try [other ways of booting into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Share Data Over Network Without Issues
 
  Windows has made it simpler to share your files and other data across networks, but there are times when you run into unexpected errors. Hopefully, one of the methods mentioned above did the trick for you in fixing the issue under consideration.
 
  A common problem is when the network credential manager keeps displaying the "Enter network credentials" dialog, even when you enter the correct credentials. In this guide, we will walk you through some troubleshooting methods you can try to fix this issue for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-obs-studio-vs-fraps-which-is-a-better-screen-capture-software-for-2024/"><u>[New] OBS Studio vs Fraps – Which Is A Better Screen Capture Software for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-editing-essentials-the-ultimate-guide-to-embedding-text-on-windows-and-macs/"><u>2024 Approved Image Editing Essentials The Ultimate Guide to Embedding Text on Windows & Macs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-t2-pro-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo T2 Pro 5G FRP Locks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-and-permanently-discard-a-partition-on-windows-pc/"><u>How to Swiftly and Permanently Discard a Partition on Windows PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Pova 5? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-efficiency-guide/"><u>Mastering Windows 11: Efficiency Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prevent-non-scrollability-of-ranges-in-excel-windows/"><u>Prevent Non-Scrollability of Ranges in Excel, Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-error-0x80246007-on-windows-11-updates/"><u>Solving Error 0X80246007 on Windows 11 Updates</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-connection-lost-error-in-escape-from-tarkov-a-comprehensive-guide/"><u>Solving the 'Connection Lost' Error in Escape From Tarkov: A Comprehensive Guide</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -180,3 +168,22 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cultivate-creativity-inspiration-driven-video-titles-for-2024/"><u>[Updated] Cultivate Creativity Inspiration-Driven Video Titles for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-supercharge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts/"><u>[Updated] Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-can-craft-jokes-but-can-ai-make-us-laugh/"><u>ChatGPT Can Craft Jokes, But Can AI Make Us Laugh?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-setup-windows-11-arm-from-an-iso-file-stepwise-approach/"><u>Efficiently Setup Windows 11 ARM From an ISO File Stepwise Approach</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ce-and-clean-up-youtube-footage-borderless-tutorial-for-2024/"><u>Enhance and Clean Up YouTube Footage Borderless Tutorial for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/game-explorer-3-ways-to-access-directories-on-windows-pcs/"><u>Game Explorer: 3 Ways to Access Directories on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacking-into-windows-11s-silent-camera-alert-system/"><u>Hacking Into Windows 11'S Silent Camera Alert System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-winerror-installation-fault-0xc004f050/"><u>How to Resolve WinError: Installation Fault #0XC004F050</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-quick-step-by-step-guide-for-youtube-audio-in-imovie/"><u>In 2024, Quick Step-by-Step Guide for YouTube Audio in iMovie</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-msi-x470-gamingplus-chipset-and-graphics-drivers-get-them-here/"><u>Latest MSI X470 Gaming+ Chipset & Graphics Drivers - Get Them Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4quicktimeqt/"><u>MP4形式へのQuickTime動画とQT動画の効率的な変換方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconfiguring-account-lockout-limit-post-failed-sign-in-in-windows-1011/"><u>Reconfiguring Account Lockout Limit Post-Failed Sign-In in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-preference-portal-your-operating-systems-lair/"><u>The Preference Portal: Your Operating System’s Lair</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/the-unseen-longevity-of-eco-friendly-electronic-accessories-iphone-case-tested-for-half-a-year/"><u>The Unseen Longevity of Eco-Friendly Electronic Accessories: IPhone Case Tested for Half a Year</u></a></li>
+</ul></div>
+

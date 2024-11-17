@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows Error 0X80042306: A Step-by-Step Approach"
-date: 2024-10-31T20:38:18.034Z
-updated: 2024-11-07T11:02:26.325Z
+date: 2024-11-13T18:03:51.001Z
+updated: 2024-11-17T17:18:14.067Z
 tags:
   - windows10
   - windows11
@@ -41,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  Once the changes are made, check if you can now create a restore point without any issues.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Restart the Volume Shadow Copy Service
 
  You might also be facing the problem if the Volume Shadow Copy service is disabled or simply not functioning properly.
@@ -68,25 +55,25 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![Volume Shadow Copy service in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/volume-shadow-copy.jpg)
 4. Choose**Properties** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Now, click on the**Stop** button, wait for a few seconds, and hit**Start** again.
 6. Make sure the Startup type is set to**Automatic** .  
 ![Start the VSS service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-vss-service.jpg)
 7. Finally, click**Apply** \>**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Do the same for the Windows Backup service and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Re-Register VSS Components
@@ -121,18 +108,25 @@ Here is how you can boot in Safe Mode:
 3. Choose**Minimal** and click on**Apply** \>**OK** to save the changes.  
 ![Minimal mode of Safe Boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/msconfig-boot-safe-mode-minimal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can now restart your computer and upon reboot, you should enter the Safe Mode automatically. Try recreating a restore point and check if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Scan the System For Corruption Errors
 
 ![Running Sfc scan in CMD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/running-sfc-scan.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The System Restore utility itself might be dealing with a corruption error, which is preventing it from functioning properly.
 
@@ -161,22 +155,22 @@ Here is how you can boot in Safe Mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-inspire-chuckles-designing-memes-on-kapwing/"><u>[New] Inspire Chuckles – Designing Memes on Kapwing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-boost-your-channels-subscribers-on-a-shoestring-budget-for-2024/"><u>[Updated] Boost Your Channel's Subscribers on a Shoestring Budget for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-best-livestream-capturing-solutions-for-content-makers/"><u>[Updated] In 2024, Best Livestream Capturing Solutions for Content Makers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clarifying-auditory-data-handling-wasd-in-windows-os/"><u>Clarifying Auditory Data Handling: WASD in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-computer-game-learning-windows-shorthand/"><u>Elevate Your Computer Game: Learning Windows Shorthand</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empowering-aesthetics-activating-color-management-in-win11/"><u>Empowering Aesthetics: Activating Color Management in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-installing-intel-wi-fi-and-lan-drivers-in-windows/"><u>Guide: Installing Intel Wi-Fi & LAN Drivers in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-change-the-windows-spotlight-picture-whenever-you-want/"><u>How to Change the Windows Spotlight Picture Whenever You Want</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-view-and-clear-the-windows-10-activity-history/"><u>How to View and Clear the Windows 10 Activity History</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-5-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic 5 Pro</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-exclusive-list-of-the-premier-mac-screenshots-tools/"><u>In 2024, Exclusive List of the Premier Mac Screenshots Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-tablet-navigation-a-guide-to-windows-11s-taskbar/"><u>Optimizing Tablet Navigation: A Guide to Windows 11'S Taskbar</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/smartphone-and-computer-movie-logging-made-easy/"><u>Smartphone & Computer Movie Logging Made Easy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-with-top-3d-painting-shortcuts/"><u>Streamline Your Workflow with Top 3D Painting Shortcuts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-quintessential-fb-video-list-for-you-for-2024/"><u>The Quintessential FB Video List for You for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722096633684-unlocking-linux-potential-setting-up-chatgpt-for-beginners-and-pros-alike/"><u>Unlocking Linux Potential: Setting Up ChatGPT for Beginners & Pros Alike!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-device-independent-techniques-for-capturing-youtube-live-streams/"><u>[New] 2024 Approved Mastering Device-Independent Techniques for Capturing YouTube Live Streams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-iconic-vhs-visuals-to-transform-video-projects-for-2024/"><u>[New] Iconic VHS Visuals to Transform Video Projects for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-future-of-computing-in-windows-11/"><u>[Updated] 2024 Approved The Future of Computing in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-you-buy-a-checklist-of-5-critical-aspects-for-new-stereo-speakers/"><u>Before You Buy: A Checklist of 5 Critical Aspects for New Stereo Speakers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-current-frames-crafting-future-windows/"><u>Beyond Current Frames: Crafting Future Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decrypting-windows-108-error-messages-locations/"><u>Decrypting Windows 10/8 Error Messages Locations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-chatgpt-communication-using-our-innovative-chrome-extension/"><u>Effortless ChatGPT Communication Using Our Innovative Chrome Extension</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/enhancing-gameplay-fluidity-tackling-the-notorious-lag-problem-in-dying-light/"><u>Enhancing Gameplay Fluidity - Tackling the Notorious Lag Problem in Dying Light</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-single-airpod-malfunctions-a-comprehensive-guide/"><u>Fixing Single AirPod Malfunctions: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stick-notes-to-app-windows-in-windows-1110/"><u>How to Stick Notes to App Windows in Windows 11/10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-remedy-for-windows-network-error-0x800704b3/"><u>Mastering Remedy for Windows' Network Error 0X800704B3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-vids-with-these-8-windows-titles/"><u>Streamline Your Vids with These 8 Windows Titles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-screen-quality-10-in-4ks/"><u>Superior Screen Quality – #10 in 4Ks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-technical-exploration-of-high-dynamic-range-on-windows-11-platforms/"><u>The Technical Exploration of High Dynamic Range on Windows 11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-lsass-unable-to-locate-components-error/"><u>Troubleshooting Lsass Unable to Locate Components Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-language-potential-with-windows-1011-hotkey-techniques/"><u>Unleash Language Potential with Windows 10/11 Hotkey Techniques</u></a></li>
 </ul></div>
 
