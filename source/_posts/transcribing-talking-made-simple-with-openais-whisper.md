@@ -1,7 +1,7 @@
 ---
 title: Transcribing Talking Made Simple with OpenAI's Whisper
-date: 2024-11-14T17:37:56.387Z
-updated: 2024-11-17T18:29:38.901Z
+date: 2024-11-21T16:35:46.333Z
+updated: 2024-11-27T16:49:58.987Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is OpenAI's Whisper?
 
@@ -65,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 3. Finally, install Whisper from its Github page with:  
 `pip3 install git+https://github.com/openai/whisper.git`
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Getting Whisper's CUDA-Enabled Version
 
  Although Whisper doesn't use Nvidia GPUs, the**torch** package it relies on offers a CUDA-accelerated version. Using this instead of the "plain" version can help Whisper complete its transcriptions much faster with the help of your Nvidia GPU.
@@ -86,8 +83,17 @@ To have Whisper use the CUDA cores of your Nvidia GPU:
 `pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117`  
 ![pip3 install torch torchvision torchaudio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip3-install-torch-torchvision-torchaudio.jpg)
 3. To check if Whisper can use your Nvidia GPU, use:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `whisper --help | findstr -i pytorch`  
  You should see**(default: cuda)** instead of**(default: cpu)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do if Torch Fails to Install
 
@@ -104,10 +110,7 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
  Then, use the path of the secondary version for all "generic" Whisper commands (e.g., "c:\\Python310\\Scripts\\pip.exe" rather than just "pip").
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record Your Voice
@@ -117,13 +120,6 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
  For a more full-featured option, try**Audacity** . Learn how to do it with our guide on[how to use Audacity to record audio on Windows and Mac](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/) .
 
 ![Recording voice with Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/recording-voice-with-audacity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Start Transcribing With Whisper
 
@@ -137,13 +133,6 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 3. We unleash Whisper on the file with:  
 `whisper --model base --language gr --task translate LatestNote.mp3`  
 ![Whisper translate gr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/whisper-translate-gr.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once processed, the text file (named "LatestNote.mp3.txt") will appear in the same folder. Open it in a text editor like**Notepad** to view the translated text.
 
@@ -177,6 +166,10 @@ For example:
 
 `whisper --model small My_Voice_Note.mp3`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Streamline Your Transcription
 
  Having to type the whole Whisper command every time you want to transcribe some audio can quickly get boring. Let's make a globally accessible batch file to streamline the process.
@@ -188,15 +181,17 @@ For example:
 4. Find the**Path** variable under**User variables for YOUR\_USERNAME** . Double-click on it to edit it. Click on**New** , and paste the path to your scripts folder. Click on**OK** to accept the changes.  
 ![Environment Variables User Account Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/environment-variables-user-account-path.jpg)
 5. Return to your scripts folder in Windows Explorer. Create a new batch file there named "wht.bat". "Inside" it, place this command:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `whisper --model tiny --language en %1`  
 ![Creating WHT Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-wht-batch-file.jpg)
 6. Create two more batch files, "whs" and "whm".
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Place this inside the first script:  
@@ -210,13 +205,6 @@ For example:
 2. **Right-click** on an empty spot and choose**Open in Terminal** .
 3. Type this command, replacing "wht" with "whs" or "whm" to use the small or medium language models:  
 `wht YOUR_AUDIO_FILE.mp3`
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Typing at the Speed of Sound With Whisper
 
@@ -241,22 +229,20 @@ For example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elite-envoys-of-educational-soundwaves/"><u>[New] 2024 Approved Elite Envoys of Educational Soundwaves</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-assemble-unique-meme-creations-with-ease/"><u>[Updated] 2024 Approved Assemble Unique Meme Creations with Ease</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-bridging-the-gap-between-standard-and-superior-video-quality-techniques/"><u>[Updated] Bridging the Gap Between Standard and Superior Video Quality Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-cultivating-community-in-stardews-ginger-territory/"><u>[Updated] Cultivating Community in Stardew’s Ginger Territory</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/effortless-gif-integration-on-your-iphone/"><u>Effortless GIF Integration on Your iPhone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-spark-20c-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Spark 20C Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-share-your-games-like-a-pro-with-these-windows-11-tactics/"><u>In 2024, Capture and Share Your Games Like a Pro with These Windows 11 Tactics</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-tecno-spark-10-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Spark 10 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v30-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo V30</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-the-most-out-of-both-worlds-after-win-11s-release/"><u>Making the Most Out of Both Worlds After Win 11'S Release</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-drive-letters-in-windows-causes-and-corrective-measures/"><u>No Drive Letters in Windows: Causes and Corrective Measures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-stubborn-windows-previous-credentials-error/"><u>Overcoming Stubborn Windows Previous Credentials Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-gpsvc-delay-in-windows/"><u>Overcoming Unresponsive GPSVC Delay in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-3d-art-process-with-indispensable-keyboard-shortcuts/"><u>Streamline Your 3D Art Process with Indispensable Keyboard Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-cmd-connoisseurs-guide-to-five-fun-hacks/"><u>The Cmd Connoisseur's Guide to Five Fun Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-edge-written-by-anonymous/"><u>Unleashing Edge' Written by Anonymous</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-ethernet-fix-guide-for-disconnection/"><u>Windows Ethernet Fix Guide for Disconnection</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-properly-posted-tweets-with-professional-videos/"><u>[New] Properly Posted Tweets with Professional Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid/"><u>[Updated] 2024 Approved Addressing Stalled Video Transmission Tips and Tricks for Messenger Users iOS/Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-professional-videographers-choice-for-screen-recordings-for-2024/"><u>[Updated] Professional Videographer's Choice for Screen Recordings for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/anti-censorship-action-trump-versus-major-online-companies/"><u>Anti-Censorship Action: Trump Versus Major Online Companies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-an-effective-strategy-for-eradicating-windows-mail-error-0x800713f/"><u>Crafting an Effective Strategy for Eradicating Windows Mail Error 0X800713F</u></a></li>
+<li><a href="https://win-able.techidaily.com/debugging-guide-how-to-fix-crashing-issues-with-thaumaturge-program-on-your-pc/"><u>Debugging Guide: How to Fix Crashing Issues with Thaumaturge Program on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-solving-m365-error-code-30015-26-on-windows/"><u>Deciphering and Solving M365 Error Code 30015-26 on Windows</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/email-trends-shift-towards-mobiles-as-desktop-use-drops-insights-from-massmail-data-analysis/"><u>Email Trends Shift Towards Mobiles as Desktop Use Drops - Insights From Massmail Data Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fortifying-internal-builds-against-breaches/"><u>Fortifying Internal Builds Against Breaches</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-file-exchange-protocols-for-windows-10-and-11/"><u>Safeguarding File Exchange: Protocols for Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-monitor-and-modify-removable-storage-use/"><u>Techniques to Monitor and Modify Removable Storage Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-power-to-repair-predominant-windows-rainmeter-issues/"><u>Unleashing the Power to Repair Predominant Windows Rainmeter Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-efficiency-shortcuts-for-windows-11s-microphone/"><u>Unlocking Efficiency: Shortcuts for Windows 11'S Microphone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-rotate-a-video-in-final-cut-pro-a-4-step-guide/"><u>Updated Rotate a Video in Final Cut Pro A 4-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Screen Space: Keep Notetaking Front"
-date: 2024-11-16T17:36:38.861Z
-updated: 2024-11-17T19:48:52.863Z
+date: 2024-11-26T16:00:14.616Z
+updated: 2024-11-27T17:33:20.117Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
 
 [Microsoft PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) features a collection of advanced Windows customization utilities. You can use it to disable sleep mode on your PC, resize images, perform bulk renaming using search-replace, and keep apps always on top.
@@ -51,16 +55,7 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use DeskPins to Pin Sticky Notes
@@ -76,34 +71,26 @@ To pin Sticky Notes using DeskPins:
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
-![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
-5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
+5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
@@ -125,24 +112,17 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-exiting-facebook-livestreams-device-specific-methods/"><u>[New] In 2024, Exiting Facebook Livestreams Device-Specific Methods</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-step-by-step-guide-to-creating-fb-slideshows/"><u>[New] Step-by-Step Guide to Creating FB Slideshows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-seamless-shift-an-introduction-to-crossfades/"><u>[New] The Seamless Shift An Introduction to Crossfades</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y36-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y36 Fingerprint Lock</u></a></li>
-<li><a href="https://win-data.techidaily.com/decouvrez-des-solutions-facilement-applicables-pour-rechercher-des-fichiers-oublies-sur-windows-11/"><u>Découvrez Des Solutions Facilement Applicables Pour Rechercher Des Fichiers Oubliés Sur Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-efficient-solutions-the-best-10-uses-for-powertoy-features/"><u>Discover Efficient Solutions: The Best 10 Uses for PowerToy Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enable-portable-internet-connectivity-with-windows-11-pc/"><u>Enable Portable Internet Connectivity with Windows 11 PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-approaches-to-using-ping-in-modern-windows-os/"><u>Innovative Approaches to Using Ping in Modern Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-opening-win-11s-call-interface/"><u>Master the Art of Opening Win 11'S Call Interface</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-voice-over-like-a-pro-essential-fcp-recording-tips/"><u>New 2024 Approved Voice Over Like a Pro Essential FCP Recording Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/onedrive-a-complete-guide-to-folder-resetting-in-win-11/"><u>OneDrive: A Complete Guide to Folder Resetting in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-pc-resources-tackling-high-usage-by-multimedia-tasks/"><u>Optimize PC Resources: Tackling High Usage by Multimedia Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-your-defender-footprint-in-windows-systems/"><u>Overhauling Your Defender Footprint in Windows Systems</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/perfect-your-yt-thumbnails-with-these-mac-tips/"><u>Perfect Your YT Thumbnails with These Mac Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/proactive-zoom-meeting-strategies-for-improved-skype-interactions-for-2024/"><u>Proactive Zoom Meeting Strategies for Improved Skype Interactions for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-securing-iphone-drivers-for-smooth-operation-on-windows-11/"><u>Troubleshooting Tips: Securing iPhone Drivers for Smooth Operation on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-reconnect-your-printer-to-pc/"><u>Troubleshooting: Reconnect Your Printer to PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-clipboard-functionality-within-microsoft-edge-for-app-guard/"><u>Unlocking Clipboard Functionality Within Microsoft Edge for App Guard</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-easy-peasy-memes-step-by-step-in-kinemaster/"><u>[New] Easy-Peasy Memes Step by Step in KineMaster</u></a></li>
+<li><a href="https://games-able.techidaily.com/decrease-disk-footprint-efficiently-compress-your-retro-game-isos-with-chdman/"><u>Decrease Disk Footprint: Efficiently Compress Your Retro Game ISOs with ChDMan</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-it-windows-10-laptop-stuck-at-plugged-in-not-charging-solutions-inside/"><u>Fix It! Windows 10 Laptop Stuck at 'Plugged in, Not Charging' - Solutions Inside</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/gratuit-online-omzetten-van-een-pgm-naar-jpeg-met-movavi-direct-en-efficient/"><u>Gratuit Online Omzetten Van Een PGM Naar JPEG Met Movavi - Direct en Efficiënt</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-video-to-song-instagrams-mp3-conversion-process/"><u>In 2024, From Video to Song Instagram's Mp3 Conversion Process</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-creativity-with-these-8-mirrorless-cams-for-video/"><u>In 2024, Unleash Creativity with These 8 Mirrorless Cams For Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-startup-speed-in-windows-11-a-quick-guide/"><u>Optimizing Startup Speed in Windows 11 – A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-muted-button-glitches-in-windows-systems/"><u>Resolving Muted Button Glitches in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-reactivate-lost-store-apps-on-windows-11/"><u>Swiftly Reactivate Lost Store Apps on Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unleash-creativity-design-your-own-logos-using-template-assets-free/"><u>Unleash Creativity Design Your Own Logos Using Template Assets (Free)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vigilance-in-action-key-windows-tasks-to-scrutinize-for-infection/"><u>Vigilance in Action: Key Windows Tasks to Scrutinize for Infection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zoom-quality-issues-identifying-if-connectivity-woes-are-user-based/"><u>Zoom Quality Issues: Identifying If Connectivity Woes Are User-Based</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategic Intervention for Inactive Batch Process Scripts
-date: 2024-11-13T16:13:03.157Z
-updated: 2024-11-17T17:23:31.085Z
+date: 2024-11-25T16:40:49.658Z
+updated: 2024-11-27T17:58:48.521Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Do BAT Files Get Deleted Instantly on Windows?
 
@@ -53,24 +57,26 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 3. Copy and paste the following prompt in the textbox: **Please correct all the syntax errors in the following .BAT file code: CODE**. Once you copy it, replace **CODE** with the actual code from your BAT file.  
 ![ChatGPT Prompt For BAT File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-for-bat-file.jpg)
 4. Press **Enter** or the **Send** button. Now ChatGPT will try to remove all the possible syntax errors and provide you with the modified version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Copy and replace the edited version with the code inside your BAT file.  
 ![ChatGPT Prompt Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-output.jpg)
 6. After making the necessary changes, save your BAT file and rerun it.
 
  To avoid such syntax error situations in the future, we recommend learning [how to create a batch file](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) properly.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable Your Antivirus Temporarily
 
  Sometimes, antivirus software detects normal applications and files as a system threat (due to false detection). In these cases, a good practice is to disable the antivirus or exclude such files from the settings.
 
  If you're using the default one that ships with Windows, here's [how to disable the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) for help. Remember to enable it again after running your BAT file to protect your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Include the BAT in the Antivirus Exclusion List
 
@@ -92,15 +98,13 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 2. Click on **Apps**, then select **Default apps**.  
 ![Windows Apps Settings Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-apps-settings-screen.jpg)
 3. Scroll to the last and click on**Choose default by file type**.  
-![Windows Default Apps Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-default-apps-settings.jpg)
-4. Locate **.bat** in the list and click on **Choose a default**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Windows Default Apps Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-default-apps-settings.jpg)
+4. Locate **.bat** in the list and click on **Choose a default**.  
 
 ![BAT File Association Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bat-file-association-settings.jpg)
 5. Select **Command Prompt** and click the **Set Default** button.
@@ -119,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  Remember that taking ownership carries risk. Here's why: if the file comes from an unknown source (a random website) and you take ownership, you may unknowingly execute harmful code. So, double-check the code and the file source before taking ownership.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Modify the ComSpec System Variable
 
  Don't be confused by the technical term "**ComSpec**." Simply put, the ComSpec system variable is a title or name given to the path of the Command Prompt (i.e.,%SystemRoot%\\system32\\cmd.exe). So, whenever a Windows app or program wants to open or access the Command Prompt, it uses the ComSpec system variable to open it instantly.
@@ -140,31 +137,20 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 2. Type **sysdm.cpl** in the textbox and click **OK** to execute it.  
 ![Sysdm Command In RUN App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sysdm-command-in-run-app.jpg)
 3. From the tab menu, navigate to Advanced and click the **Environment Variables** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under **System variables**, double-click on **ComSpec**.  
 ![System Variables List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-variables-list.jpg)
 5. On the **Edit Environment Variable** window, ensure the variable value matches **%SystemRoot%\\system32\\cmd.exe**. If the value is different in your case, correct that.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
 6. Click **OK** to apply the changes.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully, now your BAT file will run as expected. As a final note, always exercise caution when adjusting any system variable. For additional safety, note down the original value before making any changes.
@@ -177,24 +163,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-creating-impressive-3d-beginnings-on-youtube/"><u>[New] 2024 Approved Creating Impressive 3D Beginnings on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-zoom-mastering-screen-sharing-basics/"><u>[New] 2024 Approved Zoom Mastering Screen-Sharing Basics</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-sound-enhancing-fb-video-posts-a-comprehensive-guide/"><u>[Updated] 2024 Approved Sound-Enhancing FB Video Posts A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-novice-to-niche-tripling-your-youtube-fans/"><u>[Updated] From Novice to Niche Tripling Your Youtube Fans</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-outstanding-non-zoom-video-conferencing-tech/"><u>[Updated] Outstanding Non-Zoom Video Conferencing Tech</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-secrets-of-ken-burns-motion-in-camtasa/"><u>[Updated] Unveiling the Secrets of Ken Burns Motion in Camtasa</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-the-red-x-meaning-in-file-organization/"><u>Dissecting the Red “X” Meaning in File Organization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-protection-five-changes-to-the-windows-firewall/"><u>Enhance Protection: Five Changes to the Windows Firewall</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-modify-file-permissions-in-windows/"><u>How to Modify File Permissions in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterclass-in-security-crafting-original-patterns-for-windows-users/"><u>Masterclass in Security: Crafting Original Patterns for Windows Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/rethinking-gameplay-mavic-air-versus-spark-showdown/"><u>Rethinking Gameplay Mavic Air Versus Spark Showdown</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-tasks-using-ifttt-for-microsoft-to-do/"><u>Simplifying Tasks: Using IFTTT for Microsoft To-Do</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snip-and-save-malfunction-resolve-it-with-ease/"><u>Snip-and-Save Malfunction? Resolve It with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/success-strategies-fixing-driver-not-supported-issue-in-win11/"><u>Success Strategies: Fixing Driver Not Supported Issue in Win11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -202,3 +170,23 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-ultimate-list-of-quotes-for-tiktok-stars/"><u>[New] 2024 Approved The Ultimate List of Quotes for TikTok Stars</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-streamlining-your-podcast-production-process/"><u>[Updated] 2024 Approved Streamlining Your Podcast Production Process</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-potential-in-google-photos-features/"><u>2024 Approved Maximizing Potential in Google Photos Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-definitions-efficiently-with-win11/"><u>Explore Definitions Efficiently with Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-rtx-2060-graphics-drivers-optimized-for-all-windows-versions-11-10-8-7/"><u>Get the New RTX 2060 Graphics Drivers: Optimized for All Windows Versions (11, 10, 8, 7)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-reno-11-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo Reno 11 5G Device SIM</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-next-gen-screen-capture-tools-ultra-fast-action/"><u>In 2024, Next-Gen Screen Capture Tools - Ultra-Fast Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-windows-10-update-fatality-0x800f080a/"><u>Mastering the Resolution of Windows 10 Update Fatality 0X800F080A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-windows-roblox-conflicts-that-force-shutdown/"><u>Preventing Windows-Roblox Conflicts that Force Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-eliminate-win-xp-mmc-snap-in-woes/"><u>Strategies to Eliminate Win XP MMC Snap-In Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-winerror-x709/"><u>Strategies to Overcome WinError X709</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-resolve-unsuited-interface-in-windows/"><u>Swiftly Resolve 'Unsuited' Interface in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-z-flip-5-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Galaxy Z Flip 5 Phone Pattern Lock</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-seleccion-de-aplicaciones-para-grabado-de-pantalla-en-computadores-con-windows-11-8-o-7-como-capturar-completamente-tu-escenario/"><u>Top Selección De Aplicaciones Para Grabado De Pantalla en Computadores Con Windows 11, 8 O 7: Cómo Capturar Completamente Tu Escenario</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Transforming Window 11'S Default Search Settings
-date: 2024-08-28T01:19:21.587Z
-updated: 2024-08-29T01:19:21.587Z
+date: 2024-11-24T17:05:25.179Z
+updated: 2024-11-27T17:40:02.490Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,11 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 2. Under**Windows permissions,** click**Search permissions** .  
 ![Screenshot of windows 11 privacy settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-settings-page.jpg)
 3. This will open up SafeSearch settings, under which three options exist:**Strict** ,**Moderate,** and**Off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot of safesearch settings page on windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-safesearch-settings-page-on-windows11.jpg)
 
  The**Strict** setting will filter out all adult content in texts, images, and videos from web previews. On the other hand, the**Moderate** setting will only filter out adult images and videos, excluding text. Lastly, the**Off** option will disable the filter entirely from your web results.
@@ -59,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 ![Screenshot of email & accounts settings page on windows 11 (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Clear Search History on Your Device
 
  Search history is stored by default on your device to help you get faster results and recommendations based on your search patterns.
@@ -69,14 +75,15 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
 ![Screenshot of windows 11 Privacy & Security page (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Click**Clear device Search history** to delete search history on your device.
 
  You can also delete your cloud search history, as well as exclude web searches from your search suggestions.
 
  Results from the Windows search will often bring up previews of web results. If you find this a bit confusing, you can exclude web search results to streamline your search to only local results from your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enable App Launch Tracking
 
@@ -87,11 +94,13 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 ![Screenshot of app launch tracking settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-app-launch-tracking-settings-page-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Utilize Enhanced Search
 
  When you run a search, your PC will typically look for files in specific locations, such as in the**Documents** or**Pictures** folders.
@@ -104,16 +113,14 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
 ![Screenshot Showing Windows 11 Enhanced Search Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/annotely_image-14.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  If there are some folders you’d like to keep out of your search, click on**Exclude folders from enhanced search.**
 
 ![Screenshot of Windows 11 Privacy & Security page 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the three dotted lines on each menu and select**Remove** to exclude it from a search.
 
 ## Harnessing the Power of Windows Search
@@ -122,14 +129,11 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  Windows 11 brings even more improvements to the search feature. Aside from being able to access it right from the taskbar, it also brings you the power of search highlights, with more content and insights to your search.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +142,26 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-googleplus-virtuosos-snapchat-highlights/"><u>[Updated] In 2024, Google+ Virtuosos' Snapchat Highlights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-instantvideo-snipper-fb-edition/"><u>[Updated] In 2024, InstantVideo Snipper - FB Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-review-of-powerdirector-features-and-tips/"><u>2024 Approved Expert Review of PowerDirector - Features & Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-angle-videos-for-improved-viewership/"><u>2024 Approved How to Angle Videos for Improved Viewership</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-zero-cost-zest-the-ultimate-guide-to-free-game-film/"><u>2024 Approved Zero Cost Zest The Ultimate Guide to Free Game Film</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-c67-4g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme C67 4G to Roku | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-windows-service-obstacles-with-these-7-powerful-strategies/"><u>Conquering Windows Service Obstacles with These 7 Powerful Strategies</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/free-guide-to-converting-dvds-to-mp4-files-with-handbrake/"><u>Free Guide to Converting DVDs to MP4 Files with Handbrake</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fusing-windows-serial-number-with-ms-online-profile/"><u>Fusing Windows Serial Number with MS Online Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-action-needed-prompt-for-wi-fi-in-windows/"><u>How to Fix the Action Needed Prompt for Wi-Fi in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-make-admin-access-more-discreet-in-windows-11/"><u>How to Make Admin Access More Discreet in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-smart-8-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Smart 8 Pro Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nostalgia-reignited-using-retroarchs-shaders-for-old-titles/"><u>Nostalgia Reignited: Using RetroArch’s Shaders for Old Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverie-of-retro-play-classic-pc-through-dosbox-x/"><u>Reverie of Retro Play: Classic PC Through DOSBox-X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-output-leverage-flow-launcher-in-your-workday/"><u>Skyrocket Output: Leverage Flow Launcher in Your Workday</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-failed-utorrent-setup-for-windows-users/"><u>Strategies to Overcome Failed uTorrent Setup for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-video-game-discounts-of-oct-2024s-prime-event-up-to-1k-savings-hurry-limited-time-offers/"><u>Top Video Game Discounts of Oct. 2024'S Prime Event - Up To $1K Savings! HURRY, Limited Time Offers!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-xc0000142-in-win11win10/"><u>Troubleshooting Error XC0000142 in Win11/Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-resume-post-creators-patching/"><u>Win11 Resume Post-Creators Patching</u></a></li>
+</ul></div>
 

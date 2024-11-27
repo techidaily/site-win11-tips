@@ -1,7 +1,7 @@
 ---
 title: "Safeguarding File Exchange: Protocols for Windows 10 & 11"
-date: 2024-11-12T16:51:32.215Z
-updated: 2024-11-17T20:26:40.945Z
+date: 2024-11-20T17:26:10.670Z
+updated: 2024-11-27T16:35:14.613Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Hide a Drive Using the Disk Management App
 
@@ -58,10 +62,7 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
@@ -69,16 +70,7 @@ To hide a drive in Windows with Command Prompt, follow these steps:
  If you like using Command Prompt, why not check our guide on[how to master the Command Prompt in Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) ?
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Hide a Drive Using the Group Policy Editor
@@ -96,13 +88,6 @@ Here's what you need to do:
 5. Double-click the**Hide these specified drives in My Computer** policy on your right.  
 ![Hide a Drive With Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-with-group-policy-editor.jpg)
 6. Select the**Enabled** option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Under**Options** , select the drive you want to hide.
 8. Click**Apply** followed by**OK** .
@@ -127,20 +112,22 @@ Here's what you need to do:
 8. In the**Edit DWORD (32-bit) Value** dialog box, select**Decimal** as the Base.  
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
 
  You can also use this method to hide multiple drives at the same time. To do so, add the decimal numbers for both drives and enter the total in the Value data field. For example, if you're looking to hide drive**G:** and**H:** from your computer, you should enter**192** (64 + 128) in the Value data field.
 
  You'll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the**NoDrives** DWORD.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Hiding Drives in Windows Is Easy
 
@@ -163,18 +150,19 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturing-your-lenovo-display-in-slow-motion/"><u>[Updated] Capturing Your Lenovo Display in Slow Motion</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-minecraft-logo-designs-for-youtube-channels/"><u>[Updated] Minecraft Logo Designs for YouTube Channels</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-visionalign-studio/"><u>2024 Approved VisionAlign Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-pathway-to-windowsstore-folder/"><u>Decoding the Pathway to WindowsStore Folder</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-cost-effective-gaming-laptops-in-depth-testing-results-from-authorities-in-tech/"><u>Discover the Ultimate Guide to Cost-Effective Gaming Laptops: In-Depth Testing Results From Authorities in Tech</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-smart-8-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Smart 8</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-90-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor 90 Pro Face Lock?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-concealment-of-wireless-networks-windows-style/"><u>Masterful Concealment of Wireless Networks, Windows Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-java-install-glitches/"><u>Mastering the Art of Fixing Java Install Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reigniting-screen-brilliance-overcoming-windows-11-limits/"><u>Reigniting Screen Brilliance: Overcoming Windows 11 Limits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-install-microsofts-pc-manager/"><u>Steps to Install Microsoft's PC Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win10-repairing-directionally-inconsistent-headphone-output/"><u>Win10: Repairing Directionally Inconsistent Headphone Output</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unlock-iphone-video-potential-mastering-8-essential-filmmaking-skills/"><u>[Updated] 2024 Approved Unlock iPhone Video Potential Mastering 8 Essential Filmmaking Skills</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-methods-for-documenting-live-youtube-broadcasts-for-2024/"><u>[Updated] Best Methods for Documenting Live YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-next-level-mac-cam-apps-avoiding-the-bandicamp-route/"><u>[Updated] In 2024, Next-Level Mac Cam Apps Avoiding the Bandicamp Route</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-ultimate-techniques-for-youtube-video-format-switching/"><u>[Updated] In 2024, Ultimate Techniques for YouTube Video Format Switching</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-vlogger-vogue-launching-your-cosmetic-channel/"><u>[Updated] The Ultimate Guide to Vlogger Vogue Launching Your Cosmetic Channel</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-mp3-a-formato-oggv-online-e-gratuito-con-movavi/"><u>Cambia MP3 a Formato OGGV Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-art-of-victoria-greywing-a-detailed-analysis-on-movavi/"><u>Exploring the Art of Victoria Greywing - A Detailed Analysis on Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/facilidade-e-velocidade-na-aceleracao-de-videos-descubra-as-melhores-ferramentas/"><u>Facilidade E Velocidade Na Aceleração De Vídeos - Descubra as Melhores Ferramentas!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-convertire-raf-scatta-veloce-con-movavi/"><u>Gratuito Convertire RAF: Scatta Veloce Con Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-itel-a05s-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Itel A05s?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kop-nu-top-choice-screen-capture-tool-for-efficient-digital-recordings/"><u>Köp Nu: Top-Choice Screen Capture Tool for Efficient Digital Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-13-ricette-di-fotografia-video-metodi-essenziali-per-diverse-situazioni-di-shooting/"><u>Top 13 Ricette Di Fotografia Video: Metodi Essenziali per Diverse Situazioni Di Shooting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-a-non-responsive-safari-browser-on-iphone-with-these-10-tips/"><u>Troubleshoot a Non-Responsive Safari Browser on iPhone with These 10 Tips</u></a></li>
 </ul></div>
 

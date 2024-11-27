@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Gameplay: Preventing League Drops on PC"
-date: 2024-08-28T01:16:24.740Z
-updated: 2024-08-29T01:16:24.740Z
+date: 2024-11-22T16:35:43.247Z
+updated: 2024-11-27T17:19:29.969Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
  Do you lose connection to Riot's servers when the League of Legends' matchmaking process begins? Does it disconnect mid-gameplay? These issues usually occur when your internet connection isn't strong enough to keep you connected to Riot's servers. However, there could also be several other factors at play.
 
  As such, we will examine all possible reasons for League of Legends disconnecting from Riot's servers on Windows. Moreover, we will provide you with fixes you can apply to resolve this annoying issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Is League of Legends Disconnecting, and How Can You Fix It?
 
@@ -40,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
  If none of these do the trick, it's time to start performing some more complicated fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Ensure the Problem Isn't on Riot's Side
 
  Because League of Legends is always online, everything is dependent on Riot's servers to run properly. Therefore, you should ensure the problem isn't originating from the backend. Follow these steps to confirm that:
@@ -55,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
  If other users have reported a similar problem, rest assured that your connectivity issues stem from Riot's servers, and not from your PC. All you have to do is wait for the problem to be resolved automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Rule Out Internet Issues
 
  If Riot servers are fully active, your internet might be the problem. Test your internet speed using[free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
@@ -66,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 ![Flushing DNS Cache in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/2-Flushing-DNS-Cache-in-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the internet isn't connected or is unstable, follow these steps:
 
 * Double-check that your PC is connected to the right Wi-Fi signal.
@@ -83,8 +86,9 @@ Proceed to the next step if the above checks and fixes do not help.
 ![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you keep getting disconnected in League of Legends, you can temporarily connect to a different internet connection, such as your mobile data. After changing the network, run the game again.
 
  If you do not experience the same issue on a different network, the problem lies with your primary internet connection. It could be a hardware issue with your router, a restriction from your ISP, or something else. You should have your ISP representative inspect your internet to rule out all of this.
@@ -113,31 +117,26 @@ Proceed to the next step if the above checks and fixes do not help.
 4. Then click on the**Initiate Full Repair** button.  
 ![Running a Full Repair of League of Legends Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/running-a-full-repair-of-league-of-legends-client.jpg)
 5. Afterward, follow the on-screen instructions to fix your files.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Report the Problem to Riot Games
 
  Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the[League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
 
  If the support team asks about logs, run the[Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix the League of Legends Disconnecting Issue
 
  Disconnecting from your game when you are about to defeat your friends can be extremely frustrating. Hopefully, the fixes in this article will help you fix this annoying problem and establish a stable connection to Riot servers. If nothing works, reinstall the game.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +145,22 @@ Proceed to the next step if the above checks and fixes do not help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-reimagined-computing-with-windows-10s-upgrades/"><u>[Updated] Reimagined Computing with Windows 10’S Upgrades</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-quick-fix-for-identifying-imposters-in-your-instagram-community/"><u>2024 Approved Quick Fix for Identifying Imposters in Your Instagram Community</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-guide-for-enthusiasts-on-screenshotting-with-zd-software/"><u>2024 Approved The Ultimate Guide for Enthusiasts on Screenshotting with ZD Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-6s-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 6s? How to Fix it?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensible-guide-for-novices-crafting-professional-tiktok-edits/"><u>Comprehensible Guide for Novices Crafting Professional TikTok Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-remove-onedrive-from-windows-explorer-app/"><u>Guide to Remove OneDrive From Windows Explorer App</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-x100-pro-by-drfone-android/"><u>How to Bypass FRP from Vivo X100 Pro?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-11-strategies-for-resolving-win11-bluescreen-issues/"><u>Mastering 11 Strategies for Resolving Win11 Bluescreen Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-mac-os-with-external-windows-software/"><u>Maximizing Mac OS with External Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-windows-11-image-frames/"><u>Modifying Windows 11 Image Frames</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-blackout-issues-with-steam-application/"><u>Overcoming Blackout Issues with Steam Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-accurate-energy-consumption-forecasts-to-windows-11/"><u>Restoring Accurate Energy Consumption Forecasts to Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-x50iplus-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor X50i+ for Parents | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-your-full-potential-with-these-9-fixes-for-faulty-windows-key-commands/"><u>Unleash Your Full Potential with These 9 Fixes for Faulty Windows Key Commands</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Harness the Power of Windows Print Management Console
-date: 2024-11-13T16:16:26.020Z
-updated: 2024-11-17T19:20:30.703Z
+date: 2024-11-25T17:13:40.650Z
+updated: 2024-11-27T17:47:42.646Z
 tags:
   - windows10
   - windows11
@@ -47,16 +47,13 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
  You’ve already discovered how to access the Print Management app using the Run command dialog box. So, let’s check out the various other ways to access this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access the Print Management Tool Using the Start Menu Search Bar
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can access almost any built-in app or third-party program using the Start menu search bar. Now, here’s how you can use the search bar to open the Print Management app:
 
@@ -64,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 2. Type **Print Management** and then select the **Best match**.
 
 ![Accessing the Print Management Tool Using the Start Menu Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-start-menu-search-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Access the Print Management Tool Using the Start Menu
 
@@ -76,17 +77,7 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 ![Accessing the Print Management Tool Using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Access the Print Management Tool Using the Control Panel
@@ -113,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 ![Accessing the Print Management Tool Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-file-explorer-address-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Access the Print Management Tool Using the Task Manager
 
  You probably know that you can [use the Task Manager to force close programs](https://www.makeuseof.com/tag/how-to-kill-unresponsive-programs-without-the-task-manager/) or analyze system performance. But did you know that you can use Task Manager to open the apps on your PC?
@@ -124,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 3. Type **printmanagement.msc** in the search box and then press **OK**.
 
 ![Accessing the Print Management Tool Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Access the Print Management Tool via the System32 Directory
 
@@ -147,9 +135,21 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 ![Accessing the Print Management Tool Via the System32 Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-via-the-system32-directory.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Access the Print Management Tool Using the Command Prompt or PowerShell
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Command Prompt and PowerShell usually help when it comes to troubleshooting system issues. In fact, you can also use these tools to configure some PC settings.
 
@@ -172,22 +172,12 @@ printmanagement.msc
 printmanagement.msc
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Access the Print Management Tool Using a Desktop Shortcut
 
 ![A lady using a Windows device while sitting outside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-device-while-sitting-outside.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows [desktop shortcuts](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) make it easy for you to access the apps on your device. So, let’s check out how you can create a desktop shortcut for the Print Management tool:
 
@@ -196,19 +186,6 @@ printmanagement.msc
 3. Type **%windir%\\system32\\printmanagement.msc** in the "Location" box and click **Next** to continue.
 
 ![Creating the Print Management Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/creating-the-print-management-desktop-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From there, type **Print Management Tool** in the "Name" box and then click the **Finish** button.
 
@@ -235,20 +212,20 @@ printmanagement.msc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-360-degree-cameras-vs-3d-cameras-what-are-the-differences-in-2024/"><u>[New] 360 Degree Cameras Vs 3D Cameras What Are the Differences, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exceptional-aspects-of-inexpensive-asmr-microphones/"><u>[New] Exceptional Aspects of Inexpensive ASMR Microphones</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlined-techniques-for-downloading-vimeo-files-for-2024/"><u>[New] Streamlined Techniques for Downloading Vimeo Files for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-mighty-thor-returns-odins-vow/"><u>2024 Approved Mighty Thor Returns Odin’s Vow</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210064027-9781071543955-biblia-da-meditacao-diaria/"><u>Bíblia da Meditação Diária | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-print-sharing-woes-on-windows-11/"><u>Clearing Up Print Sharing Woes on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-unsuccessful-windows-update-error-0x8024800c/"><u>Correcting Unsuccessful Windows Update (Error 0X8024800C)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-prominent-positioning-of-sticky-notes-in-win-11/"><u>Ensuring Prominent Positioning of Sticky Notes in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-advice-for-google-chromes-filesync-on-your-pc-win/"><u>Expert Advice for Google Chrome's Filesync on Your PC, WIN</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guia-paso-a-paso-para-generar-imagenes-de-disco-en-windows-server-2016/"><u>Guía Paso a Paso Para Generar Imágenes De Disco en Windows Server 2016</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-internal-server-errors-windows-1011-tips/"><u>Overcoming Internal Server Errors: Windows 10/11 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unsupported-boots-in-windows-the-5-essential-fixes/"><u>Overcoming Unsupported Boots in Windows: The 5 Essential Fixes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/rhythm-and-reels-instagram-music-secrets-for-2024/"><u>Rhythm & Reels Instagram Music Secrets for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguard-windows-effortlessly-with-these-free-generators/"><u>Safeguard Windows Effortlessly with These Free Generators</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-transforming-your-yt-gaming-content-with-hashtags/"><u>Step-by-Step Guide Transforming Your YT Gaming Content with Hashtags</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-guide-to-unwavering-visual-captures/"><u>[New] A Guide to Unwavering Visual Captures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-youtube-video-to-text-conversion-at-no-cost-for-2024/"><u>[Updated] Effortless YouTube Video to Text Conversion at No Cost for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-wmv-3gp/"><u>立即使用Movavi: 無限制的 WMV 至 3GP 免費線上轉換工具</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-mfc71udll-disappearance-on-pcs/"><u>Addressing Mfc71u.dll Disappearance on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comment-ajouter-un-motif-de-filigrane-personnalise-a-votre-image-avec-le-logiciel-de-retouche-photo-movavi/"><u>Comment Ajouter Un Motif De Filigrane Personnalisé À Votre Image Avec Le Logiciel De Retouche Photo Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-techniques-for-cutting-out-superfluous-segments-from-your-footage/"><u>Effective Techniques for Cutting Out Superfluous Segments From Your Footage</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effortless-sd-card-duplication-for-windows-11-users-a-5-stage-process/"><u>Effortless SD Card Duplication for Windows 11 Users - A 5-Stage Process</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beyond-basics-professional-tips-from-vidas-features/"><u>In 2024, Beyond Basics Professional Tips From Vida's Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenlose-konvertierung-von-wmv-in-mp4-mit-movavi-online-tool-effizientes-werkzeug-fur-videokonverter/"><u>Kostenlose Konvertierung Von WMV in MP4 Mit Movavi Online Tool - Effizientes Werkzeug Für Videokonverter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-integrated-graphics-drivers-for-windows-operating-systems-1011-updates-available/"><u>Latest Intel Integrated Graphics Drivers for Windows Operating Systems: 10/11 Updates Available</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-video-aspect-ratios-in-youtube-platform-for-2024/"><u>Navigating Video Aspect Ratios in YouTube Platform for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-take-your-videos-to-the-next-level-os-x-mavericks-editing-tips/"><u>New 2024 Approved Take Your Videos to the Next Level OS X Mavericks Editing Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-downsizing-images-on-mac-computers-with-three-simple-methods/"><u>Quick Guide to Downsizing Images on Mac Computers with Three Simple Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-file-m4a-in-formato-ogg-liberamente-on-line-convertitore-gratuito-di-movavi/"><u>Trasforma File M4A in Formato OGG Liberamente On-Line - Convertitore Gratuito Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ogg-mp3-mp3-movavi/"><u>무료 OGG 파일을 MP3로 자유롭게 전환하기: 모바일 친화적 MP3 프로세스를 위한 Movavi</u></a></li>
 </ul></div>
 

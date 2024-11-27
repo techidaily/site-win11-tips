@@ -1,0 +1,135 @@
+---
+title: Ensuring Proper Installation of Windows 11
+date: 2024-11-26T16:42:21.800Z
+updated: 2024-11-27T16:33:16.323Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Ensuring Proper Installation of Windows 11
+excerpt: This Article Describes Ensuring Proper Installation of Windows 11
+keywords: Windows 11 Install Guide,Upgrade to Windows 11,Windows 11 Setup Steps,Correcting Windows 11 Errors,Pre-Install Windows 11 Checklist,Windows 11 Compatibility Tips,Troubleshooting Windows 11 Install
+thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088f02a9b5a61fe37bc90c745a.png
+---
+
+## Ensuring Proper Installation of Windows 11
+
+ Although Microsoft allows you to use Windows 11 without activation, using a non-activated copy may not be the best idea as it restricts your access to certain key features and critical security updates. If you’re unsure, there are several ways to know if your copy of Windows 11 is activated.
+
+ You can check your Windows 11 PC’s activation status via the Settings app, the Run command, or a command-line tool. This post will walk you through all three methods in detail.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 1\. How to Check Windows 11's Activation State Using the Settings App
+
+ The Settings app in Windows contains all the necessary information about the Windows edition, its activation status, and the product key.
+
+ To check Windows 11 activation status using the Settings app, follow these steps:
+
+1. Press**Win + I** to launch the Settings app.
+2. In the**System** tab, click on**Activation** .
+3. Check the status next to**Activation state** .  
+![Check Activation Status on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-activation-status-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ If the status reads**Active** , it means your Windows 11 copy is activated. On the other hand, if the status displays**Not active** , it implies that the copy of your Windows 11 is not yet activated.
+
+ You can click the**Activation state** option to reveal more details. Depending on the activation status, you should see one of the following messages:
+
+* Windows is activated.
+* Windows is activated with a digital license.
+* Windows is activated with a digital license linked to your Microsoft account.
+* Windows is not activated.
+
+![Check Windows Activation Status via Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Is your Windows 11 PC not showing the correct activation status despite using a genuine license key? Check our guide on[how to fix the activation key not working issue in Windows 11](https://www.makeuseof.com/windows-11-activation-key-not-working/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 2\. How to Check Windows 11 Activation State via the Run Command
+
+ Run command is a useful tool for executing commands, opening system utilities, and[launching apps and programs in Windows](https://www.makeuseof.com/open-apps-programs-windows/) . You can also use this tool to see Windows' activation status.
+
+ Here’s how to check if Windows 11 is activated via the Run command.
+
+1. Right-click on the**Start icon** and select**Run** from the list. Alternatively, you can use the**Win + R** keyboard shortcut to access the Run tool quickly.
+2. Type**slmgr.vbs /xpr** in the text field and click**OK** or press**Enter** .
+3. You should see a**Windows Script Host** dialog box that’ll convey whether your copy of Windows 11 is activated or not.  
+![Check Windows Activation Status via Run Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-run-tool.jpg)
+
+ Alternatively, you can run the**slmgr.vbs /dlv** command to check the activation status along with other important details such as activation ID, partial product key, and so on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 3\. How to Check Windows 11 Activation State With Command Prompt or PowerShell
+
+ Command Prompt and PowerShell are two built-in command-line tools in Windows 11 commonly used for performing complex administrative tasks and troubleshooting various errors. However, did you know you could also use these tools to reveal essential system information such as Windows' activation state?
+
+ To check the Windows 11 activation state using Command Prompt or PowerShell, use these steps:
+
+1. Use one of[the many ways to open Command Prompt or PowerShell on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+2. In the console, type**slmgr /xpr** and press**Enter** .
+3. In the dialog box, check Windows 11’s activation status. If your machine is not activated, you should see the**Windows is in notification mode** message.  
+![Check Windows Activation Status via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-command-prompt.jpg)
+
+ Like interacting with your machine via Command Prompt? Here are some[fun Command Prompt tricks](https://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
+
+## Checking Windows 11’s Activation Status, Made Easy
+
+ You now know several ways to determine whether your copy of Windows 11 is genuine or not.
+
+ If your Windows 11 is not activated, you may need to purchase a license key online to activate it. However, it's important to be cautious of online deals that seem too good to be true while making the purchase.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-techniques-for-photo-based-tileworks/"><u>[New] Exploring Techniques for Photo-Based Tileworks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-six-innovative-approaches-for-recording-and-storing-mov-files-on-windows-11/"><u>[Updated] Six Innovative Approaches for Recording and Storing MOV Files on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bing-chat-vs-chatgpt-for-freelancers-understanding-the-key-differences-and-what-matters-most/"><u>Bing Chat vs ChatGPT for Freelancers: Understanding the Key Differences and What Matters Most</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-6s-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 6s After Forgetting the Passcode?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-10-routes-to-windows-network-connection-settings/"><u>Exploring 10 Routes to Window's Network Connection Settings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-capabilities-of-the-affordable-rexing-v1-dashcam-the-perfect-blend-of-quietness-and-trustworthiness/"><u>Exploring the Capabilities of the Affordable Rexing V1 DashCam: The Perfect Blend of Quietness and Trustworthiness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-connect-without-a-default-browser-on-win/"><u>How to Connect Without a Default Browser on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-windows-subsystem-for-linux/"><u>How to Enable Windows Subsystem for Linux</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-device-connection-with-windows-11s-phones/"><u>Mastering Device Connection with Windows 11'S Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/software-environment-setup/"><u>Software Environment Setup</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solving-windows-10-network-problems-update-and-fix-ethernet-drivers-with-ease/"><u>Solving Windows 10 Network Problems: Update and Fix Ethernet Drivers with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-blueprint-for-melding-linktree-into-tiktok-profiles/"><u>The Essential Blueprint for Melding Linktree Into TikTok Profiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tighten-up-yuzu-loading-screens-wins-style/"><u>Tighten Up Yuzu Loading Screens, WINs Style</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-volume-woes-simple-tips-to-restore-your-computers-sound/"><u>Windows 10 Volume Woes? Simple Tips to Restore Your Computer's Sound</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-arm-setup-iso-file-to-desktop-conversion-explained/"><u>Windows 11 ARM Setup: ISO File to Desktop Conversion Explained</u></a></li>
+</ul></div>
+

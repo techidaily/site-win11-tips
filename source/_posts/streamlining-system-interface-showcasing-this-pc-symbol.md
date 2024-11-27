@@ -1,7 +1,7 @@
 ---
 title: "Streamlining System Interface: Showcasing 'This PC' Symbol"
-date: 2024-11-12T20:43:01.526Z
-updated: 2024-11-17T17:47:49.919Z
+date: 2024-11-24T16:36:29.310Z
+updated: 2024-11-27T17:44:52.810Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add the "This PC" Icon to Your Windows Desktop
 
  To add the "This PC" icon to your Windows 11 desktop, follow these steps:
@@ -34,8 +38,18 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 3. Go to**Themes** in the right pane.  
 ![Go to Themes in Personalization Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-themes-in-personalization-tab-of-windows-settings-app.jpg)
 4. Click on**Desktop icon settings** under**Related settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Click on Desktop Icon Settings Under Related Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-on-desktop-icon-settings-under-related-settings-in-windows-settings-app.jpg)
 5. In the**Desktop Icon Settings** window, check the box beside**Computer** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then, click on**Apply** and hit**OK** .  
 ![Click OK After Checking the Box Besides Computer in Desktop Icons Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-ok-after-checking-the-box-besides-computer-in-desktop-icons-settings-window.jpg)
 
@@ -43,15 +57,16 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
 ![Click OK After Unchecking the Box Beside Computer in Desktop Icons Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-click-ok-after-unchecking-the-box-beside-computer-in-desktop-icons-settings-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similar to how we have added the "This PC" icon, you can[add other icons to your desktop in Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) , such as Recycle Bin, Network, and Control Panel.
 
  Don't restore the icon settings after making this change. This will reverse our recent change, and the "This PC" icon will again disappear.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easily Add the "This PC" Icon to Your Desktop
@@ -73,22 +88,24 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/fixed-update-windows-10-version-2004-with-conexant-driver/"><u>[Fixed] Update Windows 10 Version 2004 With Conexant Driver</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/iy-video-mastery-10-straightforward-concepts-everyone-should-try/"><u>[New] DIY Video Mastery 10 Straightforward Concepts Everyone Should Try</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-heavy-haulers-face-off-t5-or-sjcam-s6-legend/"><u>[Updated] Heavy Haulers Face-Off T5 or SJCAM S6 Legend?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-type-on-your-apple-device-here-are-6-solutions/"><u>Can't Type on Your Apple Device? Here Are 6 Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-top-5-free-windows-screen-recorders-for-2024/"><u>Comprehensive Guide to Top 5 Free Windows Screen Recorders for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquer-the-0x0-error-essential-fixes-for-win11-users/"><u>Conquer the 0X0 Error: Essential Fixes for Win11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-an-experts-approach-to-cpu-settings-on-pc/"><u>Crafting an Expert's Approach to CPU Settings on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/decorate-your-screen-space-saving-spotlight-images-as-walls/"><u>Decorate Your Screen Space: Saving Spotlight Images as Walls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-seamless-live-stream-quality-with-steam/"><u>Ensuring Seamless Live Stream Quality with Steam</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/flashstoppage-instant-video-quit-guide-for-2024/"><u>FlashStoppage Instant Video Quit Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-critical-js-error-affecting-discord-on-modern-windows-devices/"><u>How to Resolve Critical JS Error Affecting Discord on Modern Windows Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-discovering-6-premium-apps-master-linkedin-video-downloads/"><u>In 2024, Discovering 6 Premium Apps Master LinkedIn Video Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-executing-powerful-registry-changes-via-terminal/"><u>In-Depth Analysis: Executing Powerful Registry Changes via Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-quick-assistance-on-windows-11/"><u>Initiating Quick Assistance on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/protecting-privacy-the-ultimate-windows-encryption-list-152-chars/"><u>Protecting Privacy: The Ultimate Window's Encryption List (152 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snapping-into-action-activate-snipping-tool-in-windows-11/"><u>Snapping Into Action: Activate Snipping Tool in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tame-excessive-system-update-notifications-in-windows-11/"><u>Tame Excessive System Update Notifications in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-flip-the-script-how-to-turn-your-instagram-visuals-into-viral-stars-for-2024/"><u>[New] Flip the Script How to Turn Your Instagram Visuals Into Viral Stars for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professional-precision-flip-canon-photos-from-basic-to-advanced-with-luts/"><u>[Updated] Professional Precision Flip Canon Photos From Basic to Advanced with LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unraveling-the-best-free-srt-translators-your-essential-guidebook/"><u>[Updated] Unraveling the Best Free SRT Translators Your Essential Guidebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-vr-equipment-enhancing-flight-control-for-2024/"><u>Best VR Equipment Enhancing Flight Control for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-file-renaming-challenges-with-powertoys/"><u>Conquer File Renaming Challenges With PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-terminals-magic-five-playful-powers/"><u>Discover the Terminal's Magic: Five Playful Powers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-livestreams-with-manycam-the-ultimate-virtual-camera-solution/"><u>Enhance Your Livestreams with ManyCam - The Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-browsing-speeds-with-microsoft-edge-win10w11/"><u>Enhancing Browsing Speeds with Microsoft Edge, Win10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recognize-and-implement-execution-monikers/"><u>How to Recognize and Implement Execution Monikers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-approaches-to-connecting-via-windows-11-rdc/"><u>Innovative Approaches to Connecting via Windows 11 RDC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-lowering-high-cpu-demand-in-windows-by-tiworkerexe/"><u>Methods for Lowering High CPU Demand in Windows by TiWorker.exe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-eliminate-spontaneous-key-press-responses/"><u>Methods to Eliminate Spontaneous Key Press Responses</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pro-vs-express-uncovering-the-key-differences-in-final-cut/"><u>Pro vs Express Uncovering the Key Differences in Final Cut</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shopping-spree-chronicles-the-editors-blueprint-for-2024/"><u>Shopping Spree Chronicles The Editor's Blueprint for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-chrome-file-handling-on-your-pc-windows-style/"><u>Streamline Chrome File Handling on Your PC, Windows Style</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-retweet-or-not-to-retweet-exploring-the-meaning-of-re-tweets-on-twitter/"><u>To Retweet Or Not to Retweet? Exploring the Meaning of Re-Tweets on Twitter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-error-code-fixing-unreachable-wifi-connections/"><u>Windows 11 Error Code - Fixing Unreachable WiFi Connections</u></a></li>
 </ul></div>
 

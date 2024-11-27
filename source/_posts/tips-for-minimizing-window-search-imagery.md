@@ -1,7 +1,7 @@
 ---
 title: Tips for Minimizing Window Search Imagery
-date: 2024-11-14T16:41:06.876Z
-updated: 2024-11-17T19:56:00.099Z
+date: 2024-11-20T16:58:53.901Z
+updated: 2024-11-27T16:33:24.185Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are There Pictures in Your Search Box?
 
  The illustrations in the search bar are a part of the "Search Highlights" feature that Microsoft introduced beforehand. When you hover your cursor over the illustration or click it, you will see relevant content and images.
@@ -34,16 +38,7 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
  This information is different for both organizations and regular users. If you are signed in to Windows using your work account, you will see information regarding your organization and its employees. On your home PC, you'll see more generic informational content.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable the Illustrations in Windows Search Icons
@@ -56,13 +51,6 @@ Here is how you can do that:
 2. Choose**Search** \>**Show Search Highlights** .  
 ![Taskbar menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/search-highlights-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you have unchecked the Search highlights option, the illustrations will disappear immediately. If this does not work for you, you can also[use the Group Policy to disable search highlights](https://www.makeuseof.com/windows-10-remove-search-highlights/) .
 
 If you are a Windows 11 user, you can use these steps as well:
@@ -70,23 +58,22 @@ If you are a Windows 11 user, you can use these steps as well:
 1. Launch Windows Settings and head over to the**Privacy & Security** section.  
 ![Privacy & Security section in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-privacy--security.jpg)
 2. Click on**Search permissions** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Search permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/search-permissions.jpg)
 3. Head over to the More settings section and turn the toggle off for**Show search highlights** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Search Highlights toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/show-search-highlights-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can also press the Win + S keys together to open the Windows Search utility. Click on the three-dot icon and choose**Search settings** . Once the Settings window launches, you can scroll down to the More settings section and disable**Show search highlights** .
@@ -112,17 +99,18 @@ If you are a Windows 11 user, you can use these steps as well:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-navigating-through-the-10-leading-countdown-clock-apps-for-your-big-day-androidios/"><u>[Updated] In 2024, Navigating Through the 10 Leading Countdown Clock Apps for Your Big Day (Android/iOS)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-xiaomis-precision-flight-insights-via-4k-lens/"><u>[Updated] In 2024, Xiaomi's Precision Flight Insights via 4K Lens</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-windows-11-videography-selecting-best-apps/"><u>[Updated] Windows 11 Videography Selecting Best Apps</u></a></li>
-<li><a href="https://discover-community.techidaily.com/3-easy-steps-to-extract-audio-from-mkv-files-without-cost-or-quality-loss/"><u>3 Easy Steps to Extract Audio From MKV Files Without Cost or Quality Loss</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customization-strategies-altering-functional-keys-in-windows-1011/"><u>Customization Strategies: Altering Functional Keys in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-using-extra-monitors-without-graphic-chipset/"><u>Guide to Using Extra Monitors Without Graphic Chipset</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-exploring-ice-cream-screen-recorder-technology/"><u>In 2024, Exploring Ice Cream Screen Recorder Technology</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-geforce-now-error-xc0f1103f-in-windows-11/"><u>Steps to Resolve GeForce Now Error Xc0f1103f in Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-premier-selection-of-11-costless-yt-moniker-makers-for-2024/"><u>The Premier Selection of 11 Costless YT Moniker Makers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-location-of-desktop-wallpaper-images/"><u>Uncover the Location of Desktop Wallpaper Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-storage-management-for-your-apps/"><u>Windows Storage Management for Your Apps</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/mp45/"><u>【無料】MP4ビデオからクリアなオーディオコンテンツを取り出す:トップ5選定リスト</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-days-gone-down-a-comprehensive-solution-for-gamers-in-2024/"><u>Fixing 'Days Gone Down': A Comprehensive Solution for Gamers in 202#4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-identify-and-eliminate-keygen-virus-from-windows-computers/"><u>How to Identify & Eliminate Keygen Virus From Windows Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g73-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G73 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-continuous-blank-output-resolved/"><u>HP Printer: Continuous Blank Output Resolved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-telnet-connections-win11s-method/"><u>Initiating Telnet Connections: Win11's Method</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-the-art-of-filter-selection-on-instagram-for-2024/"><u>Mastering the Art of Filter Selection on Instagram for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-e-mail-tackling-cant-get-mail-head-on/"><u>Mastering Windows 11'S E-Mail: Tackling Can't Get Mail Head On</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-limitations-rewiring-non-operational-win-apps/"><u>Overcoming Device Limitations: Rewiring Non-Operational Win-Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-windows-0x0000011b-crash-issue/"><u>Remedying the Windows 0X0000011B Crash Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-write-issues-for-steam-folders-on-modern-pcs/"><u>Tackling Write Issues for Steam Folders on Modern PCs</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-review-of-lazlive-live-selling-platform-with-guide/"><u>Updated Review of LazLive Live Selling Platform With Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-debugging-tips-overcoming-the-obstacle-of-error-6634-in-call-of-duty/"><u>Warzone Debugging Tips: Overcoming the Obstacle of Error 6634 in Call of Duty</u></a></li>
 </ul></div>
 

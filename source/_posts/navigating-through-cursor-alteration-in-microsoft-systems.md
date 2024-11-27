@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Cursor Alteration in Microsoft Systems
-date: 2024-11-11T19:15:47.228Z
-updated: 2024-11-17T20:36:51.386Z
+date: 2024-11-23T17:10:55.603Z
+updated: 2024-11-27T16:01:28.794Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![mouse settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/mouse-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To launch your mouse settings, head to the**Start menu** search bar, type in "mouse," and select the**Change your mouse settings** option. Now, in**Change your mouse settings** , click on**Additional mouse options** .
 
 ![touchpad settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/touchpad-settings-1.JPG)
@@ -44,15 +48,16 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 ![scheme settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scheme-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Apart from the Scheme, you also get a fairly different number of ways to customize your mouse. For example, click**Browse** under the**Customize** section, and you'll get a list of cursor options to pick from. Select the cursor you want and click on**Open** .
 
  Finally, click on**Apply** to confirm your new cursor settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Change the Color of Your Cursor
 
@@ -63,16 +68,7 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 ![mouse pointer color](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/mouse-pointer-color.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak the Cursor Size
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 * Open the**Mouse** settings page from the Windows Settings.
 * Click on**Adjust mouse & cursor size** .
 * Now, drag the pointer under the**Change point size** menu to adjust the cursor size.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Change the Cursor Speed
 
@@ -108,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 * Select the**Make mouse easier to use** option.  
 ![make the mouse easier to use](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/make-the-mouse-easier-to-use.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the next page, you'll get three different sections from where you can tweak your mouse settings:
 
 1. Mouse pointers
@@ -126,19 +119,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
  Next, the**Control the mouse with the keyboard** section lets you turn on your mouse keys, which basically means you can move your mouse around with the numeric keypad itself.
 
  Similarly, when you check the radio box for**Turn on Mouse Keys** , you'll be able to use a numeric keypad to move the mouse around the screen.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Customize Your Windows Cursor to Your Taste
 
@@ -159,21 +139,22 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-sensational-headline-architect/"><u>[New] Sensational Headline Architect</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-surrender-to-serenity-top-10-game-guides/"><u>[Updated] 2024 Approved Surrender to Serenity Top 10 Game Guides</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-guide-to-youtube-openers-aandb-methods/"><u>[Updated] In 2024, The Ultimate Guide to YouTube Openers A&B Methods</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-art-of-storytelling-integrating-captions-into-your-instagram-videos-for-2024/"><u>[Updated] The Art of Storytelling Integrating Captions Into Your Instagram Videos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-essential-checklist-for-using-zoom-on-your-windows-pc/"><u>[Updated] The Essential Checklist for Using Zoom on Your Windows PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-ways-for-fee-free-pictorial-clips/"><u>2024 Approved Navigating the Ways for Fee-Free Pictorial Clips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-motorola-razr-40-ultra-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Motorola Razr 40 Ultra Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conserve-power-implementing-idle-shutdown-on-windows-11-pcs/"><u>Conserve Power: Implementing Idle Shutdown on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-concept-maps-in-obsidian-note-taking/"><u>Crafting Concept Maps in Obsidian Note-Taking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiency-boosters-keyboard-tricks-for-3d-artists/"><u>Efficiency Boosters: Keyboard Tricks for 3D Artists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-device-recognition-failure-during-installation/"><u>Fixing Windows Device Recognition Failure During Installation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-a24-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy A24 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-system-incompatibility-issues-caused-by-intel-hd-graphics/"><u>Mending System Incompatibility Issues Caused by Intel HD Graphics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-7-ways-to-revitalize-your-windows-service-management-application/"><u>The Ultimate Guide to 7 Ways to Revitalize Your Windows Service Management Application</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-code-0x8007045d-in-windows-1011/"><u>Troubleshooting Error Code 0X8007045D in Windows 10/11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-15-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 15 Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-real-time-recording-tech-that-never-delays-you/"><u>[New] 2024 Approved Real-Time Recording Tech That Never Delays You</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-10-proplus-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-black-ops-cold-war-unstucking-and-fixing-compiling-shaders-problems/"><u>Call of Duty Black Ops Cold War: Unstucking and Fixing 'Compiling Shaders' Problems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-the-french-conversation-vocabulary-for-travelers/"><u>Conquer the French Conversation: Vocabulary for Travelers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-freshness-in-group-policies-for-secure-windows-networks/"><u>Ensuring Freshness in Group Policies for Secure Windows Networks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-techniques-for-yt-video-tweaking-with-wm-maker/"><u>Essential Techniques for YT Video Tweaking with WM Maker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-command-prompt-popping-up-by-itself-on-windows/"><u>How to Fix Command Prompt Popping Up by Itself on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-set-a-custom-inactivity-lock-time-on-windows/"><u>How to Set a Custom Inactivity Lock Time on Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-se-2020-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone SE (2020) iCloud Activation Lock</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-windows-registry-tweaks-the-ultimate-dialog-on-changing-settings/"><u>Mastering Windows Registry Tweaks: The Ultimate Dialog on Changing Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-tpm-problems-on-windows-11-masterly/"><u>Navigating TPM Problems on Windows 11 Masterly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-your-save-config-in-pubg-windows-edition/"><u>Reclaiming Your Save Config in PUBG (Windows Edition)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverse-webcam-issue-in-win11-eliminating-error-a00f4289/"><u>Reverse Webcam Issue in Win11: Eliminating Error A00F4289</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-starcraft-2-end-game-crashes-and-how-to-fix-them/"><u>Troubleshooting Guide for Starcraft 2 - End Game Crashes & How to Fix Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-power-commands-with-sudo-on-windows/"><u>Unlocking Power Commands with Sudo on Windows</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-behind-the-screens-the-leading-bgm-audio-selections/"><u>Updated In 2024, Behind the Screens The Leading BGM Audio Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizardry-creative-solutions-to-software-access/"><u>Windows Wizardry: Creative Solutions to Software Access</u></a></li>
 </ul></div>
 

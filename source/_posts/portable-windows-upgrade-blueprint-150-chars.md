@@ -1,7 +1,7 @@
 ---
 title: Portable Windows Upgrade Blueprint (150 Chars)
-date: 2024-11-12T17:38:08.421Z
-updated: 2024-11-17T20:50:26.861Z
+date: 2024-11-22T17:42:35.227Z
+updated: 2024-11-27T17:07:37.801Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Download and Install Portable Update
 
  To kick things off, you'll need to [connect your PC to the internet](https://www.makeuseof.com/how-to-connect-computer-to-wifi/) and download [Portable Update](https://www.portableupdate.com/), which will be in a ZIP file. Go to where you downloaded the ZIP file, extract it, and place the extracted folder in a USB drive, such as a flash drive or external hard drive.
@@ -33,7 +37,15 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 ![the Portable Update folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-portable-update-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After launching Portable Update, click on **Start** for the app to download the files it needs to run. This process shouldn't take long, and when it's done, the app should open completely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan for the Update Files
 
@@ -41,24 +53,18 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 ![an empty search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/an-empty-search-tab-in-portable-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the Portable Update completes its search, it will list the available Windows updates that you can download.
 
 ![a populated search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-populated-search-tab-in-portable-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, that you know what's available, it's time to download the files for offline installation.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Download the Windows Update You Want
@@ -71,19 +77,6 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 ![the Cache folder in the Portable Update folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-cache-folder-in-the-portable-update-folder.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you're ready to move the program over to the offline computer.
 
 ## 4\. Install the Selected Windows Updates
@@ -92,36 +85,11 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 ![the Install tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-install-tab-in-portable-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After Portable Update does its thing, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/) to let the OS finish installing the updates on its side of things (like it normally does).
 
 ## Install Windows Updates Another Way
 
  You can update an offline computer easily with Portable Update. As long as you have the program and all the necessary Windows Update files, the process should be a breeze. The best part is that you can update any other computer that needs an update this way, even if it has internet access.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-roadmap-for-success-mastering-the-art-of-fb-reel-production/"><u>[Updated] 2024 Approved The Roadmap for Success Mastering the Art of FB Reel Production</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-learn-the-solution-to-instagram-video-issues/"><u>[Updated] In 2024, Learn the Solution to Instagram Video Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-wwii-how-to-fix-black-screen-issues-on-a-windows-pc-solution/"><u>Call of Duty WWII - How to Fix Black Screen Issues on a Windows PC [SOLUTION]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-10-innovative-modifications-revealed/"><u>ChatGPT Unleashed: 10 Innovative Modifications Revealed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/closer-inspection-pro-tips-for-pixelated-play/"><u>Closer Inspection Pro Tips for Pixelated Play</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-faults-0x0000004e-demystified/"><u>Mastery of Windows Faults: 0X0000004E Demystified</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-wins-alert-settings-on-windows-11/"><u>Perfecting Wins Alert Settings on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reworking-the-windows-experience-a-triad-of-tips/"><u>Reworking the Windows Experience: A Triad of Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-error-30005-creating-files-unsuccessful-in-windows/"><u>Solving Error 30005: Creating Files Unsuccessful in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-turn-offon-smartfiltration-on-windows-11/"><u>Steps to Turn Off/On SmartFiltration on Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-tutorial-preserve-your-dvd-movies-in-high-quality-mkv-format-using-makemkv-on-windows-1110plus/"><u>Ultimate Tutorial: Preserve Your DVD Movies in High-Quality MKV Format Using MakeMKV on Windows 11/10+</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-repairing-error-message-code-31-in-microsoft-windows/"><u>Understanding and Repairing Error Message Code 31 in Microsoft Windows</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/vod-in-ogg-vorbis-format-vob-to-high-quality-lossless-audio-flac-free-conversion-tool-by-movavi/"><u>VOD in Ogg Vorbis Format (VOB) to High-Quality Lossless Audio (FLAC): Free Conversion Tool by Movavi</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +98,21 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-sound-recording-tools-11-selection/"><u>[New] Elite Sound Recording Tools - #11 Selection</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-hps-visionary-color-display-dissecting-the-z32x-monitor/"><u>[Updated] In 2024, HP’s Visionary Color Display Dissecting the Z32X Monitor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-screenshotsweeperpro-next-gen-bg-removal-tool/"><u>[Updated] ScreenshotSweeperPro Next-Gen BG Removal Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subtitles-that-shine-discover-the-best-free-online-tools/"><u>[Updated] Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/all-about-bmp-image-files-exploring-opening-techniques-and-uses/"><u>All About BMP Image Files – Exploring Opening Techniques & Uses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-video-smoothing-applications-of-202-the-year-with-pay-free-choices-available/"><u>Best Video Smoothing Applications of 202 the Year, With Pay-Free Choices Available</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargas-gratuitas-de-conversion-transformar-archivos-aif-a-formato-wmv-con-movavi/"><u>Descargas Gratuitas De Conversión: Transformar Archivos AIF a Formato WMV Con Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-perfect-photos-ranking-the-top-11-bridge-cameras/"><u>In 2024, Perfect Photos Ranking the Top 11 Bridge Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726220879793-2024/"><u>𝗠𝗮'𝘃'𝗶𝘁𝗵-2024: 𝗕𝗲𝗼𝗿𝗸𝗮𝗹𝗹𝗹 𝗧𝗵𝗮'𝘁 𝗶𝘀𝗰𝗲𝗻𝘂𝘇𝗶𝗱𝗮𝘁 🚹🚺 | 𝗡𝗼𝘃𝗼𝘀𝘄𝗶𰨒: 𝗦𝗸𝗶𝘀 𝗮𝗹𝗱'𝘁𝘂𝗿𝗻𝗲𝗻𝘀</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-technology-tips-and-reviews-with-tom/"><u>Navigating the World of Computer Technology: Tips and Reviews with Tom</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-htc-u23-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on HTC U23 and Browser | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quest-headphones-and-facebook-how-to-break-the-connection-easily/"><u>Quest Headphones and Facebook: How to Break the Connection Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tarkov-patch-guide-fixed-amd-visual-issues/"><u>Tarkov Patch Guide: Fixed AMD Visual Issues</u></a></li>
+</ul></div>
+

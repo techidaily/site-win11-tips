@@ -1,7 +1,7 @@
 ---
 title: "Pagefile.sys Explained: Its Relevance and Potential Risks"
-date: 2024-11-15T17:06:23.846Z
-updated: 2024-11-17T19:40:26.238Z
+date: 2024-11-22T17:52:38.076Z
+updated: 2024-11-27T17:29:43.833Z
 tags:
   - windows10
   - windows11
@@ -54,10 +54,7 @@ Here's what you need to know.
 5. In the warning that pops up, click**Yes** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. A bit further up, you see**Hidden files and folders** . Inside it, check the**Show hidden files, folders, and drives** radio button.
@@ -65,7 +62,15 @@ Here's what you need to know.
 8. Scroll down in your local drive, and you’ll be able to see Pagefile.sys.  
 ![the pagefile.sys file in the root folder of the local drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/pagefile-sys-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, the Pagefile.sys file is quite large, which makes many people think deleting it is a good idea when they're running out of storage space.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should You Delete Pagefile.sys?
 
@@ -78,10 +83,7 @@ Here's what you need to know.
  So unless your physical memory needs aren’t greater than your installed RAM’s capacity, we recommend leaving Pagefile.sys alone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Delete Pagefile.sys
@@ -90,30 +92,21 @@ Here's what you need to know.
 
 ![deleting-pagefile-error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-pagefile-error.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, there’s another method you can use to delete the file and save some disk space. To do that, follow the steps below.
 
 1. Press**Win + S** to open Windows Search.
 2. Type**sysdm.cpl** in the search box and hit the**Enter** key to open the System Properties window.  
 ![searching for sysdm.cpl in windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-search-sysdm-cpl.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the system properties dialog box in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/system-properties-advanced.jpg)
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .  
 ![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
 5. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click on the radio button for**No paging file** , and click the**Set** button on the right.  
 ![the Virtual Memory window on Windows with the No paging radio button ticked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-no-paging-windows.jpg)
@@ -122,13 +115,6 @@ Here's what you need to know.
 9. Restart your Windows computer for the changes to take effect.
 
  When Windows boots back up, the OS will have no use for Pagefile.sys, and it will delete it from your local drive. It will also delete the Swapfile.sys along with it. If you don't know what that file is and its importance, please read our guide on[what Swapfile.sys is and if you can delete it](https://www.makeuseof.com/windows-swapfile-sys-guide/) .
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Restore Pagefile.sys
 
@@ -140,6 +126,11 @@ Now, to bring back Pagefile.sys, follow the steps below:
 2. In the text box, enter**sysdm.cpl** and then hit the**Enter** key to launch the System Properties window.  
 ![opening the System Properties window using Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-system-properties-windows-run.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .
 5. In the Virtual Memory window, make sure the**Automatically manage paging file size for all drives** checkbox at the top is checked.
 6. Click on**OK** to close the Virtual Memory window and apply the changes.
@@ -164,19 +155,6 @@ Now, to bring back Pagefile.sys, follow the steps below:
 9. Click**OK** to close the Virtual Memory window and apply the changes.
 10. Restart your Windows computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pagefile.sys, Demystified
 
  Pagefile.sys is an extremely important file when it comes to keeping your Windows computer running smoothly. It helps give your PC's RAM more breathing room when physical memory can no longer hold more data. You can delete it, but only do so when you know your computer's RAM has enough capacity to stand on its own. If not, you’re better off just resizing Pagefile.sys so it doesn’t take up too much space.
@@ -198,19 +176,20 @@ Now, to bring back Pagefile.sys, follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-ultimate-guide-youtube-keyword-research-made-easy/"><u>[New] In 2024, The Ultimate Guide YouTube Keyword Research Made Easy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-revamping-imagery-leading-insta-edits-explored/"><u>[Updated] Revamping Imagery Leading Insta Edits Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-use-a-ps5-controller-on-a-ps4/"><u>Can You Use a PS5 Controller on a PS4?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparative-analysis-of-windows-toolsets-chkdsk-sfc-and-dissect/"><u>Comparative Analysis of Windows Toolsets: CHKDSK, SFC, & Dissect</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-samsung-galaxy-note-9-evaluation-top-device-with-large-display/"><u>Expert Samsung Galaxy Note 9 Evaluation: Top Device with Large Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-resolving-dxgierror-on-windows-11-devices/"><u>Guidelines for Resolving DXGIError on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reclaim-write-permissions-on-windows-folders/"><u>How to Reclaim Write Permissions on Windows Folders</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-directdraw-hurdles-in-windows-1011-systems/"><u>Resolving DirectDraw Hurdles in Windows 10/11 Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-a51-5g-review-a-strong-5g-bargain/"><u>Samsung Galaxy A51 5G Review: A Strong 5G Bargain</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-error-incorrect-token-usage-in-windows-os/"><u>Steps to Address “Error: Incorrect Token Usage” In Windows OS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-infinix-hot-40-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Infinix Hot 40 Phone Hassle-Free</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-of-the-philips-hf3505-alarm-clock-with-natural-wake-up-light-technology/"><u>Unveiling the Benefits of the Philips HF3505 Alarm Clock with Natural Wake-Up Light Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-search-box-how-to-use-it-in-win11-tm/"><u>Unveiling the Hidden Search Box – How to Use It in Win11 TM</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-essential-8-platforms-for-private-screenings-for-2024/"><u>[Updated] Essential 8 Platforms for Private Screenings for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-optimal-audio-10-best-microphones-for-action-footage/"><u>2024 Approved Optimal Audio 10 Best Microphones for Action Footage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-best-practices-to-reduce-network-delays-and-boost-gaming-performance/"><u>2024'S Best Practices to Reduce Network Delays and Boost Gaming Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-classroom-feel-in-win-11-ui/"><u>Customize Classroom Feel in Win 11 UI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-webcam-driver-software-for-windows-creative-edition/"><u>Get the Latest Webcam Driver Software for Windows - Creative Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-grab-a-full-picture-of-your-work-screenshots-on-hp-systems-explained/"><u>How to Grab a Full Picture of Your Work: Screenshots on HP Systems Explained</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-sony-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Sony ?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-from-watch-list-to-download-youtube-playlist-in-minutes/"><u>In 2024, From Watch List to Download YouTube Playlist in Minutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hidden-realms-of-windows-protection-zones/"><u>Navigating the Hidden Realms of Windows Protection Zones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-error-0x80073d26-in-the-store/"><u>Navigating Through Windows' Error 0X80073D26 in the Store</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-high-cpu-usage-in-the-latest-game-version/"><u>Solving High CPU Usage in the Latest Game Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-unreachable-spotify-problem-in-w10-and-w11/"><u>Tackling the Unreachable Spotify Problem in W10 & W11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/text-techniques-top-10-video-enhancers-for-2024/"><u>Text Techniques Top 10 Video Enhancers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-key-differences-between-offline-and-onsite-windows-installation/"><u>Understanding Key Differences Between Offline and Onsite Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-alternatives-to-traditional-uac-practices-on-windows/"><u>Unveiling Alternatives to Traditional UAC Practices on Windows</u></a></li>
 </ul></div>
 

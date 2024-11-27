@@ -1,7 +1,7 @@
 ---
 title: "Winning Cyber Safety: 7 Strategies for Blocking Unauthorized Access"
-date: 2024-11-14T16:07:04.234Z
-updated: 2024-11-17T18:28:39.425Z
+date: 2024-11-26T16:30:20.829Z
+updated: 2024-11-27T17:30:49.948Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the Point of Security Measures Against Unauthorized Windows Access?
 
  At its core, using strong security measures on your Windows is really just about that: keeping your security tight, so you are not open to abrupt attacks.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
  For example, if you use your Windows computer in a public environment like a library or cafe, you will inadvertently make yourself vulnerable to network hacks of different sorts. Similarly, if your computer is accessed by many people, a lack of solid safety measures can turn out to be very costly.
 
  Putting in strong checks against such attacks, therefore, is essential. Let's look at all possible options on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use a Strong PIN or Password
 
@@ -50,10 +58,7 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
  You can check out how to do this and more as part of our [tricks to keep your Outlook and Microsoft accounts secure](https://www.makeuseof.com/tag/tricks-outlook-microsoft-account-secure/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Windows Security
@@ -62,33 +67,16 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
  Weak antivirus protection can let any malware get an easy foothold on your PC, and from there, it's far too easy to obtain unauthorized access or take other malicious actions on your PC. [Enabling Windows Security](https://www.makeuseof.com/enable-windows-security-app-windows-10/) and setting up the best protection practices will be your best bet against such unauthorized action.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Use a Firewall
 
 ![windows firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/winodws-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another critical aspect of Windows security, or any network for that matter, is a firewall. A firewall works by monitoring the traffic going in and out of your PC. Depending on the set rules, a firewall works by quickly blocking out any unauthorized entering or leaving of data from your PC.
 
  On Windows, this firewall is called the Windows Firewall, which you can enable or disable with the help of Windows Security. So be sure to [set up Windows Firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) and you will be good to go.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use BitLocker
@@ -100,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ## 6\. Keep Your Windows Updated
 
 ![update on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows updates are a vital component for any PC. They patch up recurring bugs and bring in new features. Most importantly, they install the latest Windows security updates.
 
@@ -127,23 +119,6 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
  This is what makes preventing unauthorized access so important. So, how can you protect yourself from an uninvited digital guest? Let's learn how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-photopeas-background-erase-technique-for-2024/"><u>[New] Mastering Photopea's Background Erase Technique for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-boost-your-tiktok-presence-zoom-integration-guide/"><u>[Updated] Boost Your TikTok Presence Zoom Integration Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-attraction-top-20-fonts-for-impactful-youtube-thumbnails/"><u>[Updated] The Art of Attraction Top 20 Fonts for Impactful YouTube Thumbnails</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-image-jokes-how-to-create-memetic-gold/"><u>2024 Approved Image Jokes How to Create Memetic Gold</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-the-msvcr110dll-absence-a-fix-guide/"><u>Combatting the Msvcr110.dll Absence: A Fix Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-fueled-conversions-enhancing-site-traffic-and-engagement/"><u>Cookiebot-Fueled Conversions: Enhancing Site Traffic & Engagement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-edit-your-fax-cover-using-windows-11-tools/"><u>How to Edit Your Fax Cover Using Windows 11 Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-pioneering-platform-presence-innovative-square-video-methods/"><u>In 2024, Pioneering Platform Presence Innovative Square Video Methods</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-mac-video-editors-similar-to-vsdc-for-2024/"><u>New Top Mac Video Editors Similar to VSDC for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sharpen-skills-and-speed-up-valorant-tips-for-top-performance/"><u>Sharpen Skills & Speed Up: Valorant Tips for Top Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-faulty-volume-shadows-in-win/"><u>Troubleshooting Faulty Volume Shadows in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-and-purge-windows-empties-a-compre-cooking-instruction/"><u>Uncover & Purge Window's Empties: A Compre Cooking Instruction</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -151,3 +126,25 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-a-comprehensive-guide-to-ps3-gameplay-recording/"><u>[New] A Comprehensive Guide to PS3 Gameplay Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-video-organization-the-art-of-chapter-addition/"><u>[Updated] YouTube Video Organization The Art of Chapter Addition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stepwise-manual-harnessing-googles-automatic-conversion-service/"><u>2024 Approved Stepwise Manual Harnessing Google's Automatic Conversion Service</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-options-menu-win11-pointer-personalization-guide/"><u>Navigate the Options Menu: Win11 Pointer Personalization Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-music-production-software-the-top-11-options/"><u>New 2024 Approved Free Music Production Software The Top 11 Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-windows-future-with-ai-tech-trends/"><u>Pioneering Windows' Future with AI Tech Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tools-for-windows-users-mastering-command-line-shortcuts/"><u>Pro Tools for Windows Users: Mastering Command-Line Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-silencing-tactic-windows-11-ping-stopper/"><u>Rapid Silencing Tactic: Windows 11 Ping Stopper</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/recording-revolution-tactics-for-extracting-live-data/"><u>Recording Revolution Tactics for Extracting LIVE Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-the-lack-of-rockalldlldll-in-windows/"><u>Remedy for the Lack of Rockalldll.dll in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-steps-to-configure-intel-ethernet-drivers/"><u>Simplified Steps to Configure Intel Ethernet Drivers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-ultimate-display-dilemma-comparing-premium-8k-tvs-for-2024/"><u>The Ultimate Display Dilemma Comparing Premium 8K TVs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-tasks-cleaning-out-your-computers-windows-os/"><u>Top 8 Tasks: Cleaning Out Your Computer's Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-faster-boot-times-windows-11-guide/"><u>Unleashing Faster Boot Times: Windows 11 Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-pro-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-the-power-of-transitions-in-final-cut-pro-3-expert-methods/"><u>Updated Unleash the Power of Transitions in Final Cut Pro 3 Expert Methods</u></a></li>
+</ul></div>
+

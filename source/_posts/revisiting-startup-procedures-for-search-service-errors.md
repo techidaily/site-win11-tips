@@ -1,7 +1,7 @@
 ---
 title: Revisiting Startup Procedures for Search Service Errors
-date: 2024-08-28T01:16:16.828Z
-updated: 2024-08-29T01:16:16.828Z
+date: 2024-11-25T17:41:05.170Z
+updated: 2024-11-27T17:25:51.728Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 ![Windows Search Results Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-results.jpg)
 * **Check for updates:** If you're experiencing issues with the Windows Search service, try [manually updating Windows](https://www.makeuseof.com/update-windows-manually/) once.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These are just a few basic ways we expect to work in case of a Windows search error. But, if you're still unable to search for anything, move to some advanced troubleshooting methods.
 
 ## 2\. Restart the Relevant Windows Services
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 3. To restart the services, right-click on each of the following and select the **Restart** option: **Background Tasks Infrastructure Service**, **Remote Procedure Call (RPC)**, and **Windows Update**.
 
 ![Windows Update Service In Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-update-service.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. Now restart your system and check for the search error. If you’re still facing the Windows search could not start error, restarting the dependent services should do the trick. So, take your time and restart the services once.
 
@@ -69,22 +77,20 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 2. Click on **Administrative Templates > Windows Components > Search** to access all the settings related to Windows search.  
 ![Local Group Policy Editor Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/local-group-policy-editor-windows.jpg)
 3. Double-click on **Fully Disable Search UI** and select **Not Configured**. Click **OK** to save the changes and exit the settings wizard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Search Policy Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-policy-setting.jpg)
 4. You have to do the same thing, i.e., double-click, then select **Not Configured** and click **OK** with each of the following policies: **Do not allow web search**, **Configures search on the taskbar**, and **Allow search highlights**
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Group Policy Editor is an advanced tool, and incorrect tweaks can cause system instability. So, be careful to change only the mentioned settings. If a setting is unavailable or locked on your computer, proceed to the next one.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Enable Windows Search Service via MSConfig
 
  The MSConfig utility (System Configuration tool) is a built-in feature that provides a central hub for troubleshooting and managing various aspects of your system. It's pretty handy and can prove helpful for you if the Windows search service is not working.
@@ -96,14 +102,20 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 3. At the top of the wizard, click on the **Services** tab.  
 ![Windows System Configuration Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-system-configuration-wizard.jpg)
 4. Scroll down the list and look for the **Windows Search** service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If it's unchecked, check the box next to **Windows Search** to enable it, then click **Apply** and **OK**.  
 ![Windows Search In MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-in-msconfig.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Besides this, MSConfig has many other use cases. Read our in-depth guide on [Microsoft System Configuration Utility (MSConfig)](https://www.makeuseof.com/windows-msconfig-guide/) to know some of them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Delete Files in the Windows TxR Directory
 
  TxR (Transaction Resource Manager) is a directory (folder) that keeps track of all the changes you make to Windows files.
@@ -116,23 +128,19 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 2. Navigate to the TxR directory (**C:\\windows\\system32\\config\\TxR**). The first time you open the folder, it'll show **This folder is empty**.  
 ![Windows TxR Directory Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-txr-directory-path.jpg)
 3. Click on **View** at the top bar of the File Explorer. Then, go to **Show** and tick **Hidden items**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Hidden Items File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hidden-items-file-explorer.jpg)
 4. Similarly, click on the three-dot menu at the top. Click **Options > View**. Scroll down and uncheck or disable **Hide protected operating system files (Recommended)**.  
 ![File Explorer Folder Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/file-explorer-folder-options.jpg)
 5. Now all the files inside the directory should be visible to you. Please select all the files (**Ctrl + A**) and then delete them.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Windows TxR Directory Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-txr-directory-files.jpg)
 
  The steps might seem too complex, but the screenshots should help you. Besides, as Microsoft recommends, there's no harm in deleting the files in case of search service-related errors.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reset Windows Search
 
  Microsoft provides a PowerShell script on their website to reset Windows search. We'll show you how to use it and get the search service working on your computer again.
@@ -141,14 +149,8 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
 ![PowerShell Script Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/powershell-script-context-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The script will now reset the search-related options and settings to their default state. Once done, open the Windows search bar and type something to check whether it's working.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reinstall Windows
 
  Unfortunately, if none of the solutions worked, your last option is reinstalling Windows. For this, see [how to reinstall Windows](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/). There's no need to worry; this reinstallation will not remove any important files and apps.
@@ -163,11 +165,24 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
  In this guide, we'll look at some troubleshooting methods to resolve the Windows Search service error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-social-media-sensation-making-your-vids-pop-for-2024/"><u>[New] Social Media Sensation Making Your Vids Pop for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-universal-guide-to-capturing-cinema-pc-mac-and-mobile-edition/"><u>[Updated] 2024 Approved Universal Guide to Capturing Cinema PC, Mac & Mobile Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-extending-your-wireless-network-range/"><u>Comprehensive Guide to Extending Your Wireless Network Range</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-on-how-to-maintain-optimal-performance-by-updating-audio-technica-drivers/"><u>Expert Tips on How to Maintain Optimal Performance by Updating Audio Technica Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-9-techniques-to-access-windows-11s-auditory-configuration/"><u>Explore 9 Techniques to Access Windows 11'S Auditory Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-harness-the-power-of-windows-print-management-console/"><u>How to Harness the Power of Windows Print Management Console</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-immediate-remedy-of-iomap64-freeze-in-winos/"><u>Strategies for Immediate Remedy of IOMap64 Freeze in WinOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/three-tactics-integrating-chatgpt-and-wolframalpha/"><u>Three Tactics: Integrating ChatGPT & WolframAlpha</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-windows-experience-with-taskbar-insights/"><u>Transform Your Windows Experience with Taskbar Insights</u></a></li>
+</ul></div>
+

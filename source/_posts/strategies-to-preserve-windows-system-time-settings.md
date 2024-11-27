@@ -1,7 +1,7 @@
 ---
 title: Strategies to Preserve Windows System Time Settings
-date: 2024-08-28T01:14:44.887Z
-updated: 2024-08-29T01:14:44.887Z
+date: 2024-11-20T16:46:57.285Z
+updated: 2024-11-27T16:21:07.472Z
 tags:
   - windows10
   - windows11
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
  You’re using your Windows device and notice something strange in the date and time settings. Someone has changed the settings without your knowledge or permission. This makes it difficult to stay on schedule with tasks and activities. In this guide, we’ll show how to stop anonymous users from changing date and time settings on Windows computers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Prevent Users From Changing the Date and Time on Windows
 
  There are two ways to prevent users from changing Windows date and time. The first is to use Group Policy Editor, a system administration tool designed to control computer behavior in an organization. While the second way is to use Registry Editor, which allows you to modify Windows registry settings.
 
  For both methods, you need administrative access to the computer to change it. Once you’ve made the changes, nobody can alter the date and time settings. Let’s look at each method in more detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use the Group Policy Editor
 
@@ -39,15 +47,17 @@ Computer Configuration > Administrative Templates > System > Locale Services
 4. In the right-side pane, double-click on **Disallow user override of locale settings**.  
 ![Disallow user override of locale settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disallow-user-override-of-locale-settings.jpg)
 5. In the pop-up window, check the **Enabled** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then click **Apply** \> **OK** to save the changes.
 
  This will block anyone from changing the date and time settings on your computer. However, if you have administrative access to the computer, you can still alter the settings.
 
  If you want to revert to the default settings later, open Group Policy Editor again and change the value of Disallow user override of locale settings back to Not Configured or Disabled. This way, users can change the time and date again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Tweak the Registry Editor
 
  If you’re using Windows Home Edition or have disabled the Group Policy Editor, use the Registry Editor to protect date and time settings. This method is more advanced and has a higher risk of system damage.
@@ -66,8 +76,9 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 7. Double-click on the **PreventUserOverrides** DWORD value.  
 ![Use Registry Editor to Prevent Users From Chaning date and time settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-registry-editor-to-prevent-users-from-chaning-date-and-time-settings.jpg)
 8. In the pop-up window, change the Value data to **1** and click **OK**.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve made the changes, close the Registry Editor window and restart your computer.
@@ -75,13 +86,12 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
  To undo this restriction, delete the **PreventUserOverrides** DWORD value from the registry or change the value to **0**. Doing so will enable users to change the time and date again.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stop Windows Time and Date Changes
 
  Now stop unauthorized users from changing the date and time settings on your Windows computer. This keeps your tasks and activities on track. If necessary, you can always undo this restriction.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -89,3 +99,23 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elite-remote-meeting-apps-beyond-zoom/"><u>[New] 2024 Approved Elite Remote Meeting Apps Beyond Zoom</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-comprehensive-guide-to-capturing-perfect-instagram-covers/"><u>[New] 2024 Approved The Comprehensive Guide to Capturing Perfect Instagram Covers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-video-editors-top-8-linux-picks/"><u>[New] Ultimate Video Editors Top 8 Linux Picks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-speech-to-text-technology-absolutely-gratuitous/"><u>[Updated] 2024 Approved Speech-to-Text Technology, Absolutely Gratuitous</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-virtual-background-for-google-meet-video-call-for-2024/"><u>Best Virtual Background for Google Meet Video Call for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-microsoft-store-glitches-code-0x80073cf3/"><u>Conquering Microsoft Store Glitches: Code 0X80073CF3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/error-code-0xc0000185-what-it-is-and-how-to-fix-it/"><u>Error Code 0Xc0000185: What It Is and How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-address-incorrect-file-history-on-your-pc/"><u>Guidelines to Address “Incorrect File History” On Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-identify-and-eliminate-keygen-virus-from-windows-computers/"><u>How to Identify & Eliminate Keygen Virus From Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-browser-blackouts-tactics-to-reopen-sites-in-windows/"><u>Navigating Browser Blackouts: Tactics to Reopen Sites in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-chrome-hurdles-in-w11-effective-steps-herein/"><u>Overcoming Chrome Hurdles in W11 – Effective Steps Herein</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-power-management-lowering-user-mode-service-usage-in-windows/"><u>Precision Power Management: Lowering User-Mode Service Usage in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-sync-error-resolution-in-ms-to-do-app/"><u>Streamlining Sync Error Resolution in MS To-Do App</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-professional-grade-art-tablets-for-designers-2024-selection/"><u>Top 5 Professional-Grade Art Tablets for Designers - 2024 Selection</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722489198434-unbeatable-prime-day-offers-hunt-the-best-apple-bargains/"><u>Unbeatable Prime Day Offers: Hunt the Best Apple Bargains!</u></a></li>
+</ul></div>
+

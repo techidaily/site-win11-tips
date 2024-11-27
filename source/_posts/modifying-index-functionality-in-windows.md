@@ -1,7 +1,7 @@
 ---
 title: Modifying Index Functionality in Windows
-date: 2024-11-14T18:16:40.511Z
-updated: 2024-11-17T17:59:10.581Z
+date: 2024-11-20T16:02:48.135Z
+updated: 2024-11-27T16:09:52.016Z
 tags:
   - windows10
   - windows11
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 ![Open Indexing Options Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-using-search-tool.jpg)
 2. In the search bar, type "Indexing Options" and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This should open the Indexing Options window for you to use.
 
 ## 4\. How to Open Indexing Options Using a Run Command
@@ -68,6 +61,10 @@ This should open the Indexing Options window for you to use.
 1. Open the Run dialog box (see[how to open the Run dialog box on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).
 2. Type "control.exe srchadmin.dll" in the search box and hit**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. How to Open Indexing Options via Command Prompt
 
  Command Prompt is a powerful tool on Windows that helps you quickly access various system functions. To open Indexing Options using Command Prompt, follow these steps:
@@ -76,14 +73,12 @@ This should open the Indexing Options window for you to use.
 2. Next, copy and paste the following command and press**Enter** :  
 ![Open Indexing Options Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-using-command-prompt.jpg)  
 control.exe srchadmin.dll
-3. This will launch the Indexing Options dialog box, where you can adjust the indexing options.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. This will launch the Indexing Options dialog box, where you can adjust the indexing options.
 
 ## 6\. How to Open Indexing Options With a Desktop Shortcut
 
@@ -93,9 +88,18 @@ control.exe srchadmin.dll
 2. Then type "control.exe srchadmin.dll" and click**Next** .  
 ![Open Indexing Options With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-with-desktop-shortcut.jpg)
 3. Give your shortcut a name like Indexing Options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now click**Finish** to save your changes.
 
  The Indexing Options shortcut will appear on your desktop. To open it, double-click the shortcut icon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How to Open Indexing Options Using Shortcut Key
 
@@ -108,17 +112,7 @@ control.exe srchadmin.dll
 4. Click**Apply > OK** . You will now have a shortcut key created.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting Easy Access to the Indexing Options
@@ -140,18 +134,21 @@ control.exe srchadmin.dll
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quickcapture-ultimate-scan/"><u>[Updated] In 2024, QuickCapture Ultimate Scan</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-xs-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone XS Max without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-se-2020-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone SE (2020)? How to Fix it?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-initial-display-of-task-manager-in-windows-11/"><u>Customizing Initial Display of Task Manager in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-amazons-new-escrow-functionality-for-bitcoin-like-payments-a-zdnet-insight/"><u>Exploring Amazon's New Escrow Functionality for Bitcoin-Like Payments: A ZDNet Insight</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-v30t-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installation-guide-to-dolby-atmos-for-pc-users/"><u>Installation Guide to Dolby Atmos for PC Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-non-functional-microsoft-store-in-windows-11/"><u>Quick Fix for Non-Functional Microsoft Store in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-forgotten-windows-data-devices/"><u>Restoring Forgotten Windows Data Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-secure-a-fortnite-purchase-reimbursement/"><u>Steps to Secure a Fortnite Purchase Reimbursement</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-simulate-steam-disconnection/"><u>Strategies to Simulate Steam Disconnection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-hidden-risks-of-ignoring-windows-11-notification-sounds/"><u>The Hidden Risks of Ignoring Windows 11 Notification Sounds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-mystery-of-windows-credentials-with-these-top-11-strategies/"><u>Unlock the Mystery of Windows Credentials with These Top 11 Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-redefining-realities-practical-vr-uses/"><u>[New] Redefining Realities Practical VR Uses</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unraveling-youtubes-profit-from-1m-viewers/"><u>[Updated] Unraveling Youtube's Profit From 1M Viewers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-change-unveiling-windows-11s-innovations-in-explorer/"><u>Discovering Change: Unveiling Windows 11'S Innovations in Explorer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-poco-c51-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Poco C51 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-edges-app-protection-with-better-graphics/"><u>Elevate Edge's App Protection with Better Graphics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-spark-go-2023-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Spark Go (2023) Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-essential-leaderboard-scratcher-youtube-trending-analysis/"><u>In 2024, Essential Leaderboard Scratcher YouTube Trending Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-creative-top-video-dubbing-tools-for-funny-videos/"><u>In 2024, Get Creative Top Video Dubbing Tools for Funny Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-servers-solutions-to-apex-glitches-(156-chars/"><u>Navigating Windows Servers: Solutions to Apex Glitches (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-team-collaboration-with-less-overhead/"><u>Revolutionizing Team Collaboration with Less Overhead</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-access-in-windows-11-fix-for-vanished-pin-issue/"><u>Securing Access in Windows 11: Fix for Vanished PIN Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/icity-in-code-constructing-a-streamlined-youtube-sign-up/"><u>Simplicity in Code Constructing a Streamlined YouTube Sign-Up</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-gopro-quik-for-computer-download-and-alternative-options-for-2024/"><u>Updated GoPro Quik for Computer Download and Alternative Options for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-character-map-access-steps/"><u>Windows 11 Character Map Access Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-maintenance-made-easy-the-most-effective-5-uptime-checks/"><u>Windows 11 Maintenance Made Easy: The Most Effective 5 Uptime Checks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-shortcut-for-font-inspector/"><u>Windows 11 Shortcut for Font Inspector</u></a></li>
 </ul></div>
 

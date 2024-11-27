@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows 10/11 Error 0X0000004E Quick Guide
-date: 2024-08-28T01:18:20.926Z
-updated: 2024-08-29T01:18:20.926Z
+date: 2024-11-21T17:49:45.276Z
+updated: 2024-11-27T16:25:49.216Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
 
  Below, we talk about the most common causes of this problem, followed by the troubleshooting methods that can help you fix the issue for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Common Causes of the PFN\_LIST\_CORRUPT Error in Windows
 
  The 0x0000004E error, or PFN\_LIST\_CORRUPT error, can be caused by a variety of issues, including both software and hardware problems. Here are some of the most common ones:
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
  Before we delve into the troubleshooting methods for the 0x0000004E error, it is recommended that you [switch to an administrator account](https://www.makeuseof.com/windows-standard-adminstrator-account-differences/) if you are currently using a standard user account. This is because most of the solutions for this issue will require administrative access to the system.
 
  Once you have administrative access, you can proceed with the troubleshooting methods to resolve the 0x0000004E error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Your Hard Drive for Issues
 
@@ -54,9 +62,6 @@ chkdsk /f
 
  You can also diagnose and fix a faulty RAM or memory-related issues [using the Memory Diagnostic tool in Windows](https://www.makeuseof.com/ways-to-open-windows-memory-diagnostic/). If the Check Disk utility failed to fix the problem, run the Memory Diagnostic tool and check the results in the Event Viewer. You can then take the necessary steps to fix the problem based on the underlying cause.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Disable Your Antivirus
 
  If you are using a third-party security program on your computer, there is a chance that it is interfering with the system’s processes, leading to the error.
@@ -68,15 +73,17 @@ chkdsk /f
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the error does not appear after disabling the antivirus, then we highly recommend switching to a different, better security program. You can also configure Windows Defender Firewall properly if you do not want to trust a third-party security solution again.
 
  If you're already using Windows Defender, be sure to check out [how to turn off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and see if that fixes the BSOD.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Other Generic Windows BSOD Fixes to Try
 
  The fixes we have discussed above are specific to memory-related issues, which are typically responsible for the 0x0000004E error. However, if you suspect that the problem might be within the system (like corruption errors or malware), there are several solutions that can help you in that case as well.
@@ -86,15 +93,14 @@ chkdsk /f
  Finally, it's time to pull out the reliable fixes. Windows BSODs are usually due to a common pool of issues, and fixing those problems can fix almost any BSOD, including the 0x0000004E error. As such. be sure to check out our [tips to help you fix a Windows BSOD](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) for all the ways you can fix this issue, and any potential ones you encounter in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PFN\_LIST\_CORRUPT BSOD, Fixed
 
  Blue screen of death errors can be frustrating, especially if the error does not specify what might be causing it. Hopefully, the solutions we have listed above will help you fix the 0x0000004E error for good. In case the error re-appears in the future, it is best to contact the official Microsoft support team for further assistance. They will be able to diagnose the exact cause of the issue and suggest fixes accordingly.
 
  Below, we talk about the most common causes of this problem, followed by the troubleshooting methods that can help you fix the issue for good.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -102,3 +108,21 @@ chkdsk /f
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ustomize-video-speed-to-match-your-desired-watch-time/"><u>[New] Customize Video Speed to Match Your Desired Watch Time</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-skyrocket-your-earnings-by-mastering-youtube-shorts-monetization/"><u>[Updated] 2024 Approved Skyrocket Your Earnings by Mastering YouTube Shorts Monetization</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-bandicam-review-2023-everything-you-need-to-know/"><u>[Updated] Bandicam Review 2023 – Everything You Need To Know</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-your-content-utilizing-the-green-screen-on-instagram-for-2024/"><u>[Updated] Enhance Your Content Utilizing the Green Screen on Instagram for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-in-depth-look-top-6-screen-recording-software-reviewed/"><u>2024 Approved In-Depth Look Top 6 Screen Recording Software Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/covert-drive-strategies-for-ws1110-users/"><u>Covert Drive Strategies for WS11/10 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-already-in-use-names-in-device-setup-procedures/"><u>Eradicating 'Already in Use' Names in Device Setup Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-keep-your-surface-pcs-updated/"><u>Essential Steps to Keep Your Surface PCs Updated</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-new-driets-for-intel-wireless-ac-9560-card/"><u>How to Install New Driets for Intel Wireless AC 9560 Card</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-find-n3-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo Find N3 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-sharing-joy-iphone-memes/"><u>In 2024, Sharing Joy IPhone Memes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/removing-water-from-iphone-speakers-step-by-step-guide/"><u>Removing Water From iPhone Speakers: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmute-your-silent-slack-alerts-with-these-tips-for-win-11-users/"><u>Unmute Your Silent Slack Alerts with These Tips for Win 11 Users</u></a></li>
+</ul></div>
+

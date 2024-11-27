@@ -1,7 +1,7 @@
 ---
 title: Personalizing Windows' Inbuilt PDF Renderer
-date: 2024-08-28T01:20:06.016Z
-updated: 2024-08-29T01:20:06.016Z
+date: 2024-11-25T16:57:22.457Z
+updated: 2024-11-27T17:20:01.392Z
 tags:
   - windows10
   - windows11
@@ -36,11 +36,16 @@ thumbnail: https://thmb.techidaily.com/3c560b5f84950935f235a17f57ab9b2b0c297df9b
 
 ![context menu on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/context-menu-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your PDF file will be launched, and the chosen app will now be saved as the default PDF tool from here on.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. From the Settings App
 
  The Settings app is a handy tool that comes to your rescue repeatedly for various things. Here, it can help you with setting up a default PDF reader as well.
@@ -54,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/3c560b5f84950935f235a17f57ab9b2b0c297df9b
 
  That's it—as soon as you pick the new app from above, your default PDF reader will be changed from here on.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Use the Control Panel
 
  A Control Panel is one of those that's used by a lot of people for a lot of things. In that way, it's a lot like a Swiss Army Knife, doing many valuable things simultaneously.
@@ -71,13 +73,11 @@ thumbnail: https://thmb.techidaily.com/3c560b5f84950935f235a17f57ab9b2b0c297df9b
 ![control panel on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/control-panel-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you follow the above steps to the point, the selected app will be the default app for all similar file types from here on.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Use a Default Program Within the PDF Reader
 
  Some PDF readers let you change the default PDF reader from within. So, depending on the [third-party PDF reading app](https://www.makeuseof.com/best-pdf-reader-apps-android/) you are using or plan to use, all you have to do is launch the PDF reader, and you will get a notification box to make the required changes.
@@ -85,20 +85,20 @@ thumbnail: https://thmb.techidaily.com/3c560b5f84950935f235a17f57ab9b2b0c297df9b
 ![foxit reader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/foxit-reader-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That's all—do this, and your default reading app will be changed for good.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Changing the Default PDF Reader on Your Windows Computer
 
  When you come down to it, the Edge browser is more than enough for following the simple reading needs of a PDF reader. However, after a certain point, you might need more advanced features that an alternative reader can perform.
 
  On Windows, Edge is the preferred PDF reader by default. While the browser works just as well as a dedicated PDF reader, it's vital to know how a PDF reader functions.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -106,3 +106,23 @@ thumbnail: https://thmb.techidaily.com/3c560b5f84950935f235a17f57ab9b2b0c297df9b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-auditory-capture-techniques-for-professional-note-takers-for-2024/"><u>[New] Auditory Capture Techniques for Professional Note-Takers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-powerhouse-guide-to-screen-recording-with-tunefab/"><u>[New] The Powerhouse Guide to Screen Recording with Tunefab</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harness-social-blade-for-profound-youtube-stats-analysis/"><u>2024 Approved Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-ties-with-unknown-windows-accounts/"><u>Cutting Ties with Unknown Windows Accounts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-enigma-of-mbr-error-messages/"><u>Deciphering the Enigma of MBR Error Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-fixes-for-unresolved-microsoft-outlook-errors/"><u>Effective Fixes for Unresolved Microsoft Outlook Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-streamline-network-performance-with-dns-cleanse/"><u>Guide to Streamline Network Performance with DNS Cleanse</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-f23-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo F23 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-free-security-camera-programs-2023-reviews-and-ratings-for-2024/"><u>New The Best Free Security Camera Programs 2023 Reviews and Ratings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-typical-windows-anydesk-problems/"><u>Overcoming Typical Windows AnyDesk Problems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-spark-10-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Spark 10 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quest-for-sid-knowledge-decoding-in-windows-11/"><u>The Quest for SID Knowledge: Decoding in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-tides-exploring-unique-methods-to-reverse-youtube-videos/"><u>Turning Tides Exploring Unique Methods to Reverse YouTube Videos</u></a></li>
+</ul></div>
+

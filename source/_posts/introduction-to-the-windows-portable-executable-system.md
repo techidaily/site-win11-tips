@@ -1,7 +1,7 @@
 ---
 title: Introduction to the Windows Portable Executable System
-date: 2024-11-14T20:34:42.026Z
-updated: 2024-11-17T19:03:35.234Z
+date: 2024-11-22T16:52:36.135Z
+updated: 2024-11-27T17:57:55.026Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
 ![Windows portable executable structure diagram](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-portable-executable-structure-diagram.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Portable Executable file format consists of several components, each with a specific purpose. These components include:
 
 * Section headers, which describe the layout and characteristics of each section of the file The sections themselves, which contain executable code, data, and resources.
@@ -55,16 +59,7 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
  Overall, these components work together to create a structured format that allows the operating system to properly load, execute, and manage the executable code contained in the file. Let's learn exactly what each component does.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DOS Header
@@ -73,16 +68,13 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
  This code is also called the MS-DOS stub and is used to throw an error message on systems that don't support the PE file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### PE Header
 
  The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a[Windows .DLL file](https://www.makeuseof.com/what-are-dll-files-on-windows/) or an .EXE.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Section Headers
 
@@ -91,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
  The flags associated with each section header can indicate various attributes of the section, such as whether it is executable, writable, or readable. These flags help the operating system to properly load and manage the contents of each section during program execution.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Sections
@@ -102,10 +91,7 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
  The sections themselves comprise the executable's real code, data, and resources. Each segment is aligned to a certain memory boundary and has its own set of attributes that affect how the operating system handles it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know All About the Windows Portable Executable File Format
@@ -129,24 +115,21 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expert-techniques-for-high-quality-xbox-screenshots/"><u>[Updated] 2024 Approved Expert Techniques for High-Quality Xbox Screenshots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-learn-fb-live-mastering-2023-streaming/"><u>[Updated] 2024 Approved Learn FB Live Mastering 2023 Streaming</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-comprehensive-directory-extracting-youtube-intros-for-2024/"><u>[Updated] Comprehensive Directory Extracting Youtube Intros for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-motion-control-in-vr-keeping-nausea-at-bay/"><u>2024 Approved Motion Control in VR Keeping Nausea at Bay</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-tecno-phantom-v-flip-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Tecno Phantom V Flip</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-tips-for-handling-common-hp-printer-misfuels-and-addressing-code-43-problems/"><u>DIY Tips for Handling Common HP Printer Misfuels & Addressing Code 43 Problems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-steps-to-download-and-install-hp-p1006-printer-software/"><u>Easy Steps to Download & Install HP P1006 Printer Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-windows-methods-to-record-conversations/"><u>Effective Windows Methods to Record Conversations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-sign-out-other-users-on-windows-11/"><u>How to Sign Out Other Users on Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-administrative-access-through-cmd/"><u>Leveraging Administrative Access Through CMD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-guide-to-restore-lost-pin-after-win-11-crashes/"><u>Master Guide to Restore Lost PIN After Win 11 Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/outpace-the-windowed-wired-limit-transcending-100mbps-on-windows-pcs/"><u>Outpace the Windowed Wired Limit: Transcending 100Mbps on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-connection-breakdown-with-mbs-services-in-windows-11/"><u>Resolving Connection Breakdown with MB's Services in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversal-of-read-only-settings-in-windows-11-storage/"><u>Reversal of Read-Only Settings in Windows 11 Storage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-role-of-burst-mode-in-action-sports-filming-for-2024/"><u>The Role of Burst Mode in Action Sports Filming for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-ousting-the-focused-wallpaper-symbol/"><u>Windows 11: Ousting the Focused Wallpaper Symbol</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/your-own-voice-recognition-tool-building-with-ahk-and-whisper-on-windows/"><u>Your Own Voice Recognition Tool: Building with AHK and Whisper on Windows</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-iconic-counter-based-awards-system/"><u>YouTube's Iconic Counter-Based Awards System</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-essential-economic-education-top-15-youtube-picks/"><u>[New] Essential Economic Education Top 15 YouTube Picks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-performance-handhocal-systems-mobile-and-dslr-videos-stabilized/"><u>[New] High-Performance Handhocal Systems Mobile & DSLR Videos Stabilized</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-affordable-advertising-streamlining-channel-sponsorship-partnerships/"><u>[Updated] Affordable Advertising Streamlining Channel-Sponsorship Partnerships</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-stagnation-of-ideas-in-contemporary-vr/"><u>[Updated] In 2024, The Stagnation of Ideas in Contemporary VR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-free-transformation-of-mp4-videos-into-ogv-using-movavis-software/"><u>A Step-by-Step Guide: Free Transformation of MP4 Videos Into OGV Using Movavi's Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-20-non-copyrighted-pubg-image-gems/"><u>Best 20 Non-Copyrighted PUBG Image Gems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertissez-facilement-votre-fichier-swf-en-mov-avec-laide-de-moovavi-sans-frais-en-ligne-gratuit/"><u>Convertissez Facilement Votre Fichier SWF en MOV Avec L'aide De Moovavi, Sans Frais - En Ligne Gratuit</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/editions-daomei-vs-backupper-une-comparaison-des-meilleurs-outils-de-sauvegarde/"><u>Editions D'AOMEI Vs. Backupper : Une Comparaison Des Meilleurs Outils De Sauvegarde</u></a></li>
+<li><a href="https://win-premium.techidaily.com/efficiency-in-action-expert-strategies-for-effective-data-movement-mastery/"><u>Efficiency in Action: Expert Strategies for Effective Data Movement Mastery</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/focused-adventure-getting-up-close-in-roblox-landscapes-for-2024/"><u>Focused Adventure Getting Up Close in Roblox Landscapes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-online-conversor-de-video-wmv-e-wma-para-mp4-ferramenta-ampla-do-movavi/"><u>Gratuito Online: Conversor De Vídeo WMV E WMA Para MP4 - Ferramenta Ampla Do Movavi</u></a></li>
+<li><a href="https://win-net.techidaily.com/laravel-based-material-ui-admin-panel-enhanced-with-livewire-created-by-creative-tim-and-updivision/"><u>Laravel-Based Material UI Admin Panel Enhanced with Livewire - Created by Creative Tim & UPDIVISION</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-free-conversion-transforming-m4a-files-into-mpeg-format-with-ease/"><u>Online Free Conversion: Transforming M4A Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-screen-recording-apps-explore-the-best-tools-by-movavi/"><u>Top 12 Screen Recording Apps: Explore the Best Tools by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-27-voice-to-text-software-solutions-an-in-depth-review-by-movavi/"><u>Top 27 Voice-to-Text Software Solutions : An In-Depth Review by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforme-sus-musicas-y-peliculas-de-formato-aiff-en-wmv-facilmente-con-nuestro-guia-completa-de-conversion-libre-movavi-explicado/"><u>Transforme Sus Músicas Y Películas De Formato AIFF en WMV Fácilmente Con Nuestro Guía Completa De Conversión Libre: Movavi Explicado</u></a></li>
 </ul></div>
 

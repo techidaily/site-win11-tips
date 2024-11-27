@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Fortnite Stuck on Loading Screen"
-date: 2024-11-16T16:52:59.747Z
-updated: 2024-11-17T17:53:24.597Z
+date: 2024-11-21T16:22:33.922Z
+updated: 2024-11-27T17:53:29.025Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -47,6 +51,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i5 2.8 Ghz**                                          |
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,10 +70,7 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Lower graphics settings
@@ -73,13 +78,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Use compatibility mode
 
@@ -90,28 +88,12 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method: Update your graphics card
@@ -164,22 +146,17 @@ OR
 1. Right-click on your desktop screen.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
@@ -218,22 +195,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-effortless-share-of-igtv-on-your-stories/"><u>[New] In 2024, Effortless Share of IGTV on Your Stories</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-ultimate-guide-to-cool-and-captivating-disco-tags/"><u>[New] In 2024, Ultimate Guide to Cool and Captivating Disco Tags</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-navigating-the-interview-landscape-a-guide/"><u>[New] Navigating the Interview Landscape A Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-top-2-directors-cut-downloads/"><u>[Updated] In 2024, Top 2 Director's Cut Downloads</u></a></li>
-<li><a href="https://article-posts.techidaily.com/essential-list-premier-free-video-player-choices-for-pctabletsmartphone-users/"><u>Essential List Premier Free Video Player Choices for PC/Tablet/Smartphone Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identifying-causes-and-solutions-for-a-non-responsive-discord-overlay/"><u>Identifying Causes and Solutions for a Non-Responsive Discord Overlay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identifying-low-resource-browsers-for-windows-macos-chromeos-users/"><u>Identifying Low Resource Browsers for Windows, macOS, ChromeOS Users</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-seamless-tactic-for-igtv-stories-integration/"><u>In 2024, Seamless Tactic for IGTV Stories Integration</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-top-innovations-best-vr-tech-for-drones/"><u>In 2024, Top Innovations Best VR Tech for Drones</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-11-pro-max-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 11 Pro Max? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-efficiency-in-accessibility-insider-secrets-for-using-narrator-shortcuts/"><u>Maximizing Efficiency in Accessibility: Insider Secrets for Using Narrator Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-steam-installation-hurdles-in-windows-11/"><u>Overcoming Steam Installation Hurdles in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/razers-remedy-guide-quick-reset-for-windows-1011/"><u>Razer's Remedy Guide: Quick Reset for Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedies-to-resolve-screen-size-settings-issues-on-pcs/"><u>Remedies to Resolve Screen Size Settings Issues on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-accessible-nvidia-display-settings/"><u>Restoring Accessible Nvidia Display Settings</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210840588-9798218201104-song-of-the-self/"><u>Song of the Self | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-intersection-of-ai-and-windows-11-user-experience/"><u>The Intersection of AI and Windows 11 User Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-news-endings-as-a-narrative-tool/"><u>[New] In 2024, News Endings as a Narrative Tool</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-use-of-m1-max-clip/"><u>[Updated] Mastering the Use of M1 Max Clip</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-navigating-video-sharing-from-imovie-to-the-vimeo-network/"><u>2024 Approved Navigating Video Sharing From iMovie to the Vimeo Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726222225320-2024/"><u>2024的热门照片编辑工具：亲自推选，用户友好型和功能丰富的滤镜软件</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comment-transformer-des-fichiers-cr2-en-images-jpeg-sur-internet-et-ordinateur-guide-complet-pour-2024/"><u>Comment Transformer Des Fichiers CR2 en Images JPEG Sur Internet Et Ordinateur: Guide Complet Pour 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-beautiful-ai-appraisal-insights-on-costs-capabilities-and-comparable-tools/"><u>Comprehensive Beautiful AI Appraisal: Insights on Costs, Capabilities & Comparable Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-professional-text-the-best-affects-extensions-revealed-for-2024/"><u>Craft Professional Text The Best Affects Extensions Revealed for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-guide-resolving-issues-with-a-nonfunctional-logitech-g433-microphone/"><u>Expert Guide: Resolving Issues With A Nonfunctional Logitech G433 Microphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-facile-davi-a-mp3-le-meilleur-convertisseur-de-fichiers-video-vers-audio/"><u>Guide Facile D'AVI À MP3 : Le Meilleur Convertisseur De Fichiers Vidéo Vers Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-windows-10-wait-longer-when-shutting-down-if-you-have-running-tasks/"><u>How to Make Windows 10 Wait Longer When Shutting Down if You Have Running Tasks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-itel-p55t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Itel P55T Through Google Earth?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-moto-e13-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Moto E13 FRP?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pinnacle-studios-evaluation-an-in-depth-study/"><u>In 2024, Pinnacle Studios Evaluation An In-Depth Study</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenloze-online-raw-to-wav-konvertor-voorlopige-wijzigingen-met-movavi/"><u>Kostenloze Online RAW-to-WAV Konvertor - Voorlopige Wijzigingen Met Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mkv-to-mp4-converter-download-at-no-cost-using-movavis-web-service/"><u>MKV to MP4 Converter - Download at No Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-complimentary-web-based-tool-for-mp3-to-flac-transformation-high-quality-hassle-free-upgrades/"><u>Movavi's Complimentary Web-Based Tool for MP3 to FLAC Transformation: High-Quality, Hassle-Free Upgrades!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-17-free-alternatives-to-adobe-premiere-pro-by-movavi-comprehensive-guide/"><u>Top 17 Free Alternatives to Adobe Premiere Pro by Movavi: Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-flac-aac/"><u>영구 이미지, 오디오 최적화: 원격 컴퓨터에서 Movavi를 사용한 FLAC AAC 무료 변환</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Legacy Upgrades for Elderly Tech Users on Windows XP/Vista
-date: 2024-11-13T16:01:08.040Z
-updated: 2024-11-17T18:26:47.970Z
+date: 2024-11-23T17:07:48.567Z
+updated: 2024-11-27T16:10:33.307Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39
 
  You can also [enable the Narrator function on Windows](https://www.makeuseof.com/windows-11-start-narrator/) so that your grandparents will receive an audio description of what is currently onscreen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Create Desktop Shortcuts for Your Grandparents' Preferred Programs
 
  This is a simple but important step. To make your grandparents' computer accessible for their specific needs, it’s a good idea to make sure the programs they use are easy to find. Therefore, add shortcuts to the desktop for just the programs they will use.
@@ -50,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39
 ![Make your grandparents PC accessible with large desktop items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/make-your-grandparents-pc-accessible-with-large-desktop-items.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There’s a high chance that your grandparents won’t associate “Chrome” with the internet, “Outlook” with their email service provider, or find it easy to differentiate between each visual icon. Brand names and icon designs of various programs will seem nonsensical to your elderly relatives, so it’s best to rename desktop icons to something more descriptive that they will understand.
@@ -63,16 +64,7 @@ thumbnail: https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39
  To change the name of program shortcuts, simply right-click each icon and either click **Rename** or press **F2** to enter a personalized label.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set Up Email Filters to Avoid Message Overloads
@@ -92,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39
 
  Once inbox rules are set in Outlook, all new emails will be redirected to your chosen folder. This should declutter your grandparents' inbox and make it less confusing for them to access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Remote Desktop
 
  Even with all your efforts to make your grandparents' computer as accessible as possible, it’s likely they’ll still run into difficulties. While they may attempt to explain to you what they see on their screen over the phone, enabling remote desktop access can make the fixing process much easier when you’re not around.
@@ -106,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39
 
  An easy way to do this is to write up some basic instructions in their preferred document program (such as Word, Google Docs, or Notes if their PC is really old school!) and add a shortcut to the desktop. That way your grandparents will be able to preserve their sense of independence by troubleshooting and fixing their problems without your help.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Uninstall All Bloatware and Unnecessary Programs
 
 ![Remove bloatware from your grandparent's PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/remove-bloatware-from-your-grandparent-s-pc.jpg)
@@ -121,19 +110,6 @@ thumbnail: https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39
 
  Luckily, you can [easily remove bloatware from Windows](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) and other computers. Simply navigate to **Settings > Apps >** **Installed apps** to identify and uninstall any unwanted programs.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Disable Automatic Updates
 
  While computer updates can be important when new versions are released, automatic updates can confuse, disrupt, or even worry senior family members. If they’re using an ancient piece of hardware or if their computer use is very basic, automatic updates might not even be necessary for them to use their PC for their intended purposes.
@@ -141,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39
  Instead, disable automatic updates by navigating to **Settings > System > Windows Update > Pause for one week** to temporarily disable automatic updates. Select the drop-down arrow to change this to **Pause for 5 weeks** to pause automatic updates for longer.
 
  Make sure you manually check available updates and implement any appropriate changes when necessary when you visit your grandparents.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Create Templates for Letters
 
@@ -156,27 +136,6 @@ thumbnail: https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39
 
  Here are ways you can make your older relatives' computer more accessible to boost their sense of independence.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-dive-deep-into-vitas-video-editing-prowess-a-complete-analysis-2024/"><u>[New] Dive Deep Into Vita's Video Editing Prowess - A Complete Analysis, 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-where-can-i-find-crowd-cheering-effect/"><u>2024 Approved Where Can I Find Crowd Cheering Effect?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-0x0-errors-in-windows-11-successfully/"><u>Correcting 0X0 Errors in Windows 11 Successfully</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-image-vault-websites/"><u>Cutting-Edge Image Vault Websites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-tech-a-comprehensive-guide-to-hardware-ids-in-windows/"><u>Decoding Tech: A Comprehensive Guide to Hardware ID's in Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ng-engine-room-for-2024/"><u>Editing Engine Room for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-not-supported-errors-in-windows-a-quick-guide/"><u>Eliminate 'Not Supported' Errors in Windows: A Quick Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-your-windows-11-photo-experience-with-slide-shows-and-fixing-tricks/"><u>Enhancing Your Windows 11 Photo Experience with Slide Shows & Fixing Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-keyboard-driven-program-resizing-for-windows-11/"><u>Guiding Through Keyboard-Driven Program Resizing for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-incorrect-tags-in-onedrives-reparse-buffer/"><u>How to Correct the Incorrect Tags in OneDrive’s Reparse Buffer</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-charting-success-with-these-top-15-youtube-introduction-techniques/"><u>In 2024, Charting Success with These Top 15 YouTube Introduction Techniques</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-s23-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy S23 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-use-youtube-cards-and-annotations/"><u>In 2024, How to Use YouTube Cards and Annotations?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-establishing-microsoft-sql-connection-for-mb-service-in-windows/"><u>Re-Establishing Microsoft SQL Connection for MB Service in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-file-download-failures-of-directx/"><u>Solving File Download Failures of DirectX</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -184,3 +143,21 @@ thumbnail: https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-comprehending-instagrams-max-video-length/"><u>[New] 2024 Approved Comprehending Instagram's Max Video Length</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-shining-a-light-on-phony-connections-in-facebook-marketing/"><u>2024 Approved Shining a Light on Phony Connections in Facebook Marketing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-art-of-producing-high-impact-slack-channels/"><u>2024 Approved The Art of Producing High-Impact Slack Channels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/delving-into-sns-hdr-pros-merits-and-peer-comparisons-for-2024/"><u>Delving Into SNS HDR Pro's Merits & Peer Comparisons for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-mov-to-3gp-converter-vrije-gratis-software-door-movavi/"><u>Gratis Online MOV-to-3GP Converter - Vrije Gratis Software Door Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-converter-de-filmes-wmv-para-formato-aiff-ferramentas-online-com-recomendacoes-da-movavi/"><u>Gratuito Converter De Filmes WMV Para Formato AIFF: Ferramentas Online Com Recomendações Da Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-10c-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark 10C Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-ultimate-guide-to-optimizing-your-obs-setup-for-professional-quality-streaming/"><u>Movavi's Ultimate Guide to Optimizing Your OBS Setup for Professional Quality Streaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-case-against-automated-dialogue-a-deep-dive/"><u>The Case Against Automated Dialogue: A Deep Dive</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172227578-top-tier-gba-ios-games-simulation-experience-awaits/"><u>Top-Tier GBA iOS Games Simulation Experience Awaits!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-flac-in-m4a-online-gratuitamente-con-convertitore-di-movavi/"><u>Trasforma I File Flac in M4A Online Gratuitamente Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cr2-tiff-movavi/"><u>컴퓨터에서 무료 CR2 포트라이트를 TIFF로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4trp-movavi/"><u>オンラインで簡単に変換！MP4ファイルを無料のTRPコードに - Movavi</u></a></li>
+</ul></div>
+

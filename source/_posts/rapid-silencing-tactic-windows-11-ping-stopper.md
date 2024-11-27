@@ -1,7 +1,7 @@
 ---
 title: "Rapid Silencing Tactic: Windows 11 Ping Stopper"
-date: 2024-11-16T19:10:06.599Z
-updated: 2024-11-17T20:21:00.424Z
+date: 2024-11-25T16:25:29.881Z
+updated: 2024-11-27T16:12:16.741Z
 tags:
   - windows10
   - windows11
@@ -36,25 +36,30 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 2. From the**Settings** options, click**Turn off all notifications for Microsoft Store** —as you can see in the screenshot below.  
 ![Turn Off All Notifications Option in Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-off-notifications-on-pop-up.jpg)  
  All Microsoft Store applications will stop. Likewise, if it's another app, you will no longer get any notifications from it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Maybe you miss turning off a notification when it appears. But this notification banner will show up in the Notification Center. So open the Notification Center by pressing**Win + N** keys together or clicking on the date and time in the taskbar.
 4. When you see one or more notification banners, hover over the top of the notification. The**three-dots Settings menu** will appear.  
 ![App Notification Banners in Notification Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/snipping-tool-notification-banner.jpg)
 5. Click on this**three-dots menu** and select**Turn off all notifications for Snipping Tool** , as you see in the screenshot below, or for any other app sending notifications.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn Off All Notifications Option in Notification Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-off-all-notifications.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To clear all notifications from the Notification Center, click the**Clear all** button at the top.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn Off All Notifications at Once
@@ -66,37 +71,14 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![Notifications Selected in System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-notifications-in-settings-1.jpg)
 3. Turn off the**Notifications toggle** at the top of the**Notifications** page.  
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Notifications Toggle Turned Off in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-notifications-toggle-off-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you will not have any notifications pop up on the screen to distract you. You can also stop all notifications for a temporary amount of time by[enabling Do Not Disturb mode on Windows](https://www.makeuseof.com/windows-11-do-not-disturb-mode/) .
 
  Or you can choose to[explore the notification settings and customize notifications](https://www.makeuseof.com/windows-11-customize-notifications/) to your liking.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Work Uninterrupted on Windows Without Notifications
@@ -118,21 +100,18 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/advanced-techniques-for-upgrading-to-a-high-performance-graphics-chip/"><u>Advanced Techniques for Upgrading to a High-Performance Graphics Chip</u></a></li>
-<li><a href="https://extra-information.techidaily.com/aviary-creator-searching-for-affordable-filters/"><u>Aviary Creator Searching for Affordable Filters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/finding-ideal-nvidia-drivers-for-gamers-or-studios/"><u>Finding Ideal Nvidia Drivers for Gamers or Studios</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hotkey-hack-innovative-text-pasting-shortcuts/"><u>Hotkey Hack: Innovative Text Pasting Shortcuts</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-z-fold-5-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy Z Fold 5 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mlb-the-show-21-servers-now-stable-after-recent-fixes-for-players-smooth-gaming-experience/"><u>MLB The Show 21 Servers Now Stable After Recent Fixes for Players' Smooth Gaming Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-to-the-shadowed-elements-of-windows-11/"><u>Navigating to the Shadowed Elements of Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ranking-the-leading-10-pixels-for-free-access-for-2024/"><u>Ranking the Leading 10 Pixels for Free Access for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/rev-up-your-mobile-vids-with-top-speed-apps-for-2024/"><u>Rev Up Your Mobile Vids with Top Speed Apps for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-to-fill-void-of-msvcr120dll-in-windows-os/"><u>Solutions to Fill Void of MSVCR120.DLL in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-install-pre-windows-xp-application-packages/"><u>Tips to Install Pre-Windows XP Application Packages</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/top-techniques-for-captivating-instagram-image-highlights-for-2024/"><u>Top Techniques for Captivating Instagram Image Highlights for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-stop-vmfreeze-and-freezes-in-windows-11/"><u>Troubleshooting Guide: Stop VMfreeze & Freezes in Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ultimate-users-companion-for-durecorder-for-2024/"><u>Ultimate User’s Companion for DuRecorder for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-international-communication-using-shortcuts-in-windows-os/"><u>Unlocking International Communication: Using Shortcuts in Windows OS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-secret-sonic-snatchers-6-in-the-shadows-voice-recording-apps/"><u>[Updated] 2024 Approved Secret Sonic Snatchers 6 In-the-Shadows Voice Recording Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-text-transformation-tactics-avoiding-3d-missteps-for-2024/"><u>[Updated] Text Transformation Tactics Avoiding 3D Missteps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-downloading-windows-vary-between-online-and-offline/"><u>How Does Downloading Windows Vary Between Online & Offline?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-the-windows-blue-screen-error-0x8007007e/"><u>How to Eradicate the Windows Blue Screen: Error 0X8007007E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-high-on-life-crashing-on-windows/"><u>How to Fix High on Life Crashing on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synergizing-visual-elements-best-text-plugins-reviewed/"><u>In 2024, Synergizing Visual Elements Best Text Plugins Reviewed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-your-experience-with-chatgpt-five-tricks-when-you-dont-have-an-openai-profile/"><u>Maximizing Your Experience with ChatGPT: Five Tricks When You Don't Have an OpenAI Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-excellence-windows-11s-future-path/"><u>Redefining Excellence: Windows 11'S Future Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-ahead-of-the-curve-without-moving-to-win11/"><u>Stay Ahead of The Curve without Moving to Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-d3dx939dll-issue-on-win11-pcs/"><u>Unlocking D3DX9_39.dll Issue on Win11 PCs</u></a></li>
 </ul></div>
 

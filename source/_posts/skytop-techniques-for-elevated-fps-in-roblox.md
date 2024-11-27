@@ -1,7 +1,7 @@
 ---
 title: Skytop Techniques for Elevated FPS in Roblox
-date: 2024-08-28T01:19:01.377Z
-updated: 2024-08-29T01:19:01.377Z
+date: 2024-11-21T16:27:50.808Z
+updated: 2024-11-27T17:17:14.602Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
  Upon finding the Fn key, see if its light is on. If you see the key glowing, it means that the Fn key is on and function keys are already enabled. If the key's light is off, then it is disabled. If it's off, press the**Fn** key to turn it on again. Then, press the same key combination (**Shift + F5)** again to see the frame rate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Always Run Roblox as Administrator
 
  When a process is run as an administrator, it takes precedence over other tasks. Due to this, your hardware allocates most of its resources to this specific process rather than to other processes running in its parallel.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
  Running Roblox as an administrator will prioritize it over other tasks, which may improve the frame rate and reduce lag. To run Roblox as an administrator, right-click on the Roblox icon and select**Run as administrator** .
 
 ![Run Roblox as an Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-run-roblox-as-an-administrator-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Free Up System Resources to Support Roblox
 
@@ -52,9 +60,6 @@ To remove this unnecessary burden from your GPU, follow these steps:
 4. To end these processes, right-click on them and click**End task** .  
 ![Close Microsoft Teams Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-microsoft-teams-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 4\. Change Graphics Quality
 
  Lowering the graphics quality in the Roblox settings is the easiest way to reduce lag and improve FPS. While it will inevitably degrade the visual quality, it will significantly improve overall game performance.
@@ -63,17 +68,10 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Go to Settings in the Roblox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-go-to-settings-in-the-roblox-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  Here, change the**Graphics Mode** to**Manual** and reduce the**Graphics Quality** by clicking on the minus sign.
 
 ![Change Graphics Settings in Roblox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-change-graphics-settings-in-roblox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  Reducing the graphics quality will undoubtedly improve FPS and reduce lag in Roblox. However, avoid reducing the quality too low, as it will negatively impact your gaming experience.
 
 ## 5\. Put Roblox on High-Performance Graphics Mode
@@ -84,16 +82,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![Go to Graphics Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-graphics-settings-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  If Roblox is not already listed here, click**Browse** , and select Roblox's EXE file. Once added, click on Roblox and then**Options** . After that, select**High performance** in the**Graphics preference** window.
 
 ![Select High Performance in the Graphics Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-select-high-performance-in-the-graphics-preferences-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Change the Power Plan Settings
 
  Windows comes with two main power plans:**Balanced** and**High Performance** . The former power plan is preferred for laptops because it balances performance with energy consumption. In contrast, the high-performance plan consumes more power but delivers the best performance.
@@ -103,6 +103,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Type**"Choose a Power Plan"** in Windows Search and open the power plan settings.
 2. If it isn't already selected, check the circle beside**High Performance** .  
 ![High Performance Power Plan in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/high-performance-power-plan-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some GPU manufacturers also offer custom power plans, so if such a plan is listed as an additional option in your power plan settings, you can also select that. Just remember that high-performance plans consume more power.
 
@@ -115,18 +119,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![Open Adjust the Appearance and Performance of Windows From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-open-adjust-the-appearance-and-performance-of-windows-from-windows-search.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, in the**Performance Options** window, check the circle beside**Adjust for best performance** .
 
 ![Check the Circle Besides Adjust for best performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-the-circle-besides-adjust-for-best-performance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Doing so will disable all visual effects, but you'll immediately see a good FPS boost.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 8\. Check for Internet Issues
 
  A slow or unstable internet connection can also cause Roblox to lag. The following tips will help you determine if your internet is causing the problem:
@@ -142,14 +147,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  While the above changes will undoubtedly improve Roblox's performance, if you want to streamline things even further, make system-specific changes to improve the overall performance of your games.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +160,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-insiders-look-at-the-most-effective-instagram-tags-for-growth/"><u>[New] In 2024, The Insider's Look at the Most Effective Instagram Tags for Growth</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ealth-dissection-of-the-elusive-mr-beast/"><u>[New] Wealth Dissection of the Elusive Mr. Beast</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-cost-outline-for-composing-sounds-to-screen-titles/"><u>2024 Approved Cost Outline for Composing Sounds to Screen-Titles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-techniques-for-capturing-youtube-live-video-for-2024/"><u>Best Techniques for Capturing YouTube Live Video for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-well-being-8-cutting-edge-ai-fitness-tools/"><u>Boost Well-Being: 8 Cutting-Edge AI Fitness Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-zero-5g-2023-turbo-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conjuring-a-supreme-selection-shortcut-for-pc/"><u>Conjuring a Supreme Selection Shortcut for PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-code-to-exit-s-mode-on-windows-systems/"><u>Deciphering the Code to Exit S Mode on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-workflow-advanced-hotkeys-for-redoing-windows/"><u>Elevate Workflow: Advanced Hotkeys for Redoing Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/elite-meme-enhancer-program-for-2024/"><u>Elite Meme Enhancer Program for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-fast-apps-on-windows-11/"><u>Essential Strategies for Fast Apps on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016444608-get-your-logitech-g933-microphone-working-again-fixes-inside/"><u>Get Your Logitech G933 Microphone Working Again - Fixes Inside!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-limitations-rewiring-non-operational-win-apps/"><u>Overcoming Device Limitations: Rewiring Non-Operational Win-Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-graphics-memory-deficiency-in-virtual-schools-of-magic-and-sorcery/"><u>Resolving Graphics Memory Deficiency in Virtual Schools of Magic and Sorcery</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-gathering-of-heartfelt-weddings-youtube-and-vimeo-edition-for-2024/"><u>The Ultimate Gathering of Heartfelt Weddings - Youtube & Vimeo Edition for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revising Boot Menu Pause: Boost Startup with Windows 11 Tweaks"
-date: 2024-11-14T20:49:33.563Z
-updated: 2024-11-17T18:55:28.263Z
+date: 2024-11-26T17:43:22.137Z
+updated: 2024-11-27T17:39:41.514Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change Boot Menu Timeout Using the Settings App
 
  The quickest way to configure the boot menu timeout is via the Settings app. Here's a step-by-step instructions to do that:
@@ -34,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 3. Choose **System protection**.  
 ![System protection option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection.jpg)
 4. Switch to the **Advanced** tab and click the **Settings** button under the **Startup and Recovery** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the drop-down icon under the **Default operating system** option and choose your default OS.
 6. Check the **Time to display list of operating systems** option and select the timeout value. The value can range from **0** to **999**.  
 ![Time to display list of operating systems option in System Protection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/time-to-display-list-of-operating-systems-option.jpg)
@@ -52,20 +61,6 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 ![Yes option in msconfig window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/yes-option-1.jpg)
 6. Choose the **Restart** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Change Boot Menu Timeout Using the Command Prompt
 
  If you're an advanced Windows user, you can use Command Prompt to configure the boot menu timeout on your Windows PC. Here's how:
@@ -77,7 +72,15 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 `bcdedit /timeout SECONDS`  
 ![Timeout change command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/timout-change-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it! From the next boot, the boot manager will appear for the specified duration of time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Boot Menu Timeout Using the Boot Options
 
@@ -90,48 +93,20 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 ![Change defaults or choose other options in the Boot menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-defaults-or-choose-other-options.jpg)
 3. Select the **Change the timer** option.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Change the timer option in the Boot menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-timer.jpg)
 4. Choose a time between the given options.  
-![Choose time in the Boot Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-time.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Choose time in the Boot Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-time.jpg)
 
 ## Control Your System Boot Menu on Windows
 
  Optimizing the boot menu timeout in Windows is a simple yet effective way to manage your system's startup time. By adjusting the duration for which the boot menu appears, you can ensure that you have adequate time to select your preferred operating system.
 
  Fortunately, you can configure the wait time as per your choice. In this article, we'll explore four quick ways to change the boot menu timeout in Windows 11\. So, let's begin.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-revolutionize-your-social-media-game-personalizing-twitter-video-images/"><u>[Updated] 2024 Approved Revolutionize Your Social Media Game Personalizing Twitter Video Images</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-essential-guide-to-tracking-igtv-viewership-metrics/"><u>[Updated] 2024 Approved The Essential Guide to Tracking IGTV Viewership Metrics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/como-convertir-gratis-un-aif-a-wmv-mediante-movavi-sin-complicaciones/"><u>Cómo Convertir Grátis Un AIF a WMV Mediante Movavi Sin Complicaciones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprendere-il-concetto-di-green-screen-e-come-utilizzarlo-efficacemente/"><u>Comprendere Il Concetto Di Green Screen E Come Utilizzarlo Efficacemente</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-mp4-videos-to-gifs-fast-movavis-top-ranking-online-and-free-tool/"><u>Convert MP4 Videos to GIFs Fast - Movavi's Top-Ranking Online and Free Tool</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-top-10-android-and-iphone-skin-mods/"><u>Discover Top 10 Android & iPhone Skin Mods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-and-convert-vob-tracks-to-lossless-flac-format-quick-easy-and-free/"><u>Download & Convert VOB Tracks to Lossless FLAC Format - Quick, Easy and Free!</u></a></li>
-<li><a href="https://win-online.techidaily.com/effortless-data-backup-using-command-line-and-batch-scripting-with-aomei-backupper/"><u>Effortless Data Backup Using Command Line & Batch Scripting with AOMEI Backupper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-wegwijzer-om-ts-in-wmv-te-konverteren-onlinelastig/"><u>Gratuit Wegwijzer Om TS in WMV Te Konverteren - Onlinelastig</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-windows-10-compatible-drivers-for-gtx-970/"><u>New Windows 10 Compatible Drivers for GTX 970</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rip-proof-free-online-conversion-of-m4r-to-mp3-by-movavi/"><u>Rip-Proof, Free Online Conversion of M4R to MP3 by Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/schneller-und-sicherer-datentransfer-winx-mediatrans-benutzerhandbuch-fur-die-einfache-migration-von-musik-videos-und-fotos/"><u>Schneller Und Sicherer Datentransfer: WinX MediaTrans - Benutzerhandbuch Für Die Einfache Migration Von Musik, Videos Und Fotos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solve-your-sound-problems-now-a-user-friendly-approach-to-repairing-realtek-hd-drivers/"><u>Solve Your Sound Problems Now: A User-Friendly Approach to Repairing Realtek HD Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-system-repairing-in-windows-easy-hotkeys-for-troubleshooting/"><u>Streamlined System Repairing in Windows: Easy Hotkeys for Troubleshooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforme-seu-png-em-jpeg-rapidamente-com-o-conversor-da-movavi-simplicidade-guiada/"><u>Transforme Seu PNG Em JPEG Rapidamente Com O Conversor Da Movavi - Simplicidade Guiada</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +115,21 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlocking-music-free-converters-for-youtube-and-mac-users/"><u>[Updated] 2024 Approved Unlocking Music Free Converters for YouTube & Mac Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-optimize-meetings-using-snap-camera-for-better-communication-in-teams/"><u>[Updated] In 2024, Optimize Meetings Using Snap Camera for Better Communication in Teams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-your-guide-to-8-best-fb-movies-downloader-selection-for-2024/"><u>[Updated] Your Guide to #8 Best FB Movies Downloader Selection for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-top-4-solutions-to-replace-windows-media-center-in-windows-11-environments/"><u>Discover the Top 4 Solutions to Replace Windows Media Center in Windows 11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-file-selection-utilizing-windows-11s-checkboxes/"><u>Efficient File Selection: Utilizing Windows 11'S Checkboxes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-interaction-with-windows-copilot-and-vivetool/"><u>Enhancing User Interaction with Windows Copilot and ViveTool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-mechanics-of-7-gpt-4-apps/"><u>Exploring the Mechanics of 7 GPT-4 Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/free-end-in-sight-windows-10-upgrade-offer-concludes/"><u>Free End in Sight: Windows 10 Upgrade Offer Concludes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-workflow-assign-winos-command-shortcuts/"><u>Optimize Workflow: Assign WinOS Command Shortcuts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/say-goodbye-to-traditional-microsd-introducing-tiny-1n-raspberry-pi-5-pcie-board-for-efficient-economical-storage-solutions/"><u>Say Goodbye to Traditional MicroSD: Introducing Tiny $1N Raspberry Pi 5 PCIe Board for Efficient, Economical Storage Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-to-cross-platform-efficiency-using-samsungs-dex/"><u>The Key to Cross-Platform Efficiency: Using Samsung's DeX</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722190658936-tweet-no-more-smiley-face-linuss-disclosure-trojan-explanation-and-gpt-problems-uncovered/"><u>Tweet No More Smiley Face, Linus’s Disclosure, Trojan Explanation, & GPT Problems Uncovered.</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-diverse-templates-wondershare-virbo-online-for-2024/"><u>Updated Diverse Templates | Wondershare Virbo Online for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Restoring Timed Lock Screen Function
-date: 2024-11-14T19:20:23.541Z
-updated: 2024-11-17T17:39:03.757Z
+date: 2024-11-24T16:58:48.628Z
+updated: 2024-11-27T17:45:40.649Z
 tags:
   - windows10
   - windows11
@@ -35,20 +35,11 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 4. Click the drop-down menus next to **On battery power, turn off my screen after** and **When plugged in, turn off my screen after** to select your preferred timeout.  
 ![Screen and Sleep Settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screen-and-sleep-settings-in-windows.jpg)
 
- After setting your preferred timeout, observe if Windows locks your PC after the specified period.
-
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After setting your preferred timeout, observe if Windows locks your PC after the specified period.
 
 ## 2\. Configure Screen Saver Settings
 
@@ -61,13 +52,14 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 5. Hit **Apply** followed by **OK**.  
 ![Screen Saver Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screen-saver-settings-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, Windows should lock your system once the screen saver activates.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Screen Saver Settings in the Local Group Policy
@@ -88,26 +80,10 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 8. Similarly, enable the **Password protect the screen saver** policy as well.  
 ![Password Protect Screen Saver Policy in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/password-protect-screen-saver-policy-in-group-policy-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your PC after applying the above changes and check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Other Generic Fixes to Try
@@ -120,26 +96,15 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 * **Try a Clean Boot:**[Performing a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) can help you determine whether a third-party program or service is causing issues with the lock screen timeout. Once you find the problematic program, consider removing it from your system to avoid such issues in the future.
 * **Perform a System Restore:** If the issue has only started occurring recently, you can [perform a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to undo recent changes and fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get the Lock Screen Timeout Working Again on Windows
 
  When the lock screen timeout fails to work as expected, it can potentially put your Windows computer at risk. Hopefully, one or more of the above tips have helped you solve the problem and you are at peace.
 
  To help out, we have listed some useful tips that should get the lock screen timeout to work on your Windows 10 or 11 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-video-popularity-on-youtube/"><u>[New] In 2024, Elevating Video Popularity on YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-viral-victory-hot-talk-highlights/"><u>[New] Twitter's Viral Victory Hot Talk Highlights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-a78-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo A78 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-wasted-cpu-by-ntoskrnlexe-processes/"><u>Minimizing Wasted Cpu by Ntoskrnl.exe Processes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-windows-11-easy-wi-fi-deletion-guide/"><u>Optimize Windows 11: Easy Wi-Fi Deletion Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/reviewing-the-elegant-innovation-in-tv-technology-samsung-ru80-series-and-its-savvy-features/"><u>Reviewing the Elegant Innovation in TV Technology: Samsung RU80# Series and Its Savvy Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sneaking-preview-into-unreleased-windows-capabilities-with-vivetool/"><u>Sneaking Preview Into Unreleased Windows Capabilities with ViVeTool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-mini-tablets-comprehensive-analysis-by-tech-gurus-pick/"><u>Top-Rated Mini Tablets : Comprehensive Analysis by Tech Gurus Pick</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-isdonedll-failures-on-windows-1011/"><u>Troubleshooting ISDone.dll Failures on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win1011-reactivating-unresponsive-adobe-photoshop/"><u>Win10/11: Reactivating Unresponsive Adobe Photoshop</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -148,3 +113,25 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>[New] A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-beyond-imagination-the-real-world-significance-of-snapchat-emojis/"><u>[New] Beyond Imagination The Real-World Significance of Snapchat Emojis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-de-fichiers-avi-a-format-m4v-sans-frais-faites-le-vous-meme-avec-des-outils-gratuits/"><u>Conversion De Fichiers AVI À Format M4V Sans Frais - Faites-Le Vous-Même Avec Des Outils Gratuits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-avi-to-mov-transformation-secure-your-data-with-free-online-service-by-movavi/"><u>Effortless AVI-to-MOV Transformation: Secure Your Data with FREE Online Service by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-mp4-converter-software-compatible-with-windows-and-mac-latest-update-2024/"><u>Free MP4 Converter Software - Compatible with Windows & Mac, Latest Update 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-mkv-to-m4v-converter-by-movavi/"><u>Free Online MKV to M4V Converter by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-rapide-pour-changer-des-fichiers-wav-en-videos-mp4-la-solution-de-movavi-gratuite-en-ligne/"><u>Guide Rapide Pour Changer Des Fichiers WAV en Vidéos MP4 : La Solution De Movavi Gratuite en Ligne</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-a79-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo A79 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-a18-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo A18 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenloos-omheen-nef-fotos-in-instantie-bmp-met-movavi-konvertor-online/"><u>Kostenloos Omheen: NEF-Foto's in Instantie BMP Met Movavi Konvertor Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shop-online-expert-guide-to-the-best-video-editors-available-today/"><u>Shop Online: Expert Guide to the Best Video Editors Available Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/skyline-gaming-unlocking-xbox-series-xs-potential/"><u>Skyline Gaming: Unlocking Xbox Series X's Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switch-from-ppm-to-bmp-seamlessly-on-the-web-at-no-cost-using-imageconverter-pro/"><u>Switch From PPM to BMP Seamlessly on the Web at No Cost Using ImageConverter Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-hashtag-strategies-for-boosting-your-contents-visibility-for-2024/"><u>Top Youtube Hashtag Strategies for Boosting Your Content's Visibility for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-packet-loss-on-discord-platforms/"><u>Troubleshooting Steps for Resolving Packet Loss on Discord Platforms</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-your-first-steps-in-podcast-editing-a-comprehensive-beginners-guide/"><u>Updated In 2024, Your First Steps in Podcast Editing A Comprehensive Beginners Guide</u></a></li>
+</ul></div>
+

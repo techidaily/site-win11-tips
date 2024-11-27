@@ -1,7 +1,7 @@
 ---
 title: "Unshackling the Gamer: Solve Full-Screen Freezes for Sonic Games (Windows 11)"
-date: 2024-11-10T16:24:59.377Z
-updated: 2024-11-17T17:43:26.719Z
+date: 2024-11-26T17:39:30.280Z
+updated: 2024-11-27T17:04:36.395Z
 tags:
   - windows10
   - windows11
@@ -25,35 +25,37 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Sonic Frontiers Crashing When It's Switched to Full-Screen Mode?
 
 ![screenshot of the sonic frontiers graphics menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_graphics_menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sonic Frontiers may exhibit a strange bug where the game doesn't properly utilize your dedicated GPU.
 
  While running in windowed mode, Sonic Frontiers has no problem using the correct hardware. However, when switching to full-screen, the game attempts to switch to your integrated GPU. Your PC's integrated GPU is most likely not powerful enough to run the game, or it might even be non-existent depending on your setup. Either way, this causes the game to crash.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Sonic Frontiers' Full-Screen Crash on Windows 11
 
 ![screenshot of the windows graphics settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_graphics_settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The quickest way to fix this is through Window's graphic settings page. Open this page by searching**Graphics** in the start menu search bar, and click on**Graphics Settings.**
 
 ![screenshot of sonic frontiers in the windows graphics menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontier_in_graphics_menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From here, search Sonic Frontiers in the search bar. If the game doesn't appear, you can hit**Browse** to manually locate the game.
 
@@ -64,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
  Switch the game to**High Performance** , then save your changes. This should fix the crash entirely.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Prevent Further Crashes in Sonic Frontiers
@@ -79,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
  If you don't know how to check your GPU drivers, be sure to check out[how to update your graphics drivers in Windows 10](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) —the steps work just as well in Windows 11\. If your GPU drivers are already updated, then consider using your native GPU software to add a profile for Sonic Frontiers.
 
  This has a similar effect to the steps described above, except you'll have even more options to tweak the graphical performance of the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Sonic Frontiers Crash Is Annoying, but It's an Easy Fix
 
@@ -108,15 +100,18 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-top-10-gif-recorder-mac-for-2024/"><u>[New] Top 10 Gif Recorder Mac for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-clips-to-tunes-explained-in-detail/"><u>[Updated] Instagram Clips to Tunes Explained in Detail</u></a></li>
-<li><a href="https://article-posts.techidaily.com/capture-every-angle-top-360-streaming-devices-reviewed-for-2024/"><u>Capture Every Angle Top 360° Streaming Devices Reviewed for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-not-valid-user-error-in-win11-environment/"><u>Clearing Up 'Not Valid User' Error in Win11 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-hybrid-errors-top-5-approaches-for-hypervisorbsod/"><u>Eliminating Hybrid Errors: Top 5 Approaches for HYPERVISOR_BSOD</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-demystifying-the-math-of-youtube-ratio-perfection/"><u>In 2024, Demystifying the Math of YouTube Ratio Perfection</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-lost-volume-controls-post-windows-update/"><u>Regaining Lost Volume Controls Post Windows Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reignite-file-explorer-functionality-for-windows-11/"><u>Reignite File Explorer Functionality for Windows 11</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/resolved-issues-with-your-hardware-detected-by-windows-now-corrected/"><u>Resolved: Issues with Your Hardware Detected by Windows, Now Corrected</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-pinnacle-playwriting-sanctuary/"><u>[New] 2024 Approved Pinnacle Playwriting Sanctuary</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-0xc00d36b4-audio-issue-on-windows-11/"><u>Correcting 0XC00D36B4 Audio Issue on Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210675720-9781631955099-hello-soul/"><u>Hello, Soul! | Free Book</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-hot-30-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Hot 30 5G.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixed-app-installations-oculus-on-ws11ws10/"><u>Mastering the Art of Fixed App Installations: Oculus on WS11/WS10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speech-to-text-made-effortless-learn-from-whisper-expertise/"><u>Speech to Text Made Effortless: Learn From Whisper Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-intervention-for-inactive-batch-process-scripts/"><u>Strategic Intervention for Inactive Batch Process Scripts</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-ie-fails-to-startup-solutions-inside/"><u>Troubleshooting Steps When IE Fails to Startup – Solutions Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-altering-win-11s-keyboard-settings/"><u>Understanding and Altering Win 11'S Keyboard Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-time-capsule-7-historical-windows-aspects-in-11/"><u>Unveiling the Time Capsule: 7 Historical Windows Aspects in 11</u></a></li>
 </ul></div>
 

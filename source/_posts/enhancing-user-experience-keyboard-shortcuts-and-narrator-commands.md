@@ -1,7 +1,7 @@
 ---
 title: "Enhancing User Experience: Keyboard Shortcuts & Narrator Commands"
-date: 2024-11-16T20:29:38.298Z
-updated: 2024-11-17T19:45:18.748Z
+date: 2024-11-22T17:43:57.155Z
+updated: 2024-11-27T17:03:46.934Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
 
  There are two popular keyboard layouts for Narrator: Legacy and Standard. The Legacy keyboard layout was traditionally used on computers before the widespread adoption of the Standard layout. It's still in use today and offers advantages at certain times.
@@ -36,15 +40,16 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 3. Select**Keyboard layout** from the drop-down menu.  
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
@@ -171,10 +176,7 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get More Out of Windows Narrator
@@ -196,22 +198,21 @@ This way, you can switch between the Legacy and Standard layouts.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-crafting-engaging-dialogue-in-screenplays-for-2024/"><u>[New] Crafting Engaging Dialogue in Screenplays for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-prosight-review-the-next-big-step-beyond-manycam/"><u>[New] In 2024, ProSight Review The Next Big Step Beyond ManyCam</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-visual-flair-filmmaking-the-foremost-15-luts-for-gopro-videos/"><u>[Updated] 2024 Approved Visual Flair Filmmaking The Foremost 15 LUTs for GoPro Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-inspire-creativity-brainstorming-for-channels-names/"><u>[Updated] Inspire Creativity Brainstorming for Channels' Names</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-invest-in-quality-screen-capture-bandicam-or-camtasia/"><u>[Updated] Invest in Quality Screen Capture Bandicam or Camtasia?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-definitive-steps-for-online-streaming-audio-archiving/"><u>2024 Approved The Definitive Steps for Online Streaming Audio Archiving</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-tp-link-ac1200-wifi-repeater-re305-evaluation-uncomplicated-user-experience/"><u>Comprehensive TP-Link AC1200 WiFi Repeater RE305 Evaluation: Uncomplicated User Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/defeat-hypervisorbsod-on-win1110-for-stability/"><u>Defeat HYPERVISOR_BSOD on WIN11/10 for Stability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-fixes-for-win-11s-event-viewer/"><u>Guiding Through Fixes for Win 11'S Event Viewer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-quickly-view-images-in-windows-11/"><u>How To Quickly View Images in Windows 11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-best-budget-gaming-accessories-keyboards-and-mice-under-99/"><u>In 2024, Best Budget Gaming Accessories Keyboards & Mice Under $99</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-performance-sluggishness-in-windows-with-dual-screen-views/"><u>Preventing Performance Sluggishness in Windows with Dual Screen Views</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-fixed-power-settings-on-windows-11/"><u>Solutions for Fixed Power Settings on Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/swiftly-adjust-youtube-videos-to-mac-screen-ratios-for-2024/"><u>Swiftly Adjust YouTube Videos to Mac Screen Ratios for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-error-0x80070570-restore-corrupted-files-directories/"><u>Tackling Error 0X80070570: Restore Corrupted Files, Directories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/time-tracker-titans-wins-best-tools-for-peak-efficiency/"><u>Time Tracker Titans: Win's Best Tools for Peak Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-customizable-touches-for-your-windows-via-ms-store-themes/"><u>Unveiling Customizable Touches for Your Windows via MS Store Themes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-vids-deep-dive-a-comprehensive-handbook/"><u>[New] Twitter Vids Deep Dive A Comprehensive Handbook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>[Updated] 2024 Approved The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discerning-intel-processor-generation-using-windows-tactics/"><u>Discerning Intel Processor Generation Using Windows Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-ai-creativity-openais-customizable-gpt-platforms/"><u>Embrace AI Creativity: OpenAI’s Customizable GPT Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-220-software-download-and-latest-firmware-upgrade/"><u>Free CanoScan LiDE 220 Software: Download and Latest Firmware Upgrade</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-performance-dealing-with-deathloops-freezing-problems-on-pc-and-ps5/"><u>How To Ensure Smooth Performance: Dealing With Deathloop's Freezing Problems On PC & PS5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-well-need-your-current-windows-password-error-on-windows-11-and-11/"><u>How to Fix the “We’ll Need Your Current Windows Password” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f23-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F23 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-surface-computers-latest-firmware-updates/"><u>Navigating Surface Computers' Latest Firmware Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-solving-cannot-read-from-disk-in-win1110/"><u>Quick Guide: Solving 'Cannot Read From Disk' In Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-default-energy-management-in-win-11/"><u>Re-Establishing Default Energy Management in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-shave-time-off-epic-launcher-downloads/"><u>Strategies to Shave Time Off Epic Launcher Downloads</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-infinix-by-fonelab-android-recover-music/"><u>The way to get back lost music from Infinix</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-8-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 8 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-store-apps-secure-directory-entry/"><u>Unlocking Store Apps: Secure Directory Entry</u></a></li>
 </ul></div>
 

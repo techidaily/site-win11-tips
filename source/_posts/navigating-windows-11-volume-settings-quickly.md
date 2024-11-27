@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11 Volume Settings Quickly
-date: 2024-11-16T18:53:00.067Z
-updated: 2024-11-17T17:39:10.611Z
+date: 2024-11-21T17:48:54.636Z
+updated: 2024-11-27T17:49:43.583Z
 tags:
   - windows10
   - windows11
@@ -23,19 +23,24 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Run Command Line
 
  This is the quickest way to open Volume Mixer in Windows 11\. All you have to do is press the**Win + R** keys and type "**sndvol.exe** " into the text box.
 
 ![Open Volume Mixer Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-run-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now click**OK** or hit Enter on your keyboard. You will see the Volume Mixer window where you can adjust individual programs' volume.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Taskbar Volume Icon
@@ -46,42 +51,15 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 
  This will open the Volume Mixer window where you can control the volume levels of different applications and adjust their output devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use the Control Panel
 
  Along with the above two methods, you can also launch the Volume Mixer directly from the Control Panel. This program lets you control the volume levels independently for each application running on your computer.
 
 ![Open Volume Mixer Using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-the-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To access it,[open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) , select**Hardware and Sound** , and then click**Adjust system volume** under the**Sound** section.
 
 ![Volume Mixer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/volume-mixer-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In order to change the volume of a specific application, click on its icon and drag the slider. To mute a specific application, click on the speaker icon next to it.
 
@@ -96,13 +74,14 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 ![Open Volume Mixer Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Task Manager window, click**Run new task** and type**sndvol.exe** in the Create new task window. Finally, click**OK** to launch Volume Mixer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use the Command Prompt
 
@@ -117,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
  You can also use the Windows Search tool to open Volume Mixer in Windows 11\. To do this, type “**Volume Mixer** ” in the search bar and then click on the corresponding result.
 
  Once the Volume Mixer window opens, you can adjust individual volume levels for applications or change their output devices in order to get your desired sound experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Create a Desktop Shortcut
 
@@ -151,16 +134,15 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-live-life-in-hd-with-panasonic-hx-a1-cam/"><u>[New] 2024 Approved Live Life in HD with Panasonic HX-A1 Cam</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mx922-printer-driver-update-for-windows/"><u>Canon MX922 Printer Driver Update for Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-compilation-of-playstation-5s-unique-game-titles/"><u>Complete Compilation of PlayStation 5'S Unique Game Titles</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-expert-comment-configurer-avec-succes-le-cloning-dun-startup-disk-sur-ssd-sous-windows-11-10-8-and-7-explique/"><u>Guide Expert: Comment Configurer Avec Succès Le Cloning D'un Startup Disk Sur SSD Sous Windows : 11, 10, 8 & 7 Expliqué!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-glowing-cursors-on-your-computer-screen/"><u>Guidelines for Glowing Cursors on Your Computer Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-0x80049dd3-voice-typing-error-in-windows-11/"><u>How to Fix the 0X80049dd3 Voice Typing Error in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-winstall-to-batch-install-apps-in-windows-11/"><u>How to Use Winstall to Batch Install Apps in Windows 11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/navigating-influencer-growth-on-instagram-top-5-steps-with-real-success-for-2024/"><u>Navigating Influencer Growth on Instagram Top 5 Steps with Real Success for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-wintoys-unleashing-the-full-potential-of-a-powerful-windows-app/"><u>The Complete Guide to WinToys: Unleashing the Full Potential of a Powerful Windows App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steams-unsyncable-files-issue-on-pc/"><u>Troubleshooting Steam's Unsyncable Files Issue on PC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/xs-100-i-the-ultimate-polaroid-for-action-enthusiasts-for-2024/"><u>XS 100 I - The Ultimate Polaroid for Action Enthusiasts for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-noir-effects-in-adobe-premiere/"><u>[Updated] 2024 Approved Noir Effects in Adobe Premiere</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-live-streaming-showdown-streamlabs-vs-obs-face-off-for-2024/"><u>[Updated] Live Streaming Showdown Streamlabs Vs. OBS Face-Off for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-windows-notification-experience/"><u>Enhancing Your Window's Notification Experience</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s23-tactical-edition-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S23 Tactical Edition in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-common-issues-when-trying-to-play-swtor-expert-advice/"><u>How to Fix Common Issues When Trying to Play SWTOR: Expert Advice</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-tailored-gaming-experience-without-cross-play-in-apex/"><u>In 2024, Tailored Gaming Experience without Cross-Play in Apex</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-greyed-out-bin-status-on-win11-pc/"><u>Rectifying Greyed Out Bin Status on Win11 PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-earning-excellence-mastering-youtube-monetization-anywhere-for-2024/"><u>Video Earning Excellence Mastering YouTube Monetization Anywhere for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-screensaver-unchangeability-best-practices/"><u>Windows Screensaver Unchangeability: Best Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/xbox-game-install-woes-quick-fix-guide/"><u>Xbox Game Install Woes: Quick Fix Guide</u></a></li>
 </ul></div>
 

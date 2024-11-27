@@ -1,7 +1,7 @@
 ---
 title: Correcting Applications that Say Install .NET Framework on PCs
-date: 2024-11-10T20:05:26.295Z
-updated: 2024-11-17T18:32:08.915Z
+date: 2024-11-22T16:01:37.447Z
+updated: 2024-11-27T17:04:30.913Z
 tags:
   - windows10
   - windows11
@@ -27,9 +27,17 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is .NET Core, and How Does It Work?
 
 ![Woman sitting in front of a laptop and thinking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pexels-artem-podrez-6779607.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  .NET Core is an open-source, cross-platform framework developed by Microsoft. Unlike the traditional .NET Framework (which is Windows-specific), it’s designed to build and run apps on various platforms, including Windows, macOS, and Linux.
 
@@ -62,16 +70,7 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 ![Enabling the .NET Framework Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enabling-the-net-framework-feature.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click **OK** to save these changes, and then restart your computer.
@@ -89,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
  From there, run the .NET Core installer executable (EXE) file and then follow the on-screen instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Repair the .NET Core Feature
 
  Sometimes, all you need to do is repair .NET Core to tackle the issue at hand. This can help fix any corrupted or missing files and resolve configuration issues.
@@ -110,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 ![Clicking Change on the Microsoft .NET Core Runtime option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-change-on-the-microsoft-net-core-runtime-option.jpg)
 
  From there, follow the on-screen instructions to complete the repair process. This should fix any issues with the existing .NET Core installation.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check the .NET Core Path Using the "Environment Variables" Feature
 
@@ -134,10 +119,7 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 ![Clicking the Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-environment-variables-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to the **System variables** section and then follow these steps:
@@ -173,10 +155,7 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a last resort, try resolving the issue by performing a clean boot or resetting your PC.
@@ -185,34 +164,15 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
  Meanwhile, [resetting your PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) essentially restores it to its original factory settings—removing any installed apps and user data. This can be a more drastic solution, but it can effectively address the issue at hand and other system issues. But before you proceed, make sure that you back up your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Run Your Favorite Apps Without Restrictions on Windows
 
  It’s really annoying when you see error messages while trying to run your apps. Fortunately, you can tackle the “To run this application, you must install .NET Core” error using the tips we’ve covered.
 
  But before we dive into the solutions, let’s take you through how .NET Core works.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-reviving-past-joy-on-fb-the-look-back-video-editing-path/"><u>[New] 2024 Approved Reviving Past Joy on FB The Look Back Video Editing Path</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-complete-playbook-for-high-quality-rl-captures-for-2024/"><u>[New] The Complete Playbook for High-Quality RL Captures for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-coordinated-audio-visual-grouping-space-for-2024/"><u>[Updated] Coordinated Audio-Visual Grouping Space for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlock-social-potential-xbox-games-via-facebook-livestream/"><u>[Updated] In 2024, Unlock Social Potential Xbox Games via Facebook Livestream</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-new-google-pixel-10-pricing-predictions-release-dates-and-speculative-features/"><u>All You Need to Know About the New Google Pixel 10 - Pricing Predictions, Release Dates, and Speculative Features</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-game-insight-on-monster-hunter-world-a-guide-to-formidable-creatures/"><u>Comprehensive Game Insight on 'Monster Hunter: World': A Guide to Formidable Creatures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-tutorial-how-to-broadcast-your-screen-on-discord-for-windowsmac-and-iosandroid-devices/"><u>Easy Tutorial: How To Broadcast Your Screen on Discord for Windows/Mac and iOS/Android Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-microsofts-recorded-protections-with-simplicity/"><u>Eliminate Microsoft's Recorded Protections with Simplicity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-functionality-to-flair-windows-10s-transition-to-11/"><u>From Functionality to Flair: Windows 10'S Transition to 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-your-dream-laptop-with-these-ifa-2023-picks/"><u>Get Your Dream Laptop with These IFA 2023 Picks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-motorola-g54-5g-lock-screen-password-by-drfone-android/"><u>How To Change Motorola G54 5G Lock Screen Password?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-an-end-task-option-on-the-windows-11-taskbar/"><u>How to Enable an End Task Option on the Windows 11 Taskbar</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24plus-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24+ Phone without PIN</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-90-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor 90 Pro Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-pathway-to-identifying-cybersecurity-risks-on-desktops/"><u>Personalized Pathway to Identifying Cybersecurity Risks on Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-rectify-windows-11-search-woes/"><u>Quick Guide to Rectify Windows 11 Search Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguard-your-pc-without-bitlockers-help-on-windows/"><u>Safeguard Your PC Without BitLocker's Help on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shortcuts-for-skipping-windows-sign-in-requirements/"><u>Shortcuts for Skipping Windows Sign-In Requirements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-fix-winerror-code-0x80780119/"><u>Step-By Step to Fix WinError Code: 0X80780119</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -221,3 +181,25 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-enrich-visuals-by-adding-music-tracks/"><u>[New] Enrich Visuals by Adding Music Tracks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lgs-visual-masterpiece-comprehensive-monitor-analysis/"><u>[New] LG’s Visual Masterpiece Comprehensive Monitor Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-prime-top-10-audio-capture-software-for-spotify-users/"><u>[Updated] Prime Top 10 Audio Capture Software for Spotify Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pros-choices-top-4-fullscreen-recording-software-for-pcmac/"><u>[Updated] Pros' Choices Top 4 Fullscreen Recording Software for PC/Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vanguard-20-top-anime-song-starters/"><u>2024 Approved Vanguard 20 Top Anime Song Starters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-iphone-models-for-gamers/"><u>Best iPhone Models for Gamers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comment-conserver-tes-messages-gmail-via-nas-qnap-en-trois-etapes-faciles-a-suivre/"><u>Comment Conserver Tes Messages Gmail via NAS QNAP en Trois Étapes Faciles À Suivre</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-productivity-with-windows-file-order-max-156/"><u>Maximize Your Productivity with Window's File Order (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-microsoft-shop-hurdles-code-0x80073cf3/"><u>Navigating Through Microsoft Shop Hurdles Code: 0X80073CF3</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-streamline-your-editing-40-final-cut-pro-x-keyboard-shortcuts/"><u>New 2024 Approved Streamline Your Editing 40 Final Cut Pro X Keyboard Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-discord-latency-for-smooth-playback/"><u>Optimizing Windows Discord Latency for Smooth Playback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-code-0x887a0006-graphics-issue-on-windev/"><u>Overcoming Code 0X887A0006 Graphics Issue on WinDev</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-workhorse-performance-16gb-ram-for-windows-users/"><u>Redefining Workhorse Performance: 16GB RAM for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-screen-positioning-with-a-90-degree-rotation/"><u>Strategic Screen Positioning with a 90-Degree Rotation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-to-unjam-your-google-drive-sync-in-window-os/"><u>Top Tips to Unjam Your Google Drive Sync in Window OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-superior-windows-to-dos/"><u>Unveiling the Superior Windows To-Dos</u></a></li>
+</ul></div>
+

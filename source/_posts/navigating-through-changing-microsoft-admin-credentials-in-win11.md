@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Changing Microsoft Admin Credentials in Win11
-date: 2024-11-13T16:31:33.306Z
-updated: 2024-11-17T17:38:22.641Z
+date: 2024-11-20T17:50:32.588Z
+updated: 2024-11-27T17:32:20.095Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Change the Administrator Name Through System Settings
 
  The Settings app is a built-in application on Windows that allows you to customize and manage settings on your computer. To change the Microsoft account administrator name in Windows 11,[open the System Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and follow these steps:
@@ -34,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 3. Under**Related settings** , click**Manage my accounts** . This will take you to the "Manage accounts" page.  
 ![Manage My Accounts in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-my-accounts-in-the-settings-app.jpg)
 4. Sign in with the Microsoft account you need to change the name of.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. After signing in, click**Your info** option from the top section.
 6. Under your Profile photo, you'll see your name. Click the**Edit name** option and enter your new name.  
 ![Modify Microsoft Account Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-microsoft-account-name.jpg)
@@ -41,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 8. Click the**Save** changes button, and you're all set.
 
  Your Microsoft account administrator name has been successfully changed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Change the Administrator Name Through Control Panel
 
@@ -54,30 +67,13 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 ![Change your account name in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-your-account-name-in-control-panel.jpg)
 4. Enter the new name and click**Change Name** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Rename account in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-account-in-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your Microsoft account administrator name will now be changed. Now you can access all the services provided by Windows with your new name.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Change the Administrator Name Through Command Prompt
 
@@ -95,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
  Press**Enter** to apply the changes. Your Microsoft account administrator name has been successfully changed. You can now sign in with your new Microsoft account administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. How to Change the Administrator Name Through Run Command
 
  Another tool you can use to change the Microsoft account administrator name is the Run dialog command. Here's how to do it:
@@ -111,6 +100,11 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 3. Select the Microsoft account you want to change and click**Properties** .  
 ![Change the account name in User Account window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-account-name-in-user-account-window.jpg)
 4. Under the**General** tab, enter the new name in the**Full Name** field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Apply > OK** to save the changes.
 
 Your Microsoft account administrator name is now changed.
@@ -134,20 +128,17 @@ Your Microsoft account administrator name is now changed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-digital-storytelling-with-facebook-slideshow-creation-for-2024/"><u>[New] Digital Storytelling with Facebook SlideShow Creation for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-5-pinterest-video-downloads-no-cost-and-fast-access-online/"><u>[New] In 2024, 5 Pinterest Video Downloads – No Cost & Fast Access Online</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-leveraging-visual-appeal-in-facebook-slideshows/"><u>[New] In 2024, Leveraging Visual Appeal in Facebook Slideshows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-curating-a-must-see-list-of-youtubes-top-makeup-talent/"><u>[Updated] Curating a Must-See List of YouTube's Top Makeup Talent</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-redefining-user-engagement-with-top-10-video-editors/"><u>[Updated] Redefining User Engagement with Top 10 Video Editors</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-how-copilot-key-upgrades-your-windows-11-experience/"><u>Discovering How Copilot Key Upgrades Your Windows 11 Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-these-top-7-tips-36/"><u>Elevate Your Windows Experience with These Top 7 Tips (36)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-guide-enhance-windows-bluetooth-device-with-full-sound-features/"><u>Fix Guide: Enhance Windows Bluetooth Device with Full Sound Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-trusted-sites-on-windows-11/"><u>How to Add Trusted Sites on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/retrogame-enhancement-via-retroarchs-advanced-shading-features/"><u>RetroGame Enhancement via RetroArch’s Advanced Shading Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-keyboard-use-redefine-functionality-via-fn-keys-on-windows-11/"><u>Revolutionize Keyboard Use: Redefine Functionality via FN Keys on Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-score-unbeatable-gaming-laptop-offers-for-holidays-on-zdnet-ranking-the-best-picks/"><u>Ultimate Guide: Score Unbeatable Gaming Laptop Offers for Holidays on ZDNet | Ranking the Best Picks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unresponsive-windows-10-monitor/"><u>Unresponsive Windows 10 Monitor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-recommendation-best-websites-to-download-funny-ringtones/"><u>[New] Recommendation Best Websites to Download Funny Ringtones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-closer-look-at-aim-aol-instant-messenger-and-its-impact-on-communication/"><u>A Closer Look at AIM (AOL Instant Messenger) and Its Impact on Communication</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-and-fixing-the-windows-update-hurdles/"><u>Breaking Down and Fixing the Windows Update Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flac-wav-movavi-wi-fi/"><u>FLAC 파일을 WAV로 쉽게 바꾸기: Movavi의 원형 제공 Wi-Fi 사용 가능성</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-mp2-audio-files-into-mp3-format-with-movavi/"><u>Free Online Converter: Change MP2 Audio Files Into MP3 Format with Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-sas-drivers-for-your-pc-running-on-win10-win8-or-win7/"><u>How to Get the Newest SAS Drivers for Your PC Running on Win10, Win8, or Win7</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-g23-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto G23 FRP</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-the-art-of-video-based-instruction-using-youtube/"><u>Mastering the Art of Video-Based Instruction Using YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-effortless-wav-to-m4r-file-converter-download-and-use-it-for-free/"><u>Movavi's Effortless WAV-to-M4R File Converter - Download & Use It For Free!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviflv3gp/"><u>Movaviで簡単にフリーオンライン変換:FLVを3GPに</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scambia-il-tuo-file-video-tta-con-un-formato-flac-senza-costi-usando-leditor-di-codici-video-online-movavi-passaggi-semplici-per-tutti/"><u>Scambia Il Tuo File Video TTA Con Un Formato FLAC Senza Costi Usando L'editor Di Codici Video Online Movavi - Passaggi Semplici per Tutti</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-low-cost-film-production-software-top-picks-for-emerging-creators-for-2024/"><u>Updated Low-Cost Film Production Software Top Picks for Emerging Creators for 2024</u></a></li>
 </ul></div>
 

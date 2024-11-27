@@ -1,7 +1,7 @@
 ---
 title: Understanding and Altering Win 11'S Keyboard Settings
-date: 2024-11-11T18:37:25.316Z
-updated: 2024-11-17T16:10:32.693Z
+date: 2024-11-21T17:56:10.922Z
+updated: 2024-11-27T16:37:40.785Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Keyboard Layout in Windows 11
 
  Multiple keyboard layouts are already installed for your preferred language. To add them to it, follow the steps below:
@@ -39,10 +43,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 3. In the **Keyboards** section, click **Add a Keyboard**, and select a different keyboard key layout from the available options.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Selecting a new keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-keyboard-layout-windows.jpg)
@@ -55,15 +56,16 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 3. Click **Install** for Windows 11 to download and install the new language.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Follow steps #2 and #3 above to add a new keyboard layout to the language you just installed.
 
  If you still can't find a keyboard layout you like, you should consider [creating a custom keyboard layout](https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change a Keyboard Layout in Windows 11
 
@@ -71,14 +73,11 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 
 ![the language switcher in windows 11 with canadian english selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/english-canada-keyboard-layout-windows-11.jpg)
 
- Alternatively, you can press and hold **Win** and keep pressing the **Space bar** to switch between different keyboard layouts. You can do the same by holding down **Shift** and pressing **Alt**.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Alternatively, you can press and hold **Win** and keep pressing the **Space bar** to switch between different keyboard layouts. You can do the same by holding down **Shift** and pressing **Alt**.
 
 ## How to Remove a Keyboard Layout in Windows 11
 
@@ -95,41 +94,11 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 2. Click the three-dot icon next to the language you want to remove and click **Remove**.  
 ![Removing a language on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/remove-language-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The language and its associated keyboard layout will now be removed from your computer.
 
  If you want a quick way to [remap the Windows keyboard](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/), just change its layout. You don't have to be stuck with the default layout if it doesn't serve your needs. Furthermore, the layouts are flexible, and can be used on a physical keyboard or the [on-screen touch keyboard](https://www.makeuseof.com/windows-11-enable-customize-touch-keyboard/).
 
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-captivating-and-impressive-hdr-portraits/"><u>[Updated] Expert Tips for Captivating and Impressive HDR Portraits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-on-screen-the-years-best-camcorders-reviewed/"><u>2024 Approved Excellence on Screen The Year's Best Camcorders Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-mobile-filming-tools-for-tourists/"><u>2024 Approved Mobile Filming Tools for Tourists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-how-windows-approves-deleted-items/"><u>Customizing How Windows Approves Deleted Items</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nubia-red-magic-8s-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nubia Red Magic 8S Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/edicion-de-pdf-en-linea-sin-costo-ni-inscripcion-el-metodo-ideal-para-reestructurar-documentos/"><u>Edición De PDF en Línea Sin Costo Ni Inscripción - El Método Ideal Para Reestructurar Documentos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-task-management-skills-in-windows-11-through-run-upgrade/"><u>Elevate Your Task Management Skills in Windows 11 Through Run Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-your-windows-experience-through-keys-and-discounts/"><u>Elevating Your Windows Experience Through Keys and Discounts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-time-management-on-pc-choose-from-these-5-best-tools-to-create-customized-clock-screen-savers/"><u>Enhance Time Management on PC: Choose From These 5 Best Tools to Create Customized Clock Screen Savers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/enhance-your-vision-a-compreeved-guide-to-tiktok-video-captioning-for-2024/"><u>Enhance Your Vision A Compreeved Guide to TikTok Video Captioning for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-windows-errors-when-displays-dont-boot-up/"><u>Handling Windows Errors: When Displays Don't Boot Up</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-make-your-content-trend-10-tips-for-instagram-success/"><u>How to Make Your Content Trend: 10 Tips for Instagram Success</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-aoemi-for-concurrent-file-sync-on-multiple-windows-devices/"><u>Navigating AOEMi for Concurrent File Sync on Multiple Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-and-rebooting-reviving-outdated-windows-applications/"><u>Resetting and Rebooting: Reviving Outdated Windows Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undoing-windows-11s-updated-search-bar-design/"><u>Undoing Windows 11'S Updated Search Bar Design</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/windows-8-avi-file-editor-simplify-video-editing/"><u>Windows 8 AVI File Editor Simplify Video Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-startup-configurations-simplified-guidebook/"><u>Windows Startup Configurations Simplified Guidebook</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -138,3 +107,21 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-masterclass-for-viral-talent/"><u>[New] 2024 Approved Masterclass for Viral Talent</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-your-ipads-voice-capture-potential-for-2024/"><u>[New] Unlocking Your iPad's Voice Capture Potential for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-producing-effective-corporate-webinar-videos/"><u>[Updated] 2024 Approved Producing Effective Corporate Webinar Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-becoming-a-lut-connoisseur/"><u>[Updated] The Path to Becoming a LUT Connoisseur</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-tackling-windows-11s-0x800713f-mail-fault/"><u>Guidelines for Tackling Windows 11'S 0X800713F Mail Fault</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-note-12-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi Note 12 Pro 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-some-settings-are-managed-by-your-organization-error-in-windows-11/"><u>How to Fix Some Settings Are Managed by Your Organization Error in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-hide-or-show-the-clock-and-date-from-the-taskbar-in-windows-11-and-11/"><u>How to Hide or Show the Clock and Date From the Taskbar in Windows 11 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-device-specific-windows-application-issues/"><u>Navigating Through Device-Specific Windows Application Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-change-folder-visibility-in-windows-11/"><u>Step-by-Step: Change Folder Visibility in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-coding-journey-how-to-use-dev-drive-in-windows-11/"><u>Streamlined Coding Journey: How to Use Dev Drive in Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-13-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 13 Pro iCloud Activation Lock Bypass</u></a></li>
+</ul></div>
+

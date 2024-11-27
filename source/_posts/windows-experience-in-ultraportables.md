@@ -1,7 +1,7 @@
 ---
 title: Windows Experience in Ultraportables
-date: 2024-08-28T01:17:30.312Z
-updated: 2024-08-29T01:17:30.312Z
+date: 2024-11-21T17:05:41.435Z
+updated: 2024-11-27T17:25:24.866Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
  **SCROLL TO CONTINUE WITH CONTENT**
 
  Some of these boards won’t run Windows at all, and some of those that can run it perform poorly and stutter every step of the way. Your options are limited if you're looking for a single-board computer that can run Windows properly. However, there are a few devices out there that can do the job quite well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows System Requirements
 
@@ -64,16 +68,14 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 | **Power**          | 12/15V DC via USB-C or 12V DC via DC jack                                                                                    |
 | **Other Features** | Onboard heat sink and fan TPM, built-in TPM (2.0), Arduino Leonardo ATmega32U4 co-processor                                  |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2. Khadas Edge2
 
 ![Khadas Edge2 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/khadas-edge-2-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit: [Khadas](https://www.khadas.com/edge2)
 
  The Khadas Edge2 is an ARM-based single-board computer that is designed to provide maximal performance in a minimal form factor. It is particularly suited for deep learning and natural language processing applications due to the embedded neural processing unit (NPU) capable of computing at 6 TOPS (tera operations per second).
@@ -92,11 +94,16 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 | **Power**          | USB-C Power Delivery 12V 2A (24W)                                                                              |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3. Hackboard 2 SBC
 
 ![Hackboard 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/hackboard2kit_fe.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The[Hackboard 2 is a single-board-compute](https://www.makeuseof.com/hackboard-2-x86-sbc/) r marketed as a small, affordable desktop replacement with a wide range of connectivity options. It features a dual-core Intel Celeron N4020 processor which clocks up to 2.8GHz and comes with 64GB eMMC storage. You can get it with either Windows 10 Pro or Debian Linux pre-installed.
 
@@ -114,8 +121,9 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 | **Power**             | 12V DC, 3A power supply                                                                                                                                                |
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4. UDOO BOLT V8
 
  The UDOO BOLT V8 is quite expensive at $550, but it packs a lot of specs that may appeal to users who need the heavy-lifting power. For purists, the V8 is not technically a single-board computer, as the RAM is inserted in SODIMM sockets and is not embedded in the board itself.
@@ -134,9 +142,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 | **Other Features** | Consumer IR receiver, fan controller, RTC battery included, 40-pin GPIO header, Microchip ATmega32U4 co-processor (Arduino Leonardo compatible) |
 | **Power**          | DC-in jack 19V 65W, USB Type-C Power Delivery                                                                                                   |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Honorable Mention: Raspberry Pi 4
 
 ![The Raspberry Pi 4 Model B Official Case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/praveen-thirumurugan-pkn_rlsbmzo-unsplash.jpg)
@@ -155,9 +160,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 | **Other Features**    | Two-lane MIPI DSI display port, two-lane MIPI CSI camera port                             |
 | **Power**             | 5V 3A power via USB-C port and GPIO; Power over Ethernet (PoE) capable using optional HAT |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Run Windows on a Single-Board Computer
 
  Both ARM and x64 single-board computers are capable of running the Windows operating system. That aside, you will have an easier time running Windows on x64 computers. If you're planning to use an ARM SBC as your daily driver, Windows is not the best choice currently. You'll be better served with an operating system created specifically for ARM computers such as Armbian or a supported Android distribution.
@@ -168,8 +170,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +177,18 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-symphony-of-screens-adding-music-to-online-chronicles/"><u>[New] 2024 Approved Symphony of Screens Adding Music to Online Chronicles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enthusiastic-presentation-appraisal-version-08/"><u>[New] Enthusiastic Presentation Appraisal, Version 08</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unpublished-photography-scrutiny-and-complementary-selections/"><u>[New] Unpublished Photography Scrutiny & Complementary Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-down-steps-a-guide-to-window-shortcuts-for-store-uwp-apps/"><u>Cutting Down Steps: A Guide to Window Shortcuts for Store UWP Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/extending-the-shutdown-duration-of-windows-11-with-ongoing-tasks/"><u>Extending the Shutdown Duration of Windows 11 with Ongoing Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-drivers-error-on-new-windows-operating-system/"><u>Fixing Missing Drivers Error on New Windows Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-missing-mcuicnt-executable-in-microsoft-os/"><u>How To Address Missing McUICnt Executable in Microsoft OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-vivo-v27-pro-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Vivo V27 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-a-drive-letter-not-available-on-windows-heres-why-and-how-to-fix-it/"><u>Is a Drive Letter Not Available on Windows? Here's Why, and How to Fix It</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209881804-9781734069952-spiritual-practicality/"><u>Spiritual Practicality | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultra-7-staggers-as-the-new-core-i7-1-47700k-surpasses-in-multi-core-performance-boasting-a-7-edge-in-single-core-speed/"><u>Ultra 7 Staggers as the New Core I7-1 47700K Surpasses in Multi-Core Performance, Boasting a 7% Edge in Single-Core Speed</u></a></li>
+</ul></div>
 

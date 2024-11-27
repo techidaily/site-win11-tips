@@ -1,7 +1,7 @@
 ---
 title: Lowering Wasteful Resource Usage by Ntoskrnl.exe
-date: 2024-08-28T01:18:37.382Z
-updated: 2024-08-29T01:18:37.382Z
+date: 2024-11-21T16:33:22.324Z
+updated: 2024-11-27T16:40:50.140Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 
  You may often see Ntoskrnl.exe running and utilizing CPU resources in your Task Manager, which is normal. This process constantly works in the background to keep your system running smoothly and efficiently. Therefore, it may consume resources. However, if Ntoskrnl.exe constantly hogs your CPU, it's a problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Ntoskrnl.exe Using Up My High CPU?
 
  To be honest, there's no clear answer. Many factors can cause Ntoskrnl.exe to use high CPU resources. You might run too many programs simultaneously, making your system work harder and taking up more resources. This situation often leads to high CPU usage, and Ntoskrnl.exe may bear the brunt of it.
@@ -34,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 
  Malware or viruses can also trigger Ntoskrnl.exe to use high CPU usage. They may mask themselves as system files and use more resources. To rule out this possibility, perform a system scan with a reputable antivirus program.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Can I Disable or Remove Ntoskrnl.exe?
 
  No, you shouldn't disable or remove Ntoskrnl.exe. As mentioned earlier, it is a critical system process that ensures your computer's smooth functioning. Disabling or removing it could cause system instability and crashes.
@@ -46,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
  Now that we know what Ntoskrnl.exe is and why it uses so much of your CPU's resources, let's discuss fixing the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  The first and foremost solution you should try is to restart your computer. It may seem simple, but it can often solve high CPU usage issues.
@@ -65,12 +67,18 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 3. In the Services window, scroll down and find **Windows Search** in the list.  
 ![Windows Search Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-search-service.jpg)
 4. Right-click on it and select **Properties**.
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. In the **General** tab, click on the drop-down menu next to **Startup type** and select **Disabled**.  
 ![Disable Windows Search Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-windows-search-service.jpg)
 6. Click on **Apply** and then **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you disable Windows Search Service, restart your computer and check if Ntoskrnl.exe's CPU usage has decreased.
 
@@ -88,23 +96,6 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 
  After updating your device drivers, restart your computer and see if it changes Ntoskrnl.exe's CPU usage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 4\. Scan for Malicious Program
 
  As stated earlier, malware or viruses can mask themselves as system files and use high CPU resources. To rule out this possibility:
@@ -114,6 +105,10 @@ Key features:
 3. After the scan, restart your computer and check if Ntoskrnl.exe's high CPU usage persists.
 
  If you prefer command-line tools, you can also perform a system scan and [remove malware or viruses using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). However, it requires some technical knowledge to use PowerShell effectively. Therefore, sticking to a [reputable antivirus program](https://www.makeuseof.com/windows-11-antivirus-apps/) is recommended for most users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use Windows Performance Toolkit
 
@@ -125,17 +120,11 @@ Key features:
 2. If the UAC window pops up, click **Yes** to proceed.  
 ![Use Windows Performance Toolkit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-windows-performance-toolkit.jpg)
 3. In the Command Prompt window, type the following command and hit Enter:  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 xperf -on latency -stackwalk profile -buffersize 1024 -MaxFile 256 -FileMode Circular && timeout -1 && xperf -d cpuusage.etl
 4. Wait for the process to complete. It may take some time.
 
  After the process ends, restart your computer and [open the System32 Folder in File Explorer](https://www.makeuseof.com/windows-11-open-system32/). Look for a file named **cpuusage.etl**. This is the report generated by the Windows Performance Toolkit. Double-click on it to open and analyze the report. It may provide insight into what's causing Ntoskrnl.exe to use high CPU resources.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Ntoskrnl.Exe's High CPU Usage on Windows
 
  Ntoskrnl.exe is just one of many system processes that work together to keep your computer running efficiently. While it may use high CPU resources, it's usually not a cause for concern. However, if it persists, trying the solutions mentioned above should fix the problem.
@@ -144,11 +133,26 @@ xperf -on latency -stackwalk profile -buffersize 1024 -MaxFile 256 -FileMode Cir
 
  Let's explore what Ntoskrnl.exe is and how to fix its high CPU usage on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-breakdown-the-broadcasting-barrier-easy-windows-pc-guide-to-live-tv-recording/"><u>[New] Breakdown the Broadcasting Barrier Easy Windows PC Guide to Live TV Recording</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beating-the-endless-launch-screen-bug-of-red-dead-redemption-2-solved/"><u>Beating The Endless Launch Screen Bug of Red Dead Redemption 2 (Solved)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/follow-the-footsteps-of-fan-driven-forums/"><u>Follow the Footsteps of Fan-Driven Forums</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-captivating-content-incorporate-these-20-magic-words/"><u>In 2024, Captivating Content Incorporate These 20 Magic Words</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-12-mini-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 12 mini with a Broken Screen?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/library-installation/"><u>Library Installation</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-6-popular-animated-emoji-video-effects-for-2024/"><u>New 6 Popular Animated Emoji Video Effects for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-access-to-credentials-in-windows-11-a-guide-to-opening-your-vault-fast/"><u>Quick Access to Credentials in Windows 11: A Guide to Opening Your Vault Fast</u></a></li>
+<li><a href="https://win-docs.techidaily.com/solving-the-problem-of-non-bootable-copied-ssd-drives-online-how-to-course-with-demos/"><u>Solving the Problem of Non-Bootable Copied SSD Drives - Online How-To Course with Demos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-windows-11-users-guide-to-high-dynamic-range-visuals/"><u>The Complete Windows 11 User's Guide to High Dynamic Range Visuals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-top-tier-classic-gaming-in-hd-clarity-windows-plus-scummvm-techniques/"><u>Tips for Top-Tier Classic Gaming in HD Clarity: Windows + ScummVM Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-enhanced-gpt-alternatives-improving-upon-chatgpt/"><u>Top 10 Enhanced GPT Alternatives Improving upon ChatGPT</u></a></li>
+</ul></div>
+

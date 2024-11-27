@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Fixed App Installations: Oculus on WS11/WS10"
-date: 2024-11-14T16:11:03.976Z
-updated: 2024-11-17T17:27:34.229Z
+date: 2024-11-26T17:12:03.204Z
+updated: 2024-11-27T16:40:58.652Z
 tags:
   - windows10
   - windows11
@@ -29,24 +29,29 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Oculus Installer File With Administrative Rights
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the **OculusSetup.exe** file and selecting **Run as administrator**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
 
@@ -54,20 +59,10 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off the Windows Firewall
@@ -75,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Install .NET Framework 4.6.1
 
@@ -95,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 5. Select to install .NET Framework 4.6.1 if you need to.
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
@@ -112,34 +104,11 @@ C:\Users\<User Folder>\AppData`
 
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this [Meta download page](https://www.meta.com/us/en/quest/setup/). Then click **Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install the Oculus Windows Software
 
  Many users have resolved the “we encountered an error” Oculus app installation issue by applying those potential solutions. So, there’s a good chance one will fix the Oculus app not installing on your Windows PC. Then you get back to playing all your favorite Rift PC VR games again.
 
  However, some users can’t install the Oculus Windows app because of an error message that says, “Sorry, we encountered an error during installation.” Users can’t utilize Rift headsets without that software installed. Quest 2 users can’t play Rift PC VR games because of this issue. This is how you can fix the “we encountered an error” Oculus app installation issue.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-discover-affordable-video-players-across-oses-effortlessly/"><u>[Updated] 2024 Approved Discover Affordable Video Players Across OSes Effortlessly</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-screenflow-mastery-on-macos-uncovered/"><u>[Updated] 2024 Approved ScreenFlow Mastery on macOS Uncovered</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-creation-to-calculation-your-guide-to-a-3-step-strategy-for-youtube-revenue-insight-for-2024/"><u>[Updated] From Creation to Calculation Your Guide to a 3-Step Strategy for YouTube Revenue Insight for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cooler-master-sets-record-straight-on-cryofuze-5-no-artificial-intelligence-just-advanced-thermal-tech/"><u>Cooler Master Sets Record Straight on CryoFuze 5 - No Artificial Intelligence, Just Advanced Thermal Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-through-windows-11s-sticky-note-barrier/"><u>Cutting Through Windows 11'S Sticky Note Barrier</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-copy-and-paste-in-application-guard-for-edge-in-windows-11/"><u>How to Enable Copy and Paste in Application Guard for Edge in Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-ideal-culmination-in-virtual-ventures/"><u>In 2024, Ideal Culmination in Virtual Ventures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimal-tools-for-notetakers-and-pc-slates-alike/"><u>Optimal Tools for Notetakers & PC Slates Alike</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/order-matters-how-to-properly-watch-the-conjuring-movie-saga/"><u>Order Matters! How To Properly Watch The 'Conjuring' Movie Saga</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-windows-with-wintoys-your-quick-reference-manual/"><u>Simplifying Windows With WinToys: Your Quick Reference Manual</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/solving-the-windows-xp-wont-start-error-code-100hbz-comprehensive-troubleshooting-guide/"><u>Solving the 'Windows XP Won't Start: Error Code 100Hbz - Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-hidden-truth-about-apple-watch-batteries-how-long-will-yours-really-last-tech-insights/"><u>The Hidden Truth About Apple Watch Batteries - How Long Will Yours Really Last? | Tech Insights</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -148,3 +117,27 @@ C:\Users\<User Folder>\AppData`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-wearable-wonder-apply-applewatch-to-openmac/"><u>[New] 2024 Approved Wearable Wonder Apply AppleWatch to OpenMac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-building-your-screencasting-skills-from-the-ground-up/"><u>[New] Building Your Screencasting Skills From the Ground Up</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-cloaking-in-content-an-introduction-to-video-smoothing/"><u>[New] Cloaking in Content An Introduction to Video Smoothing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-unpreviews-in-windows-outlook-for-businesses/"><u>Conquering Unpreviews in Windows Outlook for Businesses</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guida-passo-passo-come-aggiungere-i-subtitoli-ai-file-video-mp4/"><u>Guida Passo-Passo: Come Aggiungere I Subtitoli Ai File Video MP4</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-contextual-menu-integration-new-folder-placement/"><u>Mastering Contextual Menu Integration: New Folder Placement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-education-on-windows-8-proven-methods/"><u>Mastering Education on Windows: 8 Proven Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-setting-up-jdk-on-your-windows-11-system/"><u>Mastering the Art of Setting Up JDK on Your Windows 11 System</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/movavi-transforma-tus-videos-mkv-al-elegante-aac-por-internet-totalmente-gratuito/"><u>Movavi: Transforma Tus Videos MKV Al Elegante AAC Por Internet, Totalmente Gratuito</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-need-to-panic-solve-black-windows-issues-fast/"><u>No Need to Panic - Solve Black Windows Issues Fast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pagefilesys-explained-its-relevance-and-potential-risks/"><u>Pagefile.sys Explained: Its Relevance and Potential Risks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-high-gpu-load-on-windows-wm-window/"><u>Reducing High GPU Load on Windows WM Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-xc10100bf-for-non-playing-media/"><u>Resolving Error XC10100BF for Non-Playing Media</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-how-to-disable-cortanas-copilot-feature-in-windows-11/"><u>Step-by-Step Instructions on How to Disable Cortana's Copilot Feature in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-complete-review-of-camstudio-screencap-tech-for-2024/"><u>The Complete Review of CamStudio Screencap Tech for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k/"><u>The Ultimate Visual Fidelity in a Box – EIZO's CG318-4K</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-minimizing-window-search-imagery/"><u>Tips for Minimizing Window Search Imagery</u></a></li>
+</ul></div>
+

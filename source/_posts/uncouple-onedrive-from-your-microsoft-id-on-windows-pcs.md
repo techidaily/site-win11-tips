@@ -1,7 +1,7 @@
 ---
 title: Uncouple OneDrive From Your Microsoft ID on Windows PCs
-date: 2024-11-11T20:32:17.642Z
-updated: 2024-11-17T16:58:00.278Z
+date: 2024-11-23T17:11:51.607Z
+updated: 2024-11-27T16:44:02.052Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Unlink OneDrive From Your Windows PC
 
  Start by looking in the taskbar notification area—by default, the bottom right of your taskbar. You can[customize the Windows 10 taskbar](https://www.makeuseof.com/tag/7-tips-customizing-windows-10-taskbar/) by pinning items and making it colorful.
@@ -34,20 +38,31 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 3. Then click on the menu button (the three-dot menu) and click on**Settings** .  
 ![Change OneDrive settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/01-onedrive-settings-1.jpg)
 4. In the pop-up box, switch to the**Account** tab on top.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Here, click on the**Unlink this PC** link.  
 ![Unlinking OneDrive on Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-unlink-pc-onedrive.jpg)
 6. You will be asked to confirm whether you want to unlink your account. Click on the**Unlink account** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Unlink OneDrive sync on PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-unlink-onedrive-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will disable OneDrive on your PC. If you want to permanently delete the application and stop syncing between your PC and the cloud, it’s best to unlink your OneDrive first.
 
  If you change your mind and want to[re-link your OneDrive to your Microsoft account](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) , that can just as easily be achieved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Switching Off Microsoft’s OneDrive Syncing Made Simple
@@ -69,22 +84,24 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/tarter-kit-the-essential-youtube-setup-for-2024/"><u>[New] Starter Kit The Essential YouTube Setup for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-sound-system-advances-announced/"><u>[Updated] In 2024, Sound System Advances Announced</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-companion-for-creating-unique-metaverse-avatars/"><u>2024 Approved The Ultimate Companion for Creating Unique Metaverse Avatars</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridge-devices-with-confidence-using-a-barrier-for-mousekeyboard-sharing/"><u>Bridge Devices with Confidence: Using a Barrier for Mouse/Keyboard Sharing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/evaluating-windows-11s-restricted-environment-advantages/"><u>Evaluating Windows 11’S Restricted Environment Advantages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-unblocking-shared-printers-in-1011-os/"><u>Guide to Unblocking Shared Printers in 10/11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tether-your-android-as-a-webcam-on-windows-11-pcs/"><u>How to Tether Your Android as a Webcam on Windows 11 PCs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-itel-s23-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Itel S23 FRP Bypass Instantly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-lockscreensaver-delay/"><u>Mastering Windows Lock/Screensaver Delay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-permission-based-saves-windows-edition/"><u>Navigating Through Permission-Based Saves: Windows Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-integration-unlock-the-secrets-of-moving-from-windows-to-linux-with-these-6-crucial-factors/"><u>Seamless Integration: Unlock the Secrets of Moving From Windows to Linux with These 6 Crucial Factors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-typing-mastering-windows-11s-language-options/"><u>Transform Your Typing: Mastering Windows 11'S Language Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-data-flow-addressing-usb-issues-on-windows-pcs/"><u>Unblocking Data Flow: Addressing USB Issues on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-error-0x80073712/"><u>Understanding and Resolving Error 0X80073712</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleashing-fb-video-potential-with-speedy-insights/"><u>Unleashing FB Video Potential with Speedy Insights</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-refined-features-and-streamlined-appeal-of-the-samsung-galaxy-s21/"><u>Unveiling the Refined Features and Streamlined Appeal of the Samsung Galaxy S21</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-creating-seamless-meeting-transitions-with-slackplusfilmora-for-2024/"><u>[New] Creating Seamless Meeting Transitions with Slack+Filmora for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-easy-to-follow-steps-for-exporting-youtube-and-pinterest-videos-as-mp3s-for-2024/"><u>[New] Easy-to-Follow Steps for Exporting YouTube and Pinterest Videos as MP3s for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-instagrams-video-talk-essentials/"><u>[New] In 2024, Navigating Instagram's Video Talk Essentials</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-triller-demystified-a-comparative-look-at-unique-online-platforms-for-2024/"><u>[New] Triller Demystified A Comparative Look at Unique Online Platforms for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/1723262390415-59-for-musical-mastery-embrace-the-world-of-open-source-with-tulips-micropython-driven-computer-designed-for-musicians/"><u>$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-transform-your-videography-effortless-recording-and-editing-via-adobe-connect/"><u>2024 Approved Transform Your Videography Effortless Recording and Editing via Adobe Connect</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/authentic-praise-amplified-branding-for-2024/"><u>Authentic Praise, Amplified Branding for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-discreet-selector-tools-in-win-1011/"><u>Crafting Discreet Selector Tools in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-resolving-unknown-not-init-drives-in-windows/"><u>Deciphering and Resolving 'Unknown Not Init' Drives in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeating-xbox-game-pass-error-0-a-comprehensive-guide-for-windows-11-users/"><u>Defeating Xbox Game Pass Error 0: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-crashes-during-updates/"><u>Fixing Microsoft Store Crashes During Updates</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-timeout-error-for-win1110-semaphore/"><u>How To Reset 'Timeout Error' For Win11/10 Semaphore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-competitive-play-on-windows/"><u>Mastering the Art of Competitive Play on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-g24-power-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola G24 Power? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-teams-smart-systems-for-businesses/"><u>Speedy Teams, Smart Systems for Businesses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-zero-x-eight-oh-three-one-f-error-in-email-app/"><u>Tackling Windows' Zero X Eight Oh Three One F Error in Email App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-personalizing-windows-11-screensavers/"><u>Tips for Personalizing Windows 11 Screensavers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-have-chatgpt-escapes-stopped-working-here-are-7-insights-explained/"><u>Why Have ChatGPT Escapes Stopped Working? Here Are 7 Insights Explained</u></a></li>
 </ul></div>
 

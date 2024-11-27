@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Office: Solving Windows Activation Issues"
-date: 2024-08-28T01:14:01.581Z
-updated: 2024-08-29T01:14:01.581Z
+date: 2024-11-25T16:00:39.327Z
+updated: 2024-11-27T16:56:57.400Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
  Do you encounter the "Product Activation Failed" error when you open Office desktop applications? Do you want to use Word, Excel, and other apps, but an error bar appears on the screen informing you that your product has been deactivated and you should reactivate it first? You might find this extremely frustrating, especially when you have to complete a project urgently.
 
  Why does this issue occur? This article will discuss the causes of this error on Windows and how to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes the "Product Activation Failed" Error in Microsoft Office Apps?
 
@@ -38,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
 
  Now let's see how to check the above settings and apply the solutions to prevent this error from occurring again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Apply Some Preliminary Fixes
 
 First, perform the following preliminary checks:
@@ -57,9 +58,6 @@ If the above steps don't help, try applying the remaining fixes.
 
  Therefore, if you have chosen an illegitimate path, purchase the Microsoft 365 subscription, and this error will be resolved. If you want to get a better deal, check out our article covering[different ways to get cheap Microsoft Office and Microsoft Word licenses](https://www.makeuseof.com/tag/microsoft-office-cheap/) .
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Don't Use a Pirated Copy of Windows
 
  Just as you should avoid activating Office apps through unauthorized means, you shouldn't use unauthorized gateways to activate Windows. If Microsoft detects that you are using a copy of Windows that is not legitimate, it may block your access to certain apps and features.
@@ -75,9 +73,9 @@ If the above steps don't help, try applying the remaining fixes.
  If the subscription has expired, you will have to renew it to fix the error. However, if you have not received any email and the subscription is still active, you might be logged in to Microsoft apps with a different account.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Ensure You Are Logged Into the Correct Account
 
  You must use the same Microsoft account you used to buy the subscription to access all features of the Office apps. If you share your computer with others, they might have logged in to their accounts that do not have active subscriptions.
@@ -89,8 +87,9 @@ To ensure that's not the case, follow the below steps:
 3. Under**User Information** , you can find the account information. If you see a different account there, click on**Sign out** . Then, sign in again using the account that has an active subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Ensure the Date Is Set Correctly
 
  The "Product Activation Failed" error can also be caused by an incorrectly set date on your device. If your subscription is going to expire in a specific month of the year, which is yet to come, but the date you set on your device goes past the day when the subscription will actually expire, you may encounter this error.
@@ -98,13 +97,18 @@ To ensure that's not the case, follow the below steps:
  Look at your screen's lower-right end and check the set date. If it isn't set correctly, follow our guide on[how to change the date and time on Windows 11](https://www.makeuseof.com/windows-11-change-date-time/) .
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Reset the Problematic Office Application
 
  If the above checks don't help, reset the Office application where you are experiencing the error. Resetting the application won't delete any of your data. However, it may revert any customizations you've made in the app so far. If that's a concern for you, skip this step.
 
  If you want to reset the app but aren't familiar with the process, check out our guide on[how to reset any Windows app](https://www.makeuseof.com/windows-reset-app/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Run the OSPREARM.exe File
 
@@ -119,21 +123,15 @@ C:\Program Files\Microsoft Office\Office16
 
  It is important to note that the name of the Office folder in the path above may differ depending on which version of Office you are using. Therefore, if you use a different version than Office16, change the last part of the above path accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix the "Product Activation Failed" Error on Windows
 
  Running into the "Product Activation Failed" error and finding most of the features of Office apps restricted isn't a great experience. Hopefully, the solutions covered above will help you resolve the issue. In case they don't work, try the workaround. If that does not work as well, reinstall the Office application.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +140,16 @@ C:\Program Files\Microsoft Office\Office16
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-radial-magic-transforming-ordinary-photos-into-art-for-2024/"><u>[Updated] Radial Magic Transforming Ordinary Photos Into Art for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cambiar-de-videocamara-minidv-a-formato-mp4-sin-coste-conversion-digital-online-facil/"><u>Cambiar De Videocámara MiniDV a Formato MP4 Sin Coste - Conversión Digital Online Fácil</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-playback-settings-for-flawless-media-streams/"><u>Optimizing Playback Settings for Flawless Media Streams</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rumored-details-emerging-for-samsung-galaxy-z-flip-7-price-estimates-availability-date-and-tech-features/"><u>Rumored Details Emerging for Samsung Galaxy Z Flip 7 – Price Estimates, Availability Date & Tech Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-smart-eyewear-options-a-buyers-guide/"><u>Top-Rated Smart Eyewear Options : A Buyer's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-altering-win-11s-keyboard-settings/"><u>Understanding and Altering Win 11'S Keyboard Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-creativity-on-win10-with-these-7-art-tools/"><u>Unleash Creativity on Win10 with These 7 Art Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unleashing-visual-velocity-illustrators-guide-to-motion-blurs/"><u>Unleashing Visual Velocity Illustrator's Guide to Motion Blurs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-time-capsule-7-historical-windows-aspects-in-11/"><u>Unveiling the Time Capsule: 7 Historical Windows Aspects in 11</u></a></li>
+</ul></div>
 

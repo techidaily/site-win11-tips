@@ -1,7 +1,7 @@
 ---
 title: Rediscover Your Preferred Applications From the MS Store
-date: 2024-11-11T16:07:51.794Z
-updated: 2024-11-17T20:00:57.219Z
+date: 2024-11-26T16:25:12.370Z
+updated: 2024-11-27T17:58:54.999Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Re-Register Microsoft Store Apps for Current Users
 
 ![re register windows microsoft store apps current user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-windows-microsoft-store-apps-current-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the[Microsoft Store app issue](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) exists with a specific user account, you don’t need to re-register the app for all the user accounts on your computer. Instead, you can re-register the app only for the current user account.
 
@@ -43,16 +51,7 @@ To re-register Microsoft Store apps for the current user:
  During the process, you may see some errors highlighted in red. It is due to PowerShell trying to reinstall existing apps on Windows. So, ignore the error and wait for the process to complete.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Re-Register Microsoft Store Apps for All Users
@@ -60,10 +59,7 @@ To re-register Microsoft Store apps for the current user:
 ![re register microsoft store apps all users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-microsoft-store-apps-all-users.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need to re-register the built-in Windows apps for all users, you’ll need to tweak the above PowerShell cmdlet a little to include the -AllUsers parameter. This would allow the cmdlet to search through all user accounts on the system and install and re-register the Microsoft Store apps.
@@ -74,10 +70,7 @@ To re-register Microsoft Store apps for the current user:
 3. This process may take some time to complete depending on the number of apps that require re-registering and reinstalling.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install and Re-Register All Microsoft Store Apps on Windows 11
@@ -99,24 +92,19 @@ To re-register Microsoft Store apps for the current user:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-slide-show-must-haves-for-iphone-models-787-pro-max/"><u>[New] 2024 Approved Slide Show Must-Haves for iPhone Models 7/8/7 Pro Max</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-10-igtv-channels-shaping-content-trends/"><u>[New] 2024 Approved The 10 IGTV Channels Shaping Content Trends</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/1716070048390-updated-2024-approved-discover-the-best-mac-gif-recorders-now/"><u>[Updated] 2024 Approved Discover the Best Mac GIF Recorders Now!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-google-hangout-techniques-4-ways-to-shine/"><u>2024 Approved Google Hangout Techniques, #4 Ways to Shine</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/charting-tomorrows-path-alibabas-strategic-embrace-of-artificer-intelligence-and-cloud-infrastructure-as-catalysts-for-growth-explored-on-zdnet/"><u>Charting Tomorrow's Path: Alibaba's Strategic Embrace of Artificer Intelligence and Cloud Infrastructure as Catalysts for Growth | Explored on ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-tango-app-enjoy-unlimited-calling-features/"><u>Comprehensive Review of the Tango App - Enjoy Unlimited Calling Features!</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-for-successfully-installing-hades-add-on-on-your-kodi-device/"><u>Comprehensive Tutorial for Successfully Installing Hades Add-On on Your Kodi Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ease-through-excess-learn-the-quick-edits-for-large-drafters-on-tiktok/"><u>Ease Through Excess Learn the Quick Edits for Large Drafters on TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-to-reboot-windows-update-components/"><u>Guidelines to Reboot Windows Update Components</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-zte-nubia-z60-ultra-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring ZTE Nubia Z60 Ultra PC | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/power-through-pc-problems-master-these-20-cmd-commands/"><u>Power Through PC Problems: Master These 20 CMD Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/propel-windows-systems-into-high-efficiency-video-land-with-tdarr-tools/"><u>Propel Windows Systems Into High-Efficiency Video Land with Tdarr Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-solution-for-local-sam-service-error-signal/"><u>Quick Solution for 'Local SAM Service' Error Signal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-driver-failure-error-on-pcs-running-windows-1011/"><u>Resolving Driver Failure Error on PCs Running Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-your-setup-achieving-batch-software-updates-with-winstall-in-windows-11/"><u>Revolutionize Your Setup: Achieving Batch Software Updates with Winstall in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speedy-pc-control-hotkey-heroes-of-the-auto-world/"><u>Speedy PC Control: Hotkey Heroes of the Auto World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-system-for-optimal-performance-with-new-windows-and-linux-blend/"><u>Tailoring Your System for Optimal Performance With New Windows and Linux Blend</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-users-guide-to-task-filtering-and-theme-tweaking-in-windows-11/"><u>The Complete User's Guide to Task Filtering & Theme Tweaking in Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96164121-9780525505389-the-prophet/"><u>The Prophet | Free Book</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-how-to-make-a-photo-video-with-pixiz/"><u>[Updated] 2024 Approved How to Make a Photo Video with Pixiz?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-leading-lights-in-the-land-of-vr-entertainment/"><u>[Updated] Leading Lights in the Land of VR Entertainment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-your-youtube-views-into-a-screen-capture-made-simple-and-free/"><u>[Updated] Turning Your YouTube Views Into a Screen Capture Made Simple and Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-crafting-memes-on-9gag/"><u>A Comprehensive Guide to Crafting Memes on 9GAG</u></a></li>
+<li><a href="https://blog-min.techidaily.com/encode-your-videos-with-av1-using-handbrake-step-by-step-tutorial/"><u>Encode Your Videos with AV1 Using HandBrake - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-moto-g13-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Moto G13 Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistica-comparativa-50-palabras-inglesas-espanolas/"><u>Lingüística Comparativa: 50 Palabras Inglesas-Españolas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-the-load-strategies-to-reduce-ums-impact-on-your-system/"><u>Lowering the Load: Strategies to Reduce UMS Impact on Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-visuals-adjust-win11-scaling/"><u>Maximize Visuals: Adjust Win11 Scaling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-vintage-boot-settings-on-windows/"><u>Restoring Vintage BOOT Settings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-crashing-beast-flawless-fullscreen-in-windows-11s-sonic-games/"><u>Taming The Crashing Beast: Flawless Fullscreen in Windows 11'S Sonic Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-error-0x80041015-in-ms-office-for-windows-users/"><u>Unlocking Error 0X80041015 in MS Office for Windows Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-potential-of-gopro-hero5-in-time-lapse-cinematography-for-2024/"><u>Unlocking the Potential of GoPro Hero5 in Time-Lapse Cinematography for 2024</u></a></li>
 </ul></div>
 

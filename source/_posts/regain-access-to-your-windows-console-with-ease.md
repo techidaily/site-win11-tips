@@ -1,7 +1,7 @@
 ---
 title: Regain Access to Your Windows Console with Ease
-date: 2024-11-10T20:51:21.873Z
-updated: 2024-11-17T19:53:57.502Z
+date: 2024-11-24T16:24:19.346Z
+updated: 2024-11-27T16:00:12.693Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try a Different Method to Open the Windows Terminal
 
  One of the most common methods to open Windows Terminal is to right-click the**Start** button and select**Windows Terminal (Admin)** . But if the option is missing or nothing happens when you click it, you should[try a different method to open Windows Terminal](https://www.makeuseof.com/windows-11-open-windows-terminal/) .
@@ -41,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 ![Enable Windows Terminal on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable_terminal-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair Windows Terminal
@@ -59,22 +60,16 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 ![Repair Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-terminal-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reset Windows Terminal
 
  If you still can’t get Windows Terminal to work, you should try reverting it to its default settings. Check out[how to reset Windows Terminal](https://www.makeuseof.com/windows-11-reset-terminal-settings/#:~:text=To%20reset%20Windows%20Terminal%20Settings%20back%20to%20their%20defaults%2C%20follow,cmd%22%20in%20the%20Run%20dialog.&text=Now%20press%20the%20Enter%20key%20to%20delete%20the%20settings.) for steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run an SFC Scan
 
@@ -82,18 +77,15 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Missing or corrupted system files might cause the inability to open Windows Terminal. In this case, you should[run an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) . This will search for any broken system files and replace them automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reinstall Windows Terminal
 
  If nothing worked until now, it’s time to reinstall Windows Terminal. Go to**Settings > Apps > Installed apps** and locate**Terminal** . Then, click the**three-dot** icon next to it and select**Uninstall** .
 
 ![Uninstall Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-terminal-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once Windows uninstall the app, launch Microsoft Store and reinstall Windows Terminal.
 
@@ -118,22 +110,22 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-wirecast-for-facebook-live-broadcasts/"><u>[New] 2024 Approved Mastering Wirecast for Facebook Live Broadcasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-everyday-online-chronicles-a-handy-tip-for-digging-up-fbs-vids/"><u>[New] Everyday Online Chronicles A Handy Tip for Digging Up FB's Vids</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-mint-memes-of-merriment/"><u>[New] In 2024, Mint Memes of Merriment</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-leading-edge-techniques-for-video-based-seminars/"><u>[New] Leading Edge Techniques for Video-Based Seminars</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-right-way-to-disband-from-a-discord-community/"><u>[Updated] 2024 Approved The Right Way to Disband From a Discord Community</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-into-techniques-preventing-apex-crashes-on-windows-11/"><u>Dive Into Techniques: Preventing Apex Crashes on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-multitask-management-cascade-windows-with-alt-tab/"><u>Efficient Multitask Management: Cascade Windows with Alt-Tab</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-electronics-in-depth-reviews-from-toms-hardware/"><u>Inside the World of Electronics: In-Depth Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-with-finesse-your-windows-11-laptops-touch-settings/"><u>Navigate with Finesse: Your Windows 11 Laptop's Touch Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-high-definition-screen-scale-glitches/"><u>Overcoming High-Definition Screen Scale Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reign-in-windows-stop-unwanted-screen-movement/"><u>Reign In Windows: Stop Unwanted Screen Movement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-lower-ntoskrnlexe-usage/"><u>Strategies to Lower Ntoskrnl.exe Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-enhance-slow-execution-of-excel-workbooks-on-windows/"><u>Tips to Enhance Slow Execution of Excel Workbooks on Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/toolwiz-photos-app-complete-review-2023/"><u>Toolwiz Photos App - Complete Review 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-app-setup-utilizing-winstall-in-the-windows-11-landscape/"><u>Transforming App Setup: Utilizing Winstall in the Windows 11 Landscape</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-volume-variation-virtuosity-in-avid-pro-tools-tutorials/"><u>[Updated] In 2024, Volume Variation Virtuosity in Avid Pro Tools Tutorials</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtube-monetization-policy-updated-requirements-and-guidelines/"><u>2024 Approved YouTube Monetization Policy Updated Requirements and Guidelines</u></a></li>
+<li><a href="https://win-online.techidaily.com/5-proven-techniques-to-maximize-your-bulk-sms-campaigns-with-atomic-sms-massmailer-mastery/"><u>5 Proven Techniques to Maximize Your Bulk SMS Campaigns with Atomic SMS | MassMailer Mastery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/artistic-auto-trims-best-6-mac-os-big-sur-video-editors-reviewed-for-2024/"><u>Artistic Auto-Trims Best 6 Mac OS Big Sur Video Editors Reviewed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-default-snipping-tool-trigger-by-pressing-prtscn-in-win-11/"><u>Disable Default Snipping Tool Trigger by Pressing PrtScn in Win 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/driving-engagement-and-returns-animated-advertising-on-facebook/"><u>Driving Engagement and Returns Animated Advertising on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/effortlesswebcamcapturewithyoucam/"><u>EffortlessWebcamCaptureWithYouCam</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-c12-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-data-integration-merge-onedrive-windows-id/"><u>Masterful Data Integration: Merge OneDrive, Windows ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quieting-chrome-ads-and-alerts-on-windows-machines/"><u>Quieting Chrome Ads & Alerts on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-run-history-loss-issue/"><u>Resetting Run History Loss Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-low-usb-availability-dilemma/"><u>Solving the Low USB Availability Dilemma</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-anatomy-of-windows-os-update-process/"><u>The Anatomy of Windows OS Update Process</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/top-5-uavs-for-elevating-your-gopro-videos-and-movies-for-2024/"><u>Top 5 UAVs for Elevating Your GoPro Videos and Movies for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-e8024002e-in-windows/"><u>Troubleshooting Error E:8024002E in Windows</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-10-m2-ssd/"><u>Windows 10 M.2 SSD 挿入時の迅速なインストール手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zero-delay-shutdown-tactics-for-open-programs/"><u>Zero-Delay Shutdown Tactics for Open Programs</u></a></li>
 </ul></div>
 

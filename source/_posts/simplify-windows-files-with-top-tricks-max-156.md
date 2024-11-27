@@ -1,7 +1,7 @@
 ---
 title: Simplify Windows Files with Top Tricks (Max 156)
-date: 2024-08-28T01:14:29.540Z
-updated: 2024-08-29T01:14:29.540Z
+date: 2024-11-24T16:10:45.229Z
+updated: 2024-11-27T16:49:32.428Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 
  It is essential to keep in mind specific rules before you begin naming files on Windows. To help you stay organized and prevent you from getting unpleasant surprises, we're providing a list of important tricks you should know to name files on the operating system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Do Not Use Any Punctuation at the Start of a Filename
 
  You can use a period and other supported characters like parentheses, dash, commas, and underscore at the beginning of a filename. However, just because they are supported does not mean you should use them.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 ## 2\. Do Not Use Specific Punctuation Marks Anywhere in the Filename
 
 ![unsupported characters in filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unsupported-characters-in-filenames.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While you can name a file the way you want, there are some limitations to what characters you can use. Windows operating system does not allow certain characters in filenames, which include:
 
@@ -44,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 
  You can use spaces anywhere in the filename, but be mindful of the fact that some software does not recognize files with spaces. Instead of spaces, you can use underscores, dashes, and Camel case (e.g., FileName instead of File Name).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Keep Your Filenames Short and Snappy
 
 ![Length of filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/length-of-filenames.jpg)
@@ -76,11 +81,16 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 
 ![Rename file dialogue box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rename-file-dialogue-box.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It is important to note that you can use the same name in files without numbers in the parenthesis as long as they are not in the exact location. So if you want to use the same name in files, you have to keep them in separate locations.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Learn How to Rename Multiple Files at Once
 
  If you think you were committing all sorts of mistakes while naming files on Windows and now want to fix your mistakes, you can easily[batch rename files in Windows](https://www.makeuseof.com/tag/batch-rename-mass-delete-files-windows/) using File Explorer, Command Prompt, or PowerShell. You can also batch rename the file extensions if you think you made mistakes there.
@@ -89,70 +99,51 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 
 ![Emojis in Filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/emojis-in-filenames.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One of the coolest ways you can name files on Windows is by choosing emojis instead of words. You can[use whatever emojis you want in the name of your Windows files](https://www.makeuseof.com/windows-emoji-file-folder-drive-names/) . You can also mix words and emoticons if that works best for you; there is no limitation on using emojis anywhere in the filename.
 
  While emojis may not be hugely beneficial, they can make filenames more expressive if used properly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Include Dates in Filenames to Make Them Descriptive
 
  You can use dates in filenames on Windows. Some of the most common ways to write dates are in YYYY-MM-DD, YYYYMMDD, YYMMDD, and YYMM formats. However, you can not use YYYY/MM/DD because the forward slash character is not supported in a filename.
 
 ![Filename in DD-MM-YYYY format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/filename-in-dd-mm-yyyy-format.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  You can choose any format that suits you the best from the supported ones. But to ensure that you do not struggle with finding the exact filename, you should use the most significant date and time component first. If the year is your most important component, you should use that first.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Ensure Your Filenames Include Enough Context
 
  Different people will likely have different opinions about what makes a suitable filename. But broadly speaking, a good filename is short but descriptive enough to help you quickly understand what is in it. If you have a PC for everyone in your family to use, You also need to name them in such a way that anyone else in your family can understand its content and context.
 
  In other words, if you are keeping the files for everyone to see, you should choose something that tells about the content it has.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Search for the Exact File Using Search Syntax Commands
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  To be able to find the exact file on Windows quickly is not as simple as you think. If you type something in the File Explorer search box, it will show a laundry list of files containing what you just typed. Thus, it makes things difficult for you to find the exact file in File Explorer.
 
  For example, if you are looking for a file called**Windows.11** and want your PC to show you the exact file instead of a list of files with "windows" and "11" in them, you can type "name: Windows.11" in the File Explorer search box. This will only show you the exact file you are looking for.
 
  Other than the "name" search syntax, some popular ones include "kind," "size," and "date." If you type "size: 54 KB" in the File Explorer search bar, it will show you a list of files that are precisely 54 KB in size. We've shown[how to fix File Explorer search when it's not working](http://www.makeuseof.com/tag/fix-windows-file-explorer-search/) if you run into any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Get Better Filenames on Windows With These Tips
 
  People often ignore the importance of getting filenames right on their PCs. But with the tips above, you can be a pro at naming files. It will take some time to get used to everything we just shared. And it is certainly worth remembering them because they can make you more productive and certainly help you create a more organized environment in File Explorer or any other third-party file management tool you may be using.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +152,16 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-experience-keyboard-shortcuts-and-narrator-commands/"><u>Enhancing User Experience: Keyboard Shortcuts & Narrator Commands</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s17-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo S17 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-c65-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco C65 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-iterative-feedback/"><u>In 2024, Iterative Feedback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-secure-boot-and-tpm-control-in-virtualbox-for-improved-security/"><u>Mastering Secure Boot and TPM Control in VirtualBox for Improved Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shifting-qbittorrent-location-easy-to-follow-procedures/"><u>Shifting qBittorrent Location: Easy-to-Follow Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-installation-setbacks-on-modern-windows/"><u>Tackling Installation Setbacks on Modern Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-video-trailer-creation-software-for-mac-and-pc-for-2024/"><u>Top Video Trailer Creation Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-webm-video-compression-made-easy-online-solutions/"><u>Updated WebM Video Compression Made Easy Online Solutions</u></a></li>
+</ul></div>
 

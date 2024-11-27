@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LoadLibrary Err 87 Misstep
-date: 2024-08-28T01:15:11.366Z
-updated: 2024-08-29T01:15:11.366Z
+date: 2024-11-22T17:26:46.556Z
+updated: 2024-11-27T17:04:48.471Z
 tags:
   - windows10
   - windows11
@@ -30,28 +30,30 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
  If the error persists, disconnect your external displays connected to your system via HDMI or DisplayPort. Then, perform a restart and check for any improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update the Graphics Device Driver
 
  If you have a fresh Windows install or using a new system, your computer may be missing the necessary driver for the display adapter. This may cause your display adapter to malfunction and stop working.
 
  To fix the issue, check and[update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . If you have a dedicated GPU, use the GPU management tool from the manufacturer to download the update. You can also download the newer updates from the GPU manufacturer’s website.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Perform a Driver Roll Back
 
  This error is often due to the issue with your display adapter and mainly with the AMD machines. If the error is triggered after a recent driver or OS update, check if your graphics device has received a newer update. If so, you can perform a driver rollback to reinstall the older driver.
 
  You can[perform a driver rollback using Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . This should work irrespective of the Windows version you are running. However, if the rollback driver option is greyed out, it means Windows doesn’t have an older version that you can go back to and reinstall.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Uninstall and Reinstall the Graphics Drivers
 
 ![uninstall display adapter device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-display-adapter-device.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Corrupt display adapter drivers can also trigger "LoadLibrary failed with error 87". To fix the issue, you can uninstall the display driver from Device Manager and then perform a reinstall.
 
 To uninstall a display adapter driver:
@@ -66,15 +68,13 @@ To uninstall a display adapter driver:
  You can now reinstall the driver from the GPU manufacturer’s website. If the issue persists, check if the GPU drive is completely removed. If not, you can[use Display Driver Uninstall to completely remove GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Rename the atig6pxx.dll File
 
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you use an old AMD ATI graphics card, you can fix the error by renaming the atig6pxx.dll file in the System32 folder. It is a graphic drivers module, and issues with it can prevent 3D apps and games on your system from working.
 
  To rename the file, you’ll need administrator privilege. Log in with an administrator account and follow these steps.
@@ -102,8 +102,9 @@ attrib -r -s atig6pxx.dll`
 7. If all the commands are successfully executed, you can rename the atig6pxx.dll file without the permission error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Repair Windows Image with DISM
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
@@ -120,14 +121,14 @@ To run the DISM command-line tool to repair the system image:
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 5. This process may take several minutes. Restart your PC after the process is complete, and check for any improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall the App
 
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-apps-windows-11-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  If the error occurs when you launch a specific app, it may be an app-specific conflict triggering the error. To determine the cause, uninstall and install the latest version available.
 
 To uninstall the app:
@@ -148,8 +149,6 @@ To uninstall the app:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +156,18 @@ To uninstall the app:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-master-the-art-of-cutting-a-video-editors-handbook-for-instagram/"><u>[New] 2024 Approved Master the Art of Cutting A Video Editor's Handbook for Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-chase-credit-card-options-ranked-and-analyzed-on-zdnet/"><u>Best Chase Credit Card Options Ranked & Analyzed on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-freshness-in-group-policies-for-secure-windows-networks/"><u>Ensuring Freshness in Group Policies for Secure Windows Networks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/herocam-pro-mastering-advanced-features/"><u>HeroCam Pro Mastering Advanced Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-set-a-custom-inactivity-lock-time-on-windows/"><u>How to Set a Custom Inactivity Lock Time on Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a79-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A79 5G Phones with/without a PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/listen-and-write-the-gratis-method/"><u>Listen and Write – The Gratis Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-tpm-problems-on-windows-11-masterly/"><u>Navigating TPM Problems on Windows 11 Masterly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-mobile-podcast-apps-for-2024/"><u>Premier Mobile Podcast Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-your-save-config-in-pubg-windows-edition/"><u>Reclaiming Your Save Config in PUBG (Windows Edition)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/recommended-set-17-apps-that-make-picture-fixing-easier-for-2024/"><u>Recommended Set 17 Apps That Make Picture Fixing Easier for 2024</u></a></li>
+</ul></div>
 

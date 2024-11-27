@@ -1,7 +1,7 @@
 ---
 title: Triggering/Restricting Windows MSI Service
-date: 2024-11-10T20:19:12.831Z
-updated: 2024-11-17T19:18:27.578Z
+date: 2024-11-21T16:55:07.165Z
+updated: 2024-11-27T16:49:02.428Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,7 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
  If you ever need to re-enable the service, follow the same procedure and click**Start** in the Service status section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Local Group Policy Editor
@@ -64,16 +61,17 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 4. In the window that opens, select**Enabled** in the radio box.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Under Options, click the drop-down menu and select**Always** .
 6. Then click**Apply** and**OK** to save changes.
 
  That's all there is to it. The Windows Installer service will now be disabled on your system. To re-enable it, simply follow the same steps, but set "Turn off Windows Installer" to**Not Configured** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Registry Editor
 
@@ -89,25 +87,13 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 ![Disable Windows Installer Service Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-installer-service-using-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you put the Value data, make sure the Base is set to**Hexadecimal** , then click**OK** . Now close the registry editor and restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Turning Off the Windows Installer Service Made Easy
@@ -129,22 +115,16 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-streamlining-the-process-of-updating-tiktok-profile-age-for-2024/"><u>[New] Streamlining the Process of Updating TikTok Profile Age for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-engagement-advanced-youtube-tag-strategies-revealed/"><u>[Updated] 2024 Approved Boost Engagement Advanced YouTube Tag Strategies Revealed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unveiling-the-excellent-tech-for-high-definition-recording/"><u>[Updated] 2024 Approved Unveiling the Excellent Tech for High-Definition Recording</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/alienware-aurora-r7-unleashed-striking-the-perfect-chord-between-expensive-gear-and-economic-pricing/"><u>Alienware Aurora R7 Unleashed: Striking the Perfect Chord Between Expensive Gear and Economic Pricing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-your-dormant-data-windows-storage-visualization-tactics/"><u>Discover Your Dormant Data: Windows Storage Visualization Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-world-of-warcrafts-fatal-exception-error-132-in-windows-1011/"><u>How to Fix World of Warcraft’s Fatal Exception Error 132 in Windows 10/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-setup-and-use-hyper-v-virtualization-on-windows-10-a-comprehensive-tutorial/"><u>How to Setup and Use Hyper-V Virtualization on Windows 10: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-solve-the-0x80071a90-windows-problem/"><u>How to Solve the 0X80071a90 Windows Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-insider-beta-features-hidden/"><u>Keeping Insider Beta Features Hidden</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/pioneering-3-approaches-to-ipad-voice-capture-for-2024/"><u>Pioneering 3 Approaches to iPad Voice Capture for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/restore-your-earbuds-functionality-mastering-the-art-of-airpod-resets-and-repairs/"><u>Restore Your Earbuds' Functionality: Mastering the Art of AirPod Resets and Repairs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722715049305-sonys-offering-a-comprehensive-review-of-the-65-inch-4k-xbr-65x850f-led-tv-at-a-reasonable-price/"><u>Sony's Offering: A Comprehensive Review of the 65-Inch 4K XBR-65X850F LED TV at a Reasonable Price</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/starting-the-driver-verifier-application-on-windows-11/"><u>Starting the Driver Verifier Application on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-imperative-of-routine-windows-file-protection/"><u>The Imperative of Routine Windows File Protection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-application-switching-aids-mac-to-windows-migration-made-easy/"><u>Top 5 Application Switching Aids: Mac-to-Windows Migration Made Easy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-failed-ms-pc-manager-install-on-windows/"><u>Troubleshoot: Failed MS PC Manager Install on Windows?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-list-of-mac-video-metadata-editors-top-picks/"><u>Updated 2024 Approved The Ultimate List of Mac Video Metadata Editors Top Picks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopros-superhero-5-and-sj7-showdown/"><u>[New] GoPro's Superhero 5 and SJ7 Showdown</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-your-way-to-frequent-payments-from-youtube/"><u>[New] In 2024, Charting Your Way to Frequent Payments From YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-upload-longer-videos-to-instagram-on-mac/"><u>[Updated] 2024 Approved How to Upload Longer Videos to Instagram on Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-revenue-revolution-how-to-design-effective-animated-fb-ads-for-2024/"><u>[Updated] Revenue Revolution How to Design Effective Animated FB Ads for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-quintessential-quotient-subscriber-rankings/"><u>[Updated] The Quintessential Quotient Subscriber Rankings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/h264-h264/"><u>發現H.2#64格式: H.264媒體播放解決方案、設定及支持的作業系統比較分析</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviwmampeg/"><u>完美上線不用付費，使用Movavi將WMA改造成MPEG影片</u></a></li>
+<li><a href="https://win-news.techidaily.com/easy-instructions-on-how-to-sync-android-smartphonetablet-with-lg-tv/"><u>Easy Instructions on How to Sync Android Smartphone/Tablet with LG TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-10-best-ai-video-editing-software-of/"><u>Top 10 Best AI Video Editing Software Of</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-rw2-en-images-png-sans-frais-avec-easyformat-pro/"><u>Transformez Vos Fichiers RW2 en Images PNG Sans Frais Avec easyFormat Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-video-formats-mp4-and-mkv-compared-by-movavi-for-optimal-viewing-quality/"><u>Understanding Video Formats: MP4 and MKV Compared by Movavi for Optimal Viewing Quality</u></a></li>
 </ul></div>
 

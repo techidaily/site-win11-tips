@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Child Online: Windows 11 Safety Guide"
-date: 2024-08-28T01:18:42.506Z
-updated: 2024-08-29T01:18:42.506Z
+date: 2024-11-20T16:49:40.188Z
+updated: 2024-11-27T16:28:43.993Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 
 ![Create child account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/child-account-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Since you will not use this account too often, you should learn[how to start using a password manager](https://www.makeuseof.com/how-to-start-using-password-manager/) to remember its credentials.
 
 ## How to Set Up Windows 11's Parental Control Feature
@@ -49,18 +53,20 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
  Now, head back to the Family Safety webpage as shown before, and click your child’s account. In the left pane, you can see the categories for setting and changing permissions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Monitor and Change Permissions in Parental Control
 
  In the**Overview** tab, you can check general information about your child’s account, such as spent screen time, which games your child is playing, or the amount of spent money.
 
 ![Parental control overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/monitor-and-change-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don’t have the time to constantly check the account, scroll down to**Activity settings** . There, turn on the toggle below**Activity reporting** , so you can monitor your child’s activity on all of their devices. Also, you can turn on the toggle below**Send a weekly email to me** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use Parental Control to Limit Screen Time
 
@@ -72,47 +78,39 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 
 ![How to limit screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/edit-time-limit-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### How to Use Parental Control to Filter Content
 
  In the**Content Filters** tab, you can restrict which websites and apps your child can access. To keep your kids safe online, you can enable filters for inappropriate websites and searches or allow access only to approved websites.
 
 ![How to filter content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/filter-content-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, you can block certain websites, if you think they might be inappropriate for your child.
 
  The filters and activity reporting work only if your kid is using Microsoft Edge. However, you can add the other internet browsers to the list of blocked apps in the**Overview** menu, or you can[use a parental control app for Windows](https://www.makeuseof.com/tag/best-parental-control-apps-windows/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Use Parental Control to Overview Spending
 
  In the**Spending** category, you can add money or a credit card to the account. You can also set that every purchase needs to be approved by you. Additionally, you can get a notification for every purchase.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Keep Your Kids Safe on Windows 11
 
  Even if you're not that severe when it comes to your kids spending time on the computer, Parental control is still a helpful tool as you can monitor their activity and screen time. However, setting up Parental control software isn't a complete shield against the internet's biggest horrors, as there are ways your kids can bypass it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,4 +119,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>[New] 2024 Approved Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-curated-collection-of-top-tamil-ringtone-downloads-platforms/"><u>[Updated] 2024 Approved Curated Collection of Top Tamil Ringtone Downloads Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-art-of-extended-frame-videos-on-iphone/"><u>[Updated] In 2024, The Art of Extended Frame Videos on iPhone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unfollow-anomaly-spot-the-change-on-insta/"><u>[Updated] Unfollow Anomaly Spot the Change on Insta</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alibaba-plans-separate-ipo-for-cloud-division-while-preparing-second-and-third-units-for-public-offerings-zdnet/"><u>Alibaba Plans Separate IPO for Cloud Division While Preparing Second and Third Units for Public Offerings - ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-erroneous-game-status-detection-in-discord-windows-edition/"><u>Correcting Erroneous Game Status Detection in Discord, Windows Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-gear-mechanics-a-deep-dive-into-toms-hardware-know-how/"><u>Decoding Gear Mechanics: A Deep Dive Into Tom's Hardware Know-How</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/improving-faulty-cctv-picture-quality/"><u>Improving Faulty CCTV Picture Quality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-webcam-pro-step-by-step-recording-on-macbooks/"><u>In 2024, Webcam Pro Step-by-Step Recording on MacBooks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-secure-boot-and-tpm-control-in-virtualbox-for-improved-security/"><u>Mastering Secure Boot and TPM Control in VirtualBox for Improved Security</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-samsung-television-programming-apps/"><u>Navigating the World of Samsung Television Programming Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/next-level-experience-in-metaverse-with-top-8-accessories/"><u>Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-drive-not-initialized-warning/"><u>Quick Fix Guide: Drive Not Initialized Warning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-xbox-error-code-0x800700e9-on-pc/"><u>Remedying the Xbox Error Code: 0X800700E9 on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-missing-audio-saving-feature-on-windows/"><u>Restoring Missing Audio Saving Feature on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-unnecessary-edge-tab-activation-on-w11/"><u>Stop Unnecessary Edge Tab Activation on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transferring-iphones-calendar-events-to-windows-pc/"><u>Transferring iPhone's Calendar Events to Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-technology-windows-on-iphoneipad-mac-pc-unveiled/"><u>Transformative Technology: Windows on iPhone/iPad, Mac, PC Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/typing-titanics-crafting-custom-hotkeys-to-snap-and-snag-predefined-text/"><u>Typing Titanics: Crafting Custom Hotkeys to Snap and Snag Predefined Text</u></a></li>
+</ul></div>
 

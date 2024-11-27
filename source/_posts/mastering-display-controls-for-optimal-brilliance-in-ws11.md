@@ -1,7 +1,7 @@
 ---
 title: Mastering Display Controls for Optimal Brilliance in WS11
-date: 2024-11-13T20:40:29.166Z
-updated: 2024-11-17T16:50:36.948Z
+date: 2024-11-21T16:50:33.822Z
+updated: 2024-11-27T17:16:15.427Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use a Different Method to Adjust the Brightness Level
 
  First, you should use a different method to adjust your display's brightness from what you usually use. That way, you can check if the issue is specific to that adjustment setting or if it affects your entire system. For instance, if you can't change the brightness using your keyboard fn key but can change it with Windows settings, the key could just be disabled or broken.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 ## 2\. Reboot Your Device
 
  If none of the methods for changing your display's brightness work, reboot your device once. Doing so will ensure that a temporary problem with your operating system isn't preventing you from changing the brightness. If rebooting your device does not make a difference, apply the remaining fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update, Restart, or Reinstall the Drivers
 
@@ -56,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 ![Uninstall Display Device in Windows Device Mananger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-uninstall-display-device-in-windows-device-mananger.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Recharge Your Device
@@ -71,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
  If your battery is low, you should recharge your computer. Once your battery reaches a healthy level, you can adjust the brightness as usual. Or if you experienced the problem when you turned on battery-saving mode, you should turn it off or change its settings to allow you to change your monitor's brightness.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair Corrupted System Files
@@ -82,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
  Corrupt system files can impede many Windows features from working correctly and cause your device's brightness to freeze. So, you should rule out this possibility. Fortunately, Windows has a built-in tool—the System File Checker—to fix corrupt system files.
 
  So,[run the SFC to repair corrupt system files](https://www.makeuseof.com/system-file-checker-sfc-windows/) . Hopefully, after the scan, you can adjust your display's brightness again.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Change Your Display Settings
 
@@ -102,27 +97,11 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 3. Expand the**Brightness** menu and uncheck the boxes beside**Change brightness automatically when lighting changes** and **Help improve battery by optimizing the content shown and brightness** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Change the Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-display-settings-in-windows-settings-app.jpg)
 4. After that, turn off the toggle next to**Night light** if it is turned on.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Install Pending Windows Updates
 
@@ -157,16 +136,22 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-professional-drone-review-best-5-to-consider/"><u>[New] In 2024, Professional Drone Review Best 5 to Consider</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-pci-data-acquisition-and-signal-processing-controller-missing-on-windows-1110/"><u>[Solved] PCI Data Acquisition and Signal Processing Controller Missing on Windows 11/10</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-scrutinizing-selfies-on-instagram-validation-necessary/"><u>[Updated] 2024 Approved Scrutinizing Selfies on Instagram Validation Necessary?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-words-in-a-flash-windows-11-definiton-hub/"><u>Explore Words in a Flash - Windows 11 Definiton Hub</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-the-art-of-audio-in-audacity-professionally/"><u>In 2024, Perfecting the Art of Audio in Audacity Professionally</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jumpstart-your-valorant-pace-on-windows-pc/"><u>Jumpstart Your Valorant Pace on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-yellow-screen-problem-windows-display-correction-tips/"><u>Solving Yellow Screen Problem: Windows Display Correction Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-blue-screen-dumps-a-comprehensible-guide/"><u>Understanding Blue Screen Dumps: A Comprehensible Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-streaming-to-mp3-a-compreenas-guide/"><u>Vimeo Streaming to MP3 - A Compreenas Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-hello-fingerprint-login-configuration-guide/"><u>Windows Hello Fingerprint Login Configuration Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-dungeon-dominance-top-ten-rogue-classics/"><u>[New] Dungeon Dominance Top Ten Rogue Classics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-prime-zero-price-point-video-capturer/"><u>[New] Prime Zero-Price Point Video Capturer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webm-aac-movavi/"><u>免費線上 Webm 到 AAC音效轉換器 - Movavi 影片編輯師</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-archivos-mp3-al-formato-3gp-gratuito-en-linea-con-movavi/"><u>Convertir Archivos MP3 Al Formato 3GP Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descargar-conversor-de-archivo-au-a-mp4-sin-coste-alguno-movavi/"><u>Descargar Conversor De Archivo AU a MP4 Sin Coste Alguno - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-transform-rmvb-videos-into-high-quality-m4v-with-movavis-free-online-tool/"><u>Effortlessly Transform RMVB Videos Into High-Quality M4V with Movavi's Free Online Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/explore-premium-virtual-reality-cinema-your-guide-to-downloading-and-viewing-top-vr-movies-in-stunning-4khd-quality/"><u>Explore Premium Virtual Reality Cinema: Your Guide to Downloading and Viewing Top VR Movies in Stunning 4K/HD Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-online-omzetten-van-ogg-naar-wav-movavi/"><u>Gratuit Online Omzetten Van Ogg Naar Wav - Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-the-vida-video-editor-experience/"><u>In-Depth Analysis The Vida Video Editor Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-oferece-conversao-webp-para-tiff-sem-custo-funcionando-na-internet/"><u>Movavi Oferece Conversão Webp Para Tiff Sem Custo - Funcionando Na Internet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp3-wav-mpg-movavi-aac/"><u>MP3, WAV 등 MPG 애드셋을 제공하는 Movavi에서 간단한 방법: AAC 무료 변환</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/omzetten-mmf-bestandjes-online-zonder-mijotoen-movavi/"><u>Omzetten MMF-Bestandjes Online Zonder Mijotoen - Movavi</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prime-picks-for-live-tv-access-and-streaming/"><u>Prime Picks for Live TV Access and Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformacion-sin-costes-como-convertir-mpg-en-mp4-usando-el-conversor-online-y-gratis-de-movavi/"><u>Transformación Sin Costes: Cómo Convertir MPG en MP4 Usando El Conversor Online Y Gratis De Movavi.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317127-9781401949624-uplifting-prayers-to-light-your-way/"><u>Uplifting Prayers to Light Your Way | Free Book</u></a></li>
 </ul></div>
 

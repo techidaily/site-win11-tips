@@ -1,7 +1,7 @@
 ---
 title: Modifying Reset Counter for Locked Out Users Post Incorrect Logins
-date: 2024-08-28T01:16:15.625Z
-updated: 2024-08-29T01:16:15.625Z
+date: 2024-11-21T17:24:26.023Z
+updated: 2024-11-27T16:31:22.205Z
 tags:
   - windows10
   - windows11
@@ -28,11 +28,29 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
 2. In the text field, type “secpol.msc” and hit Enter.  
 ![Opening security policy via Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-windows-run-security-policy.jpg)
 3. On the left pane, navigate to **Account Lockout Policy** under the **Account Policies** folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Change Windows account lockout in Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-windows-account-policies.jpg)
 4. On the right pane, double-click on the **Reset account lockout counter after** option.  
 ![Windows account logon counter setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-reset-windows-account-logon-counter.jpg)
 5. Choose a number between one and 99,999, and hit **OK** to change how long the system will require to automatically reset any failed logon attempts.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change Account Lockout Counter Reset Time via Command Prompt
 
@@ -53,15 +71,14 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Control How Long Before the Incorrect Logon Counter Is Reset
 
  With this setting, you control how long before the counter that keeps track of incorrect logon attempts is reset. Use it in conjunction with the lockout duration option account policy to make things more convenient for local users.
 
  Exceed this threshold and you will need this counter to be reset, which you can do by waiting a set amount of time. Here’s how to change the time you must wait in order for the counter to be automatically reset.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -69,3 +86,21 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-choice-for-engaging-type-animations/"><u>[New] Ultimate Choice for Engaging Type Animations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-forget-your-finstas-quickly-iosandroid-advice/"><u>[Updated] 2024 Approved Forget Your Finstas Quickly IOS/Android Advice</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-quick-guide-to-capturing-and-storing-twitter-animated-content/"><u>2024 Approved The Quick Guide to Capturing and Storing Twitter Animated Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/covert-drive-strategies-for-ws1110-users/"><u>Covert Drive Strategies for WS11/10 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decreasing-system-overload-reducing-media-impact-on-windows-pcs-resources/"><u>Decreasing System Overload: Reducing Media Impact on Windows PC's Resources</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y100-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y100 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-code-0x8024a205-a-winupdate-solution-guide/"><u>Error Code 0X8024a205: A WinUpdate Solution Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-the-right-pace-whats-ideal-for-your-pc/"><u>Finding the Right Pace: What's Ideal for Your PC?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-misaligned-spatial-sound-on-windows-pcs/"><u>Fixing Misaligned Spatial Sound on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-discord-installation-woes-on-pclaptop/"><u>How to Rectify Discord Installation Woes on PC/Laptop</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-15-no-cost-image-editing-apps-top-picks-of-2023/"><u>In 2024, Leading 15 No-Cost Image Editing Apps - Top Picks of 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/journey-through-lut-based-color-enhancement-methods-for-2024/"><u>Journey Through LUT-Based Color Enhancement Methods for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-6-tools-to-convert-videos-seamlessly-on-your-pc-windows/"><u>Top 6 Tools to Convert Videos Seamlessly on Your PC, Windows</u></a></li>
+</ul></div>
+

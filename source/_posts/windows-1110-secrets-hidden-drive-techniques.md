@@ -1,7 +1,7 @@
 ---
 title: "Windows 11/10 Secrets: Hidden Drive Techniques"
-date: 2024-11-16T17:52:02.932Z
-updated: 2024-11-17T18:41:53.781Z
+date: 2024-11-25T16:36:33.208Z
+updated: 2024-11-27T17:08:02.972Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,14 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 5. Choose**Yes** when the warning message appears.  
 ![Hide a Drive Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-disk-management.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, your drive will no longer appear in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Hide a Drive in Windows With Diskpart Command
@@ -58,11 +59,20 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 `list volume`  
 ![List of Drives in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/list-of-drives-in-command-prompt.jpg)
 5. Note down the letter of the drive you want to hide from the**Ltr** column.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type the following command to select your drive. Make sure you replace**X** in the command with the drive letter noted in the last step.  
 `select volume X`
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
 `remove letter X`  
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
 
@@ -88,13 +98,6 @@ Here's what you need to do:
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
  Another brilliant tool that allows you to configure system settings in Windows easily is the Registry Editor. You can use Registry Editor to hide a drive if none of the above methods work. However, you must be careful[not to accidentally mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/) in the process.
@@ -115,10 +118,7 @@ Here's what you need to do:
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
@@ -128,13 +128,6 @@ Here's what you need to do:
  You can also use this method to hide multiple drives at the same time. To do so, add the decimal numbers for both drives and enter the total in the Value data field. For example, if you're looking to hide drive**G:** and**H:** from your computer, you should enter**192** (64 + 128) in the Value data field.
 
  You'll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the**NoDrives** DWORD.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Hiding Drives in Windows Is Easy
 
@@ -157,19 +150,19 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-laugh-ledger-the-ultimate-list-of-hilarious-tweet-threads/"><u>[New] 2024 Approved Laugh Ledger The Ultimate List of Hilarious Tweet Threads</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-comedic-edge-how-to-create-viral-video-memes-for-modern-audiences-for-2024/"><u>[New] The Comedic Edge How to Create Viral Video Memes for Modern Audiences for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovative-metaverse-gags-and-their-creators/"><u>[Updated] 2024 Approved Innovative Metaverse Gags & Their Creators</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-guide-to-the-elite-audiovideo-makers-web-for-2024/"><u>[Updated] Guide to the Elite Audio/Video Makers Web for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-screen-spectrum-your-gateway-to-gameplay/"><u>2024 Approved Screen Spectrum Your Gateway to Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/embracing-a-single-note-interface-across-devices-with-win11/"><u>Embracing a Single Note Interface Across Devices with Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-utilizing-wsl-2-in-windows-systems/"><u>Essential Tips for Utilizing WSL 2 in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-optimize-your-solid-state-drive-with-ssd-fresh-for-windows/"><u>How to Optimize Your Solid State Drive With SSD Fresh for Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme GT 5 (240W)? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-teamwork-eradicating-ms-teams-error-80080300/"><u>Mastering the Art of Teamwork: Eradicating MS Teams Error 80080300</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-no-write-allowed-message-in-win-os/"><u>Remedying the No Write Allowed Message in Win OS</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209839399-9780994001818-the-trinity-theory/"><u>The Trinity Theory | Free Book</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-samsung-galaxy-a05-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Samsung Galaxy A05</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/your-pathway-to-a-functional-windows-sandbox/"><u>Your Pathway to a Functional Windows Sandbox</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-live-thumbnails-for-effective-branding/"><u>[New] 2024 Approved Mastering Live Thumbnails for Effective Branding</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enlightenment-in-education-top-10-history-youtube-channels/"><u>[New] In 2024, Enlightenment in Education Top 10 History YouTube Channels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-cutting-edge-video-ideas-for-maximum-impact/"><u>[Updated] Cutting-Edge Video Ideas for Maximum Impact</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/6zu75rqq44gm5yih44km44gq44ge5zwp6agm77ya44or44o844og44kj44k344on44oz5ymk6zmk5b6m44gu6kq5pw05oml6acg/"><u>電源が切れない問題：パーティション削除後の調整手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp2avi-movavi/"><u>無限制使用的在線MP2與AVI媒體文件型式改變工具 – Movavi轉換器</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/aiiphoneandroid20245/"><u>最新AI技術で画質向上！iPhone・Android対応の2024年版動画改善ツールベスト5。</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aumentar-el-volumen-de-tu-video-guia-paso-a-paso-con-movavi/"><u>Aumentar El Volumen De Tu Video: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-convert-webm-to-mov-using-movavis-web-service/"><u>Free Online Conversion: Convert WEBM to MOV Using Movavi's Web Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-online-conversor-de-video-wmv-para-desktop-moveit/"><u>Gratuito Online Conversor De Vídeo WMV Para Desktop - MoveIt!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-s24-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy S24 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-avi-to-ogv-kansbare-omzetting-gratis-door-movavi/"><u>Online AVI-to-OGV Kansbare Omzetting Gratis Door Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-common-challenges-in-ios-photo-management-and-processing/"><u>Solving Common Challenges in iOS Photo Management & Processing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-echo-configuring-your-ipad-to-remain-silent-on-ringing-iphone-notifications/"><u>Stop the Echo: Configuring Your iPad to Remain Silent on Ringing iPhone Notifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-power-of-xbox-game-pass-ultimate-with-a-quick-cloud-gaming-guide/"><u>Unlock the Power of Xbox Game Pass Ultimate with a Quick Cloud Gaming Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling .NET Core Installation Directive on PCs
-date: 2024-11-14T18:55:03.902Z
-updated: 2024-11-17T20:07:53.261Z
+date: 2024-11-25T17:37:59.114Z
+updated: 2024-11-27T17:40:29.600Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 ## What Is .NET Core, and How Does It Work?
 
 ![Woman sitting in front of a laptop and thinking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pexels-artem-podrez-6779607.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  .NET Core is an open-source, cross-platform framework developed by Microsoft. Unlike the traditional .NET Framework (which is Windows-specific), it’s designed to build and run apps on various platforms, including Windows, macOS, and Linux.
 
@@ -63,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  Click **OK** to save these changes, and then restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Install the Required Version of .NET Core
 
  Running into the same issue even though you've enabled the ".NET Framework" feature? If so, then that’s a sign that you need to install .NET Core.
@@ -73,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 2. Go to the [.NET Core Installation page](https://dotnet.microsoft.com/en-us/download) and download the right .NET Core installer.
 
 ![The .NET Core Installation page on the Microsoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-net-core-installation-page-on-the-microsoft-website.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From there, run the .NET Core installer executable (EXE) file and then follow the on-screen instructions.
 
@@ -96,33 +97,7 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
 ![Clicking Change on the Microsoft .NET Core Runtime option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-change-on-the-microsoft-net-core-runtime-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, follow the on-screen instructions to complete the repair process. This should fix any issues with the existing .NET Core installation.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check the .NET Core Path Using the "Environment Variables" Feature
 
@@ -140,16 +115,7 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 ![Clicking the Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-environment-variables-button.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to the **System variables** section and then follow these steps:
@@ -168,15 +134,16 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 2. Type **C:\\Program Files\\dotnet** in the box.
 3. Press **OK** and then close the Environment Variables window. Finally, restart your device to save these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Ensure the App Is Compatible With Your Device
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, you might be running an app that’s incompatible with your device. In this case, that particular app will likely pop up strange error messages.
@@ -197,32 +164,15 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  Meanwhile, [resetting your PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) essentially restores it to its original factory settings—removing any installed apps and user data. This can be a more drastic solution, but it can effectively address the issue at hand and other system issues. But before you proceed, make sure that you back up your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Run Your Favorite Apps Without Restrictions on Windows
 
  It’s really annoying when you see error messages while trying to run your apps. Fortunately, you can tackle the “To run this application, you must install .NET Core” error using the tips we’ve covered.
 
  But before we dive into the solutions, let’s take you through how .NET Core works.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-color-grading-with-luts-in-premiere-pro/"><u>[New] Advanced Color Grading with LUTs in Premiere Pro</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-zero-to-hero-establishing-a-new-social-media-presence-facebook/"><u>[New] In 2024, From Zero to Hero Establishing a New Social Media Presence (Facebook)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-oggwav/"><u>「Movaviで使いやすい無料音声ファイル形式コンバーター - OGGとWAV」</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-guide-to-preserving-screen-chats/"><u>2024 Approved Essential Guide to Preserving Screen Chats</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlock-ig-potential-the-best-tools-for-post-management/"><u>2024 Approved Unlock IG Potential The Best Tools for Post Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-flv-movavi/"><u>網路直接 MP4 自由轉換成 FLV - 使用Movavi媒體編輯工具</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp3ogvmovavi/"><u>在線自由轉換MP3到OGV的方法：介紹Movavi 影片編解碼器</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bmp-a-tiff-trasformazione-on-line-senza-costi-con-movavi/"><u>BMP a TIFF: Trasformazione On-Line Senza Costi Con Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-unbiased-avs-video-editor-review-is-it-right-for-you/"><u>In 2024, Unbiased AVS Video Editor Review Is It Right for You?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jp2tiff-movavi/"><u>JP2/TIFFファイルの無料オンライン変換サービス - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/kostenloze-webm-to-avi-conversion-overheenlijnen-met-movavi-online-vervangend-videokunstwerk/"><u>Kostenloze Webm to Avi Conversion Overheenlijnen Met Movavi - Online Vervangend Videokunstwerk</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/our-favorite-lgbtq-shows-on-netflix-right-now-july-2024/"><u>Our Favorite LGBTQ Shows on Netflix Right Now (July 2024)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-true-solution-from-apple-why-rice-isnt-ideal-for-soggy-iphones-and-what-to-do-instead/"><u>The True Solution From Apple: Why Rice Isn't Ideal for Soggy iPhones and What to Do Instead!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-aiff-en-format-wma-sans-frais-sur-movavi-en-ligne/"><u>Transformez Vos Fichiers AIFF en Format WMA Sans Frais Sur Movavi en Ligne</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-urban-armor-gears-macbook-pro-shielding-case-the-perfect-blend-of-toughness-and-utility/"><u>Ultimate Guide to Urban Armor Gear's MacBook Pro Shielding Case – The Perfect Blend of Toughness and Utility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviwmawebm/"><u>すべてが自由！MovaviによるWMAファイルをWEBMに驚くべき瞬間移動</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -231,3 +181,25 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-top-6-cheapest-action-cameras-to-buy-under-100/"><u>[New] Top 6 Cheapest Action Cameras to Buy Under $100</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-add-background-scores-via-premiere-pro-for-2024/"><u>[Updated] Add Background Scores via Premiere Pro for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/craft-compelling-fb-video-ads-free-toolkit-included-for-2024/"><u>Craft Compelling FB Video Ads - Free Toolkit Included for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722198458323-discover-the-mobile-potential-access-chatgpt-on-your-iphone-or-ipad/"><u>Discover the Mobile Potential: Access ChatGPT on Your iPhone or iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-silent-login-screens-on-windows-devices/"><u>Eliminating Silent Login Screens on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-free-slide-show-techniques-for-windows-11s-immediate-use/"><u>Explore Free Slide Show Techniques for Windows 11'S Immediate Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-and-resolve-cc-errors-in-the-latest-os/"><u>How to Bypass & Resolve CC Errors in the Latest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-regain-connection-with-malwarebytes-service-windows/"><u>How to Regain Connection with Malwarebytes' Service (Windows)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-the-potential-of-facetime-voice-logging/"><u>In 2024, Unlocking the Potential of FaceTime Voice Logging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtubers-with-a-glamour-touch-top-names/"><u>In 2024, YouTubers with a Glamour Touch Top Names</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-asking-too-many-hands-in-windows/"><u>Navigating Through Asking Too Many Hands in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-upgrading-device-drivers-on-a-windows-operated-dell-xps-15/"><u>Step-by-Step Guide to Upgrading Device Drivers on a Windows-Operated Dell XPS 15</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/techniques-rapides-pour-sauvegarder-des-conversations-video-de-whatsapp-sur-pcmobile-en-place/"><u>Techniques Rapides Pour Sauvegarder Des Conversations Vidéo De WhatsApp Sur PC/Mobile en Place</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-merit-of-minimalist-design-in-windows-11s-widgets/"><u>The Merit of Minimalist Design in Windows 11'S Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-from-quick-access-use-onedrive-for-file-explorer-opening/"><u>Transition From Quick Access: Use OneDrive for File Explorer Opening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-cmd-capabilities-with-these-top-5-hacks/"><u>Unlock Cmd Capabilities with These Top 5 Hacks</u></a></li>
+</ul></div>
+

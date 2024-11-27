@@ -1,7 +1,7 @@
 ---
 title: Simplifying Legacy Systems for Grandparent Users
-date: 2024-08-28T01:18:27.427Z
-updated: 2024-08-29T01:18:27.427Z
+date: 2024-11-21T16:44:42.512Z
+updated: 2024-11-27T17:11:38.879Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  Here are ways you can make your older relatives' computer more accessible to boost their sense of independence.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure the Basic Accessibility Features Are Set Up
 
  One of the most important [ways to set up your Windows PC for seniors](https://www.makeuseof.com/windows-pc-seniors-set-up/) is to ensure that all basic accessibility features are set up and customized to suit your grandparents' needs.
@@ -40,29 +44,28 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  Removing any unwanted or unused desktop shortcuts will also reduce any confusion or your grandparents opening unwanted or unfamiliar programs by accident.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Rename Programs and Apps With an Accurate Description
 
 ![Make your grandparents PC accessible with large desktop items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/make-your-grandparents-pc-accessible-with-large-desktop-items.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There’s a high chance that your grandparents won’t associate “Chrome” with the internet, “Outlook” with their email service provider, or find it easy to differentiate between each visual icon. Brand names and icon designs of various programs will seem nonsensical to your elderly relatives, so it’s best to rename desktop icons to something more descriptive that they will understand.
 
  You could either decide on new simple labels yourself (for example, change “Google Chrome” to “Internet Browser”.) Alternatively, ask your grandparents what they call each program and rename each shortcut icon as per your relative’s preference.
 
  To change the name of program shortcuts, simply right-click each icon and either click **Rename** or press **F2** to enter a personalized label.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 4\. Set Up Email Filters to Avoid Message Overloads
 
 ![Create email filters to help your grandparent's autonomy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/create-email-filters-to-help-your-grandparent-s-autonomy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your grandparents value their autonomy and independence, they may enjoy or want to be in charge of their email accounts. However, as spam and junk emails are so common now, it’s a good idea to set up some email filters to reduce unnecessary items from confusing their inbox.
 
  There are plenty of [handy tools that can organize your emails](https://www.makeuseof.com/best-tools-organize-emails-boost-productivity/) for your grandparents. If you’d rather create some email filters yourself, you can follow these steps for Outlook:
@@ -76,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  Once inbox rules are set in Outlook, all new emails will be redirected to your chosen folder. This should declutter your grandparents' inbox and make it less confusing for them to access.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Enable Remote Desktop
 
  Even with all your efforts to make your grandparents' computer as accessible as possible, it’s likely they’ll still run into difficulties. While they may attempt to explain to you what they see on their screen over the phone, enabling remote desktop access can make the fixing process much easier when you’re not around.
@@ -87,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
 **Download:**[TeamViewer](https://www.teamviewer.com/en/download/windows/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Write Basic Instructions in Word and Save the Files to Desktop
 
  One way to empower your senior relative to take control of their computer is to give them some basic instructions that they can refer to at their disclosure. That way, they won’t need to call you up for advice or remote access any time they encounter PC issues.
@@ -100,12 +97,13 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
 ![Remove bloatware from your grandparent's PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/remove-bloatware-from-your-grandparent-s-pc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 [Bloatware](https://www.makeuseof.com/what-is-bloatware/)—or Potentially Unwanted Programs (PUP)— are programs that you don’t want, that take up hardware space, and often slow down your computer. When it comes to your grandparents' computer, their bloatware is likely to come as pre-installed software. It’s unlikely that your grandparents will want or benefit from any bloatware, so it’s best to remove it for them.
 
  Luckily, you can [easily remove bloatware from Windows](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) and other computers. Simply navigate to **Settings > Apps >** **Installed apps** to identify and uninstall any unwanted programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Disable Automatic Updates
 
@@ -121,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  Consider creating letter templates in Word (or their preferred word processor) and save the document to the desktop so that they can easily access it. You can also [create email templates in Outlook](https://www.makeuseof.com/how-to-make-and-use-email-template-outlook/) and Gmail so that your elderly relative can just focus on the content of their messages on their computer without worrying about any technicalities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Making Your Grandparents' Computer More Accessible Can Preserve Their Sense of Independence
 
  Aging can be difficult for many reasons, but losing your sense of independence can have detrimental effects on your overall well-being and life outlook. By making your grandparents' computers highly accessible, you can empower them to be in charge of their technology. Plus, it’ll make your visits much more enjoyable, given that you’re not constantly fixing granny or grandpa's PC.
@@ -129,11 +131,31 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  Here are ways you can make your older relatives' computer more accessible to boost their sense of independence.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>[New] 2024 Approved Get Superior Visuals From YouTube - Downloading Thumbnails Free!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-entry-into-the-world-of-google-meet-webinars-for-2024/"><u>[Updated] Entry Into the World of Google Meet Webinars for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-essential-words-in-the-digital-realms-lexicon/"><u>2024 Approved Essential Words in the Digital Realm's Lexicon</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024youtube-youtube/"><u>2024年に公開されたYoutubeビデオをダウンロードする方法 - YouTube動画ダウンロードテクニック</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brand-expression-made-simple-affordable-personalized-logo-templates-free/"><u>Brand Expression Made Simple Affordable Personalized Logo Templates (Free)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-an-effective-strategy-for-eradicating-windows-mail-error-0x800713f/"><u>Crafting an Effective Strategy for Eradicating Windows Mail Error 0X800713F</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/create-and-burn-discs-with-ease-using-the-award-winning-winx-dvd-author-free-edition-windows-11/"><u>Create and Burn Discs with Ease Using the Award-Winning WinX DVD Author Free Edition (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-solving-m365-error-code-30015-26-on-windows/"><u>Deciphering and Solving M365 Error Code 30015-26 on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/detailed-tech-specifications-winxvideo-artificial-intelligence-software/"><u>Detailed Tech Specifications - WinXvideo Artificial Intelligence Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fortifying-internal-builds-against-breaches/"><u>Fortifying Internal Builds Against Breaches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-camera-shutter-shortcomings/"><u>Navigating Through Windows Camera Shutter Shortcomings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-file-exchange-protocols-for-windows-10-and-11/"><u>Safeguarding File Exchange: Protocols for Windows 10 & 11</u></a></li>
+<li><a href="https://win-great.techidaily.com/seamlessly-watch-high-definition-youtube-videos-on-your-smart-tv-with-our-hd-download-app/"><u>Seamlessly Watch High-Definition YouTube Videos on Your Smart TV with Our HD Download App</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-steps-to-change-your-videos-into-mp4-and-make-them-play-on-psp/"><u>Simple Steps to Change Your Videos Into MP4 and Make Them Play on PSP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-monitor-and-modify-removable-storage-use/"><u>Techniques to Monitor and Modify Removable Storage Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-power-to-repair-predominant-windows-rainmeter-issues/"><u>Unleashing the Power to Repair Predominant Windows Rainmeter Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-microsofts-ai-hub-at-ms-store/"><u>Unveiling Microsoft's AI Hub at MS Store</u></a></li>
+</ul></div>
+

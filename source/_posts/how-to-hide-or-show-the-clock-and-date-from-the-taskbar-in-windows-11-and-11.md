@@ -1,7 +1,7 @@
 ---
 title: How to Hide or Show the Clock and Date From the Taskbar in Windows 11 and 11
-date: 2024-11-12T19:10:24.248Z
-updated: 2024-11-17T16:02:31.720Z
+date: 2024-11-25T17:01:35.613Z
+updated: 2024-11-27T16:49:58.080Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Hide or Show the Clock and Date from the Taskbar by Using Windows System Settings
 
  The System Settings is the central hub of a Windows PC. You can use it to update Windows, manage privacy settings,[customize the taskbar](https://www.makeuseof.com/windows-11-customize-taskbar/) , and more.
@@ -39,18 +43,16 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 4. Scroll down and click the**Turn system icon on or off** option under the**Notification** area.  
 ![Turn system icons on or off option in Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-system-icons-on-or-off.png)
 5. In the new window that crops up, disable the toggle next to**Clock.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Clock in System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-the-clock.png)
 
  That's it. You've disabled the clock and date from the taskbar.
 
  To enable them again, head towards the above settings again and enable the toggle.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Hide or Show the Clock and Date from the Taskbar by Using the Local Group Policy Editor
 
@@ -70,10 +72,7 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 7. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next,[restart your computer](https://www.makeuseof.com/windows-restart-methods/) for changes to take effect.
@@ -95,10 +94,7 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 5. In the Explorer key, right-click on the blank space, and choose**New** \>**DWORD (32-bit Value)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Name the value**HideClock** and press Enter.
@@ -110,10 +106,7 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
  To reverse the changes, type**0** in the Value data section of HideClock value and click OK.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Remove Any Distraction from the Taskbar
@@ -135,21 +128,18 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-digital-splendor-on-youtube-the-hue-harmonization-way-for-2024/"><u>[Updated] Digital Splendor on YouTube The Hue Harmonization Way for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138603396-9781788172271-connecting-with-the-angels-made-easy/"><u>Connecting with the Angels Made Easy | Free Book</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-updated-drivers-for-your-canon-mg2900-easily/"><u>Find and Install Updated Drivers for Your Canon MG2900 Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-play-40c-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Play 40C?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrate-keyboard-indicators-numlock-capslock-in-taskbar/"><u>Integrate Keyboard Indicators: NumLock, CapsLock in Taskbar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-x1-carbon-software-updates-secure-driver-downloads-for-win-10win-n7-systems/"><u>Lenovo X1 Carbon Software Updates – Secure Driver Downloads for Win 10/Win N7 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-to-resolve-microsoft-store-error-code-0x80072f30/"><u>Quick Steps to Resolve Microsoft Store Error Code 0X80072F30</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-uninstallation-tips-for-non-functioning-printers-on-win-1011/"><u>Quick Uninstallation Tips for Non-Functioning Printers on Win 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/rapid-recreation-compile-your-favorite-quick-game-titles/"><u>Rapid Recreation: Compile Your Favorite Quick Game Titles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-connection-errors-with-unidentified-usb-ports/"><u>Resolving Connection Errors with Unidentified USB Ports</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-misidentified-gaming-feature-within-discord-windows-edition/"><u>Resolving Misidentified Gaming Feature Within Discord, Windows Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rewriting-windows-script-policy-top-4-strategies-for-enabling-ps-loading/"><u>Rewriting Windows Script Policy: Top 4 Strategies for Enabling PS Loading</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-steam-video-playback-on-pc/"><u>Strategies to Improve Steam Video Playback on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-new-possibilities-how-apples-integration-of-nfc-in-iphones-with-third-party-apps-enhances-your-experience-techinsights/"><u>Unlocking New Possibilities: How Apple's Integration of NFC in iPhones with Third-Party Apps Enhances Your Experience | TechInsights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-grading-inshot-does-it-reign-supreme/"><u>[New] 2024 Approved Grading InShot Does It Reign Supreme?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts/"><u>[New] In 2024, Becoming a Metaverse Veteran Top 7 Gadgets for the Experts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-cut-the-hassle-with-macos-easy-to-follow-video-size-adjustment-for-instagram/"><u>[New] In 2024, Cut the Hassle with MacOS Easy-to-Follow Video Size Adjustment for Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-streamlined-video-submission-mmc-to-vimeo-journey-explained/"><u>[Updated] 2024 Approved Streamlined Video Submission MMC to Vimeo Journey Explained</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-effective-audio-capture-for-your-zoom-sessions-for-2024/"><u>[Updated] Effective Audio Capture for Your Zoom Sessions for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-hot-30i-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Hot 30i Fingerprint Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-fix-it-top-tricks-for-smoother-wwe-play-on-pcs/"><u>Faster Fix-It: Top Tricks for Smoother WWE Play on PCs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/keeping-your-views-private-top-5-insta-tools-for-2024/"><u>Keeping Your Views Private - Top 5 Insta Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-display-controls-for-optimal-brilliance-in-ws11/"><u>Mastering Display Controls for Optimal Brilliance in WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-stabilizing-your-desktops-default-printer/"><u>Steps for Stabilizing Your Desktop's Default Printer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unsupported-systems-alert-phasing-out-of-windows-xp-7-and-81-support/"><u>Unsupported Systems Alert: Phasing Out of Windows XP, 7 & 8.1 Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-res-ive-woes-solutions-at-your-fingertips/"><u>Windows Res Ive Woes: Solutions at Your Fingertips</u></a></li>
 </ul></div>
 

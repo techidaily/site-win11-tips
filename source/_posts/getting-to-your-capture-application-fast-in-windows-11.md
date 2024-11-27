@@ -1,7 +1,7 @@
 ---
 title: Getting to Your Capture Application Fast in Windows 11
-date: 2024-08-28T01:19:26.394Z
-updated: 2024-08-29T01:19:26.394Z
+date: 2024-11-21T16:03:58.115Z
+updated: 2024-11-27T16:55:11.684Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,11 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 2. Type "snippingtool" in the text box and press**Enter** on your keyboard. The Snipping tool will now launch.  
 ![Open Snipping Tool Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using--Run-Command.jpg)
 3. When the Snipping tool opens, click**New** to start a new snip.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose a mode to give shape to your screenshot.
 5. Use your mouse to select the area of your screen that you want to capture.
 
@@ -59,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
  Once you have the Snipping tool open, you can use it just like before to take screenshots of your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Open the Snipping Tool by Creating a Desktop Shortcut
 
  You can find the Snipping tool by searching for it in the Start menu. However, it may be more convenient to create a desktop shortcut for the Snipping tool. Here's how to do it:
@@ -70,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 3. In the "Create Shortcut" window, type "snippingtool" into the text field and click**Next** .  
 ![Create Desktop Shortcut for Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-Snipping-Tool.jpg)
 4. Type a name for your shortcut (like "Snipping tool") and click**Finish** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Desktop Shortcut for Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Shortcut-for-Snipping-Tool.jpg)
 
  Upon following the above instructions, double-click on your new shortcut to open the Snipping tool!
@@ -89,11 +92,16 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 ![Open Snipping Tool Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Command-Prompt.jpg)
 6. Press**Enter** on your keyboard to open the Snipping tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To get more out of this handy tool, be sure to read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open the Snipping Tool via File Explorer
 
  Windows File Explorer is a file manager for Windows operating systems. It provides a graphical user interface for accessing the file system. A very important aspect of the interface is the address bar that you can find at the top of the screen. This allows you to quickly open applications by simply typing in the app's name.
@@ -104,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 2. Go to the address bar, type**snippingtool** , and press Enter.
 3. The snipping tool will appear at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. How to Open the Snipping Tool Using Task Manager
 
  Task Manager is a handy tool that can help you manage your computer's resources and end unresponsive programs, but it is not limited to only that. You can also use Task Manager to open programs you have installed on your computer.
@@ -119,9 +124,6 @@ To open the Snipping tool using Task Manager, follow these steps:
 4. Type "snippingtool" (without quotes) into the "Open" field.  
 ![Open Snipping Tool Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using--Task-Manager.jpg)
 5. Click**OK** to launch the application.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
 The Snipping tool should now be open and ready to use!
 
@@ -133,23 +135,25 @@ The Snipping tool should now be open and ready to use!
 2. Right-click on the search result, select**Pin to taskbar** , and you're done.  
 ![Pin Snipping tool toTaskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Snipping-tool-toTaskbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, whenever you need to take a screenshot, just click on the Snipping tool icon in your taskbar. You can also use the keyboard shortcut**Win + Shift + S** to open the app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easy Ways to Open the Snipping Tool
 
  Despite its name, the Snipping tool can do more than just snip pictures. It can also be used to capture full-screen images, active windows, and selected areas of your screen. So whether you're trying to grab a screenshot of an issue or taking an image to share with friends, the Snipping tool has you covered.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +162,23 @@ The Snipping tool should now be open and ready to use!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-cameras-that-make-beginners-happy-top-picks-2024/"><u>[New] Cameras that Make Beginners Happy - Top Picks 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/isibility-restored-for-youtube-shorts-post-update/"><u>[New] Visibility Restored for YouTube Shorts Post-Update</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-and-record-videos-from-your-webcam/"><u>[Updated] Capture and Record Videos From Your Webcam</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-efficient-techniques-to-download-huge-numbers-of-tiktok-videos-for-2024/"><u>[Updated] Efficient Techniques to Download Huge Numbers of TikTok Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-system-snooze-interactions-effectively/"><u>Fine-Tuning System Snooze Interactions Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-eliminating-install-failed-error-in-windows-oses/"><u>Guide to Eliminating 'Install Failed' Error in Windows OSes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-correct-the-audio-configuration-warning-in-itunes/"><u>How to Correct the Audio Configuration Warning in iTunes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insights-into-using-microsofts-phone-link-bluetooth-integration/"><u>Insights Into Using Microsoft’s 'Phone Link': Bluetooth Integration</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/master-amazon-live-features-pro-tips-and-future-trends-for-2024/"><u>Master Amazon Live Features, Pro Tips and Future Trends for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-paths-mastering-display-adjustments-on-windows-11/"><u>Quick Paths: Mastering Display Adjustments on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-mute-file-explorer-tabs-win11/"><u>Step-by-Step to Mute File Explorer Tabs Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trouble-free-operation-achieved-for-pci-security-communication-module-drivers/"><u>Trouble-Free Operation Achieved for PCI Security Communication Module Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-updated-configuration-experience/"><u>Windows 11'S Updated Configuration Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winmedia-player-fixing-crashes-and-failures/"><u>WinMedia Player: Fixing Crashes and Failures</u></a></li>
+</ul></div>
 

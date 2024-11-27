@@ -1,7 +1,7 @@
 ---
 title: "Instant Capture Power: Using Snip in Windows 11"
-date: 2024-11-12T20:40:27.571Z
-updated: 2024-11-17T17:42:21.423Z
+date: 2024-11-22T17:59:41.240Z
+updated: 2024-11-27T17:36:50.527Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
 
  If you like using keyboard shortcuts, be sure to check out our[Windows keyboard shortcuts 101 guide](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Open the Snipping Tool Using the Start Menu
 
  The Start menu on Windows provides access to a wide range of applications you can directly launch. To open the Snipping tool using the Start menu, follow these steps:
@@ -50,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
 ![Open Snipping Tool Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Start-Menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Open the Snipping Tool via Windows Search
@@ -70,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
 
  Once you have the Snipping tool open, you can use it just like before to take screenshots of your screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Open the Snipping Tool by Creating a Desktop Shortcut
 
  You can find the Snipping tool by searching for it in the Start menu. However, it may be more convenient to create a desktop shortcut for the Snipping tool. Here's how to do it:
@@ -83,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
 
  Upon following the above instructions, double-click on your new shortcut to open the Snipping tool!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. How to Open the Snipping Tool Using Command Prompt or Windows PowerShell
 
  Additionally, if you prefer to use command line methods, you can run the Snipping tool using Command Prompt or Windows PowerShell. To do this, follow these steps:
@@ -95,14 +104,11 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
 ![Open Snipping Tool Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Command-Prompt.jpg)
 6. Press**Enter** on your keyboard to open the Snipping tool.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To get more out of this handy tool, be sure to read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. How to Open the Snipping Tool via File Explorer
 
@@ -113,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
 1. Press**Win + E** on your keyboard to open Windows File Explorer.
 2. Go to the address bar, type**snippingtool** , and press Enter.
 3. The snipping tool will appear at the top of the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. How to Open the Snipping Tool Using Task Manager
 
@@ -134,14 +133,11 @@ To open the Snipping tool using Task Manager, follow these steps:
 ![Open Snipping Tool Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using--Task-Manager.jpg)
 5. Click**OK** to launch the application.
 
-The Snipping tool should now be open and ready to use!
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+The Snipping tool should now be open and ready to use!
 
 ## 8\. How to Pin the Snipping Tool to the Taskbar
 
@@ -150,13 +146,6 @@ The Snipping tool should now be open and ready to use!
 1. Click on Start and type Snipping tool.
 2. Right-click on the search result, select**Pin to taskbar** , and you're done.  
 ![Pin Snipping tool toTaskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Snipping-tool-toTaskbar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, whenever you need to take a screenshot, just click on the Snipping tool icon in your taskbar. You can also use the keyboard shortcut**Win + Shift + S** to open the app.
 
@@ -179,20 +168,20 @@ The Snipping tool should now be open and ready to use!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-vintage-video-card-patch/"><u>[New] 2024 Approved Vintage Video Card Patch</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-put-a-stay-to-unsolicited-youtube-trails/"><u>2024 Approved Put a Stay to Unsolicited YouTube Trails</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-windows-11-auto-hdr-how-to-turn-on-windows-11-auto-hdr/"><u>2024 Approved Windows 11 Auto HDR How to Turn on Windows 11 Auto HDR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-system-failures-employing-command-prompt-for-identifying-and-fixing-error-codes/"><u>Deciphering System Failures: Employing Command Prompt for Identifying and Fixing Error Codes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-linux-access-without-wsl/"><u>Direct Linux Access, Without WSL</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elite-recording-equipment-headset-screen-preferred-for-2024/"><u>Elite Recording Equipment Headset Screen Preferred for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-immediate-failure-in-adding-folders-with-windows-onedrive/"><u>Fixing Immediate Failure in Adding Folders with Windows OneDrive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-a-three-column-widgets-board-in-windows-11/"><u>How to Enable a Three-Column Widgets Board in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-installation-error-secure-oculus-app-on-ws11wc10-windows/"><u>How to Fix Installation Error: Secure Oculus App on WS11/WC10 Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-capture-peak-performance-high-end-webcams-for-quality-live-streams-on-twitch/"><u>In 2024, Capture Peak Performance High-End Webcams for Quality Live Streams on Twitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-how-to-skip-windows-11-lock/"><u>Mastering the Art: How to Skip Windows 11 Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-transition-wsl-and-windows-11-written-by-your-name/"><u>Navigating the Transition: WSL and Windows 11' Written by [Your Name]</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/optimal-recording-tool-for-high-definition-youtube-videos/"><u>Optimal Recording Tool For High-Definition YouTube Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/secure-download-links-for-hp-thunderbolt-docking-station-model-g2-120w-and-230w-driver-software/"><u>Secure Download Links for HP Thunderbolt Docking Station Model G2 – 120W & 230W Driver Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-microsofte-shop-error-code-0x80073cf3/"><u>Tackling Microsoft'e Shop Error Code: 0X80073CF3</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-perfectly-filled-no-ad-android-screen-recording/"><u>[New] 2024 Approved Perfectly Filled No-Ad Android Screen Recording</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-video-wizardry-your-guide-to-the-top-10-editing-hacks/"><u>[New] In 2024, Video Wizardry Your Guide to the Top 10 Editing Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adquira-la-suite-de-videos-compre-o-movavi-seguridad-asegurada-y-ofertas-exclusivas/"><u>Adquira La Suite De Videos Compre O Movavi: Seguridad Asegurada Y Ofertas Exclusivas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-archivos-de-animacion-gif-gratis-al-formato-mpeg-usando-movavi-en-linea/"><u>Convertir Archivos De Animación (GIF) Gratis Al Formato MPEG Usando Movavi en Línea</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effiziente-videoformatumwandlung-mit-movavi-easy-to-use-konverter-fur-zdarma-formato-changeling/"><u>Effiziente Videoformatumwandlung Mit Movavi: Easy-to-Use Konverter Für Zdarma | Formato Changeling</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722879115760-facetime-on-windows-heres-how-you-can-set-it-up/"><u>FaceTime on Windows? Here's How You Can Set It Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuite-convertisseur-video-en-ligne-pour-convertir-des-fichiers-mp4-et-mov-avec-movavi/"><u>Gratuité: Convertisseur Vidéo en Ligne Pour Convertir Des Fichiers MP4 Et MOV Avec Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-f5-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco F5 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-avoiding-instagrams-pitfalls-crafting-perfect-puzzle-posts/"><u>In 2024, Avoiding Instagram's Pitfalls Crafting Perfect Puzzle Posts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-vob-to-mp4-converter-free-online-service/"><u>Movavi VOB to MP4 Converter: Free Online Service</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-v29e-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo V29e Phone? Unlock It Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tehnici-supreme-pentru-boostarea-vidurilor-live-streaming-5-instrumenturi-chestiati-de-cele-marilor-profesori/"><u>Tehnici Supreme Pentru Boostarea Vidurilor Live Streaming - 5 Instrumenturi Chestiați De Cele Marilor Profesori</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-facilmente-i-tuoi-filmati-3gp-in-formato-wmv-senza-costi-grazie-al-servizio-di-convertitori-on-line-di-movavi/"><u>Trasforma Facilmente I Tuoi Filmati 3GP in Formato WMV Senza Costi Grazie Al Servizio Di Convertitori On-Line Di Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-shadowplay-setup-failures-on-nvidia-gpus/"><u>Troubleshooting Tips for Fixing ShadowPlay Setup Failures on Nvidia GPUs</u></a></li>
 </ul></div>
 

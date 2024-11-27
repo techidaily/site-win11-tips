@@ -1,7 +1,7 @@
 ---
 title: "From Console to Computer: Placing Games in Windows Picture Library"
-date: 2024-11-14T18:04:28.982Z
-updated: 2024-11-17T18:52:46.264Z
+date: 2024-11-21T17:27:38.083Z
+updated: 2024-11-27T17:48:34.164Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,25 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't Some Older Games Read the "My Picture" Folder?
 
 ![screenshot of the my pictures folder highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_highlighted.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The My Pictures folder you can find under My Documents isn't actually a real folder, as far as Windows is concerned. This My Pictures folder is basically a shortcut that points to the actual My Pictures folder, located in the Users directory.
 
  This is a compatibility measure, intended to allow programs designed for older Windows versions to still work. Unfortunately, this can create new issues for older programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Give Read Access Rights for Older Games
 
@@ -49,34 +61,17 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
  Ensure this is selected and then hit **OK** again. You can now close out all of these security windows, boot up your game, and see if this fix has worked.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I Grant Read Access to Other User Folders?
 
 ![screenshot of all the user folders highlighted in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_all_user_folders_highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should be careful which folders you provide full read rights to. While it's unlikely the old game you're trying to play will do anything untoward to your folders, it can be risky granting full read rights to anything on your computer.
 
  Certain games may try to read information from your My Documents folder as well, so it's worth trying this fix on that folder if it's needed. Otherwise, use this fix sparingly. It might even be a good idea to remove these access rights once you're done.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## New Fixes for Old Games on Windows
 
@@ -85,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
  With a few simple security adjustments, you can at least get your old games reading the folders they're supposed to.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -107,27 +99,6 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
  Let's look at how to fix this issue and get your old games properly reading the My Pictures folder.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-field-fusion-top-10-agrarian-adventure-titles-for-2024/"><u>[Updated] Field Fusion Top 10 Agrarian Adventure Titles for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-minimizing-motion-blur-with-obs-adjustments-for-2024/"><u>[Updated] Minimizing Motion Blur with OBS Adjustments for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-12-mouse-focused-pc-games-for-enthusiasts/"><u>2024 Approved Best 12 Mouse-Focused PC Games for Enthusiasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-post-production-on-tiktok-via-zoom/"><u>2024 Approved Perfecting Post-Production on TikTok via Zoom</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-reno-8t-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Reno 8T FRP Bypass Instantly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customization-charter-three-tactics-for-windows-11/"><u>Customization Charter: Three Tactics for Windows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/cutting-edge-e-learning-sites-that-dont-fit-udemy/"><u>Cutting-Edge E-Learning Sites That Don't Fit Udemy</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-depths-of-godfall-on-ps5-when-high-hopes-meet-an-uneven-adventure/"><u>Exploring the Depths of Godfall on PS5: When High Hopes Meet an Uneven Adventure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exposing-the-latest-file-usage-on-windows-systems/"><u>Exposing the Latest File Usage on Windows Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-samsung-galaxy-a54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Samsung Galaxy A54 5G?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-tool-selection-top-6-windows-usage-measurers/"><u>Masterful Tool Selection: Top 6 Windows Usage Measurers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-the-feeling-of-inadequacy-in-your-career-strategies-for-boosting-self-assuredness/"><u>Overcoming the Feeling of Inadequacy in Your Career - Strategies for Boosting Self-Assuredness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-windows-firewall-essential-tips/"><u>Resetting Windows Firewall: Essential Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tap-into-speedier-entry-7-methods-to-curtail-delay-in-windows-11/"><u>Tap Into Speedier Entry: 7 Methods to Curtail Delay in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tightening-the-circle-simple-solutions-to-security-problems/"><u>Tightening the Circle: Simple Solutions to Security Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-cant-print-dilemran-on-win11/"><u>Unraveling the 'Can't Print' Dilemran on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unshackling-the-chains-of-windows-11-and-10s-s-mode/"><u>Unshackling the Chains of Windows 11 & 10'S 'S Mode'</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,3 +106,25 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-funnyfilmmaker-quick-comic-creation/"><u>[Updated] 2024 Approved FunnyFilmMaker Quick Comic Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/covert-drive-strategies-for-ws1110-users/"><u>Covert Drive Strategies for WS11/10 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decreasing-system-overload-reducing-media-impact-on-windows-pcs-resources/"><u>Decreasing System Overload: Reducing Media Impact on Windows PC's Resources</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-the-runtunk13-glitch-in-hulu-an-effective-fix-guide-for-users/"><u>Eliminate the RUNTUNK13 Glitch in Hulu – An Effective Fix Guide for Users.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-code-0x8024a205-a-winupdate-solution-guide/"><u>Error Code 0X8024a205: A WinUpdate Solution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-silent-astro-a50-bluetooth-headset-fast-and-easy-guide/"><u>Fix Silent Astro A50 Bluetooth Headset Fast & Easy Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-misaligned-spatial-sound-on-windows-pcs/"><u>Fixing Misaligned Spatial Sound on Windows PCs</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-pro-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-harness-the-power-of-windows-print-management-console/"><u>How to Harness the Power of Windows Print Management Console</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-discord-installation-woes-on-pclaptop/"><u>How to Rectify Discord Installation Woes on PC/Laptop</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a56s-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A56s 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-tecno-spark-20-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Tecno Spark 20 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-youtube-glitches-for-smooth-video-streaming/"><u>Resolving YouTube Glitches for Smooth Video Streaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-when-your-minecraft-game-wont-load/"><u>Step-by-Step Solutions for When Your Minecraft Game Won’t Load</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-immediate-remedy-of-iomap64-freeze-in-winos/"><u>Strategies for Immediate Remedy of IOMap64 Freeze in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-6-tools-to-convert-videos-seamlessly-on-your-pc-windows/"><u>Top 6 Tools to Convert Videos Seamlessly on Your PC, Windows</u></a></li>
+</ul></div>
+

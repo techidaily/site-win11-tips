@@ -1,7 +1,7 @@
 ---
 title: "Customizing the Keyboard: Tips & Tricks for Win 11"
-date: 2024-11-11T20:16:04.014Z
-updated: 2024-11-17T19:36:45.312Z
+date: 2024-11-25T16:42:57.299Z
+updated: 2024-11-27T16:03:28.255Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,28 +51,22 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 3. Click **Install** for Windows 11 to download and install the new language.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Follow steps #2 and #3 above to add a new keyboard layout to the language you just installed.
 
  If you still can't find a keyboard layout you like, you should consider [creating a custom keyboard layout](https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change a Keyboard Layout in Windows 11
 
  To change the keyboard layout, click the **language switcher** in the system tray section and select a different layout from there.
 
 ![the language switcher in windows 11 with canadian english selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/english-canada-keyboard-layout-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can press and hold **Win** and keep pressing the **Space bar** to switch between different keyboard layouts. You can do the same by holding down **Shift** and pressing **Alt**.
 
@@ -82,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 ![Removing a keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/remove-keyboard-layout-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also remove a language if you no longer need it. To do that, follow the steps below:
@@ -95,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 ![Removing a language on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/remove-language-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The language and its associated keyboard layout will now be removed from your computer.
@@ -107,23 +99,6 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-instagram-to-tiktok-connection-protocol/"><u>[New] 2024 Approved The Instagram to TikTok Connection Protocol</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[New] In 2024, Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-building-rapport-an-interviewers-toolkit/"><u>2024 Approved Building Rapport An Interviewer's Toolkit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/connectivity-made-simple-activating-telnet-in-windows-1011/"><u>Connectivity Made Simple: Activating Telnet in Windows 10/11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-perplexity-the-unique-ai-chatbot-worth-paying-for/"><u>Discover Perplexity – The Unique AI Chatbot Worth Paying For</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-vintage-films-with-madvr-on-pcs/"><u>Enhancing Vintage Films with MadVR on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-window-monitors-brilliance-with-top-software-for-6-users/"><u>Enhancing Window Monitors' Brilliance with Top Software for 6 Users</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-quirky-quotables-tailoring-hilarious-content-for-brief-videography/"><u>In 2024, Quirky Quotables Tailoring Hilarious Content for Brief Videography</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-missing-avcodecdll-error-a-comprehensive-guide/"><u>Resolving Missing Avcodec.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-old-cursor-color-schemes-tips/"><u>Reviving Old Cursor Color Schemes: Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-home-lighting-discover-the-latest-innovative-lutron-pico-remote-a-game-changer-for-smart-homes/"><u>Revolutionizing Home Lighting: Discover the Latest Innovative Lutron Pico Remote - A Game Changer for Smart Homes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-resolve-dxgierror-device-latency-issue-in-win11/"><u>Tips to Resolve DXGI_ERROR: Device Latency Issue in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-enabling-biometrics-with-windows-hello/"><u>Windows 11: Enabling Biometrics with Windows Hello</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,3 +106,19 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ease-and-speed-effective-methods-for-comment-removal/"><u>[New] 2024 Approved Ease and Speed Effective Methods for Comment Removal</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-fraps-to-video-an-evaluation-review/"><u>[New] 2024 Approved Fraps to Video An Evaluation Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-innovative-approaches-to-change-song-speed-on-spotify/"><u>[New] In 2024, Innovative Approaches to Change Song Speed on Spotify</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-family-security-with-microsoft-tools/"><u>Enhancing Family Security with Microsoft Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guida-rapida-come-correggere-i-problemi-di-decodifica-video-hevc-nelle-ultime-versioni-di-windows/"><u>Guida Rapida: Come Correggere I Problemi Di Decodifica Video HEVC Nelle Ultime Versioni Di Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-storyremix-for-windows-11-enhancing-videos-with-photos-for-2024/"><u>Mastering StoryRemix for Windows 11 Enhancing Videos with Photos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-hello-authentication-failure/"><u>Resolving Windows Hello Authentication Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-swift-speed-mastering-steam-on-windows-systems/"><u>Unlocking Swift Speed: Mastering Steam on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-sticky-note-functionality/"><u>Unveiling Windows 11'S Sticky Note Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-window-insight-latest-file-view/"><u>Windows Window Insight: Latest File View</u></a></li>
+</ul></div>
+

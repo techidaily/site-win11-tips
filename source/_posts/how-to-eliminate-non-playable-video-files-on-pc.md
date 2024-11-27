@@ -1,7 +1,7 @@
 ---
 title: How to Eliminate Non-Playable Video Files on PC
-date: 2024-08-28T01:19:17.818Z
-updated: 2024-08-29T01:19:17.818Z
+date: 2024-11-22T17:30:37.430Z
+updated: 2024-11-27T17:11:53.843Z
 tags:
   - windows10
   - windows11
@@ -61,11 +61,20 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
 4. Move to the right pane and click **View all**.  
 ![Click on the View all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-view-all.jpg)
 5. In the following window, locate **Windows Media Player Settings** and double-click on it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Click on the Windows Media Player settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-media-player-settings.jpg)
 6. Choose **Advanced** and checkmark the box associated with **Apply repairs automatically**.
 7. Now, click on the **Run as administrator** hyperlink to launch the troubleshooter and proceed with the on-screen instructions.  
 ![Choose Apply repairs automatically option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apply-repairs-automatically.jpg)
 8. If the troubleshooter identifies a problem and suggests a solution, click on **Apply this fix**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the Media Player troubleshooter does not help, we suggest running the Video Playback troubleshooter and see if that makes any difference.
 
@@ -77,11 +86,17 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
 4. Scroll down to the **Other** section to locate the Video Playback troubleshooter and click on the **Run** button for it.  
 ![Run the Video Playback troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/video-playback-troubleshooter-1.jpg)
 5. Wait for the troubleshooter to complete its scan and then check the results. If the troubleshooter suggests fixes, click on **Apply this fix**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check for File Corruption
 
  There is also a chance that the file you are trying to play is dealing with a corruption error, which has made it unreadable and unusable. Typically, in cases such as this one, the users are able to play other similar files without any problems.
@@ -91,17 +106,15 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
  It is important to note that not all corrupt files can be repaired or recovered completely, and the extent of damage can influence the chances of recovery. This is why, we highly recommend [backing up your important files](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) in Windows to prevent data loss.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use a Different Media Player
 
  You can also try playing the targeted file in a different media player and check if that makes any difference. This is because different media players have different coding algorithms and may also have built-in troubleshooting mechanisms that can handle certain types of file corruptions easily.
 
  If you don't already have an alternative media player installed, we have a guide on some [highly recommended free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) that can provide a seamless experience without errors.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Different Ways to Fix the 0xc10100bf Error
 
  The media player error 0xc10100bf in Windows can be annoying but hopefully, the solutions listed above will help you fix it for good.
@@ -110,11 +123,28 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
 
  Below, we walk you through the different solutions you can try to fix the issue for good, and run your media files without any problems.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-flip-the-script-how-to-turn-your-instagram-visuals-into-viral-stars/"><u>[New] In 2024, Flip the Script How to Turn Your Instagram Visuals Into Viral Stars</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-aspect-ratio-maze-for-twitter-media-for-2024/"><u>[New] Navigating the Aspect Ratio Maze for Twitter Media for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-essential-ae-text-templates-maximum-efficiency/"><u>[Updated] In 2024, Essential AE Text Templates (Maximum Efficiency)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-parrot-powered-prowess-a-fresh-lens-on-bebop-2/"><u>[Updated] In 2024, Parrot-Powered Prowess – A Fresh Lens on Bebop 2</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-million-viewer-milestone-unpacking-youtubes-revenue-formula/"><u>2024 Approved Million-Viewer Milestone Unpacking YouTube’s Revenue Formula</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-s23plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy S23+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-windows-error-code-0x80073d26/"><u>Decoding and Correcting Windows' Error Code: 0X80073D26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-digital-space-transforming-desktops-with-spotlight-photos/"><u>Elevate Your Digital Space: Transforming Desktops With Spotlight Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-xc0f1103f-issue-with-geforce-on-win-oses/"><u>Eliminating XC0F1103F Issue with GeForce on Win OSes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-dvd-storage-capacity-write-over-47gb-onto-a-disc-using-windows-1011-a-visual-guide/"><u>Maximizing DVD Storage Capacity: Write over 4.7GB Onto a Disc Using Windows 10/11 - A Visual Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-the-personal-touch-enabledisable-windows-images/"><u>Perfecting the Personal Touch: Enable/Disable Windows Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-issue-msvcrtdll-file-not-located/"><u>Resolving the Issue: 'Msvcrt.dll File Not Located'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-access-control-a-walkthrough-for-standard-windows-users/"><u>Streamlining Access Control: A Walkthrough for Standard Windows Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/update-your-tiktok-statement-and-visuals-effortlessly/"><u>Update Your TikTok Statement and Visuals Effortlessly</u></a></li>
+</ul></div>
+

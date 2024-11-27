@@ -1,7 +1,7 @@
 ---
 title: Hasty Help for Defining Windows Vocabulary
-date: 2024-08-28T01:16:11.740Z
-updated: 2024-08-29T01:16:11.740Z
+date: 2024-11-22T16:13:28.118Z
+updated: 2024-11-27T16:43:25.936Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f7eb32e30dabd1ecde240ae4f390a8ba724185aa1
 
  On the bright side, Windows 11 offers you multiple quick ways to look up definitions without hassle. To help you save time and increase your productivity, we are putting together a list of three easy ways to find definitions on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Get Definitions in Microsoft Edge
 
 ![Mini menu showing Define option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mini-menu-showing-dictionary-definition-in-edge.jpg)
@@ -33,6 +37,10 @@ These are the steps to use the dictionary in Microsoft Edge:
 3. Look for the**Define** option, and click on it.
 
  Edge will now show a popup containing the different meanings of that word. However, if you do not like the Mini menu, the browser's right-click context menu also includes the**Define** option. You can get definitions of words from the context menu, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Find Definitions in the Windows 11 Search Box
 
@@ -49,44 +57,41 @@ Here's how:
  If this doesn't work, see[how to fix the Windows 11 search bar](https://www.makeuseof.com/windows-11-search-bar-cant-type/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Ask the Cortana App for a Definition
 
 ![Cortana app showing dictionary definition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/define-brief-cortana-n.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Cortana app is another helpful tool in Windows 11 to help you look up definitions. To use the app as a tool to find the meanings of words, follow the below steps:
 
 1. Click on the Windows 11 Start icon and type "Cortana."
 2. Click on**Open** .  
 ![Searching Cortana app via Windows Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/searching-cortana-app-via-windows-start-icon.png)
 3. Type "define" followed by the word you want to know the meaning of.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. Press**Enter** on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Press**Enter** on your keyboard.
+
 ## Finding Definitions in Windows 11
 
  The solutions above will not require you to install any third-party application. The Microsoft Edge browser and the Cortana app come pre-installed with Windows 11, so when you turn on your PC, it will not be difficult to find them. The search box is also enabled by default.
 
  However, if you prefer third-party tools to native solutions, they are available to help you look up definitions in Windows 11.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +100,21 @@ Here's how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-introduce-natural-photo-smear-in-ps/"><u>[New] In 2024, Introduce Natural Photo Smear in PS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-transition-trails-your-pathway-to-macos-11-big-sur-for-2024/"><u>[New] Transition Trails Your Pathway to macOS 11 Big Sur for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-secrets-of-movie-maker-on-windows-8/"><u>[Updated] Unveiling the Secrets of Movie Maker on Windows 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-11-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 11 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo Find X6 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixed-app-installations-oculus-on-ws11ws10/"><u>Mastering the Art of Fixed App Installations: Oculus on WS11/WS10</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-sources-for-free-public-domain-video-downloads-for-2024/"><u>New Top Sources for Free Public Domain Video Downloads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/skype-soundtrack-hub-finding-the-right-tones-online-for-2024/"><u>Skype Soundtrack Hub Finding the Right Tones Online for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speech-to-text-made-effortless-learn-from-whisper-expertise/"><u>Speech to Text Made Effortless: Learn From Whisper Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-intervention-for-inactive-batch-process-scripts/"><u>Strategic Intervention for Inactive Batch Process Scripts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-altering-win-11s-keyboard-settings/"><u>Understanding and Altering Win 11'S Keyboard Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-creativity-on-win10-with-these-7-art-tools/"><u>Unleash Creativity on Win10 with These 7 Art Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-time-capsule-7-historical-windows-aspects-in-11/"><u>Unveiling the Time Capsule: 7 Historical Windows Aspects in 11</u></a></li>
+</ul></div>
 

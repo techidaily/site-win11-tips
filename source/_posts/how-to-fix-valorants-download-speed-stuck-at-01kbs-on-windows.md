@@ -1,7 +1,7 @@
 ---
 title: How to Fix Valorant's Download Speed Stuck at 0.1KB/S on Windows
-date: 2024-08-28T01:15:39.968Z
-updated: 2024-08-29T01:15:39.968Z
+date: 2024-11-25T17:54:04.960Z
+updated: 2024-11-27T16:46:07.457Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
  Valorant is a popular first-person hero shooter developed by Riot Games, so there are always new people downloading the game for the first time. However, for many users, the Valorant download gets stuck on an excruciatingly slow download rate of 0.1KB/s.
 
  If you also encounter the same problem, consider trying the below solutions to resolve the issue for good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does Valorant's Download Get Stuck on 0.1KB/s?
 
@@ -50,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 2. Right-click on Discord and choose**End Task** from the context menu.  
 ![End task option to close Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Along with Discord, you can also consider closing all other network-consuming applications like Chrome and Spotify from the background.
 
  Next, launch the Riot Client, start the downloading process, and check if the problem continues.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Switch to Google's DNS Server
 
  The Riot Client will struggle to initiate the downloading process if your current[DNS server](https://www.makeuseof.com/what-is-dns/) is unstable. You can try switching to a different DNS server to eliminate the problem.
@@ -81,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 Check if you are still facing the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Allow the Riot Client to Communicate Through the Windows Defender Firewall
 
  The issue can pop up if the Riot Client is blocked under Windows Defender's settings. As such, you can try whitelisting the Riot Client in the firewall settings to get rid of the issue. Here's how to do it:
@@ -93,12 +92,12 @@ Check if you are still facing the problem.
 ![Allow app to communicate through the Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Riot-Client.jpg)
 4. Click on OK to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try to download Valorant and check if the problem continues. If yes, try the next solution on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 6\. Uninstall Avast Antivirus
 
  For many users, Valorant started downloading at normal speed after uninstalling the Avast antivirus. So, you can try this on your computer as well and check if it makes any difference. Here's how to uninstall Avast on your computer:
@@ -110,8 +109,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  After that, follow the on-screen instruction to complete the uninstallation process.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Flush the DNS Cache
 
  The DNS cache stores data of all your computer's DNS queries for future use. However, if the DNS cache gets corrupt for some reason, it can cause connection issues.
@@ -135,8 +135,9 @@ Here are the steps for downloading the latest network drivers:
 3. Right-click on the installed network driver, and choose the**Update driver** option.  
 ![The network adapters section in Windows Device Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update-network-drivers-win-11.jpg)
 4. Click on**Search automatically for drivers** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows will now look for and install the best available network driver for the system. Once the update process is complete, reboot the system and check if the problem is fixed or not.
@@ -153,13 +154,11 @@ Here are the steps you need to follow.
 ![Task Manager Detail tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Set-Priority-.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Relaunch the client, and you will notice that you are no longer facing the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Reset the Network Settings
 
  Sometimes your current network settings can be the reason behind slow downloading in different applications, including Valorant. To fix this, you'll have to reset the network settings, which will reinstall the network adapters, and configure other network services back to their default values.
@@ -172,8 +171,9 @@ Here's how to reset the network settings:
 3. Click**Yes** to the UAC that crops up.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Valorant Downloading Issue Fixed
 
  It's a very straightforward process to download or update Valorant using the Riot Client. But the client can run into issues from time to time as well.
@@ -186,8 +186,6 @@ Here's how to reset the network settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +193,24 @@ Here's how to reset the network settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-obs-settings-for-low-end-pcs-for-2024/"><u>[New] Best OBS Settings for Low-End PCs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-tickles-for-young-game-fans/"><u>[Updated] In 2024, Top Tickles for Young Game Fans</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1-fast-and-simple-methods-for-combining-ts-videos-into-an-mp4-format/"><u>1. Fast & Simple Methods for Combining .TS Videos Into an MP4 Format</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-phone-knowledge-for-expanded-gear-vr-experiences/"><u>2024 Approved Essential Phone Knowledge for Expanded Gear VR Experiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-file-selection-utilizing-windows-11s-checkboxes/"><u>Efficient File Selection: Utilizing Windows 11'S Checkboxes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-interaction-with-windows-copilot-and-vivetool/"><u>Enhancing User Interaction with Windows Copilot and ViveTool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-kanaal-omvangvergroten-m4b-naar-avi-converter-overheidsloos-en-echtzeit/"><u>Gratuit Kanaal-Omvangvergroten: M4B Naar Avi Converter Overheidsloos en Echtzeit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-win-gurus-6-premier-gpu-stress-testers/"><u>Identifying Win Gurus: 6 Premier GPU Stress Testers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-mastery-rapidly-assemble-your-digital-self/"><u>In 2024, Metaverse Mastery Rapidly Assemble Your Digital Self</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1723025010788-in-depth-review-of-apple-macbook-pro-16-a-game-changer-with-m1-processor-power/"><u>In-Depth Review of Apple MacBook Pro 16 - A Game Changer with M1 Processor Power!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-audio-subtitle-coordination-with-prime-and-windows-11/"><u>Master Audio-Subtitle Coordination with Prime & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-updates-with-error-0x800f0845/"><u>Navigating Through Updates with Error 0X800f0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-workflow-assign-winos-command-shortcuts/"><u>Optimize Workflow: Assign WinOS Command Shortcuts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-bugs-and-glitches-how-to-keep-your-robocop-rogue-city-running-smoothly-on-pc/"><u>Overcoming Bugs and Glitches - How to Keep Your RoboCop: Rogue City Running Smoothly on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/taming-soundscapes-mastering-gradual-volume-increase-with-audition/"><u>Taming Soundscapes Mastering Gradual Volume Increase with Audition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-to-cross-platform-efficiency-using-samsungs-dex/"><u>The Key to Cross-Platform Efficiency: Using Samsung's DeX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-new-ways-to-run-your-favorite-windows-software/"><u>Unlock New Ways to Run Your Favorite Windows Software</u></a></li>
+</ul></div>
 

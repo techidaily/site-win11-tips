@@ -1,7 +1,7 @@
 ---
 title: Resolving Error XC10100BF for Non-Playing Media
-date: 2024-11-11T19:08:18.825Z
-updated: 2024-11-17T18:56:04.903Z
+date: 2024-11-22T16:43:01.451Z
+updated: 2024-11-27T16:49:28.455Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Convert the Media File to a Compatible Format
 
  The error code 0xc10100bf often appears when attempting to play a media file that is incompatible with your media player. One simple solution is to convert the file into a format supported by your media player, allowing you to play it smoothly without encountering any playback errors.
@@ -43,8 +47,18 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 5. Then, expand the **Presets** section on the right-hand side and choose an output that is compatible with your media player.  
 ![Choose a preset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-preset.jpg)
 6. If you want to set a Preset as the default preference, click on **Manage Presets**, choose the desired option, and click on **Set as default**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Set a preset as default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-preset-default.jpg)
 7. Configure additional settings according to your preferences. This is optional, so you can also choose the default preset settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click on the **Start Encode** button and wait for the tool to start re-encoding the media file into the desired format.
 
  Once done, play the converted file and check if the issue is resolved.
@@ -64,28 +78,19 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 3. Type "Troubleshooting" in the search bar of the Control Panel and click on the most appropriate result.  
 ![Choose Troubleshooting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-on-troubleshooting.jpg)
 4. Move to the right pane and click **View all**.  
-![Click on the View all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-view-all.jpg)
-5. In the following window, locate **Windows Media Player Settings** and double-click on it.  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Click on the View all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-view-all.jpg)
+5. In the following window, locate **Windows Media Player Settings** and double-click on it.  
 
 ![Click on the Windows Media Player settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-media-player-settings.jpg)
 6. Choose **Advanced** and checkmark the box associated with **Apply repairs automatically**.
 7. Now, click on the **Run as administrator** hyperlink to launch the troubleshooter and proceed with the on-screen instructions.  
 ![Choose Apply repairs automatically option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apply-repairs-automatically.jpg)
 8. If the troubleshooter identifies a problem and suggests a solution, click on **Apply this fix**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the Media Player troubleshooter does not help, we suggest running the Video Playback troubleshooter and see if that makes any difference.
 
@@ -99,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 5. Wait for the troubleshooter to complete its scan and then check the results. If the troubleshooter suggests fixes, click on **Apply this fix**.
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check for File Corruption
 
  There is also a chance that the file you are trying to play is dealing with a corruption error, which has made it unreadable and unusable. Typically, in cases such as this one, the users are able to play other similar files without any problems.
@@ -114,24 +112,15 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
  It is important to note that not all corrupt files can be repaired or recovered completely, and the extent of damage can influence the chances of recovery. This is why, we highly recommend [backing up your important files](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) in Windows to prevent data loss.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Use a Different Media Player
 
  You can also try playing the targeted file in a different media player and check if that makes any difference. This is because different media players have different coding algorithms and may also have built-in troubleshooting mechanisms that can handle certain types of file corruptions easily.
 
  If you don't already have an alternative media player installed, we have a guide on some [highly recommended free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) that can provide a seamless experience without errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Different Ways to Fix the 0xc10100bf Error
 
@@ -141,24 +130,6 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
  Below, we walk you through the different solutions you can try to fix the issue for good, and run your media files without any problems.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-basics-motion-graphics-framework/"><u>[New] Mastering the Basics Motion Graphics Framework</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-do-a-poll-on-instagram-stories-a-complete-guide/"><u>2024 Approved How to Do a Poll on Instagram Stories - a Complete Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-connectivity-issues-for-spotify-and-windows-11/"><u>Conquering Connectivity Issues for Spotify & Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diagnosing-and-repairing-your-usb-device-connection-in-windows-10/"><u>Diagnosing and Repairing Your USB Device Connection in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-grammarly-after-its-not-working-in-windows-10/"><u>Enabling Grammarly After It's Not Working in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-how-to-restore-sound-on-your-hp-laptop-running-windows-11/"><u>Fixing Audio Issues: How to Restore Sound on Your HP Laptop Running Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-cr2-to-jpg-a-comprehensive-guide-for-windows-users/"><u>From CR2 to JPG: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/humble-beginnings-to-prodigy-carryminatis-earnings-ajey-for-2024/"><u>From Humble Beginnings to Prodigy CarryMinati's Earnings (Ajey) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-the-perplexing-app-could-not-be-started-error-code-0xc000003e-in-windows-11/"><u>How to Tackle the Perplexing App Could Not Be Started: Error Code 0XC000003E in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/path-pioneering-in-win11-unveiling-the-best-practices-6-keyways/"><u>Path Pioneering in Win11: Unveiling the Best Practices (6 Keyways)</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/retrieving-personal-information-from-an-idevice-after-performing-a-factory-reset/"><u>Retrieving Personal Information From an iDevice After Performing a Factory Reset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-virtualization-potential-with-hyper-v-on-windows-11/"><u>Unleash Virtualization Potential with Hyper-V on Windows 11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/vn-video-editor-apk-review-a-powerful-video-editing-tool-for-2024/"><u>VN Video Editor APK Review A Powerful Video Editing Tool for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/why-the-economical-xiaomi-mi-smart-band-4-is-my-preferred-choice-for-fitness-tracking/"><u>Why the Economical Xiaomi Mi Smart Band 4 Is My Preferred Choice for Fitness Tracking</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -166,3 +137,27 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-your-pathway-to-audio-mastery-download-and-install-vrecorder/"><u>[New] 2024 Approved Your Pathway to Audio Mastery - Download & Install VRecorder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-full-spectrum-on-morphvox-technology-for-voice-conversion/"><u>[New] In 2024, Full Spectrum on MorphVOX Technology for Voice Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-shopping-sites-for-customized-gift-boxes-find-the-perfect-personalized-present/"><u>[New] Top 10 Shopping Sites for Customized Gift Boxes - Find the Perfect Personalized Present</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instasaves-the-leading-videophoto-downloaders/"><u>[Updated] In 2024, InstaSaves The Leading Video/Photo Downloaders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revitalize-your-footage-mastering-window-11-photos-and-storyremix-integration/"><u>2024 Approved Revitalize Your Footage Mastering Window 11 Photos and StoryRemix Integration</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-oppo-find-x7-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Oppo Find X7.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conjuring-a-supreme-selection-shortcut-for-pc/"><u>Conjuring a Supreme Selection Shortcut for PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-windows-server-error-8-tips-for-clearing-no-servers-found-in-apex-legends-(156-chars/"><u>Conquer Windows Server Error: 8 Tips for Clearing No Servers Found in Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-code-to-exit-s-mode-on-windows-systems/"><u>Deciphering the Code to Exit S Mode on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-workflow-advanced-hotkeys-for-redoing-windows/"><u>Elevate Workflow: Advanced Hotkeys for Redoing Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-fast-apps-on-windows-11/"><u>Essential Strategies for Fast Apps on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-chrome-back-from-the-dark-side/"><u>Getting Chrome Back From the Dark Side</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-wi-fi-connection-tackling-failed-prompts-on-windows/"><u>Mastering Wi-Fi Connection: Tackling Failed Prompts on Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/portraying-paradoxes-effects-for-time-travel-films-for-2024/"><u>Portraying Paradoxes Effects for Time Travel Films for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-graphics-memory-deficiency-in-virtual-schools-of-magic-and-sorcery/"><u>Resolving Graphics Memory Deficiency in Virtual Schools of Magic and Sorcery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-ms-store-apps-steps-for-windows-1011-users/"><u>Reviving MS Store Apps: Steps for Windows 10/11 Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-youtube-editing-guide-for-content-creators-of-all-levels-for-2024/"><u>The Ultimate Youtube Editing Guide for Content Creators of All Levels for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726026514336-dvd/"><u>ディスクプレイヤーを使ってテレビにDVDを表示する方法とトラブルシューティング</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Revive Missing External Drives?
-date: 2024-11-13T20:38:10.237Z
-updated: 2024-11-17T18:42:59.917Z
+date: 2024-11-21T17:08:56.212Z
+updated: 2024-11-27T17:54:30.628Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, if your drive doesn't pop up right away, you can try [using a System Restore point to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) back to a point in time when it was showing. If that doesn't work, it could be that the virus corrupted the hard drive's files, and you can easily fix this by [running the CHKDSK utility](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/).
 
 ## 2\. Try Changing the Drive's Name
@@ -40,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
  Sometimes, a glitch can cause Windows to no longer recognize the drive. By [renaming the drive on Windows](https://www.makeuseof.com/change-volume-label-windows-11/), you can trigger a refresh of the operating system's recognition system so that the drive reappears.
 
  One thing to note is that since you can't see the drive in File Explorer, we recommend using the Disk Management tool or Command Prompt to rename it instead.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rescan Your Disks
 
@@ -56,26 +53,25 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 2. In the Search box, type **computer management**, and select **Computer Management** when it shows up in the results.  
 ![launching-computer-management-from-windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-computer-management-from-windows-search.jpg)
 3. In the navigation pane on the left, expand **Storage** and select **Disk Management**.  
-![the Disk Management option in Computer Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-disk-management-option-in-computer-management.jpg)
-4. Click **Action** in the top menu and select **Rescan Disks**.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![the Disk Management option in Computer Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-disk-management-option-in-computer-management.jpg)
+4. Click **Action** in the top menu and select **Rescan Disks**.  
 
 ![rescaning disks in Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/rescaning-disks-in-computer-management-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, check to see if you can see the drive again and if you can access it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update the Disk's Driver
 
@@ -83,14 +79,11 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 
 ![updating a disk drive on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/updating-a-disk-drive-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Afterward, you can check if the drive has reappeared in File Explorer and the Send to menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check for Conflicting Software
 
@@ -108,23 +101,6 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 
  Rest assured, the drive didn't magically disappear from your computer. It's just that Windows cannot recognize it for some reason, and we're going to show you how to fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-exploring-gradual-echo-deactivation-in-audacity/"><u>[New] In 2024, Exploring Gradual Echo Deactivation in Audacity</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-strategies-for-success-in-online-content-creation-for-2024/"><u>[Updated] Strategies for Success in Online Content Creation for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-financial-scale-one-million-youtube-viewers-pay/"><u>2024 Approved The Financial Scale One Million YouTube Viewers' Pay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/declutter-drives-identifying-massive-storage-consumers-in-windows/"><u>Declutter Drives: Identifying Massive Storage Consumers in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expertly-chosen-kids-tablet-picks-for-family-fun-featured/"><u>Expertly Chosen Kids Tablet Picks for Family Fun, Featured</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-t2-pro-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo T2 Pro 5G Is Unlocked</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015633340-no-audio-from-bluetooth-heres-how-you-can-resolve-it/"><u>No Audio From Bluetooth? Here's How You Can Resolve It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-flawed-windows-scripts-to-function-again/"><u>Overhauling Flawed Windows Scripts to Function Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-purging-of-junk-apps-from-windows-11/"><u>Rapid Purging of Junk Apps From Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/slow-steam-performance-top-solutions-and-fixes/"><u>Slow Steam Performance: Top Solutions & Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-activate-rgb-in-windows-11/"><u>Steps to Activate RGB in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-ensure-win-calculator-supremacy/"><u>Steps to Ensure Win Calculator Supremacy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unshackle-onedrive-and-microsoft-id-integration-on-windows-systems/"><u>Unshackle OneDrive and Microsoft ID Integration on Windows Systems</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -132,3 +108,17 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-detailed-step-by-step-guide-to-using-telegram-desktop/"><u>[New] A Detailed Step-By-Step Guide To Using Telegram Desktop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-beat-buffers-archive-and-dissect-tunes/"><u>[Updated] 2024 Approved Beat Buffers Archive & Dissect Tunes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-efficiently-uploading-youtube-vids-to-insta-profile/"><u>[Updated] 2024 Approved Efficiently Uploading YouTube Vids to Insta Profile</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-skip-essential-complications-in-win10win11-system/"><u>How to Skip 'Essential' Complications in Win10/Win11 System</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-advancements-in-linuxs-use-with-android-resources/"><u>Pioneering Advancements in Linux's Use with Android Resources</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/portable-windows-upgrade-blueprint-150-chars/"><u>Portable Windows Upgrade Blueprint (150 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-pc-visual-experience-boost-your-gpus-power/"><u>Transforming PC Visual Experience: Boost Your GPU's Power</u></a></li>
+</ul></div>
+

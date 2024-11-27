@@ -1,7 +1,7 @@
 ---
 title: Defeating Windows 11 Administrative Barriers
-date: 2024-08-28T01:15:31.018Z
-updated: 2024-08-29T01:15:31.018Z
+date: 2024-11-22T17:44:12.299Z
+updated: 2024-11-27T16:20:59.475Z
 tags:
   - windows10
   - windows11
@@ -46,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 ![reinstalling Windows-11 after reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reinstalling-Windows-11-after-reset.jpg)
 9. In the **Are you ready to reset this device** screen, click on the **Reset** button to confirm the action and start the reset process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  During the process, Windows will first reset your device to remove all the data, unless you have selected the **Keep my files** option, and then reinstall the operating system. It may take a while to complete the process, so leave your device idle and connected to the power outlet.
 
  If the reset process fails and requests additional system files, use the **Cloud download** option to perform a reset and try again. This often happens if your existing Windows installation is missing critical system files or corrupted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Factory Reset Windows 11 Using a Windows Installation Media
 
@@ -71,8 +79,18 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 2. Next, select the **Windows 11 edition** you want to install. If not, select the default option and click **Next**.  
 ![windows 11 setup select edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/windows-11-setup-select-edition.png)
 3. Accept the terms and click **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![custom install windows only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/custom-install-windows-only-.png)
 4. The setup wizard will detect your existing Windows installation and offer you to **Upgrade**. However, the upgrade option will keep your apps, settings, and admin password. So, select **Custom: Install Windows only (advanced).**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select your installation drive and click **Next**. Follow on-screen instructions to complete the installation.
 
  Windows will wipe your installation drive and install a fresh copy of the Windows OS. After the restart, Microsoft will prompt you to log in with your Microsoft account to complete the setup. If you have a Microsoft account, log in using the credentials and complete the setup.
@@ -80,15 +98,14 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
  If you prefer to create and use a local user account instead, read our guide on [how to install and set up Windows 11 without an internet connection](https://www.makeuseof.com/windows-11-set-up-without-internet-connection/) and create one that way.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Factory Reset a Windows Computer Without an Admin Password
 
  Although you can factory reset the PC to bypass the admin password, setting up your system from scratch is cumbersome. To avoid this hassle, consider using a password manager. It not only stores difficult and long passwords and syncs them across devices but also protect them from hacker and other prying eyes with encryption.
 
  For situations like this, Windows 11 offers a few alternative ways to factory reset your computer. You can factory reset Windows 11 without the admin password from the lock screen or by using a bootable Windows installation media. Let's explore the two ways you can bypass a Windows admin password and reset your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -96,3 +113,23 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-novice-to-master-the-ultimate-periscope-handbook/"><u>[New] In 2024, From Novice to Master The Ultimate Periscope Handbook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-youtube-success-with-tubebuddy-for-2024/"><u>[New] The Ultimate Guide to YouTube Success with TubeBuddy for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-free-mindset-tunes-no-copyrights/"><u>[Updated] Free Mindset Tunes - No Copyrights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/er-the-crowd-initiating-your-top-ranked-gaming-channel/"><u>Conquer the Crowd Initiating Your Top-Ranked Gaming Channel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-solving-windows-11s-app-startup-error-code-0xc000003e/"><u>Deciphering and Solving Windows 11'S App Startup Error: Code 0XC000003E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-continuous-edge-key-presses/"><u>Eradicating Continuous Edge Key Presses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guided-steps-altering-administrative-profile-in-windows-11/"><u>Guided Steps: Altering Administrative Profile in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-how-does-t-series-generate-revenue/"><u>In 2024, How Does T-Series Generate Revenue?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-download-pace-in-utorrent-for-windows-users/"><u>Mastering File Download Pace in uTorrent, for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-your-pcs-primary-command-line-editor/"><u>Perfect Your PC's Primary Command Line Editor</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/reimagining-teams-background-beforeafter-conversations/"><u>Reimagining Teams' Background Before/After Conversations</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/roav-dashcam-c1-by-anker-comprehensive-evaluation-and-analysis/"><u>Roav DashCam C1 by Anker - Comprehensive Evaluation and Analysis</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-from-default-dial-tones-to-signature-sounds-the-ringtone-artisans-manual/"><u>Updated 2024 Approved From Default Dial-Tones to Signature Sounds The Ringtone Artisans Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-pcs-proclaim-their-superiority-to-mac-users-9/"><u>Why PCs Proclaim Their Superiority to Mac Users (#9)</u></a></li>
+</ul></div>
+

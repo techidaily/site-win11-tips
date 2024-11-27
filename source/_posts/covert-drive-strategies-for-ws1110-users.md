@@ -1,7 +1,7 @@
 ---
 title: Covert Drive Strategies for WS11/10 Users
-date: 2024-11-14T18:00:26.628Z
-updated: 2024-11-17T17:41:50.227Z
+date: 2024-11-21T16:16:14.178Z
+updated: 2024-11-27T17:31:10.722Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Hide a Drive Using the Disk Management App
 
  The Disk Management tool on Windows makes it easy to perform various storage-related tasks such as formatting hard disk partitions, assigning drive letters, managing disk space, and more. You can also use it to hide a drive partition on Windows. Here's how:
@@ -36,14 +40,11 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 5. Choose**Yes** when the warning message appears.  
 ![Hide a Drive Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-disk-management.jpg)
 
- Once you complete the above steps, your drive will no longer appear in File Explorer.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once you complete the above steps, your drive will no longer appear in File Explorer.
 
 ## 2\. Hide a Drive in Windows With Diskpart Command
 
@@ -64,9 +65,17 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 `remove letter X`  
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
 
  If you like using Command Prompt, why not check our guide on[how to master the Command Prompt in Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) ?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Hide a Drive Using the Group Policy Editor
 
@@ -83,17 +92,15 @@ Here's what you need to do:
 5. Double-click the**Hide these specified drives in My Computer** policy on your right.  
 ![Hide a Drive With Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-with-group-policy-editor.jpg)
 6. Select the**Enabled** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Under**Options** , select the drive you want to hide.
 8. Click**Apply** followed by**OK** .
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
@@ -114,13 +121,6 @@ Here's what you need to do:
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
@@ -128,13 +128,6 @@ Here's what you need to do:
  You can also use this method to hide multiple drives at the same time. To do so, add the decimal numbers for both drives and enter the total in the Value data field. For example, if you're looking to hide drive**G:** and**H:** from your computer, you should enter**192** (64 + 128) in the Value data field.
 
  You'll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the**NoDrives** DWORD.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Hiding Drives in Windows Is Easy
 
@@ -157,18 +150,22 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/edge-it-all-out-the-finest-frame-options-for-social-media-photography-for-2024/"><u>Edge It All Out The Finest Frame Options for Social Media Photography for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-mail-notifications-on-windows-a-comprehensive-guide/"><u>Enhancing Mail Notifications on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-windows-error-0x8007020-causes/"><u>Eradicating Windows Error 0X8007020 Causes</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-k70e-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi K70E Phones with/without a PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-tutorial-triumph-a-step-towards-a-million-view-goal/"><u>In 2024, Tutorial Triumph A Step Towards a Million View Goal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/make-a-difference-in-your-desktop-experience-explore-8-winbubble-tips/"><u>Make a Difference in Your Desktop Experience - Explore 8 WinBubble Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/making-business-simpler-with-chatgpts-advanced-assistance/"><u>Making Business Simpler with ChatGPT's Advanced Assistance</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/mastering-the-art-of-creative-destruction-in-pc-gaming/"><u>Mastering the Art of Creative Destruction in PC Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-insufficient-privileges-on-windows-system/"><u>Overcoming the Insufficient Privileges on Windows System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-display-settings-a-windows-10-drivers-guide/"><u>Reviving Display Settings: A Windows 10 Drivers' Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/selecting-ideal-dimensions-aspect-ratio-guide-for-2024/"><u>Selecting Ideal Dimensions Aspect Ratio Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-4-windows-os-on-micro-pcs/"><u>Top 4 Windows OS on Micro PCs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-transforming-your-igtv-presence-with-new-covers/"><u>2024 Approved Transforming Your IGTV Presence with New Covers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-best-free-methods-for-transforming-your-avi-files-into-a-playable-dvd-format/"><u>5 Best Free Methods for Transforming Your AVI Files Into a Playable DVD Format</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-common-pitfalls-in-youtube-sponsorships-according-to-famebit-for-2024/"><u>Avoiding Common Pitfalls in YouTube Sponsorships, According to FameBit for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-tu-fotografia-de-alta-calidad-sin-costo-convertir-raw-a-tiff-en-linea-mediante-imagemaster-pro/"><u>Cambia Tu Fotografía De Alta Calidad Sin Costo: Convertir RAW a TIFF en Línea Mediante ImageMaster Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-for-re-establishing-managed-status-on-windows-11/"><u>Comprehensive Guide for Re-Establishing Managed Status on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-magic5-ultimate-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor Magic5 Ultimate 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/grasp-total-console-playtime-using-xbox-series-xs/"><u>Grasp Total Console Playtime Using Xbox Series X/S</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-creating-smooth-time-lapses-with-samsung-mobile/"><u>In 2024, Creating Smooth Time-Lapses with Samsung Mobile</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-jolly-jingles-list-of-laugh-out-loud-short-video-suggestions/"><u>In 2024, Jolly Jingles List of Laugh Out Loud, Short Video Suggestions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-cloud-storage-enhance-your-data-management-with-centrum-podpory/"><u>Movavi Cloud Storage: Enhance Your Data Management with Centrum Podpory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-wijzer-om-gratis-raam-in-wmv-formaat-te-veranderen-de-meest-gewone-movavi-oplage/"><u>Online Wijzer Om Gratis RAAM in WMV Formaat Te Veranderen - De Meest Gewone Movavi Oplage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-simple-guide-to-downloading-mp3s-from-your-videos-gratis/"><u>Quick and Simple Guide to Downloading MP3s From Your Videos, Gratis!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transfer-your-memories-converting-camcorder-formats-ts-mts-m2ts-for-playback-on-xbox-one-via-pcmac/"><u>Transfer Your Memories: Converting Camcorder Formats (TS, MTS, M2TS) for Playback on Xbox One via PC/Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-wmv-a-la-norme-vob-sur-internet-avec-movavi/"><u>Transformation Gratuite De Fichiers WMV À La Norme VOB Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tv-mp4avi-mpe/"><u>오토바이오어 TV를 전자보간용 영상으로 자유소부터 MP4/AVI 변환 - MPE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviwebm-to-ogg/"><u>ウィスパーオーディオファイルにリアルタイム変換! - Movaviの無料オンラインWEBM to OGG</u></a></li>
 </ul></div>
 

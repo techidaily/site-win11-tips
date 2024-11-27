@@ -1,7 +1,7 @@
 ---
 title: The 4 Best New Microsoft Paint Features
-date: 2024-11-16T20:42:52.275Z
-updated: 2024-11-17T20:42:22.786Z
+date: 2024-11-25T17:53:43.584Z
+updated: 2024-11-27T16:11:23.864Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,24 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Microsoft Paint Gets a Design Overhaul
 
 ![ms paint windows 11 new ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-windows-11-new-ui.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The new update brings subtle but important changes to the aging art app. Those familiar with the MS Paint app will notice that the UI for the Edit Color, Resize, and Skew pop-ups now match the style of Windows 11\.
 
  Additionally, the new update brings improved support for screen readers to aid with accessibility. It also fixes the issue where text boxes move unexpectedly if you use IME, and it corrects incorrectly localized dialog boxes in Hebrew, Dutch, Norwegian, and other languages. Finally, Shift-clicking on a color swatch will now select it as your secondary color.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Paint's Dark Mode Is Available for Everyone
@@ -51,37 +56,24 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
  Dark Mode is available on Paint version 11.2304.17.0 and above.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A Centered Canvas for Paint
 
 ![ms paint centered canvas windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-centered-canvas-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Microsoft Paint canvas has traditionally been located on the top left of the app, which will change with the new update. Version 11.2306.23.0, only available on the Canary and Developers builds at the time of writing, has added support for a centered canvas.
 
  A centered canvas provides visual balance and helps bring the content into focus. Similar to the dark mode, this feature will likely make its way to the stable release eventually.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enhanced Zoom Controls and Accessibility
 
 ![ms paint zoom functionality windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-oom-functionality-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The new Paint app also features improved zoom controls, making the zoom-in/out experience smoother for greater precision. In addition, the new "Fit to window" option can quickly adapt to your window's size, complementing the new centered canvas composition.
 
@@ -95,27 +87,6 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
 
  The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-insiders-tips-for-sharing-videos-on-instagram/"><u>[Updated] In 2024, The Insider's Tips for Sharing Videos on Instagram</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1-free-online-converter-transform-wma-to-mp3-with-movavi/"><u>1. Free Online Converter: Transform WMA to MP3 with Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-your-shot-ultimate-software-guide-image-editors/"><u>2024 Approved Frame Your Shot Ultimate Software Guide Image Editors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/opusmp3movavi/"><u>完全無料でオンラインでOPUSからMP3に簡単変換！Movaviで楽しめますように</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bahsedecegimiz-12-milyar-ucretli-surdurulebilir-3d-daha-acik-animation-programu/"><u>Bahsedeceğimiz 12 Milyar Ücretli Sürdürülebilir 3D Daha Açık Animation Programu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cortical-remapping-occurs-as-the-brain-adapts-to-changes-in-sensory-input-or-motor-function-following-nerve-damage/"><u>Cortical Remapping Occurs as the Brain Adapts to Changes in Sensory Input or Motor Function Following Nerve Damage.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-ground-to-greatness-photos-on-a-stretch/"><u>In 2024, From Ground to Greatness Photos on a Stretch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/istruzioni-semplici-per-ottenere-foto-trasparenti-sfondo-senza-problemi/"><u>Istruzioni Semplici per Ottenere Foto Trasparenti Sfondo Senza Problemi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/journey-upgrade-unlock-pro-features-of-copilot/"><u>Journey Upgrade - Unlock Pro Features of Copilot</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-driver-updates-a-quick-guide-for-win-11-users/"><u>Mastering Driver Updates: A Quick Guide for Win 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-download-graca-conversor-de-formatos-em-massa-para-3gp-e-3g2-online-gratuito/"><u>Movavi: Download Graça - Conversor De Formatos Em Massa Para 3GP E 3G2 (Online Gratuito)</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/permanent-banishment-from-the-tiktok-community-done-right/"><u>Permanent Banishment From the TikTok Community, Done Right</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revolutionize-your-photos-master-adobes-curving-methods/"><u>Revolutionize Your Photos Master Adobe's Curving Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-11-free-and-premium-2d-animation-programs-of-2024-a-comprehensive-guide/"><u>Top 11 Free & Premium 2D Animation Programs of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/5-video-capture-for-gamers-guide/"><u>Top 15 Video Capture for Gamers Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/toutes-les-etapes-pour-convertir-un-fichier-vob-en-mp4-gratuitement-guide-detaille-avec-movavi/"><u>Toutes Les Étapes Pour Convertir Un Fichier VOB en MP4 Gratuitement - Guide Détaillé Avec Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-compatible-magic-mouse-drivers-installation-guide/"><u>Windows Compatible Magic Mouse Drivers: Installation Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,3 +94,22 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-silencing-the-spotlight-avoiding-vloggers-fears/"><u>[New] In 2024, Silencing the Spotlight Avoiding Vlogger's Fears</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-your-content-creation-iphoneipad-screen-recordings-on-youtube/"><u>[New] In 2024, Streamline Your Content Creation IPhone/iPad Screen Recordings on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers/"><u>[Updated] 2024 Approved Download YouTube Tunes with These 10+ No-Cost Audio Crackers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-prime-vr-options-enhancing-drone-operations/"><u>2024 Approved Prime VR Options Enhancing Drone Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-screenscape-diverse-wallpapers-for-windows-11/"><u>Customizing Your Screenscape: Diverse Wallpapers for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-unblock-your-windows-pin/"><u>Easy Steps to Unblock Your Windows PIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insights-into-the-art-of-running-ping-on-pcs/"><u>Expert Insights Into the Art of Running Ping on PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-11-pro-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone 11 Pro to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-and-install-official-drivers-for-the-hp-laserjet-pro-p1006/"><u>How to Download and Install Official Drivers for the HP LaserJet Pro P1006</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-aesthetics-with-autocolor-settings-on-your-windows-devices/"><u>Improve Aesthetics with AutoColor Settings on Your Windows Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-reality-the-future-of-virtual-experiences/"><u>In 2024, Beyond Reality The Future of Virtual Experiences</u></a></li>
+<li><a href="https://win-blog.techidaily.com/outrider-game-optimization-tips-to-combat-and-fix-in-game-lagging-problems/"><u>Outrider Game Optimization Tips to Combat and Fix In-Game Lagging Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-freezing-and-dark-screen-with-steam/"><u>Steps to Resolve Freezing & Dark Screen with Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-macos-chromeos-browsers-with-the-lightest-footprint/"><u>Windows, macOS, ChromeOS: Browsers with the Lightest Footprint</u></a></li>
+</ul></div>
+

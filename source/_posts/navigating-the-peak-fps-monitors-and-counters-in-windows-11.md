@@ -1,7 +1,7 @@
 ---
 title: Navigating the Peak FPS Monitors & Counters in Windows 11
-date: 2024-11-10T19:20:12.509Z
-updated: 2024-11-17T19:27:59.071Z
+date: 2024-11-22T17:37:17.970Z
+updated: 2024-11-27T16:58:20.053Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/41de1135ff58d32185caafd7a16e179b6c3f3f0f5
 
 ![fraps fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fraps-fps-counter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  FRAPS is all you need if you want to benchmark your computer for framerates. It is a classic FPS counter application that works on almost all the editions of the Windows OS and is free to use.
 
  FRAPS shows the FPS counter in the top right corner of the screen. Interestingly, this lightweight application also features a screenshot and a screen recording utility.
@@ -49,28 +53,22 @@ thumbnail: https://thmb.techidaily.com/41de1135ff58d32185caafd7a16e179b6c3f3f0f5
 
 ![NZXT Cam overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nzxt-cam-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To configure the**NZXT Cam** overlay, launch the app and click on**Settings** (**Gear icon**) in the bottom left corner. Next, open the**Overlay** tab. Under Overlay**Settings** , check all the panels that you want to display, including the FPS option.
 
  To trigger the NZXT Cam overlay, press**Ctrl + O** during gameplay. It shows FPS count, CPU and GPU utilization, with temperature and memory utilization. Apart from the framerate monitoring, you can use it to see your system performance and specs, your gameplay time, and even tweak your GPU clock speed.
 
 **Download** :[NZXT Cam](https://nzxt.com/software/cam) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Nvidia GeForce Experience Performance Overlay
 
 ![Nvidia GeFroce Experience Performance Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-gefroce-experience-performance-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have Nvidia graphics, you don’t need to use a third-party FPS counter app. Nvidia’s GeForce Experience features a**Performance Overlay** to system performance as an overlay.
@@ -82,38 +80,21 @@ To enable Performance overlay:
 ![Nvidia-Geforce-experience-overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-geforce-experinece-overlay.jpg)
 3. Click on Settings (Great icon) and select**HUD Layout.**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Open the**Performance** tab and then select**FPS** . Select the position for the overlay.  
 ![Nvidia Geforce experinece overlay advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-geforce-experinece-overlay-advanced.jpg)
 5. Additionally, select the**Advanced option** to view additional system performance stats, including CPU and GPU utilization, processor temperature, memory clock, power out, fan speed, and more.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Press**Alt + R** to launch the overlay during your game sessions. Press**Alt + R** again to close the overlay.
 
 **Download** :[Nvidia GeForce Experience](https://www.nvidia.com/en-in/geforce/geforce-experience/download/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. FPS Monitor
 
 ![fps counter game overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fps-counter-game-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need to benchmark a little more than just framerates, FPS Monitor will fit the bill perfectly. It tracks your computer’s hardware state and displays the information in-game as an overlay.
 
@@ -127,16 +108,13 @@ To enable Performance overlay:
 
 **Download** :[FPS Monitor](https://fpsmon.com/en/) (Premium)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Steam’s FPS Counter
 
 ![Steam in game pfs counter 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-in-game-pfs-counter-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steam has a built-in FPS counter that is disabled by default. You can enable the framerate counter to measure performance for the games launched on Steam.
 
@@ -147,6 +125,11 @@ To enable the FPS counter on Steam:
 3. Open the**In-Game tab** in the**Settings** dialog.  
 ![Steam in game fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-in-game-fps-counter.jpg)
 4. Next, click the**In-Game FPS Counter** drop-down and select**Top-left** . You can also set it to Top-right, Bottom-right, or Bottom-left.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**OK** to save the changes.
 6. Next time you launch a game on Steam, you’ll notice a green-color FPS title appearing at your preferred location on your screen.
 
@@ -195,19 +178,22 @@ To enable Razer Cortex overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-shots-premium-video-cams-for-slow-motion-magic/"><u>[New] 2024 Approved Top Shots Premium Video Cams for Slow-Motion Magic</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-banishing-bogus-followers-from-instagram-landscape/"><u>[New] Banishing Bogus Followers From Instagram Landscape</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-iptv-platform-agnosticism-for-2024/"><u>[New] Comprehensive IPTV Platform Agnosticism for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-dissecting-screencapturex-pros-latest-recording-capabilities/"><u>[New] Dissecting ScreenCaptureX Pro's Latest Recording Capabilities</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-bring-out-the-vibes-of-your-channel-top-10-online-artists-unite-for-2024/"><u>[Updated] Bring Out the Vibes of Your Channel Top 10 Online Artists Unite for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-bargain-4k-camera-deals/"><u>Best Bargain 4K Camera Deals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/commentaires-et-recommandations-dexperts-sur-le-logiciel-movavi/"><u>Commentaires Et Recommandations D'experts Sur Le Logiciel Movavi</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-x-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone X Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuitamente-converti-dts-online-con-movavi-guida-istantanea/"><u>Gratuitamente Converti DTS Online Con Movavi - Guida Istantanea</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guru-da-conversao-de-audio-transforme-seus-livros-e-podcasts-m4b-em-mp3-com-seguranca-passo-a-passo/"><u>Guru Da Conversão De Audio: Transforme Seus Livros E Podcasts M4B Em MP3 Com Segurança - Passo a Passo</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/os-8-site-mais-confiaveis-e-populares-para-encanar-filmes-e-series-online-gratuitamente/"><u>Os 8 Site Mais Confiáveis E Populares Para Encanar Filmes E Séries Online Gratuitamente</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/er-lineup-best-free-video-editors-unveiled-for-2024/"><u>Premier Lineup Best Free Video Editors Unveiled for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/qt-mp4-online-movavi/"><u>QT 프로필을 MP4로 바꾸는 방법: Online 무료 송금제 - Movavi</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-enhanced-visuals-projector-vs-tv-for-ultimate-4k-viewing/"><u>[New] 2024 Approved Enhanced Visuals Projector Vs TV for Ultimate 4K Viewing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-hilarity-in-a-click-meme-creation-for-2024/"><u>[Updated] Hilarity in a Click (Meme Creation) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tips-for-effective-screen-broadcasts-on-fb-live/"><u>[Updated] Tips for Effective Screen Broadcasts on FB Live</u></a></li>
+<li><a href="https://win-answers.techidaily.com/age-of-empires-iv-performance-tuning-tips-to-prevent-stuttering/"><u>Age of Empires IV Performance Tuning: Tips to Prevent Stuttering</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digital-legacy-lift-updating-old-games-location-in-windows-11/"><u>Digital Legacy Lift: Updating Old Games' Location in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-capture-failures-on-low-end-pc-systems/"><u>Fixing Capture Failures on Low-End PC Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-forcefully-remove-printers-from-windows-11-pro/"><u>How to Forcefully Remove Printers From Windows 11 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-a34-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy A34 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/e-tips-for-maximizing-your-creator-studio-potential/"><u>Inside Tips for Maximizing Your Creator Studio Potential</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/make-every-podcast-session-count-with-these-15-powerful-activities-for-2024/"><u>Make Every Podcast Session Count with These 15 Powerful Activities for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-no-permission-error-in-windows-oses/"><u>Overcoming the No Permission Error in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-control-revoking-advanced-users-on-windows-11/"><u>Reclaiming Control: Revoking Advanced Users on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-wsl-register-failure-with-error-code-0x80370102/"><u>Resolving WSL Register Failure with Error Code 0X80370102</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/solution-imaging-studies-including-x-rays-ct-scans-mri-and-pet-scans-are-crucial-for-identifying-the-presence-of-osteoblastic-lesions-they-help-determine-th86/"><u>Solution: Imaging Studies, Including X-Rays, CT Scans, MRI, and PET Scans, Are Crucial for Identifying the Presence of Osteoblastic Lesions. They Help Determine the Extent of Bone Involvement, Guide Treatment Planning, and Monitor Response to Therapy.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-geforce-overlays-easy-steps-on-windows-pc/"><u>Stop GeForce Overlays: Easy Steps on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-dawn-of-ai-powered-windows-experience/"><u>The Dawn of AI-Powered Windows Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-boosting-windows-storage-without-a-fee/"><u>The Ultimate Guide to Boosting Windows Storage Without a Fee</u></a></li>
 </ul></div>
 

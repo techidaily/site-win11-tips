@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Secrets: How to Fix the No-Server Error in PC Apex Legends (<156 Chars)"
-date: 2024-08-28T01:19:00.371Z
-updated: 2024-08-29T01:19:00.371Z
+date: 2024-11-22T16:05:43.410Z
+updated: 2024-11-27T16:02:20.872Z
 tags:
   - windows10
   - windows11
@@ -44,9 +44,6 @@ Now let's check out all the solutions in detail.
 
  If you are getting a comparatively lower speed, consider power cycling the router. If that doesn't help, contact your ISP.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run Apex Legends With Administrative Rights
 
  Running apps without administrative rights can cause issues, especially if the app requires an internet connection. So, ensure you are running Apex Legends as an administrator. Here's how.
@@ -59,29 +56,21 @@ Now let's check out all the solutions in detail.
 Relaunch the game and check if you still face the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Switch to a Different Server
 
 ![Different servers of Apex Legends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/different-servers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Another quick way to resolve the issue is to switch to a different server within your region. However, this fix will only be helpful if there's a regional server outage. If all the servers are down, then try the next solution.
 
  Also, be prepared to experience comparatively higher ping on the new server, but it's still better than waiting for the servers to become operational again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Verify Games Files
 
 ![Repair option in EA app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Games may start misbehaving and throw different errors if there's corruption in their files. Fortunately, you can quickly eliminate this issue by verifying the game files.
 
  When you verify game files, launchers will compare the game files on your computer with those on its servers. If it finds corruption in any file, it'll automatically replace it with its counterpart. Here's how to verify Apex Legends files in the EA app:
@@ -91,6 +80,10 @@ Relaunch the game and check if you still face the problem.
 3. Click the**three dots** on the Apex Legends icon and choose**Repair** from the menu that crops up.
 
  After completing the verification process, restart the EA app and check for the issue. If you're using any other launcher, check our guide on[verifying game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Proxy Server Connections
 
@@ -104,9 +97,6 @@ Relaunch the game and check if you still face the problem.
 4. Uncheck**Use a proxy server for your LAN box** .  
 ![Turn off proxy on Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Turn-off-proxy.jpg)
 5. Click on**OK.**
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  Try to connect with the game servers again and check if the problem is fixed.
 
@@ -118,13 +108,19 @@ Relaunch the game and check if you still face the problem.
 2. Right-click on the installed**Network adapters** and choose**Update driver** .  
 ![The network adapters section in Windows Device Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update-network-drivers-win-11.jpg)
 3. Click on**Search automatically for drivers** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Windows will now look for and download the best available driver update.
 
  Check if the issue is fixed or not. If Windows can't find any drivers, look online for your adapter's manufacturer and see if they have newer drivers on its support page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Close Any Bandwidth Consuming Applications
 
  Different background running applications will constantly keep consuming bandwidth and can cause the problem at hand. As a solution, close all such applications. Here's how.
@@ -136,8 +132,9 @@ Relaunch the game and check if you still face the problem.
 Launch the game and check for the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Switch to Google's DNS Server
 
  The next solution on the list is to switch to the Google DNS server. As it turns out, if your current[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is unstable, you will most likely face the issue.
@@ -150,9 +147,6 @@ Launch the game and check for the problem.
 4. Click on**Edit** next to the**DNS server assignment** .  
 ![Wi-Fi properties screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/DNS-server.jpg)
 5. Click on the drop-down icon under**Edit DNS settings** , and choose**Manual** from the context menu.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. As per your DNS provider, choose**IPv4** or**IPv6.**
 7. If you choose**IPv4,** enter**8.8.8.8** and**8.8.4.4** in**Preferred** and**Alternate DNS servers,** respectively.
 8. If you choose**IPv6,** enter**2001:4860:4860::8888** and**2001:4860:4860::8844** in**Preferred** and**Alternate DNS servers,** respectively.  
@@ -170,9 +164,14 @@ Launch the game and check for the problem.
 ![running flushdns command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/flushdns-terminal.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Wait until the process is complete. Once done, reboot the system and check for the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Reset Your Network
 
@@ -193,18 +192,19 @@ Launch the game and check for the problem.
 
  The only solution here is to switch to a different game launcher. If you're using Origin, try switching to Steam or vice versa.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apex Legends "No Servers Found" Issue, Fixed
 
  Apex Legends no server issue can appear anytime and stop users from playing the game. Thankfully, it's straightforward to get rid of the problem. Just try the above solutions to get rid of the issue for good.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -213,4 +213,26 @@ Launch the game and check for the problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-complete-rundown-how-google-podcast-works-for-2024/"><u>[New] Complete Rundown How Google Podcast Works for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-novices-guide-to-animated-videos-with-wmm/"><u>[New] In 2024, Novice's Guide to Animated Videos with WMM</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-tuning-into-emotion-background-melodies-in-film/"><u>[New] In 2024, Tuning Into Emotion Background Melodies in Film</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/digital-gurus-choice-best-5-web-video-recorders-for-2024/"><u>Digital Gurus' Choice Best 5 Web Video Recorders for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/donde-estan-mis-archivos-descargados-de-facebook-resuelto-tecnicas-efectivas-para-localizarlos/"><u>Dónde Están Mis Archivos Descargados De Facebook? Resuelto: Técnicas Efectivas Para Localizarlos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-screen-flicker-easily/"><u>Eliminate Screen Flicker Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-identify-and-eliminate-keygen-virus-from-windows-computers/"><u>How to Identify & Eliminate Keygen Virus From Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-telnet-connections-win11s-method/"><u>Initiating Telnet Connections: Win11's Method</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-robotics-at-home-discover-how-makeblocks-mbot-kit-empowers-young-innovators/"><u>Mastering Robotics at Home? Discover How Makeblock's mBot Kit Empowers Young Innovators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-e-mail-tackling-cant-get-mail-head-on/"><u>Mastering Windows 11'S E-Mail: Tackling Can't Get Mail Head On</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-browser-blackouts-tactics-to-reopen-sites-in-windows/"><u>Navigating Browser Blackouts: Tactics to Reopen Sites in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-chrome-hurdles-in-w11-effective-steps-herein/"><u>Overcoming Chrome Hurdles in W11 – Effective Steps Herein</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-power-management-lowering-user-mode-service-usage-in-windows/"><u>Precision Power Management: Lowering User-Mode Service Usage in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-windows-0x0000011b-crash-issue/"><u>Remedying the Windows 0X0000011B Crash Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-sync-error-resolution-in-ms-to-do-app/"><u>Streamlining Sync Error Resolution in MS To-Do App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-write-issues-for-steam-folders-on-modern-pcs/"><u>Tackling Write Issues for Steam Folders on Modern PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-editors-arsenal-key-scene-tools-ranked/"><u>The Editor’s Arsenal Key Scene Tools Ranked</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-understanding-ring-doorbell-pros-advanced-capabilities/"><u>The Ultimate Guide to Understanding Ring Doorbell Pro's Advanced Capabilities</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-7-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 7</u></a></li>
+</ul></div>
 

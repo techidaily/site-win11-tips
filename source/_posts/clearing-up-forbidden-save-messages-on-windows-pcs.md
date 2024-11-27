@@ -1,7 +1,7 @@
 ---
 title: Clearing Up 'Forbidden Save' Messages on Windows PCs
-date: 2024-08-28T01:18:36.154Z
-updated: 2024-08-29T01:18:36.154Z
+date: 2024-11-20T16:26:35.027Z
+updated: 2024-11-27T17:00:10.448Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 7. Hit **Apply** and then **OK**.  
 ![Advanced Security Settings for a folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Replace-Folder-Owner-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you take ownership of the folder, the permission error should not appear again. If the above method doesn't work for some reason, you can use a [third-party tool to take ownership of a folder on Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/). The best part is that these tools allow you to take ownership of multiple folders at once.
 
 ## 3\. Run the App With Administrative Privileges
@@ -61,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
  If this method works, you can configure the app to always run with administrative privileges. If you need help with that, refer to our guide on [how to always run apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Program Compatibility Troubleshooter
 
  Another thing you can do to fix this error is run the Windows Program Compatibility troubleshooter. It’ll automatically detect and fix any compatibility issues with your program and attempt to fix the error. Here’s how to run it.
@@ -75,15 +80,16 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
  After completing the above steps, see if you can save files without getting any errors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Check Your Antivirus Program
 
  At times, antivirus software on your PC may become overly cautious and prevent apps from accessing specific folders. When that happens, Windows may show the "You don’t have permission to save in this location" error message.
 
  To fix this, you will need to go through your antivirus program’s settings and whitelist your app or program from there. Alternatively, you can also temporarily disable your antivirus program and then save your file. If you do this, make sure to re-enable your antivirus program afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Disable User Account Control
 
 [User Account Control (UAC)](https://www.makeuseof.com/tag/user-account-control-windows-10/) is a security feature on Windows that prevents apps and users from making system-level changes without permission. Although the feature protects your PC from unwanted system changes, it can occasionally interfere with Windows processes and cause problems like the one described here.
@@ -95,20 +101,17 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 3. In the **User Account Control Settings** window, drag the slider to the bottom and hit **OK**.  
 ![User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/User-Account-Control-Settings-window.jpg)
 4. Select **Yes** when the User Account Control prompt shows up.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  After disabling User Account Control, check to see if you can save files in the desired folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Save the File in a Different Location, Then Move It
 
  One way to bypass the "You don’t have permission to save in this location" error is to save your file in a different location and then move it to your desired folder. This is more of a workaround that you can use if the above methods don't work.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Create a New User Account
 
  It is possible that the error "You don't have permission to save in this location" is specific to your current user account. This can happen if some of the user account files associated with your account become corrupted. To check this possibility, try [switching to a different user account](https://www.makeuseof.com/windows-11-switch-user-accounts/) on your computer and see if you get the same error.
@@ -123,15 +126,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Sign in with your newly created account, and the error should not appear after that.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Troubleshoot the Issue in Safe Mode
 
  Safe Mode is a useful feature that can help you identify and troubleshoot various issues with your Windows PC. If none of the above methods work, you can try booting Windows in Safe Mode.
@@ -146,11 +149,31 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If you can't figure out what's causing the error, work your way through the following troubleshooting tips to fix the underlying issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-efficient-solutions-for-youtube-short-snags/"><u>[New] 2024 Approved Efficient Solutions for YouTube Short Snags</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-insiders-look-at-xvision-prodigy-studio-an-all-inclusive-guide/"><u>[New] Insider's Look at XVision Prodigy Studio - An All-Inclusive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snapchats-best-practices-for-image-and-video-zooming/"><u>[Updated] Snapchat's Best Practices for Image and Video Zooming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-a-windows-trash-bin-for-irreversible-file-disposal-11/"><u>Configuring a Windows Trash Bin for Irreversible File Disposal (11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failing-copy-functionality-in-windows-11/"><u>Correcting Failing Copy Functionality in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-your-ideal-theme-landscape-in-windows-11/"><u>Creating Your Ideal Theme Landscape in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-mp3-conversion-producing-high-quality-audio-cds-via-imgburn-on-pc/"><u>Easy Mp3 Conversion: Producing High-Quality Audio CDs via ImgBurn on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-error-why-valheim-failed-to-boot-and-how-to-resolve-it/"><u>Fixing the Error: Why Valheim Failed to Boot & How to Resolve It</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-c51-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme C51</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-x5-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco X5 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-official-method-to-unlock-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6 Official Method to Unlock Your Apple iPhone 6</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/movavi-flvwmv/"><u>Movavi提供: FLVとWMVファイルを手軽に無料入れ替え – 簡単なオンライン変換ツール</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-voc-to-mp4/"><u>Movavi를 사용한 온라인 VOC to MP4 무료 변환 기술</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-specific-app-failures-in-windows-os/"><u>Overcoming Device-Specific App Failures in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/permanent-file-disposal-guide-for-windows-11-desk-bin/"><u>Permanent File Disposal Guide for Windows 11 Desk Bin</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-yuzu-emulation-in-windows-os/"><u>Streamlining Yuzu Emulation in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggeringrestricting-windows-msi-service/"><u>Triggering/Restricting Windows MSI Service</u></a></li>
+</ul></div>
+

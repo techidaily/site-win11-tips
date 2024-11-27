@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Faster Boot Times: Windows 11 Guide"
-date: 2024-11-10T19:17:15.222Z
-updated: 2024-11-17T17:15:34.286Z
+date: 2024-11-23T16:42:51.999Z
+updated: 2024-11-27T17:12:35.842Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Should You Enable or Disable Fast Startup?
 
  With the release of Windows 8, Microsoft updated and renamed the default shutdown scenario as Fast Startup. It begins with the shutdown process by writing data to disk, similar to the hibernate process.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
  However, unlike hibernation, it logs off all the user sessions and writes the remaining boot information to the hiberfil file. So, instead of loading everything from scratch, Windows loads data from the Hiberfil.sys file into memory when you restart your computer, significantly reducing the boot time.
 
  That said, Fast Startup is not without its shortcomings. For example, [according to Microsoft](http://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/updates-not-install-with-fast-startup), you may face difficulties installing Windows updates on Fast Startup-enabled systems. Another reason is the [missing dual boot option because of the disabled delayed start function](https://www.makeuseof.com/windows-10-dual-boot-option-not-showing/). To learn more, read our explainer on [how Fast Startup works and why you should disable it](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Check if Fast Startup Is On or Off
 
@@ -68,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  If the Hibernate option is missing, you can enable it using a Command Prompt command.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable Hibernation in Windows 11
 
 ![turn on hibernate Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-hibernate-Windows-11.png)
@@ -91,22 +92,12 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
  Now that you have enabled the hibernate feature, below are the various ways to enable and disable Fast Startup on your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn On or Off Fast Startup in the Control Panel
 
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The easiest way to turn on Fast Startup is via the Control Panel's power settings. Here’s how to do it.
 
@@ -142,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 ![turn on off registry file fast startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-registry-file-fast-startup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t want to work with the Registry Editor, you can create a REG file and run it to achieve the same. Here’s how to do it.
 
 1. Press the **Win** key, search for the **Notepad** app and open it.
@@ -167,21 +151,16 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 8. Double-click on the **Enable\_fast-startup.reg** file to run. Then click **Yes**, and **Yes** to confirm the action.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable or Disable Fast Startup in the Group Policy Editor
 
 ![require use of fast startup group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/require-use-of-fast-startup-group-policy-editor-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Group Policy Editor allows you to configure your Group Policy settings to allow or restrict features as required. You can use it to enable or disable the Fast Startup feature on your Windows computer.
 
@@ -202,6 +181,10 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 ![disable fast startup hibernate Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/disable-fast-startup-hibernate-Windows-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Since fast startup depends on the Hibernate feature, you can disable Hibernate to turn off Fast start. However, this will also turn off Hibernate in Power options, so tread carefully.
 
 1. Press **Win + R** to open **Run**.
@@ -209,19 +192,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 3. In the Command Prompt window, type the following command and hit enter:  
 `Powercfg -h off`
 4. This will disable the Hibernate feature and also turn off Fast Startup.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Making Your Windows 11 PC Boot Better
 
@@ -231,29 +201,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  Hibernate-capable Windows 11 systems come with Fast Startup enabled by default. If you want to turn on or off Fast Startup in Windows 11 manually, this guide will show you how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-timelapse-with-iphone-a-step-by-step-guide/"><u>[Updated] Timelapse with iPhone A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-full-potential-of-googles-podcast-tools/"><u>[Updated] Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722962298676-canon-imageclass-mf4800-printer-drivers-download-and-installation-guide/"><u>Canon ImageCLASS MF4800 Printer Drivers: Download and Installation Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/decoding-the-process-behind-gopro-burst-recordings-for-2024/"><u>Decoding the Process Behind GoPro Burst Recordings for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975593882-download-the-latest-hp-photosmart-7520-printer-software-today/"><u>Download the Latest HP Photosmart 7520 Printer Software Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-access-to-bing-ai-via-windows-11-keyboard-shortcuts/"><u>Efficient Access to Bing AI via Windows 11 Keyboard Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-open-the-system32-folder-in-windows-11/"><u>How to Open the System32 Folder in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-navigating-digital-content-in-pedagogic-contexts/"><u>In 2024, Navigating Digital Content in Pedagogic Contexts</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c300-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C300 Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-film-format-changes-discover-how-digiartys-conversion-solutions-can-help-you/"><u>Mastering Film Format Changes: Discover How Digiarty's Conversion Solutions Can Help You!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-pin-display-in-the-windows-11-menu/"><u>Maximizing Pin Display in the Windows 11 Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-win1011s-network-maze-exiting-error-code-0x800704b3/"><u>Navigating Win10/11's Network Maze: Exiting Error Code: 0X800704B3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategic-flush-methods-for-your-windows-domain-nameservers/"><u>Strategic Flush Methods for Your Windows Domain Nameservers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-keyboard-use-eliminate-delay-in-windows-11s-typing-process/"><u>Swift Keyboard Use: Eliminate Delay in Windows 11'S Typing Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-off-windows-11s-hyper-v-service/"><u>Switching Off Windows 11'S Hyper-V Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-windows-drawers-eclipsing-procreate/"><u>Top 5 Windows Drawers Eclipsing Procreate</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-video-generator-in-2024/"><u>Updated What Is an AI Video Generator, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-experience-in-ultraportables/"><u>Windows Experience in Ultraportables</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -261,3 +208,24 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-13-mini-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 13 mini</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-classic-diablo-gameplay-wonders/"><u>Discovering Classic Diablo Gameplay Wonders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-setting-up-chrome-on-windows-11-devices/"><u>Essential Insights: Setting Up Chrome on Windows 11 Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-viewing-top-disneyplus-choices-for-kids-and-families-in-july-2nce/"><u>Essential Viewing: Top Disney+ Choices for Kids & Families in July 2Nce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-microsoft-teams-is-getting-faster-and-less-of-a-memory-hog/"><u>How Microsoft Teams Is Getting Faster and Less of a Memory Hog</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-6s-how-to-unlock-a-disabled-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 6s How to Unlock a Disabled Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-x-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone X and iPad</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photonpinnacle-z7-optimize-picture-scaling/"><u>In 2024, PhotonPinnacle Z7 Optimize Picture Scaling</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-securing-your-snapchat-footage-a-step-by-step-process/"><u>In 2024, Securing Your Snapchat Footage A Step-by-Step Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-qbittorrent-integrated-across-separate-windows-computers/"><u>Keeping qBittorrent Integrated Across Separate Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-wi-fi-linkage-on-windows-10-with-these-effective-corrections/"><u>Restore Wi-Fi Linkage on Windows 10 With These Effective Corrections</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-the-file-explorer-restart-process/"><u>Simplifying the File Explorer Restart Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-isarcextract-error-on-w11-and-11x-os/"><u>Solving the ISArcExtract Error on W11 & 11X OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-tutorial-on-line-insertion-in-word-program/"><u>The Complete Tutorial on Line Insertion in Word Program</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-windows-drive-space-a-guide-to-diskusage/"><u>Unlocking the Secrets of Windows' Drive Space: A Guide to DiskUsage</u></a></li>
+</ul></div>
+

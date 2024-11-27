@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide for SFC Scan on Windows PCs
-date: 2024-11-12T18:10:43.899Z
-updated: 2024-11-17T20:08:29.277Z
+date: 2024-11-20T16:38:15.841Z
+updated: 2024-11-27T16:13:22.229Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Run a System File Checker Scan on Windows
 
  To use the SFC, you need to run a single command in Command Prompt. Here’s how:
@@ -51,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other SFC Commands You Can Run on Windows
@@ -70,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Run an Offline SFC Scan on Windows
@@ -87,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 `SFC /scannow /offbootdir=d:\ /offwindir=d:\windows`
 
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Find the SFC Log File On Windows
 
@@ -110,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
 
 `/offlogfile=[offline log file path]`
@@ -124,10 +119,7 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
@@ -151,22 +143,22 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-navigating-the-new-streaming-landscape-with-youtube-premium/"><u>[New] 2024 Approved Navigating the New Streaming Landscape with YouTube Premium</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-dynamic-windows-top-9-essential-gif-recorder-programs/"><u>[New] In 2024, Dynamic Windows Top 9 Essential GIF Recorder Programs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-integrating-subtitles-into-your-online-social-videography-efforts/"><u>[New] Integrating Subtitles Into Your Online Social Videography Efforts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-diving-into-movavis-premium-video-tools-edition/"><u>[Updated] In 2024, Diving Into Movavi's Premium Video Tools Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/eliminating-windows-11-photo-app-malfunctions/"><u>Eliminating Windows 11 Photo App Malfunctions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-the-absence-of-windows-hello-scanner-error/"><u>Guiding Through the Absence of Windows Hello Scanner Error</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-movie-maker-an-animators-best-friend-for-2024/"><u>Harnessing the Power of Movie Maker An Animator’s Best Friend for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-revive-blackened-webcam-on-windows-os/"><u>How to Revive Blackened Webcam on Windows OS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-moisture-mayhem-9-key-symptoms-of-water-damaged-iphones-revealed/"><u>Identifying Moisture Mayhem: 9 Key Symptoms of Water-Damaged iPhones Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-efficiency-with-essential-win11-navigation-shortcuts/"><u>Maximize Your Efficiency with Essential Win11 Navigation Shortcuts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/solution-mri-is-the-most-sensitive-imaging-technique-for-detecting-early-osteolytic-lesions-because-it-provides-high-contrast-images-of-both-bone-and-soft-t130/"><u>Solution: MRI Is the Most Sensitive Imaging Technique for Detecting Early Osteolytic Lesions because It Provides High Contrast Images of Both Bone and Soft Tissues, Allowing for the Visualization of Even Small Areas of Bone Destruction.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-clear-printer-usage-messages/"><u>Steps to Clear Printer Usage Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-prevent-windows-11-from-listening-in/"><u>Steps to Prevent Windows 11 From Listening In</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-on-overcoming-installation-hurdles-in-windows-os/"><u>Tips on Overcoming Installation Hurdles in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbo-drives-efficient-data-alignment-for-win11-users/"><u>Turbo Drives: Efficient Data Alignment for Win11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-windows-msvcr110dll-gap/"><u>Understanding & Fixing Windows' Msvcr110.dll Gap</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/1728470148406-adata-ssd/"><u>お使いくださった人に愛される、最も完璧なADATA SSDのクローニングアプリケーション。</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/urturing-partnerships-with-top-brands-the-famebit-blueprint-for-2024/"><u>[New] Nurturing Partnerships with Top Brands The FameBit Blueprint for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creating-a-clickable-thumbnail-enhancing-video-visibility-without-costs/"><u>[Updated] 2024 Approved Creating a Clickable Thumbnail Enhancing Video Visibility without Costs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-make-my-video-perfectly-fit-instagram/"><u>[Updated] In 2024, Make My Video Perfectly Fit Instagram?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-zoom-essentials-for-webinar-novices-an-introductory-walkthrough/"><u>2024 Approved Zoom Essentials for Webinar Novices An Introductory Walkthrough</u></a></li>
+<li><a href="https://win-premium.techidaily.com/acronis-clone/"><u>最佳無料 Acronis Clone 複製軟體替代品：選擇分析</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-k70-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi K70? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambio-sin-costo-de-archivos-wav-a-flac-en-linea-con-movavi-convertidor-libre/"><u>Cambio Sin Costo De Archivos Wav a Flac en Línea Con Movavi - Convertidor Libre</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-erasing-personal-information-from-your-dell-machine/"><u>Comprehensive Tutorial: Erasing Personal Information From Your Dell Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversor-libre-en-linea-webm-a-wav-con-movavi-herramienta-sin-coste/"><u>Conversor Libre en Línea: WEBM a WAV Con Movavi - Herramienta Sin Coste</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/filtragem-de-imagens-online-livre-com-o-conversor-rw2-do-movavi-sem-custo/"><u>Filtragem De Imagens Online Livre Com O Conversor RW2 Do Movavi - Sem Custo!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-wav-files-to-mp4-movavi-video-editor/"><u>Free Online Converter: Change WAV Files to MP4 - Movavi Video Editor</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/overcoming-green-tint-in-youtubes-on-mac-a-guide-for-2024/"><u>Overcoming Green Tint in YouTubes on Mac A Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformer-un-fichier-flac-au-format-mp4-gratuitement-sur-internet-convertisseur-rapide-et-efficace/"><u>Transformer Un Fichier FLAC Au Format MP4 Gratuitement Sur Internet - Convertisseur Rapide Et Efficace</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-lexar-ssds-a-comprehensive-review-of-the-sl500-and-professional-sl600-series-for-ultra-fast-data-transfer/"><u>Unveiling the Capabilities of Lexar SSDs: A Comprehensive Review of the SL500 & Professional SL600 Series for Ultra-Fast Data Transfer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmv-vers-wma-conversion-virtuelle-and-gratuite-par-movavi/"><u>WMV Vers WMA Conversion Virtuelle & Gratuite Par Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gifpng-movavi-web/"><u>무료 구성 GIF/PNG 변환기를 찾는다! Movavi와 함께 Web용 이미지 마이크업</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flv-wav-movavi/"><u>오픈소스 FLV-WAV 이동은? 최고의 무료 바이트 조작 도구 - Movavi</u></a></li>
 </ul></div>
 

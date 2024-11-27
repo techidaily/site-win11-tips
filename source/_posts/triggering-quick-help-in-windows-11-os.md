@@ -1,7 +1,7 @@
 ---
 title: Triggering Quick Help in Windows 11 OS
-date: 2024-11-16T18:20:23.373Z
-updated: 2024-11-17T18:32:46.785Z
+date: 2024-11-21T16:33:49.652Z
+updated: 2024-11-27T16:19:04.563Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,16 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Shortcut Keys
 
  The quickest way to open Quick Assist is by using the shortcut keys**Win + Ctrl + Q** . This will launch the Quick Access tool directly on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use the Windows Search Tool
@@ -47,20 +48,10 @@ To open Quick Assist through the search tool, follow these steps:
 ![Open Quick Assist Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-search-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will open the Quick Assist tool where you can view and control another computer from your own.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use the Start Menu
 
@@ -71,6 +62,10 @@ To open Quick Assist through the search tool, follow these steps:
 3. Scroll down to**Quick Access** , and then click on it.  
 ![Open Quick Assist Using Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Pin Quick Assist to the Taskbar
 
  If you use this tool frequently,[pinning it to your Windows taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) will help you get to it quickly. Here are the steps you need to take:
@@ -79,14 +74,11 @@ To open Quick Assist through the search tool, follow these steps:
 2. On the right side menu, click**Pin to taskbar** .  
 ![Pin Quick Assist to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-quick-assist-to-taskbar.jpg)
 
-This way, you can quickly access the tool from your taskbar.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+This way, you can quickly access the tool from your taskbar.
 
 ## You Can Now Get Assistance Quickly
 
@@ -107,16 +99,18 @@ This way, you can quickly access the tool from your taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>[New] The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-engaging-audiences-perfecting-the-art-of-igtv-titles-and-summaries/"><u>[Updated] Engaging Audiences Perfecting the Art of IGTV Titles & Summaries</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-11r-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus 11R Devices | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-associating-your-win-key-with-microsoft-logins/"><u>Guide: Associating Your Win Key With Microsoft Logins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-current-windows-password-error-in-win11win11/"><u>How to Fix 'Current Windows Password' Error in Win11/Win11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725285481575-iphonedvd/"><u>IPhoneでコピープロテクトありのDVDフリーダウンロード: 危険無し解説・使い方</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pioneering-computing-solutions-insights-from-toms-tech-oasis/"><u>Pioneering Computing Solutions - Insights From Tom's Tech Oasis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamlessly-pairing-your-wireless-keyboard-instructions-included/"><u>Seamlessly Pairing Your Wireless Keyboard - Instructions Included</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-unique-screen-savers-in-win11/"><u>Setting Up Unique Screen Savers in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-initiating-administrator-level-command-prompt-in-w11/"><u>The Essential Guide to Initiating Administrator-Level Command Prompt in W11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-ultimate-tutorial-for-starting-fresh-with-x-previously-twitter/"><u>Your Ultimate Tutorial For Starting Fresh With X (Previously Twitter)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quickcopy-custodians-judgment-for-2024/"><u>[Updated] QuickCopy Custodians' Judgment for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-affordable-gaming-mice-and-keyboards-99plus-for-2024/"><u>[Updated] Top 5 Affordable Gaming Mice & Keyboards $99+ for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-uncovering-the-ultimate-screen-recorder-compare-and-choose-obsfraps/"><u>2024 Approved Uncovering the Ultimate Screen Recorder Compare and Choose (OBS/Fraps)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-damage-safe-cleaning-practices-for-your-sleek-smart-tv-screen/"><u>Avoiding Damage: Safe Cleaning Practices for Your Sleek Smart TV Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-gif-to-jpeg-image-transformation-with-movavi/"><u>Free Online Conversion - GIF to JPEG Image Transformation with Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m4vavimovavi/"><u>M4V與AVI間自由過渡：Movavi影片格式變更器</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-insight-sony-s6500-bd-reader-update/"><u>New Insight Sony S6500 BD Reader Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-audio-extractor-transform-your-mpeg-tapes-into-high-quality-m4a-file/"><u>Online Audio Extractor - Transform Your MPEG Tapes Into High-Quality M4A File</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-streaming-services-for-never-ending-tv-series-entertainment/"><u>Top 8 Streaming Services for Never-Ending TV Series Entertainment</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unmatched-6-safe-online-collaboration-software-rankings/"><u>Unmatched 6 Safe Online Collaboration Software Rankings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/varias-maneiras-de-fazer-o-olho-direito-em-pt/"><u>Várias Maneiras De Fazer O Olho Direito Em PT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726227046478-aiffmov-movavi/"><u>オープンソースのAIFFフォーマットへのシームレスMOVコンバージョン - Movavi</u></a></li>
 </ul></div>
 

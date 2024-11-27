@@ -1,7 +1,7 @@
 ---
 title: Method to Disable Auto-Launch of Spotify in Windows
-date: 2024-11-16T17:48:01.010Z
-updated: 2024-11-17T18:01:09.009Z
+date: 2024-11-23T17:49:29.216Z
+updated: 2024-11-27T17:37:04.085Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Stop Spotify From Opening Automatically by Changing Its Startup Behavior
 
  Spotify for Windows lets you customize its startup behavior directly from the in-app settings menu. You can modify the**Startup and window behavior** setting in the Spotify app to keep it from opening automatically on boot. Here are the steps you need to follow.
@@ -36,14 +40,11 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 5. Click the drop-down menu to the right of **Open Spotify automatically after you log into the computer** and select**No** . If you want Spotify to run during startup but not launch full screen, select**Minimized** instead.  
 ![Spotify Startup Behavior on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/spotify-startup-behavior-on-windows.jpg)
 
- Once you complete the above steps, Spotify should no longer open automatically when you boot up your computer.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once you complete the above steps, Spotify should no longer open automatically when you boot up your computer.
 
 ## 2\. Stop Spotify From Opening Automatically Using Windows Task Manager
 
@@ -54,21 +55,16 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 3. Locate and select**Spotify** from the list. Then, click the**Disable** button at the top.  
 ![Disable Spotify as a Startup App Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-using-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you complete the above steps, Spotify’s status should change to**Disabled** in the Task Manager app. Following that, the app will not open during startup. Later, if you want to re-enable Spotify as a startup app, you can change its status back to**Enabled** .
 
  Aside from managing startup apps, Task Manager is also useful for monitoring system resources, force-closing frozen apps, and doing other tasks. To know more, check our guide on the[best Windows Task Manager tips and tricks](https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/) .
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Stop Spotify From Opening Automatically via the Windows Settings App
@@ -84,17 +80,7 @@ To stop Spotify from opening at startup via the Settings app:
 ![Disable Spotify as a Startup App via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-via-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prevent Spotify From Launching at Startup on Windows
@@ -118,21 +104,22 @@ To stop Spotify from opening at startup via the Settings app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-your-profile-with-vimeo-on-instagram/"><u>[New] 2024 Approved Elevate Your Profile with Vimeo on Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-efficiently-transmit-via-obs-on-fb-live-for-2024/"><u>[Updated] Efficiently Transmit via OBS on FB Live for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pixel-perfect-memes-with-kinemaster/"><u>[Updated] Pixel Perfect Memes with KineMaster</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-breakdown-of-popular-elements-in-youtube-shorts/"><u>2024 Approved Breakdown of Popular Elements in YouTube Shorts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-effective-methods-for-downloading-audio-tracks-from-pinterest-videos/"><u>2024 Approved Effective Methods for Downloading Audio Tracks From Pinterest Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y77t-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-multilingualism-in-the-new-year/"><u>Embrace Multilingualism in the New Year</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-uninterrupted-fall-guys-gaming-on-windows-pc/"><u>Ensuring Uninterrupted Fall Guys Gaming on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-the-ultimate-artistic-tools-on-windows-11-platform/"><u>Explore the Ultimate Artistic Tools on Windows 11 Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gear-up-performance-the-ultimate-vram-upgrade-plan-for-windows/"><u>Gear Up Performance - The Ultimate VRAM Upgrade Plan for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-system-calls-fault-in-windows/"><u>Guide to Resolve System Calls Fault in Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-s17-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo S17</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-terminal-back-to-standard-win11/"><u>How to Turn Your Terminal Back To Standard (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-code-0x800704b3/"><u>Resolving Windows Error Code: 0X800704B3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-for-steam-disc-operational-issues/"><u>The Ultimate Fix for Steam Disc Operational Issues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-group-video-chat-apps-for-video-conferences-and-meetings/"><u>[Updated] Top Group Video Chat Apps For Video Conferences and Meetings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-bugs-and-boost-performance-proven-strategies-to-address-how4-stability-problems/"><u>Banish Bugs & Boost Performance: Proven Strategies to Address HOW4 Stability Problems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-your-avis-to-impactful-gifs-using-filmora-on-windowsmacos-for-2024/"><u>Convert Your AVIs to Impactful GIFs Using Filmora on Windows/MacOS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-personalized-screensavers-for-win11/"><u>Creating Personalized Screensavers for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-data-exchange-the-creme-de-la-liste-of-windows-tools/"><u>Cutting-Edge Data Exchange: The Crème De La Liste of Windows Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-for-efficiently-employing-system-restore-in-windows-operations/"><u>Expert Advice for Efficiently Employing System Restore in Windows Operations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/from-chaos-to-clarity-combining-obs-with-zoom/"><u>From Chaos to Clarity Combining OBS with Zoom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disguise-or-reveal-the-clock-widget/"><u>How to Disguise or Reveal the Clock Widget</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tapping-into-digital-humors-potential/"><u>In 2024, Tapping Into Digital Humor's Potential</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-video-editing-for-mac-avs-editor-solution/"><u>In 2024, Video Editing for Mac AVS Editor Solution</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-your-youtube-settings-stop-auto-play-videos-for-2024/"><u>Master Your YouTube Settings - Stop Auto-Play Videos for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unbeatable-deal-in-laptops-discover-how-acer-aspire-e-15-delivers-top-performance-without-breaking-the-bank/"><u>The Unbeatable Deal in Laptops: Discover How Acer Aspire E 15 Delivers Top Performance Without Breaking the Bank</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-comprehensive-hardware-reviews-and-guides/"><u>Tom's Tech Hub: Comprehensive Hardware Reviews & Guides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-shared-content-at-a-glance/"><u>Unlocking Windows Shared Content at a Glance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unresponsive-windows-escape-button-heres-how-to-resolve-it/"><u>Unresponsive Windows Escape Button? Here's How to Resolve It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unseen-task-view-button-in-win-11-interface/"><u>Unseen Task View Button in Win 11 Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vital-data-processing-capacity-evaluators/"><u>Vital Data Processing Capacity Evaluators</u></a></li>
 </ul></div>
 

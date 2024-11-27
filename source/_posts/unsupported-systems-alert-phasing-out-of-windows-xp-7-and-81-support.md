@@ -1,7 +1,7 @@
 ---
 title: "Unsupported Systems Alert: Phasing Out of Windows XP, 7 & 8.1 Support"
-date: 2024-11-16T19:10:06.838Z
-updated: 2024-11-17T20:31:56.492Z
+date: 2024-11-24T16:55:03.949Z
+updated: 2024-11-27T16:51:04.320Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does "End of Support" Mean on Windows?
 
  When Microsoft ends support for a particular operating system, it no longer releases any updates for it—security patches, bug fixes, or otherwise. That means computers with these operating systems will not receive any protection from new threats, nor will they get updates to ensure that these systems run smoothly with the latest drivers.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 
  Now that Microsoft is no longer releasing updates for both of these operating systems, it's high time that their users upgrade to Windows 10 or 11\. That way, they can ensure the security and smoothness of their computers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Should You Do If Your Computer Is Still on Windows 7 or 8.1?
 
 ![Windows 10 nag screen view with a finger on top of it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/windows-10-upgrade-nag-screen-intro.jpg)
@@ -51,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 
  Or, if you can afford it, why not buy a new laptop or PC instead? Several[great budget laptops you can buy](https://www.makeuseof.com/tag/best-laptops-under-500/) run Windows 11, ensuring you can get the latest security patches and cover your most basic needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Could Happen to Your PC If You Don't Upgrade to Windows 10 or 11?
 
  If you choose to stay with Windows 7 or 8.1, you'll likely encounter several problems. Here are a few of the possible issues you might encounter:
@@ -67,10 +68,7 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 ![anonymous hooded figure on laptop hidden by question mark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/question-mark-anon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The biggest issue with the lack of security updates is that your data is more vulnerable. Without the security patches, anything saved on your computer—like your personal data, financial information, and files—can be stolen or leaked online.
@@ -93,22 +91,12 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 
  While most keyboards and mice will run no matter what Windows operating system you have, more advanced hardware, like webcams and game controllers, might not work with an older operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. You Can't Run Some of the Latest Apps and Games
 
 ![Call of duty modern warfare 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Call-of-duty-modern-warfare-2--2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Call of Duty](https://www.callofduty.com/blog/2022/10/call-of-duty-modern-warfare-II-release-live-worldwide-now)
@@ -116,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
  While many apps and games are typically made for the lowest common hardware, you generally can't run newer, more powerful software on older operating systems. For example, you can run popular games like Counter-Strike: Global Offensive and Dota 2 on Windows 7 and 8.1.
 
  But if you want to play PUBG: BATTLEGROUNDS or Call of Duty: Modern Warfare II, you must have at least a Windows 10 PC. You also need an updated operating system to run Microsoft 365, Microsoft Office 2021, and Adobe Creative Cloud apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## It's Time to Upgrade Your Windows 7 or 8.1 PC
 
@@ -138,17 +130,18 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-optimizing-your-safari-experience-enablingdisabling-dual-screen/"><u>[New] Optimizing Your Safari Experience Enabling/Disabling Dual Screen</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-tailor-made-tunes-for-chrome-companions/"><u>2024 Approved Tailor-Made Tunes for Chrome Companions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/adding-social-media-magic-snapchat-to-your-mac/"><u>Adding Social Media Magic Snapchat to Your Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-windows-layouts-with-a-macos-vibe-using-these-5-techniques/"><u>Crafting Windows Layouts with a MacOS Vibe Using These 5 Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-ai-systems-their-uniqueness/"><u>Decoding AI Systems: Their Uniqueness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-system-call-issues-on-windows-11-and-11/"><u>Fixing System Call Issues on Windows 11 & 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/identifying-if-its-an-active-xbox-service-interruption-or-just-your-internet-connection-failing-you/"><u>Identifying If It's an Active Xbox Service Interruption or Just Your Internet Connection Failing You</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-20-no-rights-pubg-visual-arrays/"><u>In 2024, Innovative 20 No-Rights PUBG Visual Arrays</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/increasing-yuzu-response-time-on-windows/"><u>Increasing Yuzu Response Time on Windows</u></a></li>
-<li><a href="https://os-tips.techidaily.com/inside-scoop-on-apples-new-lineup-the-exclusive-look-at-iphone-16-series-launch-rumors-and-specs/"><u>Inside Scoop on Apple's New Lineup: The Exclusive Look at iPhone 16 Series Launch Rumors and Specs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/techniques-for-efficient-zoom-meeting-recordings/"><u>Techniques for Efficient Zoom Meeting Recordings</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-complete-rundown-on-dji-inspire-2/"><u>The Complete Rundown on DJI Inspire 2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-online-destinations-for-video-promotion/"><u>[New] Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-8-software-linux-friendly-editing-tools/"><u>[New] In 2024, Top 8 Software Linux-Friendly Editing Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-boundless-gallery-of-forgotten-artists/"><u>[New] The Boundless Gallery of Forgotten Artists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmvogvmovavi/"><u>免費在線WMV和OGV間的格式轉換：一探Movavi技術</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargue-e-importe-archivos-gratis-desde-jpg-a-png-con-convertidor-de-imagenes-online-movavi/"><u>Descargue E Importe Archivos Gratis Desde JPG a PNG Con Convertidor De Imágenes Online - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-conversion-guide-turning-mov-files-into-wmv-format-for-both-pcs-and-macs-using-moveavi/"><u>Easy Conversion Guide: Turning MOV Files Into WMV Format for Both PCs and Macs Using Moveavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-power-tussle-ps5-against-economical-computer-system/"><u>Game Power Tussle: PS5 Against Economical Computer System</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-richest-rewards-for-creators/"><u>In 2024, Richest Rewards for Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-light-and-shadow-in-hdr-portraiture/"><u>Mastering Light and Shadow in HDR Portraiture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-m4a-online/"><u>Movavi: M4A 파일을 구속없이 원활한 Online 조정 - 제공 비용</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-m4b-m/"><u>Movavi를 사용한 무료 온라인 M4B, M</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-playermp3-di-file-audio-liberi-e-ottimizzati-per-windows-and-mac/"><u>Top 12 PlayerMP3 Di File Audio Liberi E Ottimizzati Per Windows & Mac</u></a></li>
 </ul></div>
 
