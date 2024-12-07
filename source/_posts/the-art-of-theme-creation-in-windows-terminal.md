@@ -1,7 +1,7 @@
 ---
 title: The Art of Theme Creation in Windows Terminal
-date: 2024-08-28T01:12:07.236Z
-updated: 2024-08-29T01:12:07.236Z
+date: 2024-11-30T01:07:20.606Z
+updated: 2024-12-07T00:57:40.088Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,17 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 5. Under**Terminal colors** or**System colors** , you’ll see several options, such as**Black** ,**Red** ,**White** ,**Foreground** , and**Background** , with a color next to them. Click on the color to bring up the editor.  
 ![the windows terminal color schemes page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-color-scheme.jpg)
 6. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value in the text box below. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the color completely.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the color editor for a color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-edit-scheme-color.jpg)
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Create a Color Scheme in Windows Terminal?
 
@@ -51,18 +60,6 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 7. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the colors completely.
 8. When you’re done, click**Save** in the bottom right corner to save your changes.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Apply a Color Scheme in Windows Terminal
 
  After editing or creating the color scheme, you can apply it with a few clicks. Follow the steps below:
@@ -72,35 +69,33 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 3. In the**Profiles** section of the left side menu, select**Defaults** if you want to apply the scheme to all profiles or select a specific profile, such as[Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) or Command Prompt, to apply it to that particular one.  
 ![the profiles section of windows terminal settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/profiles-section-windows-terminal.jpg)
 4. In the**Additional settings** section at the bottom of the right panel, click**Appearance** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
 5. In the**Text** section, click on the**dropdown** next to**Color scheme** and select the edited or custom color scheme that you want to apply.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![changing the color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/change-color-scheme-windows-terminal.jpg)
 6. When you’re done, click**Save** in the bottom right corner to save your changes.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Customizing Color Schemes in Windows Terminal Is Easy
 
  Color schemes are highly customizable in Windows Terminal. That’s a good thing because you can make the profiles appear just how you like them. And the beauty about it is that Terminal offers a graphical way to do it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +104,18 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-conquered-everlasting-deactivation-of-youtube-shorts/"><u>[Updated] In 2024, Conquered Everlasting Deactivation of YouTube Shorts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nokia-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nokia</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/capturing-and-sharing-ps4-screenshots-the-ultimate-guide-for-2024/"><u>Capturing and Sharing PS4 Screenshots The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktop-deco-compelling-stick-on-apps-for-windows-enthusiasts/"><u>Desktop Deco: Compelling Stick-On Apps for Windows Enthusiasts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/difficulty-levels-studying-german/"><u>Difficulty Levels: Studying German</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-fixes-rejuvenate-frozen-mouse-contexts-in-windows/"><u>Easy Fixes: Rejuvenate Frozen Mouse Contexts in Windows</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/effortless-media-transformation-with-winx-free-ripper-convert-dvds-and-videos-seamlessly-on-any-device/"><u>Effortless Media Transformation with WinX Free Ripper - Convert DVDs & Videos Seamlessly on Any Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-infinite-treasure-in-dragon-game-tips-and-tricks-for-pc-users/"><u>Master the Art of 'Infinite Treasure' In Dragon Game - Tips & Tricks for PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-powershell-script-execution-policy/"><u>Mastering the Art of PowerShell Script Execution Policy</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-renders-apple-movs-flawlessly-mendable/"><u>Stellar Renders Apple MOVs Flawlessly Mendable</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-obscured-system-tray-on-win11/"><u>Unveiling the Obscured: System Tray on Win11</u></a></li>
+</ul></div>
 

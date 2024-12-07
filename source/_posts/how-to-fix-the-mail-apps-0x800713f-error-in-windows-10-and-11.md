@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Mail App’s 0X800713f Error in Windows 10 & 11
-date: 2024-11-26T17:40:30.451Z
-updated: 2024-11-27T17:54:47.090Z
+date: 2024-12-02T02:20:02.139Z
+updated: 2024-12-06T20:23:34.106Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Windows Store Apps Troubleshooter
 
  The Windows Store Apps troubleshooter doesn’t fix every app error that occurs. However, that troubleshooting tool is always worth a try whenever a UWP app like Mail throws up an error code. You can give the Windows Store Apps troubleshooter a whirl as follows:
@@ -41,14 +37,10 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 5. Go through the troubleshooter and apply all suggestions it makes.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-store-apps-troubleshooter2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The same troubleshooter is available in Windows 10, but the steps for accessing it in Settings are a little different. You’ll need to select the**Update & Security** category in Windows 10’s Settings app. Then select the**Troubleshoot** tab and**Additional troubleshooters** to view the list of troubleshooting tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change the Privacy Settings for the Mail App
@@ -60,9 +52,19 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 3. Click the**Email** navigation option.  
 ![The Email navigation option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/email-navigation-option.jpg)
 4. Turn on**Email access** if that option isn’t enabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Let apps access your email** to expand options.  
 ![The Let apps access your email option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/let-apps-access-your-email.jpg)
 6. Toggle the**Mail and Calendar** app on if it’s not already.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Also, turn on the**People** app listed there.
 
  If you find those settings are already turned on, try re-enabling them. Turn off the**Allows apps to access your email** and**Mail and Calendar** options, and click**Restart** on the Start menu. Then return to Settings to turn those settings back on after the restart.
@@ -72,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
  Windows 11 includes**Reset** and**Repair** options that can often fix buggy UWP apps showing error codes. Resetting the Mail app can eradicate corrupted data. Our guide to[resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) provides further details on how to do that. You can also select an alternative**Repair** option for Mail just above its**Reset** button.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Allow Mail and Calendar Through Windows Defender Firewall
 
@@ -87,6 +85,11 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 3. Select the two**Turn off Windows Defender Firewall** settings available for public and private networks.  
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall-options.jpg)
 4. Next, press the**OK** button below the firewall settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then bring up Mail and try adding an email account to it.
 
  If disabling the firewall resolves error 0x800713f, WDF was probably blocking Mail when it was on. We don’t recommend leaving the firewall off. Allow Mail through WDF as outlined within our guide for[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Then turn the firewall back on.
@@ -114,14 +117,10 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 4. Log in to your local user account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Open**Mail** to check if the 0x800713f error has been fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall Mail and Calendar
 
@@ -136,12 +135,17 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 6. Press the**Get in Store** app button on the Mail and Calendar page.  
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-in-store-app-button.jpg)
 7. Click Open in Microsoft Store to bring up a**Get** option for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**Get** to reinstall Mail.
 
  The steps for reinstalling Mail in Windows 10 Settings are similar. You’ll need to select the**Apps** category in Settings. Then select Mail and Calendar in Apps & features, and press its**Uninstall** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Send More Emails With the Mail App
@@ -163,18 +167,16 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-color-depth-explored-windows-hdri-for-editors/"><u>[New] 2024 Approved Color Depth Explored Windows HDRI for Editors</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-essential-tips-for-using-instagrams-sound-emojis/"><u>[New] In 2024, Essential Tips for Using Instagram's Sound Emojis</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-obscure-audio-alchemists-top-6-android-and-ios-recording-tools/"><u>[Updated] Obscure Audio Alchemists Top 6 Android & iOS Recording Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-artisans-guide-to-snapchat-filters-mastery-for-2024/"><u>[Updated] The Artisan's Guide to Snapchat Filters Mastery for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728509487759-usb/"><u>最終解決説明：USBドライブを修理した後、データはどのように消えていきますか？</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/commanding-temperature-settings-on-pc-via-bios/"><u>Commanding Temperature Settings on PC via BIOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-serene-power-with-the-best-aio-a-comprehensive-look-at-hytes-thicc-q6-similar-problem/"><u>Experience Serene Power with the Best AIO - A Comprehensive Look at Hyte's THICC Q6 # Similar Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-strategies-for-windows-blue-screen-error-code-0x8007007e/"><u>Fix Strategies for Windows Blue Screen Error Code 0X8007007E</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-windows-performance-with-fixes-to-slow-down-asana/"><u>Improving Windows Performance with Fixes to Slow Down Asana</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-finding-the-facebook-in-niche-driven-instagram-realms/"><u>In 2024, Finding the Face(book) in Niche-Driven Instagram Realms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-ai-powered-windows-assistance-via-vivetool/"><u>Launching AI-Powered Windows Assistance via ViveTool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reconnect-intermittent-ps4-controller-on-windows-system/"><u>Steps to Reconnect Intermittent PS4 Controller on Windows System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/time-traveling-technologies-activating-windows-11-with-a-windows-7-key/"><u>Time-Traveling Technologies: Activating Windows 11 with a Windows 7 Key</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-secret-sauce-for-clearer-more-informative-youtube-videos/"><u>[New] The Secret Sauce for Clearer, More Informative YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship/"><u>2024 Approved From Content Creator to Brand Ambassador Unlocking Instagram Sponsorship</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-art-of-initiating-your-youtube-content-compellingly/"><u>2024 Approved The Art of Initiating Your YouTube Content Compellingly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mic-failures-tips-and-tricks-for-windows-11-users/"><u>Fixing Mic Failures: Tips and Tricks for Windows 11 Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-13-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 13 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-shooting-guide-to-immersive-video-top-9-techniques/"><u>In 2024, The Ultimate Shooting Guide to Immersive Video (Top 9 Techniques)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-resolving-windows-photography-problems/"><u>Master the Art of Resolving Windows Photography Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-file-challenges-workarounds-for-rename-restrictions-in-win-11/"><u>Navigating File Challenges: Workarounds for Rename Restrictions in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-java-fixing-the-setup-failure-issue/"><u>Reinstating Java: Fixing the Setup Failure Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-ppt-files-6-accelerated-fixes-in-windows-11/"><u>Secure Your PPT Files: 6 Accelerated Fixes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-recovery-from-onedrive-operational-fails-in-windows-os/"><u>Swift Recovery From OneDrive Operational Fails in Windows OS</u></a></li>
 </ul></div>
 

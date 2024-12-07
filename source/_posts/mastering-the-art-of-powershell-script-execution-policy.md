@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of PowerShell Script Execution Policy
-date: 2024-11-21T18:08:30.533Z
-updated: 2024-11-27T16:58:16.053Z
+date: 2024-12-03T00:39:26.250Z
+updated: 2024-12-06T16:38:47.179Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
 ![Powershell set execution policy undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-undefined.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can use a PowerShell cmdlet to get your current execution policy. Knowing your current execution policy is necessary to know if you need a policy change or not.
 
 To get your current execution policy for the current user:
@@ -41,6 +45,10 @@ To get your current execution policy for the current user:
 `get-executionpolicy -list`
 
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
@@ -55,16 +63,12 @@ To change execution policy using Settings:
 4. Click to expand the**PowerShell** section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
 
@@ -73,7 +77,7 @@ To change execution policy using Settings:
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
@@ -90,10 +94,6 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
@@ -108,6 +108,10 @@ To disable script execution using PowerShell:
 3. The above command will set the execution policy default (undefined) for all the users. If you want to disable script execution for a specific scope, use the following command:  
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
 
@@ -124,10 +128,6 @@ To disable script execution using PowerShell:
 | Restricted       | Doesn’t allow script execution, but only individual PowerShell commands.                                       |
 | Undefined        | Sets execution policy to Restricted for Windows clients and RemoteSigned for Windows Server.                   |
 | Unrestricted     | Allow unsigned script execution with a warning for the scripts downloaded from the internet.                   |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Execution Policy Scope
 
@@ -164,18 +164,22 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-list-of-excellence-8k-cameras-reviewed/"><u>[New] 2024 Approved A-List of Excellence 8K Cameras Reviewed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-links-for-acquiring-youtube-preview-templates-online-for-2024/"><u>[New] Essential Links for Acquiring YouTube Preview Templates Online for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-effortless-capture-winmac-tools-to-record-desktop-screens/"><u>[New] In 2024, Effortless Capture Win/Mac Tools to Record Desktop Screens</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/expedite-excitement-fast-video-on-android/"><u>Expedite Excitement Fast Video on Android</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/experto-guia-de-asistencia-online-para-la-utilidad-de-extraccion-y-conversion-de-archivos-de-video-winx/"><u>Experto Guía De Asistencia Online Para La Utilidad De Extracción Y Conversión De Archivos De Video, WinX</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installing-and-operating-chatgpt-in-windows/"><u>Installing and Operating ChatGPT in Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/melodic-matchmaking-music-that-resonates-with-scenes/"><u>Melodic Matchmaking Music That Resonates with Scenes</u></a></li>
-<li><a href="https://games-able.techidaily.com/restricting-backdoor-features-of-game-bar-in-win-11/"><u>Restricting Backdoor Features of Game Bar in Win 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/simplified-techniques-for-converting-vimeo-media-for-2024/"><u>Simplified Techniques for Converting Vimeo Media for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-frequent-blue-screens-in-windows-os/"><u>Tackling Frequent Blue Screens in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-prevent-data-loss-from-faulty-usb-drivers/"><u>Techniques to Prevent Data Loss From Faulty USB Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-8-techniques-for-windows-not-found-woes/"><u>Top 8 Techniques for Windows' Not Found Woes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/transforming-engagement-on-instagram-top-10-compelling-igtv-content-concepts-for-brands/"><u>Transforming Engagement on Instagram Top 10 Compelling IGTV Content Concepts for Brands</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-navigating-tiktok-web-efficiently-as-a-mac-user-for-2024/"><u>[New] Navigating TikTok Web Efficiently as a Mac User for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pinnacle-of-plot-construction-the-worlds-best-8-academies/"><u>[New] Pinnacle of Plot Construction – The World's Best 8 Academies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-groundbreaking-filmmakers-first-work-insight-and-alternate-films/"><u>[Updated] 2024 Approved Groundbreaking Filmmaker's First Work Insight & Alternate Films</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-online-services-for-youtube-images-extraction/"><u>[Updated] In 2024, FREE Online Services for YouTube Images Extraction</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-managing-a-day-job-and-your-thriving-youtube-channel/"><u>[Updated] In 2024, Managing a Day Job and Your Thriving YouTube Channel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evolving-winadmin-roles-with-innovative-uac-strategies/"><u>Evolving WinAdmin Roles with Innovative UAC Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-solutions-for-stalled-task-scheduling/"><u>Immediate Solutions for Stalled Task Scheduling</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-showhide-file-explorer-folders-windows-11/"><u>Master the Art of Show/Hide File Explorer Folders (Windows 11)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-adobe-premiere-pro-secrets-6-little-known-tips-for-stunning-videos-for-2024/"><u>New Adobe Premiere Pro Secrets 6 Little-Known Tips for Stunning Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-dodge-windows-login-requests/"><u>Quick Fixes to Dodge Windows Login Requests</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-drive-operation-anomaly/"><u>Resolved Drive Operation Anomaly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-problematic-video-driving-issues/"><u>Solving Problematic Video Driving Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-task-management-with-widgets-on-win-11/"><u>Streamlining Task Management with Widgets on Win 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-essential-beginning-lineups-for-panzoids/"><u>The Essential Beginning Lineups for Panzoids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triple-column-widget-setup-in-windows-11-guide/"><u>Triple Column Widget Setup in Windows 11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-obscured-system-tray-on-win11/"><u>Unveiling the Obscured: System Tray on Win11</u></a></li>
 </ul></div>
 

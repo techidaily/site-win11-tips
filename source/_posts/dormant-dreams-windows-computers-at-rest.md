@@ -1,7 +1,7 @@
 ---
 title: "Dormant Dreams: Windows Computers at Rest"
-date: 2024-11-24T16:52:30.907Z
-updated: 2024-11-27T17:20:40.110Z
+date: 2024-12-02T02:12:23.400Z
+updated: 2024-12-06T19:09:48.602Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Putting a Windows PC to Sleep via the Start Menu
 
  The most well-known method to put a Windows computer to sleep is through the Start menu. Here are the steps for the same.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 2. Click the**Power icon** in the bottom right corner.
 3. Select**Sleep** from the menu that appears.  
 ![Put Windows Computer to Sleep From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-start-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Can’t find the sleep option in the Start menu? Check our guide on[how to restore a missing Sleep option on Windows](https://www.makeuseof.com/windows-10-fix-mising-sleep-option/) .
 
@@ -49,11 +49,11 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 ![Put Windows Computer to Sleep From Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-power-user-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using the Sleep Key on Your Keyboard
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
  Many Windows laptops and computers come with a dedicated sleep key that allows you to enter sleep mode quickly. The exact location of this key can vary depending on the make and model of your computer.
 
  The sleep key is usually labeled with a**crescent moon** or a**Zz** icon. You can press that key while holding the**Function** or**Fn** key to put Windows into sleep mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Converting the Power Button Into a Sleep Button
 
@@ -83,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 1. Press**Ctrl + Alt + Delete** on your keyboard to open the options screen.
 2. Click the**Power icon** in the bottom right corner and select**Sleep** from the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Use the Alt + F4 Keyboard Shortcut
 
  The Shut Down Windows dialog makes it simple to shut down or restart your Windows computer. But did you know you could also use it to put your computer to sleep? We’ll show you how.
@@ -91,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 2. Press**Alt + F4** on your keyboard to open the Shut Down Windows dialog.
 3. Use the drop-down menu to select**Sleep** and hit**OK** .  
 ![Put Windows Computer to Sleep Using Shut Down Windows Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-shut-down-windows-dialog.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Use the Command Prompt or PowerShell
 
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
 ![Put Windows Computer to Sleep Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As soon as you run the above command, your PC will enter sleep mode.
 
 ## 8\. Set Up Automatic Sleep Mode on Windows
@@ -128,7 +128,7 @@ As soon as you run the above command, your PC will enter sleep mode.
 ![Power and Battery Settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-and-battery-settings-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Create a Desktop Shortcut to Put Windows to Sleep
@@ -168,19 +168,24 @@ As soon as you run the above command, your PC will enter sleep mode.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-a-beginners-guide-to-sony-vegas-and-youtube-cutting/"><u>[New] 2024 Approved A Beginner's Guide to Sony Vegas and YouTube Cutting</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/activating-additional-security-layers-in-twitch-with-two-step-verification/"><u>Activating Additional Security Layers in Twitch with Two-Step Verification</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-chatgpt-save-your-life-in-the-wilderness/"><u>Can ChatGPT Save Your Life in the Wilderness?</u></a></li>
-<li><a href="https://windows11.techidaily.com/cut-through-the-frustration-swift-solutions-for-ms-teams-error-80080300-in-win11/"><u>Cut Through the Frustration: Swift Solutions for MS Teams Error 80080300 in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-10-pricing-a-comprehensive-guide-to-keys/"><u>Decoding Windows 10 Pricing: A Comprehensive Guide to Keys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-to-blending-the-search-bar-from-taskbar/"><u>Expert Guide to Blending the Search Bar From Taskbar</u></a></li>
-<li><a href="https://android-frp.techidaily.com/lava-yuva-3-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lava Yuva 3 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-non-syncing-a-stepwise-solution-on-windows/"><u>Navigate Through Non-Syncing: A Stepwise Solution on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-vpn-connectivity-after-failures/"><u>Restoring VPN Connectivity After Failures</u></a></li>
-<li><a href="https://fox-links.techidaily.com/step-by-step-guide-to-dimming-audio-with-logic-pro/"><u>Step-by-Step Guide to Dimming Audio with Logic Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-non-displayed-windows-11-sign-ins/"><u>Tackling Non-Displayed Windows 11 Sign-Ins</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-cooling-colorful-ai-thermal-paste-by-cooler-master-powered-by-diamond-nanotechnology-for-ultimate-heat-dissipation/"><u>The Future of Cooling: Colorful AI Thermal Paste by Cooler Master, Powered by Diamond Nanotechnology for Ultimate Heat Dissipation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211219580-9781837991785-the-little-book-of-breathwork/"><u>The Little Book of Breathwork | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-addressing-pause-windows-error/"><u>Understanding & Addressing Pause Windows Error</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-video-shorts-to-generate-income-online/"><u>[New] Leveraging Video Shorts to Generate Income Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-significance-of-proper-slug-line-usage/"><u>[New] The Significance of Proper Slug Line Usage</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/easily-remove-tiktok-watermarks-best-online-solutions/"><u>Easily Remove TikTok Watermarks Best Online Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-steps-to-refresh-your-intel-graphic-cards-software/"><u>Effortless Steps to Refresh Your Intel Graphic Card's Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enablingdisabling-in-hand-input-on-windows-pcs/"><u>Enabling/Disabling In-Hand Input on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-connectivity-dells-network-driver-downloads-for-windows-7/"><u>Ensure Smooth Connectivity: Dell's Network Driver Downloads for Windows 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-android-syncs-from-a-windows-pc-haven/"><u>Essential Android Syncs From a Windows PC Haven</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/expert-strategies-resolving-invalid-value-in-registry-errors-efficiently/"><u>Expert Strategies: Resolving 'Invalid Value in Registry' Errors Efficiently</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-12-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 12 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporate-a-mac-flair-into-windows-ui-using-these-5-tips/"><u>Incorporate a Mac Flair Into Windows UI Using These 5 Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g14frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G14FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-guide-transforming-heic-photos-into-jpeg-format-on-windows-11-effortlessly/"><u>Optimal Guide: Transforming HEIC Photos Into JPEG Format on Windows 11 Effortlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-htc-u23-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on HTC U23 and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-yourself-key-gpt-frauds-exposed/"><u>Protect Yourself: Key GPT Frauds Exposed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-windows-pcs-battlenet-accessibility-issues/"><u>Quick Fixes for Windows PC's Battle.net Accessibility Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-random-openings-of-the-microsoft-shop/"><u>Solutions for Random Openings of the Microsoft Shop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-solve-windows-11-corrupted-file-error-code-0x80070570/"><u>Steps to Solve Windows 11 Corrupted File (Error Code 0X80070570)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-adding-interactive-elements-in-win-11/"><u>The Ultimate Guide to Adding Interactive Elements in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategy-customizing-amd-settings-for-games/"><u>Winning Strategy: Customizing AMD Settings for Games</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unraveling and Addressing Error Code C0000005 in Windows
-date: 2024-11-25T18:10:34.977Z
-updated: 2024-11-27T16:40:10.289Z
+date: 2024-11-30T23:30:19.370Z
+updated: 2024-12-06T18:57:34.958Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Deactivate Data Execution Prevention (DEP)
@@ -46,7 +46,7 @@ bcdedit.exe /set {current} nx AlwaysOff
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
@@ -54,7 +54,7 @@ bcdedit.exe /set {current} nx AlwaysOff
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
@@ -81,7 +81,7 @@ Similarly, to check the app's version, follow the steps below:
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
@@ -98,7 +98,7 @@ Let's go over all of them one by one.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000005 on a Windows PC
@@ -122,16 +122,21 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-excellent-free-webcam-video-snapper-app-for-2024/"><u>[New] Excellent Free Webcam Video Snapper App for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-melodies-of-matrimony-romantic-hits-for-the-big-moment/"><u>[Updated] 2024 Approved Melodies of Matrimony Romantic Hits for the Big Moment</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-forgotten-regedit-on-your-pc/"><u>How To Reactivate Forgotten Regedit on Your PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a05-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A05 Unlock Without Password</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-clear-vision-on-recordcast-usability/"><u>In 2024, Clear Vision on RecordCast Usability</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-recording-facebook-video-calls-4-methods/"><u>In 2024, Recording Facebook Video Calls [4 Methods]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-printer-service-revival/"><u>Mastering Windows Printer Service Revival</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-seamless-way-to-change-your-windows-11-identity/"><u>The Seamless Way to Change Your Windows 11 Identity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-correcting-domain-services-print-problems-in-windows-11/"><u>Tips for Correcting Domain Services Print Problems in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiled-wonders-talk-to-chatgpt/"><u>Unveiled Wonders: Talk to ChatGPT</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-interactive-features/"><u>[New] 2024 Approved Interactive Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-deep-dive-into-moto-z2s-smarter-side/"><u>[Updated] In 2024, A Deep Dive Into Moto Z2's Smarter Side</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-avi-videos-to-mpeg-for-free-using-your-mac/"><u>Convert AVI Videos to MPEG for Free Using Your Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-user-non-interference-with-windows-safescreen/"><u>Ensuring User Non-Interference with Windows SafeScreen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lock-it-down-four-fast-fixes-to-forbid-users-on-windows-11/"><u>Lock It Down: Four Fast Fixes to Forbid Users on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/no-cost-c-span-archives-your-comprehensive-download-guide-for-2024/"><u>No Cost C-Span Archives Your Comprehensive Download Guide for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/photo-file-access-issue-post-recovery/"><u>Photo File Access Issue Post-Recovery</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-tackling-ms-store-crashes-on-windows-os/"><u>Quick Guide: Tackling MS Store Crashes on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-operational-status-of-link-app-alerts-on-pc/"><u>Reinstating Operational Status of Link App Alerts on PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamline-your-videos-acoustic-appeal-on-youtube/"><u>Streamline Your Video's Acoustic Appeal on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-app-display-with-in-built-windows-11-tuning/"><u>Streamlining App Display With In-Built Windows 11 Tuning</u></a></li>
+<li><a href="https://win-help.techidaily.com/tutochef-comment-recouvrer-vos-images-jpeg-sans-cout/"><u>Tutochef: Comment Recouvrer Vos Images JPEG Sans Coût</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-steam-file-sync-obstructions-in-windows-os/"><u>Unblocking Steam File Sync Obstructions in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-win11-crashes-efficiently/"><u>Understanding & Resolving WIN11 Crashes Efficiently</u></a></li>
 </ul></div>
 

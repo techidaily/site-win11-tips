@@ -1,7 +1,7 @@
 ---
 title: "Navigating SoftWare Removal: Windows 11 Edition (143 Chars)"
-date: 2024-08-28T01:11:04.555Z
-updated: 2024-08-29T01:11:04.555Z
+date: 2024-12-04T01:32:42.945Z
+updated: 2024-12-07T01:57:16.343Z
 tags:
   - windows10
   - windows11
@@ -44,11 +44,17 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 3. Select **Apps and features** to view a list of installed software.  
 ![The Apps & features tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/apps--features-in-settings.png)
 4. Click a three-dot button on the right side of an app to select **Uninstall**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![uninstall-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-option.png)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Uninstall Software via the Start Menu
 
  The Start menu lists most of the desktop and UWP apps installed on your desktop or laptop. That menu provides handy context menu shortcuts for uninstalling software. These are the steps for removing software via the Start menu.
@@ -70,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 4. Double-click the uninstall.exe to open an uninstall window.
 5. Select the required options in the uninstaller window to remove the software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Remove Software With the Command Prompt
 
  The Command Prompt is one of two command-line interpreters in Windows 11\. That has a Windows Management Instrumentation Command-line utility (WMIC) you can uninstall software with. If you prefer command-line methods, you can uninstall software with Command Prompt’s WMIC tool as follows.
@@ -83,19 +93,22 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 6. Note down the name of the software you want to uninstall from the list. You’ll need to include that name within the uninstall command.  
 ![The product get name command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/product-get-name-command.png)
 7. Then input this command:  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 `product where name="program name" call uninstall`
 8. Press **Enter** to run the command.  
 ![The uninstall software Command Prompt command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-software-command.png)
 9. Then press the **Y** key and press **Return** to confirm.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 10. You’ll need to replace the program name in the command specified above with the software title you noted down. For example, this is the command for uninstalling Epic Games Launcher:
 
 `product where name="Epic Games Launcher" call uninstall`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Remove Software With PowerShell
 
@@ -109,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 5. Find the app you want to uninstall in the list, and note down the PackageFullName specified for it. You can copy the PackageFullName by selecting its text and pressing the **Ctrl + C** hotkey.  
 ![The Get-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/get-appxpackage-command.png)
 6. Then input this uninstall app command and press **Return**:  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 `Remove-AppxPackage [App Name]`
 
 ![The Remove-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/remove-apppackage.png)
@@ -120,11 +130,19 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 `Remove-AppxPackage Microsoft.MicrosoftEdge_44.19041.1266.0_neutral__8wekyb3d8bbwe`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Remove Software With Third-Party Uninstallers
 
  There are numerous third-party uninstaller tools for Windows 11/10 with which you can uninstall both desktop software and UWP apps. Many of them include options for erasing the leftover residual files and registry keys from uninstalled software. Thus, the best third-party uninstaller utilities uninstall software more thoroughly than Programs and Features, which makes them preferable alternatives.
 
  Some third-party uninstallers even enable users to batch uninstall software packages, which is a handy feature. IObit Uninstaller is a freeware uninstaller tool that incorporates such a feature. This guide to [batch uninstalling software with IObit Uninstaller](https://www.makeuseof.com/windows-10-iobit-uninstaller-batch-uninstall/) provides details about how you can utilize that feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Uninstall Software via the Search Tool
 
@@ -136,9 +154,6 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ![The Uninstall option in Windows 11's search tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-uninstall-option-in-the-search-tool.jpg)
 4. If the software you want to install isn’t the best match, right-click its search result and select **Uninstall**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Uninstall Software With Gaming Clients
 
  Many users install games with gaming clients, such as Steam and Epic Games Launcher. If you’ve installed a game with a gaming client, you can also uninstall it with the same software. You can do so by selecting the uninstall option for a game within the client software. This [how-to-uninstall Steam games article](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) tells you how to remove games within Steam.
@@ -157,16 +172,10 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 5. Select the text in the **Value data** box and press **Ctrl** \+ **C** to copy.  
 ![The value data for an UninstallString](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-uninstallstring-string.jpg)
 6. Click **OK** on the **Edit String** window and close the Registry Editor.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Next, you’ll need to start the Run dialog, which has a convenient **Windows** logo + **R** hotkey.
 8. Click in Run’s **Open** box and press **Ctrl** \+ **V** to paste in the copied value for the **UninstallString**.  
 ![The Run dialog that includes an UninstallString value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-run-dialog.jpg)
 9. Press **OK** to bring up an uninstall window for the software.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 10. Select to uninstall the software from there.
 
  Some programs will have keys with alphanumeric codes that don’t match their titles in any way. So, you may need to identify program keys differently. To do so, select a key with an alphanumeric code and look at the value for its **DisplayName** string. The **DisplayName** strings show you the names of the keys’ software packages.
@@ -174,8 +183,9 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ![The value data for a DisplayName string](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-displayname-string-value.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Uninstall Software via the Context Menu
 
  Uninstalling software via the right-click context menu is a convenient way to remove programs. The only thing is File Explorer doesn’t include a context menu option for uninstalling software. However, you can add a context menu option for uninstalling programs with software like Windows Uninstaller and IObit Uninstaller. Check out this [guide to adding uninstall shortcuts to the context menu](https://www.makeuseof.com/how-to-add-uninstall-shortcut-context-menu-windows-11-10/) for further details.
@@ -185,19 +195,14 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ![The Uninstall desktop context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-context-menu-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
+
 ## Uninstall Software You Don’t Need
 
  Don’t let unneeded software waste drive storage space on your PC. You can free up many gigabytes of drive space by removing desktop software and UWP apps with any of the methods above. How you uninstall programs is entirely up to you. Choose whatever method for uninstalling software you prefer.
 
  There are various ways you can uninstall software in Windows 11\. Most users will probably be familiar with Windows’ built-in "Programs and Features" uninstaller. However, utilizing that uninstaller is not necessarily the best way to remove software; and sometimes you might have to try different methods. These are seven ways you can remove software packages in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -205,3 +210,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-influencer-tip-crafting-irresistible-templated-content-in-youtube-descriptions/"><u>[Updated] 2024 Approved Influencer Tip Crafting Irresistible Templated Content in YouTube Descriptions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-revenue-realization-strategies-for-successful-monetization-on-youtube-mobile/"><u>2024 Approved Revenue Realization Strategies for Successful Monetization on YouTube Mobile</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-steps-for-hardware-and-software-restart-on-every-iphone-model/"><u>Comprehensive Steps for Hardware & Software Restart on Every iPhone Model</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-modifying-cell-currency-format-in-microsoft-excel/"><u>Easy Steps: Modifying Cell Currency Format in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-proper-installation-of-windows-11/"><u>Ensuring Proper Installation of Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-the-variances-in-exe-and-standard-msis-designs/"><u>Explaining the Variances in EXE and Standard MSIs' Designs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-upgradable-laptop-memories-return-exclusive-early-release-on-thinkpads-showcases-new-ram-technology-zdnet-insights/"><u>Latest Upgradable Laptop Memories Return: Exclusive Early Release on ThinkPads Showcases New RAM Technology | ZDNet Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-m6-pro-4g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco M6 Pro 4G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-disabled-grammarly-functionality-in-windows-10/"><u>Tackling Disabled Grammarly Functionality in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-errors-during-win10win11-remote-access-attempts/"><u>Tackling Errors During Win10/Win11 Remote Access Attempts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-blinking-screens-in-win1011/"><u>Troubleshooting Blinking Screens in WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-a-guide-to-5-effective-window-folder-habits/"><u>Unleash Potential: A Guide to 5 Effective Window Folder Habits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-the-secrets-to-sharing-videos-on-instagram/"><u>Unlocking the Secrets to Sharing Videos on Instagram</u></a></li>
+</ul></div>
+

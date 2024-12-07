@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Readiness: Enabling TPM, Secure Boot Pre-Upgrade"
-date: 2024-11-20T18:21:43.034Z
-updated: 2024-11-27T16:31:27.866Z
+date: 2024-11-29T22:30:13.451Z
+updated: 2024-12-06T20:00:03.447Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
  First up is your physical hardware. If you're not using an AMD Ryzen 3000 series or Intel 7th Gen CPU or better, neither a clean Windows 11 installation nor the Windows 10 upgrade path will work. Second, if your computer doesn't support Secure Boot and TPM, you'll also fall at the initial hurdle. However, all is not lost because you can switch on Secure Boot and TPM from your BIOS/UEFI menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Secure Boot and TPM?
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
  However, if not, you'll have to opt for a [Windows 11 clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) or to [bypass Windows 11's minimum requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/). A clean installation of Windows 11 will work on most hardware, but it does come with caveats. Notably, Microsoft has repeatedly stated that it will not provide updates to Windows 11 installations on "unsupported" hardware, so you install at your own risk.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable TPM and Secure Boot
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 2. When your computer restarts, you'll see a big blue screen with several options. Select **Troubleshoot > Advanced Options > UEFI Firmware Settings > Restart**.
 
  You should be in your BIOS/UEFI settings menu when the computer restarts again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Enable TPM in Your BIOS/UEFI
 
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
  Press **Windows key + R** to open the Run dialog, then input **tpm.msc** and press Enter. The TPM management console will load, indicating if TPM is enabled—and if so, which version you're using.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Enable Secure Boot
 
  While you're deep in your system settings, take a moment to check if Secure Boot is enabled.
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 ![msi motherboard enable secure boot settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/msi-motherboard-enable-secure-boot-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that Secure Boot requires your drives to use GUID Partition Table (GPT) rather than the older master boot record (MBR). As the newer partition table, GPT comes with several enhancements over MBR. If Secure Boot doesn't enable, you may need to [convert your MBR drive to GPT](http://www.makeuseof.com/tag/convert-mbr-gpt-windows/).
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
  Alternatively, your computer or hardware may be too old to enable Secure Boot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Microsoft's PC Health Check App to Check If Your Hardware Is Compatible
@@ -123,25 +123,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
  So there you have it. You've enabled two of the most important settings that will block your Windows 11 upgrade path. Once enabled, and presuming you're running compatible hardware, Microsoft will offer you the Windows 11 upgrade. To check if your Windows 11 upgrade is ready, head to **Settings > Update & Security > Windows Update**, where you'll find the big update button.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-discover-the-perfect-tunefab-recorder-for-your-needs/"><u>[New] Discover the Perfect Tunefab Recorder for Your Needs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-instantaneous-screen-logging-chromebooks/"><u>[New] Instantaneous Screen Logging (Chromebooks)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-hd-experience-1-blu-ray-players-list/"><u>[Updated] In 2024, Ultimate HD Experience #1 Blu-Ray Players List</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discounted-deal-alienwares-aw3225qf-gaming-monitor-with-qd-oled-4k-technology-and-240-hz-refresh-rate-grab-100-off/"><u>Discounted Deal: Alienware's AW3225QF Gaming Monitor with QD-OLED 4K Technology & 240 Hz Refresh Rate - Grab $100 Off</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-device-not-reachable-in-windows-with-step-by-step-approach/"><u>Fixing Device Not Reachable in Windows with Step-by-Step Approach</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-can-you-retrieve-accidentally-deleted-documents-from-the-recycle-bin/"><u>How Can You Retrieve Accidentally Deleted Documents From the Recycle Bin?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-virtualbox-efail-0x80004005-error-on-windows/"><u>How to Fix VirtualBox E_FAIL (0X80004005) Error on Windows</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/music-mastery-essentials-high-quality-dj-video-samples/"><u>Music Mastery Essentials High-Quality DJ Video Samples</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/post-subsys-strategies-for-upgraded-android-integration/"><u>Post-Subsys: Strategies for Upgraded Android Integration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-1011-installer-package-issues-quickly/"><u>Resolving Windows 10/11 Installer Package Issues Quickly</u></a></li>
-<li><a href="https://games-able.techidaily.com/stellar-shaper-exploring-innovative-pc-brands/"><u>Stellar Shaper: Exploring Innovative PC Brands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-steps-to-reset-file-explorer-in-win1011/"><u>Swift Steps to Reset File Explorer in WIN10/11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-secure-your-account-with-personalized-registration-pins/"><u>The Ultimate Guide to Secure Your Account with Personalized Registration Pins</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-hardware-secrets-on-toms-digital-workshop-channel/"><u>Unveiling Hardware Secrets on Tom's Digital Workshop Channel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-outlooks-improvements-top-9-advantages-on-pc/"><u>Unveiling Outlook's Improvements: Top 9 Advantages on PC</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -149,3 +130,18 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-creative-stop-motion-cinema-top-15-selections/"><u>[New] 2024 Approved Creative Stop-Motion Cinema - Top 15 Selections</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-a-step-by-step-walkthrough-to-change-profile-pictorials/"><u>[New] A Step-by-Step Walkthrough to Change Profile Pictorials</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/custom-regional-chat-features-for-enhanced-engagement/"><u>Custom Regional Chat Features for Enhanced Engagement</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-troubleshooting-accelerating-windows-10s-slow-shutdown-process/"><u>Efficient Troubleshooting: Accelerating Windows 10'S Slow Shutdown Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-clipper-functionality-in-windows-11-a-strategic-plan-for-improvement/"><u>Enhancing Clipper Functionality in Windows 11: A Strategic Plan for Improvement</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-10t-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme 10T 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-photos-with-shortcuts/"><u>Navigating Windows Photos with Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-net-on-windows-with-ease-max-156/"><u>Streamlining .NET on Windows with Ease (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-impact-of-windows-11s-updated-support-plan/"><u>Understanding the Impact of Windows 11'S Updated Support Plan</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-drop-issue-effective-solutions-needed/"><u>Win11 Drop Issue: Effective Solutions Needed</u></a></li>
+</ul></div>
+

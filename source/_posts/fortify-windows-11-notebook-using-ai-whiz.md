@@ -1,7 +1,7 @@
 ---
 title: Fortify Windows 11 Notebook Using AI Whiz
-date: 2024-11-22T17:05:12.256Z
-updated: 2024-11-27T17:03:54.333Z
+date: 2024-12-05T18:00:57.055Z
+updated: 2024-12-07T00:51:02.848Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
  From demystifying error messages to suggesting code improvements, here are three ways Copilot can supercharge your Notepad experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Decode Log Files, Error Messages, or Code Snippets
@@ -53,21 +53,21 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
 ![The Send to chat displayed in Microsoft Copilot next to Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/the-send-to-chat-displayed-in-microsoft-copilot-next-to-windows-notepad.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve sent the text to chat, Copilot will help you understand what’s going on.
 
 ![Microsoft Copilot explaining code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-code-highlighted-in-windows-notepad.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whether you’re a seasoned programmer tackling a problematic system log or a newbie struggling with a script, Copilot can help out. It’s especially useful when working on systems without access to advanced code editors, as Notepad remains one of the best ways to view source code and output logs.
 
  To get started, ensure you have the latest version of Notepad (11.2401.25.0 or newer) installed, as Microsoft is gradually rolling out this Copilot integration. Then, highlight your confusing text and let the AI do its magic!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Write and Edit Code Faster (But Don’t Expect an IDE)
 
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
 ![Microsoft Copilot explaining a VBScript code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-a-vbscript-code-highlighted-in-windows-notepad.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After Copilot explained the code snippet, I asked if it was okay for execution. The AI assistant said it was good to go and explained how I could get it to run.
 
 ![A conversation between the author and Microsoft Copilot regarding code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/a-conversation-between-the-author-and-microsoft-copilot-regarding-code-highlighted-in-windows-notepad.jpg)
@@ -95,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
  Whether you’re a curious coding newbie or just need to make a quick fix without firing up a full IDE, give Notepad’s new AI sidekick a spin. Who knows, you might be surprised at what that unassuming app can do with a smarter Copilot riding shotgun.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Get AI-Powered Help With Any Text (Technical or Not)
 
  While code and logs are obvious use cases, Copilot’s capabilities in Notepad extend far beyond just technical content. Notepad’s lightweight simplicity makes it ideal for quickly jotting down meeting notes, drafting outlines, or capturing thoughts as they occur.
@@ -108,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 ![Microsoft Copilot explaining and summarizing a section of a research work highlighted in Windows Notepad.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-and-summarizing-a-section-of-a-research-work-highlighted-in-windows-notepad.jpg)
 
  Between its unmatched speed for opening and lightweight footprint, Notepad has always been ideal for quickly getting words onto the screen. With Copilot’s AI smarts, it becomes an all-purpose text utility that can decode nearly any subject.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Copilot Enhances Notepad’s Simplicity With AI Power
 
@@ -123,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
  It’s a refreshing blend of nostalgia and innovation for long-time Windows users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Criticisms of the Copilot and Windows Notepad integration
 
  While the Copilot integration is a clever way to augment Notepad’s capabilities, the change hasn’t been universally celebrated. Some users argue that adding an AI assistant constitutes [unnecessary bloatware](https://www.makeuseof.com/what-is-bloatware/) for an app prized for its minimalism.
@@ -135,25 +135,6 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
  However, if you’re seeking to decode complex logs, code, or text without leaving Notepad’s familiar confines, this AI-powered addition could be a game-changing time saver, providing a best-of-both-worlds blend of AI superpower and classic simplicity. Give it a try and see how it can streamline your Notepad workflow.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-groove-gatherers-try-our-cost-free-beats-scanners-for-2024/"><u>[Updated] Groove Gatherers Try Our Cost-Free Beats Scanners for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-an-experts-guide-to-accumulating-mass-tiktok-videos-effortlessly/"><u>[Updated] In 2024, An Expert's Guide to Accumulating Mass TikTok Videos Effortlessly</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/best-xbox-one-storage-expansions-enhance-your-consoles-game-capacity/"><u>Best Xbox One Storage Expansions: Enhance Your Console's Game Capacity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-prompt-mastery-locating-and-rectifying-windows-error-codes-with-precision/"><u>Command Prompt Mastery: Locating & Rectifying Windows Error Codes with Precision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-pcs-audio-anomaly-windows-error-xc00d36b4/"><u>Conquering PC's Audio Anomaly: Windows Error XC00D36B4</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-distinctive-aspects-in-ai-pcs/"><u>Demystifying Distinctive Aspects in AI PCs</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/eco-filmmaking-simplified-youtubes-green-screen-wonders-for-2024/"><u>Eco-Filmmaking Simplified YouTube's Green Screen Wonders for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-fixes-for-not-launching-csgo-in-w11/"><u>Efficient Fixes for Not Launching CS:GO in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/multilingual-ease-with-hotkey-integration-in-modern-windows-os/"><u>Multilingual Ease with Hotkey Integration in Modern Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-media-unrecognition-in-windows-vlc/"><u>Resolving Media Unrecognition in Windows, VLC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-faulty-display-on-windows-11-with-new-driver/"><u>Revive Faulty Display on Windows 11 with New Driver</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-behind-sudden-car-sound-system-breakdowns/"><u>Solving the Mystery Behind Sudden Car Sound System Breakdowns</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/techniques-that-elevate-your-ppt-recording-experience-for-2024/"><u>Techniques that Elevate Your PPT Recording Experience for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-selective-obscuration-in-photos/"><u>The Art of Selective Obscuration in Photos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-quik-fix-a-review-of-gopros-video-editor-and-top-pc-alternatives/"><u>Updated In 2024, Quik Fix A Review of GoPros Video Editor & Top PC Alternatives</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -161,3 +142,24 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-vector-editing-without-acid-pro/"><u>[New] Mastering Vector Editing without ACID Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-stitch-ppt-tiles-into-video-mosaic/"><u>[Updated] 2024 Approved Stitch PPT Tiles Into Video Mosaic</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-spark-go-2023-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Spark Go (2023) Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/converti-file-mkv-in-formato-mp4-liberamente-online-con-movavi/"><u>Converti File MKV in Formato MP4 Liberamente Online Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-your-win-os-window-snapping-paradigm/"><u>Crafting Your Win OS Window Snapping Paradigm</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-silence-to-symphony-the-ultimate-guide-to-restoring-sound-in-valheim-for-pc-players/"><u>From Silence to Symphony: The Ultimate Guide to Restoring Sound in Valheim for PC Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-updated-widget-pickers-in-win11/"><u>How to Configure Updated Widget Pickers in Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-magic-6-lite-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor Magic 6 Lite?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-to-stop-error-a00f425d-in-windows-camera-app/"><u>Method to Stop Error A00F425D in Windows Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mysterious-menu-moves-win11s-vanishing-power-option/"><u>Mysterious Menu Moves: Win11's Vanishing Power Option</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-folders-cannot-be-opened-error-in-windows-outlook-20192022/"><u>Overcoming 'Folders Cannot Be Opened' Error in Windows Outlook 2019/2022</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-streaming-smarter-storing-top-51-exclusive-android-mobile-video-trimming-software/"><u>Seamless Streaming, Smarter Storing Top 51 Exclusive Android Mobile Video Trimming Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-system-switches-win11s-undetectable-power-feature/"><u>Silent System Switches: Win11's Undetectable Power Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-shortcut-to-achieving-unique-vocal-flair-in-pubg-for-2024/"><u>The Ultimate Shortcut to Achieving Unique Vocal Flair in PUBG for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-diagnostic-skills-using-command-prompt-for-pinpointing-and-correcting-windows-errors/"><u>Unlocking Diagnostic Skills: Using Command Prompt for Pinpointing & Correcting Windows Errors</u></a></li>
+</ul></div>
+

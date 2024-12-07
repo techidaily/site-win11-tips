@@ -1,7 +1,7 @@
 ---
 title: Techniques to Disarm Frozen App Block on Windows
-date: 2024-08-28T01:12:18.282Z
-updated: 2024-08-29T01:12:18.282Z
+date: 2024-12-01T16:52:12.252Z
+updated: 2024-12-06T16:00:57.079Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 
  If you don’t experience the error after rebooting, then it is likely a temporary glitch on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan for Malicious Programs
 
  If restarting your computer doesn’t work, the next step is to run a full antivirus scan on your system. Chances are that the application is blocked due to a virus, malware or another malicious program.
@@ -33,17 +37,15 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
  If you prefer command line tools, you can [scan and remove malicious components using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You should also use a [reputable anti-spyware program](https://www.makeuseof.com/windows-11-antivirus-apps/) to check for malicious programs that could be causing the error.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Program as an Administrator
 
  Some programs require administrator privileges to function properly. If you try to launch them without elevated access, Windows will block their execution and display the error message. In such a case, you can right-click on the app’s shortcut or the executable file and select **Run as administrator**.
 
  If it runs successfully, you can adjust the app properties to [always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/). Don't forget to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Disable the SmartScreen Filter
 
  SmartScreen is a security feature that protects your computer from unknown and potentially malicious applications. If it’s enabled, SmartScreen may block an application from running. To disable the feature, follow these steps.
@@ -55,11 +57,12 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 ![Disable the SmartScreen Filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-the-smartscreen-filter.jpg)
 5. Toggle off **Potentially unwanted app blocking** and **SmartScreen for Microsoft Store apps**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will stop the system from blocking apps, but you should be careful with any programs you download. Once you do it, close the Windows Security app and try running the application again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Modify the Group Policy Settings
 
  The group policy editor allows you to adjust security settings on Windows and control which applications are blocked. If the other steps didn’t work, you can try to modify the group policy settings and unblock the application that triggered the error. Here's how to do it:
@@ -68,15 +71,17 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 2. Type **gpedit.msc** and press Enter to open the Local Group Policy Editor.  
 ![User Account Control Run all administrators in Admin Approval Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-account-control-run-all-administrators-in-admin-approval-mode.jpg)
 3. Once you're in the Local Group Policy Editor window, navigate to the following:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Options.`
 4. From the list of settings, double-click on **User Account Control: Run all administrators in Admin Approval Mode** and set it to **Disabled**.
 5. After making the changes, click **Apply > OK** and restart your computer to apply it.
 
  Keep in mind that modifying group policy settings can leave your computer vulnerable to malicious applications. Therefore, you should only do it as a last resort and revert the change as soon as you’re done.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Tweak the Registry Editor
 
  If you're running Windows Home edition, you can tweak the Registry Editor to adjust the User Account Control settings and unblock the application. Here's what you need to do:
@@ -89,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 5. In the right pane, double-click on **EnableLUA** and set its value to **0** (zero).  
 ![Disable the EnableLUA key in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-the-enablelua-key-in-registry-editor.jpg)
 6. Click **OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
  After making the changes, close the Registry Editor and restart your computer.
 
@@ -168,15 +170,14 @@ net start cryptsvc`
  Wait for the process to finish and restart your computer. After the reboot, try running the blocked app again. It should now work without issues.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Access to Your Apps and Files on Windows
 
  Windows is known for its tight security which prevents malicious applications from launching and infecting your PC. However, sometimes even legitimate programs are blocked by the operating system and leave an error message saying “This app has been blocked for your protection.”
 
  There are several reasons why this error occurs. It includes outdated security software, the firewall interfering with the program, or the application not trusted by Windows. Read this guide to learn more about this error.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -184,3 +185,23 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-express-originality-craft-professional-logos-from-template-designs-free-for-2024/"><u>[New] Express Originality Craft Professional Logos From Template Designs (Free) for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ree-webinar-creation-and-management-on-youtube/"><u>[New] Free Webinar Creation & Management on Youtube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peeking-beyond-ustream-live-stream-options/"><u>[New] Peeking Beyond Ustream Live Stream Options</u></a></li>
+<li><a href="https://media-tips.techidaily.com/12-tv-channels-drop-from-directv-due-to-recent-carriage-controversy/"><u>12 TV Channels Drop From DirecTV Due to Recent Carriage Controversy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comparative-review-of-googles-bard-and-microsofts-bing-chat-which-outshines/"><u>A Comparative Review of Google's Bard and Microsoft’s Bing Chat: Which Outshines?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capturing-mac-screens-a-beginners-guide-for-2024/"><u>Capturing MAC Screens A Beginner’s Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/darkscreenoptioninwindowsnotepad/"><u>DarkScreenOptionInWindowsNotepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/distinguishing-rightful-window-login-from-unsuccessful-tryouts/"><u>Distinguishing Rightful Window Login From Unsuccessful Tryouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fakeware-free-zone-how-to-vet-windows-store-downloads/"><u>Fakeware Free Zone? How to Vet Windows Store Downloads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-poco-f5-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Poco F5 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-error-0x80041015-in-ms-office-suite/"><u>Mastery over Error 0X80041015 in MS Office Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodology-for-rectifying-non-loading-device-drivers-in-win11/"><u>Methodology for Rectifying Non-Loading Device Drivers in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-non-responsive-windows-voice-commands/"><u>Solving Non-Responsive Windows Voice Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-registry-troubleshooting-and-correction/"><u>Unraveling Windows Registry: Troubleshooting and Correction</u></a></li>
+</ul></div>
+

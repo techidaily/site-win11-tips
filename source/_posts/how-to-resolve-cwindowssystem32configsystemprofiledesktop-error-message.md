@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve 'C:\\Windows\\System32\\Config\\SystemProfile\\Desktop' Error Message?"
-date: 2024-11-20T16:07:39.284Z
-updated: 2024-11-27T16:38:03.202Z
+date: 2024-12-01T22:21:51.019Z
+updated: 2024-12-06T19:38:36.270Z
 tags:
   - win11
   - win10
@@ -35,9 +35,17 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -48,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
  Besides, you can use the online **[Keyboard Tester](https://keyboardtester.co/keyboard-tester)**  to rule out the hardware issue. Simply press each of the keys on your keyboard and see if the key on the screen changes color. If it does, this means that your keyboard is not the problem. Otherwise, you may need to get your keyboard repaired or replaced.
 
  After confirming that your hardware is not the problem, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
 
@@ -61,18 +73,18 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 4. Right-click your keyboard and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
@@ -90,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  After updating your keyboard driver, restart your PC for the changes to take effect.
@@ -110,15 +118,7 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this method didn’t work for you, check out the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -129,14 +129,20 @@ If this method didn’t work for you, check out the last fix.
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
-3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
-4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
+3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
+4. Follow the on-screen instructions to fix the problem.
 
 #### on Windows 11
 
@@ -144,10 +150,6 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
@@ -173,14 +175,18 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-professional-shooters-guide-to-stability/"><u>[New] In 2024, Professional Shooters' Guide to Stability</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/op-5-youtube-creators-subscription-leaders/"><u>[New] Top 5 YouTube Creators Subscription Leaders</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-lava-yuva-3-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-naming-your-podcast-right-and-50plus-creative-title-suggestions/"><u>In 2024, Mastering the Art of Naming Your Podcast Right & 50+ Creative Title Suggestions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguagem-verde-saudacoes-a-toda-hora-no-brasil/"><u>Linguagem Verde - Saudações a Toda Hora No Brasil</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-task-management-with-windows-app-notifications/"><u>Optimize Your Task Management with Windows App Notifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pare-down-files-embrace-condensed-explorer-settings/"><u>Pare Down Files: Embrace Condensed Explorer Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-keeping-your-w11-cool/"><u>Tips & Tricks for Keeping Your W11 Cool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-creativity-mastering-direct-drawing-on-windows-11/"><u>Unleashing Creativity: Mastering Direct Drawing on Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unleashing-the-power-of-pip-videos-with-sierras-os-advantages-for-2024/"><u>[Updated] Unleashing the Power of PIP Videos with Sierra's OS Advantages for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-future-in-your-hand-top-10-cutting-edge-recorder-apps/"><u>2024 Approved The Future in Your Hand Top 10 Cutting-Edge Recorder Apps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/9-essential-uses-of-chatgpt-to-boost-your-well-being/"><u>9 Essential Uses of ChatGPT to Boost Your Well-Being</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/doubling-your-space-how-to-seamlessly-upgrade-2tb-mbr-disk-to-full-capacity-3tb-gpt-drive/"><u>Doubling Your Space: How to Seamlessly Upgrade 2TB MBR Disk to Full-Capacity 3TB GPT Drive</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-zte-blade-a73-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On ZTE Blade A73 5G Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimal-movement-quick-windows-11-cessation/"><u>Minimal Movement: Quick Windows 11 Cessation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-browser-overcoming-high-cpu-use-on-google-chrome/"><u>Optimize Your Browser: Overcoming High CPU Use on Google Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/privacy-panic-after-windows-hellos-fingerprint-vulnerability/"><u>Privacy Panic: After Windows Hello's Fingerprint Vulnerability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-razer-synapse-device-recognition-in-windows-11/"><u>Troubleshooting: Razer Synapse Device Recognition in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-setting-windows-calculator-to-dark-mode/"><u>Tutorial: Setting Windows Calculator to Dark Mode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-solutions-to-correct-jscriptdll-not-detected-issues-on-your-pc/"><u>Ultimate Solutions to Correct 'jScript.dll Not Detected' Issues on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Halting Auto-Initiate of Windows File Explorer
-date: 2024-11-24T16:21:19.130Z
-updated: 2024-11-27T17:25:22.861Z
+date: 2024-12-06T01:04:35.612Z
+updated: 2024-12-06T22:01:39.885Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Windows Explorer Process
 
  Windows Explorer is a system process that manages the graphical user interface for File Explorer. If this process experiences any issues while running, it could cause File Explorer to behave erratically on your computer.
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
  We have a guide on[how to change the AutoPlay settings on Windows](https://www.makeuseof.com/windows-11-change-autoplay-settings/) , so follow that and set AutoPlay to either**Take no action** or**Ask me everytime** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Clear File Explorer History
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 2. Type**explorer options** in the box and select the first result that appears.
 3. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the System Maintenance Troubleshooter
 
@@ -90,7 +90,7 @@ To run the System Maintenance troubleshooter on Windows:
  If any threats are found, apply the recommended fixes to remove them. After that, File Explorer should not open on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Install Windows Updates
@@ -101,14 +101,10 @@ To run the System Maintenance troubleshooter on Windows:
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to[fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Troubleshoot the Issue With a Clean Boot
@@ -120,6 +116,10 @@ To run the System Maintenance troubleshooter on Windows:
 ## 9\. Create a New User Account
 
  Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on[how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prevent File Explorer From Opening Automatically on Windows
 
@@ -140,18 +140,15 @@ To run the System Maintenance troubleshooter on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-directvid-snapper-for-video-calls/"><u>[Updated] 2024 Approved DirectVid Snapper for Video Calls</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-notes-an-introduction-to-youtube-list-making/"><u>[Updated] Navigating Notes An Introduction to YouTube List Making</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/comment-sauvegarder-vos-favori-sur-google-chrome-de-la-mieuxse/"><u>Comment Sauvegarder Vos Favori Sur Google Chrome De La Mieuxse</u></a></li>
-<li><a href="https://win-forum.techidaily.com/digital-connection-leaders-delving-into-facebook-twitter-instagram-youtube/"><u>Digital Connection Leaders - Delving Into Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disentangling-the-s-mode-trap-in-windows-10-and-11/"><u>Disentangling the 'S Mode' Trap in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/group-application-termination-a-windows-efficiency-hack/"><u>Group Application Termination: A Windows Efficiency Hack</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-prevent-harmful-consequences-from-an-overlooked-battery-protection-mechanism-affecting-airtags-and-more/"><u>How to Prevent Harmful Consequences From an Overlooked Battery Protection Mechanism Affecting AirTags & More</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unlock-access-restricted-windows-files/"><u>How to Unlock Access-Restricted Windows Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ideal-picks-top-156-characters-windows-alternatives-for-nintendo/"><u>Ideal Picks: Top 156 Characters Windows Alternatives for Nintendo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/patched-problem-noise-not-working-correctly-on-firebox-browser/"><u>Patched Problem: Noise Not Working Correctly on Firebox Browser</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-boot-process-customizing-timeout-in-window-11/"><u>Streamlining Boot Process: Customizing Timeout in Window 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-non-empty-directories-warning-with-0x80070091-on-windows-11/"><u>Taming the Non-Empty Directories Warning with #0X80070091 on Windows 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-content-how-to-create-engaging-reaction-videos-with-filmora/"><u>Updated In 2024, Revolutionize Your Content How to Create Engaging Reaction Videos with Filmora</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-streamline-and-optimize-google-for-podcasters/"><u>[New] Streamline & Optimize Google for Podcasters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-your-blank-desktop-icon-recovery-tips/"><u>Cure Your Blank Desktop: Icon Recovery Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-fixing-package-could-not-be-opened-errors-on-ws11ws10/"><u>Essential Strategies for Fixing 'Package Could Not Be Opened' Errors on WS11/WS10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/first-steps-in-x-platform-top-10-tips-for-newbies-replacing-twitter-strategies/"><u>First Steps in X Platform: Top 10 Tips for Newbies Replacing Twitter Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-failure-of-powershell-detection-in-windows/"><u>Fixes for Failure of PowerShell Detection in Windows</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-achieving-consistent-sound-levels-with-davinci-resolve/"><u>In 2024, Achieving Consistent Sound Levels with DaVinci Resolve</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-battery-life-to-final-cut-a-drone-editors-journey/"><u>In 2024, From Battery Life to Final Cut A Drone Editor's Journey</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/perfecting-iphoneipad-screenshots-a-youtube-guide/"><u>Perfecting iPhone/iPad Screenshots A YouTube Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/satellite-emergency-feature-now-available-on-the-google-pixel-9-a-milestone-for-android-phones-zdnet/"><u>Satellite Emergency Feature Now Available on the Google Pixel 9, a Milestone for Android Phones - ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-efficiency-embedding-keyboard-shortcuts-into-windows-menu-bar/"><u>Upgrading Efficiency: Embedding Keyboard Shortcuts Into Windows Menu Bar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling Subtitle Issues in Prime Video for Smooth Windows 11 Watching
-date: 2024-08-28T01:13:33.337Z
-updated: 2024-08-29T01:13:33.337Z
+date: 2024-12-02T17:43:55.814Z
+updated: 2024-12-06T16:15:46.856Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,17 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 ![Subtitles off option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/subtitles-off-option.jpg)
 3. Wait for a few seconds. Then, turn on the subtitles of your preferred language.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another quick way to fix Prime Video subtitles not working is to sign out and then back into your Prime Video account. To do that, click on your account name in the bottom left corner, and choose**Sign out** from the context menu.
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, click the Sign In button and enter your credentials to log in with your account. Once in, check if you're still facing the issue.
 
@@ -48,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Repair and Reset the Prime Video App
 
  Windows comes with a Repair function that you can use to eliminate most of the issues with the UWP apps. Here's how to repair the Prime Video app.
@@ -60,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 4\. Reinstall the Prime Video App
 
  If you're still facing the issue, you are left with no option other than to reinstall the Prime Video app. To do that, first[uninstall the app from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, launch the Microsoft Store and search for and download the Prime Video for Windows.
@@ -77,25 +80,24 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Prime Video Subtitles on Windows 11
 
  Watching your favorite movies on Prime Video can be a great way to unwind after a long day. But what if you play the title only to find that subtitles aren't working? Despite how serious it may sound, troubleshooting this issue is very easy. Simply follows the above solutions to fix Prime Video subtitles not working in Windows 11.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +106,18 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-learn-quick-image-text-alteration-online-resources/"><u>[New] 2024 Approved Learn Quick Image Text Alteration Online Resources</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-link-sounds-to-visual-elements-in-ppt-for-2024/"><u>[New] Link Sounds to Visual Elements in PPT for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-through-motion-perception-systems/"><u>[Updated] Navigating Through Motion Perception Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-in-depth-review-videovision-pro-suite-the-new-frontier/"><u>2024 Approved In-Depth Review VideoVision Pro Suite - The New Frontier</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-art-of-social-media-stardom-nine-tracks-to-insta-success/"><u>2024 Approved The Art of Social Media Stardom Nine Tracks to Insta Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-mouse-trail-and-size-on-new-windows-os/"><u>Customizing Mouse Trail & Size on New Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edges-background-behavior-on-modern-windows-11/"><u>Edge's Background Behavior on Modern Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-touchpad-feel-with-simple-windows-settings-tweaks/"><u>Improve Touchpad Feel with Simple Windows Settings Tweaks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-infusing-creative-edge-in-your-youtube-trailer-production/"><u>In 2024, Infusing Creative Edge in Your YouTube Trailer Production</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/media-mosaic-maker-for-2024/"><u>Media Mosaic Maker for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-potential-in-art-new-features-for-microsoft-paint-users/"><u>Unleashing Potential in Art: New Features for Microsoft Paint Users</u></a></li>
+</ul></div>
 

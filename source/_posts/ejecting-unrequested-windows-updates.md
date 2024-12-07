@@ -1,7 +1,7 @@
 ---
 title: Ejecting Unrequested Windows Updates
-date: 2024-08-28T01:12:03.702Z
-updated: 2024-08-29T01:12:03.702Z
+date: 2024-12-04T17:39:51.004Z
+updated: 2024-12-06T16:03:47.251Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
  Microsoft regularly releases patch updates to enhance your device's performance and security. When you download this update, Windows often replaces the usual Shut Down and Restart buttons with “Update and shut down” to remind you not to miss the update.
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart the Computer From Settings
 
@@ -41,11 +45,6 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  This will search for available updates and install them if there are any. If you see no updates, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 3\. Run the Windows Update Troubleshooter
 
  Windows operating system comes with troubleshooting tools specific to each problem. To solve update-related issues, use the Windows Update troubleshooter. This tool detects corrupted, or faulty files associated with updates and fixes them automatically.
@@ -58,6 +57,10 @@ The powerful video editing program for your Windows PC</a>
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Look for **Windows Update** and click **Run** next to it.  
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow the instructions on the screen to let Windows Update Troubleshooter detect and fix problems. After running the troubleshooter, restart your computer and check if it solves the issue.
 
@@ -78,9 +81,11 @@ net stop msiserver`
 6. In the SoftwareDistribution folder, select all the files and delete them permanently.  
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 7. When a permissions pop-up appears, select the checkbox and click **Continue**.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. After you delete the Software Distribution folder, you must restart the services you stopped. To do so, go back to the Command Prompt window and run the following command:  
 `net start wuauserv  
 net start bits  
@@ -92,8 +97,9 @@ net start msiserver`
  ​​​​
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable Windows Update
 
  If you keep encountering the issue, disable the Windows Update service. This will stop Windows from automatically downloading updates and showing the message.
@@ -105,9 +111,11 @@ net start msiserver`
 3. Search for **Windows Update**, right-click on it, and select **Stop**.  
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 4. Now double-click on **Windows Update** to open the Properties window.
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. On the **General** tab, click the **Startup type** drop-down and select **Disabled**.  
 ![Disable Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-windows-update-service.jpg)
 6. Click **Apply** \> **OK** to save the changes.
@@ -119,9 +127,6 @@ net start msiserver`
 
  ​​​​​After restarting, you should no longer see the “Update and Restart” or “Update and Shut Down” message.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reset the Windows Update Components
 
  If none of the solutions above work, reset Windows Update components. It deletes all the temporary download files and resets the registry keys containing information about Windows Update. This process also clears any corrupted files associated with updates and allows Windows to download the updates again.
@@ -193,16 +198,11 @@ net start cryptsvc`
 
  The script will start resetting the Windows Update components and may take a few minutes to complete. Once done, restart your computer and this should solve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolving Incorrect Notifications for Updates and Restarts
 
  Now that you know how to fix incorrect notifications for updates and restarts, you can avoid this issue in the future. Make sure Windows Update is configured correctly and reset components. Also, keep your computer updated with the latest security patches. Doing this will also ensure smooth system operation.
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -210,3 +210,24 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-differentiate-with-style-on-snapchat-top-120plus-narratives-for-your-private-stories/"><u>[New] In 2024, Differentiate with Style on Snapchat Top 120+ Narratives for Your Private Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-direct-download-and-mp3-creation-for-streaming-video-files/"><u>[New] In 2024, Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/barely-safe-the-risky-overclock-saga/"><u>Barely Safe: The Risky Overclock Saga</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodging-pitfalls-on-windows-11-8-avoidance-strategies/"><u>Dodging Pitfalls on Windows 11: 8 Avoidance Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellence-on-the-screen-best-six-video-tools-for-big-sur/"><u>Excellence on the Screen Best Six Video Tools for Big Sur</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-idea-to-icon-making-the-list-of-top-fb-videos/"><u>From Idea to Icon Making the List of Top FB Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-video-files-not-responding-on-pcs/"><u>How to Fix Video Files Not Responding on PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-wallpaper-shifts-on-a-windows-pc/"><u>Mastering Wallpaper Shifts on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-inoperative-alerts-for-phone-link-app-in-windows/"><u>Overhauling Inoperative Alerts for Phone Link App in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-f15-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy F15 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-workflows-with-apples-new-ipad-102/"><u>Revolutionizing Workflows with Apple's New iPad 10.2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-transition-your-linux-environment-with-new-windows-11/"><u>Seamlessly Transition Your Linux Environment With New Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-call-failed-error-on-windows-systems/"><u>Steps to Resolve Call Failed Error on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-finest-free-upgrades-to-optimize-windows-cars/"><u>Unveiling the Finest Free Upgrades to Optimize Windows Cars</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-rated-free-video-editors-for-gamers/"><u>Updated In 2024, Top-Rated Free Video Editors for Gamers</u></a></li>
+</ul></div>
+

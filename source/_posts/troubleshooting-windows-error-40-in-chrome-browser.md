@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows Error 40 in Chrome Browser
-date: 2024-08-23T07:08:31.713Z
-updated: 2024-08-24T07:08:31.713Z
+date: 2024-11-29T22:20:16.189Z
+updated: 2024-12-06T19:01:36.439Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 * **Clear Cache and Cookies:** It is not unusual for Chrome's browser data to become corrupted over time. When this happens, webpages may crash in Google Chrome. To fix this, you can try [clearing the cache and cookies in Google Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/).
 * **Check the Computer for Memory Problems:** Memory issues with your Windows computer can also cause such anomalies. To check for this possibility, you can [use the Memory Diagnostic Tool on Windows to scan your PC for memory problems](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Rule Out Issues With Your Internet Connection
 
  A weak or inconsistent internet connection can prevent Google Chrome from loading pages, resulting in the “Aw Snap!” page crash error. Hence, it's important to make sure that your internet connection is working properly. A quick way to test your internet connection on Windows is to open an app that uses the internet, such as the Microsoft Store, and see if it loads fine.
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
  If there’s a problem with your internet, try out some [helpful suggestions to resolve internet issues on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) or switch to an alternate network connection.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use an Incognito Window
 
  When troubleshooting problems with any browser, such as Chrome, one effective method is to load websites in an incognito window. This can help you determine whether the issue is specific to your Chrome profile or if it is caused by a faulty third-party extension.
@@ -47,10 +52,11 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 
 ![Open Incognito Window in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-incognito-window-in-google-chrome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don’t get the “Aw Snap!” error this time, it’s likely that the issue is caused by one of your extensions or a corrupt Chrome profile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Your Extensions
 
@@ -67,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 
  Restart Chrome after this and re-enable your extensions one at a time. You will need to load a webpage after enabling each extension to identify the one causing the issue. Once you find the problematic extension, consider removing it to avoid such issues in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Hardware Acceleration
 
 [Hardware acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) is a useful feature in Chrome that allows the browser to utilize your GPU for executing graphics-intensive tasks. While this feature enhances the responsiveness of Chrome when loading animations, videos, and other graphical content, it can occasionally interfere with browser processes and result in issues. Consequently, webpages may crash in Chrome and trigger the “Aw Snap!” error message.
@@ -83,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 5. Click the **Relaunch** button to apply the changes and restart Chrome.  
 ![Disable Hardware Acceleration in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-acceleration-in-google-chrome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Create a New Chrome Profile
 
  Issues with your Chrome profile can also cause the browser to misbehave at times. This usually happens when your Chrome profile becomes corrupted. You can try creating and using a new profile in Chrome to see if that helps.
@@ -97,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After creating a new profile, try loading a few websites and see if you get any errors.
 
 ## 7\. Reset Google Chrome
@@ -114,18 +115,17 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 5. Select the **Reset settings** option to proceed.  
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check out [how to fix issues in Chrome and Firefox with a browser reset](https://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Browse With Google Chrome Again on Windows
 
  In most cases, basic solutions such as reloading the web page or clearing browsing data are sufficient for fixing the “Aw Snap!” page crash errors in Chrome for Windows. If not, you may have to work your way through the other tips mentioned above to resolve the underlying issue.
 
  If you are facing the same problem, this guide has some useful solutions that should get Google Chrome to work again on your Windows computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -133,3 +133,27 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-star-citizen-crashing-on-windows/"><u>[Fixed] Star Citizen Crashing on Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-innovative-tech-for-your-instant-sharing-needs-on-facebook/"><u>[Updated] Innovative Tech for Your Instant Sharing Needs on Facebook</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/customize-your-own-book-layout-and-background-with-flipbuilder/"><u>Customize Your Own Book Layout & Background with FlipBuilder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeating-the-invalid-captcha-obstacle-in-steam/"><u>Defeating the 'Invalid CAPTCHA' Obstacle in Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-razer-device-detection-issues-in-windows-1011/"><u>Fixing Razer Device Detection Issues in WIndows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-error-no-qt-platform-engine-available-for-startup/"><u>Handling Error: No Qt Platform Engine Available for Startup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-quickly-resolve-d3dx9enot-found-problems-expert-tips-and-tricks/"><u>How To Quickly Resolve 'D3dx9_e_not Found' Problems: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-quickly-turn-off-notifications-in-windows-11/"><u>How to Quickly Turn Off Notifications in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-se-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone SE?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-tackle-windows-11-printer-malfunctions/"><u>How to Tackle Windows 11 Printer Malfunctions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-nord-ce-3-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus Nord CE 3 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essentials-of-narrowing-virtual-room-spaces/"><u>In 2024, The Essentials of Narrowing Virtual Room Spaces</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/laptop-setup-guide-to-initiate-direct-chat-rooms-via-whatsapp-web-for-2024/"><u>Laptop Setup Guide to Initiate Direct Chat Rooms via WhatsApp Web for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-extra-wires-just-joy-link-ps3-to-your-pc/"><u>No Extra Wires, Just Joy: Link PS3 to Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-access-control-methods-for-windows-admins/"><u>Revolutionizing Access Control Methods for Windows Admins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/syncing-your-customized-powertoys-setup/"><u>Syncing Your Customized PowerToys Setup</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-flawed-windows-email-rule-configurations/"><u>Troubleshooting Flawed Windows Email Rule Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-login-woes-a-comprehensive-solution/"><u>Windows 11 Login Woes: A Comprehensive Solution</u></a></li>
+</ul></div>
+

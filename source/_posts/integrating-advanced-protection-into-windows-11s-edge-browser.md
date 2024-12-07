@@ -1,7 +1,7 @@
 ---
 title: Integrating Advanced Protection Into Windows 11'S Edge Browser
-date: 2024-11-23T16:30:07.719Z
-updated: 2024-11-27T16:17:50.893Z
+date: 2024-12-03T00:06:36.536Z
+updated: 2024-12-06T17:27:10.274Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Install Microsoft Defender Application Guard Using Windows Settings
@@ -42,16 +42,24 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 6. Next, check the box next to**Microsoft Defender Application Guard** and click**OK** .  
 ![Add Microsoft Defender Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-microsoft-defender-application-guard-for-edge.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you perform the above steps, you must need to restart your computer to finish installing the requested changes. This way you can install the feature on your computer.
 
  If you have already installed Microsoft Defender Application Guard and want to uninstall it, the process is quite easy. All you need to do is follow the steps mentioned above until you reach the Windows Security page.
 
 ![Uninstall Microsoft Defender Application Guard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-defender-application-guard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then click**Uninstall Microsoft Defender Application Guard** and uncheck the box next to**Microsoft Defender Application Guard** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Install Microsoft Defender Application Guard Using the Control Panel
@@ -65,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 5. Then restart your computer for the changes to take effect.
 
  In order to uninstall it, follow the same steps and uncheck the box next to**Microsoft Defender Application Guard** . Then click OK and reboot your computer to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Install Microsoft Defender Application Guard Using Local Group Policy Editor
 
@@ -86,19 +90,15 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 ![Microsoft Defender Application Guard Using Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-defender-application-guard-using-local-group-policy-editor.jpg)
 5. This will open a new window, select the**Enabled** checkbox.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. You can now go to**Options** and change it to**2** or**3** .  
 ![Turn on Microsoft Defender Application Guard in Managed Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-microsoft-defender-application-guard-in-managed-mode.jpg)
 7. Once done, click**Apply** and then**OK** to save all the changes you have made.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now restart your computer and Microsoft Defender Application Guard will be installed on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Install Microsoft Defender Application Guard Using Command Prompt
 
@@ -156,19 +156,22 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-elevate-your-spirit-with-these-10-must-see-movies/"><u>[New] Elevate Your Spirit with These 10 Must-See Movies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-windows-prime-video-communication-tools-1-8/"><u>[Updated] 2024 Approved Windows' Prime Video Communication Tools, #1-8</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-setting-up-for-success-an-instagram-business-account-blueprint/"><u>[Updated] Setting Up for Success An Instagram Business Account Blueprint</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-practices-for-livestreaming-and-archiving-sports-events/"><u>2024 Approved Best Practices for Livestreaming & Archiving Sports Events</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-windows-policy-options-a-triad-exploration/"><u>Deciphering Window's Policy Options: A Triad Exploration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decrypting-windows-credential-access-woes/"><u>Decrypting Windows Credential Access Woes</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11s-frustrating-0x80072efd-error-step-by-step-solutions/"><u>Fixing Windows 11'S Frustrating 0X80072EFD Error: Step-by-Step Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-x6-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from X6.</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-big-sur-basics-system-and-hardware-checklist/"><u>In 2024, Big Sur Basics System & Hardware Checklist</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-xcover-7-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy XCover 7 Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/incor-cooker-adding-cli-to-task-manager-windowed-console/"><u>Incor Cooker: Adding CLI to Task Manager Windowed Console</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-steams-inability-to-access-windows-11-files/"><u>Reversing Steam's Inability to Access Windows 11 Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-pcs-ip-address-with-win11/"><u>Transform Your PC's IP Address with Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/whats-stopping-diablo-immortal-exploring-the-reasons-behind-its-missing-pc-launch-date/"><u>What's Stopping Diablo Immortal? Exploring the Reasons Behind Its Missing PC Launch Date</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/arness-the-power-of-youtubes-movie-maker-for-professionals-for-2024/"><u>[New] Harness the Power of YouTube's Movie Maker for Professionals for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-conquer-social-media-with-savvy-fb-video-choices/"><u>[Updated] 2024 Approved Conquer Social Media with Savvy FB Video Choices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-post-twitter-videos-on-snapchat/"><u>[Updated] 2024 Approved How to Post Twitter Videos on Snapchat?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>[Updated] Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-your-online-presence-zooming-into-tiktok-videos/"><u>2024 Approved Optimizing Your Online Presence Zooming Into TikTok Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-quick-tips-for-easy-youtube-thumbnail-acquisition-zero-price/"><u>2024 Approved Quick Tips for Easy YouTube Thumbnail Acquisition – Zero Price</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-clockdate-visibility-in-windows-11-bar/"><u>Controlling Clock/Date Visibility in Windows 11 Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-best-moments-for-running-ping-commands/"><u>Decoding the Best Moments for Running Ping Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-operation-failed-0x0000011b-error-on-windows-11-and-11/"><u>How to Fix the Operation Failed 0X0000011B Error on Windows 11 & 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-device-linking-performance-with-reduced-ram-consumption/"><u>Improving Device Linking Performance with Reduced RAM Consumption</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-photo-magic-the-role-of-luts-in-editing/"><u>In 2024, Unlocking Photo Magic The Role of LUTs in Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reset-your-shortcuts-strategies-to-restore-functionality-to-windows-input-methods/"><u>Reset Your Shortcuts!: Strategies to Restore Functionality to Windows Input Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-update-error-code-0xca00a009/"><u>Resolving Windows Update Error: Code 0xCA00A009</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrims-extender-errors-on-your-system/"><u>Skyrim's Extender Errors on Your System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-over-xbox-woes-on-your-windows-machine/"><u>Win Over Xbox Woes on Your Windows Machine</u></a></li>
 </ul></div>
 

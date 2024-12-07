@@ -1,7 +1,7 @@
 ---
 title: How to Hide a Drive in Windows 11/10
-date: 2024-11-23T17:10:03.159Z
-updated: 2024-11-27T16:12:07.581Z
+date: 2024-12-02T23:11:51.198Z
+updated: 2024-12-06T18:54:34.009Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Hide a Drive Using the Disk Management App
 
  The Disk Management tool on Windows makes it easy to perform various storage-related tasks such as formatting hard disk partitions, assigning drive letters, managing disk space, and more. You can also use it to hide a drive partition on Windows. Here's how:
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 ![Hide a Drive Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-disk-management.jpg)
 
  Once you complete the above steps, your drive will no longer appear in File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Hide a Drive in Windows With Diskpart Command
 
@@ -51,11 +59,20 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 `list volume`  
 ![List of Drives in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/list-of-drives-in-command-prompt.jpg)
 5. Note down the letter of the drive you want to hide from the**Ltr** column.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type the following command to select your drive. Make sure you replace**X** in the command with the drive letter noted in the last step.  
 `select volume X`
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
 `remove letter X`  
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
 
@@ -77,18 +94,10 @@ Here's what you need to do:
 ![Hide a Drive With Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-with-group-policy-editor.jpg)
 6. Select the**Enabled** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Under**Options** , select the drive you want to hide.
 8. Click**Apply** followed by**OK** .
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
@@ -109,15 +118,7 @@ Here's what you need to do:
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
 
@@ -126,7 +127,7 @@ Here's what you need to do:
  You'll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the**NoDrives** DWORD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hiding Drives in Windows Is Easy
@@ -150,18 +151,18 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-optimal-avi-playback-software-for-pcmobile-users/"><u>[New] 2024 Approved Optimal AVI Playback Software for PC/Mobile Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-transition-from-smartphones-to-pc-and-mac-videos-for-2024/"><u>[New] Seamless Transition From Smartphones to PC & Mac Videos for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-simplify-viewing-incorporating-subtitles-into-wmp/"><u>[New] Simplify Viewing Incorporating Subtitles Into WMP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-back-up-saved-data-for-games-installed-with-epic-games-launcher/"><u>How to Back Up Saved Data for Games Installed With Epic Games Launcher</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-future-ai-and-windows-evolution/"><u>Navigating the Future: AI and Windows Evolution</u></a></li>
-<li><a href="https://win-dash.techidaily.com/overcome-crashing-woes-starting-division-2-smoothly-with-new-strategies-2024-insights/"><u>Overcome Crashing Woes: Starting Division 2 Smoothly with New Strategies (2024 Insights)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/skyrocket-minecraft-frames-per-second-expert-strategies-for-high-end-pc-optimization-updated/"><u>Skyrocket Minecraft Frames per Second: Expert Strategies for High-End PC Optimization - Updated</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-chrome-the-ultimate-guide-for-self-launched-tab-control/"><u>Stop Chrome: The Ultimate Guide for Self-Launched Tab Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategic-approach-to-opening-windows-11-calculator/"><u>Strategic Approach to Opening Windows 11 Calculator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-system-interface/"><u>Unveiling Windows 11'S System Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-creating-quick-fixes-shortcuts-guide/"><u>Win 11: Creating Quick Fixes Shortcuts Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-art-of-adding-youtube-playlists-to-your-website-seamlessly/"><u>[Updated] Mastering the Art of Adding YouTube Playlists to Your Website Seamlessly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-phantom-v-fold-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Phantom V Fold Fingerprint Lock</u></a></li>
+<li><a href="https://article-files.techidaily.com/blend-photos-effortlessly-in-real-time/"><u>Blend Photos Effortlessly in Real-Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fostering-efficiency-not-just-fun-in-windows-11/"><u>Fostering Efficiency, Not Just Fun in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-galaxys-potential-the-dex-connection-technique/"><u>Leveraging Galaxy's Potential: The DeX Connection Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-geforce-now-error-xc0f1103f-in-windows-11/"><u>Overcoming GeForce Now Error Xc0f1103f in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-iphone-13-hurdles-a-guide-to-resolving-top-6-issues/"><u>Overcoming the iPhone 13 Hurdles: A Guide to Resolving Top 6 Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-intelligent-graphics-update-for-windows-11/"><u>Seamless Intelligent Graphics Update for Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/steer-clear-of-targeted-commercial-content-in-browsing-for-2024/"><u>Steer Clear of Targeted Commercial Content in Browsing for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-mp3-conversion-windows-and-imgburn-a-guide-to-creating-professional-audio-cds/"><u>Streamlining MP3 Conversion: Windows & ImgBurn - A Guide to Creating Professional Audio CDs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-itel-a60-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlock-the-power-of-organic-youtube-growth-2-ways/"><u>Unlock the Power of Organic YouTube Growth (2 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719359080464-windows-11-note-saving-strategies-no-software/"><u>Windows 11 Note-Saving Strategies, No Software!</u></a></li>
 </ul></div>
 

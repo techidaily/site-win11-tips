@@ -1,7 +1,7 @@
 ---
 title: "Effortless Tracking of Changes: Mastering Excel's Pivot Table for Percentage Fluctuation Analysis"
-date: 2024-08-28T01:08:35.115Z
-updated: 2024-08-29T01:08:35.115Z
+date: 2024-11-30T22:08:28.630Z
+updated: 2024-12-06T18:28:55.062Z
 tags:
   - excel
 categories:
@@ -24,9 +24,17 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ![Two years of sales data for a PivotTable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/sample-data-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It's a pretty typical example of a sales sheet that shows the order date, customer name, sales rep, total sales value, and a few other things.
 
  To do all this, we're first going to format our range of values as a table in Excel and we're then going to create a Pivot Table to make and display our percentage change calculations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Formatting the Range as a Table
 
@@ -44,11 +52,12 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ![Name the Table in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/name-the-table.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also change the style of the table here if you want.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create a PivotTable to Display Percentage Change
 
  Now let's get on with creating the PivotTable. From within the new table, click Insert > PivotTable.
@@ -58,11 +67,9 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 ![The Create PivotTable window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/create-pivottable-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ###  Group the Dates into Months
 
  We will then drag the date field that we want to group by into the rows area of the PivotTable. In this example, the field is named Order Date.
@@ -77,13 +84,18 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ![Specifying Years and Months in the Group dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/group-dialog.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The year and month are now fields which we can use for analysis. The months are still named as Order Date.
 
 ![Years and Order Date fields in Rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/years-and-months.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Add the Value Fields to the PivotTable
 
  Move the Year field from Rows and into the Filter area. This enables the user to filter the PivotTable for a year, rather than clutter the PivotTable with too much information.
@@ -106,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ![Formatting the first column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/pivottable-with-formatting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Create the Percentage Change Column
 
  Right-click on a value in the second column, point to "Show Values," and then click the "% Difference from" option.
@@ -120,15 +129,17 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 ![Select Previous as the base item to compare to](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/previous.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The PivotTable now shows both the values and the percentage change.
 
 ![Show values and percentage change](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/values-and-percentage-change.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click in the cell containing Row Labels and type "Month" as the header for that column. Then click in the header cell for the second values column and type "Variance".
 
 ![Rename the headers of the PivotTable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/rename-headers.png) 
@@ -148,10 +159,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ![Applying variance icons with Conditional Formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/formatting-variance-icons.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  Click "OK" and the Conditional Formatting is applied to the PivotTable.
 
 ![The completed variance PivotTable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/completed-variance-table.png) 
@@ -164,8 +171,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +178,18 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt/"><u>[New] 2024 Approved How to Clear the Clutter Blurring Backgrounds for Engaging YT</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-navigating-facebook-analytics-simplified/"><u>[New] 2024 Approved Navigating Facebook Analytics Simplified</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-music-players-software-for-windows/"><u>[Updated] Best Music Players Software for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/covert-menu-configurations-for-modern-windows/"><u>Covert Menu Configurations for Modern Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-techniques-for-backdrop-acquisition/"><u>Cutting-Edge Techniques for Backdrop Acquisition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-usage-profile-deciphering-your-windows-pcs-energy-needs/"><u>Power Usage Profile: Deciphering Your Windows PC's Energy Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-self-update-windows-148-chars/"><u>Step-by-Step Guide to Self-Update Windows (148 Chars)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-latest-strategies-for-rectifying-rust-microphone-malfunctions-in-the-new-year-of-2024/"><u>The Latest Strategies for Rectifying Rust Microphone Malfunctions in the New Year of 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/turn-on-offline-hp-desktop-printer-in-wx-2003/"><u>Turn On Offline HP Desktop Printer in WX 2003</u></a></li>
+<li><a href="https://win-community.techidaily.com/windows-10-and-mac-os-data-recovery-guide-how-to-restore-external-drive-files/"><u>Windows 10 & Mac OS Data Recovery Guide: How to Restore External Drive Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-quick-access-to-visual-keyboard/"><u>Windows 11'S Quick Access to Visual Keyboard</u></a></li>
+</ul></div>
 

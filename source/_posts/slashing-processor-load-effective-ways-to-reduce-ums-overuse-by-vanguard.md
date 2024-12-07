@@ -1,7 +1,7 @@
 ---
 title: "Slashing Processor Load: Effective Ways to Reduce UMS Overuse by Vanguard"
-date: 2024-11-20T16:01:19.602Z
-updated: 2024-11-27T18:12:48.252Z
+date: 2024-12-01T20:54:03.478Z
+updated: 2024-12-06T22:06:50.423Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
  If none of the above checks fixes the problem, apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable and Restart Valorant and Vanguard Processes
@@ -59,12 +59,16 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![Change the Priority of the Vanguard User Mode Service Process in the Set Priority Menu in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-vanguard-user-mode-service-process-a-low-priority-in-the-set-priority-menu-in-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you choose the latter option to control CPU resource consumption, right-click on the same process and choose **Efficiency mode**.
 
 ![Enable the Efficiency Mode of Vgc in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-go-to-efficiency-mode-of-vgc-in-windows-task-manage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change the Processor Affinity
 
@@ -79,7 +83,11 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![Disable Unnecessary CPUs From Processor Affinity Settings in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-disable-unnecessary-cpus-from-processor-affinity-settings-in-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Stop the Vanguard Service and Restart It
@@ -90,13 +98,14 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 2. Locate the **Vgc** service, right-click on it, and hit **Properties**.  
 ![Go to Properties of Vgc Service in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-go-to-properties-of-vgc-service-in-windows-services-app.jpg)
 3. Navigate to the **General** tab, and click on the **Stop** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. After that, restart the service by clicking on the **Start** button again.  
 ![Stop the Vgc Service in the General Tab of Properties Window in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/8-stop-the-vgc-service-in-the-general-tab-of-properties-window-in-windows-services-app.jpg)
 5. Also, choose **Automatic** from the dropdown menu next to **Startup type**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Choose Automatic From the Dropdown Menu Next to Startup Type in General Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/9-choose-automatic-from-the-dropdown-menu-next-to-startup-type-in-general-tab-of-properties-window.jpg)
 
@@ -111,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![Check the Assigned Hotkey Under Toggle Overlay Lock in the Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-check-the-assigned-hotkey-under-toggle-overlay-lock-in-the-discord-s-game-overlay-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Move Valorant to a Different Drive
@@ -120,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  To ensure that's not the case, you should move Valorant to a different drive. Not sure how to do that? Refer to our guide on [how to move the installed apps and programs in Windows 10 or 11.](https://www.makeuseof.com/tag/move-installed-apps-programs-windows-10/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Install a Fresh Copy of Vanguard
 
  If none of the potential fixes have worked, you can use the least desirable option; uninstall Vanguard and reinstall it. However, you need to stop the Vgc service first, as described in the above step; otherwise, you may encounter issues when uninstalling the software. You should also close Valorant and exit Vanguard from the system tray before uninstallation.
@@ -131,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
  Once that's done, follow the instructions in our [guide on uninstalling software on Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and uninstall Vanguard. Afterward, rerun Valorant and Riot Vanguard will be installed automatically.
 
 ![installing riot vanguard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/installing-riot-vanguard-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Valorant and other Riot Games products require Vanguard to function. If Valorant (or any other game) fails to install Vanguard on its own after uninstallation, restart your device once and then run the game again.
 
@@ -146,29 +147,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  If you want to reduce the CPU usage of the Vanguard user-mode service process and play Valorant seamlessly, here are some fixes you can try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/roven-youtube-seo-methods-for-video-rankings/"><u>[New] Proven YouTube SEO Methods for Video Rankings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-virtual-swordplay-showdown-find-your-match-in-these-games-for-2024/"><u>[New] Virtual Swordplay Showdown Find Your Match in These Games for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ensemble-moves-syncing-your-song-collections/"><u>[Updated] 2024 Approved Ensemble Moves Syncing Your Song Collections</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-finding-the-free-visual-trove-online/"><u>2024 Approved Finding the Free Visual Trove Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/curb-windows-lag-when-using-an-additional-screen/"><u>Curb Windows Lag when Using an Additional Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-into-advanced-net-config-on-win11/"><u>Easing Into Advanced Net Config on Win11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-activate-beats-audio-driver-seamlessly-on-your-pcmac/"><u>How to Activate Beats Audio Driver Seamlessly on Your PC/Mac</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-8-plus-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 8 Plus iOS? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-limiting-video-size-the-mac-way-to-insta-cutting/"><u>In 2024, Limiting Video Size The Mac Way to Insta-Cutting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-error-0x0000004e-in-win11/"><u>Mastering Fix for Error 0X0000004E in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-windows-memory-impact-from-edges-view2/"><u>Minimizing Windows Memory Impact From Edge's View2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-nookles-lol-initial-load-woes/"><u>Navigating Nookles' (LOL) Initial Load Woes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimal-aspect-ratios-for-video-production-for-2024/"><u>Optimal Aspect Ratios for Video Production for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/premium-storage-solutions-the-ultimate-guide-to-the-most-high-quality-sd-cards-of-2023/"><u>Premium Storage Solutions: The Ultimate Guide to the Most High-Quality SD Cards of 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quicker-quarantine-four-easy-ways-to-cut-off-a-user-on-win11/"><u>Quicker Quarantine: Four Easy Ways to Cut Off a User on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-user-experience-adopting-themes-from-the-microsoft-store/"><u>Revolutionize User Experience: Adopting Themes From The Microsoft Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-windows-activation-failure-code-0x803f700f/"><u>Solving Windows Activation Failure Code 0X803f700f</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-remedies-addressing-windows-11s-package-problems-immediately/"><u>Swift Remedies: Addressing Windows 11'S Package Problems Immediately</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-5-critical-questions-everyone-should-ask-about-smartwatches-before-buying/"><u>The 5 Critical Questions Everyone Should Ask About Smartwatches Before Buying</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -176,3 +154,27 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-clearing-the-list-of-auto-recommended-podcasts-in-spotify/"><u>[New] Clearing the List of Auto-Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-seamlessly-stream-youtube-videos-from-your-idevice-for-2024/"><u>[New] How to Seamlessly Stream YouTube Videos From Your iDevice for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-permanently-quit-youtube-shorts-now/"><u>[New] Permanently Quit YouTube Shorts Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-real-time-view-count-detectors/"><u>[New] Real-Time View Count Detectors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-sparring-spirits-versus-social-media-savvy/"><u>[Updated] 2024 Approved Sparring Spirits Versus Social Media Savvy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-depth-analysis-of-altering-facial-gender-on-social-platforms-for-2024/"><u>[Updated] In-Depth Analysis of Altering Facial Gender on Social Platforms for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-windows-drives-c-and-d-breakdown/"><u>Comparing Windows Drives: C: & D: Breakdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-change-unveiling-windows-11s-innovations-in-explorer/"><u>Discovering Change: Unveiling Windows 11'S Innovations in Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-11-experience-with-easier-clipchamp-accessibility/"><u>Enhance Windows 11 Experience with Easier ClipChamp Accessibility</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-on-resolving-razer-blackshark-v2s-non-functional-microphone-problems/"><u>Expert Guide on Resolving Razer BlackShark V2's Non-Functional Microphone Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-servers-solutions-to-apex-glitches-(156-chars/"><u>Navigating Windows Servers: Solutions to Apex Glitches (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-access-in-windows-11-fix-for-vanished-pin-issue/"><u>Securing Access in Windows 11: Fix for Vanished PIN Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-evolution-of-your-desktop-tracking-the-journey-from-w10-to-w11/"><u>The Evolution of Your Desktop: Tracking the Journey From W10 to W11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-gionee-f3-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Gionee F3 Pro Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-controlling-vanguards-ums-in-windows/"><u>Understanding and Controlling Vanguard's UMS in Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ustream-overview-plus-similar-services/"><u>Ustream Overview + Similar Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-character-map-access-steps/"><u>Windows 11 Character Map Access Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-shortcut-for-font-inspector/"><u>Windows 11 Shortcut for Font Inspector</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1724766192283-mp3/"><u>オススメ MP3 マネジメントソフトウェア: カット、変更、分割、抽出機能を持つ編集ツールの詳細</u></a></li>
+</ul></div>
+

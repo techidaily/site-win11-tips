@@ -1,7 +1,7 @@
 ---
 title: Revamp Your Data with Ease - Mastering Pivot Table Updates in MS Excel
-date: 2024-08-28T01:08:48.566Z
-updated: 2024-08-29T01:08:48.566Z
+date: 2024-12-02T19:34:53.874Z
+updated: 2024-12-06T17:32:28.659Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Whether the data in your pivot table comes from an external source or the same workbook, you can update it manually or automatically. You can also adjust a setting so that the formatting doesn't change when you update the table.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Refresh a Pivot Table Manually
 
  If you would prefer to update your pivot table manually when needed, start by selecting the table.
@@ -31,6 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Refresh or Refresh All for a pivot table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/RefreshOrAll-ExcelRefreshPivotTable-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can right-click the pivot table and choose "Refresh" in the shortcut menu.
 
 ![Refresh in the shortcut menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Refresh-ExcelRefreshPivotTable-1.png) 
@@ -38,8 +46,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  If the update takes a bit of time, you can select Refresh > Refresh Status to see the progress. To cancel, choose Refresh > Cancel Refresh.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Refresh a Pivot Table Automatically
 
  Maybe you'd rather that your [pivot table](https://tech-revival.techidaily.com/the-ultimate-list-5-amazing-open-source-ai-image-synthesis-programs/) update each time you open the workbook. This is a good way to always have refreshed data and saves you from remembering to manually update the table.
@@ -50,19 +59,14 @@ Related: [What are Pivot Tables in Google Sheets, and How Do I Use Them](https:/
 
 ![Open the pivot table Options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/PivotTableOptions-ExcelRefreshPivotTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  In the PivotTable Options window, select the Data tab. Then, check the box for Refresh Data When Opening the File. Click "OK."
 
 ![Refresh when opening the file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/AutomaticUpdate-ExcelRefreshPivotTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Prevent Formatting Changes Upon Update
 
  Sometimes the data that gets updated is wider than your [column width](https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/) or longer than your row height. If you want to retain the formatting for your columns and rows when you refresh a pivot table, it's a simple setting.
@@ -76,8 +80,9 @@ Related: [How to Set Row Height and Column Width in Excel Using the Keyboard](ht
 ![Preserve pivot table formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/PreserveFormatting-ExcelRefreshPivotTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Keep your data current and up to date by refreshing your pivot table in Excel, either manually or automatically.
 
 Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-40c-drfone-by-drfone-virtual-android/)
@@ -88,8 +93,6 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +100,24 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-planning-to-performance-tips-for-wirecast-and-facebook-livestreaming-for-2024/"><u>[New] From Planning to Performance Tips for Wirecast & Facebook Livestreaming for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-vloggers-ultimate-guide-to-best-gaming-microphones/"><u>[Updated] Vloggers' Ultimate Guide to Best Gaming Microphones</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-make-a-meme-step-by-step/"><u>2024 Approved How to Make a Meme (Step by Step)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/re-the-action-crafting-best-in-class-sports-films-for-2024/"><u>Capture the Action Crafting Best-in-Class Sports Films for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-powershell-version-on-windows-11-a-step-by-step-guide/"><u>Determining Your Current PowerShell Version on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-to-revitalize-ailing-windows-programs/"><u>Effective Strategies to Revitalize Ailing Windows Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-immovable-text-selection-in-windows-pdf-readers/"><u>Fixing Immovable Text Selection in Windows PDF Readers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-loadlibrary-failed-with-error-87-the-parameter-is-incorrect-on-windows/"><u>How to Fix LoadLibrary Failed With Error 87: The Parameter Is Incorrect on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-dreamlight-valley-crashes-on-a-pc-in-just-6-steps/"><u>How to Resolve Dreamlight Valley Crashes on a PC in Just 6 Steps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-note-13-proplus-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi Note 13 Pro+ 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-list-mac-video-editors-for-macos-big-sur-11-users/"><u>In 2024, Ultimate List Mac Video Editors for macOS Big Sur 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-written-expression-on-a-windows-pc/"><u>Master the Art of Written Expression on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-engage-or-disengage-win-11s-safety-feature/"><u>Steps to Engage or Disengage Win 11’S Safety Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-your-day-on-windows-11-with-these-5-tools/"><u>Supercharge Your Day on Windows 11 with These 5 Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-commands-and-shortcuts-in-windows-os/"><u>Tailored Commands and Shortcuts in Windows OS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-tutorial-for-powerdirector-2024-users/"><u>Ultimate Tutorial for PowerDirector 2024 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-techniques-opening-up-windows-11-appsfolders/"><u>Unveiling the Techniques: Opening Up Windows 11 AppsFolders</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Embed Google Maps in a Windows Environment
-date: 2024-11-22T17:30:03.418Z
-updated: 2024-11-27T18:07:12.546Z
+date: 2024-12-01T01:57:11.492Z
+updated: 2024-12-06T20:04:19.820Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9cb9221a42cf990d1ead5f7525c2a2084bd45082f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Install Google Maps as a Desktop App Using Microsoft Edge
@@ -41,26 +41,22 @@ thumbnail: https://thmb.techidaily.com/9cb9221a42cf990d1ead5f7525c2a2084bd45082f
 ![install google maps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-google-maps.jpg)
 4. Click **Install** to confirm the action in the pop-up dialog. Wait for Edge to install the app.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![google maps desktop app edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-maps-desktop-app-edge.jpg)
 5. Once installed, Google Maps will open in a new window. For the initial setup, you can allow the app to **Pin to taskbar**, **Pin to Start**, **create a desktop shortcut** and enable auto start after login.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can now launch and use Google Maps like any desktop app on your system. It shows your timeline, recent and saved items, and contributions and supports location sharing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Uninstall Google Maps Added via Edge
 
 ![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can uninstall Google Maps from the Settings app and the Start menu. However, when installed via Edge, you may not find the app in the classic Control Panel. To uninstall Google Maps:
 
@@ -78,18 +74,23 @@ thumbnail: https://thmb.techidaily.com/9cb9221a42cf990d1ead5f7525c2a2084bd45082f
 3. Go to **More Tools** and select **Create Shortcut.**  
 ![creating a shortcut for google maps on google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-chrome-create-shortcut-google-maps.jpg)
 4. In the Create shortcut dialog, select the **Open as window** option. This will open the created shortcut in a new window. You can rename the app if you want or leave it as default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Create**.
 6. Once installed, the app will open a new window offering a similar set of functionalities as Google Maps’s web version.
 
  You can also pin the Maps app to the taskbar and Start menu. To do this, press the **Win** key to open Windows search and type **maps**. Right-click the **Google Maps** shortcut and select **Pin to Start** or Pin to **Taskbar**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Uninstall a Google Maps Shortcut Added via Chrome
 
 ![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can uninstall the Google Maps shortcut installed using Chrome from the classic Control Panel. Here’s how to do it.
 
@@ -108,29 +109,6 @@ thumbnail: https://thmb.techidaily.com/9cb9221a42cf990d1ead5f7525c2a2084bd45082f
 
  So, how do you use Google Maps on a Windows PC? The web version works great, but you’ll need to keep your browser open for it to work. Alternatively, you can install the web version using the Chrome or Edge browser to use Google Maps as a desktop app. Here we show you how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-free-football-live-learn-and-cut-your-match-footage/"><u>[New] 2024 Approved Free Football Live-Learn & Cut Your Match Footage</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pinnacle-article-hook-maker/"><u>[New] 2024 Approved Pinnacle Article Hook Maker</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlocking-instagram-memories-with-these-apps/"><u>[New] In 2024, Unlocking Instagram Memories with These Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-photography-made-easy-select-top-writing-apps/"><u>[New] Photography Made Easy Select Top Writing Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-smile-spawning-creativity-in-adobe-meme-making/"><u>[New] Smile Spawning Creativity in Adobe Meme-Making</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-low-usb-support-issue-in-windows/"><u>Eliminating Low USB Support Issue in Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-huawei-matestation-x-analysis-the-new-28-touchscreen-desktop-challenger-of-the-iconic-apple-imac-insights-from-zdnet/"><u>Exclusive Huawei MateStation X Analysis: The New 28 Touchscreen Desktop Challenger of the Iconic Apple iMac - Insights From ZDNet!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/flip-and-twist-images-with-these-6-w11-hacks/"><u>Flip and Twist Images with These 6 W11 Hacks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-asus-rog-phone-7-ultimate-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Asus ROG Phone 7 Ultimate to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hush-windows-11-techniques-to-cease-operations/"><u>Hush Windows 11: Techniques to Cease Operations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-windows-11-driver-update-process-get-started-now/"><u>Seamless Windows 11 Driver Update Process: Get Started Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-sailing-solving-11-windows-11-woes/"><u>Smooth Sailing: Solving 11 Windows 11 Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-missing-ubisoft-launcher-errors/"><u>Strategies for Fixing Missing Ubisoft Launcher Errors</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ly-render-and-upload-videos-tips-for-speedy-youtube-submissions-for-2024/"><u>Swiftly Render & Upload Videos Tips for Speedy YouTube Submissions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-simplification-with-hdd-defragmentation-in-win11/"><u>System Simplification with HDD Defragmentation in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-screenscape-win-1011-theme-variety-for-monitors/"><u>Tailored Screenscape: Win 10/11 Theme Variety for Monitors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-personalization-in-windows-11-through-strategic-adjustments/"><u>The Art of Personalization in Windows 11 Through Strategic Adjustments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-breakdowns/"><u>Unveiling the Latest in Computing - Tom's Hardware Breakdowns</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-the-please-wait-for-the-gpsvc-loop-in-windows-and-how-do-you-fix-it/"><u>What Is the “Please Wait for the GPSVC” Loop in Windows and How Do You Fix It?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,3 +116,27 @@ thumbnail: https://thmb.techidaily.com/9cb9221a42cf990d1ead5f7525c2a2084bd45082f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-best-pairing-practices-in-the-youtube-space-for-2024/"><u>[New] Exploring Best Pairing Practices in the YouTube Space for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quickly-save-your-screen-in-windows-systems/"><u>[New] In 2024, Quickly Save Your Screen in Windows Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamlessly-post-pictures-your-youtube-visual-guide/"><u>[New] Seamlessly Post Pictures Your YouTube Visual Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-zero-to-hero-accelerating-your-way-to-a-top-10000-followers-in-no-time-on-insta/"><u>[Updated] From Zero to Hero Accelerating Your Way to a Top 10,000 Followers in No Time on Insta</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-improve-office-productivity-with-speech-to-text-conversion-in-microsoft-word/"><u>[Updated] Improve Office Productivity with Speech to Text Conversion in Microsoft Word</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ultimate-combo-visual-and-audio-recorders-for-artists/"><u>[Updated] In 2024, Ultimate Combo Visual & Audio Recorders for Artists</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-professional-guide-expertise-in-vimeo-video-logging/"><u>2024 Approved Professional Guide Expertise in Vimeo Video Logging</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-execution-crafting-shortcuts-in-windows-11-uwp/"><u>Efficient Execution: Crafting Shortcuts in Windows 11 (UWP)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-considerations-why-you-should-think-twice-about-relying-on-chatgpt-for-emotional-support/"><u>Essential Considerations: Why You Should Think Twice About Relying on ChatGPT for Emotional Support</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-12-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 12 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-isdonedll-failures-in-windows-11-and-11x/"><u>How to Rectify ISDone.dll Failures in Windows 11 and 11X</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-discreet-audio-modulation-strategies-with-audacity/"><u>In 2024, Discreet Audio Modulation Strategies with Audacity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-foremost-corporate-cloud-storage-hubs/"><u>In 2024, Foremost Corporate Cloud Storage Hubs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-0x80070141-device-unreachability-issue/"><u>Overcoming Windows 0X80070141 Device Unreachability Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/propel-windows-pcs-into-transcoding-elite-with-tdarr-software/"><u>Propel Windows PCs Into Transcoding Elite with Tdarr Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-resolution-excising-unwanted-apps-in-win11/"><u>Rapid Resolution: Excising Unwanted Apps in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathfinders-guide-crafting-intelligent-folder-labels-on-windows-11/"><u>The Pathfinder's Guide: Crafting Intelligent Folder Labels on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unsignatured-drivers-on-windows-how-to-bypass-sie/"><u>Unsignatured Drivers on Windows: How to Bypass SIE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-code-0x800f0831-fix-and-stop-worrying/"><u>WinError Code 0X800f0831: Fix and Stop Worrying</u></a></li>
+</ul></div>
+

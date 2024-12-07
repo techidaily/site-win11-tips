@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel: Techniques for Identifying and Tallying Unique Entries"
-date: 2024-08-28T01:09:05.545Z
-updated: 2024-08-29T01:09:05.545Z
+date: 2024-11-29T22:06:06.787Z
+updated: 2024-12-06T19:54:51.658Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 ---
 
 ## Mastering Excel: Techniques for Identifying and Tallying Unique Entries
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
  Both methods we'll explain use a combination of functions and variations of [the COUNT function](https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-12t-pro-for-free-drfone-by-drfone-virtual-android/). And because your cell range could include blank cells, we're including alternative formulas to account for this.
 
 Related: [How to Use the COUNT Function in Microsoft Excel](https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-12t-pro-for-free-drfone-by-drfone-virtual-android/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the COUNTA and UNIQUE Functions
 
@@ -44,6 +52,10 @@ Related: [How to Use the COUNT Function in Microsoft Excel](https://android-loca
 
 ![COUNTA with UNIQUE in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/CountaUniqueFunctions-ExcelCountUnique.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the cell range you want to count contains blanks, those will be included as unique values which may cause a problem. To exclude blank cells in your range, you can add the FILTER function to the formula:
 
  The FILTER function is only available in the versions of Excel listed [above](https://extra-approaches.techidaily.com/updated-prime-10-converters-free-apps-for-efficient-srt-file-transformations/).
@@ -58,9 +70,6 @@ Related: [How to Use the COUNT Function in Microsoft Excel](https://android-loca
 
 Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Use the SUM and COUNTIF Functions
 
  If you're using a version of Excel where the UNIQUE and FILTER functions are unavailable, you can use SUM and [COUNTIF](https://win-forum.techidaily.com/complete-tutorial-clearing-out-windows-10-memory-dump-data/) instead.
@@ -77,15 +86,12 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![SUM and COUNTIF functions in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SumCountifFunctions-ExcelCountUnique.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  Similar to the first method, you can run into issues if you have blanks in your cell range with this method. Only, you'll receive the #DIV/0![error](https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/) rather than an extra unique value.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To eliminate this problem, you can use the following formula:
 
 =SUM((A2:A5<>"")/COUNTIF(A2:A5,A2:A5&""))
@@ -95,8 +101,9 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 ![SUM and COUNTIF filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SumCountifFunctionsFiltered-ExcelCountUnique.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Finding unique values in Excel doesn't have to be a difficult task. By using the [functions and formulas](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) here, you should see those distinct values in no time!
 
 Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/)
@@ -107,8 +114,6 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +121,18 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-tech-tutorial-download-youtube-for-your-idevice-securely-for-2024/"><u>[Updated] Tech Tutorial Download YouTube for Your iDevice Securely for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-effortless-itunes-for-podcast-enthusiasts/"><u>2024 Approved Effortless iTunes for Podcast Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-android-usability-by-halting-continuous-running-of-mobile-applications/"><u>Boosting Android Usability by Halting Continuous Running of Mobile Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-techniques-for-reducing-windows-extender-cpu/"><u>Effective Techniques for Reducing Windows Extender CPU</u></a></li>
+<li><a href="https://techidaily.com/efficiently-navigate-windows-10-discover-these-13-shortcut-tips-for-settings/"><u>Efficiently Navigate Windows 10: Discover These 13 Shortcut Tips for Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-sedan-with-these-essential-accessories-for-sj4000-for-2024/"><u>Elevate Your Sedan with These Essential Accessories for SJ4000 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unleash-video-potential-key-tactics-for-backlink-creation/"><u>In 2024, Unleash Video Potential Key Tactics for Backlink Creation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-c12-plus-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia C12 Plus and Browser | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/risks-involved-in-ai-crafted-windows-11-codes/"><u>Risks Involved in AI-Crafted Windows 11 Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-circle-again-top-5-family-safe-fixes/"><u>Securing Your Circle Again: Top 5 Family Safe Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-win1011s-audacity-audio-glitches/"><u>Solving Win10/11's Audacity Audio Glitches</u></a></li>
+</ul></div>
 

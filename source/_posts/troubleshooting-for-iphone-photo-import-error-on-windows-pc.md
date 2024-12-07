@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting for iPhone Photo Import Error on Windows PC
-date: 2024-08-28T01:10:15.638Z
-updated: 2024-08-29T01:10:15.638Z
+date: 2024-12-03T18:48:31.426Z
+updated: 2024-12-07T01:55:08.553Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,14 @@ thumbnail: https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed
 6. Choose some images to transfer and click the**Import** option.  
 ![The Import option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Restart the Apple Mobile Device Service
 
  The “Something went wrong” error can arise when the Apple Mobile Device Service gets stuck. Restarting that service can resolve the issue in such a scenario. However, note that you won’t find that service if iTunes isn’t installed on your PC. This is how to restart the Apple Mobile Device service:
@@ -51,14 +59,12 @@ thumbnail: https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed
 4. Click**Stop** to halt the service.  
 ![The Apple Mobile Device Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-mobile-device-properties-window.jpg)
 5. Select**Apply** to save settings and**OK** to exit.
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click**Apple Mobile Device Service** with your right mouse button and select**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Hardware Acceleration in Photos
 
  The Windows 10 Photos app’s hardware acceleration feature can generate issues with importing images from an iPhone. This is how you can disable hardware acceleration in Windows 10’s legacy Photos app:
@@ -68,14 +74,12 @@ thumbnail: https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed
 3. Select the**Settings** menu option.  
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/settings-option.jpg)
 4. Scroll down to and turn off the**Use hardware acceleration video encoding** when available setting.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Use hardware-accelerated video encoding option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/use-hardware-acceleration-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Select the "Keep Originals" Option on Your iPhone
 
  One of the most widely confirmed fixes for the “Something went wrong” error is to select the Keep Originals iPhone setting. Selecting that option stops automatic JPEG conversion for importing pictures. You’ll need to apply this potential solution on your iPhone as follows:
@@ -93,11 +97,16 @@ thumbnail: https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed
 
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can access both those Photos troubleshooting options as outlined in our[guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Close the OneDrive App
 
  The OneDrive cloud storage app is can conflict with Photos’ image importing. That’s more likely to happen when a OneDrive account’s storage space is severely limited. Try closing that background app and signing out from the Photos app as follows:
@@ -107,15 +116,14 @@ thumbnail: https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed
 3. Select**Quit OneDrive** to close the app.  
 ![The Quit OneDrive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/quit-onedrive-option.jpg)
 4. Open the Photos app and click the user account picture in it.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Select the**Sign out** option.  
 ![The Sign out option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sign-out-option.jpg)
 6. Click**Sign out** again to confirm.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Try importing images with Photos again.
 
  Note that the instructions above are for the legacy Windows 10 Photos app. You can’t select to sign out of a user account in Windows 11’s default Photos app. In Windows 11’s Photos app, click**Settings** and turn off the**OneDrive – Personal** option.
@@ -140,8 +148,6 @@ thumbnail: https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +155,24 @@ thumbnail: https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-essentials-of-drafting-engaging-vlogger-speeches/"><u>[Updated] Essentials of Drafting Engaging Vlogger Speeches</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-secrets-to-flawless-ppt-video-transcriptions/"><u>2024 Approved Secrets to Flawless PPT Video Transcriptions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-fresh-rx-5500xt-software/"><u>Efficiently Fresh RX 5500XT Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-error-e8024002e-for-update-issues/"><u>Fixing Error E:8024002E for Update Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-freezing-and-halted-sessions-in-your-qbittorrent-client/"><u>Fixing Freezing and Halted Sessions in Your qBittorrent Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unopened-sharing-error-in-windows-1011s-experience/"><u>Fixing Unopened Sharing Error in Windows 10/11'S Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-financially-navigate-to-w11-pro-best-offers/"><u>Gain Financially: Navigate to W11 Pro Best Offers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-15-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 15 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y27-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y27 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-and-locals-key-distinctions-in-windows-login-systems-exposed/"><u>Microsoft & Locals: Key Distinctions in Windows Login Systems Exposed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/official-microsoft-audio-device-updates-available-for-quick-install-on-windows-machines/"><u>Official Microsoft Audio Device Updates Available for Quick Install on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powertoys-techniques-when-and-how-to-apply-lockmaster/"><u>PowerToys Techniques: When and How to Apply Lockmaster</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-tips-to-resolve-elden-ring-performance-drops-and-frame-rate-fluctuations/"><u>Quick Tips to Resolve Elden Ring Performance Drops & Frame Rate Fluctuations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-clearing-frozen-application-alerts/"><u>Solutions for Clearing Frozen Application Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surge-into-success-7-key-methods-for-enhanced-windows-11-use-38/"><u>Surge Into Success: 7 Key Methods for Enhanced Windows 11 Use (38)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-graphic-gaze-decoding-youtubes-factful-17-narrative-for-2024/"><u>The Graphic Gaze Decoding YouTube's Factful '17 Narrative for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-workflow-with-efficient-multi-tasking-in-windows-11/"><u>Transforming Workflow with Efficient Multi-Tasking in Windows 11</u></a></li>
+</ul></div>
 

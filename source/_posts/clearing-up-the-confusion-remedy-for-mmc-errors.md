@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up the Confusion: Remedy for MMC Errors"
-date: 2024-11-22T17:34:23.591Z
-updated: 2024-11-27T16:33:00.006Z
+date: 2024-12-01T22:35:59.584Z
+updated: 2024-12-06T23:49:52.058Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Fix the Broken Registry Configuration for the Snap-In
 
 ![delete-registry-key-mmc-snap-in-windows-registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-registry-key-mmc-snap-in-windows-registry.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the registry configuration for the affected snap-in is broken, it may trigger the "MMC could not create the snap-in" error. To fix the issue, you’ll need to delete the corrupt registry entry associated with the snap-in. Here’s how to do it.
 
@@ -58,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
 ![enable net framework 3 5 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-net-framework-3-5-windows-features.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also fix this error by enabling .NET Framework 3.5\. The idea is that one of the snap-ins on your PC may need .NET Framework 3.5 to work. So, if the feature is disabled, you may encounter an error.
 
  Fortunately, you can easily enable the .NET Framework feature using the Turn Windows features on or off dialog. Here’s how to do it.
@@ -70,16 +66,12 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 4. Next, click to **Apply** the changes and install the feature.
 5. Once installed, you’ll be prompted to restart the computer. Restart your system, and the MMC snap-in should work now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Check for and Repair Corrupt System Files
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have one or more corrupt system files, it may cause issues with the system apps. You can run the System File Checker tool to determine if the problem is due to system file issues. It will scan and check the integrity of systems files and automatically repair them to fix the problem.
@@ -88,12 +80,16 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
@@ -119,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 6. Run the executable file to install the package and follow the on-screen instructions.
 7. Once installed, restart your computer and check if MMC snap-ins are now working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix the MMC Snap-In and Restore Your Administrative Tools on Windows
 
  This error is triggered when a snap-in malfunctions, which is often a case of broken registry configuration. To fix the issue, you can delete the broken registry sub-key for the affected snap-in. Additionally, enable/re-enable the .NET Framework 3.5\. If not, scan the system for file integrity issues with the DISM and System File Checker utility.
@@ -127,29 +127,6 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
  Sometimes, the error may also pop up after a Blue Screen of Death (BSOD), causing one or more apps to crash. This error often occurs if the registry configuration of the snap-in is malfunctioning. Here we show a few ways to fix to help you resolve the "MMC could not create the snap-in" error and restore administrative tools access in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/oost-your-youtube-output-rapid-video-rendering-and-transfer-for-2024/"><u>[New] Boost Your YouTube Output - Rapid Video Rendering and Transfer for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-lullabies-for-your-mind-no-stress-pcs/"><u>[Updated] 2024 Approved Lullabies for Your Mind No-Stress PCs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-advanced-techniques-flawless-insertion-of-vimeo-video-in-slides/"><u>[Updated] Advanced Techniques Flawless Insertion of Vimeo Video in Slides</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-perfect-virtual-scenes-enhancing-zoomgoogle-experience/"><u>[Updated] In 2024, Perfect Virtual Scenes Enhancing Zoom/Google Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-problems-to-perfect-integration-steps-for-optimal-add-ons-in-windows-os/"><u>From Problems to Perfect Integration: Steps for Optimal Add-Ons in Windows OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-note-12r-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi Note 12R Phone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-interventions-nine-fixes-to-stop-wwe-crashes/"><u>Immediate Interventions: Nine Fixes to Stop WWE Crashes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-12-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 12? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/learn-to-leverage-copymove-the-win-11-guide-for-efficiency/"><u>Learn to Leverage Copy/Move: The Win 11 Guide for Efficiency</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-pc-innovations-with-expertise-from-toms-hardware/"><u>Navigate the World of PC Innovations with Expertise From Tom's Hardware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-hardware-detection-alerts/"><u>Navigating Through Hardware Detection Alerts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/re-pair-and-recognize-your-logitech-brio-webcam-in-new-pc-version-how-it-worked-for-me-answered/"><u>Re-Pair and Recognize Your Logitech Brio Webcam in New PC Version – How It Worked for Me (Answered)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reduce-windows-surrounders-for-better-control/"><u>Reduce Windows Surrounders for Better Control</u></a></li>
-<li><a href="https://games-able.techidaily.com/safeguard-gameplay-steam-screenshots-redundancy/"><u>Safeguard Gameplay: Steam Screenshots Redundancy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-share-failures-on-geforce/"><u>Strategies for Resolving Share Failures on GeForce</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-win11s-update-failure-0x30017/"><u>Strategies for Win11's Update Failure #0X30017</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-efficient-backup-of-notebook-apps/"><u>Techniques for Efficient Backup of Notebook Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/scent-of-jake-paul-in-online-video-fame/"><u>The Ascent of Jake Paul in Online Video Fame</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unravel-word-mysteries-quickly-with-windows-11/"><u>Unravel Word Mysteries Quickly with Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,3 +134,22 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unveiling-best-overlooked-free-speech-tools-for-mac/"><u>[New] 2024 Approved Unveiling Best Overlooked Free Speech Tools for Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expertly-ranked-best-internet-sound-recorders-2023/"><u>[New] Expertly Ranked Best Internet Sound Recorders 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-and-create-discs-with-the-best-free-winx-dvd-maker-tool-for-windows-11-users/"><u>Download and Create Discs with the Best Free WinX DVD Maker Tool for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-convert-your-mp3-collection-into-windows-audio-cds-via-imgburn/"><u>Efficiently Convert Your MP3 Collection Into Windows' Audio CDs via ImgBurn</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-interruptexception-blue-screen-in-w10w11-pcs/"><u>Fixing INTERRUPT_EXCEPTION Blue Screen in W10/W11 PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-blank-displays-in-win-os/"><u>Mastering the Art of Fixing Blank Displays in WIN OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-fb-events-benefits-vs-drawbacks/"><u>Navigating FB Events: Benefits vs Drawbacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-read-only-settings-on-your-windows-device/"><u>Overhauling Read-Only Settings on Your Windows Device</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-dvd-conversion-techniques-for-editing-in-imovie-across-macs-and-pcs/"><u>Seamless DVD Conversion Techniques for Editing in iMovie Across Macs and PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-software-removal-11-methods-for-windows-users-127-chars/"><u>Simplifying Software Removal: 11 Methods for Windows Users (127 Chars)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-cutting-edge-professional-cameras-a-360-overview-2023/"><u>The Cutting-Edge Professional Cameras - A 360° Overview, 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727789295610-top-ranking-mac-software-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Mac Software : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-overcoming-onedrive-crashes/"><u>Winning Strategies for Overcoming OneDrive Crashes</u></a></li>
+</ul></div>
+

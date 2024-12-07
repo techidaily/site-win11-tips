@@ -1,7 +1,7 @@
 ---
 title: Tackling Disabled Grammarly Functionality in Windows 10
-date: 2024-11-25T16:03:43.040Z
-updated: 2024-11-27T18:11:48.793Z
+date: 2024-12-02T00:03:15.151Z
+updated: 2024-12-06T16:00:10.103Z
 tags:
   - windows10
   - windows11
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 * **Troubleshoot your slow Internet connection:** A slow Internet connection may not be ideal while using Grammarly. So, refer to our [guide on fixing slow internet](https://www.makeuseof.com/internet-slow-on-windows-laptop-not-on-phone/) for help.
 * **Turn off your proxy or VPN:** Such networking services sometimes interfere with Grammarly. We recommend disabling any proxy or VPN to check if it resolves the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update the Grammarly App
 
  One of the best ways to ensure your Grammarly app works correctly is to keep it up-to-date.
@@ -68,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 4. Once you log in with your account, click the **Activate Grammarly** button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Grammarly Activation Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-activation-setup.jpg)
@@ -93,16 +89,16 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 3. Open the **Block List** tab and click **Remove** next to any website you want to exclude.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Grammarly Blocklist Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-blocklist-settings.jpg)
 
- Note that the settings should apply automatically once you click **Remove**; if it doesn't, restart the app once.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Note that the settings should apply automatically once you click **Remove**; if it doesn't, restart the app once.
 
 ### 2\. Enable Grammarly at Startup
 
@@ -116,7 +112,11 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![Grammarly Startup Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-startup-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Sign Out and Sign In Again
@@ -145,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  Clearing the AppData folder will erase any locally saved information associated with the Grammarly app. For instance, any websites you have on Grammarly's block list and any personalized settings will reset. So, back up or note them down before deleting its AppData folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Repair Microsoft .NET Framework
 
  The .NET Framework is a toolkit containing many development-related tools for Windows developers. Now, how is this related to the Grammarly app?
@@ -164,7 +160,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 4. Finally, click the **Finish** button once the repair is complete.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Grammarly App
@@ -179,6 +175,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![Windows Installed App Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-installed-app-settings.jpg)
 4. Download and install the app again from [Grammarly.com](https://www.grammarly.com/desktop).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Avoid downloading "cracked or modded versions" of freemium apps and services (like Grammarly), as they may contain malware that can harm your system!
 
  Reinstalling the Grammarly app is a one-shot process that resolves any ongoing issues with the app. If you're still experiencing difficulties, contact [Grammarly's support](https://support.grammarly.com/hc/en-us/requests/new#/) for further action.
@@ -191,29 +191,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  In this article, we will guide you through some quick steps to fix common Grammarly app issues on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-tips-to-enrich-virtual-meetings-with-screen-sharing/"><u>[Updated] 2024 Approved Expert Tips to Enrich Virtual Meetings with Screen Sharing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-insights-into-simplified-ipad-and-iphone-recording/"><u>[Updated] Quick Insights Into Simplified iPad & iPhone Recording</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725288328265-netflix/"><u>新型コロナ時代の家庭で楽しむ! Netflix上のおススメ映画リスト</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circumventing-soon-to-expire-license-warning-on-windows-1011/"><u>Circumventing Soon to Expire License Warning on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/connecting-iphoneipad-to-windows-network-shares/"><u>Connecting iPhone/iPad to Windows Network Shares</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discord-on-desktop-eliminating-echo-problems-with-our-latest-troubleshooting-manual/"><u>Discord on Desktop: Eliminating Echo Problems with Our Latest Troubleshooting Manual</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/editorial-efficiency-m1s-smooth-performance-unveiled/"><u>Editorial Efficiency M1's Smooth Performance Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-back-to-gaming-solve-your-xbox-pc-problems/"><u>Get Back to Gaming: Solve Your Xbox PC Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/jumping-platforms-in-minecraft-transition-from-bedrock-to-java-geysermc-style/"><u>Jumping Platforms in Minecraft: Transition From Bedrock to Java, GeyserMC Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-windows-imitate-macos-aesthetics-with-5-key-adjustments/"><u>Making Windows Imitate macOS Aesthetics with 5 Key Adjustments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quell-windows-aural-enhancement-mechanisms/"><u>Quell Windows' Aural Enhancement Mechanisms</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/quick-guide-archiving-your-insta-story-content/"><u>Quick Guide Archiving Your Insta Story Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-addressing-windows-np-errors-immedirancy/"><u>Quick Guide: Addressing Windows NP Errors Immedirancy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-the-absence-of-rockalldlldll-in-winos/"><u>Rectifying the Absence of Rockalldll.dll in WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remodel-retro-videos-the-ultimate-guide-to-windows-madvr-techniques/"><u>Remodel Retro Videos: The Ultimate Guide to Windows MadVR Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-steps-for-creating-collab-videos-with-youtubers-for-2024/"><u>The Ultimate Steps for Creating Collab Videos with YouTubers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-elevate-required-failure-in-windows-10-and-11/"><u>Troubleshooting 'Elevate Required' Failure in Windows 10 & 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/unite-sony-gaming-with-the-switch-system/"><u>Unite Sony Gaming with the Switch System</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-say-goodbye-to-windows-10-photos-top-8-alternative-image-viewers/"><u>Updated 2024 Approved Say Goodbye to Windows 10 Photos Top 8 Alternative Image Viewers</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -221,3 +198,23 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-innovative-11-audio-devices-for-professionals-for-2024/"><u>[New] Innovative 11 Audio Devices for Professionals for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-speaking-through-screens-effective-communication-on-youtube/"><u>[Updated] 2024 Approved Speaking Through Screens Effective Communication on YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-entering-the-fullscreen-realm-choosing-a-cms/"><u>2024 Approved Entering the Fullscreen Realm Choosing a CMS</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevating-your-gameplay-strategies-for-unlocking-top-tier-fps-drops-in-me-le/"><u>Elevating Your Gameplay: Strategies for Unlocking Top-Tier FPS Drops in ME LE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-an-easier-way-to-check-for-windows-11-software-updates-ui-wise/"><u>Enabling an Easier Way to Check for Windows 11 Software Updates UI-Wise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-resolving-windows-photography-problems/"><u>Master the Art of Resolving Windows Photography Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-file-challenges-workarounds-for-rename-restrictions-in-win-11/"><u>Navigating File Challenges: Workarounds for Rename Restrictions in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-dual-network-connectivity-in-windows-os/"><u>Optimizing Dual Network Connectivity in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-how-to-download-and-update-surface-book-drivers/"><u>Quick and Simple: How to Download and Update Surface Book Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-java-fixing-the-setup-failure-issue/"><u>Reinstating Java: Fixing the Setup Failure Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-quickly-converting-your-mp3-tracks-to-m4a-format/"><u>Step-by-Step Tutorial on Quickly Converting Your MP3 Tracks to M4A Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-recovery-from-onedrive-operational-fails-in-windows-os/"><u>Swift Recovery From OneDrive Operational Fails in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-speed-mastering-windows-task-shortcuts/"><u>Unlocking Speed: Mastering Windows Task Shortcuts</u></a></li>
+</ul></div>
+

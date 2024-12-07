@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Obscured: System Tray on Win11"
-date: 2024-11-24T17:00:05.483Z
-updated: 2024-11-27T17:18:43.577Z
+date: 2024-12-01T17:55:16.766Z
+updated: 2024-12-06T16:18:13.738Z
 tags:
   - windows10
   - windows11
@@ -25,23 +25,19 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Show or Hide System Tray Icons on Windows 11
 
  To show more icons in the system tray, you need to access the Taskbar's settings by pressing **Win + I**, selecting **Personalization** on the left side menu, and then clicking **Taskbar** in the right panel.
 
 ![Go to Taskbar Settings in the Personalization Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-go-to-taskbar-settings-in-the-personalization-tab-of-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Taskbar settings, scroll down and expand the **Other system tray icons** section. Find the icon you want to show (its toggle will be set to **Off** if it isn’t in the system tray) and click on the toggle on its right to set it to the **On** position.
 
 ![you can turn system tray icons on and off in the Taskbar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-tray-icons-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to remove the system tray icon, simply set the toggle to **Off**.
 
@@ -55,23 +51,19 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 
  To add the icon back in the system tray, click and drag it from the hidden icons menu and then place it in the system tray.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Show or Hide the Hidden Icon Menu
 
  As mentioned earlier, the hidden icon menu is what appears when you click the **up caret** in the system tray. You can also hide and show this menu as you please.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Using the Settings App
 
  If you can't see the hidden icon menu, you can show it from the Taskbar settings as well. To get there, right-click an empty part of the Taskbar and select **Taskbar settings**.
 
 ![opening Taskbar settings by right clicking an empty part of the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/opening-taskbar-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll down until you reach the **Other system tray icons** section and expand it. To reveal the hidden icon menu, set the toggle next to the **Hidden menu icon** option to **On**. To hide it, set the toggle to **Off**.
 
@@ -91,15 +83,23 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 
 ![the SystemTrayChevronVisibility value in the Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/systemtraychevronvisibility-value-regedit-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To show the hidden icon menu, set the **Value data** text box to **1** and click **OK**.
 
 ![setting the SystemTrayChevronVisibility value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/systemtraychevronvisibility-value-data.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And to hide the hidden icon menu set the **Value data** text box to **0** and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Control the Icons that Appear in the System Tray on Windows 11
 
@@ -109,24 +109,6 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 
  If that happens, you can remove a couple of app icons, as well as the hidden icons menu, to make it less cluttered. And if you can’t find the app icons you need or the hidden icons menu is missing, you can add those too.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-androids-free-screen-snip-picks-our-best-8-on-display/"><u>[New] 2024 Approved Android's Free Screen Snip Picks – Our Best 8 on Display</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unpacking-manycams-revolutionary-recording-features-for-2024/"><u>[New] Unpacking ManyCam's Revolutionary Recording Features for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-video-production-with-captivate-for-2024/"><u>[Updated] Navigating Video Production with Captivate for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/elite-5-screen-grab-for-fb-movies/"><u>Elite 5 Screen Grab for FB Movies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-keeping-login-details-private-on-pc/"><u>Guide to Keeping Login Details Private on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correctly-open-installation-packages-on-windows-10-11/"><u>How to Correctly Open Installation Packages on Windows 10, 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professionals-choice-best-drone-gimbals/"><u>In 2024, Professional's Choice Best Drone Gimbals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precision-in-resolving-common-windows-11-issues/"><u>Precision in Resolving Common WINDOWS 11 Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-enhance-windows-11-bar/"><u>Quick Fixes to Enhance Windows 11 Bar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simplifying-systems-administration-how-red-hat-leverages-artificial-intelligence/"><u>Simplifying Systems Administration: How Red Hat Leverages Artificial Intelligence</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-installing-camera-drivers-for-all-windows-oses/"><u>Step-by-Step Guide to Downloading and Installing Camera Drivers for All Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-vision-behind-microsoft-stores-ai-hub/"><u>The Vision Behind Microsoft Store's AI Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-thermal-regulation-options/"><u>Unlocking Windows Thermal Regulation Options</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/which-is-more-beneficial-learning-german-or-french/"><u>Which Is More Beneficial? Learning German or French</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -134,3 +116,23 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-angles-the-complete-manual-for-effective-video-turns/"><u>[Updated] Instagram Angles The Complete Manual for Effective Video Turns</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-render-blur-effect-on-digital-snaps-in-ps/"><u>[Updated] Render Blur Effect on Digital Snaps in PS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-easy-path-to-engaging-animation-in-your-videos/"><u>[Updated] The Easy Path to Engaging Animation in Your Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apples-luxury-listening-gear-airpods-max/"><u>Apple's Luxury Listening Gear: AirPods Max</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-visual-wonders-in-lightrooms-hdr-workflow/"><u>Crafting Visual Wonders in Lightroom's HDR Workflow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktop-deco-compelling-stick-on-apps-for-windows-enthusiasts/"><u>Desktop Deco: Compelling Stick-On Apps for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-fixes-rejuvenate-frozen-mouse-contexts-in-windows/"><u>Easy Fixes: Rejuvenate Frozen Mouse Contexts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-overcome-win11-cc-challenges/"><u>Expert Tips to Overcome Win11 CC Challenges</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nubia-z50-ultra-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unveiling-leading-edge-vr-developers/"><u>In 2024, Unveiling Leading-Edge VR Developers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-depth-look-at-instagrams-video-time-restrictions-for-2024/"><u>In-Depth Look at Instagram's Video Time Restrictions for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-16-upgrade-apple-enhances-camera-with-cutting-edge-visual-recognition-similar-to-google-lens-tech-news/"><u>IPhone 16 Upgrade: Apple Enhances Camera with Cutting-Edge Visual Recognition Similar to Google Lens – Tech News</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-infinite-treasure-in-dragon-game-tips-and-tricks-for-pc-users/"><u>Master the Art of 'Infinite Treasure' In Dragon Game - Tips & Tricks for PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-powershell-script-execution-policy/"><u>Mastering the Art of PowerShell Script Execution Policy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-play-addressing-fall-guys-errors-on-windows/"><u>Streamlining Play: Addressing Fall Guys Errors on Windows</u></a></li>
+</ul></div>
+

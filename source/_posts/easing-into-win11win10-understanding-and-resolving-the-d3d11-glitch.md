@@ -1,7 +1,7 @@
 ---
 title: "Easing Into Win11/Win10: Understanding and Resolving the D3D11 Glitch"
-date: 2024-11-21T16:58:45.398Z
-updated: 2024-11-27T18:04:07.651Z
+date: 2024-12-02T19:47:16.083Z
+updated: 2024-12-06T21:49:11.913Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sfc-scannow-command-1.jpg)
 4. Wait for the System File Checker to finish its scanning and show an outcome message.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set the Game to Utilize a Dedicated Graphics Card
 
  Does your PC have integrated and discrete (dedicated) graphics adapters? If it does, make sure the affected game is utilizing your PC’s dedicated GPU. To do so, you can select a **High-performance** graphics option for the game via Settings. Our [guide to choosing a preferred graphics card](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) for an app tells you how to set a dedicated GPU for a game in Settings.
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 4. Select **Yes** on the dialog box that asks you to provide additional confirmation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update the Driver for Your Graphics Card
@@ -88,15 +92,11 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-modify-option-1.jpg)
 5. Press the **Repair** button in the Visual C++ window that opens.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-repair-option-1.jpg)
 6. Repeat the previous two steps for all Microsoft Visual C++ Redistributables listed in Apps & features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or you may need to install some missing Visual C++ Redistributables libraries. You can install the latest runtime libraries with the Microsoft Visual C++ 2015-2022 Redistributable pack like this:
@@ -109,21 +109,17 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 4. Then click **VC\_redist.x64.exe** to bring up the window shown below.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Microsoft Visual C++ 2022 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microsoft-visual-C-window-1.jpg)
 5. If your PC is missing some runtime libraries, the Microsoft Visual C++ 2015-2022 Redistributable window will have an **Install** option. Click that **Install** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select the **Restart now** option after updating libraries.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install the DirectX Runtime Libraries
 
@@ -135,14 +131,15 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 4. Select the radio button for the **I accept the agreement** option inside the DirectX setup wizard.  
 ![The DirectX setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/directx-setup-wizard-1.jpg)
 5. Click **Next** to view the Bing Bar offer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. If you don’t want the extra software, uncheck the selected **Install the Bing Bar** option.
 7. Press the DirectX Setup wizard’s **Next** button.
 8. Click **Finish** in the wizard.
 9. Restart your Windows laptop or desktop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Set Affected Games to Run With DirectX 11
 
@@ -159,9 +156,18 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 3. Select the **Settings** menu option.  
 ![The Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-settings-option-1.jpg)
 4. Click an affected game’s title to expand options for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then select the game’s **Additional Command Line Arguments** checkbox.  
 ![The Additional Command Line Arguments checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/additonal-command-line-arguments-box-1.jpg)
 6. Input **d3d11** in the text box for the command line argument.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Force DirectX 11 on Steam
 
@@ -173,10 +179,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 4. Input **\-dx11** in the launch option text box on the **General** tab.  
 ![Steam Launch Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/steam-launch-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Expand the Page File for More Virtual Memory
 
  Expanding the page file will increase the amount of virtual memory available for games. That’s a recommended troubleshooting method for the “D3D11-compatible GPU” error since your PC can better handle system demands for graphically intensive games with a larger page file. Check out our [guide to extending virtual memory in Windows](https://www.makeuseof.com/tag/virtual-memory-low-heres-fix/) to apply this potential fix.
@@ -184,7 +186,7 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/virtual-memory-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy Your Windows Games Again
@@ -195,26 +197,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
  This error has been more widely reported for Fortnite but also occurs for other Windows game titles. If you're struggling with this same issue, here is how you can fix the “D3D11-compatible GPU” error in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-cutting-edge-imaging-top-8k-cameras-unveiled/"><u>[New] 2024 Approved Cutting-Edge Imaging Top 8K Cameras Unveiled</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-crafting-an-engaging-fb-slideshow-experience/"><u>[Updated] 2024 Approved Crafting an Engaging FB Slideshow Experience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-expert-evaluation-chilled-delights-playback-tools/"><u>[Updated] In 2024, Expert Evaluation Chilled Delights Playback Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensively-addressing-file-creation-fails-in-windows-error-30005/"><u>Comprehensively Addressing File Creation Fails in Windows Error 30005</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-techniques-for-launching-windows-calculator/"><u>Efficient Techniques for Launching Windows' Calculator</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-techniques-for-lut-use-in-premiere-pro/"><u>In 2024, Advanced Techniques for LUT Use in Premiere Pro</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevating-your-video-content-youtube-to-igtv-transition/"><u>In 2024, Elevating Your Video Content YouTube to IGTV Transition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inter-system-sharing-made-simple-with-nearby-share/"><u>Inter-System Sharing Made Simple with Nearby Share</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/maximizing-impact-with-strategic-fb-giveaway-announcements/"><u>Maximizing Impact with Strategic FB Giveaway Announcements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-fullscreen-failsures-in-sonic-gameplay-on-w11/"><u>Navigating Fullscreen Failsures in Sonic Gameplay on W11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/origin-not-working-heres-how-you-can-get-it-up-and-running-smoothly/"><u>Origin Not Working? Here's How You Can Get It Up and Running Smoothly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-increase-space-on-win11-drives-without-trashing-data-max-156-chars/"><u>Strategies to Increase Space on Win11 Drives Without Trashing Data (Max 156 Chars)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-art-of-dialogue-in-film-and-theatre/"><u>The Art of Dialogue in Film and Theatre</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-simple-steps-for-changing-windows-11-name/"><u>Unveiling the Simple Steps for Changing Windows 11 Name</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-battle-against-the-d3d11-gpu-hurdle-in-w11w10/"><u>Winning Battle Against the D3D11 GPU Hurdle in W11/W10</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -222,3 +204,27 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-chuckle-factory-designing-7-video-ideas-for-humorists/"><u>[New] 2024 Approved Chuckle Factory Designing 7 Video Ideas for Humorists</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-top-10-video-editors-rising-from-vimeos-shadow/"><u>[New] In 2024, Top 10 Video Editors Rising From Vimeo's Shadow</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-board-features-across-apple-android-and-windows-for-effective-online-collaboration/"><u>[New] Navigating Board Features Across Apple, Android & Windows for Effective Online Collaboration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-uncomplicated-process-how-to-swiftly-eliminate-youtube-comments/"><u>[New] Uncomplicated Process How to Swiftly Eliminate YouTube Comments</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-earning-in-the-e-commerce-arena-via-engaging-reviews/"><u>[Updated] In 2024, Earning in the E-Commerce Arena via Engaging Reviews</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-videotwit-hatcher-harvest-tweets-visuals-for-ios-devices/"><u>[Updated] VideoTwit Hatcher Harvest Tweets' Visuals for iOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-activate-defender-application-guard-on-windows-11-edge/"><u>How to Activate Defender Application Guard on Windows 11 Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-steam-game-icons-missing-on-windows/"><u>How to Fix Your Steam Game Icons Missing on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y28-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y28 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-motorola-defy-2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Motorola Defy 2 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-simple-remedies-for-black-screen-panic/"><u>Master Simple Remedies for Black Screen Panic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-fn-key-alterations-for-windows-1011/"><u>Navigating FN Key Alterations for Windows 10/11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-bring-your-photos-to-life-a-detailed-ken-burns-effect-tutorial/"><u>New Bring Your Photos to Life A Detailed Ken Burns Effect Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-amd-graphics-masterful-configuration-tips-for-windows-games/"><u>Perfecting AMD Graphics: Masterful Configuration Tips for Windows Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-in-cpu-control-minmax-processor-insights/"><u>Precision in CPU Control: Min/Max Processor Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-restarting-the-explorer-on-windows-11os/"><u>Swift Solutions: Restarting the Explorer on Windows 11OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-significance-of-runtime-brokers-for-operating-systems/"><u>The Significance of Runtime Brokers for Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharging-visual-performance-a-comprehensive-vram-guide/"><u>Turbocharging Visual Performance - A Comprehensive VRAM Guide</u></a></li>
+</ul></div>
+

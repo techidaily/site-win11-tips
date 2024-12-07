@@ -1,7 +1,7 @@
 ---
 title: Efficient Use of Function (Fn) Button in Windows OS
-date: 2024-08-28T01:11:52.865Z
-updated: 2024-08-29T01:11:52.865Z
+date: 2024-12-05T01:03:55.916Z
+updated: 2024-12-06T21:19:23.997Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  Below, we have listed different ways of locking and unlocking the Fn key in Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### 1\. Use the Keyboard
 
  In several keyboards, the Esc key acts as a Function padlock key. You will notice a small padlock icon on the Esc key if that is the case for your keyboard.
@@ -40,9 +37,9 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  To lock the Fn key, simply press the Fn key and the Esc key together. Once the lock icon lights up, the Fn key has been successfully locked. To unlock, you can press both keys together again.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Access the BIOS Settings
 
  You can also change the hardware settings of your computer via the BIOS settings. Here is how you can lock or unlock the Fn key via BIOS:
@@ -51,19 +48,27 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 2. Head over to**Troubleshoot** and click on**Advanced Options** .  
 ![Advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-troubleshoot-advanced-options-1.jpg)
 3. Click on**UEFI Firmware Settings** and hit**Restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 10 Troubleshoot Advanced Options UEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/uefi-screenshot.jpg)
 4. Once the computer restarts, the BIOS will launch.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Head over to the System Configuration section and choose the**Action Key Mode** .
 6. Disable**Action Key Mode** .
 7. Alternatively, in the Advanced tab, access the**Function key behavior** .
 8. Choose the**Function key** option to lock it.  
 ![Function Key Behavior](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key.jpg)
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
@@ -76,15 +81,13 @@ Follow these steps to proceed:
 2. Locate the**Function Key Row** section and expand the dropdown under it.  
 ![Function key row section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key-row.jpg)
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Manage Your Fn Key Better on Windows
 
  The Fn keys improve productivity, but you can make them more convenient by enabling them permanently. The different methods above should help you make this change easily. If you do not use the Fn key often, then it is best to disable it permanently.
@@ -95,8 +98,6 @@ Follow these steps to proceed:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +105,24 @@ Follow these steps to proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ut-costs-boost-creativity-learn-the-secrets-of-green-screen-artistry-from-4-leading-educators/"><u>[New] Cut Costs, Boost Creativity Learn the Secrets of Green Screen Artistry From 4 Leading Educators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-zooms-best-practices-for-organizing-online-meetings/"><u>[New] In 2024, Zoom's Best Practices for Organizing Online Meetings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-text-to-youtube-video-before-or-after-uploading-for-2024/"><u>[Updated] How to Add Text to YouTube Video Before or After Uploading for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprerancial-strategies-to-correct-code-0x800700e1-in-windows-11/"><u>Comprerancial Strategies to Correct Code 0X800700E1 in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-into-win11win10-understanding-and-resolving-the-d3d11-glitch/"><u>Easing Into Win11/Win10: Understanding and Resolving the D3D11 Glitch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-methods-for-saving-online-meetings-for-2024/"><u>Easy Methods for Saving Online Meetings for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elevating-your-digital-presence-best-vocal-tweakers-for-vtubers/"><u>Elevating Your Digital Presence Best Vocal Tweakers for VTubers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-boltgun-performance-overcoming-pc-delays-in-warhammer-40k/"><u>Enhancing Boltgun Performance: Overcoming PC Delays in Warhammer 40K</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-efficiency-of-copy-and-paste-in-windows-11/"><u>Enhancing Efficiency of Copy and Paste in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-control-illuminated-areas-on-windows-11/"><u>Learn to Control Illuminated Areas on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-youtube-titulos-con-algoritmos/"><u>Mastering YouTube Títulos Con Algoritmos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pathways-for-perusing-and-purging-activity-in-windows-11/"><u>Pathways for Perusing & Purging Activity in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-startup-routine-launching-sticky-notes-as-first-app-in-windows/"><u>Pro Startup Routine: Launching Sticky Notes as First App in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/shot-noise-arises-from-the-discrete-nature-of-charge-carriers-and-their-passage-through-a-barrier-or-junction-its-significant-in-devices-like-diodes-where-c15/"><u>Shot Noise Arises From the Discrete Nature of Charge Carriers and Their Passage Through a Barrier or Junction. It's Significant in Devices Like Diodes Where Current Flow Involves Random Events at a Potential Barrier.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-9-rationale-going-with-the-latest-outlook-edition/"><u>Top 9 Rationale: Going with the Latest Outlook Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/white-screen-on-laptop-uncover-effective-troubleshooting-steps-now/"><u>White Screen on Laptop? Uncover Effective Troubleshooting Steps Now!</u></a></li>
+</ul></div>
 

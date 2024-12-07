@@ -1,7 +1,7 @@
 ---
 title: Pathways for Perusing & Purging Activity in Windows 11
-date: 2024-11-25T16:11:07.354Z
-updated: 2024-11-27T17:06:36.633Z
+date: 2024-12-03T02:13:34.595Z
+updated: 2024-12-06T20:08:37.347Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Data Does Windows Track?
 
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
  This will clear the activity history for the account you're currently using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Settings on Windows 11
@@ -72,14 +76,14 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 ![navigating to activity history in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history.jpg)
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Your Microsoft Account
@@ -89,11 +93,7 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on the Windows 10 Timeline
@@ -108,15 +108,15 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to View All Windows 10 Activity History
 
  If you want to view all activity history on Windows 10, you can do so on the [Microsoft account privacy website](https://account.microsoft.com/privacy/). You'll see various categories when you access the website and log in. Each one will take you to a page that shows all the information Microsoft has stored about you relating to that category.
 
  There's a lot to take in on this page, so here's a brief rundown of each category which you should check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Windows 10 Activity History Categories
 
@@ -136,6 +136,10 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 
  You can also click on the **Activity History** tab to view a complete list of all data types: voice, search, browsing history, and location information. Microsoft also makes it easy to filter down to each category by clicking on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Windows 10 and Maintain Your Privacy
 
  Microsoft is eager to get everyone using Windows 10 as quickly as possible, resorting to offering free upgrades to encourage migration. However, users have never considered Windows 10 as a bastion of privacy. Ever since its release, users have discovered ways that the operating system tracks what you do.
@@ -143,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
  As such, a privacy-minded person may feel uneasy that their new PC has Windows 10\. If you'd rather not scrub the drive clean to install a different operating system, you can take steps to reduce what data Microsoft gathers about you.
 
  Unfortunately, there is no silver bullet for Windows 10 privacy. Recommended steps range from setting options during the initial OS setup to installing third-party tools to keep tabs on everything.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Keeping Your Data Safe in Windows 10
 
@@ -156,25 +156,6 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-windows-10s-full-potential-with-zoom-services/"><u>[New] 2024 Approved Unveiling Windows 10'S Full Potential with Zoom Services</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-yearly-insights-the-most-impactful-social-graphs/"><u>[Updated] Yearly Insights - The Most Impactful Social Graphs</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/download-premium-free-torrent-software-for-high-quality-movie-streaming/"><u>Download Premium, Free Torrent Software for High-Quality Movie Streaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-win-valorant-speed-beat-01kbs-snags/"><u>Enhance Win-Valorant Speed, Beat 0.1KB/S Snags</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-converteren-oma-file-in-mp3-professioneel-online-service-by-movavi/"><u>Gratis Converteren OMA File in MP3 - Professioneel Online Service by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-dispatch-nvidia-opengl-error-3-on-winxps/"><u>Guide to Dispatch NVIDIA OpenGL Error 3 on WinXPs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-to-and-modifying-windows-11-fax-cover-page-editor/"><u>Navigating to and Modifying Windows 11 Fax Cover Page Editor</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimize-your-sites-performance-using-advanced-cookiebot-features/"><u>Optimize Your Site's Performance Using Advanced Cookiebot Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-resets-reviving-file-explorer-on-win-11/"><u>Quick Resets: Reviving File Explorer on Win 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-your-iphone-contacts-disappear-and-how-to-bring-them-back/"><u>Solving the Issue: Why Your iPhone Contacts Disappear and How to Bring Them Back</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/troubleshooting-guide-for-windows-server-2012-r2-users-looking-to-upgrade-to-windows-server/"><u>Troubleshooting Guide for Windows Server 2012 R2 Users Looking to Upgrade to Windows Server</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-remote-disconnect-issue-in-winpc/"><u>Unraveling Remote Disconnect Issue in WinPC</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-chromebook-video-editing-apps-for-android-users/"><u>Updated In 2024, Top Chromebook Video Editing Apps for Android Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-0xc004f050-steps-to-resolve/"><u>WinError 0XC004F050: Steps to Resolve</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -182,3 +163,20 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-restoring-obs-full-screen-display/"><u>[Updated] In 2024, Restoring OBS Full Screen Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-inactive-windows-media-player-sounds/"><u>Dealing with Inactive Windows Media Player Sounds</u></a></li>
+<li><a href="https://win11.techidaily.com/dynamic-desktop-aesthetics-using-windows-spotlight-photos/"><u>Dynamic Desktop Aesthetics: Using Windows Spotlight Photos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-nine-different-color-grades/"><u>In 2024, Step-by-Step Nine Different Color Grades</u></a></li>
+<li><a href="https://blog-min.techidaily.com/istruzioni-complete-su-come-applicare-gli-sconti-con-i-coupon-di-movavi-regole-importanti-da-conoscere/"><u>Istruzioni Complete Su Come Applicare Gli Sconti Con I Coupon Di Movavi: Regole Importanti Da Conoscere</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/make-facebook-videos-extend-the-wallpaper/"><u>Make Facebook Videos Extend the Wallpaper</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581304136-mondly-unveils-revolutionary-vr-language-learning-experience/"><u>Mondly Unveils: Revolutionary VR Language Learning Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-fixed-zip-files-in-win-11/"><u>Step-by-Step Guide to Fixed ZIP Files in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sweep-away-sluggish-entry-beat-delay-in-win-11-with-these-solutions/"><u>Sweep Away Sluggish Entry: Beat Delay in Win 11 with These Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trick-to-transition-from-regular-user-immediately/"><u>Trick to Transition From Regular User Immediately</u></a></li>
+</ul></div>
+

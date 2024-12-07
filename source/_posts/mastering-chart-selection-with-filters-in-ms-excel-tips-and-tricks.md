@@ -1,7 +1,7 @@
 ---
 title: "Mastering Chart Selection with Filters in MS Excel: Tips & Tricks"
-date: 2024-08-28T01:07:50.469Z
-updated: 2024-08-29T01:07:50.469Z
+date: 2024-12-05T00:44:14.456Z
+updated: 2024-12-06T19:08:29.833Z
 tags:
   - excel
 categories:
@@ -32,26 +32,28 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![Filtered chart in Excel on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/FilteredDataWindows-ExcelFilterChart.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that some chart types don't offer the Chart Filters option such as [Pareto](https://snapchat-videos.techidaily.com/new-in-2024-capturing-snapshots-transferring-from-snapchat-to-device-storage/), [Histogram](https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s17-pro-by-drfone-android/), and [Waterfall](https://youtube-docs.techidaily.com/approved-strategies-for-effective-youtube-playlist-distribution/) charts. You can still filter the chart by applying a filter to the data instead. Follow the steps below for filtering a chart on Mac as the steps are the same in Excel on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Remove a Filter
 
  When you finish using the Chart Filters, click that button once more to open the filter box. Check the boxes for Select All in Series or Categories, depending on the filter you used. Then, click "Apply."
 
 ![Check the boxes for Select All](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/SelectAllWindows-ExcelFilterChart.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your chart should then be back to its original view.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Filter a Chart in Excel on Mac
 
  Since there isn't a Chart Filters button next to a [chart you create in Excel](https://buynow-help.techidaily.com/detailed-insight-into-the-campfire-chronicles-character-customization-collection/) on Mac, you'll need to use the data filter on the Home tab.
@@ -67,24 +69,23 @@ Related: [How to Create and Customize a Funnel Chart in Microsoft Excel](https:/
 ![Filter the data in Excel on Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/FilterDataMac-ExcelFilterChart.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you finish, click "Apply Filter" or check the box for Auto Apply to see your chart update immediately.
 
 ![Filtered chart in Excel on Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/FilteredDataMac-ExcelFilterChart.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Remove a Filter
 
  To return your chart to its original view, simply remove the filter. Click the filter button at the top of the column you filtered by and select "Clear Filter" in the pop-up box.
 
 ![Click Clear Filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ClearFilterMac-ExcelFilterChart.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can turn off the data filter if you like as well. Go back to the Home tab, click Sort & Filter in the ribbon, and deselect "Filter."
 
  Filters are not just handy for data sets, but charts as well. So remember this tip the next time you want to highlight data in a pie, column, or [bar chart in Excel](https://extra-support.techidaily.com/updated-premium-psd-aesthetic-optimization/).
@@ -95,8 +96,6 @@ Related: [How to Create and Customize a Funnel Chart in Microsoft Excel](https:/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +103,22 @@ Related: [How to Create and Customize a Funnel Chart in Microsoft Excel](https:/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-minecrafts-geometric-forms-circular-and-spherical-creation/"><u>[New] In 2024, Mastering Minecraft's Geometric Forms Circular & Spherical Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mobile-video-smoothing-system-pro/"><u>[New] Mobile Video Smoothing System Pro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-blueprint-for-seamless-eco-screen-integration/"><u>[Updated] 2024 Approved The Ultimate Blueprint for Seamless Eco-Screen Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-guide-to-digital-television-how-does-it-access-the-internet/"><u>A Guide to Digital Television: How Does It Access the Internet?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/august-23rd-edition-of-new-york-times-connection-puzzles-solutions-and-answers-439/"><u>August 23Rd Edition of New York Times Connection Puzzles - Solutions & Answers #439</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-unlicensed-adobe-software-alerts/"><u>Disabling Unlicensed Adobe Software Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edges-steady-presence-insight-for-win11-users/"><u>Edge's Steady Presence: Insight for Win11 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-brands-visibility-with-these-key-marketing-practices/"><u>Elevate Your Brand's Visibility with These Key Marketing Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-win11s-sticky-features-a-multi-device-approach/"><u>Harnessing WIN11'S Sticky Features: A Multi-Device Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-microphone-sound-heres-the-windows-google-meet-solution/"><u>Lost Microphone Sound? Here's the Windows Google Meet Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-archive-integration-securing-zip-within-images-windows-11/"><u>Silent Archive Integration: Securing ZIP Within Images (Windows 11)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamline-your-youtube-presence-using-premiere-pro/"><u>Streamline Your YouTube Presence Using Premiere Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-for-streamlining-the-windows-11-taskbar-experience/"><u>Top Tips for Streamlining the Windows 11 Taskbar Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-modern-electronics-at-toms-hardware-resource-center/"><u>Unveiling the Power of Modern Electronics at Tom's Hardware Resource Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-friendly-guide-convert-mkv-to-mp4-quickly/"><u>Win-Friendly Guide: Convert MKV to MP4 Quickly</u></a></li>
+</ul></div>
 

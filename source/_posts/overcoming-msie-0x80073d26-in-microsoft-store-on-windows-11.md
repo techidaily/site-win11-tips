@@ -1,7 +1,7 @@
 ---
 title: Overcoming MSIE 0X80073D26 in Microsoft Store on Windows 11
-date: 2024-11-23T17:02:10.001Z
-updated: 2024-11-27T16:51:27.399Z
+date: 2024-12-01T21:15:50.548Z
+updated: 2024-12-06T17:34:29.174Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Windows Store App Troubleshooting Tool
@@ -39,12 +39,17 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 4. Then click **Run** to launch the Windows Store Apps troubleshooting tool.  
 ![The Run button for the Windows App Store troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-app-store-troubleshooter.jpg)
 5. Apply all troubleshooting suggestions provided within Windows Store Apps window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-app-troubleshooter.jpg)
 
  You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Repair and Reset the Microsoft Store App
@@ -52,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
  Accumulated and corrupted Microsoft Store cache data is a potential cause for error 0x80073D26\. Resetting the Microsoft Store app via Settings or the Command Prompt will clear the app’s data. Try applying both methods in this guide to resetting Microsoft Store. Also, select the **Repair** option for the Microsoft Store just above its **Reset** button in Settings to see if that resolves the issue.
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Edit the Registry
 
@@ -82,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 5. Then input these separate commands, pressing **Return** after each:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServices" -recurse  
 
 Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -recurse` 
@@ -103,11 +100,11 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Set Windows to Clean Boot
 
@@ -118,16 +115,24 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
  To apply this fix, check out this guide about [clean-booting Windows 10 or 11](https://www.makeuseof.com/clean-boot-windows-11/). Disable startup programs in Task Manager and services in MS Config as covered within that guide; then restart your PC and try installing Microsoft Store games again to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reinstall the Microsoft Store
 
 ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
  There isn’t a standard uninstall option available for Microsoft Store. So, you’ll have to reinstall that app with two PowerShell commands. Our guide about [how to reinstall the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) tells you how to apply this potential fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Perform an In-Place Windows Upgrade
 
@@ -139,10 +144,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
 
 ## Enjoy the Best Xbox Game Pass Games Available on the Microsoft Store
@@ -151,27 +152,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
  Players can’t enjoy their Xbox Game Pass titles because of error 0x80073D26, which makes this an annoying issue for Xbox Game Pass users. This is how you can fix the Microsoft Store error 0x80073D26 in Windows
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-simple-shelter-strategies-in-mc/"><u>[New] 2024 Approved Essential Simple Shelter Strategies in MC</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-every-moment-unveiling-5-exceptional-streamer-webcams-for-2024/"><u>[Updated] Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos-for-2024/"><u>[Updated] First Steps Into Filmmaking The Ultimate Guide for Making Your First 10 YouTube Videos for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-securing-skype-conversations-via-obs/"><u>[Updated] Securing Skype Conversations via OBS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-take-portrait-photo-with-your-old-iphone-x8-plus7-plus/"><u>2024 Approved Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-leading-gaming-headphones-for-an-immersive-experience/"><u>2024'S Leading Gaming Headphones for an Immersive Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparable-digital-painting-apps-for-windows/"><u>Comparable Digital Painting Apps for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-and-tips-for-chromes-non-saving-files-in-the-windows-network/"><u>Fixes and Tips for Chrome's Non-Saving Files in the Windows Network</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ready-essential-anker-charger-gadgets-for-your-upcoming-iphone-purchase/"><u>Get Ready: Essential Anker Charger Gadgets for Your Upcoming iPhone Purchase</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-windows-application-run-time-failures-proficiently/"><u>Handling Windows Application Run-Time Failures Proficiently</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maintain-an-organized-filespace-configuring-auto-delete-on-windows-11/"><u>Maintain an Organized Filespace: Configuring Auto Delete on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-dialogue-into-written-words-whisper-edition/"><u>Transform Your Dialogue Into Written Words - Whisper Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-lost-screen-mirroring-on-pc/"><u>Troubleshooting Lost Screen Mirroring on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/universal-chatgpt-portal-how-to-use-it-from-everywhere/"><u>Universal ChatGPT Portal: How to Use It From Everywhere</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-interface-overhaul-explorer-upgrades/"><u>Unveiling Windows 11'S Interface Overhaul: Explorer Upgrades</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-embrace-dxvk-for-a-better-windows-gaming-experience/"><u>Why Embrace DXVK for a Better Windows Gaming Experience?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +159,23 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-fiscal-fortitude-the-story-of-mr-beast-for-2024/"><u>[New] Fiscal Fortitude The Story of Mr. Beast for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>[Updated] 2024 Approved 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-song-guide-for-newbies/"><u>[Updated] 2024 Approved The Ultimate Song Guide for Newbies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-add-ons-for-disk-image-duality-on-pc/"><u>Avoiding Add-Ons for Disk Image Duality on PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/compatible-software-packages-ricoh-mp-c3003-printer-driver-download-section/"><u>Compatible Software Packages - Ricoh MP C3003 Printer Driver Download Section</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-superiority-of-pcs-to-macs-in-9-areas/"><u>Dissecting the Superiority of PCs to Macs in 9 Areas</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-asus-rog-phone-7-device-sim-by-drfone-android/"><u>Easily Unlock Your Asus ROG Phone 7 Device SIM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-system-performance-with-effective-use-of-windows-law-filters/"><u>Elevating System Performance with Effective Use of Window's LAW Filters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-quickly-transition-your-pcs-windows-10-network-settings-from-public-to-private/"><u>How to Quickly Transition Your PC's Windows 10 Network Settings From Public to Private</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-action-camera-choices-top-6-under-100/"><u>In 2024, Affordable ACTION Camera Choices – Top 6 Under $100</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-closed-caption-settings-in-windows-11/"><u>Mastering Closed Caption Settings in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-digital-space-with-ease-via-onestream-platform/"><u>Navigating the Digital Space with Ease via OneStream Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-deck-windows-installation-essentials/"><u>Steam Deck: Windows Installation Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-fixing-windows-error-code-0x0000004e/"><u>Tackling the Mystery: Fixing Windows Error Code 0X0000004E</u></a></li>
+<li><a href="https://win11.techidaily.com/1719245846865-windows-issues-learn-how-to-seek-expert-guidance/"><u>Windows Issues? Learn How to Seek Expert Guidance</u></a></li>
+</ul></div>
+

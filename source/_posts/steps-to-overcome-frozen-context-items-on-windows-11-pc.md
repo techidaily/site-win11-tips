@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome Frozen Context Items on Windows 11 PC
-date: 2024-11-26T16:43:03.971Z
-updated: 2024-11-27T16:46:10.095Z
+date: 2024-12-04T00:03:27.724Z
+updated: 2024-12-06T18:08:40.223Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart the File Explorer Process
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
  File Explorer handles the right-click context menu on the Windows desktop. Users confirm that refreshing File Explorer can sometimes fix the context menu when it’s not working. Our article about [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) explains how to apply this potential resolution with Task Manager.
 
 ![The Windows Explorer process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-process.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan Your PC With System File Checker and Deployment Image Servicing Management
 
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Deactivate Tablet Mode (for Windows 10)
@@ -72,14 +68,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/not-configured-radio-button.jpg)
 8. Click **Apply** to set the policy change.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Select **OK** to exit the Remove File Explorer’s default context menu window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Create a NoViewContextMenu Registry DWORD
@@ -95,9 +87,18 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 4. Click **DWORD (32-bit) Value** on the submenu.  
 ![The New > DWORD options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-new-key-options2.jpg)
 5. Type **NoViewContextMenu** in the text box for the DWORD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. The **NoViewContextMenu** DWORD will probably be set to 0 by default when you create it. However, double-click the **NoViewContextMenu** just to check its value.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/edit-dword-window.jpg)
 7. Set the **NoViewContextMenu** value to **0** in the **data** box if it’s not already and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Modify the ContextMenuHandlers Key
 
@@ -112,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 ![The ContextMenuHandlers key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/contextmenuhandlers-key.jpg)
 5. Exit Registry Editor and select to restart your Windows PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Update Your Mouse’s Driver
 
  The mouse is the peripheral with which users activate the context menu. Although not an especially likely cause, it’s possible your context menu isn’t working because your mouse’s driver is faulty or outdated. So, try updating the driver for your mouse. We have a guide about [finding and replacing old device drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) that provides details for how you can apply this potential fix.
@@ -119,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 ![A mouse driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-download-option.jpg)
 
  Incidentally, you check if the context menu not working is a mouse issue by utilizing the hotkey for that menu. Try pressing the **Shift** \+ **F10** hotkey when on the desktop to see if that opens the context menu. Or select a desktop shortcut and press that keyboard shortcut. If the context menu works then, there could be an issue with your mouse or its right button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform a Clean Boot
 
@@ -128,15 +137,7 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’ve set the clean boot, restart Windows and right-click on the desktop to see if the context menu works ok. If it does, then it’s probably better to leave the boot configuration as set. However, you can try to identify what program or service was causing the issue by gradually re-enabling disabled startup apps and services until the context menu stops working again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Disable Third-Party Context Menu Shell Extensions With CCleaner
 
@@ -149,14 +150,14 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 ![The Install option for CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-button.jpg)
 5. Open CCleaner and click its **Tools** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click the **Startup** and **Context Menu** tabs.
 7. Look at the Program column to identify third-party shell extensions listed there.  
 ![The Context Menu tab in CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-context-menu-tab-in-cccleaner.jpg)
 8. Select third-party shell extensions and click **Disable** to turn them off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Desktop Context Menu Fixed With These Resolutions
 
@@ -166,29 +167,6 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
  Although desktop context menu access is seldom essential, it offers handy shortcuts, especially when you've customized it. So, it’s important to fix the desktop context menu when it’s not working. If your Windows desktop context menu isn’t functioning right, try applying the troubleshooting methods below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-complete-macos-11-big-sur-evolution-explained/"><u>[New] 2024 Approved The Complete MacOS 11 Big Sur Evolution Explained</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-precision-photography-without-shake/"><u>[New] Precision Photography without Shake</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices/"><u>[New] Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-under-the-surface-sound-savers-top-6-stealthy-recorders-iosandroid-for-2024/"><u>[Updated] Under-the-Surface Sound Savers Top 6 Stealthy Recorders (iOS/Android) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-innovative-computer-components-with-toms-tech-reviews/"><u>Discover Innovative Computer Components with Tom's Tech Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dormant-mouse-annoyed-user-recover-wi-fi-mice-in-windows/"><u>Dormant Mouse, Annoyed User: Recover Wi-Fi Mice in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/end-file-explorer-stalls-strategies-for-win11-users/"><u>End File Explorer Stalls: Strategies for Win11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-laptop-trackball-issues-on-windows-10-8-and-7-solutions-revealed/"><u>Fix Laptop Trackball Issues on Windows 10, 8 & 7 – Solutions Revealed!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-the-spotlight-top-viewers-choice/"><u>In the Spotlight Top Viewers' Choice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-computer-operation-key-strategies-with-wintools-techniques/"><u>Master Computer Operation: Key Strategies with Wintools Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-boot-states-five-routines-for-resolving-security-errors-in-win/"><u>Mastering Boot States: Five Routines for Resolving Security Errors in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-issues-with-windows-1011s-fixing-tools/"><u>Overcoming Issues with Windows 10/11'S Fixing Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pioneering-3d-design-avoiding-common-pitfalls-in-illustrator/"><u>Pioneering 3D Design Avoiding Common Pitfalls in Illustrator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-security-five-alterations-to-windows-firewall/"><u>Streamlining Security: Five Alterations to Windows Firewall</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-configuring-dns-on-modern-windows-11/"><u>The Ultimate Guide: Configuring DNS on Modern Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-how-to-extract-a-tiktok-video-without-the-branded-watermark/"><u>Ultimate Guide: How to Extract a TikTok Video Without the Branded Watermark</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-yuzus-true-potential-on-windows-pc/"><u>Unleash Yuzu's True Potential on Windows PC</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/videoleap-for-macbook-download-install-and-edit-like-a-pro/"><u>Videoleap for MacBook Download, Install, and Edit Like a Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-strategies-overcoming-fall-guys-connection-errors/"><u>Win Strategies: Overcoming Fall Guys Connection Errors</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,3 +174,25 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-direct-streams-from-obs-to-insta-profile/"><u>[New] 2024 Approved Direct Streams From OBS to Insta Profile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tech-bites-the-future-of-screen-capture-apps-for-2024/"><u>[New] Tech Bites The Future of Screen Capture Apps for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-trailblazers-in-virtual-reality-content-crafting/"><u>[Updated] Trailblazers in Virtual Reality Content Crafting</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-flashlight-free-photos-under-100-worth-it/"><u>2024'S Flashlight-Free Photos Under $100 Worth It?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-swift-steps-for-word-definition-finder/"><u>7 Swift Steps for Word Definition Finder</u></a></li>
+<li><a href="https://media-tips.techidaily.com/affordable-cross-platform-syncing-broadcast-audiovideo-content-from-iphones-and-ipads-to-macos-computers/"><u>Affordable Cross-Platform Syncing: Broadcast Audio/Video Content From iPhones & iPads to macOS Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edge-off-your-windows-11-desktop/"><u>Edge Off Your Windows 11 Desktop</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/effortlessly-download-your-favorite-videos-from-ellentv-as-high-quality-files-mp4-wmv-avi-flv-mov-using-our-exclusive-software/"><u>Effortlessly Download Your Favorite Videos From Ellentv as High-Quality Files (MP4, WMV, AVI, FLV, MOV) Using Our Exclusive Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-printer-settings-the-easy-way-in-win11-max-50-chars/"><u>Guide to Printer Settings: The Easy Way in Win11 (Max 50 Chars)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-3d-home-theaters-top-blu-ray-player-reviews-for-2024/"><u>Ideal 3D Home Theaters Top Blu-Ray Player Reviews for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-your-monitor-memorable-saving-windows-spotlight-photos-as-walls/"><u>Making Your Monitor Memorable: Saving Windows Spotlight Photos as Walls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-program-installation-on-windows-11/"><u>Mastering Program Installation on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202808950-microsoft-wireless-screen-projector-connectivity-woes-on-windows-10-heres-the-solution/"><u>Microsoft Wireless Screen Projector Connectivity Woes on Windows 10? Here's the Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-yellow-discoloration-in-windows-laptop-screens/"><u>Resolving Yellow Discoloration in Windows Laptop Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-writability-enabledisable-ntfs-compression/"><u>Unlocking Windows 11' Writability: Enable/Disable NTFS Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-stalled-google-nearby-share-on-pc/"><u>Unveiling Fixes for Stalled Google Nearby Share on PC</u></a></li>
+</ul></div>
+

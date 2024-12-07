@@ -1,7 +1,7 @@
 ---
 title: Removing Repetitive Microsoft Edge Symbols
-date: 2024-08-28T01:10:35.454Z
-updated: 2024-08-29T01:10:35.454Z
+date: 2024-11-29T16:19:51.772Z
+updated: 2024-12-06T19:38:43.907Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 4. Locate and select **Microsoft Edge** on the list. Right-click on it and select **Disabled** from the context menu.  
 ![Startup Apps in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Startup-Apps-in-Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Additionally, you should also [access the startup folder on your Windows PC](https://www.makeuseof.com/access-startup-folder-windows/) and delete any shortcuts labeled Microsoft Edge.
 
 ## 2\. Edit Registry Files
@@ -58,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
  Close the Registry Editor window and restart your PC. After that, check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Modify Group Policy Settings
 
  If the issue remains even after you edit registry files, you can try modifying the group policy settings.
@@ -77,13 +78,15 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 6. Select the **Disabled** option.  
 ![Microsoft Edge pre-launch policy selected in the Local Group Policy Editor Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Local-Group-Policy-Editor-Window.jpg)
 7. Hit Apply followed by **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Similarly, disable the **Allow Microsoft Edge to start and load the Start and New Tab page at Windows startup, and each time Microsoft Edge is closed** policy as well.
 
  Restart your PC one more time and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Remove Microsoft Edge as the Default Browser
 
  Another reason why the Microsoft Edge shortcut may keep showing up on your Windows desktop is if you have set it as the default browser.
@@ -93,12 +96,9 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
  If you need help picking a reliable browser, you can check out [the best browsers for Windows](https://www.makeuseof.com/windows-11-best-browsers/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Restrict Other Users From Creating Desktop Shortcuts
 
  If you share your computer with others, someone else may be creating shortcuts for Edge without your permission. If you don't want this to happen, you can use the Group Policy Editor to prevent other users from creating desktop shortcuts.
@@ -114,13 +114,11 @@ No advertising on the website.
 ![Using the Local Group Policy to Prevent Others From Changing Desktop Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Local-Group-Policy-to-Prevent-Others-From-Changing-Desktop-Icons.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And that's about it. Once you make the above changes, the other users won't be able to create, modify, or delete your desktop icons.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Review Scheduled Tasks
 
  It is possible that a scheduled task is causing Windows to create a desktop shortcut for Edge repeatedly. To check for this possibility, you need to review tasks in the Task Scheduler app.
@@ -134,6 +132,10 @@ No advertising on the website.
 5. Click the **Disable** option in the right pane.  
 ![An Automated task selected in the Task Scheduler window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Task-Scheduler-Window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Further, you can [restrict others from creating and running tasks in the Task Scheduler app](https://www.makeuseof.com/windows-block-task-manager/) by modifying the group policy settings or the registry files.
 
 ## 7\. Uninstall Microsoft Edge From Your PC
@@ -142,9 +144,6 @@ No advertising on the website.
 
  Use Command Prompt or PowerShell to [uninstall Microsoft Edge from your Windows computer](https://www.makeuseof.com/windows-11-uninstall-microsoft-edge/). Once you remove the browser, the issue should be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Prevent Microsoft Edge From Appearing on Your Desktop
 
  It can be confusing if Microsoft Edge’s shortcut keeps appearing on your desktop for no apparent reason. Hopefully, one of the above-mentioned fixes has helped fix the issue for good, and you are at peace.
@@ -153,11 +152,28 @@ No advertising on the website.
 
  Fortunately, there's no requirement to manually delete the Edge desktop shortcut repeatedly. Here are some helpful tips that should help resolve the issue in no time.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-direct-transfer-path-youtube-content-to-dailymotion-hub/"><u>[New] 2024 Approved Direct Transfer Path YouTube Content to Dailymotion Hub</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-sonys-game-console-enhance-auditory-experience/"><u>[Updated] Sony's Game Console Enhance Auditory Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-rhythm-of-the-skies-bebop-parrot-revisited-for-2024/"><u>[Updated] The Rhythm of the Skies Bebop Parrot Revisited for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-free-online-video-tools-for-all/"><u>[Updated] The Ultimate Guide to Free Online Video Tools for All</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unleash-your-potential-with-these-elite-12-vlogger-friendly-cameras/"><u>[Updated] Unleash Your Potential with These Elite 12 Vlogger-Friendly Cameras</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721444549080-facing-delayed-shutdown-on-your-iphone-screen-heres-what-you-can-do/"><u>Facing Delayed Shutdown on Your iPhone Screen? Here's What You Can Do</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-this-file-does-not-have-an-app-associated-with-it-error-on-windows/"><u>How to Fix the “This File Does Not Have an App Associated With It” Error on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-14-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi 14 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-secret-commands-into-windows-interface/"><u>Integrating Secret Commands Into Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-momentum-essential-productivity-tools-for-windows-11/"><u>Masterful Momentum: Essential Productivity Tools for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-vpn-troubleshooting-procedures/"><u>Navigating Windows VPN Troubleshooting Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-attached-file-program-issue-win-1011/"><u>Tackling Non-Attached File Program Issue (Win 10/11)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweeting-videos-directly-from-your-phone-no-rt/"><u>Tweeting Videos Directly From Your Phone (No RT)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-makes-the-feb2023-win11-update-stand-out/"><u>What Makes The Feb2023 Win11 Update Stand Out?</u></a></li>
+</ul></div>
+

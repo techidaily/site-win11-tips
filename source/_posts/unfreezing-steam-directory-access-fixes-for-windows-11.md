@@ -1,7 +1,7 @@
 ---
 title: "Unfreezing Steam Directory Access: Fixes for Windows 11"
-date: 2024-08-28T01:13:40.506Z
-updated: 2024-08-29T01:13:40.506Z
+date: 2024-12-02T18:02:07.784Z
+updated: 2024-12-07T00:42:21.297Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,11 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 4. Navigate to the **Attributes** section and uncheck the **Read-only** option.  
 ![Change the Steam Folder Attributes-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-the-steam-folder-attributes-1.jpg)
 5. Click on the **Apply** button and then click on the **OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Closethe File Explorer window and reopenthe Steam client.
 7. Try to install the game and check if the error appears or not.
 
@@ -56,14 +61,8 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 7. Click on the **Full Control** checkbox to grant all the permissions for your user profile.  
 ![Grant Full Ownership of the Steam Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/grant-full-ownership-of-the-steam-folder-1.jpg)
 8. Now, click on the **Apply** button.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 9. Lastly, click on the **OK** button and then close the Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Repair the Steam Library Folder
 
  Steam offers the option to repair the Steam library folders to fix issues with it. Here’s how to repair the folder using the Steam app:
@@ -74,11 +73,13 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 4. Click on the **horizontal ellipsis** (three dots) button. Select the **Repair folder** option.  
 ![Repair the Steam Library Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-the-steam-library-folder-1.jpg)
 5. The User Account Control window will pop up. Click on the **Yes** button.
-6. After the repair completes, click on the **Close** button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. After the repair completes, click on the **Close** button.
+
 ## 5\. Re-Add the Steam Library Folder
 
  If you still face the “Steam library folder not writable” error, you must remove and re-add the Steam library folder using the Storage settings. Repeat the following steps:
@@ -90,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 5. Now, click on the **plus** icon. Select the folder location and click on the **Add** button.
 6. Close and relaunch Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Flush the Steam Download Cache
 
  An outdated or corrupt download cache can cause interference while installing games or updating the Steam client. So, you must empty the Steam download cache using the settings. Repeat the following steps to do so:
@@ -103,11 +101,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 4. Find the **Clear Download Cache** option in the right pane. Click on the **Clear Cache** button.  
 ![Flush the Download Cache-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flush-the-download-cache-1.jpg)
 5. Steam will reconfirm your decision to clear the cache. Click on the **Confirm** button.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 6. The app will restart after purging the download cache. You will have to sign in again to your Steam account.
 
 ## 7\. Run a Check Disk Scan
@@ -115,8 +108,9 @@ The powerful video editing program for your Windows PC</a>
  Hard Disk errors can be a reason due to which Steam is unable to add or modify files. You can [use the Check Disk utility in Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) to check your hard disk for errors and fix them. The Check Disk utility will scan the hard disk for errors and repair them, if possible.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall the Game on Another Drive
 
  If you are unable to install the game on the C drive, you must add another drive in the Steam Storage settings. Then, attempt the game installation in the newly added drive. Here’s how to do it:
@@ -127,6 +121,10 @@ The powerful video editing program for your Windows PC</a>
 4. Click on the **plus** icon. Expand the drop-down list and select a drive.  
 ![Reinstall the Game on Another Drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reinstall-the-game-on-another-drive-1.jpg)
 5. Now, click on the **Add** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Format the Disk and Try Again
 
@@ -139,6 +137,11 @@ The powerful video editing program for your Windows PC</a>
 3. Click on the **Change** button.  
 ![Format the Disk And Try Again-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-1.jpg)
 4. Expand the drop-down list and select a new drive letter. Click on the **OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now, right-click on the disk drive and select the **Format** option.
 6. Keep the **File System** as **NTFS** and click on the **OK** button.  
 ![Format the Disk And Try Again 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-2-1.jpg)
@@ -146,17 +149,14 @@ The powerful video editing program for your Windows PC</a>
 8. **Close** the Disk Management utility.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your Steam Library Folder Writable Again on Windows
 
  These were the methods to fix the “Steam library folder not writable” error. Start by changing the file attributes and relaunching the Steam app with administrator rights. After that, repair the Steam library folder, flush the download cache, and run a check disk scan to fix disk errors.
 
  If you face the same predicament, don’t fret. Let's explore multiple methods to resolve this annoying error code and help you successfully install your games on Steam again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -164,3 +164,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-transforming-traditional-markets-with-virtual-engineering/"><u>[New] Transforming Traditional Markets with Virtual Engineering</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-sluggish-to-speedy-select-android-tools/"><u>[Updated] In 2024, From Sluggish to Speedy Select Android Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-rapid-growth-on-youtube-harnessing-the-potential-of-outros/"><u>[Updated] In 2024, Rapid Growth on YouTube Harnessing the Potential of Outros</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-cinematography-on-youtube/"><u>[Updated] The Ultimate Guide to Cinematography on YouTube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/anticipating-fps-stuttering-problems-during-cod-modern-warfare-3-gameplay-this-year/"><u>Anticipating FPS Stuttering Problems During COD: Modern Warfare 3 Gameplay This Year</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/audio-enthusiasts-guide-to-premier-9-mic-devices-for-2024/"><u>Audio Enthusiasts Guide to Premier 9 Mic Devices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-microsofts-smartscreen-feature/"><u>Configuring Microsoft's SmartScreen Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dethroning-chatgpt-next-big-wave-of-bots/"><u>Dethroning ChatGPT: Next Big Wave of Bots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-10-spacebar-malfunction-problems/"><u>Diagnosing and Solving Windows 10 Spacebar Malfunction Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-your-fileshare-needs-the-best-tools-for-winpc-users/"><u>Navigating Your Fileshare Needs: The Best Tools for WinPC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-opens-winxps-folder-dilemma-on-double-click/"><u>Overcoming Non-Opens: WinXP's Folder Dilemma on Double-Click</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-tech-setup-downloading-and-deploying-msix-extensions/"><u>Streamline Your Tech Setup: Downloading & Deploying MSIX Extensions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-x8b-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor X8b Phone Network-Ready</u></a></li>
+</ul></div>
+

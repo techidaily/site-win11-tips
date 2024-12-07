@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Window's 11 Search Bar Glitches with 11 Fixes
-date: 2024-08-28T01:13:13.224Z
-updated: 2024-08-29T01:13:13.224Z
+date: 2024-12-02T21:18:27.988Z
+updated: 2024-12-06T21:31:04.247Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,15 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ![enable windows search from settings on windows 11 to get it working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-search-bar-not-working-enabled.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that the search bar doesn't appear as a bar on Windows 11 like it does on Windows 10\. It appears as a button with a search icon next to the Windows button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart Your PC
 
@@ -57,12 +65,12 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ![clicking on the install now button to install windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-update-search-bar-fix.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, wait until the app finishes installing the updates, and then see if you're still facing any problems on your Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 4\. Restart Windows Search Bar Process
 
  The search bar process is suspended in the background when you're not using the Windows search bar. When you try to type in the search bar, the process activates automatically. However, if it glitches out for some reason, your search bar will not work.
@@ -71,11 +79,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![ending the searchhost.exe process from task manager to restart the process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/searchhost-end-task.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've ended the task, click on the search button in the Windows 11 taskbar (the magnifying glass). Hopefully, it should work now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Restart the Windows Search Service
 
  If your Windows search bar still doesn't work, restarting the Windows Search service may fix the issue. Follow these steps to continue:
@@ -88,14 +97,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![restarting the windows search bar service by clicking stop button and then start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/restart-windows-search-bar-service.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Try using the search bar now and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Rebuild the Windows Search Index
 
  Windows 11 relies on a search index for quickly delivering results to your search queries. However, if there's a problem with the index, the Windows search bar may stop working.
@@ -113,9 +123,6 @@ The ultimate burning program for all your needs!</a>
 
 ![rebuilding the search index by clicking on the rebuild button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/rebuild-index-windows-search.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Once the index is rebuilt, hopefully, the Windows search bar will start working.
@@ -148,8 +155,9 @@ Close
 ![resetting cortana](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/cortana-reset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Reset Windows Search Using Windows PowerShell
 
  If you're running Windows 10 version 1903 (May 2019 update) or later, you can try resetting the Windows search using PowerShell.
@@ -158,9 +166,6 @@ Close
 
 ![error in powershell regarding running scripts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/running-scripts-disabled.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  When PowerShell opens, you'll probably see an error that says running scripts is disabled on this system. If you do, execute the following command:
 
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
@@ -189,14 +194,8 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
 ![executing the cmd commands to restart the search service on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Now that you've reset the service, go ahead and check if the search bar is working normally.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 11\. Reset Windows
 
 [Resetting your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) should be your last resort to fix the Windows search bar. And as a last resort, it's a handy way to reset your Windows and make it as good as new.
@@ -208,8 +207,9 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
  You'll now be asked if you want to remove all files or keep them. If you want your Windows in mint condition, select the **Remove everything** option. Otherwise, select the **Keep my files** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Did You Fix the Windows Search Not Working Issue?
 
  Windows 11 is a nice visual upgrade. And it doesn't make sense to go back to Windows 10 for something as menial as the Windows search bar not working.
@@ -218,11 +218,27 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
  When the Windows search bar doesn't work as it should, it can be a result of several things. But before you troubleshoot the Windows 11 search bar not working fiasco, let's see if it's enabled in your Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-perfected-approaches-to-capturing-remote-training-sessions/"><u>[New] 2024 Approved Perfected Approaches to Capturing Remote Training Sessions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-transcoding-vimeo-to-mp3-audio-file/"><u>[New] 2024 Approved Transcoding Vimeo to MP3 Audio File</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-precision-editing-for-professionalism-adding-chapter-breakpoints-on-youtube/"><u>[New] In 2024, Precision Editing for Professionalism Adding Chapter Breakpoints on YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/peedy-guide-crafting-images-into-stellar-youtube-thumbnail-pics-for-2024/"><u>[New] Speedy Guide Crafting Images Into Stellar YouTube Thumbnail Pics for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-giggles-galore-an-in-depth-look-at-the-goofy-film-for-2024/"><u>[Updated] 'Giggles Galore' – An In-Depth Look at The Goofy Film for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-youtubers-edge-the-ultimate-guide-to-apps-for-short-form-edits/"><u>2024 Approved Youtubers' Edge The Ultimate Guide to Apps for Short Form Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-this-file-does-not-have-an-app-associated-with-it-error-on-windows/"><u>How to Fix the “This File Does Not Have an App Associated With It” Error on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-secret-commands-into-windows-interface/"><u>Integrating Secret Commands Into Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-vpn-troubleshooting-procedures/"><u>Navigating Windows VPN Troubleshooting Procedures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-guide-installing-the-latest-broadcom-ethernet-driver-on-windows-11/"><u>Solution Guide: Installing the Latest Broadcom Ethernet Driver on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-embedding-old-apps-into-the-latest-windows-11/"><u>The Ultimate Guide: Embedding Old Apps Into the Latest Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-makes-the-feb2023-win11-update-stand-out/"><u>What Makes The Feb2023 Win11 Update Stand Out?</u></a></li>
+</ul></div>
+

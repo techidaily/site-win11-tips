@@ -1,7 +1,7 @@
 ---
 title: "Fix Crashes: Maintaining Stability of Windows Epic Launcher"
-date: 2024-11-24T18:15:54.590Z
-updated: 2024-11-27T18:04:36.726Z
+date: 2024-12-02T01:50:17.205Z
+updated: 2024-12-06T17:53:42.685Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Close the Epic Games Launcher Completely and Reopen It
 
  The Epic Games Launcher may freeze on your Windows PC due to malfunctioning or unresponsive app processes. In most cases, you can resolve the issue by closing the Epic Games Launcher completely and then reopening it. Hence, it's the first thing you should try.
@@ -39,14 +35,10 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 ![Close Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/close-epic-games-launcher.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Reopen the Epic Games Launcher and try using it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run Epic Games Launcher as an Administrator
 
@@ -62,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
  If there’s an issue with the servers, you have no option but to wait for the company to resolve the problem on its end. Following that, you should be able to use Epic Games Launcher as before.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Check for App Updates
 
  Using an outdated version of Epic Games Launcher can also cause it to crash or freeze on Windows. Hence, it’s a good idea to update the Epic Games Launcher if you haven’t already. Here are the steps for the same.
@@ -76,7 +64,11 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable Fullscreen Optimizations
@@ -89,6 +81,14 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 4. Clear the **Disable fullscreen optimizations** checkbox.
 5. Hit **Apply** followed by **OK**.  
 ![Disable Fullscreen Optimizations for Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-fullscreen-optimizations-for-epic-games-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Clear the Epic Games Launcher’s Webcache Folder
 
@@ -104,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 6. Click the **trash icon** at the top to delete them.  
 ![Delete Epic Games Launcher Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-epic-games-launcher-cache.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Fix the D3DCOMPILER\_43.dll File
 
  Do you see the D3DCOMPILER\_43.dll error when Epic Games Launcher crashes on Windows? If so, the D3DCOMPILER\_43.dll file on your PC may be corrupt or missing. Here's what you can do to fix it.
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 3. Locate the **D3DCOMPILER\_43** file and delete it.
 4. Head to [Microsoft’s website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the DirectX End-User Runtime Web Installer.  
 ![Delete the D3DCOMPILER_43.dll File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-the-d3dcompiler_43-dll-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
 
@@ -153,23 +153,6 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
  If you are facing a similar issue, this guide contains some troubleshooting tips that will help.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-syma-x5c-a-beginners-prime-drone-choice/"><u>[Updated] Unveiling the Syma X5C A Beginner’s Prime Drone Choice</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-5-filters-elevating-submerged-cinematography/"><u>2024 Approved Prime 5 Filters Elevating Submerged Cinematography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-11s-camera-app-failures-effortlessly/"><u>Correcting Windows 11'S Camera App Failures Effortlessly</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-paper-bootstrap-admin-design-template-featuring-angular-crafted-by-creative-tim/"><u>Free 'Paper' Bootstrap Admin Design Template Featuring Angular, Crafted by Creative Tim</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-always-open-the-windows-terminal-as-administrator-on-windows/"><u>How to Always Open the Windows Terminal as Administrator on Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/maximizing-tweet-control-15-premier-unfollow-utilities/"><u>Maximizing Tweet Control 15 Premier Unfollow Utilities</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728501419811-pc7/"><u>PCやスマートフォンで削除された写真を元に戻す手順7つ</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-lost-dll-windows-guide-to-mfc71u/"><u>Reinstating Lost DLL: Windows Guide to Mfc71u</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-speech-recognition-failed-windows-issue/"><u>Resolving 'Speech Recognition Failed' Windows Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealthy-techniques-for-obscuring-language-indicator-win11/"><u>Stealthy Techniques for Obscuring Language Indicator, Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-the-windowsbt-folder-and-can-you-delete-it/"><u>What Is the $Windows.~BT Folder, and Can You Delete It?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,3 +160,23 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-best-text-effects-of-psd-for-2024/"><u>[New] Best Text Effects of PSD for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-visualizing-stories-building-animation-sets-with-movie-maker/"><u>[Updated] Visualizing Stories Building Animation Sets with Movie Maker</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/como-guardar-tu-foto-de-rescate-con-excelencia-en-windows-11-tutorial-completo/"><u>Cómo Guardar Tu Foto De Rescate Con Excelencia en Windows 11 - Tutorial Completo</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/engaging-audiences-how-tos-for-effective-youtube-logo-creation-for-2024/"><u>Engaging Audiences How-To's for Effective YouTube Logo Creation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insights-into-the-art-of-running-ping-on-pcs/"><u>Expert Insights Into the Art of Running Ping on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-capture-failures-on-low-end-pc-systems/"><u>Fixing Capture Failures on Low-End PC Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-aesthetics-with-autocolor-settings-on-your-windows-devices/"><u>Improve Aesthetics with AutoColor Settings on Your Windows Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-understanding-and-controlling-facebook-video-playback/"><u>In 2024, Understanding and Controlling Facebook Video Playback</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-tp-link-av2000-top-notch-speed-yet-lacks-in-style-and-functionality/"><u>In-Depth Analysis of the TP-Link AV2000: Top-Notch Speed Yet Lacks in Style and Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-no-permission-error-in-windows-oses/"><u>Overcoming the No Permission Error in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-control-revoking-advanced-users-on-windows-11/"><u>Reclaiming Control: Revoking Advanced Users on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-wsl-register-failure-with-error-code-0x80370102/"><u>Resolving WSL Register Failure with Error Code 0X80370102</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-customized-gpt-solutions-by-openai/"><u>Step Into the Future: Customized GPT Solutions by OpenAI</u></a></li>
+<li><a href="https://fox-info.techidaily.com/teaching-through-media-pro-video-editing-hacks/"><u>Teaching Through Media Pro Video Editing Hacks</u></a></li>
+</ul></div>
+

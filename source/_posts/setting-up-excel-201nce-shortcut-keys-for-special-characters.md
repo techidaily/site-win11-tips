@@ -1,7 +1,7 @@
 ---
 title: Setting Up Excel 201Nce Shortcut Keys for Special Characters
-date: 2024-08-28T01:08:01.149Z
-updated: 2024-08-29T01:08:01.149Z
+date: 2024-12-01T21:04:50.266Z
+updated: 2024-12-06T23:26:06.796Z
 tags:
   - excel
 categories:
@@ -75,8 +75,6 @@ We’ve previously shown you how to [add keyboard shortcuts to symbols in Word 2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +82,30 @@ We’ve previously shown you how to [add keyboard shortcuts to symbols in Word 2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-superior-3d-tools-for-animated-designers/"><u>[New] In 2024, Superior 3D Tools for Animated Designers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-turning-onoff-picture-in-picture-for-maciosipad/"><u>[New] Turning On/Off Picture-in-Picture for Mac/iOS/iPad</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-5-ps1-emulation-tools-for-modern-pcs/"><u>[Updated] In 2024, Ultimate 5 PS1 Emulation Tools for Modern PCs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-podcast-vs-youtube-the-battle-of-audio-and-visual-media-for-2024/"><u>[Updated] Podcast vs YouTube The Battle of Audio and Visual Media for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-scripts-to-screens-your-ultimate-youtube-production-plan/"><u>2024 Approved From Scripts to Screens Your Ultimate YouTube Production Plan</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essentials-understanding-whatsapp-calls/"><u>2024 Approved The Essentials Understanding WhatsApp Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decipher-the-riddle-of-windows-subsystem-for-linux-error-code-4294967295/"><u>Decipher the Riddle of Windows Subsystem for Linux Error Code: 4294967295</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-policy-management-on-windows-systems/"><u>Decoding Policy Management on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-hardware-duplication-no-software-needed/"><u>Easy Hardware Duplication - No Software Needed</u></a></li>
+<li><a href="https://techidaily.com/enhanced-user-experience-with-automated-tracking-powered-by-cookiebot/"><u>Enhanced User Experience with Automated Tracking: Powered by Cookiebot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tune-your-lockscreen-activate-or-deactivate-images/"><u>Fine-Tune Your Lockscreen: Activate or Deactivate Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-programming-microsoft-office-apps-for-exclusive-read-only-display-mode/"><u>Guide to Programming Microsoft Office Apps For Exclusive Read-Only Display Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-13t-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi 13T Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightning-fast-compilation-in-android-studio-made-for-windows/"><u>Lightning-Fast Compilation in Android Studio, Made for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-11-the-essence-of-copilot-key/"><u>Navigating Through Windows 11: The Essence of Copilot Key</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-blank-pages-on-epson/"><u>No More Blank Pages on Epson</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-the-perfect-screen-saver-for-win11/"><u>Selecting the Perfect Screen Saver for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-automatic-shutdown-for-idle-systems/"><u>The Ultimate Guide to Automatic Shutdown for Idle Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-fixing-missing-or-corrupted-btballoondll-errors/"><u>Troubleshooting Steps for Fixing Missing or Corrupted btballoon.dll Errors</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

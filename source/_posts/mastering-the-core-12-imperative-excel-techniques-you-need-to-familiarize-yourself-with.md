@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Core: 12 Imperative Excel Techniques You Need to Familiarize Yourself With"
-date: 2024-08-28T01:08:59.629Z
-updated: 2024-08-29T01:08:59.629Z
+date: 2024-12-03T01:16:27.851Z
+updated: 2024-12-06T16:32:59.041Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 ---
 
 ## Mastering the Core: 12 Imperative Excel Techniques You Need to Familiarize Yourself With
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 * [Count the Number of Characters in a String: LEN](https://games-able.techidaily.com/top-10-choices-expert-reviews-on-xbox-recording-tech/)
 
  Microsoft Excel contains many functions that allow you to perform tasks without a calculator or extra work. But if you're unfamiliar with formulas, it can feel intimidating. Here, we've listed 12 simple but [useful Excel functions](https://some-techniques.techidaily.com/new-exploring-whatsapp-voice-chat-features/) to get you started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Add Numbers in Cells: SUM
 
@@ -46,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 ![SUM function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/SUM-ExcelBasicFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Average Numbers in Cells: AVERAGE
 
 [Averaging](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) a group of numbers is another common mathematical function.
@@ -60,11 +72,12 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 ![AVERAGE function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/AVERAGE-ExcelBasicFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Calculate a Weighted Average in Excel](https://instagram-clips.techidaily.com/get-1k-followers-every-month-on-instagram-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  3\. Find the High or Low Value: MIN and MAX
 
  When you need to find the minimum or maximum value in a range of cells, you use the MIN and MAX functions.
@@ -84,8 +97,9 @@ Related: [How to Calculate a Weighted Average in Excel](https://instagram-clips.
 ![MIN and MAX functions in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/MINMAX-ExcelBasicFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  4\. Find the Middle Value: MEDIAN
 
  Instead of the minimum or maximum value, you may want the middle one.
@@ -99,6 +113,10 @@ Related: [How to Calculate a Weighted Average in Excel](https://instagram-clips.
  You'll then see the middle number of your cell range.
 
 ![MEDIAN function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/MEDIAN-ExcelBasicFunctions.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Count Cells Containing Numbers: COUNT
 
@@ -114,9 +132,6 @@ Related: [How to Calculate a Weighted Average in Excel](https://instagram-clips.
 
 ![COUNT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/COUNT-ExcelBasicFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
 ##  6\. Insert the Current Date and Time: NOW
@@ -138,11 +153,9 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 ![NOW function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/NOW-ExcelBasicFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  7\. Round to a Certain Number of Digits: ROUND
 
  If you have decimal numbers in your sheet that you want to round up or down, use the [ROUND function](https://instagram-clips.techidaily.com/2024-approved-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/) in Excel.
@@ -157,9 +170,6 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![ROUND function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ROUND-ExcelBasicFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  8\. Truncate a Number by Removing the Fraction: TRUNC
 
  Maybe you'd prefer to truncate a number rather than round it. Using the [TRUNC function](https://windows11.techidaily.com/balancing-cpu-and-memory-use-after-news-downloads/), you can remove the fraction from the number.
@@ -174,12 +184,6 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![TRUNC function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/TRUNC-ExcelBasicFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ##  9\. Find the Product by Multiplying Cells: PRODUCT
 
  If you need to [multiply several cells](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/), using the PRODUCT function is more efficient than using the multiplication symbol (\*) in a formula.
@@ -196,9 +200,6 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ##  10\. Use the Reference Number of a Given Cell: COLUMN and ROW
 
  With the COLUMN and ROW functions in Excel, you can return the position number of a cell. These functions are useful for entering a series of reference numbers in your sheet, or [row numbers](https://howto.techidaily.com/play-store-not-working-on-motorola-razr-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/), for instance.
@@ -218,8 +219,9 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 ![ROW function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ROW-ExcelBasicFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  11\. Eliminate White Space: TRIM
 
  Oftentimes you when you paste or import data, it contains extra spaces. The [TRIM function](https://graphic-issues.techidaily.com/regaining-access-to-nvidia-writable-displays/) eliminates white space.
@@ -248,6 +250,10 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 
 ![LEN function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/LEN-ExcelBasicFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are many other useful functions in Excel such as [VLOOKUP for finding a value](https://extra-tips.techidaily.com/integrate-sound-and-sight-web-studio/) and [CONCATENATE for joining strings of text](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/). But this list of the basics should help you with simple tasks while becoming more familiar with using functions.
 
 <ins class="adsbygoogle"
@@ -256,8 +262,6 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,4 +269,22 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-transform-movie-colors-with-cg-centrals-luts-guide/"><u>[New] Transform Movie Colors with CG Central's Luts Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-efficient-image-hopping-android-to-iphone-process/"><u>[Updated] 2024 Approved Efficient Image Hopping Android to iPhone Process</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mpc-hc-high-quality-audio-and-video/"><u>[Updated] In 2024, MPC-HC High Quality Audio and Video</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-list-of-mac-screen-capture-software/"><u>[Updated] In 2024, The Ultimate List of Mac Screen Capture Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfecting-instagram-posts-tips-for-vertical-editing-in-final-cut-pro-x-for-2024/"><u>[Updated] Perfecting Instagram Posts Tips for Vertical Editing in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-c300-frp-by-drfone-android/"><u>How Can We Bypass Nokia C300 FRP?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-hide-a-drive-in-windows-1110/"><u>How to Hide a Drive in Windows 11/10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-15-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 15 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-se-2022-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone SE (2022) and iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-constant-techsign-in-issues-in-microsoft-teams/"><u>Navigating Constant TechSign In Issues in Microsoft Teams</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-shaky-videos-be-gone-10-free-online-stabilizers-to-try/"><u>New In 2024, Shaky Videos Be Gone! 10 Free Online Stabilizers to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-win11s-camera-not-recognized-problem/"><u>Resolving Win11's Camera Not Recognized Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-digital-world-insights-on-windows-11-changes/"><u>Revamping the Digital World: Insights on Windows 11 Changes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-frozen-context-items-on-windows-11-pc/"><u>Steps to Overcome Frozen Context Items on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-steam-file-sync-obstructions-in-windows-os/"><u>Unblocking Steam File Sync Obstructions in Windows OS</u></a></li>
+</ul></div>
 

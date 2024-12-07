@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Setting Up Custom Keyboard Shortcuts Near Power Button"
-date: 2024-11-20T17:36:50.246Z
-updated: 2024-11-27T17:48:07.689Z
+date: 2024-11-30T00:34:23.262Z
+updated: 2024-12-06T23:47:25.437Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding Shortcuts Next to Power Buttons
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
  However, you can only add specific icons beside the Power Button. They are**Settings** ,**File Explorer** ,**Documents** ,**Downloads** ,**Music** ,**Pictures** ,**Videos** ,**Network** , and**Personal folder** . Moreover, the small size of the Start menu itself can make things congested if you try and add all nine shortcuts at once. Other than this, the Start menu shortcut is a handy tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Shortcuts Next to Power Buttons on Windows 11
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 ![folders section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/folders-section.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As soon as you toggle on the switch, new icons of the respective folders will appear next to your Power button menu.
@@ -71,11 +71,11 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 ![windows 11 start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding Shortcuts Next to Power Buttons on Windows 11
@@ -97,18 +97,24 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-engaging-stories-expanding-audiences-top-three-methods-for-2024/"><u>[Updated] Engaging Stories, Expanding Audiences Top Three Methods for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-prime-recorder-devices-for-livestreaming-pros-on-youtube-for-2024/"><u>[Updated] Prime Recorder Devices for Livestreaming Pros on YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/custom-desktop-organization-stick-gmail-on-windows-edge/"><u>Custom Desktop Organization: Stick Gmail on Windows Edge</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-error-rebuild-failed-java-virtual-machine/"><u>Eliminate Error: Rebuild Failed Java Virtual Machine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unblock-and-redo-app-registrations-windows-11/"><u>How to Unblock and Redo App Registrations (Windows 11)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-the-art-of-fcp-freedom/"><u>In 2024, Mastering the Art of FCP Freedom</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975722589-latest-firmware-update-released-for-logitech-extreme-3d/"><u>Latest Firmware Update Released for Logitech Extreme 3D</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-window-management-utilizing-end-task-option-windows-11/"><u>Mastering the Art of Window Management: Utilizing End Task Option (Windows 11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reducing-resource-consumption-tips-for-edge-view2-process/"><u>Reducing Resource Consumption: Tips for Edge View2 Process</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-spark-10-4g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Spark 10 4G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-quick-fixes-keyboard-shortcuts-for-win-11-issues/"><u>Unlocking Quick Fixes: Keyboard Shortcuts for Win 11 Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-disk-varieties-via-windows-tools/"><u>Unveiling Disk Varieties via Windows Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/unveiling-the-world-of-gadgets-with-toms-hardware/"><u>Unveiling the World of Gadgets with Tom's Hardware</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-early-stage-youtube-wisdom-sidestep-these-8-common-mistakes/"><u>[New] 2024 Approved Early-Stage YouTube Wisdom Sidestep These 8 Common Mistakes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-laugh-outloud-a-curation-of-the-funniest-tiktok-videos-and-joke-threads/"><u>[New] 2024 Approved Laugh Outloud A Curation of the Funniest TikTok Videos and Joke Threads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-omnipresent-overture-the-virtual-cinema/"><u>[New] In 2024, Omnipresent Overture The Virtual Cinema</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-shut-down-instagram-suggestions/"><u>[Updated] Shut Down Instagram Suggestions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-resolving-non-operational-windows-programs/"><u>Deciphering and Resolving Non-Operational Windows Programs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easily-convert-your-3gpp-videos-into-common-formats-for-free-at-movavi/"><u>Easily Convert Your 3GPP Videos Into Common Formats for Free at Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-9-techniques-to-access-windows-11s-auditory-configuration/"><u>Explore 9 Techniques to Access Windows 11'S Auditory Configuration</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-updated-printer-drivers-now-download-for-hp-laserjet-p10n7/"><u>Get Updated Printer Drivers Now: Download for HP LaserJet P10n7</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-t2x-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo T2x 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-with-periscope-is-it-free-sign-up-process/"><u>In 2024, Getting Started with Periscope Is It Free? Sign-Up Process</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-transitioning-saved-snaps-from-social-networks-to-personal-archive/"><u>In 2024, Transitioning Saved Snaps From Social Networks to Personal Archive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-windows-cmd-as-superuser-mode/"><u>Initiating Windows CMD as Superuser Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-changing-microsoft-admin-credentials-in-win11/"><u>Navigating Through Changing Microsoft Admin Credentials in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-failed-steamuidll-loading-issue/"><u>Resolving Failed SteamUI.DLL Loading Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-methodology-for-placing-app-shortcuts-in-windows-11/"><u>Simplified Methodology for Placing App Shortcuts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-immediate-remedy-of-iomap64-freeze-in-winos/"><u>Strategies for Immediate Remedy of IOMap64 Freeze in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-blueprint-to-understanding-your-pc-report-crafting/"><u>The Blueprint to Understanding Your PC: Report Crafting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-windows-experience-with-taskbar-insights/"><u>Transform Your Windows Experience with Taskbar Insights</u></a></li>
 </ul></div>
 

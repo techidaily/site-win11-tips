@@ -1,7 +1,7 @@
 ---
 title: Essential Strategies to Address Memory Issues
-date: 2024-11-25T17:46:20.128Z
-updated: 2024-11-27T17:06:03.275Z
+date: 2024-12-02T23:08:51.979Z
+updated: 2024-12-06T16:53:01.103Z
 tags:
   - windows10
   - windows11
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Windows Memory Diagnostic Hardware Problems Were Detected Error?
 
  This error is often triggered after a blue screen of death (BSOD) or the system freezing issues. The reason for the error can vary and include faulty memory slots and memory sticks. It can also be a false positive due to a Windows OS glitch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check for Overclocking Issues
@@ -54,24 +58,16 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 ![run windows hardware troubleshooter command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-windows-hardware-troubleshooter-command-prompt.jpg)
 3. In the Command Prompt window, type the following command and press **Enter**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `msdt.exe -id DeviceDiagnostic`
 4. In the **Hardware and Devices** dialog, click **Next**. By default, the troubleshooter is set to apply any repairs available. To disable automatic repair, click **Advanced** and uncheck the **Apply repairs automatically** option.  
 ![hardware and devices troubleshooter windows 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hardware-and-devices-troubleshooter-windows-1.jpg)
 5. It will scan your computer for issues, which may take a few minutes. If an issue is detected, select to automatically apply the repair.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. If the suggested problem is unrelated to memory, you can skip it to see the next problem. The troubleshooter will detect additional issues. If an issue is found, apply the fixes and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Remove and Reinsert Your Memory Sticks
 
@@ -84,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
  If you determine a faulty RAM slot to have caused the issue, repairing it is tedious. First, RAM slots aren’t easily accessible like memory sticks. Second, to replace the slot, you’ll need to find a spare but compatible motherboard with working slots and then solder the connections onto your motherboard.
 
  If repairing the slots is not possible, your only option is a motherboard replacement. Depending on your system configuration, this can be an expensive solution. Or you can continue to use the system without utilizing the faulty memory slot, albeit with reduced performance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Test Your RAM with MemTest86+
 
@@ -104,10 +96,20 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 3. Run the installer and select your USB drive. Make sure to select the format option.  
 ![memtest86 plus create bootable usb drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-create-bootable-usb-drive.jpg)
 4. Click **Next** and wait for the installer to create a bootable drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, if you haven’t already, [disable Secure Boot on your Windows computer](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/).
 6. Next, power off your computer. You may also need to clear your motherboard CMOS to reset your BIOS to factory default settings. You can also [reset BIOS to its default configuration](https://www.makeuseof.com/tag/reset-bios-default-settings-computer/) from the BIOS menu.  
 ![memtest86 plus memory integrity test in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-memory-integrity-test-in-progress.png)
 7. Next, plug the Memtest86+ bootable USB drive into your computer and turn it on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Boot into the Boot Menu and select the bootable USB drive as the boot device. The hotkey key to enter the Boot Menu may vary depending on your computer manufacturer. You can press **F9** on an **HP** computer, **F12** on a **Dell** computer and so on to access the **Boot Menu**.
 9. Memtest86+ will automatically start the memory integrity check. Let Memtest86+ complete at least 2 passes; the more, the better. Press the **Esc** key to stop the test if there are no errors after multiple passes.
 
@@ -129,22 +131,6 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 
  This error can be a false positive. You can also confirm the same by using a third-party memory diagnostic tool. In case of a hardware issue, you may need to replace the memory stick or repair the memory slot, if possible.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-accelerated-editing-seamless-laptoppc-videos-with-inshot/"><u>[New] In 2024, Accelerated Editing Seamless Laptop/PC Videos with Inshot</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-methods-to-record-your-fb-live-events-for-2024/"><u>[Updated] Essential Methods to Record Your FB Live Events for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvd-kopie-auf-deinem-huawei-telefon-oder-tablet-verwenden-schritt-fur-schritt-prozess-erklart/"><u>DVD-Kopie Auf Deinem Huawei Telefon Oder Tablet Verwenden - Schritt-Für-Schritt-Prozess Erklärt</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-x90s-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo X90S FRP Locks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-4-unlocked-for-all-yet-6-chatgpt-plus-advantages-remain/"><u>GPT-4: Unlocked For All, Yet 6 ChatGPT Plus Advantages Remain.</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-comprehensive-review-of-non-google-augmented-reality-accessories/"><u>In 2024, Comprehensive Review of Non-Google Augmented Reality Accessories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-old-championship-manager-playwise-guide/"><u>Navigating Old Championship Manager, Playwise Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-apple-music-identifies-issues-in-your-sound-setup/"><u>Resolved: Apple Music Identifies Issues in Your Sound Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-implementing-a-non-reversible-bin-for-files-on-windows-11-and-11/"><u>The Ultimate Guide to Implementing a Non-Reversible Bin for Files on Windows 11 & 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-not-found-for-d3d9dll-in-windows-tips-and-solutions/"><u>Troubleshooting 'Not Found' For D3D9.dll in Windows - Tips & Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-windows-accessibility-tools-simple-way/"><u>Understanding Windows Accessibility Tools, Simple Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-os-1011-how-to-correct-non-registered-photo-packages/"><u>Win OS 10/11 – How to Correct Non-Registered Photo Packages</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -152,3 +138,23 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-unlocking-the-potential-crafting-top-tier-gopro-filming-for-2024/"><u>[New] Unlocking the Potential Crafting Top-Tier Gopro Filming for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-methods-for-capturing-system-sounds-on-pcs/"><u>[Updated] 2024 Approved Advanced Methods for Capturing System Sounds on PCs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-breakdown-of-youtubes-shorts-initiative/"><u>[Updated] 2024 Approved The Breakdown of YouTube's Shorts Initiative</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-spinning-tales-in-sound-your-ultimate-guide-to-podcast-scripts/"><u>[Updated] In 2024, Spinning Tales in Sound Your Ultimate Guide to Podcast Scripts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-evaluating-the-value-of-sns-hdr-in-a-crowded-market/"><u>2024 Approved Evaluating the Value of SNS HDR in a Crowded Market</u></a></li>
+<li><a href="https://extra-information.techidaily.com/authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/"><u>Authoritative Picks Top 10 Apps to Watch Football Games Anytime, Anywhere</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-how-to-bypass-windows-11-lock-screen/"><u>Deciphering How to Bypass Windows 11 Lock Screen</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effortless-professional-grade-sound-capture-with-ubuntus-top-audio-recording-tool/"><u>Effortless Professional-Grade Sound Capture with Ubuntu's Top Audio Recording Tool</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/examining-realities-intertwined-what-is-mixed-reality-for-2024/"><u>Examining Realities Intertwined What Is Mixed Reality for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-control-for-voice-only-windows-bluetooth/"><u>How to Enable Control for Voice-Only Windows Bluetooth</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>New In 2024, The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionary-possibilities-with-windows-11s-newest-moment/"><u>Revolutionary Possibilities with Windows 11'S Newest Moment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-setup-of-microsofts-defender-application-guard-in-win-11-edge/"><u>Stepwise Setup of Microsoft's Defender Application Guard in Win 11 Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-with-ease-windows-users-meet-kali/"><u>Transitioning with Ease: Windows Users, Meet Kali</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-runtime-brokers-influence-on-pc-performance/"><u>Unveiling Runtime Broker's Influence on PC Performance</u></a></li>
+</ul></div>
+

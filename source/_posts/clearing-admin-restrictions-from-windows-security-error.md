@@ -1,7 +1,7 @@
 ---
 title: Clearing Admin Restrictions From Windows Security Error
-date: 2024-08-28T01:10:10.855Z
-updated: 2024-08-29T01:10:10.855Z
+date: 2024-12-02T22:53:01.302Z
+updated: 2024-12-06T23:21:40.306Z
 tags:
   - windows10
   - windows11
@@ -26,11 +26,19 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Uninstall Third-Party Security Software
 
  Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove Any Work or School Accounts
 
@@ -41,13 +49,11 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 3. Click a connected work or school account to expand it.  
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 4. Press the**Disconnect** button and select**Yes** .
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable the Turn Off Microsoft Defender Antivirus Policy
 
  Some Windows Pro and Enterprise users have confirmed they’ve fixed the “Page not available” error by disabling a**Turn off Microsoft Defender Antivirus** policy. So, check that policy setting even if you can’t recall changing it yourself. This is how you can check and disable the**Turn Off Microsoft Defender Antivirus** Group Policy setting in Windows Pro and Enterprise:
@@ -61,15 +67,14 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 1. Click**Microsoft Defender Antivirus** to select that policy.  
 ![Microsoft Defender Antivirus settings in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-defender-antivirus-settings.jpg)
 2. Then double-click**Turn off Microsoft Defender Antivirus** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click**Disabled** if the**Turn off Microsoft Defender Antivirus** policy is enabled.  
 ![The Turn off Microsoft Defender Antivirus window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-turn-off-microsoft-defender-antivirus-window.jpg)
 4. Select the policy’s**Apply** and**OK** options.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 5. Double-click**Allow antimalware to startup with normal priority** and select to disable that policy as outlined in the previous two steps as well.  
 ![The Allow antimalware service to startup with normal priority window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-antimalware-service-window.jpg)
 6. Next, click**Client Interface** within the Microsoft Defender Antivirus settings.  
@@ -89,13 +94,11 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 `set-MpPreference -UILockdown`  
 ![The set-Mppreference PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-set-mppreference-command.jpg)
 5. Exit PowerShell and open Windows Security again to see if the error persists.
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Repair/Reset Windows Security
 
  Windows Security is a UWP app for which you can select**Repair** and**Reset** Settings options that can resolve various issues. Those options are there to help users fix apps that aren’t working right. So, try selecting Windows Security’s**Repair** and**Reset** options to see if they make any difference.
@@ -103,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button.jpg)
 
  Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Modify the Registry via Command Prompt
 
@@ -135,10 +142,6 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 4. Input**exit** in the Command Prompt to close the app.  
 ![The reg delete command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reg-delete.jpg)
 5. Open the Start menu, select**Power** , and press the**Restart** button.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 ## 8\. Perform a System Restore
 
@@ -146,11 +149,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-resotre-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Utilizing Windows Security Again
 
@@ -162,8 +165,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +172,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-farming-to-the-next-level-stardews-leading-mods-listed/"><u>[New] Farming to the Next Level Stardew's Leading Mods Listed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-seamless-social-media-posts-from-phone-to-instagram/"><u>[New] Seamless Social Media Posts From Phone to Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-execution-crafting-shortcuts-in-windows-11-uwp/"><u>Efficient Execution: Crafting Shortcuts in Windows 11 (UWP)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-recycle-bin-malfunctions-in-win-11/"><u>Eradicating Recycle Bin Malfunctions in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-considerations-why-you-should-think-twice-about-relying-on-chatgpt-for-emotional-support/"><u>Essential Considerations: Why You Should Think Twice About Relying on ChatGPT for Emotional Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-isdonedll-failures-in-windows-11-and-11x/"><u>How to Rectify ISDone.dll Failures in Windows 11 and 11X</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/imovie-masterclass-drawing-viewers-into-your-content-quickly-for-2024/"><u>IMovie Masterclass Drawing Viewers Into Your Content Quickly for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-algorithm-changes-shape-your-youtube-visibility/"><u>In 2024, How Algorithm Changes Shape Your YouTube Visibility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/migrar-archivos-de-mpeg-4-a-formato-avi-online-sin-coste-adicional-guia-paso-a-paso-con-movavi/"><u>Migrar Archivos De MPEG-4 a Formato AVI Online Sin Coste Adicional: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-0x80070141-device-unreachability-issue/"><u>Overcoming Windows 0X80070141 Device Unreachability Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-resolution-excising-unwanted-apps-in-win11/"><u>Rapid Resolution: Excising Unwanted Apps in Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/rapid-video-grabber-and-audible-guide-system/"><u>Rapid Video Grabber & Audible Guide System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-your-elgato-hd60-driver-problems-in-minutes/"><u>Solving Your Elgato HD60 Driver Problems in Minutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathfinders-guide-crafting-intelligent-folder-labels-on-windows-11/"><u>The Pathfinder's Guide: Crafting Intelligent Folder Labels on Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unboxing-unveiled-enhancing-customer-experiences-for-2024/"><u>Unboxing Unveiled Enhancing Customer Experiences for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unsignatured-drivers-on-windows-how-to-bypass-sie/"><u>Unsignatured Drivers on Windows: How to Bypass SIE</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>Updated 2024 Approved A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
+</ul></div>
 

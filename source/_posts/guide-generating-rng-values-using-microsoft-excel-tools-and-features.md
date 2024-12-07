@@ -1,7 +1,7 @@
 ---
 title: "Guide: Generating RNG Values Using Microsoft Excel Tools and Features"
-date: 2024-08-28T01:08:58.459Z
-updated: 2024-08-29T01:08:58.459Z
+date: 2024-12-03T20:49:53.207Z
+updated: 2024-12-06T22:49:02.728Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
 ---
 
 ## Guide: Generating RNG Values Using Microsoft Excel Tools and Features
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,15 +28,16 @@ Related: [How to Generate Random Numbers in Google Sheets](https://win-solutions
 
  With an add-in from Microsoft called [Analysis ToolPak](https://support.microsoft.com/en-us/office/use-the-analysis-toolpak-to-perform-complex-data-analysis-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6?ns=excel&version=90&syslcid=1033&uilcid=1033&appver=zxl900&helpid=xladdin.chm1780&ui=en-us&rs=en-us&ad=us), you can perform many statistical and engineering operations such as [finding a moving average](https://video-capture.techidaily.com/in-2024-budget-friendly-obs-configuration-guide/). Another feature of the tool is a random number generator.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Add the Analysis ToolPak
 
  To see if you already have the add-in, go to the Data tab and the Analysis section of the ribbon. Look for the Data Analysis button. If you have the button, you can skip down to using the tool.
 
 ![Go to Data, Data Analysis](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DataAnalysis-ExcelRandomNumbers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don't see the button, you can add it easily. Go to File > Options and select "Add-ins" on the left. At the bottom of the window, go to Manage and pick "Excel Add-ins." Click "Go."
 
 ![Select Add-ins, Manage Excel Add-ins](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/OptionsExcelAddIns-ExcelRandomNumbers.png) 
@@ -47,40 +52,40 @@ Related: [How to Generate Random Numbers in Google Sheets](https://win-solutions
 
 ![Select Random Number Generation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/RandomNumberGeneration-ExcelRandomNumbers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Starting at the top of the window, enter the number of columns you want to fill using the Number of Variables box. Then, enter the number of rows in the Number of Random Numbers box.
 
 ![Add the number of columns and rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/GenerationColumnsRows-ExcelRandomNumbers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  This generator is advanced in that you can select the distribution you want to use from options like Bernoulli, Binomial, Patterned, and Discrete. Once you select the Distribution from the drop-down list, the Parameters section will update with the necessary information for you to complete.
 
 ![Pick a Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/GenerationDistribution-ExcelRandomNumbers.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Random Seed field, you can enter a starting number (up to 9999) for the generator to use if you like. Then, choose one of the Output Options for where you want your random numbers to display.
 
 ![Add a Seed and pick the Output](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/GenerationSeedOutput-ExcelRandomNumbers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "OK" when you're ready and you'll receive your numbers.
 
 ![Random numbers generated](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/RandomNumbersGenerated-ExcelRandomNumbers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use the Random Number Functions in Excel
 
  Another option for generating random numbers in Excel is using a function. There are three [functions you can use](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/). Each time you recalculate or reopen the workbook, a new random number will be generated with these functions. They don't offer as many options as the Random Number Generator tool, but they're simpler to use.
 
 Related: [How to Find the Function You Need in Microsoft Excel](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ###  The RAND Function
 
  With the 
@@ -101,18 +106,16 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![RAND function for less than 500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/RAND500-ExcelRandomNumbers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For a random whole number greater than or equal to zero and less than 500, enter the following and press Enter:
 
 =INT(RAND()*500)
 
 ![Whole number less than 500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/RANDINT500-ExcelRandomNumbers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ###  The RANDBETWEEN Function
 
  Maybe you want to generate a number that's between two specific numbers. In this case, you'd use the [RANDBETWEEN function](https://android-location-track.techidaily.com/how-to-track-honor-x9b-location-without-installing-software-drfone-by-drfone-virtual-android/).
@@ -129,11 +132,12 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![RANDBETWEEN with negative number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/RANDBETWEENNegative-ExcelRandomNumbers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Create Random (Fake) Datasets in Microsoft Excel](https://android-location-track.techidaily.com/how-to-track-honor-x9b-location-without-installing-software-drfone-by-drfone-virtual-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ###  The RANDARRAY Function
 
  For [Microsoft 365](https://www.reviewgeek.com/72454/microsoft-office-vs-microsoft-365-which-one-should-you-buy/) subscribers, the `RANDARRAY` function provides a set of random numbers. You can choose the number of rows and columns to fill with numbers. You can also select minimum and maximum values and specify whole numbers or decimals.
@@ -146,24 +150,22 @@ Related: [How to Create Random (Fake) Datasets in Microsoft Excel](https://andro
 
 ![RANDARRAY with rows and columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/RANDARRAY-ExcelRandomNumbers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For a random array that covers the same number of rows and columns but also has a minimum of 1 and a maximum of 10, enter the following and press Enter:
 
 =RANDARRAY(3,4,1,10)
 
 ![RANDARRAY with minimum and maximum values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/RANDARRAYMinMax-ExcelRandomNumbers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  For a random array using these same arguments but returns only whole numbers, you would enter the following and press Enter:
 
 =RANDARRAY(3,4,1,10,TRUE)
 
 ![RANDARRAY with whole numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/RANDARRAYWhole-ExcelRandomNumbers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Microsoft Excel gives you easy options for [generating random numbers](https://facebook-video-share.techidaily.com/new-streamlining-content-delivery-the-definitive-youtube-video-upload-guide/). Whether you need a discrete number or simply a number between one and 10, Excel has you covered.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -178,8 +180,6 @@ Related: [How to Create Random (Fake) Datasets in Microsoft Excel](https://andro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +187,17 @@ Related: [How to Create Random (Fake) Datasets in Microsoft Excel](https://andro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-building-a-billion-dollar-brand-on-youtube-jake-paul-for-2024/"><u>[New] Building a Billion-Dollar Brand on Youtube (Jake Paul) for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-blueprint-for-flawless-srt-construction/"><u>[Updated] 2024 Approved The Ultimate Blueprint for Flawless SRT Construction</u></a></li>
+<li><a href="https://article-helps.techidaily.com/capture-and-save-video-images-on-windows-11-for-2024/"><u>Capture and Save Video Images on Windows 11 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-msie-0x80073d26-in-microsoft-store-on-windows-11/"><u>Overcoming MSIE 0X80073D26 in Microsoft Store on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-original-windows-backup-configs/"><u>Recovering Original Windows Backup Configs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-login-correcting-invalid-captcha/"><u>Steam Login: Correcting Invalid CAPTCHA</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-latest-wifi-drivers-for-windows-1110-users/"><u>Step-by-Step Guide: Installing Latest WiFi Drivers for Windows 11/10 Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211010229-9781648015472-the-book-of-courage-i-woke-up-when-i-supposed-to-be-asleep/"><u>The Book of Courage I Woke Up When I Supposed to Be Asleep | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-halo-infinite-stuttering-for-a-smoother-gaming-experience/"><u>Troubleshoot Halo Infinite Stuttering for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-windows-update-9-hacks-to-sidestep-verification-slowdowns/"><u>Unleash Windows Update: 9 Hacks to Sidestep Verification Slowdowns</u></a></li>
+</ul></div>
 

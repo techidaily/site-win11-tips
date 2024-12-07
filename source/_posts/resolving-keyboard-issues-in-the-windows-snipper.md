@@ -1,7 +1,7 @@
 ---
 title: Resolving Keyboard Issues in the Windows Snipper
-date: 2024-08-28T01:09:57.104Z
-updated: 2024-08-29T01:09:57.104Z
+date: 2024-12-04T21:26:35.934Z
+updated: 2024-12-06T18:50:04.901Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Check the keyboard for any dirt or debris that may obstruct the keys. Clean off dust, crumbs, and other particles with compressed air. Ensure that all the keys are working correctly and that none are stuck or pressed down. If the keys have been damaged or worn down, consider replacing your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 3\. Enable the Clipboard History
 
  If keyboard dirt and debris are not the issues, you may need to enable the clipboard history feature. This will help you restore any screenshots taken with Win + Shift + S that have been lost.
@@ -44,9 +40,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  You can also use the Windows search bar to type in **Clipboard settings** and open it directly. If you prefer shortcuts, hit **Win + R** or type **ms-settings:clipboard** into Run.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 4\. Turn on Snipping Tool Notification Toggle
 
  When you press Win + Shift + S on your keyboard, a notification should appear in the bottom-right corner of the screen. This notification toggle helps you quickly access screenshots taken with the shortcut.
@@ -58,11 +51,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Under **Notifications from apps and other senders**, scroll down to the bottom and turn on the Snipping Tool notification toggle.  
 ![Turn on Snipping Tool Notification Toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-snipping-tool-notification-toggle.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have enabled this option, press **Win + Shift + S** to take a screenshot. If the shortcut works, you will see a notification that the screenshot is saved to the clipboard.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reset the Snipping Tool
 
  Another solution is to reset the Snipping Tool. It restores the default settings and can help if something goes wrong.
@@ -72,6 +70,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  You can also use **Win + R** or type **ms-settings:appsfeatures** in the Run dialog box to open Installed apps. From there, you can find the Advanced options for the Snipping Tool.
 
 ![Reset Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-snipping-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the next page, scroll down to the **Reset** section. Select **Reset** and then click on **Reset** again in the confirmation popup. After resetting the Snipping Tool, check if the Win + Shift + S shortcut works.
 
@@ -83,11 +85,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Reset the Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-the-snipping-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the three dots and select **Uninstall**. Now follow the on-screen instructions to complete the process. Once done, download and install a new version of the Snipping Tool from the Microsoft Store app.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 7\. Turn on Windows Hotkeys
 
  If your Windows hotkeys are disabled for some reason, the shortcut keys will not work. In such cases, you will need to enable the Windows hotkeys through the group policy editor. Here's how to do it:
@@ -115,11 +118,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * Double-click on **NoWinKeys** and set the value data to **0**.  
 ![Turn on Windows Hotkeys Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-windows-hotkeys-using-registry.jpg)
 * Select Base as **Hexadecimal** and click **OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, exit the registry editor and restart your computer. Once the system reboots, check if the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform Some Generic Fixes
 
@@ -131,16 +135,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 4. [Run a full scan with your antivirus program](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and see if it solves the issue.
 5. If the issue still persists, there's a chance that third-party applications are interfering with the Snipping Tool shortcut. In such a case, [try performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). This will temporarily disable all the third-party applications and allow you to check if they were causing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Taking Screenshots Is Easy With Shortcut Keys
 
  Keyboard shortcuts provide quick and easy access to different functions on your PC. It allows you to easily switch between applications and perform tasks. There are times, though, when the Win + Shift + S hotkey does not work properly. Hopefully, one of the above methods fixed this issue for you.
 
  Is your screenshot-taking career over? Definitely not. There are still some fixes you can try to solve this issue. Read on to learn what to do when your Win + Shift + S shortcut isn't working.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -148,3 +147,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-optimize-your-videos-for-instagram-mac-resizing-guide/"><u>[Updated] In 2024, Optimize Your Videos for Instagram Mac Resizing Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-effortless-sound-reboot-on-system-ignition-process/"><u>Enabling Effortless Sound Reboot on System Ignition Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-intricacies-and-processes-in-windows-11-backup/"><u>Exploring the Intricacies and Processes in Windows 11 Backup</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-multiple-same-user-error-in-windows/"><u>How to Resolve Multiple Same-User Error in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bring-life-to-your-photos-motion-blur-techniques-for-illustration/"><u>In 2024, Bring Life to Your Photos Motion Blur Techniques for Illustration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-skyvault-budget-edition-unlimited-mass-files-save/"><u>In 2024, SkyVault Budget Edition Unlimited Mass Files Save</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximize-your-iphone-x-10-proven-strategies/"><u>Maximize Your iPhone X 10 Proven Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pc-performance-with-essential-tools/"><u>Maximizing PC Performance with Essential Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reboot-and-brighten-top-5-tricks-for-fixed-backlit-keys-in-win/"><u>Reboot and Brighten: Top 5 Tricks for Fixed Backlit Keys in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-admin-managed-chromium-and-microsoft-edge-settings-in-windows-os/"><u>Resetting Admin-Managed Chromium & Microsoft Edge Settings in Windows OS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlined-techniques-to-log-and-preserve-gotomeetings/"><u>Streamlined Techniques to Log and Preserve GoToMeetings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/text-files-and-windows-the-secure-path-of-password-storage/"><u>Text Files & Windows: The Secure Path of Password Storage</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-poco-m6-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Poco M6 Pro 5G Phones</u></a></li>
+</ul></div>
+

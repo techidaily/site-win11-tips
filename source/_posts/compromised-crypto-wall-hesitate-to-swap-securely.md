@@ -1,7 +1,7 @@
 ---
 title: Compromised Crypto-Wall? Hesitate to Swap Securely
-date: 2024-11-25T16:27:40.398Z
-updated: 2024-11-27T16:03:18.096Z
+date: 2024-12-05T17:37:47.935Z
+updated: 2024-12-06T17:38:15.498Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 * [Is It Time to Ditch BitLocker?](#is-it-time-to-ditch-bitlocker)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
  Microsoft's BitLocker is one of the most popular full-disk encryption tools, and is built into Windows 10 and 11 Pro providing an easy encryption option for millions of Windows users worldwide. But BitLocker's reputation as a leading encryption tool could be under threat after a YouTuber successfully stole encryption keys and decrypted private data in just 43 seconds—using a Raspberry Pi Pico costing $6\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Was BitLocker's Encryption Broken?
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
  Tools like the [Raspberry Pi Pico, the minute $6 single-board computer](https://www.makeuseof.com/raspberry-pi-pico-projects/) that has a bunch of uses. In this case, Stacksmashing connected a Raspberry Pi Pico to unused connectors on a test laptop and managed to read the binary data as the machine booted. The resulting data contained the Volume Master Key stored on the TPM, which he could then use to decrypt other data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It Time to Ditch BitLocker?
@@ -74,25 +74,6 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
  It's also worth noting that despite this exploit, BitLocker remains secure, and the actual encryption underpinning it, AES-128 or AES-256, is still secure.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ideal-steps-for-silent-screen-imaging/"><u>[Updated] In 2024, Ideal Steps for Silent Screen Imaging</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-leveraging-videos-to-skyrocket-your-fb-audience/"><u>[Updated] Leveraging Videos to Skyrocket Your FB Audience</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-posting-video-count/"><u>[Updated] Navigating Instagram's Posting Video Count</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-upside-down-world-of-instagram-videos/"><u>2024 Approved Exploring the Upside-Down World of Instagram Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comment-faites-vous-des-gif-a-partir-de-vos-films-les-solutions-premium-movavi/"><u>Comment Faites-Vous Des GIF À Partir De Vos Films : Les Solutions Premium - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tweaks-for-enhanced-use-of-windows-11-hardware/"><u>Essential Tweaks for Enhanced Use of Windows 11 Hardware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-expertly-control-your-sounds-with-windows-11/"><u>How to Expertly Control Your Sounds with Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-chucklecraft-pixel-perfect-humor/"><u>In 2024, ChuckleCraft Pixel-Perfect Humor</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-exciting-possibilities-the-best-12-clickers-for-pc-gamers/"><u>In 2024, Exciting Possibilities The Best 12 Clickers for PC Gamers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-anon-mastery-pcandroidios-edition/"><u>In 2024, Instagram Anon Mastery PC/Android/iOS Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-reasons-why-a-pc-beats-a-mac-9-point-to-note/"><u>Mastering Reasons Why a PC Beats a Mac, #9 Point to Note</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/prime-8-film-grabs-from-fb-2023-edition-for-2024/"><u>Prime 8 Film Grabs From FB 2023 Edition for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-wwe-2k23-glitches-on-windows-11-pcs/"><u>Swift Fixes for WWE 2K23 Glitches on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-prolonged-shutdown-during-running-apps-in-windows-10/"><u>Techniques for Prolonged Shutdown During Running Apps in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-convenient-way-to-load-apk-files-on-windows-11/"><u>The Convenient Way to Load APK Files on Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -100,3 +81,25 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-fostering-fast-visual-storytelling-with-google-imagery-for-2024/"><u>[New] Fostering Fast Visual Storytelling with Google Imagery for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-practices-snatching-supreme-photos-for-free/"><u>[New] In 2024, Best Practices Snatching Supreme Photos for Free</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-efficacy-of-social-media-authenticity-validation-for-2024/"><u>[New] The Efficacy of Social Media Authenticity Validation for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premium-video-capture-devices-for-windows-os-for-2024/"><u>[Updated] Premium Video Capture Devices for Windows OS for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-spark-20-proplus-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Spark 20 Pro+ System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easily-modify-registry-editor-access-in-win11/"><u>Easily Modify Registry Editor Access in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-edges-security-features-graphics-boost/"><u>Elevating Edges Security Features: Graphics Boost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essentials-on-using-microsofts-phone-link-a-guide/"><u>Essentials on Using Microsoft's 'Phone Link': A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-concept-to-creation-painting-ai-masterpieces-on-windows-11-paint-cocreator-edition/"><u>From Concept to Creation: Painting AI Masterpieces on Windows 11, Paint Cocreator Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-m34-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy M34 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-data-management-on-windows-11/"><u>Mastering Data Management on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-resolve-windows-stores-error-0x80073d26/"><u>Quick Guide to Resolve Windows Store's Error 0X80073D26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-dealing-with-non-terminatable-processes-on-pc/"><u>Tips for Dealing with Non-Terminatable Processes on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-screen-capture-mastery-in-windows-os-for-2024/"><u>Unlocking Screen Capture Mastery in Windows OS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-lite-version-exploring-s-mode-benefits/"><u>Windows 11'S Lite Version: Exploring S Mode Benefits?</u></a></li>
+</ul></div>
+

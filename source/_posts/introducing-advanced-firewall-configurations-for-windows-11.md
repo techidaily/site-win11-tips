@@ -1,7 +1,7 @@
 ---
 title: Introducing Advanced Firewall Configurations for Windows 11
-date: 2024-08-28T01:11:54.068Z
-updated: 2024-08-29T01:11:54.068Z
+date: 2024-11-29T20:18:09.082Z
+updated: 2024-12-06T20:40:52.712Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 6. Select the**OneClickFirewall-1.0.0.2.exe** to bring up its setup wizard.  
 ![The OneClickFirewall setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/oneclickfirewall-window.jpg)
 7. Click**Next** \>**Install** to add new firewall options to the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**Finish** to exit the OneClickFirewall wizard.
 
  Now you can block software internet access from the classic context menu in Windows 11\. Bring up a software installation folder in File Explorer. Then right-click the program’s EXE (application) file to select**Show more options** . Select the new**Block Internet Access** option to set up an outbound rule.
@@ -40,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
  You’ll see the outbound rule in the Windows Defender Firewall with Advanced Security window. To view it, click the**Search** box button on the taskbar; and input**Windows Defender Firewall** inside the search box. Select the**Windows Defender Firewall with Advanced Security** search result. You can see the new rule by clicking**Outbound Rules** in the firewall app that opens.
 
 ![Outbound rules in the Windows Defender With Advanced Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/outbound-rules.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can remove the outbound rule by right-clicking it in the Windows Defender Firewall window and selecting**Disable Rule** . However, now you can also remove the rule via Explorer’s context menu.
 
@@ -60,17 +69,26 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 ![The Add Right Click Menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-right-click-menu-option.jpg)
 7. Select the**Add Right Click Menu** option, and click**OK** on the dialog box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now it’s time to check out the new**Tweaking - Windows Firewal** l submenu on the context menu. Right-click any software to apply a firewall block and select Show more options. Move the cursor over the**Tweaking – Allow in Windows Firewall** submenu. Selecting**Block in Windows Firewall** will apply an outbound rule in the Windows Defender Firewall app the same as OneClickFirewall.
 
 ![The Tweaking.com - Windows Firewall submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/tweaking-com-windows-firewall-submenu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can remove the Tweaking firewall context menu options within the window you selected to add them. Double-click**Right\_Click\_Options.exe** again to view that window. Then select the**Remove Right Click Menu** option there.
 
  You’ll also need to restart File Explorer for the change to take effect. To do this, perform one of the many[ways to open the Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and select its**Processes** tab. Right-click the Windows Explorer process and select**Restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apply Firewall Blocks to Software via the Context Menu
 
  The convenience of a context menu firewall option for blocking apps’ internet connectivity cannot be understated. That option will save you from going through all the manual steps required to create rules that apply firewall blocks to software packages.
@@ -83,8 +101,6 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +108,20 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-androidiphones-finest-top-10-cost-effective-image-enhancers-ranked/"><u>[New] Android/iPhone's Finest – Top 10 Cost-Effective Image Enhancers Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-sharing-tunes-instagram-copyright-edicts/"><u>[Updated] Sharing Tunes Instagram Copyright Edicts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-manual-for-using-speech-recognition-in-google-documents/"><u>2024 Approved The Complete Manual for Using Speech Recognition in Google Documents</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-computers-at-your-fingertips/"><u>Advanced Computers at Your Fingertips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-fresh-start-trio-of-windows-reboot-tactics/"><u>Crafting a Fresh Start: Trio of Windows Reboot Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-disk-space-efficiency-with-auto-delete-on-windows-11/"><u>Enhance Disk Space Efficiency with Auto Delete on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-ai-photo-cutting-master/"><u>In 2024, Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/photography-revolution-toolwizs-2023-app-insights-for-2024/"><u>Photography Revolution Toolwiz's 2023 App Insights for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/printer-firmware-p1102w-windows-installation-guide/"><u>Printer Firmware P1102w Windows Installation Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-apples-top-magsafe-charging-station-now-just-60-cheaper-exclusive-tips-and-reviews/"><u>Score Big Savings: Apple's Top MagSafe Charging Station Now Just $60 Cheaper – Exclusive Tips & Reviews !</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-directx-setup-failures/"><u>Troubleshooting DirectX Setup Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-dark-scheme-in-calc-app/"><u>Unveiling the Secrets of Dark Scheme in Calc App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgraded-notification-methods-full-charge-alerts/"><u>Upgraded Notification Methods: FULL CHARGE Alerts</u></a></li>
+</ul></div>
 

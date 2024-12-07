@@ -1,7 +1,7 @@
 ---
 title: "Guide: How to Disable Gaming Proposals on Your PC's Win11"
-date: 2024-11-24T16:07:26.660Z
-updated: 2024-11-27T16:03:30.359Z
+date: 2024-12-02T22:26:53.359Z
+updated: 2024-12-06T23:27:38.536Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Do I See a "Games for You" Recommendation?
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 ![screenshot of the windows search menu with games for you recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_games_for_you_search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Anything that appears in a search that isn't related to what you're searching for is because of a feature called Search Highlights. This includes trending news, trending videos, and trending searches.
@@ -43,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  Luckily, there's a way to disable this feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Toggle Off Search Highlights and Remove the "Games for You" Recommendations
 
 ![screenshot of searching for search highlights in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_highlights_in_windows_11_start_menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Turning this feature off is straightforward. Open up your start menu, search for **Search Highlights**, and click on the result.
 
@@ -58,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
  Restart your system, and the Games for You section will be gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Doing This Turn Off Other Ads?
 
 ![screenshot of the search menu with no highlights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_menu_no_highlights.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Yes. Switching off this feature will disable all the search highlights mentioned before. You won't be suggested videos or shown trending news articles.
 
@@ -71,28 +75,11 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  Unfortunately, there's no way to disable individual sections. Search Highlights is an all-in-one package.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Remove Redundant Information on Windows
 
  For users who want less clutter on their screen, it's great that we're able to quickly turn search highlights off. For users who appreciate search highlights, but might not care for games, it's disappointing that it's an all-or-nothing setting. Hopefully, Microsoft will make this feature more modular in the future.
 
  Let's look at how we can disable the "games for you" recommendation on Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-soaring-strengths-top-10-industrial-drones/"><u>[New] In 2024, Soaring Strengths Top 10 Industrial Drones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-microsofts-safe-mode-only-issue-with-outlook/"><u>Combatting Microsoft's Safe Mode Only Issue With Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customize-windows-image-orientation/"><u>Customize Windows Image Orientation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-xs-max-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone XS Max to Chromecast? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-disabled-remove-pin-command-on-windows-11/"><u>Reactivating Disabled Remove PIN Command on Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/resourceful-execution/"><u>Resourceful Execution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-correcting-haldll-errors-in-windows-xp-to-windows-11/"><u>Step-by-Step Solutions for Correcting Hal.dll Errors in Windows XP to Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-quelling-the-needs-elevation-error/"><u>Strategies for Quelling the Needs Elevation Error</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -101,3 +88,22 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tips-for-incorporating-music-selections-on-vimeo-videos/"><u>[Updated] 2024 Approved Tips for Incorporating Music Selections on Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[Updated] How to Illuminate A Guide to Great Vlog Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crackling-sound-fix-for-speakers-how-to-restore-quality-on-windows-platforms/"><u>Crackling Sound Fix for Speakers: How to Restore Quality on Windows Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-server-switch-from-bedrock-to-java-with-geysermc/"><u>Cross-Platform Server Switch: From Bedrock to Java with GeyserMC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-text-entry-interface-add-wordpad-command-keys-to-windows-menu/"><u>Customizing Text Entry Interface: Add WordPad Command Keys to Window's Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-management-of-revamped-widget-picker-in-windows-os/"><u>Efficient Management of Revamped Widget Picker in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-system-aesthetics-affixing-this-pc-icon/"><u>Enhancing System Aesthetics: Affixing 'This PC' Icon</u></a></li>
+<li><a href="https://win-answers.techidaily.com/halo-infinite-stability-enhancement-for-a-seamless-gaming-experience-on-pcs/"><u>Halo Infinite Stability Enhancement for a Seamless Gaming Experience on PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-printer-from-secure-edge-environment/"><u>Launching Printer From Secure Edge Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-implementing-search-in-win11-task-manager/"><u>Quick Guide: Implementing Search in Win11 Task Manager</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-2010-read-only-documents-stellar-by-stellar-guide/"><u>Solutions to open Excel 2010 Read Only Documents | Stellar</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-on-leveraging-metatrader-4-for-dxtrade-copier-functionality-complete-user-manual-insights/"><u>Step-by-Step Tutorial on Leveraging MetaTrader 4 for dxTrade Copier Functionality - Complete User Manual Insights</u></a></li>
+<li><a href="https://techidaily.com/unlocking-windows-power-introducing-the-sudo-command-explained-and-usage-guide/"><u>Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Simplifying Controlled Chrome/Edge Use in Enterprise Environments
-date: 2024-08-28T01:12:15.086Z
-updated: 2024-08-29T01:12:15.086Z
+date: 2024-12-03T00:30:08.230Z
+updated: 2024-12-07T00:26:14.882Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 
  To remove the message, first, verify if your antivirus is responsible for the message. If not, search and remove malicious extensions, programs, and policies hijacking your Chrome or Edge browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Antivirus Settings
 
 ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 2\. Remove Chrome or Edge Registry Editor Policies
 
  A potentially unwanted application often modifies the Windows Registry to set policies for the browser. You can manually remove these policies from Registry Editor to remove the message.
@@ -65,9 +65,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 6. Next, if you use**Chrome** , navigate to**\\Google\\Chrome** and delete any policy values in the right pane.  
 ![delete chrome policy registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor.jpg)
 7. For**Edge** , navigate to**\\Microsoft\\MicrosoftEdge** . In the right pane, check for any suspicious policies. If it exists, right-click on the policy and select**Delete** .
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Close Registry Editor and restart your computer to see if the message is removed.
 
 ## 3\. Remove All the Group Policies for the Users Using Command Prompt
@@ -86,16 +88,10 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 `gpupdate /force`
 6. Close Command Prompt and check if the message is removed.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reset Chrome and Edge
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  A browser reset removes settings and shortcuts, disables extensions, and deletes cookies and other temporary site data. It doesn’t remove your bookmarks or passwords, so it is completely safe to perform.
 
 To reset Google Chrome:
@@ -111,17 +107,22 @@ To reset Microsoft Edge:
 
 ![Reset Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/reset-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 1. Click the**three-dots menu** and select**Settings** .
 2. Open the**Reset settings** tab in the left pane, and click on**Restore settings to their default values** .
 3. Click**Reset** to confirm the action.
 4. You’ll need to enable your extensions after the reset is complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run MalwareBytes AdwCleaner
 
 ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Malwarebytes AdwCleaner is a free adware scanning and cleaning utility for Windows. Use the tool to scan your computer for PUP and other malware and remove them with a click.
 
@@ -133,9 +134,6 @@ To remove adware using MalwareBytes:
 4. Next, it will show the pre-installed apps. You can leave them unchecked and click**Quarantine** . This should remove any and all adware on your computer.
 5. Close the app and relaunch your browser to check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 6\. Perform a Windows Reset
 
 ![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
@@ -153,6 +151,10 @@ To perform a Windows system reset:
 5. Next, select**Cloud Download** . This option requires an active Internet connection to download and reinstall the latest version of Windows operating system. If not, select**Local** **Reinstall** .
 6. Wait for the reset to complete, and your PC will restart. After the restart, you’ll need to reinstall the browser and other apps to get started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Remove the "Your Browser is Managed By Your Organization" Message on Windows
 
  This message can occur if your antivirus program controls your web browser with its web protection feature. If you rule out your antivirus to be the issue, check if a potentially unwanted program has hijacked the browser. If yes, you’ll need to manually remove the Windows Registry policies or run an adware cleaner to remove adware and PUPs from your computer.
@@ -163,8 +165,6 @@ To perform a Windows system reset:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +172,26 @@ To perform a Windows system reset:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-crafting-stunning-visuals-how-to-master-use-of-luts-in-photoshop-suite/"><u>[New] 2024 Approved Crafting Stunning Visuals How to Master Use of LUTs in Photoshop Suite</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-securing-your-snapchat-memories-mobile-recorders-guide-for-2024/"><u>[New] Securing Your Snapchat Memories Mobile Recorders' Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-youtube-equipment-for-starting-your-channel/"><u>[Updated] 2024 Approved Essential YouTube Equipment For Starting Your Channel</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-obs-capture-directly-on-instagram/"><u>2024 Approved OBS Capture Directly on Instagram</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/chiaroscuro-of-charms-enigmatic-italian-pick-up-lines/"><u>Chiaroscuro of Charms: Enigmatic Italian Pick-Up Lines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-windows-exploration-common-faults-you-must-sidestep/"><u>Efficient Windows Exploration: Common Faults You Must Sidestep</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/finding-the-common-speech-among-belgians/"><u>Finding the Common Speech Among Belgians</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-tecno-spark-10-4g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Tecno Spark 10 4G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-the-softwaredistribution-and-catroot2-folders-on-a-windows-11-pc/"><u>How to Reset the SoftwareDistribution and Catroot2 Folders on a Windows 11 PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-motorola-edge-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Motorola Edge 2023 Lock Screen Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-back-to-windows-original-style/"><u>Navigating Back to Windows' Original Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-help-application-issues/"><u>Overcoming Windows 11 Help Application Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-the-cannot-create-snap-problem-in-mmc/"><u>Reversing the 'Cannot Create Snap' Problem in MMC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revitalize-your-online-presence-with-the-latest-updates-and-tweaks/"><u>Revitalize Your Online Presence with the Latest Updates and Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snapbuddy-down-9-ways-to-restore-its-functionality/"><u>SnapBuddy Down? 9 Ways to Restore Its Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-recording-of-your-program-start-in-windows/"><u>Stop Recording of Your Program Start in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-s17e-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo S17e Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-failed-onedrive-sync-on-win-1011/"><u>Troubleshooting Failed OneDrive Sync on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-win11-crashes-efficiently/"><u>Understanding & Resolving WIN11 Crashes Efficiently</u></a></li>
+</ul></div>
 

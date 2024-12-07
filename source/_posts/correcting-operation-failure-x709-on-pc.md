@@ -1,7 +1,7 @@
 ---
 title: Correcting Operation Failure X709 on PC
-date: 2024-08-28T01:11:12.041Z
-updated: 2024-08-29T01:11:12.041Z
+date: 2024-12-03T17:45:37.001Z
+updated: 2024-12-06T18:59:30.892Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
  To resolve the error code 0x00000709, you must first change the printer name in Registry Editor and then change the RPC connection settings policy. If these steps do not resolve the issue, you can run the printer troubleshooter, change the printer preferences settings, and uninstall the problematic update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for Interference From Other Printers
 
  Changing the default printer settings when your device is connected to multiple printers may result in a "0x00000709:operation could not be completed" error. Therefore, disconnect all other printers except the one you want to set as default before changing settings.
@@ -33,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  If you continue to receive the error despite having no other printer connected to your device, then it is not interference from other printers causing the problem but rather a setting in your operating system. So, start applying the following fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Rename the Printer in Registry Editor
 
  The error message advises us to correctly set the printer's name. So, in this next step, we should rename it manually in Registry Editor. Although it is known to fix the problem, you need to be careful to follow the steps correctly. You should [avoid messing up registry keys](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/) as it can cause serious problems. As such, follow the instructions below:
@@ -46,13 +51,14 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 4. Right-click on the **Device** key and click **Modify**.  
 ![Clicking on the Modify Button After Right-clicking on the Device Key in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-clicking-on-the-modify-button-after-right-clicking-on-the-device-key-in-windows-registry-editor-app.jpg)
 5. In the **Value data** field, replace the first entry with the name of your printer.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Editing String by Changing Its Data Value in Registry Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/editing-string-by-changing-its-data-value-in-registry-editor-app-on-windows.jpg)
 6. Then click **OK**.
 
  Make sure you restart your computer after completing the above steps. If renaming the registry keys makes no difference, apply the remaining fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change RPC Connection Settings
 
@@ -65,32 +71,39 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 3. In the left-sidebar, select **Administrative Templates > Printers**.  
 ![Clicking on the Printers Option in the Administrative Templates Dropdown in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-clicking-on-the-printers-option-in-the-administrative-templates-dropdown-in-windows-group-policy-editor-app.jpg)
 4. Click **Configure RPC connection** **settings** twice.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. To enable this policy, check the circle for **Enabled**.
 6. Select **RPC over named pipes** from the dropdown menu for **Protocol to use for outgoing RPC connections.**  
 ![Selecting RPC Over Named Pipes from the Dropdown Menu of Protocol to Use for Outgoing RPC Connections in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-selecting-rpc-over-named-pipes-from-the-dropdown-menu-of-protocol-to-use-for-outgoing-rpc-connections-in-windows-group-policy-editor-app.jpg)
 7. Hit **OK** after clicking **Apply**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Restart your device.
 
  If the above instructions don't work, you can select **RPC over TCP** from the **Protocol to use for outgoing RPC connections** dropdown.
 
 ![Selecting RPC over TCP from the Protocol to Use for Outgoing RPC Connections Dropdown in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-selecting-rpc-over-tcp-from-the-protocol-to-use-for-outgoing-rpc-connections-dropdown-in-windows-group-policy-editor-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When that doesn't work either, you can enable or disable authentication from the **Use authentication for outgoing RPC connections** dropdown menu.
 
 ![Enabling Authentication from the Use Authentication for Outgoing RPC Connections Dropdown Menu in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/6-enabling-authentication-from-the-use-authentication-for-outgoing-rpc-connections-dropdown-menu-in-windows-group-policy-editor-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Apply this fix carefully, as it has the highest chance of fixing the error message.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Printer Troubleshooter
 
  To troubleshoot printer-related issues, Windows includes an in-built troubleshooter. The tool helps diagnose and fix most problems related to printer connectivity. If you try it, it may resolve the "operation could not be completed" error. To run the troubleshooter, follow the steps below:
@@ -103,15 +116,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Locate the **Printer** troubleshooter, and click on the **Run** button next to it.  
 ![Clicking on the Run Button Next to Printer Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/8-clicking-on-the-run-button-next-to-printer-troubleshooter-in-windows-settings-app.jpg)
 6. Follow the on-screen instructions to help the troubleshooter get started.
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  After that, make your preferred printer your default printer again. In case the same error occurs again, apply the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Change Printer Preferences
 
  By default, Windows manages the default printer for the user. The setting is helpful, especially if you frequently connect your device to different printers, but it can sometimes cause problems. Hence, you should disable this feature to ensure it is not causing the problem.
@@ -125,9 +136,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Turn off the toggle next to **Allow Windows to manage my default printer** under **Printer preferences**.  
 ![Turning off the Toggle Next to Let Windows Manage My Default Printer Under Printer Preferences in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/10-turning-off-the-toggle-next-to-let-windows-manage-my-default-printer-under-printer-preferences-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 6\. Uninstall the Problematic Update
 
  Have you recently installed an update and encountered this error? If so, the newly installed update might be problematic. Therefore, you should uninstall it. To do that, follow these steps:
@@ -141,9 +149,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Find the most recent update in the Control Panel app by checking its installation date. Once it has been located, right-click on it and click **Uninstall**.  
 ![Uninstalling the Recent Windows Update after Locating it in the Windows Control Panel App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/13-uninstalling-the-recent-windows-update-after-locating-it-in-the-windows-control-panel-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See if you encounter the same error again. If uninstalling a problematic update resolves the issue, you should take extra steps to prevent this update from automatically installing again. You can do that by following these steps:
 
 1. Download Microsoft's show or hide updates troubleshooter from [MajorGeeks](https://www.majorgeeks.com/files/details/microsoft%5Fshow%5For%5Fhide%5Fupdates%5Ftroubleshooter.html).
@@ -156,9 +161,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Let the tool finish processing, and the specific update will not install on your device again. However, if uninstalling the update makes no difference, there is no need to prevent it from installing again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Enjoy Printing Again on Windows
 
  Not being able to set a printer default is very annoying, especially when taking urgent prints. Hopefully, our guide will help fix the annoying 0x00000709 error. By doing so, you can print with your preferred printer.
@@ -169,11 +171,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In this article, we will examine the error in more detail and discuss why it occurs. In addition, we'll cover a few fixes that you can apply to resolve the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-overcoming-the-hurdle-of-non-uploading-facebook-story-videos/"><u>[Updated] 2024 Approved Overcoming the Hurdle of Non-Uploading Facebook Story Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-for-novices-a-primer-on-av1-technology/"><u>[Updated] For Novices A Primer on AV1 Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clarifying-system-repair-tools-chkdsk-vs-sfc-and-dissect-processes/"><u>Clarifying System Repair Tools: Chkdsk Vs. Sfc & Dissect Processes</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/clear-the-hurdles-comprehensive-guide-for-removing-image-blemishes-and-scratches-with-yl-computing-solutions/"><u>Clear the Hurdles: Comprehensive Guide for Removing Image Blemishes and Scratches with YL Computing Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-6s-plus-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 6s Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-your-verification-process-on-yt/"><u>In 2024, Streamlining Your Verification Process on YT</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-f34-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy F34 5G Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-mail-app-failure-decode-windows-11s-0x800713f/"><u>Overcoming Mail App Failure: Decode Windows 11’S 0X800713F</u></a></li>
+<li><a href="https://win-web.techidaily.com/rethinking-convenience-the-downsides-of-buying-premixed-fire-starter-packs-or-fire-sticks-for-your-adventures/"><u>Rethinking Convenience: The Downsides of Buying Premixed Fire Starter Packs or 'Fire Sticks' For Your Adventures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-guide-to-developing-your-own-windows-voice-translation-app/"><u>Simplified Guide to Developing Your Own Windows Voice Translation App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-unsyncing-google-drive-on-your-pc-instantly/"><u>Troubleshoot Unsyncing Google Drive on Your PC Instantly</u></a></li>
+</ul></div>
+

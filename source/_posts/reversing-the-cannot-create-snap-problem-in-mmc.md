@@ -1,7 +1,7 @@
 ---
 title: Reversing the 'Cannot Create Snap' Problem in MMC
-date: 2024-11-26T16:26:37.837Z
-updated: 2024-11-27T16:30:45.025Z
+date: 2024-12-02T23:36:20.961Z
+updated: 2024-12-06T19:43:15.418Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 ![delete-registry-key-mmc-snap-in-windows-registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-registry-key-mmc-snap-in-windows-registry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the registry configuration for the affected snap-in is broken, it may trigger the "MMC could not create the snap-in" error. To fix the issue, you’ll need to delete the corrupt registry entry associated with the snap-in. Here’s how to do it.
@@ -51,16 +51,12 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 5. After the restart, open the administrative tool snap-in to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable .NET Framework
 
 ![enable net framework 3 5 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-net-framework-3-5-windows-features.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also fix this error by enabling .NET Framework 3.5\. The idea is that one of the snap-ins on your PC may need .NET Framework 3.5 to work. So, if the feature is disabled, you may encounter an error.
 
@@ -74,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 4. Next, click to **Apply** the changes and install the feature.
 5. Once installed, you’ll be prompted to restart the computer. Restart your system, and the MMC snap-in should work now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check for and Repair Corrupt System Files
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have one or more corrupt system files, it may cause issues with the system apps. You can run the System File Checker tool to determine if the problem is due to system file issues. It will scan and check the integrity of systems files and automatically repair them to fix the problem.
 
@@ -88,13 +84,13 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
  If the issue persists, reinstalling the Visual C++ Redistributable package may be required. To reinstall the package:
 
 ![uninstall microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstall-microsoft-visual-c-plus-plus-distributable-package.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Select the **Microsoft Visual C++ package** in Control Panel and click on **Uninstall**.
 2. Click **Uninstall** in the **Modify Setup** dialog.
@@ -127,23 +127,6 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 
  Sometimes, the error may also pop up after a Blue Screen of Death (BSOD), causing one or more apps to crash. This error often occurs if the registry configuration of the snap-in is malfunctioning. Here we show a few ways to fix to help you resolve the "MMC could not create the snap-in" error and restore administrative tools access in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-decoding-whatsapps-vocal-messaging-innovation-for-2024/"><u>[New] Decoding WhatsApp's Vocal Messaging Innovation for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-pace-kings-and-queens-of-the-olympics-year-2022/"><u>[New] The Pace Kings & Queens of the Olympics, Year 2022</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-perfecting-pitched-lines-writing-natural-conversations-for-2024/"><u>[Updated] Perfecting Pitched Lines Writing Natural Conversations for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids/"><u>2024 Approved Pixel Pizzazz Top 10 Screenshot Sticker Enhancers for iPhones/Androids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-dark-screens-on-win1011-instantly/"><u>Conquering Dark Screens on Win10/11 Instantly</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-magic5-ultimate-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic5 Ultimate working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-biometric-use-for-domains-on-windows-11/"><u>Optimizing Biometric Use for Domains on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-w11-printer-problems-caused-by-ad-ds-errors/"><u>Overcoming W11 Printer Problems Caused by AD DS Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-redmi-12-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi Redmi 12, is it possible?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-issue-unreal-engine-4-glitch-causes-outriders-ue4-madness-error/"><u>Resolved Issue: Unreal Engine 4 Glitch Causes 'Outriders - UE4 Madness' Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-file-transfer-capability-to-utorrent-on-win/"><u>Restoring File Transfer Capability to uTorrent on Win</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlock-the-secrets-of-building-budget-friendly-youtube-ads-for-2024/"><u>Unlock the Secrets of Building Budget-Friendly YouTube Ads for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/visual-storytelling-with-warped-textual-elements-for-2024/"><u>Visual Storytelling with Warped Textual Elements for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -151,3 +134,25 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-video-platform-economics-a-tale-of-two-titles-income-potentials/"><u>[New] 2024 Approved Video Platform Economics A Tale of Two Titles' Income Potentials</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/everaging-both-platforms-a-detailed-guide-to-youtube-facebook-linking-for-2024/"><u>[New] Leveraging Both Platforms A Detailed Guide to YouTube-Facebook Linking for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-12-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clarifying-system-repair-tools-chkdsk-vs-sfc-and-dissect-processes/"><u>Clarifying System Repair Tools: Chkdsk Vs. Sfc & Dissect Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-mystery-of-group-policies-on-windows/"><u>Decoding the Mystery of Group Policies on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-detailed-guides-on-the-latest-gadgets/"><u>Exploring Technology with Tom: Detailed Guides on the Latest Gadgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-file-how-to-handle-mcuicntexe-failure/"><u>Fixing Missing File: How to Handle McUICnt.exe Failure</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-enhancing-youtube-videos-for-superior-quality/"><u>In 2024, Enhancing YouTube Videos for Superior Quality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iwatch-phantom-fingerprints-uncover-and-resolve-your-apple-watchs-mysterious-touch-problems/"><u>IWatch Phantom Fingerprints! Uncover and Resolve Your Apple Watch's Mysterious Touch Problems.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-issues-made-simple/"><u>Navigating Through Windows Issues Made Simple!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-mail-app-failure-decode-windows-11s-0x800713f/"><u>Overcoming Mail App Failure: Decode Windows 11’S 0X800713F</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-login-failure-duration-in-win-1011/"><u>Personalizing Login Failure Duration in Win 10/11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-combo-exclusive-afx-design-tools-for-2024/"><u>Premium Combo Exclusive AFX Design Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-guide-to-developing-your-own-windows-voice-translation-app/"><u>Simplified Guide to Developing Your Own Windows Voice Translation App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-gopro-hero-series-comparison-for-2024/"><u>The GoPro Hero Series Comparison for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-your-windows-with-expert-wsl-2-docker-techniques/"><u>Transforming Your Windows with Expert WSL 2 Docker Techniques</u></a></li>
+</ul></div>
+

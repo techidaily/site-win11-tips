@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Unknown Component' Error on W11/W10 OS
-date: 2024-11-22T17:00:13.298Z
-updated: 2024-11-27T16:32:01.659Z
+date: 2024-11-30T20:08:50.360Z
+updated: 2024-12-06T20:32:04.180Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the System Image and File Repair Commands
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
  The “Unknown Hard Error” can be caused by corrupted system files. Some users have indeed confirmed running the System File Checker (SFC) command resolved the “Unknown Hard Error” on their PCs. However, run a Deployment Image Servicing and Management (DISM) scan before utilizing SFC.
 
  Our article about [repairing corrupted files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) includes instructions for running both SFC and DISM scans.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Clean Boot Your Windows PC
 
@@ -59,20 +55,20 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
  Our guide to [running CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,to%20get%20stuck%20on%20occasion.) includes instructions for utilizing that tool either way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Remove Any Recent Windows Updates
 
 ![The Installed Updates Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/install-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A few users have reported the “Unknown Hard Error” arising after installing Windows updates. This highlights update issues can trigger the error. A possible solution in such a scenario would be to uninstall the most recent update after which the issue occurred.
 
  Try removing the latest installed patch update, as covered in this article about [how to manually uninstall Windows 10 and 11 updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Roll Back Your PC to a Previous Windows Restore Point
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 [Utilizing System Restore to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) sends your PC back to a time when the error didn't occur. It might remove recently installed updates or third-party software that are causing the error and reverts any system file corruption.
 
  For this method to work, you’ll need to select a restore point date that predates the “Unknown Hard Error” on your PC. Choosing the oldest available restore point is the best bet if you’re not sure what one to go for. Select **Show more restore points** if that setting is available to see all your restoration options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Switch to a New User Account
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
  You can select to reset a PC from Settings or the Windows recovery environment menu if necessary. Our article about [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=If%20you're%20on%20Windows,Windows%2011%20and%20Windows%2010.) includes guidelines for performing this troubleshooting method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Kill Off the “Unknown Hard Error” on Your Windows PC
@@ -113,19 +113,6 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
  It's not such a big deal if it only happened once. However, users report the “Unknown Hard Error” keeps reoccurring regularly on their PCs under certain circumstances. This is how you can fix the “Unknown Hard Error” on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-making-your-twitter-media-a-gif-masterpiece/"><u>[Updated] In 2024, Making Your Twitter Media A GIF Masterpiece</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-error-code-windows-parsing-breakdown/"><u>Dissecting Error Code: Windows' Parsing Breakdown</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-cross-media-broadcasting-4-strategies-to-air-fb-livests-on-tv/"><u>In 2024, Cross-Media Broadcasting 4 Strategies to Air FB Livests on TV</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/luminous-gaming-recording-overcoming-the-absence-of-a-black-screen-in-obs-for-2024/"><u>Luminous Gaming Recording Overcoming the Absence of a Black Screen in OBS for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-iis-quick-windows-internet-pathway/"><u>Mastering IIS: Quick Windows Internet Pathway</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-text-manipulation-techniques-for-separating-words-in-excel/"><u>Mastering Text Manipulation: Techniques for Separating Words in Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-nat-modification-for-enhanced-connectivity/"><u>Mastering the Art of NAT Modification for Enhanced Connectivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-privacy-stop-windows-11-snooping/"><u>Secure Privacy: Stop Windows 11 Snooping</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shield-your-windows-data-with-regular-saving-schedule/"><u>Shield Your Windows Data with Regular Saving Schedule</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +120,21 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elevate-instagram-presence-with-professional-video-editing-skills/"><u>[Updated] In 2024, Elevate Instagram Presence with Professional Video Editing Skills</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-lut-technology-into-your-obs-setup/"><u>2024 Approved Integrating LUT Technology Into Your OBS Setup</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-flipping-photos-for-followers-a-rotational-approach-for-insta-success/"><u>In 2024, Flipping Photos for Followers A Rotational Approach for Insta Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-previous-windows-sleepshutdown-configs/"><u>Regaining Previous Windows Sleep/Shutdown Configs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-spontaneous-command-prompt-pop-ups-on-pcs/"><u>Removing Spontaneous Command Prompt Pop-Ups on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-oversight-of-windows-drives/"><u>Repairing Oversight of Windows' Drives</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-reviving-corrupt-nikon-movies/"><u>Step-By-Step: Reviving Corrupt Nikon Movies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-install-icloud-successfully-on-your-windows-pc/"><u>Steps to Install iCloud Successfully on Your Window's PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-iphone-14-pro-and-pro-max-protectors-comprehensive-reviews-by-techradar/"><u>Top Rated iPhone 14 Pro & Pro Max Protectors - Comprehensive Reviews by TechRadar</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-free-and-premium-background-replacement-apps/"><u>Top-Rated Free and Premium Background Replacement Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gpts-potential-vulnerabilities/"><u>Understanding GPT's Potential Vulnerabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-maximize-graphics-ram-efficiency/"><u>Windows 11: Maximize Graphics RAM Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-best-meteorology-mates-forecasting-features-explored/"><u>Windows 11'S Best Meteorology Mates: Forecasting Features Explored</u></a></li>
+</ul></div>
+

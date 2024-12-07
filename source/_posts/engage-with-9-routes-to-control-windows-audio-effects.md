@@ -1,7 +1,7 @@
 ---
 title: Engage With 9 Routes to Control Windows Audio Effects
-date: 2024-11-24T16:58:34.245Z
-updated: 2024-11-27T16:48:13.458Z
+date: 2024-12-02T01:12:46.024Z
+updated: 2024-12-06T19:04:46.220Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 
 ![Open Sound Settings Using Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-search-bar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Open Sound Settings Using Run Command
 
  The Run command is another quick method to open Sound Settings. Windows offers a host of shortcut commands helpful in accessing settings and programs quickly. The process is different from the search bar but if you’d like to try this method, follow these steps:
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 
  The Sound Settings window will open, and you can make the desired changes from here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Open Sound Settings Using Task Manager
 
  Task Manager monitors and manages computer performance, applications & processes running in the background. Besides that, you can also use Task Manager to open certain settings and software. To open Sound Settings via this method, follow these steps:
@@ -70,14 +70,10 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 4. Type **ms-settings:sound** in the dialog box and press Enter.  
 ![Open Sound Settings Through Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-through-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This opens the Sound Settings window where you can customize and optimize your audio. When done, close the window, and you’re back on track.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Open Sound Settings Using Command Prompt
@@ -91,11 +87,11 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 3. Input **start ms-settings:sound** on the command line and press Enter.  
 ![Open Sound Settings Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This opens the Sound Settings window on your computer. Make the necessary changes then close it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. How to Open Sound Settings Using Windows PowerShell
 
@@ -108,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 3. If the UAC window pops up, click **Yes** to grant permission.  
 ![Open Sound Settings Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-powershell.jpg)
 4. In the PowerShell window, type the following command:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `start-process ms-settings:sound`
 5. Now press Enter to execute it.
@@ -127,11 +119,11 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 3. Click **Sound** on the right side of the window.  
 ![Open Sound Settings Using System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-system-settings.jpg)
 
- This opens up the Sound Settings page with options to adjust output, input, and system sounds.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This opens up the Sound Settings page with options to adjust output, input, and system sounds.
 
 ## 8\. How to Open Sound Settings Using a Desktop Shortcut
 
@@ -146,11 +138,11 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 4. Now name your shortcut, such as **Sound Settings,** and click **Finish**.  
 ![Name Sound Settings Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-sound-settings-shortcut-key.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A new shortcut appears on the desktop. Double-click it to open Sound Settings directly. This is a great way to quickly access this setting instead of using the search bar or other methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. How to Open Sound Settings Using a Shortcut Key
 
@@ -166,32 +158,21 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 ![Create Shortcut Key to Open Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-shortcut-key-to-open-sound-settings.jpg)
 6. Click **Apply** and then **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your shortcut key is now ready to use. Press **Ctrl + Alt** **\+ the keystroke you just assigned** to open Sound Settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quick Access to the Windows Sound Settings
 
  This guide has explained several ways to access Windows Sound Settings. It allows you to customize your sound preferences and control your audio settings conveniently. If you frequently use the settings, then create a desktop shortcut or hotkey for it.
 
  This guide shows you nine different methods to find and open Sound Settings in Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-instagram-blocking-basics/"><u>[New] 2024 Approved Navigating Instagram Blocking Basics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-world-of-srts-a-complete-tutorial-and-advice/"><u>[New] Navigating the World of SRTs A Complete Tutorial and Advice</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/alorant-screenshots-transformed-by-rapid-skilled-designers-for-2024/"><u>[New] Valorant Screenshots Transformed by Rapid, Skilled Designers for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-charting-new-territory-a-comprehensive-beginners-manual-for-product-evaluation-channels/"><u>2024 Approved Charting New Territory A Comprehensive Beginner's Manual for Product Evaluation Channels</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-oversight-top-four-strategies-by-authorities/"><u>AI Oversight: Top Four Strategies by Authorities</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-google-pixel-8-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Google Pixel 8 Pro?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-users-through-fixing-missing-windows-1011-search-data/"><u>Guiding Users Through Fixing Missing Window's 10/11 Search Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hidden-potentials-in-windows-11-unlocking-new-possibilities/"><u>Hidden Potentials in Windows 11: Unlocking New Possibilities</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-paper-trail-windows-1087-snapshot-techniques/"><u>In 2024, Paper Trail Windows 10/8/7 Snapshot Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-0xc10100bf-with-windows-video/"><u>Overcoming Error 0XC10100BF with Windows VIDEO</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-issue-unreachable-network-router-page/"><u>Overcoming Windows Issue: Unreachable Network Router Page</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reclaiming-deleted-posts-on-reddit-in-minutes/"><u>Reclaiming Deleted Posts on Reddit in Minutes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/team-communication-reinvented-for-speed-and-clarity/"><u>Team Communication Reinvented for Speed & Clarity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninstall-and-reinstall-strategy-microsoft-store-problems/"><u>Uninstall and Reinstall Strategy: Microsoft Store Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/vaio-unveils-ultra-lightweight-visionplus-14-worlds-lighter-portable-monitor-at-just-072lbs/"><u>Vaio Unveils Ultra-Lightweight Vision+ 14: World's Lighter Portable Monitor at Just 0.72Lbs</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -200,3 +181,23 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-video-capturing-made-simple-a-complete-guide-using-zd-software/"><u>[New] 2024 Approved Mastering Video Capturing Made Simple A Complete Guide Using ZD Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/dept-principles-for-youtube-participants/"><u>[New] Adept Principles for YouTube Participants</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722982340749-solved-hitman-3-crashing-on-pc-2024-tips/"><u>[Solved] Hitman 3 Crashing on PC – 2024 Tips</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-amplifying-engagement-with-leading-youtube-ranks-top-8-apps/"><u>[Updated] Amplifying Engagement with Leading YouTube Ranks Top 8 Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-a58-4g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo A58 4G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-spotify-from-starting-automatically-on-windows/"><u>How to Stop Spotify From Starting Automatically on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-narzo-60x-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme Narzo 60x 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-options-menu-win11-pointer-personalization-guide/"><u>Navigate the Options Menu: Win11 Pointer Personalization Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-windows-future-with-ai-tech-trends/"><u>Pioneering Windows' Future with AI Tech Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-silencing-tactic-windows-11-ping-stopper/"><u>Rapid Silencing Tactic: Windows 11 Ping Stopper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-soundcard-irq-conflicts-in-windows/"><u>Resolving Soundcard IRQ Conflicts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-steps-to-configure-intel-ethernet-drivers/"><u>Simplified Steps to Configure Intel Ethernet Drivers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-3d-video-makers-free-paid-and-everything-in-between/"><u>The Ultimate Guide to 3D Video Makers Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-strategies-for-a-blissful-ps5-journey/"><u>Top 5 Strategies for a Blissful PS5 Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-faster-boot-times-windows-11-guide/"><u>Unleashing Faster Boot Times: Windows 11 Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Configuring Win11's Color-Changing Features
-date: 2024-11-21T17:15:09.286Z
-updated: 2024-11-27T18:15:49.209Z
+date: 2024-11-29T21:09:49.220Z
+updated: 2024-12-06T18:18:02.233Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do You Really Need RGB Lighting Controls on Windows?
@@ -40,26 +40,30 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 ![RGB Lighting Tweaking Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-tweaking-software.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft noticed this problem and put forward a plan to unite all RBG accessories on Windows 11\. The Windows Insider build 25295 has a hidden experimental feature that adds a Lighting option in the Personalization section of the Settings app.
 
  This setting will act as a central hub to manage and tweak all the connected devices with RGB lighting. So, you will need fewer or no third-party apps for adjusting RGB effects on any connected device in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable RGB Lighting Controls in Windows 11
 
  The RGB lighting feature is in the testing phase and is only available in Windows Insider build 25295 and above. So, you need to first update to the latest Canary channel build and then use ViveTool to enable the feature on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Change to the Insider Build
 
  You can download the Insider build 25295 by enrolling in the Windows Insider program and then checking for new builds using the Update Windows section in the Settings app.
 
  However, if you don’t want to enroll in the program, you can use[UUP Dump to download the latest Windows Insider builds](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) and try it on your system or on a virtual machine. After that, install the build and boot to the desktop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Enable RGB Lighting Using ViVeTool
 
@@ -79,14 +83,10 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 9. Scroll down, and you see the**Lighting** option in the personalization settings. Click on it and then tweak the RGB lighting of all the supported devices. You can even match the RGB effects of a device with the Windows accent color.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![RGB Lighting Settings 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Control All Your RGB Peripherals in One Place
 
@@ -107,15 +107,18 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-the-ultimate-zoom-and-gmail-collaboration-methods-for-2024/"><u>[New] The Ultimate Zoom and Gmail Collaboration Methods for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-crafting-perfect-slack-filmo-meeting-experiences/"><u>[Updated] In 2024, Crafting Perfect Slack-Filmo Meeting Experiences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ustream-review-and-alternatives/"><u>2024 Approved Ustream Review and Alternatives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-playback-of-gameplay-on-windows-through-intel-software/"><u>Direct Playback of Gameplay on Windows Through Intel Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-dawn-of-artificial-intelligence/"><u>Exploring the Dawn of Artificial Intelligence</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-crashes-for-lego-star-wars-the-skywalker-saga-on-your-pc-updated-guide/"><u>How to Resolve Crashes for Lego Star Wars: The Skywalker Saga on Your PC (Updated Guide)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-x50iplus-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor X50i+ Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/liberate-your-digital-conversations-win-style/"><u>Liberate Your Digital Conversations, WIN-Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-win11s-notepad-with-ai-coach/"><u>Optimize Win11's Notepad with AI Coach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-moment-update-paves-the-way-for-next-level-experience/"><u>Windows 11: Moment Update Paves the Way for Next-Level Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-essential-hashtags-propel-your-posts-to-the-top/"><u>[New] In 2024, Essential #Hashtags Propel Your Posts to the Top</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-360-fb-live-broadcasts/"><u>[New] In 2024, Mastering 360 FB Live Broadcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-professional-video-grabber-high-res-recordings/"><u>2024 Approved Professional Video Grabber High-Res Recordings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-14-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 14 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-non-starting-obs-windows/"><u>Essential Fixes for Non-Starting OBS (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-back-to-basics-uninstalling-windows-11-apps/"><u>Getting Back to Basics: Uninstalling Windows 11 Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-8-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 8 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-poco-x5-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Poco X5 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-solution-fixing-windows-11s-upgrade-issue-0x800f0922/"><u>Mastering Solution: Fixing Windows 11'S Upgrade Issue 0X800F0922</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-eerie-echoes-await-discover-the-top-6-free-websites-for-spooky-audio-tunes-for-2024/"><u>New Eerie Echoes Await Discover the Top 6 Free Websites for Spooky Audio Tunes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-semaphore-deadlock-in-win1110-timeout/"><u>Resolving Semaphore Deadlock in Win11/10: Timeout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/times-unity-restore-windows-clock-consistency/"><u>Time's Unity: Restore Windows Clock Consistency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-solving-the-root-of-iomap64-bsod-errors/"><u>Understanding and Solving the Root of IOMap64 BSOD Errors</u></a></li>
 </ul></div>
 

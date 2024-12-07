@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalized Window Snaps in Windows"
-date: 2024-11-22T17:11:52.331Z
-updated: 2024-11-27T17:23:51.586Z
+date: 2024-11-30T01:31:59.775Z
+updated: 2024-12-07T01:55:31.106Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 6. After creating your snap layout, click the**Save & apply** button.  
 ![Create New Custom Layout in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-new-custom-layout-in-powertoys.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can repeat the above steps to create as many custom layouts as you want.
 
  By default, apps and programs on your computer will utilize[Windows 11's snap layouts](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/) when you move the mouse cursor over the maximize button or drag the window into a corner. To use your custom snap layout created with PowerToys, you'll need to hold the**Shift key** and then drag the window to one of your zones.
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 ![Snap Layout on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snap-layout-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Customize FancyZones Settings in PowerToys
@@ -74,19 +70,23 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 ![Customize Zone Appeareance in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-zone-appeareance-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, in the**Window behavior** section, you can use the checkboxes to specify how windows should behave when you use FancyZones. You can, for example, configure windows to revert to their original size when unsnapped using the**Restore the original size of windows when unsnapping** checkbox.
 
 ![Customize Window Behavior in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-window-behavior-in-powertoys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re accustomed to using**Win + arrow key** shortcut to snap windows on your computer, you can configure PowerToys to override Windows Snap. For that, enable the toggle next to**Override Windows Snap** and then use the Win + arrow keys to arrange your windows.
 
 ![Overide Windows Snap Setting in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/overide-windows-snap-setting-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With FancyZones, you can prevent specific apps and programs from snapping to zones. To do so, scroll down to the**Excluded apps** section in the FancyZones tab. Then, type in the name of the app you want to exclude. For instance, if you wanted to prevent File Explorer from snapping to zones, you’d type**explorer.exe** in the text field.
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 ![Exlude Apps in FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/exlude-apps-in-fancyzones.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Multitask Better With Custom Snap Layouts on Windows 11
@@ -116,19 +116,21 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-best-smartphone-video-recording-assistants-for-2024/"><u>[New] Best Smartphone Video Recording Assistants for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-effortless-advancement-in-pclaptop-edits-using-inshot/"><u>[Updated] 2024 Approved Effortless Advancement in PC/Laptop Edits Using Inshot</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-crack-your-smile-with-these-laughing-and-tearful-ig-meme-pages-for-2024/"><u>[Updated] Crack Your Smile with These Laughing & Tearful IG Meme Pages for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-crafting-a-viral-narrative-on-social-media-for-2024/"><u>[Updated] Crafting a Viral Narrative on Social Media for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-perfecting-the-bokeh-aesthetic-for-social-media-posts/"><u>[Updated] In 2024, Perfecting the Bokeh Aesthetic for Social Media Posts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-handbook-for-saving-insta-content/"><u>[Updated] The Ultimate Handbook for Saving Insta Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-launch-free-portable-dvd-software-today/"><u>2024 Approved Launch Free, Portable DVD Software Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dont-get-duped-unveiling-fake-windows-software-tricks/"><u>Don't Get Duped! Unveiling Fake Windows Software Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-restoring-defaults-for-win11-terminal/"><u>Guide to Restoring Defaults for Win11 Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-update-problem-zeroerror-80073712/"><u>Overcoming Update Problem: ZeroError 80073712</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-linking-airpods-with-windows-pcs/"><u>Quick Guide: Linking AirPods with Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stabilizing-your-windows-mouse-quick-fixes/"><u>Stabilizing Your Windows Mouse - Quick Fixes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ore-interface-youtube-studio-explained-for-2024/"><u>The Core Interface YouTube Studio Explained for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-windows-11s-unusual-zero-error/"><u>Troubleshoot Windows 11'S Unusual Zero-Error</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-reduce-audio-noise-in-video-recording-free-and-paid-for-2024/"><u>[New] Reduce Audio Noise in Video Recording [Free and Paid] for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unveiling-the-premier-monitors-photo-editings-future/"><u>[Updated] 2024 Approved Unveiling the Premier Monitors Photo Editing's Future</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flipped-frames-understanding-instagram-video-orientation/"><u>[Updated] Flipped Frames Understanding Instagram Video Orientation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-sonic-conflicts/"><u>Clearing Up Windows' Sonic Conflicts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-your-internet-connection-for-maximum-privacy-on-win-11/"><u>Configuring Your Internet Connection for Maximum Privacy on Win 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-mobile-browsing-with-bings-new-ai-enhanced-feature-for-android-and-ios/"><u>Enhance Mobile Browsing with Bing's New AI-Enhanced Feature for Android & iOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-timekeepers-for-pomodoro-lovers/"><u>Essential Windows Timekeepers For Pomodoro Lovers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-controlling-chromes-autonomous-tabs/"><u>Guidelines for Controlling Chrome's Autonomous Tabs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-tecno-camon-20-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Tecno Camon 20 Pro 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-hyper-v-enablement-in-win11/"><u>Master the Art of Hyper-V Enablement in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebuilding-connected-elements-in-windows-explorer/"><u>Rebuilding Connected Elements in Windows Explorer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-up-your-speaking-game-access-free-user-friendly-audio-alteration-tools-for-2024/"><u>Step Up Your Speaking Game - Access Free, User-Friendly Audio Alteration Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-elite-dangerous-from-crashing-on-windows-or-mac-os/"><u>Troubleshooting Tips: Stop Elite Dangerous From Crashing on Windows or Mac OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-with-kali-integration-in-windows/"><u>Unleash Potential with Kali Integration in Windows</u></a></li>
 </ul></div>
 

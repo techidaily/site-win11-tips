@@ -1,7 +1,7 @@
 ---
 title: "Steering Past the Storm: Resolving Stranded Xbox on Windows 11"
-date: 2024-11-22T17:20:17.968Z
-updated: 2024-11-27T18:12:09.378Z
+date: 2024-12-05T00:14:04.996Z
+updated: 2024-12-06T18:34:00.695Z
 tags:
   - windows10
   - windows11
@@ -45,15 +45,7 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 5. Then apply potential resolutions proposed within the troubleshooter.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reinstall Your Xbox App
 
@@ -61,9 +53,21 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Try Some Generic Windows App Fixes
 
  If none of the above worked, try these fixes that work for any malfunctioning Windows app:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update the Xbox App
 
@@ -72,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 ![The Update all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-update-all-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Select the Xbox App’s Reset Option
@@ -80,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
  Resetting the Xbox app is a confirmed fix for the “Looks like you’re stranded” error. Doing so will clear away any corrupted or old app data that could be causing the error. It’s easy to clear the Xbox app’s data with the **Reset** option in Settings. You can apply this potential resolution by following the instructions in our article about [resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/).
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change Your DNS Server to Google's Public DNS
 
@@ -89,33 +97,11 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get the Xbox App Working Again
 
  The Xbox Windows app is undoubtedly important for players who install games with that app and utilize its features. Applying the potential fixes above for the “Looks like you’re stranded” error will probably get the Xbox Windows app working for most players. Then you can access your games and utilize all the features in your Xbox app again.
 
  Users can’t utilize the Windows Xbox app when this error keeps reoccurring. Does the same thing happen when you try to utilize the Xbox app on Windows? If it does, this is how you can fix the Xbox app’s “Looks like you’re stranded” error in Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-computers-at-your-fingertips/"><u>2024 Approved Advanced Computers at Your Fingertips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-to-setting-up-powertoys-on-win11/"><u>Expert Guide to Setting Up PowerToys on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-internal-audio-errors-in-audacity-for-windows-1111/"><u>Fixing Internal Audio Errors in Audacity for Windows 11/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-mic-not-working-solved/"><u>HyperX Cloud Stinger Mic Not Working [Solved]</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/narrative-blueprint-a-basic-overview-for-2024/"><u>Narrative Blueprint A Basic Overview for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-resolving-error-0x800700e1-on-windows-11-systems/"><u>Solutions for Resolving Error 0X800700E1 on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-installer-problems-on-microsoft-store/"><u>Solving Installer Problems on Microsoft Store</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-swiftly-solve-error-code-0x80070652-on-your-pc/"><u>Troubleshooting Guide: Swiftly Solve Error Code 0X80070652 on Your PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/undead-unleashed-discovering-the-ultimate-zombie-games/"><u>Undead Unleashed Discovering the Ultimate Zombie Games</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -124,3 +110,21 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-drive-engagement-not-farewells-top-strategies-to-keep-your-audience-hooked-on-youtube/"><u>[Updated] Drive Engagement, Not Farewells Top Strategies to Keep Your Audience Hooked on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-perfect-zooming-techniques-for-google-meet/"><u>2024 Approved Perfect Zooming Techniques for Google Meet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-microsoft-iphone-drivers-for-windows-11-pcs-no-cost-downloads/"><u>Free Microsoft iPhone Drivers for Windows 11 PCs – No Cost Downloads</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A2 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-limit-or-block-youtube-viewing-time-on-your-ipad/"><u>How to Limit or Block YouTube Viewing Time on Your iPad</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-perfecting-professional-productions-using-vimeos-tools/"><u>In 2024, Perfecting Professional Productions Using Vimeo's Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-personalization-for-windows-11-search/"><u>Mastering Personalization for Windows 11 Search</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/merging-ai-and-messaging-chatgpt-with-whatsapp-support-guide/"><u>Merging AI and Messaging: ChatGPT with WhatsApp Support Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-handbrake-errors-instantly/"><u>Resolve Windows HandBrake Errors Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-and-fix-obs-startup-failures/"><u>Strategies to Prevent and Fix OBS Startup Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-tackle-non-starting-battlenet-on-win-1011-pcs/"><u>Strategies to Tackle Non-Starting Battle.net on Win 10/11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-failing-windows-11-activation-keys/"><u>Troubleshooting Failing Windows 11 Activation Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-activatedeactivate-wi-fi-data-metering/"><u>Windows 11: Activate/Deactivate Wi-Fi Data Metering</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Extending Pin Length: A Guide to Tighter Security in Win11"
-date: 2024-11-26T16:07:31.354Z
-updated: 2024-11-27T16:44:21.590Z
+date: 2024-12-01T16:09:01.609Z
+updated: 2024-12-06T22:24:09.663Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Extend the PIN Length by Editing the Registry
 
  Windows 11/10 Home doesn’t have any built-in setting for extending the minimum PIN length. So, many users will have to extend PIN length by creating a new PINComplexity registry key. Then you can set a new minimum PIN length value within that key. You can extend the Windows Hello PIN length by editing the registry as follows:
@@ -44,20 +48,21 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 ![The MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-dword.jpg)
 5. Double-click the new **MinimumPINLength** DWORD you’ve created.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Select the **Decimal** option.
 2. Then input a number higher than four in the **Value data** box and click **OK**. The value you enter there will be the new minimum character length for the Windows Hello PIN.  
 ![The Edit DWORD window for the MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window4.jpg)
 3. You can also set a maximum PIN length. To do so, right-click **PINComplexity** again and select the **DWORD (32-bit) Value** option on the **New** submenu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type **MaximumPINLength** into the DWORD’s text box.  
 ![A MaximumPINLength DWORD text box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-text-box.jpg)
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click on the **Decimal** radio button.
@@ -71,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Extend the PIN Length With Group Policy Editor
 
  Windows Pro and Enterprise editions have a Group Policy Editor tool that includes options for setting minimum and maximum PIN lengths. So, you don’t need to manually edit the registry to set a minimum PIN length if you can access Group Policy Editor. This is how to extend Windows Hello’s PIN length with Group Policy Editor:
@@ -86,23 +87,24 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
 4. Select **Apply** and **OK** to set the new PIN length policy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
 
@@ -112,27 +114,6 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-mastering-media-analysis-evaluating-your-vs-opponents-youtube-content/"><u>[New] Mastering Media Analysis Evaluating Your Vs. Opponents' YouTube Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-drive-management-easy-access-to-dropbox-and-googledrive-drives/"><u>Direct Drive Management: Easy Access to Dropbox and GoogleDrive Drives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-windows-11s-mac-locator-techniques/"><u>Discovering Windows 11'S MAC Locator Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-install-kali-linux-on-windows/"><u>How to Install Kali Linux on Windows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-first-choice-top-15-videography-power-tools/"><u>In 2024, First Choice Top 15 Videography Power Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-guide-private-yt-content-with-google-login/"><u>In 2024, Step-by-Step Guide Private YT Content with Google Login</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-academic-writing-leveraging-chatgpts-power/"><u>Mastering Academic Writing: Leveraging ChatGPT's Power</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-re-establishing-download-functionality-chrome-and-windows/"><u>Methods for Re-Establishing Download Functionality: Chrome & Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/one-shot-screenshot-instruction/"><u>One-Shot Screenshot Instruction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reducing-power-consumption-during-high-performance-gameplay/"><u>Reducing Power Consumption During High-Performance Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-call-misses-during-runtime-error-in-malwarebytes-software/"><u>Resolving Call Misses During Runtime Error in Malwarebytes Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/save-gomovies-titles-as-various-formats-quick-guide-to-mp4-avi-flv-conversions/"><u>Save GoMovies Titles as Various Formats – Quick Guide to MP4, AVI, FLV Conversions!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-video-standards-focus-on-aspect-ratios-for-2024/"><u>Twitter's Video Standards Focus on Aspect Ratios for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/unleash-advanced-features-with-the-innovative-i-upgrade-code-solution/"><u>Unleash Advanced Features with the Innovative I-Upgrade Code Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/use-accessibility-features-utilize-features-like-narrator-magnifier-and-text-size-adjustment-for-better-visibility-without-altering-display-settings-drastic43/"><u>Use Accessibility Features: Utilize Features Like Narrator, Magnifier, and Text Size Adjustment for Better Visibility without Altering Display Settings Drastically.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-tactics-against-apex-freezes-on-windows-11/"><u>Winning Tactics Against Apex Freezes on Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -140,3 +121,25 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-captivating-viewers-with-youtubes-visual-polishing/"><u>[Updated] Captivating Viewers with Youtube's Visual Polishing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-top-8-excellent-free-online-srt-translators-for-efficiency/"><u>[Updated] Unveiling Top 8 Excellent Free Online SRT Translators for Efficiency</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unique-expression-modifying-voices-on-instagram-media-features/"><u>2024 Approved Unique Expression Modifying Voices on Instagram Media Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-effective-multiple-views-in-windows/"><u>Enabling Effective Multiple Views in WIndows</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-writable-functionality-of-steam-folder-directories/"><u>Enhancing Writable Functionality of Steam Folder Directories</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-lava-yuva-2-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Lava Yuva 2 Pro Phone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210308989-9781910531464-mapping-the-psyche-volume-2/"><u>Mapping the Psyche Volume 2 | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-policy-settings-with-three-perspectives/"><u>Mastering Windows Policy Settings with Three Perspectives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-100mbps-ethernet-restrictions-on-windows-pcs/"><u>Overcoming 100Mbps Ethernet Restrictions on Windows PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-challenge-of-error-14-tips-and-tricks-for-iphone-users/"><u>Overcoming the Challenge of Error 14: Tips and Tricks for iPhone Users</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-huawei-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Huawei</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scaling-down-windows-memory-spikes-from-edge-webview2/"><u>Scaling Down Windows Memory Spikes From Edge WebView2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-retrieve-deleted-messages-with-microsoft-outlook/"><u>Step-by-Step Guide: Retrieve Deleted Messages with Microsoft Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-bypass-windows-you-dont-have-permission-message/"><u>Strategies to Bypass Windows You Don't Have Permission Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-video-conversion-turning-mkv-into-mp4-in-windows/"><u>Swift Video Conversion: Turning MKV Into MP4 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-4-best-webp-image-viewers-for-windows/"><u>The 4 Best WebP Image Viewers for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-file-download-issues-for-windows-users/"><u>Unlocking File Download Issues for Windows Users</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Defrag Glitch in OS
-date: 2024-11-26T17:55:42.194Z
-updated: 2024-11-27T17:42:25.594Z
+date: 2024-12-04T16:16:01.521Z
+updated: 2024-12-06T17:32:29.593Z
 tags:
   - windows10
   - windows11
@@ -51,14 +51,10 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 5. Click**Apply > OK** to save it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making the above changes, check if it solves the problem. If not, move on to the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker tool
 
@@ -82,10 +78,6 @@ To run the System File Checker, follow these steps:
 
  Once the scan is complete, restart your computer and try defragmenting again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the CHKDSK Utility
 
  If your computer's Disk Defragmenter is still not working, you can try[running the CHKDSK utility](http://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) . This is a computer program designed to check the integrity of your hard drive, identify errors, and fix them.
@@ -99,7 +91,7 @@ To run the CHKDSK utility, follow the below steps:
 4. When you're in Command Prompt, type the following command and press Enter:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `chkdsk C: /f`
@@ -111,7 +103,7 @@ To run the CHKDSK utility, follow the below steps:
  As it turns out, it may take several minutes for the scan to complete, depending on the size of your partition and sometimes it seems to get stuck. However, you should let it complete its task uninterrupted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Close All Third-Party Applications
@@ -125,7 +117,15 @@ To run the CHKDSK utility, follow the below steps:
 3. Then select**End task** from the context menu.  
 ![Close Programs Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Close-Programs-Via-Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After closing one, check if the disk defragmenter works again. If it does, the service you just closed is the culprit. Now you can either update, re-install, or even uninstall the problematic app so it stops interfering with Disk Defragmenter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Windows Disk Defragmenter's Opening Issues
 
@@ -146,24 +146,18 @@ To run the CHKDSK utility, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-17-easy-ways-grab-your-webinars-without-financial-investment-for-2024/"><u>[New] 17 Easy Ways Grab Your Webinars Without Financial Investment for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-evaluating-best-youtube-extractors-available-on-android/"><u>[New] 2024 Approved Evaluating Best YouTube Extractors Available on Android</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-freecam-x-live-streaming-software-reviewed/"><u>[New] In 2024, FreeCam X Live Streaming Software Reviewed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-tips-for-mute-video-capture/"><u>[Updated] Leading Tips for Mute Video Capture</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-perfect-match-with-these-adered-by-free-and-html-editor-but-also-include-relevant-keywords-like-windows-code-editing-tools-or-webpage-builders-her14/"><u>Find Your Perfect Match with These Adered by Free and HTML Editor, but Also Include Relevant Keywords Like Windows, Code Editing Tools, or Webpage Builders. Here Are Five Examples of New SEO Titles that Convey a Similar Meaning to the Original Phrase</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-failing-display-connection-on-pcs/"><u>How to Rectify Failing Display Connection on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unblock-lunar-client-launch-failure-on-pc/"><u>How to Unblock Lunar Client Launch Failure on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-windows-non-responsive-performance-chart/"><u>Improving Windows' Non-Responsive Performance Chart</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-essential-list-of-premium-cost-free-webm-streaming-services/"><u>In 2024, Essential List of Premium, Cost-Free WebM Streaming Services</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-s17-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo S17 Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/invisible-file-thumbnails-in-windows-11-how-to-repair/"><u>Invisible File Thumbnails in Windows 11 – How to Repair</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-no-installed-devices-message-on-pcs/"><u>Overcoming 'No Installed Devices' Message on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-ms-defenders-record-top-strategies-for-windows-users/"><u>Overcoming MS Defender's Record: Top Strategies for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-obstacles-to-unique-printer-id/"><u>Removing Obstacles to Unique Printer ID</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-no-internet-secured-issues-in-windows-a-step-by-step-guide/"><u>Resolving 'No Internet, Secured' Issues in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-graphics-transition-in-windows-10-with-nvidiaintel/"><u>Seamless Graphics Transition in Windows 10 with Nvidia/Intel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-restoring-windows-google-nearby-share/"><u>Step-By-Step Guide to Restoring Windows Google Nearby Share</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-tutorial-for-getting-back-permanently-erased-photos-from-your-iphone-securely/"><u>Step-by-Step Tutorial for Getting Back Permanently Erased Photos From Your iPhone Securely</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wins-wired-woes-here-are-6-steps-for-getting-your-network-up-and-running/"><u>Win's Wired Woes? Here Are 6 Steps for Getting Your Network Up and Running</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-prime-mac-video-tools-apart-from-bandicam/"><u>[New] In 2024, Prime Mac Video Tools Apart From Bandicam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-windows-best-calling-solutions-7-1-ranked-for-2024/"><u>[New] Windows' Best Calling Solutions, #7-#1 Ranked for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-finalcut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>[Updated] 2024 Approved FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-world-of-srts-a-complete-tutorial-and-advice/"><u>[Updated] Navigating the World of SRTs A Complete Tutorial and Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-ties-with-unknown-windows-accounts/"><u>Cutting Ties with Unknown Windows Accounts</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-techniques-making-your-laptops-touchpad-work-again/"><u>DIY Repair Techniques: Making Your Laptop's Touchpad Work Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-fixes-for-unresolved-microsoft-outlook-errors/"><u>Effective Fixes for Unresolved Microsoft Outlook Errors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-methods-for-mixed-up-youtube-playback-sequence/"><u>Hasty Methods for Mixed-Up YouTube Playback Sequence</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-reno-9a-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo Reno 9A to iPod | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-typical-windows-anydesk-problems/"><u>Overcoming Typical Windows AnyDesk Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11-program-launches/"><u>Streamlining Windows 11 Program Launches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-b-roll-sequences-with-main-scenes-effortlessly-for-2024/"><u>Syncing B Roll Sequences with Main Scenes Effortlessly for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-clipchamp-windows-11-installation-woes/"><u>Troubleshoot: ClipChamp Windows 11 Installation Woes</u></a></li>
 </ul></div>
 

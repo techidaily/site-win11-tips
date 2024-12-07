@@ -1,7 +1,7 @@
 ---
 title: Expert Strategies for Implementing ROUND Functionality in Your Excel Spreadsheets
-date: 2024-08-28T01:07:39.721Z
-updated: 2024-08-29T01:07:39.721Z
+date: 2024-12-01T23:33:15.178Z
+updated: 2024-12-06T16:32:51.014Z
 tags:
   - excel
 categories:
@@ -56,6 +56,10 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula for ROUND with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/CellReference-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The ROUNDUP Function
 
  Maybe you have a sheet with numbers that you want to always round up. This is when the ROUNDUP function is useful.
@@ -74,9 +78,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula for ROUND for an integer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Integer-ExcelRoundFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  To use the cell reference A1 for the value and round up three places to the left of the decimal point, you'd use this formula.
 
 =ROUNDUP(A1,-3)
@@ -84,11 +85,9 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![Formula for ROUND with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/CellReference-ExcelRoundFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
+
 ##  The ROUNDDOWN Function
 
  ROUNDDOWN works just like its counterpart above except that it always rounds down.
@@ -107,9 +106,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula for ROUND for an integer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Integer-ExcelRoundFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And to round that value in cell A1 down three places to the left of the decimal point, you'd use this formula:
 
 =ROUNDDOWN(A1,-3)
@@ -117,8 +113,13 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![Formula for ROUND with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/CellReference-ExcelRoundFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The MROUND Function
 
  A bit different than the above functions, MROUND rounds to a certain multiple.
@@ -134,13 +135,18 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
 ![Formula for MROUND with a positive multiple](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/PositiveMultiple-ExcelRoundFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To round -20 to the nearest multiple of -6 and receive the result -18, you'd use this formula:
 
 =MROUND(-20,-6)
 
 ![Formula for MROUND with a negative multiple](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/NegativeMultiple-ExcelRoundFunctions.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To round the value in cell A1 to the nearest multiple of 3, you would use this formula:
 
@@ -162,8 +168,6 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +175,22 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-make-a-game-streaming-video-with-ai-portrait-for-2024/"><u>[New] How to Make a Game Streaming Video With AI Portrait for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-navigating-the-essentials-of-av1-coders/"><u>[New] Navigating the Essentials of AV1 Coders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-azure-for-audio-transcriptions-a-beginners-manual/"><u>2024 Approved Azure for Audio Transcriptions A Beginner’s Manual</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-your-perfect-graphics-processing-unit-gpu-an-in-depth-purchase-guide/"><u>Choosing Your Perfect Graphics Processing Unit (GPU): An In-Depth Purchase Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-connection-issues-6-definitive-strategies-for-terraria-players/"><u>Conquer Connection Issues: 6 Definitive Strategies for Terraria Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-proper-installation-of-windows-11/"><u>Ensuring Proper Installation of Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-ensure-you-cant-go-back-removing-your-yahoo-mail-account-permanently/"><u>How to Ensure You Can't Go Back: Removing Your Yahoo Mail Account Permanently</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-moto-g14-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Moto G14 online without jailbreak</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-nvidia-rtx-2060-super-drivers-compatible-with-windows-11-get-them-now/"><u>Latest NVIDIA RTX 2060 Super Drivers: Compatible with Windows 11, Get Them Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revitalize-your-acer-nitro-5-comprehensive-guide-to-updating-key-drivers/"><u>Revitalize Your Acer Nitro 5: Comprehensive Guide to Updating Key Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-handle-windows-update-error-0x800f0845/"><u>Steps to Handle Windows Update Error: 0X800F0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-disabled-grammarly-functionality-in-windows-10/"><u>Tackling Disabled Grammarly Functionality in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-errors-during-win10win11-remote-access-attempts/"><u>Tackling Errors During Win10/Win11 Remote Access Attempts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-blinking-screens-in-win1011/"><u>Troubleshooting Blinking Screens in WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-a-guide-to-5-effective-window-folder-habits/"><u>Unleash Potential: A Guide to 5 Effective Window Folder Habits</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving The Enigma of Endless C: Drive Usage"
-date: 2024-11-23T16:15:52.078Z
-updated: 2024-11-27T17:53:18.198Z
+date: 2024-11-30T00:39:59.599Z
+updated: 2024-12-07T01:52:28.979Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 * [Extend the C: Partition](#extend-the-c-partition)
 * [Stop Your Computer From Hibernating](#stop-your-computer-from-hibernating)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Relocate personal folders and change the default save location to free up space on the C: drive.
@@ -81,21 +85,164 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 
 ![Disk Cleanup options in Windows 11.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/disk-cleanup-tool-windows-11.jpg)
 
+ Disk Cleanup is also recommended to [manage the massive WinSxs (Windows Side-by-Side) system folder](https://www.makeuseof.com/tag/manage-winsxs-folder-windows/). This Windows component stocks different versions of DLL, EXE, and OCX files. It plays a vital role as it helps update Windows without overwriting or deleting critical files, and in case of a crash, it can help roll back changes. However, WinSxs can balloon up to a size of 5-10GB.
+
+ Windows automatically manages the WinSxs folder, but it may be easier to run the Disk Cleanup tool to reduce its size.
+
+## 3\. Use CHKDSK to Find File System Errors
+
+ Logical errors on your storage disk can cause all sorts of malfunctions. This includes the incorrect reading of free disk space and storage allocation issues. You can perform a CHKDSK scan using Windows Command Prompt or the Local Disk properties menu to fix this.
+
+### How to Run CHKDSK Using Command Prompt
+
+ CHKDSK is a Windows utility that scans and fixes logical errors on your SSD or hard drive. To use it:
+
+1. Type **cmd** in Windows search.
+2. Right-click on **Command Prompt > Run as administrator**.
+3. In the CMD console, enter **chkdsk C: /f** and press **Enter**.
+4. CHKDSK will scan the C: drive for errors and automatically fix them upon detection.
+5. Restart your computer after the scan is complete.
+
+![The CHKDSK fix command in Command Prompt.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/chkdsk-command-prompt.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### How to Run CHKDSK Using Drive Properties
+
+ If you prefer to use CHKDSK without the command line, use this method:
+
+1. Open **File Explorer** using the **Win + E** shortcut.
+2. Navigate to **This PC**.
+3. Right-click on **Local Disk (C:)**.
+4. Click on **Properties**.
+5. Choose the **Tools** tab.
+6. Under Error Checking, click **Check.** You will need administrative privileges to go through with the scan.
+7. Click on the **Scan Drive** option when prompted.
+
+![Fix disk errors using Properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/chkdsk-properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 4\. Manage Your System Restore Points
+
+ System Restore is a critical Windows feature that allows you to restore your computer to a previous state in case of problems. But System Restore Points can take up a lot of space on your PC, depending upon how you've configured the function.
+
+ To adjust the space that System Restore points take up, follow these steps:
+
+1. Type **System Restore** in the Start menu search bar and click **Create a restore point**.
+2. Under **Protection Settings**, select **Local Disk (C:)** in the **Available Drives** box, then hit **Configure**.
+3. In the next window, move the **Max Usage** slider to the left. The further left, the less space System Restore will use to make restore points.
+4. Click **OK > OK** once you're satisfied.
+
+![System Restore Points configuration menu.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/system-restore-points-space-management.jpg)
+
+ Alternatively, you can [delete unneeded System Restore points](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) to free up additional space on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 5\. Extend the C: Partition
+
+ If you're sure that the storage issue on your computer is not the result of anything above, it may be worth extending the storage space on the C: partition. Of course, this is only possible if you have multiple partitions on your drive, or unallocated space is available.
+
+ All these operations can be performed using Disk Management:
+
+1. Press **Win + R** to open the Run box. Type **diskmgmt.msc** and press **Enter**.
+2. In the **Disk Management** window, right-click on **Local Disk (C:)**.
+3. Click on the **Extend Volume** option.  
+   1. If it's grayed out, no unallocated space is available on your storage device. To [unallocate space from another partition](https://www.makeuseof.com/merge-partitions-windows/), right-click the partition and select **Shrink Volume**. Then enter the amount of space you want to reallocate.
+4. In the **Extend Volume Wizard**, click **Next**.
+5. Adjust the amount of space you want to add to the C: drive using the **Select the amount of space in MB** option.
+6. Click **Next >** **Finish**.
+
+![Disk Management home screen in Windows 11.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/disk-management-windows-11.jpg)
+
+## 6\. Stop Your Computer From Hibernating
+
+ When your computer enters hibernation mode, it saves energy by shutting your system off completely, while enabling you to pick up your work from where you left off. While this may be convenient, hibernation files can fill up your C: drive.
+
+ To turn off hibernation, launch Command Prompt with administrative rights (right-click the Start button for a shortcut) and run this command:
+
+`powercfg.exe /hibernate off`
+
+ As your computer will no longer hibernate, be sure to save all your work before leaving your desk.
+
+ If you need more help keeping the C: drive clutter-free, you can use a third-party app to clean your disk. Besides freeing up space on your C: drive, these tools could improve your computer’s overall performance.
+
+### Key Takeaways
+
+* Relocate personal folders and change the default save location to free up space on the C: drive.
+* Use Windows Defender or third-party antivirus software to scan for malware and remove any hidden infections.
+* Run Disk Cleanup to safely delete temporary files and manage the WinSxs system folder size.
+
+ The C: drive in a Windows 11 or 10 PC contains the Windows installation files, along with other important files and folders, that all take up space. But if you notice the C: drive on your Windows computer fills up repeatedly, it may be a deeper issue that you should fix.
+
+## Start With These Quick Maintenance Tips
+
+ The C: drive might keep filling up because you store everything there instead of partitioning your physical drive. Try relocating personal folders to another partition or an external drive to free up some space. Additionally, [change the default save location for files and folders](https://www.makeuseof.com/windows-change-save-location/) so that new downloads are automatically saved elsewhere.
+
+ Also, check your installed apps and remove anything unnecessary. Even if you didn’t recently install any new apps, your system might contain [bloatware or unnecessary software you can remove](https://www.makeuseof.com/tag/10-windows-programs-uninstall/).
+
+ If you need more solutions to free up the C: drive, follow the tips below.
+
+## 1\. Scan for Malware
+
+ Viruses and other malware are some of the most common perpetrators behind unusual storage use on your hard drive. Thus, the first step you should take after noticing a C: drive storage issue is scanning for infection.
+
+ Windows Defender does the job well and provides adequate protection against all types of PC malware. While it has real-time protection, you should perform a full system scan to detect any hidden malware on your computer:
+
+1. In the Start menu search bar or Windows Search, type **Windows Security**.
+2. Click on the Windows Security app from the results. You'll recognize its shield icon.
+3. On the next screen, click on **Virus & threat protection**.
+4. Under **Current Threats**, click **Scan options**.
+5. On the next screen, ensure that the **Full Scan** option is selected.
+6. Click on **Scan now**.
+7. Wait for Windows to finish scanning the computer for viruses.
+
+![Windows Defender scan options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/scan-options-windows-11.jpg)
+
+ While the scan is in progress, you may notice a slowdown in your computer. It's recommended you postpone any resource-intensive tasks until the scan is over. If you use third-party antivirus software, you can perform a full scan by opening the application's dashboard (usually in the **System Tray**) and proceeding from there. The exact method differs across different antivirus vendors.
+
+ If this ends up being the source of your problem, see the [steps you should take upon discovering malware on your computer](http://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/).
+
+## 2\. Run Disk Cleanup
+
+ Temporary files, such as thumbnails and previous Windows updates, take up a lot of space on your hard drive. The Disk Cleanup utility in Windows can help you [safely delete temporary files, old copies of Windows Update files, Windows upgrade logs, and more](https://www.makeuseof.com/tag/delete-windows-files-folders/):
+
+1. Type **Disk Cleanup** in the Start menu search bar or Windows Search.
+2. Right-click on **Disk Cleanup > Run as administrator** from the search results.
+3. Select **Local Disk (C:)** from the disk selection menu and click **OK**.
+4. Under **Files to delete**, check options such as temporary internet files, thumbnails, and previous Windows installations and updates. Note that you won't be able to roll back Windows updates if you check the **Windows Update Cleanup** option.
+5. Click **OK**.
+6. On the next prompt, click **Delete files**.
+7. Wait for Disk Cleanup to do its job.
+
+![Disk Cleanup options in Windows 11.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/disk-cleanup-tool-windows-11.jpg)
 
  Disk Cleanup is also recommended to [manage the massive WinSxs (Windows Side-by-Side) system folder](https://www.makeuseof.com/tag/manage-winsxs-folder-windows/). This Windows component stocks different versions of DLL, EXE, and OCX files. It plays a vital role as it helps update Windows without overwriting or deleting critical files, and in case of a crash, it can help roll back changes. However, WinSxs can balloon up to a size of 5-10GB.
 
  Windows automatically manages the WinSxs folder, but it may be easier to run the Disk Cleanup tool to reduce its size.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use CHKDSK to Find File System Errors
 
  Logical errors on your storage disk can cause all sorts of malfunctions. This includes the incorrect reading of free disk space and storage allocation issues. You can perform a CHKDSK scan using Windows Command Prompt or the Local Disk properties menu to fix this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Run CHKDSK Using Command Prompt
 
@@ -137,10 +284,6 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 ![System Restore Points configuration menu.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/system-restore-points-space-management.jpg)
 
  Alternatively, you can [delete unneeded System Restore points](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) to free up additional space on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Extend the C: Partition
 
@@ -313,149 +456,6 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 
  If you need more solutions to free up the C: drive, follow the tips below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 1\. Scan for Malware
-
- Viruses and other malware are some of the most common perpetrators behind unusual storage use on your hard drive. Thus, the first step you should take after noticing a C: drive storage issue is scanning for infection.
-
- Windows Defender does the job well and provides adequate protection against all types of PC malware. While it has real-time protection, you should perform a full system scan to detect any hidden malware on your computer:
-
-1. In the Start menu search bar or Windows Search, type **Windows Security**.
-2. Click on the Windows Security app from the results. You'll recognize its shield icon.
-3. On the next screen, click on **Virus & threat protection**.
-4. Under **Current Threats**, click **Scan options**.
-5. On the next screen, ensure that the **Full Scan** option is selected.
-6. Click on **Scan now**.
-7. Wait for Windows to finish scanning the computer for viruses.
-
-![Windows Defender scan options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/scan-options-windows-11.jpg)
-
- While the scan is in progress, you may notice a slowdown in your computer. It's recommended you postpone any resource-intensive tasks until the scan is over. If you use third-party antivirus software, you can perform a full scan by opening the application's dashboard (usually in the **System Tray**) and proceeding from there. The exact method differs across different antivirus vendors.
-
- If this ends up being the source of your problem, see the [steps you should take upon discovering malware on your computer](http://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 2\. Run Disk Cleanup
-
- Temporary files, such as thumbnails and previous Windows updates, take up a lot of space on your hard drive. The Disk Cleanup utility in Windows can help you [safely delete temporary files, old copies of Windows Update files, Windows upgrade logs, and more](https://www.makeuseof.com/tag/delete-windows-files-folders/):
-
-1. Type **Disk Cleanup** in the Start menu search bar or Windows Search.
-2. Right-click on **Disk Cleanup > Run as administrator** from the search results.
-3. Select **Local Disk (C:)** from the disk selection menu and click **OK**.
-4. Under **Files to delete**, check options such as temporary internet files, thumbnails, and previous Windows installations and updates. Note that you won't be able to roll back Windows updates if you check the **Windows Update Cleanup** option.
-5. Click **OK**.
-6. On the next prompt, click **Delete files**.
-7. Wait for Disk Cleanup to do its job.
-
-![Disk Cleanup options in Windows 11.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/disk-cleanup-tool-windows-11.jpg)
-
- Disk Cleanup is also recommended to [manage the massive WinSxs (Windows Side-by-Side) system folder](https://www.makeuseof.com/tag/manage-winsxs-folder-windows/). This Windows component stocks different versions of DLL, EXE, and OCX files. It plays a vital role as it helps update Windows without overwriting or deleting critical files, and in case of a crash, it can help roll back changes. However, WinSxs can balloon up to a size of 5-10GB.
-
- Windows automatically manages the WinSxs folder, but it may be easier to run the Disk Cleanup tool to reduce its size.
-
-## 3\. Use CHKDSK to Find File System Errors
-
- Logical errors on your storage disk can cause all sorts of malfunctions. This includes the incorrect reading of free disk space and storage allocation issues. You can perform a CHKDSK scan using Windows Command Prompt or the Local Disk properties menu to fix this.
-
-### How to Run CHKDSK Using Command Prompt
-
- CHKDSK is a Windows utility that scans and fixes logical errors on your SSD or hard drive. To use it:
-
-1. Type **cmd** in Windows search.
-2. Right-click on **Command Prompt > Run as administrator**.
-3. In the CMD console, enter **chkdsk C: /f** and press **Enter**.
-4. CHKDSK will scan the C: drive for errors and automatically fix them upon detection.
-5. Restart your computer after the scan is complete.
-
-![The CHKDSK fix command in Command Prompt.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/chkdsk-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### How to Run CHKDSK Using Drive Properties
-
- If you prefer to use CHKDSK without the command line, use this method:
-
-1. Open **File Explorer** using the **Win + E** shortcut.
-2. Navigate to **This PC**.
-3. Right-click on **Local Disk (C:)**.
-4. Click on **Properties**.
-5. Choose the **Tools** tab.
-6. Under Error Checking, click **Check.** You will need administrative privileges to go through with the scan.
-7. Click on the **Scan Drive** option when prompted.
-
-![Fix disk errors using Properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/chkdsk-properties.jpg)
-
-## 4\. Manage Your System Restore Points
-
- System Restore is a critical Windows feature that allows you to restore your computer to a previous state in case of problems. But System Restore Points can take up a lot of space on your PC, depending upon how you've configured the function.
-
- To adjust the space that System Restore points take up, follow these steps:
-
-1. Type **System Restore** in the Start menu search bar and click **Create a restore point**.
-2. Under **Protection Settings**, select **Local Disk (C:)** in the **Available Drives** box, then hit **Configure**.
-3. In the next window, move the **Max Usage** slider to the left. The further left, the less space System Restore will use to make restore points.
-4. Click **OK > OK** once you're satisfied.
-
-![System Restore Points configuration menu.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/system-restore-points-space-management.jpg)
-
- Alternatively, you can [delete unneeded System Restore points](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) to free up additional space on your computer.
-
-## 5\. Extend the C: Partition
-
- If you're sure that the storage issue on your computer is not the result of anything above, it may be worth extending the storage space on the C: partition. Of course, this is only possible if you have multiple partitions on your drive, or unallocated space is available.
-
- All these operations can be performed using Disk Management:
-
-1. Press **Win + R** to open the Run box. Type **diskmgmt.msc** and press **Enter**.
-2. In the **Disk Management** window, right-click on **Local Disk (C:)**.
-3. Click on the **Extend Volume** option.  
-   1. If it's grayed out, no unallocated space is available on your storage device. To [unallocate space from another partition](https://www.makeuseof.com/merge-partitions-windows/), right-click the partition and select **Shrink Volume**. Then enter the amount of space you want to reallocate.
-4. In the **Extend Volume Wizard**, click **Next**.
-5. Adjust the amount of space you want to add to the C: drive using the **Select the amount of space in MB** option.
-6. Click **Next >** **Finish**.
-
-![Disk Management home screen in Windows 11.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/disk-management-windows-11.jpg)
-
-## 6\. Stop Your Computer From Hibernating
-
- When your computer enters hibernation mode, it saves energy by shutting your system off completely, while enabling you to pick up your work from where you left off. While this may be convenient, hibernation files can fill up your C: drive.
-
- To turn off hibernation, launch Command Prompt with administrative rights (right-click the Start button for a shortcut) and run this command:
-
-`powercfg.exe /hibernate off`
-
- As your computer will no longer hibernate, be sure to save all your work before leaving your desk.
-
- If you need more help keeping the C: drive clutter-free, you can use a third-party app to clean your disk. Besides freeing up space on your C: drive, these tools could improve your computer’s overall performance.
-
-### Key Takeaways
-
-* Relocate personal folders and change the default save location to free up space on the C: drive.
-* Use Windows Defender or third-party antivirus software to scan for malware and remove any hidden infections.
-* Run Disk Cleanup to safely delete temporary files and manage the WinSxs system folder size.
-
- The C: drive in a Windows 11 or 10 PC contains the Windows installation files, along with other important files and folders, that all take up space. But if you notice the C: drive on your Windows computer fills up repeatedly, it may be a deeper issue that you should fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Start With These Quick Maintenance Tips
-
- The C: drive might keep filling up because you store everything there instead of partitioning your physical drive. Try relocating personal folders to another partition or an external drive to free up some space. Additionally, [change the default save location for files and folders](https://www.makeuseof.com/windows-change-save-location/) so that new downloads are automatically saved elsewhere.
-
- Also, check your installed apps and remove anything unnecessary. Even if you didn’t recently install any new apps, your system might contain [bloatware or unnecessary software you can remove](https://www.makeuseof.com/tag/10-windows-programs-uninstall/).
-
- If you need more solutions to free up the C: drive, follow the tips below.
-
 ## 1\. Scan for Malware
 
  Viruses and other malware are some of the most common perpetrators behind unusual storage use on your hard drive. Thus, the first step you should take after noticing a C: drive storage issue is scanning for infection.
@@ -490,13 +490,13 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 
 ![Disk Cleanup options in Windows 11.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/disk-cleanup-tool-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Disk Cleanup is also recommended to [manage the massive WinSxs (Windows Side-by-Side) system folder](https://www.makeuseof.com/tag/manage-winsxs-folder-windows/). This Windows component stocks different versions of DLL, EXE, and OCX files. It plays a vital role as it helps update Windows without overwriting or deleting critical files, and in case of a crash, it can help roll back changes. However, WinSxs can balloon up to a size of 5-10GB.
 
  Windows automatically manages the WinSxs folder, but it may be easier to run the Disk Cleanup tool to reduce its size.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use CHKDSK to Find File System Errors
 
@@ -514,10 +514,6 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 
 ![The CHKDSK fix command in Command Prompt.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/chkdsk-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Run CHKDSK Using Drive Properties
 
  If you prefer to use CHKDSK without the command line, use this method:
@@ -533,7 +529,7 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 ![Fix disk errors using Properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/chkdsk-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Manage Your System Restore Points
@@ -566,6 +562,10 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 6. Click **Next >** **Finish**.
 
 ![Disk Management home screen in Windows 11.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/disk-management-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Stop Your Computer From Hibernating
 
@@ -594,21 +594,19 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-of-the-best-select-photovideo-makers-with-musical-accents/"><u>[New] Best of the Best Select Photo/Video Makers with Musical Accents</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-youtube-tv-a-step-by-step-guide/"><u>[New] In 2024, Mastering YouTube TV A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-puredownload-free-youtube-file-acquisition/"><u>[New] In 2024, PureDownload Free YouTube File Acquisition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nwinding-watchlists-youtubes-route-for-playback-in-opposite-direction-for-2024/"><u>[New] Unwinding Watchlists YouTube's Route for Playback in Opposite Direction for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-average-profit-per-million-youtube-viewers/"><u>[Updated] 2024 Approved Average Profit per Million YouTube Viewers</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-integrate-insta-tweet-and-snap-a-comprehensive-guide/"><u>[Updated] In 2024, Integrate Insta, Tweet & Snap A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-abnormal-typography-windows-style/"><u>Combatting Abnormal Typography Windows-Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-wireless-reach-with-5ghz/"><u>Enhancing Windows 11 Wireless Reach with 5GHz</u></a></li>
-<li><a href="https://win-answers.techidaily.com/frame-rate-and-stutter-fixes-the-division-2-enhanced-performance-guide-2024/"><u>Frame Rate and Stutter Fixes (The Division 2 - Enhanced Performance Guide 2024)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/key-strategies-for-gaining-facebooks-top-marker/"><u>Key Strategies for Gaining Facebook's Top Marker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-absence-of-assigned-application-linkage-windows/"><u>Rectifying Absence of Assigned Application Linkage (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-device-access-problem-in-audacity-on-windows-11/"><u>Tackling Device Access Problem in Audacity on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-win-lsa-protection-faults/"><u>Tackling Win LSA Protection Faults</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-quick-guide-to-windowed-data-discovery/"><u>The Quick Guide to Windowed Data Discovery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-your-computers-map-potential-with-google/"><u>Unlocking Your Computer's Map Potential with Google</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-discovering-top-10-budget-friendly-online-digital-audio-workstations-daws-for-2024/"><u>Updated Discovering Top 10 Budget-Friendly Online Digital Audio Workstations (DAWs) for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-biz-game-youtube-channels-that-succeeded/"><u>[New] 2024 Approved Elevate Your Biz Game YouTube Channels That Succeeded</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-gopro-max-360-vs-hero-11-which-takes-the-lead/"><u>[Updated] 2024 Approved GoPro Max 360 vs Hero 11 Which Takes the Lead?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-flying-high-with-husqvarna-the-drone-revolution/"><u>[Updated] In 2024, Flying High with Husqvarna The Drone Revolution</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-download-of-fb-storied-videos/"><u>[Updated] Navigating the Download of FB Storied Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-z-flip-5-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy Z Flip 5 Phone When You Forget the Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/declutter-your-desktop-must-remove-windows-tools-and-programs/"><u>Declutter Your Desktop: Must-Remove Windows Tools and Programs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-v29-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo V29 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-reactivating-windows-task-manager/"><u>Methods for Reactivating Windows Task Manager</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-window-11-in-place-upscales/"><u>The Insider's Guide to Window 11 In-Place Upscales</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasformare-i-file-mp3-in-formato-swf-free-online-con-movavi/"><u>Trasformare I File MP3 in Formato SWF Free Online Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-to-the-event-log-dilemran/"><u>Unveiling Solutions to the Event Log Dilemran</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-bringing-your-drawings-to-life-the-best-animation-software-for-artists/"><u>Updated 2024 Approved Bringing Your Drawings to Life The Best Animation Software for Artists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-from-abyss-usb-keys-mice-to-revive-dormant-pcs-on-windows/"><u>Wake From Abyss: USB, Keys, Mice to Revive Dormant PCs on Windows</u></a></li>
 </ul></div>
 

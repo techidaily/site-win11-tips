@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Elevate Prompt' Obstacles with Effective Windows Tips
-date: 2024-11-22T17:35:55.513Z
-updated: 2024-11-27T17:51:27.203Z
+date: 2024-12-01T01:39:19.700Z
+updated: 2024-12-06T16:01:35.944Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Affected Programs With Admin Rights
 
  The error 740 message mentions the need for operation elevation. That’s a hint to try running affected programs with elevated (administrator) rights. Check out this guide on [always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to set affected EXE files to run with elevated rights.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set Programs to Run in Compatibility Mode
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
@@ -85,19 +89,20 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 4. Then go to **Local Policies** and **Security Options** to access User Account Control Policy settings.  
 ![Security Options within Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/security-options.jpg)
 5. Double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select the **Elevate without prompting** option on the drop-down menu.  
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Disable Admin Approval Mode
@@ -111,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. To close the policy window, select the **OK** option.
 
 ## 7\. Disable Third-Party Antivirus Software Packages
@@ -125,11 +126,11 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If disabling the security software works, you don’t necessarily have to turn the security software off whenever you want to run the application file. Your antivirus software will probably include an exclusion list to which you can add trustworthy program file exceptions. Add the affected EXE file there to exclude it from the antivirus protection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Migrate to a New Admin User Account
 
@@ -138,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
@@ -149,19 +150,6 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 
  This is how you can fix error 740 within Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/oosting-youtube-productions-best-mac-mp4-editors-guide/"><u>[New] Boosting YouTube Productions Best Mac MP4 Editors Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-comprehensive-list-of-8-prime-youtube-to-avi-tools-for-2024/"><u>[New] Comprehensive List of 8 Prime YouTube-to-AVI Tools for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-mmos-in-vr-oculus-vs-htc-vive-vs-ps-vr/"><u>[New] Mastering MMOs in VR Oculus vs HTC Vive vs PS VR</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-curated-list-top-5-engaging-book-trailers/"><u>2024 Approved Curated List Top 5 Engaging Book Trailers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphers-to-declutter-implementing-insightful-file-comments/"><u>Deciphers to Declutter: Implementing Insightful File Comments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-way-to-turn-onoff-in-hand-typing-windows/"><u>Easy Way to Turn On/Off In-Hand Typing Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-microsofts-world-efficient-commands-at-your-fingertips/"><u>Navigating Microsoft's World: Efficient Commands at Your Fingertips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-xp019-error/"><u>Overcoming Windows XP019 Error</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -169,3 +157,18 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-prime-routines-for-documenting-live-sports-events/"><u>2024 Approved Prime Routines for Documenting Live Sports Events</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-swiftpodcasts-guide-for-iphone-users-download-made-simple/"><u>2024 Approved SwiftPodcasts Guide for iPhone Users - Download Made Simple</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-secrets-to-intense-hdr-portraits/"><u>2024 Approved Unlock the Secrets to Intense HDR Portraits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easily-overcoming-file-corrupted-issue-error-0x80070570-on-windows-11/"><u>Easily Overcoming File Corrupted Issue (Error 0X80070570) on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-updater-issue-0x80246007-in-w10w11/"><u>Eradicating Windows Updater Issue 0X80246007 in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-typing-unleashing-the-potential-of-powertoys/"><u>Faster Typing: Unleashing the Potential of PowerToys</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/glide-in-the-cold-highlighting-precision-in-snowboard-cross-events-22-for-2024/"><u>Glide in the Cold Highlighting Precision in Snowboard Cross Events, '22 for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/gratuit-gebaseerd-afconvertere-avi-files-naar-m4v-onlinemovavi/"><u>Gratuit Gebaseerd Afconvertere AVI-Files Naar M4V - Onlinemovavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-your-vpn-for-unrestricted-chatgpt-access/"><u>How to Use Your VPN for Unrestricted ChatGPT Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-geforce-now-error-code-xc0f1103f/"><u>Steps to Correct GeForce Now Error Code Xc0f1103f</u></a></li>
+</ul></div>
+

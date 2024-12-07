@@ -1,7 +1,7 @@
 ---
 title: Tackling the 'Unavailable' Error on Your PC's Windows Apps
-date: 2024-08-28T01:11:13.817Z
-updated: 2024-08-29T01:11:13.817Z
+date: 2024-12-01T23:30:21.276Z
+updated: 2024-12-06T17:01:55.669Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
  While the Microsoft Store offers a great selection of apps for Windows systems, you may sometimes encounter installation errors. One such error is “this app will not work on your device” which usually occurs when installing apps from the Store app. This error message appears with a yellow circle around an exclamation mark, even if the app is compatible.
 
  There could be various reasons for this issue depending on the app, such as a corrupted cache file or system problems. Read this guide to learn more about this error and how to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
 
@@ -44,16 +48,10 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 2. Click the **Library** icon. This will be on the left side of the Store app.  
 ![Check for Microsoft Store Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-for-microsoft-store-updates.jpg)
 3. Next, click the **Get updates** button to check for available updates.
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 4. If updates are available, click **Update all** to download and install them.
 
  After following the steps above, restart your computer and see if it resolves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 4\. Run the Windows Store Apps Troubleshooter
 
  Windows comes with a built-in troubleshooter that diagnoses and resolves various problems. You can use it to fix the “This app will not work on your device” error as well. To run the troubleshooter, follow these steps:
@@ -62,17 +60,15 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 2. From the left pane, click **System > Troubleshoot > Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 3. Scroll down to **Windows Store Apps** and click the **Run** button.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 4. Wait for the troubleshooter to detect any problem and fix it if necessary.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After performing the instructions, try launching the app again and see if it works. If not, you can try the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Restart the Application Identity Service
 
  Application Identity service determines and verifies the identity of Windows Store apps. So, if it’s not running correctly, you may run into this error. To restart this service, do the following:
@@ -82,14 +78,16 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 3. Scroll down to find the **Application Identity** service and double-click on it.  
 ![Restart the Application Identity Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restart-the-application-identity-service.jpg)
 4. In the Properties window, set the **Startup type** to **Automatic**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Also, click on the **Start** button under Service status.
 6. Finally, click **Apply > OK** to save the changes.
 
  Now, restart your computer and check if the error has been resolved. If not, proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Temporarily Disable Your Antivirus Program
 
  If you have an antivirus program installed on your computer, it could block the app from running. To check if this is the case, temporarily disable your antivirus and see if it works. Here's how to do it:
@@ -101,7 +99,16 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 5. Next, scroll down to **Virus & threat protection settings** and click **Manage settings**.  
 ![Manage settings in Windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manage-settings-in-windows-security.jpg)
 6. Turn off the **Real-time protection** toggle.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off the Real-time protection toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-off-the-real-time-protection-toggle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now restart your computer and try launching the app again. If the error still persists, turn on Real-time protection and try the next one.
 
@@ -114,22 +121,14 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 3. In the Windows Features dialog, scroll down to **Hyper-V** and check the box next to it.  
 ![Enable Hyper-V in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-hyper-v-in-windows-features.jpg)
 4. Similarly, search for **Virtual Machine Platform** and **Windows Hypervisor Platform** and enable them as well.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 5. Once done, click **OK > Apply** to save the changes.
 
  Finally, restart your computer and check if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Perform Several Generic Windows Fixes
 
  If none of the above solutions managed to fix the error, you can try performing several generic fixes. This includes [running the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to scan for missing or corrupted files and the Deployment Image Servicing and Management tool to repair any corrupt system image.
@@ -144,11 +143,29 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 
  There could be various reasons for this issue depending on the app, such as a corrupted cache file or system problems. Read this guide to learn more about this error and how to fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-effortless-recordings-at-no-extra-cost-guide-to-top-free-tools-for-2024/"><u>[New] Effortless Recordings at No Extra Cost – Guide to Top Free Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-a-scholarly-treatise-on-directed-user-engagement/"><u>[New] In 2024, A Scholarly Treatise on Directed User Engagement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-vr-gaming-powered-essential-oculus-players/"><u>[New] In 2024, VR Gaming Powered Essential Oculus Players</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-step-by-step-journey-to-fcp-mastery/"><u>[Updated] In 2024, Step-By-Step Journey to FCP Mastery</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-most-watched-videos-on-fb/"><u>[Updated] In 2024, The Ultimate List of Most-Watched Videos on FB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-7-camcorders-for-extreme-weather-and-splashes-review-for-2024/"><u>[Updated] Top 7 Camcorders for Extreme Weather and Splashes Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converting-gmail-to-outlook-mail-on-windows/"><u>Converting Gmail to Outlook Mail on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-11-camera-glitch-code-a00f4289/"><u>Correcting Windows 11 Camera Glitch Code A00F4289</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-a-smooth-wsl-2-experience-with-docker-tools/"><u>Expert Tips for a Smooth WSL 2 Experience with Docker Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-redmi-a2plus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Redmi A2+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/protecting-your-system-from-threats-comprehensive-instructions-for-utilizing-windows-firewall-with-yl-software-expertise/"><u>Protecting Your System From Threats: Comprehensive Instructions for Utilizing Windows Firewall with YL Software Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-pin-authenticate-error-on-windows-1110-devices/"><u>Quick Fix for Pin Authenticate Error on Windows 11/10 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/script-snafus-say-goodbye-with-these-windows-fixes/"><u>Script Snafus? Say Goodbye with These Windows Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-productivity-in-windows-with-these-top-apps/"><u>Skyrocket Your Productivity in Windows with These Top Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-addressing-error-code-c0000005-in-windows/"><u>Unraveling and Addressing Error Code C0000005 in Windows</u></a></li>
+</ul></div>
+

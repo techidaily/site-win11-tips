@@ -1,7 +1,7 @@
 ---
 title: "Excel Tutorial: Building Your First Radar Chart From Scratch"
-date: 2024-08-28T01:08:37.499Z
-updated: 2024-08-29T01:08:37.499Z
+date: 2024-12-01T18:43:02.456Z
+updated: 2024-12-06T20:42:09.937Z
 tags:
   - excel
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![Completed Radar chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/completed-radar-chart.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Creating Radar Charts in Excel is straightforward. In this article, we'll show you how to create two types of Radar Chart: a regular chart (like the one above) and a filled chart (like the one below, which fills in the areas instead of just showing the outlines).
 
 ![Radar Chart with one data series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/radar-chart-one-series.png) 
@@ -33,11 +37,16 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![Performance analysis data for our Radar Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/the-data.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We have three trainers: Graham, Barbara, and Keith. We've assessed them in five different categories (Knowledge, Delivery, and so on) and our Excel table contains those ratings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Create a Radar Chart in Excel
 
  In this first example, we will create a Radar Chart that shows the assessment of all three trainers.
@@ -53,20 +62,22 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![First Radar chart example](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/first-radar-chart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Enter a Chart Title
 
  Select the chart title and then type a new title. As you type, the text will appear in the Formula Bar.
 
 ![Entering a chart title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/chart-title.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you press Enter, your chart will have a new title.
 
 ![Entering a chart title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/chart-title.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Move the Legend
 
@@ -85,8 +96,9 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![Accessing the axis options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/axis-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Format Axis pane appears on the right. We want to edit the "Minimum" setting under the "Bounds" section, so click that field and type "3" there.
 
 ![Setting the minimum bound for the axis](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/setting-minimum-bound-1.png) 
@@ -95,14 +107,12 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![Completed Radar chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/completed-radar-chart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  This example gives us a nice view of which trainers excel at which qualities, and also how rounded their skill sets are.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Create a Filled Radar Chart
 
  For a second example, we will create a filled radar chart for just one of the trainers. We will use Keith for this example.
@@ -123,17 +133,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![Create a filled Radar chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/filled-radar.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  When you create a radar chart using only one data series, the axis does not start from zero the way it did in our previous example. Instead, the minimum bound will be the lowest number in the range of cells you selected. In our case, the minimum bound is 4.4---one tick below Keith's minimum score.
 
 ![Radar Chart with one data series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/radar-chart-one-series.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  This chart helps you visualize how strong Keith is in each of the assessed qualities.
 
  Note that if we were creating more than one radar chart (like, say, we wanted to show a separate chart for each of our trainers), we would want to make sure the axis ranges are consistent so that the data presentation is not misleading. So, for example, we would set the minimum bound to be a bit below the lowest ranking of any trainer and the maximum bound to be a bit higher than the highest ranking of any trainer. You could even remove the axis itself to reduce clutter on the chart.
@@ -148,8 +151,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +158,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-steps-to-implement-video-card-anchors-on-youtube/"><u>[Updated] 2024 Approved Essential Steps to Implement Video Card Anchors on YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-essential-tips-for-film-saving-and-trimming-in-adobe-connect/"><u>2024 Approved Essential Tips for Film Saving and Trimming in Adobe Connect</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-clockdate-visibility-in-windows-11-bar/"><u>Controlling Clock/Date Visibility in Windows 11 Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-best-moments-for-running-ping-commands/"><u>Decoding the Best Moments for Running Ping Commands</u></a></li>
+<li><a href="https://win-special.techidaily.com/guia-paso-a-paso-para-hacer-respaldo-de-la-configuracion-de-windows-vhd-en-versiones-11-8-y-7/"><u>Guía Paso a Paso Para Hacer Respaldo De La Configuración De Windows (VHD) en Versiones 11, 8 Y 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-operation-failed-0x0000011b-error-on-windows-11-and-11/"><u>How to Fix the Operation Failed 0X0000011B Error on Windows 11 & 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-pro-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 Pro from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-device-linking-performance-with-reduced-ram-consumption/"><u>Improving Device Linking Performance with Reduced RAM Consumption</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reset-your-shortcuts-strategies-to-restore-functionality-to-windows-input-methods/"><u>Reset Your Shortcuts!: Strategies to Restore Functionality to Windows Input Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-update-error-code-0xca00a009/"><u>Resolving Windows Update Error: Code 0xCA00A009</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reviewing-changes-in-the-sony-s6500-blu-ray-system/"><u>Reviewing Changes in the Sony S6500 Blu-Ray System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrims-extender-errors-on-your-system/"><u>Skyrim's Extender Errors on Your System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-metallic-seekers-industry-experts-choice-zdnet/"><u>Top-Rated Metallic Seekers : Industry Experts' Choice - ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-store-repair-guide-to-eliminate-error-code-x00000000/"><u>Win 11 Store Repair Guide to Eliminate Error Code X00000000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-over-xbox-woes-on-your-windows-machine/"><u>Win Over Xbox Woes on Your Windows Machine</u></a></li>
+</ul></div>
 

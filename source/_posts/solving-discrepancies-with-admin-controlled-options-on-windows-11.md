@@ -1,7 +1,7 @@
 ---
 title: Solving Discrepancies with Admin-Controlled Options on Windows 11
-date: 2024-11-23T18:13:57.206Z
-updated: 2024-11-27T16:06:42.521Z
+date: 2024-11-30T17:28:58.930Z
+updated: 2024-12-06T20:20:24.195Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes This Error Message to Appear?
 
  The error generally appears on your computer screen whenever you attempt to make changes to the Settings app. This can cause an unwanted hindrance, as it will not allow you to make changes in your Settings menu. It can occur due to several reasons:
@@ -41,15 +45,15 @@ Let's now see how to fix this problem.
 
  Your computer will then start to reboot and hopefully, your Settings app will now be free from any restrictions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check for Windows Updates
 
  If restarting your computer doesn't do the trick, make sure you've got the latest Windows updates installed on your computer. Microsoft routinely rolls out updates that could potentially address quite a few problems with its operating system. So, it is advised to search for any pending Windows Updates as another potential solution.
 
  Usually, restart your computer to complete the installation process. Then check to see if you can now make changes in your Settings app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Uninstall the Third-Party Application
 
@@ -58,6 +62,10 @@ Let's now see how to fix this problem.
  Think back to any applications you installed before the error began appearing. If you have an idea as to what might be the cause, follow our guide on[how to uninstall programs on Windows 10](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) or[Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) to get rid of it.
 
  Once done, restart your computer to apply the changes. If it hasn't gone away yet, try getting rid of any other recent applications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Diagnostic Data Settings
 
@@ -74,7 +82,7 @@ Let's now see how to fix this problem.
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Edit the Local Group Policy Editor
@@ -93,17 +101,9 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
 ![Allow Diagnostic Data Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-diagnostic-data-using-group-policy.jpg)  
  If your system runs Windows 10 or an earlier version, you will see**Allow Telemetry** instead of**Allow Diagnostic Data** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. On the next pop-up page, check the**Enabled** radio button.  
 ![Enabled Allow Diagnostic Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabled-allow-diagnostic-data.jpg)
 6. Under the**Options** section, click the drop-down menu and select**Send optionally diagnostics data** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Finally, click**Apply > OK** to save the changes.
 
@@ -121,13 +121,13 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 ![Edit Registry Editor to fix the error message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-registry-editor-to-fix-the-error-message.jpg)
 5. Then right-click on it and choose**Delete** from the context menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. If a pop-up menu appears on the screen, click**Yes** to confirm.
 
  Once you have made these changes, close the Registry editor window and restart your computer. Next time you start your PC, the error message will be gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing “Some Settings Are Managed by Your Organization” on Windows
 
@@ -148,20 +148,21 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-ultimate-list-premier-iphone-tone-producers-for-2024/"><u>[New] Ultimate List Premier iPhone Tone Producers for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-6-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 6 Plus Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/boost-your-broadband-with-the-powerful-netgear-nighthawk-x4-mesh-wi-fi-router-a-thorough-review/"><u>Boost Your Broadband with the Powerful Netgear Nighthawk X4 Mesh Wi-Fi Router - A Thorough Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compreptive-guide-virtualizing-win11-on-vmware-player-17/"><u>Compreptive Guide: Virtualizing Win11 on VMware Player 17</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-cpu-stewardship-managing-the-power-of-vanguards-sleep-service/"><u>Efficient CPU Stewardship: Managing the Power of Vanguard's Sleep Service</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/get-your-mac-software-essentials-at-a-steal-shop-the-macx-discounted-pack-featuring-dvd-ripping-and-video-conversion-solutions/"><u>Get Your Mac Software Essentials at a Steal - Shop the MacX Discounted Pack, Featuring DVD Ripping and Video Conversion Solutions!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterful-makeovers-picarts-backdrop-banishment-guide-for-2024/"><u>Masterful Makeovers PicArt’s Backdrop Banishment Guide for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/mastering-video-reversal-on-ios-devices-for-2024/"><u>Mastering Video Reversal on iOS Devices for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-not-sync-here-are-easy-solutions/"><u>Microsoft To-Do Not Sync? Here Are Easy Solutions!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-action-cams-with-exceptional-image-stability-for-2024/"><u>Premier Action Cams with Exceptional Image Stability for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silencing-win-11s-mobility-hub/"><u>Silencing Win 11'S Mobility Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-marooned-xbox-app-issue-step-by-step/"><u>Tackling the Marooned Xbox App Issue, Step-by-Step</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-your-gaming-experience-from-windows-error/"><u>Unblocking Your Gaming Experience From Windows Error</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/weaving-whirlwind-writings-for-2024/"><u>Weaving Whirlwind Writings for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ranking-the-leading-free-srt-translators-online-for-2024/"><u>[New] Ranking the Leading Free SRT Translators Online for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-write-a-script-for-a-youtube-video/"><u>[Updated] In 2024, How to Write a Script for a YouTube Video</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pioneering-creativity-youtubes-playground-for-talent-for-2024/"><u>[Updated] Pioneering Creativity YouTube's Playground for Talent for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-impact-of-authenticity-in-insta-self-portraits/"><u>2024 Approved The Impact of Authenticity in Insta Self-Portraits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-discreet-selector-tools-in-win-1011/"><u>Crafting Discreet Selector Tools in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-resolving-unknown-not-init-drives-in-windows/"><u>Deciphering and Resolving 'Unknown Not Init' Drives in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-timeout-error-for-win1110-semaphore/"><u>How To Reset 'Timeout Error' For Win11/10 Semaphore</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Hot 40 Phone?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-prevent-ai-driven-youtube-video-selections/"><u>In 2024, Prevent AI-Driven YouTube Video Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-competitive-play-on-windows/"><u>Mastering the Art of Competitive Play on Windows</u></a></li>
+<li><a href="https://win-latest.techidaily.com/restoring-removed-documents-from-the-recycle-bin-on-windows-8-pcs/"><u>Restoring Removed Documents From the Recycle Bin on Windows 8 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-teams-smart-systems-for-businesses/"><u>Speedy Teams, Smart Systems for Businesses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-missing-windows-notifications-for-phone-link/"><u>Steps to Restore Missing Windows Notifications for Phone Link</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2211467-9780007478637-the-ox-in-2013-your-chinese-horoscope/"><u>The Ox in 2013: Your Chinese Horoscope | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-personalizing-windows-11-screensavers/"><u>Tips for Personalizing Windows 11 Screensavers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-strategies-to-boost-a-lagging-internet-performance-expert-advice/"><u>Top Strategies to Boost a Lagging Internet Performance: Expert Advice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Win 11/11 Server Error in Microsoft Store
-date: 2024-11-23T18:05:22.127Z
-updated: 2024-11-27T16:23:51.912Z
+date: 2024-11-30T17:56:00.267Z
+updated: 2024-12-06T22:02:56.306Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,14 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 5. Click to apply any potential fix suggested within the troubleshooter.  
 ![Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-store-apps-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The steps for opening the same troubleshooter in Windows 10 aren’t exactly the because of the Settings app’s different layout. You’ll need to click**Update & Security** \>**Troubleshoot** \>**Additional Troubleshooters** in Windows 10’s Settings app. Click Windows Store Apps to press a**Run the troubleshooter** button that opens that troubleshooting tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check the Date & Time Settings on Your PC
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 3. Make sure the correct time zone for your region is selected on the**Time zone** drop-down menu.  
 ![The Sync now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/time-zone-drop-down-menu.jpg)
 4. Press the**Sync now** button to synchronize with the Windows time server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Start or Restart the Windows Update Service
 
@@ -73,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 
 ![The Restart option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reset the Microsoft Store Cache
 
  The Microsoft Store has a cache containing temporary, thumbnail, and log file data. A clogged-up cache with corrupted data can cause many MS Store issues. So, some users might need to reset (clear) that cache to fix the “server stumbled” error.
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 
 ![The wsreset command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsreset-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn Off Any Active Proxy Server Settings
 
  Some users use a proxy server to mask their IP address, but doing sooften causes Microsoft Store connection errors. If you’ve got an intermediary proxy server enabled on your PC, disable it via Settings or the Control Panel.
@@ -96,14 +96,6 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
  Our guide on[how to disable the proxy server settings on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) provides step-by-step instructions for both methods.
 
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-a-proxy-server-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Set Up a Connection to Google's DNS Servers
 
@@ -114,7 +106,11 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 ![DNS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable Any Active Third-Party Security Software
@@ -124,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
  However, don’t rule out the possibility that an antivirus component of an installed third-party security app could also be causing the “server stumbled” error. You can usually disable an antivirus shield by right-clicking the security software’s system tray icon and selecting a turnoff option.
 
  Should this troubleshooting method work, you don’t necessarily need to leave your security software disabled or uninstall it. Instead, add MS Store to the firewall’s allowed app list within your antivirus software. In addition, add that app to the antivirus component’s whitelist.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Enable TLS
 
@@ -141,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 5. Press**Apply** in the Internet Properties window.
 6. Click**OK** to exit Internet Properties.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Reregister the Microsoft Store
 
  Reregistering Microsoft Store will reset that app to its factory defaults. That’s a troubleshooting method worth trying if nothing else resolves the “server stumbled” error. You can apply this potential fix by executing a PowerShell command that generally reregisters pre-installed Windows apps.
@@ -148,6 +144,10 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
  Our article about[reregistering Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) includes step-by-step instructions for executing that command.
 
 ![The reregister command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reregister-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Download and Install Apps From the Microsoft Store Again
 
@@ -168,21 +168,22 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tiktok-meets-snap-a-comparative-study-of-social-media-platforms/"><u>[New] In 2024, TikTok Meets Snap A Comparative Study of Social Media Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008371995-solved-warcraft-3-reforged-crashing-on-pc-2024-tips/"><u>[Solved] Warcraft 3 Reforged Crashing on PC - 2024 Tips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-expert-advice-perfected-media-import-techniques-for-windows-10/"><u>[Updated] 2024 Approved Expert Advice Perfected Media Import Techniques for Windows 10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-images-deciphered-your-source-hunting-companion/"><u>[Updated] Instagram Images Deciphered Your Source Hunting Companion</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-15-video-player-apps-compatible-with-windows-10-8-7-and-macos-top-picks/"><u>Best 15 Video Player Apps Compatible with Windows 10, 8, 7 & macOS: Top Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-rgb-led-with-windows-11/"><u>Customizing RGB LED with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/function-fn-mastery-for-smooth-windows-experience/"><u>Function (Fn) Mastery for Smooth Windows Experience</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-x5-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco X5 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implementing-irreversible-deletion-on-desktop-trash-interface/"><u>Implementing Irreversible Deletion on Desktop Trash Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-not-sync-follow-these-steps-now/"><u>Microsoft To-Do Not Sync? Follow These Steps Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-change-key-windows-11-explore-updates/"><u>Navigating Through Change: Key Windows 11 Explore Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigational-knowledge-incorporating-apple-maps-on-a-windows-laptop/"><u>Navigational Knowledge: Incorporating Apple Maps on a Windows Laptop</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-create-stunning-animated-photos-with-these-8-tools/"><u>New 2024 Approved Create Stunning Animated Photos with These 8 Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silent-screamer-troubleshoot-and-use-your-microphone-in-google-meet/"><u>Silent Screamer? Troubleshoot and Use Your Microphone in Google Meet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-art-of-sound-design-for-captivating-canvas-clips-for-2024/"><u>The Art of Sound Design for Captivating Canvas Clips for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unlocking-quantum-hdr-your-comprehensive-guide-for-2024/"><u>Unlocking Quantum HDR Your Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-correct-inactive-user-profiles-on-fb/"><u>[New] Correct Inactive User Profiles on FB</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-lens-catalog-for-4k-industry-leaders/"><u>[New] The Ultimate Lens Catalog for 4K Industry Leaders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-buy-subscribers-wisely-watch-your-numbers-soar/"><u>[Updated] In 2024, Buy Subscribers Wisely, Watch Your Numbers Soar</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-itel-p55-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/grab-your-samsung-m2070fw-drivers-instantly-quick-guide-for-smooth-operations/"><u>Grab Your Samsung M2070FW Drivers Instantly: Quick Guide for Smooth Operations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-redmi-note-12t-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi Redmi Note 12T Pro Without PUK Codes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-live-gaming-shows-set-up-with-obs/"><u>In 2024, Live Gaming Shows Set Up with OBS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-secrets-to-extending-reach-with-youtube-lists/"><u>In 2024, Unveiling Secrets to Extending Reach with YouTube Lists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-immediate-folder-addition-on-windows-a-comprehensive-guide-for-onedrive-users/"><u>Mastering the Art of Immediate Folder Addition on Windows: A Comprehensive Guide for OneDrive Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-cc-errors-quickly/"><u>Navigating Windows 11 CC Errors Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-ignore-mandatory-warning-win10win11-fixes/"><u>Quick Guide to Ignore 'Mandatory' Warning: WIN10/WIN11 Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/saudade-de-portugal-conhecimento-das-melhores-expressoes/"><u>Saudade De Portugal! - Conhecimento Das Melhores Expressões</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enabledisable-wi-fi-connection-metering-on-win11/"><u>Steps to Enable/Disable Wi-Fi Connection Metering on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-restoring-your-pcs-control-in-windows-11/"><u>The Ultimate Guide for Restoring Your PC's Control in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-resetting-windows-post-shutdown/"><u>Troubleshooting Guide: Resetting Windows Post-Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vmware-crashes-in-windows-11/"><u>Troubleshooting VMware Crashes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-fax-interface-for-editors/"><u>Unlocking Windows 11'S Fax Interface for Editors</u></a></li>
 </ul></div>
 

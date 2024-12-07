@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Cause of Spotify's Code 4 Failures
-date: 2024-11-25T18:16:09.653Z
-updated: 2024-11-27T17:32:17.422Z
+date: 2024-12-06T01:31:27.847Z
+updated: 2024-12-06T16:19:18.472Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,11 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 3. Select**Settings** to view Spotify’s options.  
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-settings-option.jpg)
 4. Click the**Proxy type** drop-down menu to select**HTTP** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The HTTP option in Spotify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/http-option.jpg)
 5. Then select**Restart App** to apply.
 
@@ -52,14 +57,6 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
  Our guide to[changing the DNS server in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) post includes step-by-step guidelines for how to apply this solution via the Control Panel and Settings among other methods. You’ll need to set the preferred and alternative DNS server settings to Google addresses. Input**8.8.8.8** for the preferred DNS server and**8.8.4.4** for the alternative DNS setting.
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dns-server-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry
 
@@ -74,12 +71,13 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 6. Then right-click the**EnableActiveProbing** DWORD and select**Modify** .  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/modify-option.jpg)
 7. If**EnableActiveProbing** is set to**0** , clear the**Value data** box. Then input**1** inside that data box.  
-![The Edit DWORD window for the EnableActiveProbing DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-window.jpg)
-8. Select**OK** to save the new**EnableActiveProbing** value.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Edit DWORD window for the EnableActiveProbing DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-window.jpg)
+8. Select**OK** to save the new**EnableActiveProbing** value.
 
 ## 5\. Exclude Spotify From Your Antivirus Software
 
@@ -87,10 +85,14 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
 ![Windows Security's app exclusion settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-s-exclusion-list-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Our article about[setting Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) includes instructions for adding software to that app’s exception list. If you’re utilizing a third-party antivirus tool, look for an exclusion list within its settings tab. The antivirus software’s website will also likely include guidelines for how to use its exclusion list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off the Windows Defender Firewall
@@ -100,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 ![The turn off firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-firewall-s-allow-app-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Should this solution work, it’s not a good idea to keep the firewall disabled. Open Windows Defender Firewall’s allowed app list and select the Spotify checkboxes there to permit that app through it. Check out our how to guide about[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
@@ -108,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 ![The firewall's allowed apps settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allowed-app-settings.jpg)
 
  Of course, numerous standalone third-party firewalls can block Spotify much the same. If you have installed a third-party firewall, try disabling it to see if that resolves error 4\. Then add Spotify to its allowed apps and turn the firewall back on if it does.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Spotify
 
@@ -123,16 +129,12 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 ![The Download Spotify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-option.jpg)
 7. Open the Explorer file manager along with the folder in which Spotify downloaded.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Double-click the**SpotifySetup.exe** file to bring up the setup wizard and install Spotify.
 
  Another option is to install the Spotify UWP (Universal Windows Platform) app on Microsoft Store. Click the**Get it From Microsoft Store** button on the linked Spotify download page to bring up that app’s MS store page. Then click the**Get in Store app** \>**Open Microsoft Store** options and select**Get** to install the UWP app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy Spotify Music Online Again
@@ -154,19 +156,18 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-time-lapse-android-tips-and-tricks/"><u>[New] Mastering Time-Lapse Android Tips & Tricks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-journey-from-ad-revenue-to-bank-account-balance-for-2024/"><u>[New] The Journey From Ad Revenue to Bank Account Balance for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/blizzard-down-disconnect-notice/"><u>Blizzard Down: Disconnect Notice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-and-enhance-print-tools-in-w11-up-to-56-chars/"><u>Explore and Enhance Print Tools in W11 (Up to 56 Chars)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722964990705-get-your-hp-spectre-x360-up-and-running-essential-windows-drivers-downloaded/"><u>Get Your HP Spectre X360 Up and Running: Essential Windows Drivers Downloaded</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-administering-pc-control-panel/"><u>Guide to Administering PC Control Panel</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-journey-through-youtubes-spectacular-vr-realms/"><u>In 2024, Journey Through YouTube's Spectacular VR Realms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/scopri-i-migliori-convertitori-video-gratuiti-4k-per-pcmac-guida-sugli-editor-di-livello-superiore-che-consentono-il-passaggio-tra-risoluzioni-da-1080p-a-4k19/"><u>Scopri I Migliori Convertitori Video Gratuiti 4K per PC/Mac: Guida Sugli Editor Di Livello Superiore Che Consentono Il Passaggio Tra Risoluzioni Da 1080P a 4K</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-to-overcome-windows-security-anomalies/"><u>Solutions to Overcome Windows Security Anomalies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/spotlight-control-on-lock-screen-onoff-guide-for-windows-users/"><u>Spotlight Control on Lock Screen: On/Off Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-bluetooth-audio-issue-volume-control-missing/"><u>Tackling Windows Bluetooth Audio Issue: Volume Control Missing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-loops-best-free-gif-software/"><u>Updated Create Stunning Loops Best Free GIF Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-inactivity-timer-personalization-guide/"><u>Windows Inactivity Timer: Personalization Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-thrilling-twists-and-turns-short-track-22/"><u>[New] In 2024, Thrilling Twists & Turns - Short Track '22</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-start-a-stream-reap-riches-vlog-money-secrets/"><u>[Updated] In 2024, Start a Stream, Reap Riches Vlog Money Secrets</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyy-asteriaflexicapture-cloud/"><u>ABBYYブログで紹介! ASTERIAとFlexiCapture Cloudに対応した高度な画面分析テンプレート - 最新技術の解説</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/decouvrez-6-strategies-innovantes-pour-overcoming-la-barriere-du-redemarrage-de-windows-nouvelle-generation-windows-11/"><u>Découvrez 6 Stratégies Innovantes Pour Overcoming La Barrière Du Redémarrage De Windows Nouvelle Génération (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-altering-windows-lockscreen-timers/"><u>Guide to Altering Windows Lockscreen Timers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-power-of-creativity-magix-video-pro-x-demystified/"><u>In 2024, The Power of Creativity Magix Video Pro X Demystified</u></a></li>
+<li><a href="https://win-web.techidaily.com/pay-to-keep-your-pc-updated-find-out-how-much-microsoft-plans-to-charge-for-windows-11-updates-from-next-year-onwards-zdnet-insight/"><u>Pay to Keep Your PC Updated? Find Out How Much Microsoft Plans to Charge for Windows 11 Updates From Next Year Onwards | ZDNet Insight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preserving-default-windows-safescreensaver/"><u>Preserving Default Windows SafeScreensaver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-dilemma-opening-wxpxo11s-stubborn-folders-post-double-click/"><u>Resolving the Dilemma: Opening WXP/XO11's Stubborn Folders Post Double-Click</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/sd-kaart-herupdaten-en-vrije-ruimte-vergroten-op-windows-en-android-mobiel/"><u>SD-Kaart Herupdaten en Vrije Ruimte Vergroten Op Windows en Android Mobiel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-zeroxc000003e-windows-software-initiation-problem/"><u>Steps to Correct ZeroXc000003e Windows Software Initiation Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-changes-to-login-credentials-on-win-11/"><u>Strategic Changes to Login Credentials on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-closed-nvidia-control-panel-on-modern-windows/"><u>Troubleshoot Closed Nvidia Control Panel on Modern Windows</u></a></li>
 </ul></div>
 

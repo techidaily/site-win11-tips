@@ -1,7 +1,7 @@
 ---
 title: "Regaining Operational Capability: Fixing CCleaner on Windows OS"
-date: 2024-11-25T16:20:47.411Z
-updated: 2024-11-27T17:20:25.241Z
+date: 2024-12-05T16:54:14.392Z
+updated: 2024-12-06T22:51:01.342Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Try Opening CCleaner From Its Installation Directory
 
  Many users open CCleaner with desktop, taskbar, or Start menu shortcuts. However, CCleaner might not launch because of an issue with its shortcut. So, try opening CCleaner directly from its installation folder to see if that makes any difference. To do so, you’ll need to double-click the **CCleaner64.exe** application file within the software’s installation directory.
 
 ![The CCleaner.exe file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ccleaner-exe-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you can launch CCleaner from the installation directory, there must be an issue with the shortcut for opening that software. In this case, set up a new Windows desktop shortcut by right-clicking the CCleaner EXE file and selecting **Send to (Desktop)**. Then try opening the software with the new CCleaner shortcut.
 
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
  If that works, set CCleaner to always run with elevated privileges. Then you won’t need to manually select to run CCleaner with admin rights every time you need to open it. This guide about [how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) includes instructions for permanently setting programs to start with elevated privileges.
 
 ![The RUn this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-this-program-as-adminstrator-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Delete the CCleanerx64 Registry Key
 
@@ -60,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 ![The Image File Execution Options registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-image-file-executions-key.jpg)
 4. Right-click on the **CCleaner64.exe** key and select **Delete**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Delete context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-ccleaner.jpg)
 5. Select **Yes** on the Confirm Key Delete window prompt.
 6. Click the Registry Editor app’s **X** Close window button and try opening CCleaner.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Add CCleaner to Your Antivirus Software’s Exceptions List
 
@@ -75,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
  So, you might need to add CCleaner’s installation folder to your antivirus software’s exceptions list to fix that app not working. Our [guide to setting Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) provides guidelines for whitelisting software from the Microsoft Defender antivirus. If you utilize a third-party security app, add CCleaner to that software’s antivirus exclusion list.
 
 ![The Add an exclusion button in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-an-exclusion-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Disable Your Active Firewalls
 
@@ -91,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
  Run CCleaner after turning off the firewall on your PC. The firewall was most likely causing the issue if the CCleaner software works when it's disabled. Add CCleaner to your firewall’s allowed app list to utilize that software with the firewall enabled. Our article about [allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) tells you how to add programs to Microsoft Defender Firewall’s allowed list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Run CCleaner After Clean-Booting Windows
@@ -105,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
  What you do then is up to you. You can leave the boot setup as set or try to find out what was conflicting with the CCleaner software. To find what’s causing the issue, re-enable disabled startup items in a one-at-a-time fashion before every reboot until CCleaner stops working again. Then either permanently disable or uninstall the conflicting service or app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall CCleaner
@@ -114,30 +106,23 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 
 ![The Uninstall option for CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/programs-and-features-applet.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can reinstall a CCleaner UWP or desktop app. To get the desktop app, click **Free Download** on this [CCleaner page](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029956/https://www.ccleaner.com/ccleaner/download?ppc%5Fcode=012&ppc=a&gclsrc=aw.ds&gclid=CjwKCAjwu4WoBhBkEiwAojNdXkgjDRZcy77PTMyhMnePxm%5FBXllDabqSn%5FMd9yAkWVbfhL5dYhBFjBoCYbYQAvD%5FBwE). Double-click the **ccsetup615.exe** file in the folder it downloads to view the setup window. Then you can click **Install** within the setup wizard to reinstall CCleaner.
 
  If you want to try the UWP app instead, open the [CCleaner Microsoft Store page](https://apps.microsoft.com/store/detail/ccleaner/XPFCWP0SQWXM3V), click on the **Get in Store app**, and **Open Microsoft Store** options to access an installation option for CCleaner. Press the **Install** button for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Clean Up Your PC With CCleaner Again
 
  There’s no guaranteed way to fix CCleaner not working. However, the troubleshooting methods above will probably kick-start the CCleaner software for Windows 11/10 in most cases. Then you can clean up your Windows 11/10 PC with all the tools CCleaner has to offer again.
 
  Many users report CCleaner not responding when they click to open that software. However, this Piriform software can also fail to start with error messages. This is how you can fix CCleaner not working on your Windows 11/10 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-tutorial-on-editing-youtube-videos/"><u>[New] The Ultimate Tutorial on Editing YouTube Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cutting-edge-cinematography-best-film-cameras-for-all-experts/"><u>[Updated] In 2024, Cutting Edge Cinematography Best Film Cameras for All Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-above-average-cloud-service-selections/"><u>2024 Approved Above-Average Cloud Service Selections</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-core-upgrades-of-windows-11/"><u>2024 Approved The Core Upgrades of Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-playing-difficulties-in-multiversus-on-pc/"><u>Expert Tips for Resolving Playing Difficulties in Multiversus on PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-task-scheduler-fails-in-windows/"><u>Overcome Task Scheduler Fails in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-unknown-not-initialized-error-in-windows-os/"><u>Solving 'Unknown Not Initialized' Error in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-on-enabling-and-disabling-fn-key-on-pcs/"><u>Tips on Enabling & Disabling Fn Key on PCs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-try-before-you-buy-90-day-final-cut-pro-free-trial-offer/"><u>Updated 2024 Approved Try Before You Buy 90-Day Final Cut Pro Free Trial Offer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-a-dive-into-the-newly-added-system-updates/"><u>Windows 11: A Dive Into the Newly Added System Updates</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,3 +131,23 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-becoming-the-ultimate-streamer-on-youtube-and-twitch-using-obs/"><u>[New] 2024 Approved Becoming the Ultimate Streamer on YouTube and Twitch Using OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-download-and-audit-voice-recordings/"><u>[New] 2024 Approved Download & Audit Voice Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unseen-strategies-how-to-tap-into-your-facebook-message-library/"><u>[Updated] Unseen Strategies How to Tap Into Your Facebook Message Library</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerated-productivity-with-the-top-8-ai-apps-on-your-phone/"><u>Accelerated Productivity with the Top 8 AI Apps on Your Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advantages-choosing-microsoft-copilot-over-chatgpt/"><u>Advantages: Choosing Microsoft Copilot OVER ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-unlicensed-adobe-software-alerts/"><u>Disabling Unlicensed Adobe Software Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-11s-development-environment-a-guide-to-dev-drive/"><u>Exploring Windows 11'S Development Environment: A Guide to Dev Drive</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-winre-sfc-and-dism-tools-for-effective-windows-11-system-restoration/"><u>Exploring WinRE, SFC & DISM Tools for Effective Windows 11 System Restoration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-a-custom-pattern-lock-to-a-windows-11-or-11-pc/"><u>How to Add a Custom Pattern Lock to a Windows 11 or 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-tiworkerexe-high-cpu-usage-in-windows/"><u>How to Fix a TiWorker.exe High CPU Usage in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-note-30i-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Note 30i Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/standby-struggles-decoding-modern-standby-woes/"><u>Standby Struggles: Decoding Modern Standby Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-0x8004dec5-error-in-windows-11-onedrive-sign-in/"><u>Troubleshooting 0X8004dec5 Error in Windows 11 OneDrive Sign In</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/wiederherstellung-von-mbr-partitionstabellen-wie-man-verlorene-festplattenpartitionen-wiederherstellt/"><u>Wiederherstellung Von MBR-Partitionstabellen: Wie Man Verlorene Festplattenpartitionen Wiederherstellt</u></a></li>
+</ul></div>
+

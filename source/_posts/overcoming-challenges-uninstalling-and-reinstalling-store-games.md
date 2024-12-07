@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Challenges: Uninstalling and Reinstalling Store Games"
-date: 2024-08-28T01:13:21.349Z
-updated: 2024-08-29T01:13:21.349Z
+date: 2024-12-03T22:24:16.190Z
+updated: 2024-12-06T22:03:58.077Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ To run the Windows Store Apps troubleshooter:
 3. Next, click on**Other troubleshooters.**
 4. Scroll down and click on the**Run** button for Windows Store Apps. The troubleshooter will perform a scan and recommend fixed. Apply any recommended fixes and check for improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Clear and Reset the Windows Store Cache Using WSReset
 
 ![wsreset clear microsoft store cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsreset-clear-microsoft-store-cache.jpg)
@@ -45,9 +49,6 @@ To reset the Windows Store cache:
 2. Click on**wsreset** –**run command** from the search result. This will open a black Window that will reset the Windows Store cache. The window will close automatically and launch Microsoft Store.
 3. Close Microsoft Store and then relaunch the app to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 3\. Restart the Microsoft Store Install Service
 
  Microsoft Store Install service provides support for the Microsoft Store and starts on demand. If the service is disabled, you may not be able to install apps from the store resulting in the "this app couldn’t be installed" message.
@@ -64,11 +65,13 @@ To restart Microsoft Store Install Service:
 5. In the**Properties** dialog, check if the**Startup type** is set to**Disabled** .  
 ![microsoft store install service manual startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-manual-startup-type.jpg)
 6. If yes, click the**Startup type** drop-down and select**Manual** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![microsoft store install service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-restart.jpg)
 7. Click**Apply** and**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8. Next, right-click on**Microsoft Store Install Services** and select**Restart** .
 
  Close the Services snap-in and launch Microsoft Store. Then, try to install the app and check if the error is resolved.
@@ -77,9 +80,6 @@ To restart Microsoft Store Install Service:
 
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  You can use the built-in repair tool to fix common issues that may prevent the Microsoft Store from triggering such errors. Follow these steps to repair the Microsoft Store app.
 
 1. Press**Win + I** to open**Settings** .
@@ -96,8 +96,9 @@ To restart Microsoft Store Install Service:
 ![reset microsoft store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-microsoft-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can manually reset the Microsoft Store app from the Settings app. The Reset option will delete all the app data, and you may need to log in to use Microsoft Store again.
 
 To reset Microsoft Store:
@@ -118,8 +119,9 @@ To reset Microsoft Store:
 ![powershell re_register microsoft store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-re_register-microsoft-store-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Another way to fix the "this app couldn’t be installed" error is to re-register the Microsoft Store using PowerShell. Here’s how to do it.
 
 1. Make sure**Microsoft Store** is closed.
@@ -151,27 +153,26 @@ To reinstall Microsoft Store:
 5. Wait for the app to install successfully. Then, type**exit** and press**Enter** to close PowerShell.  
 ![reinstall microsoft store powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reinstall-microsoft-store-powershell.jpg)
 6. Press**Win** key and type**Microsoft Store** to launch the app.
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the "This App Couldn’t Be Installed" Error on Windows
 
  This error is often due to issues with the corrupt app cache and temporary glitches. Use the Windows Store Apps troubleshooter or run the WSreset tool to fix common problems with Microsoft Store. If the issue persists, you can perform a reset or re-register the app to resolve the error.
 
  That said, if the issue persists with a specific app, you can download the Microsoft Store apps using a third-party service and install them manually on your PC.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +181,22 @@ To reinstall Microsoft Store:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastery-in-migration-transitioning-to-macos-11-big-sur-effortlessly/"><u>[Updated] In 2024, Mastery in Migration Transitioning to macOS 11 Big Sur Effortlessly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-is-consumer-feedback-compensated-in-vlogs/"><u>2024 Approved Is Consumer Feedback Compensated in Vlogs?</u></a></li>
+<li><a href="https://win-net.techidaily.com/avoid-unwanted-changes-the-ultimate-guide-to-halting-windows-10-transition-to-windows-11-using-these-five-techniques/"><u>Avoid Unwanted Changes: The Ultimate Guide to Halting Windows 10 Transition to Windows 11 Using These Five Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/defeat-no-sound-glitch-in-battlefield-4-with-these-pro-solutions/"><u>Defeat No-Sound Glitch in Battlefield 4 with These Pro Solutions!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-crucial-links-in-the-nyts-latest-piece-connect-and-comprehend-august-12-update-427/"><u>Discover Crucial Links in the NYT's Latest Piece - Connect and Comprehend August 12 Update (#427)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-11s-application-harmonization-feature/"><u>Exploring Windows 11’S Application Harmonization Feature</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-6s-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 6s Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-cracking-the-code-calculating-your-income-from-youtubes-cpm/"><u>In 2024, Cracking the Code Calculating Your Income From YouTube's CPM</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-c55-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme C55 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>In 2024, Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-updating-passwords-in-windows-11/"><u>Mastering the Art of Updating Passwords in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-cursor-visibility-on-windows-1011/"><u>Maximizing Cursor Visibility on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repair-guide-for-a-dysfunctional-windows-start-icon/"><u>Repair Guide for a Dysfunctional Windows Start Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-adjusting-window-brightness-in-ws11/"><u>Step-by-Step Guide to Adjusting Window Brightness in WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-app-disposal-on-windows-11-93-chars/"><u>Streamlining App Disposal on Windows 11 (93 Chars)</u></a></li>
+</ul></div>
 

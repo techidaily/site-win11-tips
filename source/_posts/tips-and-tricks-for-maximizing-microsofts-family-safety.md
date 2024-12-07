@@ -1,7 +1,7 @@
 ---
 title: Tips & Tricks for Maximizing Microsoft's Family Safety
-date: 2024-11-24T17:55:45.314Z
-updated: 2024-11-27T16:49:52.963Z
+date: 2024-12-05T22:21:45.416Z
+updated: 2024-12-06T19:30:40.057Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Microsoft Family Safety?
 
 ![microsoft family safety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-safety.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have a family, then it makes perfect sense you'd want to[protect your children online](https://www.makeuseof.com/child-online-safety-tips/) in every way. In this case, Microsoft's Family Safety will be of huge help.
 
@@ -53,6 +53,10 @@ Here's how you can set up one through Content Filters:
 
 ![content filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/content-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can access your account through the Family Setup app on your smartphone. Here's how:
 
 1. Launch the**Family Safety** app.
@@ -62,6 +66,10 @@ Here's how you can set up one through Content Filters:
 5. Again, tap on the**Only use allowed websites** button to limit the access to specific websites.
 
  On both the Web and the smartphone app, you will find an additional option,**Apps and games** section. As the name suggest, this will let you limit the user's access to specific apps or games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Screen Time
 
@@ -79,10 +87,6 @@ Here's how you can enable Screen Time:
 ![edit time limit windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-time-limit-windows.jpg)
 
  You will get a new dialog box to choose a new day and time from there. Set your new screen time limit by clicking on**Done** . That's it; the screen time feature will be enabled on your PC from here on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Find Your Family
 
@@ -106,10 +110,6 @@ Firstly, make sure you have checked all your location permissions:
 
  That's it; do this, and location sharing will be turned on your Family Safety account from here on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Activity Reporting
 
  With Activity Reporting enabled on your PC, you get direct access to your family's device usage. Basically, how they use it, what they're spending their time most on, and for how long—Activity Reporting gives you all of this information in a single place. Again, you have two ways to go about this: through the website, or via the Family Safety app.
@@ -126,10 +126,6 @@ Firstly, make sure you have checked all your location permissions:
 * Select the member account you'd like to enable reporting.
 * Click on**Settings** and toggle on the**Activity reporting** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Spending
 
  Do your family members splurge your money on vanity purchases? While buying a few things here and there is not a big deal, however, if your kids are used to spending money online irresponsibly, a more restricted approach to spending might be more suited.
@@ -145,6 +141,10 @@ Here's how you can add money to your account:
 
 ![spending](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spending.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As soon as you do this, your account will receive a new payment. From hereon, your family members are free to make purchases under the pre-set budget set by you.
 
  Of course, if there's a deeper financial problem causing bad spending habits, this will be a band-aid over a bigger issue. As such, check out[how to break bad online shopping habits](https://www.makeuseof.com/ways-break-bad-online-shopping-habits/) for more tips on toning the spending down.
@@ -152,6 +152,10 @@ Here's how you can add money to your account:
 ## 5\. Family Notebook
 
 ![family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/family-notebook.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can plan and manage all your task or activities for days (or even weeks) from a single, personal app on your smartphone. However, if you're already a die-hard Microsoft user, why not make the most out of Family Notebook and its handy features?
 
@@ -162,10 +166,6 @@ Here's how you can add money to your account:
 ![microsoft family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-notebook.jpg)
 
  To get a full overview of Family Notebook, check out[Microsoft's short blog on Family Notebook](https://blogs.windows.com/windowsexperience/2018/05/14/windows-10-tip-organize-your-busy-lives-with-a-family-notebook-in-onenote/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Learning All About Microsoft Family Safety
 
@@ -186,14 +186,21 @@ Here's how you can add money to your account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-tickler-toolkit-image-mashup/"><u>[New] In 2024, Tickler Toolkit Image Mashup</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-complete-screen-recorders-playbook-for-2024/"><u>[Updated] The Complete Screen Recorder's Playbook for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-win11-editions-home-vs-professional-perks/"><u>Essential Guide to Win11 Editions: Home Vs. Professional Perks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-disk-organizer-not-starting-errors/"><u>Fixing Windows Disk Organizer Not Starting Errors</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-secure-boot-the-top-5-fixes-at-your-fingertips/"><u>Mastering Secure Boot: The Top 5 Fixes at Your Fingertips</u></a></li>
-<li><a href="https://discover-great.techidaily.com/online-broadcasting-made-easy-with-manycams-virtual-webcam-integration/"><u>Online Broadcasting Made Easy with ManyCam's Virtual Webcam Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/the-importance-of-consistent-windows-data-saves/"><u>The Importance of Consistent Windows Data Saves</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-secret-coders-archiving-in-image-formats/"><u>Windows 11 Secret Coders: Archiving in Image Formats</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-charting-the-course-for-your-niche-in-the-youtube-world/"><u>[New] Charting the Course for Your Niche in the YouTube World</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers-for-2024/"><u>[New] Maximize Your Gameplay In-Depth Tips & Tricks for FreeFirers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-to-iphone-selfie-gear-rankings-8-for-2024/"><u>[New] The Ultimate Guide to Iphone Selfie Gear Rankings (#8) for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-voice-transformation-visionaries-morphvox-edition-for-2024/"><u>[New] Voice Transformation Visionaries MorphVOX Edition for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-cutting-edge-techniques-to-elevate-fb-video-in-full-screen/"><u>2024 Approved Cutting Edge Techniques to Elevate FB Video in Full Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/8-best-free-mp3-downloader-for-android-for-2024/"><u>8 Best Free MP3 Downloader for Android for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-display-driver-start-fails-in-windows/"><u>Essential Fixes for “Display Driver Start” Fails in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/experts-guide-to-windows-security-crafting-custom-pin-layouts/"><u>Expert's Guide to Windows Security: Crafting Custom PIN Layouts</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-motorola-g24-power-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Motorola G24 Power Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-chatgpt-installation-in-a-windows-environment/"><u>Master ChatGPT Installation in a Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-minecraft-errors-with-ease/"><u>Navigating Windows' Minecraft Errors with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-resetting-issue-with-windows-11s-nvidia-control-panel/"><u>Overcoming Resetting Issue with Windows 11'S NVidia Control Panel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-issues-with-undetected-speaker-setup-on-windows-10/"><u>Resolving Sound Issues with Undetected Speaker Setup on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-your-note-applications-on-pcs/"><u>Safeguarding Your Note Applications on PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-detection-issues-with-astros-a50-headset-and-command-centre/"><u>Solving Detection Issues with Astro's A50 Headset and Command Centre</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-refresh-win11-terminal-settings/"><u>Steps to Refresh Win11 Terminal Settings</u></a></li>
 </ul></div>
 

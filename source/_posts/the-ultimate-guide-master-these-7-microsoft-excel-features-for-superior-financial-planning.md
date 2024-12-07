@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Master These 7 Microsoft Excel Features for Superior Financial Planning"
-date: 2024-08-28T01:08:54.879Z
-updated: 2024-08-29T01:08:54.879Z
+date: 2024-11-29T22:31:48.742Z
+updated: 2024-12-07T01:50:00.714Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 ---
 
 ## The Ultimate Guide: Master These 7 Microsoft Excel Features for Superior Financial Planning
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
  With all of the tasks you can use Microsoft Excel for, one of the most popular is tracking finances. If you'd like to create a sheet to manage your budget, we'll show you several [basic functions you need](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/).
 
  What makes Excel such a terrific tool for managing finances are its functions. You can use formulas with built-in functions to add your bills, subtract them from your income, see your highest expenses, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Add and Subtract Income and Expenses: SUM
 
@@ -55,6 +63,10 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![SUM formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SumManual-ExcelBudgetFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also use the `SUM` function to [subtract values in Excel](https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-12-mini-lock-screen-by-drfone-ios/). You'll likely want to subtract your total expenses from your total income to see how much you have left.
 
  Go to the cell where you want the result and enter the following replacing the cell references with your own:
@@ -67,6 +79,10 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 = C7-C17
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Add Certain Expenses: SUMIF
 
  Similar to `SUM`, [the SUMIF function](https://on-screen-recording.techidaily.com/pinnacle-platforms-transforming-online-interaction/) allows you to add numbers that meet specific criteria. You can use this to add the amounts due for your loans or maybe those bills your roommate pays.
@@ -78,6 +94,10 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 =SUMIF(B10:B17,"Loan",C10:C17)
 
 ![SUMIF for Loans](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SumIfLoan-ExcelBudgetFunctions.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use the `SUMIF` formula to match criteria for text as we did here, but also for numbers.
 
@@ -101,26 +121,20 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![Cell range for MAX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MaxRow-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  To enter the formula manually, use the following replacing the cell references with your own:
 
 =MAX(C12:N12)
 
 ![MAX formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MaxManual-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  You can use `MIN` the same way to find the lowest value. Select `MIN` from the `SUM` drop-down list or enter the formula manually.
 
 =MIN(C12:N12)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  4\. Count Expenses or Payments: COUNT
 
  Want to know how many bills you pay each month or the number of paychecks you receive throughout the year? Using the [COUNT function](https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/), you can count how many cells contain numbers.
@@ -133,25 +147,16 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![Count Numbers in AutoSum button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/CountButton-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Confirm or edit the cell range that displays and press Enter or Return.
 
 ![Cell range for COUNT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/CountColumn-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Alternatively, you can type the following formula replacing the cell references with your own:
 
 =COUNT(C10:C17)
 
 ![COUNT formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/CountManual-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  5\. See How Many Days to Pay: DAYS
 
  If part of your budget is seeing [how many days you have between](https://some-approaches.techidaily.com/new-top-10-hidden-gems-for-enhancing-canva-images/) when you get paid and when a bill or loan payment is due, the `DAYS` function does exactly that.
@@ -164,14 +169,15 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![DAYS function with cell references](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/DaysCells-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To find the number of days between specific dates rather than cell references, you would use the following formula. Enclose the dates in quotes and remember that the end date comes first:
 
 =DAYS("1-DEC-2022","1-MAR-2022")
 
 ![DAYS formula with dates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/DaysDates-ExcelBudgetFunctions.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. See How Many Business Days to Pay: NETWORKDAYS
 
@@ -186,8 +192,9 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 ![NETWORKDAYS function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/NetWorkdays-ExcelBudgetFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  7\. View the Current Date: TODAY
 
  As you work on your budget, the current date is important. Without looking at the calendar, you can [display the current date](https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-redmi-note-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/) in your sheet and see it updated each time you open the workbook.
@@ -198,9 +205,6 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![TODAY function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Today-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to create your own budget in Excel rather than use a template, these functions have you off to a great start. You might also take a look at [how to use Money in Excel](https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/) to track your bank accounts and loan balances. (Unfortunately, Microsoft has [announced it will shut down "Money in Excel"](https://screen-recording.techidaily.com/new-2024-approved-bifrost-betrayal-gods-at-war/) after June 2023\. The company now recommends [Tiller](https://www.tillerhq.com/) instead.)
 
 Related: [How to Use Microsoft's "Money in Excel" to Manage Your Finances](https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/)
@@ -211,8 +215,6 @@ Related: [How to Use Microsoft's "Money in Excel" to Manage Your Finances](https
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +222,22 @@ Related: [How to Use Microsoft's "Money in Excel" to Manage Your Finances](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-ten-recommendations-for-dynamic-instagram-grid-crafting/"><u>2024 Approved Top Ten Recommendations for Dynamic Instagram Grid Crafting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-clear-saved-wi-fi-from-win-11/"><u>Efficiently Clear Saved Wi-Fi From Win 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-engagement-youtube-insights-for-timing/"><u>Elevate Engagement Youtube Insights for Timing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-list-over-35-unbeatable-tablet-deals-still-going-on-for-amazon-prime-day-2ebd-your-ultimate-source-from-zdnet/"><u>Exclusive List: Over 35 Unbeatable Tablet Deals Still Going on for Amazon Prime Day 2Ebd | Your Ultimate Source From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-overcoming-windows-11-tpm-blocks/"><u>Expert Guide: Overcoming Windows 11 TPM Blocks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-capabilities-of-microsofts-phone-link-app/"><u>Exploring the Capabilities of Microsoft's 'Phone Link' App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-learn-quickly-how-to-film-anywhere-with-one-tech-setup/"><u>In 2024, Learn Quickly How to Film Anywhere with One Tech Setup</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-palette-wisdom-essential-color-theory-explained/"><u>In 2024, Palette Wisdom Essential Color Theory Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-permission-denied-on-windows-files/"><u>Navigating Permission Denied on Windows Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/next-phase-of-personal-computing-windows-after-11/"><u>Next Phase of Personal Computing: Windows After 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-and-simple-access-high-res-youtube-images-for-free-here-for-2024/"><u>Quick & Simple Access High-Res YouTube Images for Free Here for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-a-non-responsive-windows-taskbar/"><u>Troubleshooting a Non-Responsive Windows Taskbar</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-full-mobile-gaming-experience-with-paid-play/"><u>Unlocking the Full Mobile Gaming Experience with Paid Play</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-motorola-moto-g23-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Motorola Moto G23? Here is How | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-image-cache-hidden-paths/"><u>Windows Image Cache: Hidden Paths?</u></a></li>
+</ul></div>
 

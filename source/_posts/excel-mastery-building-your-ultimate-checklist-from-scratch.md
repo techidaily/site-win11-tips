@@ -1,7 +1,7 @@
 ---
 title: "Excel Mastery: Building Your Ultimate Checklist From Scratch"
-date: 2024-08-28T01:09:03.181Z
-updated: 2024-08-29T01:09:03.181Z
+date: 2024-12-03T00:05:55.569Z
+updated: 2024-12-06T22:52:58.097Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 ---
 
 ## Excel Mastery: Building Your Ultimate Checklist From Scratch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -53,16 +57,14 @@ Related: [How to Add the Developer Tab to the Microsoft Office Ribbon](https://s
 
 ![Click Insert and choose Check box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/FormControlsCheckBox-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You'll then see your cursor change to crosshairs (like a plus sign). Drag a corner, and when you see your checkbox display, release.
 
 ![Drag to add the check box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/InsertCheckBox-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  By default, the checkbox will have a label attached to it which you will not need for a basic checklist. Select that text and hit your "Backspace" or "Delete" key. You can then select the checkbox control and drag a corner to resize it if needed.
 
 ![Remove the check box label](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/RemoveCheckBoxLabel-Excel.png) 
@@ -73,40 +75,32 @@ Related: [How to Add the Developer Tab to the Microsoft Office Ribbon](https://s
 
 ![Right-click and pick Format Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/FormatControl-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  You'll see tabs for "Colors and Lines" and "Size," which give you easy ways to color the lines, add a fill color, scale the checkbox, and lock the aspect ratio. Be sure to click "OK" after making your changes.
 
 ![Color and Lines with Size tabs](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/FormatControlColorsSize-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Checkbox Values and Cell Links
 
  The other tab you may want to work with is the "Control" tab. This one lets you set the value, add a cell link if necessary, and apply 3D shading.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Checkbox Values
 
  By default, a checkbox is unchecked when you insert it. Depending on the type of checklist you create, you might want the boxes checked by default instead. This forces the user to uncheck items they don't want. To do this, mark "Checked" under "Value" in the Control tab and click "OK."
 
 ![Right-click and pick Format Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/FormatControl-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Cell Links
 
  If you plan to use your checklist in conjunction with [Microsoft Excel formulas](https://ai-voice.techidaily.com/new-2024-approved-top-6-mickey-mouse-voice-generators-providing-efficient-results/), you'll likely use "Cell Link" on the "Control" tab. When you enter a cell into this box, it will display a True or False value based on the box being checked or unchecked.
@@ -119,6 +113,10 @@ Related: [How to Use the COUNTIF Formula in Microsoft Excel](https://win-forum.t
 
 ![Right-click and pick Format Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/FormatControl-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Add the Remaining Checkboxes
 
  Follow the above steps to add checkboxes to your remaining list items. Or for a quicker way, [use AutoFill](https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/) to copy the checkboxes through the cells of your other items.
@@ -126,6 +124,10 @@ Related: [How to Use the COUNTIF Formula in Microsoft Excel](https://win-forum.t
  To use AutoFill, put your cursor on the bottom-right corner of the cell containing the checkbox. When you see the Fill Handle (plus sign), drag to fill the additional cells and release.
 
 ![Drag the Fill Handle to AutoFill check boxes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/AutoFillCheckBoxes-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -139,8 +141,6 @@ Related: [How to Use the COUNTIF Formula in Microsoft Excel](https://win-forum.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +148,23 @@ Related: [How to Use the COUNTIF Formula in Microsoft Excel](https://win-forum.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-free-gamers-guide-to-selecting-best-screen-recorder-apps/"><u>[New] Free Gamers' Guide to Selecting Best Screen Recorder Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-techs-trailblazers-windows-10-redefines-user-interface-for-2024/"><u>[New] Tech's Trailblazers Windows 10 Redefines User Interface for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-viral-video-potential-analyzing-dslr-and-mirrorless-cameras/"><u>[Updated] Viral Video Potential Analyzing DSLR and Mirrorless Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/debugging-store-error-code-0x80131500-on-pcs/"><u>Debugging Store Error Code: 0X80131500 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-amend-text-error-msresource-w11-edition/"><u>How to Amend Text Error MsResource, W11 Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-8-plus-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone 8 Plus SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-az-recorder-expert-series-app-deep-dives/"><u>In 2024, AZ Recorder Expert Series App Deep Dives</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-step-by-step-guide-to-control-video-pace-in-instagram/"><u>In 2024, Step-by-Step Guide to Control Video Pace in Instagram</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-motorola-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola Phone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-easily-remove-tiktok-watermarks-best-online-solutions/"><u>New In 2024, Easily Remove TikTok Watermarks Best Online Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-elevate-prompt-obstacles-with-effective-windows-tips/"><u>Overcoming 'Elevate Prompt' Obstacles with Effective Windows Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-solution-to-microsoft-store-crash-windows-error-code-x800704cf/"><u>Quick Solution to Microsoft Store Crash: Windows' Error Code X800704CF</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-switching-your-iphones-language-settings/"><u>Step-by-Step Guide: Switching Your iPhone's Language Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-inactive-windows-firewall-defense/"><u>Steps to Reactivate Inactive Windows Firewall Defense</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-printer-disconnect-errors-windows-11/"><u>Troubleshooting Printer Disconnect Errors (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-your-disconnected-ps4-remote-on-pc/"><u>Unraveling the Mystery of Your Disconnected PS4 Remote on PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step Up Your Game with These 9 Improvements in Outlook, Windows Edition
-date: 2024-11-20T18:09:46.304Z
-updated: 2024-11-27T18:16:18.575Z
+date: 2024-12-05T20:50:25.398Z
+updated: 2024-12-06T23:32:00.342Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Get the Outlook for Windows Preview App
 
  The preview version of Outlook aims to help users work more efficiently through a rich design and new features that boost productivity and usability. Microsoft has revamped the Outlook experience by making it modern, sleek, and functional.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
  Finally, when you’ve set up Microsoft 365 on your Windows PC, you can enable Outlook for Windows preview by sliding the **Try the new Outlook** toggle button in the top-right corner of your Microsoft Outlook client.
 
  Alternatively, you can [try Outlook for Windows Preview](https://www.makeuseof.com/outlook-preview-app-windows/) through the **Mail** and **Calendar** apps on Windows 10 and 11\. Simply launch the apps via the **Start** menu and enable the **Try the new Outlook** toggle button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. A Revamped UI
 
@@ -53,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
  In addition to having email, contacts, and Calendar on the sidebar, the new Outlook preview app also allows you to launch Microsoft 365 apps directly. All in all, Outlook’s unique design is quite refreshing and will surely help users stay productive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Incredible Options to Personalize Your Experience
 
 ![themes for outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/themes-outlook.jpg)
@@ -65,15 +53,19 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
 ![customize inbox ribbon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/customize-inbox-ribbon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  More importantly, you can completely customize the inbox Ribbon, so your preferred mailbox actions are easily accessible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Seamless Google Account Integration
 
 ![outlook-preview-account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-preview-account.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you also need to [add a Google account to Outlook](https://www.makeuseof.com/add-gmail-accounts-outlook-app-on-windows/), you’ll find it very easy to do so. The new Outlook for Windows preview app streamlines the process of adding third-party accounts to Outlook. While currently only Google accounts are supported, Microsoft plans to support Yahoo and iCloud accounts in the future.
 
@@ -85,25 +77,33 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
  You will write like a pro with Microsoft Editor directly integrated into the new Outlook for Windows preview app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Unsend Emails
 
  At one point in our lives, we’ve all wished there was an unsend button while sending an email. You may have made a spelling mistake, addressed the wrong recipient, or didn’t add an attachment; either way, an unsend or undo email option would have been a blessing.
 
  While [Gmail has had this feature](https://www.makeuseof.com/tag/unsend-accidental-emails-gmail/) for quite some time now, we’re glad Outlook is finally jumping on board too. The new Outlook allows you to delay the delivery of an email so that you can “unsend” the email and make changes if necessary.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Skype and Teams Integration
 
  If your workplace relies heavily on Microsoft Teams or Skype, you’ll find the ability to directly join a meeting from Outlook quite comforting. This saves you the hassle of copying a meeting room access code or navigating multiple link redirections. Unfortunately, this feature does not support Zoom or Google Meets yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. New Calendar Features
 
  Outlook’s Calendar has also improved drastically. You can now directly work with a Google Calendar and even add multiple shared calendars; this ensures you don’t miss any work or personal events. Users who preview Outlook for Windows can now add various time zones to their calendars to stay organized and prevent confusion between different time zones.
 
  The Calendar will also show you the daily weather so you can plan ahead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Track Courier Packages & Flights
 
@@ -116,7 +116,7 @@ Image Credit: [Microsoft](https://insider.microsoft365.com/en-us/blog/starting-t
  You can also add a flight reservation to your Calendar so you can stay informed and never miss another flight.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. A Smarter Inbox
@@ -131,27 +131,6 @@ Image Credit: [Microsoft](https://insider.microsoft365.com/en-us/blog/starting-t
 
  The Outlook for Windows preview app has received important updates that have modernized the classic email client. Read on to find out what the new Outlook for Windows app is and why you should consider switching to it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-perfect-placement-for-instagrams-audio-emojis-a-quick-guide-for-2024/"><u>[New] Perfect Placement for Instagram’s Audio Emojis – A Quick Guide for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-leveraging-obs-features-to-boost-zoom-performance/"><u>2024 Approved Leveraging OBS' Features to Boost Zoom Performance</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/discover-effortless-paths-to-exceptional-image-quality-for-2024/"><u>Discover Effortless Paths to Exceptional Image Quality for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-most-effective-win-pc-tracking-apps-today/"><u>Discover the Most Effective Win PC Tracking Apps Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-file-coherence-aoemi-techniques-for-double-window-computers/"><u>Ensuring File Coherence: AOEMi Techniques for Double Window Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-climate-tools-for-w10w11-users/"><u>Exclusive Climate Tools for W10/W11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-change-touchpad-sensitivity-on-windows-11-laptops/"><u>How to Change Touchpad Sensitivity on Windows 11 Laptops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-battlenet-not-opening-on-a-windows-1110-pc/"><u>How to Fix Battle.net Not Opening on a Windows 11/10 PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c55-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme C55 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://extra-information.techidaily.com/initial-glimpse-at-vectors-classifying-and-choosing-right-tech/"><u>Initial Glimpse at Vectors Classifying and Choosing Right Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-vlc-format-error-on-windows-systems/"><u>Overcoming VLC Format Error on Windows Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-fixes-implemented-for-pc-stuttering-issue-in-deathloop-game/"><u>Resolved: Fixes Implemented for PC Stuttering Issue in Deathloop Game</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-game-controllers-dualshock-for-pcs/"><u>Seamless Game Controllers: DualShock for PCs</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-converting-torrents-into-audio-and-video-files-for-macwindows-users/"><u>Step-by-Step Guide: Converting Torrents Into Audio & Video Files for Mac/Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-a-persistent-code-28-device-manager-glitch-on-windows-systems/"><u>Troubleshooting and Resolving a Persistent 'Code 28' Device Manager Glitch on Windows Systems</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/troubleshooting-guide-resolving-4k-video-playback-issues-on-windows-10-and-macos/"><u>Troubleshooting Guide: Resolving 4K Video Playback Issues on Windows 10 & macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-security-enablingdisabling-usb-device-access/"><u>Windows Security: Enabling/Disabling USB Device Access</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -159,3 +138,20 @@ Image Credit: [Microsoft](https://insider.microsoft365.com/en-us/blog/starting-t
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-art-of-video-thumbnail-making-for-popular-content/"><u>[Updated] 2024 Approved The Art of Video Thumbnail Making for Popular Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-choosing-a-champion-dslr-or-mirrorless-camera/"><u>[Updated] Choosing a Champion DSLR or Mirrorless Camera?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-apples-wwdc-announcements-today-insights-into-advanced-machine-learning-siri-innovations-and-what-to-expect-from-ios-eighteen-comprehensive-re172/"><u>Breaking Down Apple’s WWDC Announcements Today: Insights Into Advanced Machine Learning, Siri Innovations & What to Expect From iOS Eighteen – Comprehensive Report | ZDNET</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-walkthrough-on-installing-and-running-revos-application-manager/"><u>Complete Walkthrough on Installing and Running Revo's Application Manager</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-when-your-sound-blaster-microphone-wont-work/"><u>Effective Solutions When Your Sound Blaster Microphone Won't Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-recycle-bin-malfunctions-in-win-11/"><u>Eradicating Recycle Bin Malfunctions in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-0x80070141-device-unreachability-issue/"><u>Overcoming Windows 0X80070141 Device Unreachability Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/personalize-system-appearance-alter-fonts-in-windows-11-easily/"><u>Personalize System Appearance - Alter Fonts in Windows 11 Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rising-through-the-ranks-your-guide-to-becoming-an-effective-chief-ai-officer-as-explained-by-zdnet-experts/"><u>Rising Through the Ranks: Your Guide to Becoming an Effective Chief AI Officer, as Explained by ZDNet Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/serious-sam-4-performance-issues-troubleshooting-pc-crashes-and-frame-drops/"><u>Serious Sam 4 Performance Issues: Troubleshooting PC Crashes and Frame Drops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathfinders-guide-crafting-intelligent-folder-labels-on-windows-11/"><u>The Pathfinder's Guide: Crafting Intelligent Folder Labels on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-reviving-cursor-color-in-bios/"><u>Troubleshooting: Reviving Cursor Color in BIOS</u></a></li>
+</ul></div>
+

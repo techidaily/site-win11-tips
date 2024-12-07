@@ -1,7 +1,7 @@
 ---
 title: Unlocking Admin Controls in Windows Security Alert
-date: 2024-08-28T01:10:25.195Z
-updated: 2024-08-29T01:10:25.195Z
+date: 2024-12-03T01:30:12.102Z
+updated: 2024-12-06T20:40:45.665Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Remove Any Work or School Accounts
 
  Have you connected your PC with any school or work organization account? If so, such an account could be restricting access to Windows Security settings. Try disconnecting your PC from the school or work in Settings as follows:
@@ -41,13 +45,11 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 3. Click a connected work or school account to expand it.  
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 4. Press the**Disconnect** button and select**Yes** .
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable the Turn Off Microsoft Defender Antivirus Policy
 
  Some Windows Pro and Enterprise users have confirmed they’ve fixed the “Page not available” error by disabling a**Turn off Microsoft Defender Antivirus** policy. So, check that policy setting even if you can’t recall changing it yourself. This is how you can check and disable the**Turn Off Microsoft Defender Antivirus** Group Policy setting in Windows Pro and Enterprise:
@@ -61,9 +63,11 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 1. Click**Microsoft Defender Antivirus** to select that policy.  
 ![Microsoft Defender Antivirus settings in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-defender-antivirus-settings.jpg)
 2. Then double-click**Turn off Microsoft Defender Antivirus** .
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click**Disabled** if the**Turn off Microsoft Defender Antivirus** policy is enabled.  
 ![The Turn off Microsoft Defender Antivirus window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-turn-off-microsoft-defender-antivirus-window.jpg)
 4. Select the policy’s**Apply** and**OK** options.
@@ -72,15 +76,18 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 6. Next, click**Client Interface** within the Microsoft Defender Antivirus settings.  
 ![Allow antimalware service to startup with normal priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/client-interface-setting.jpg)
 7. Double-click the**Enable headless UI mode** policy to view it.  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Client Interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-headless-ui-mode.jpg)
 8. Select**Disabled** \>**Apply** \>**OK** in the Enable headless UI mode policy window.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run a PowerShell Command
 
  Running a set-MpPreference PowerShell command is a widely confirmed potential resolution for the “Page not available” error. The confirmed command disables Microsoft Defender’s UI lockdown mode. You can run that PowerShell command like this:
@@ -100,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button.jpg)
 
  Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Modify the Registry via Command Prompt
 
@@ -132,24 +143,19 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 4. Input**exit** in the Command Prompt to close the app.  
 ![The reg delete command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reg-delete.jpg)
 5. Open the Start menu, select**Power** , and press the**Restart** button.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 8\. Perform a System Restore
 
  If the “Page not available” error remains after applying other potential solutions, try performing a system restore. That might work if you can select a restore point predating the “Page not available” error on your PC. Rolling Windows back to an earlier time could undo any system changes that caused the issue to arise.
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-resotre-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Start Utilizing Windows Security Again
 
  The potential solutions covered in this guide address many of the primary causes for that error occurring. So, they’ll probably get the “Page not available” error sorted on most users’ Windows 11/10 PCs. Fixing the “Page not available” error will enable you to access all the settings in Windows Security again.
@@ -160,8 +166,6 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +173,16 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-directing-tweeted-vids-to-fb-audiences/"><u>[New] Directing Tweeted Vids to FB Audiences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-captivating-startups-discovering-the-best-15-video-intros/"><u>[New] In 2024, Captivating Startups Discovering the Best 15 Video Intros</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/best-mac-compatible-wmv-video-player-software-top-5-picks/"><u>Best Mac-Compatible WMV Video Player Software: Top 5 Picks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/beyond-the-headset-global-vr-evolution-for-2024/"><u>Beyond the Headset Global VR Evolution for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ending-windows-high-contrast-functionality/"><u>Ending Windows' High Contrast Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-rectify-failed-load-in-discord-for-windows/"><u>Guidelines to Rectify Failed Load in Discord for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-generation-samsung-frame-tvs-spot-the-upgrades-edition-versus-2-mark-tech-insights-with-zdnet/"><u>Next Generation Samsung Frame TVs: Spot the Upgrades Edition Versus 2# Mark | Tech Insights with ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-system-load-fixing-wmi-resource-excesses/"><u>Reducing System Load: Fixing WMI Resource Excesses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-common-errors-with-anydesk-on-windows/"><u>Tackling Common Errors with AnyDesk on Windows</u></a></li>
+</ul></div>
 

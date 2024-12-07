@@ -1,7 +1,7 @@
 ---
 title: How to Reset the SoftwareDistribution and Catroot2 Folders on a Windows 11 PC
-date: 2024-11-23T17:04:05.192Z
-updated: 2024-11-27T17:48:16.195Z
+date: 2024-12-05T23:05:38.140Z
+updated: 2024-12-06T22:05:01.449Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the SoftwareDistribution and Catroot2 Folders?
 
  The SoftwareDistribution folder is a directory that stores files required for installing Windows updates on PCs. It is a temporary repository of the update files. Thus, the SoftwareDistribution folder is an important component for updating Windows.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
  Both folders contain files needed for the installation of Windows updates. Windows update installation issues can occur because of corrupted data in those folders. Those errors typically appear in Settings with variable codes like 0x800f0922 when users manually select to check for and install updates.
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
@@ -65,7 +65,7 @@ net stop msiserver`
 11. Return to the Command Prompt and execute these separate commands for restarting the disabled services.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `net start bits  
@@ -86,13 +86,14 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
@@ -100,7 +101,7 @@ net start msiserver`
 6. Exit Command Prompt and select to restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
@@ -115,15 +116,16 @@ net start msiserver`
 ![The Extract Compressed ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/extract-compressed-window.jpg)
 6. Double-click the **FixWin 11.1.exe** file in the extracted folder for FixWin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click **Additional Fixes** on the left of the FixWin window.
 8. Select the **Quick Fixes** tab.
 9. Press the **Reset Software Distribution folder** button.  
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Exit FixWin and reboot your PC after selecting those options.
 
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
@@ -132,23 +134,6 @@ net start msiserver`
 
  So, try doing that whenever you need to fix an error code shown within the Windows Update tab of Settings.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-spruce-up-your-stories-with-effortless-animated-text-techniques/"><u>[New] 2024 Approved Spruce Up Your Stories With Effortless Animated Text Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-detailed-evaluation-razer-kiyo-webcam-for-2024/"><u>[New] Detailed Evaluation Razer Kiyo Webcam for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/channeling-tweets-to-facebook-viewers-efficiently-for-2024/"><u>Channeling Tweets to Facebook Viewers Efficiently for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-homepage-of-windows-11s-system-monitor/"><u>Customizing Homepage of Windows 11'S System Monitor</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-microsoft-surface-pro-4-drivers-on-windows-step-by-step-guide/"><u>Download and Install Microsoft Surface Pro 4 Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enliven-interiors-yuletide-inspired-window-themes/"><u>Enliven Interiors: Yuletide Inspired Window Themes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/finding-the-affordable-cloud-storage-of-2024/"><u>Finding the Affordable Cloud Storage of 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-youtube-videos-lagging-on-chrome-for-windows/"><u>How to Fix YouTube Videos Lagging on Chrome for Windows</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro with a Mask On</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-webp-images-4-winning-windows-tools/"><u>Mastering WebP Images: 4 Winning Windows Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-the-dark-windows-11-issue/"><u>Overcoming the Dark Windows 11 Issue</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-white-wallet-saving-tech-picks-for-pc-builders/"><u>Prime White, Wallet-Saving Tech Picks for PC Builders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722089457851-unlock-ai-communication-on-your-desktop-join-the-revolution-of-a-local-free-gpt4all-version-for-windows-users/"><u>Unlock AI Communication on Your Desktop: Join the Revolution of a Local, FREE GPT4All Version for Windows Users!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -156,3 +141,20 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-monetizing-your-content-deciphering-the-minimum-views-needed-for-2024/"><u>[Updated] Monetizing Your Content Deciphering the Minimum Views Needed for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-3ip-top-audio-capture-apps/"><u>2024 Approved Best 3iP Top Audio Capture Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-learning-with-legends-top-history-youtube-content-for-learners/"><u>2024 Approved Learning with Legends Top History YouTube Content for Learners</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-8-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-slick-methods-to-access-your-windows-assistants/"><u>Five Slick Methods to Access Your Windows Assistants</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-poco-x5-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Poco X5 Is Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-the-10-windows-restore-paths/"><u>Mastering Quick Access: The 10 Windows Restore Paths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-remove-stubborn-software-in-windows-11/"><u>Methods to Remove Stubborn Software in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-correcting-windows-error-403-on-roblox/"><u>Navigating and Correcting Windows Error 403 on Roblox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-unblocking-resources-in-windows-11/"><u>Strategies for Unblocking Resources in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-infinix-hot-40-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Hot 40 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://article-posts.techidaily.com/visualize-your-vision-embrace-win11s-movie-maker-capabilities/"><u>Visualize Your Vision Embrace Win11's Movie Maker Capabilities</u></a></li>
+</ul></div>
+

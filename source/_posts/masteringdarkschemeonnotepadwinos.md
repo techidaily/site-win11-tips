@@ -1,7 +1,7 @@
 ---
 title: MasteringDarkSchemeOnNotepadWinOS
-date: 2024-11-22T17:12:15.962Z
-updated: 2024-11-27T18:03:29.455Z
+date: 2024-12-02T18:20:52.550Z
+updated: 2024-12-06T17:33:06.925Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Dark Mode in Notepad on Windows 10
 
  If you're unsure about this feature, read our guide on[what dark mode really is and how it works](https://www.makeuseof.com/what-is-dark-mode-and-how-does-it-work/) before we get into the nitty gritty of enabling it.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
  The simplest way of enabling dark mode in Notepad on Windows 10 is by modifying the Ease of Access settings in the Settings app. If you do not wish to enable that feature, then you can download a similar third-party application using the Microsoft Store.
 
 Whichever method you prefer, we will cover both methods in detail.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Modify the Ease of Access Settings
 
@@ -64,7 +64,7 @@ Here is how you can enable it:
 ![Black Notepad in Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/black-notepad.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also look for other options online with advanced functionality if you use Notepad on a regular basis.
@@ -75,13 +75,13 @@ Here is how you can enable it:
 
  Choose the targeted app in the following dialog and checkmark the box for "Always use this app to open .txt files."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable Dark Mode in Notepad on Windows 11
 
  The new Windows operating system also allows users to[enable and customize dark mode](https://www.makeuseof.com/windows-11-dark-mode/) on their systems, just like Windows 10 does. If you are a Windows 11 user, then follow one of the methods below to enable dark mode in your Notepad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Use the Settings App
 
@@ -97,7 +97,7 @@ Here is how you can make the changes within the Settings app:
 ![Dark mode option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/choose-your-mode-dark.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now launch the Notepad and check if the dark mode has been enabled successfully. If not, try following the steps in the next method.
@@ -113,9 +113,17 @@ Follow these steps to proceed:
 3. Choose**Dark** from the options and see if the changes have been made successfully.  
 ![Notepad settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This should enable the dark mode in Notepad successfully. Nevertheless, in Windows 11 as well, you can install third-party applications from the Microsoft Store or other sources if you cannot follow the aforementioned methods for some reason.
 
  To undo these changes, simply follow the steps listed above again and choose the**Light** or**Use System setting** option from the list available. This should return the Notepad back to the light mode but if you are unable to do so, head over to our[guide on how to fix a Windows device that is stuck in dark mode](https://www.makeuseof.com/windows-device-stuck-dark-mode/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable Dark Theme in Notepad++
 
@@ -131,15 +139,7 @@ Follow these steps to proceed:
 ![Deep black theme in Notepad++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-theme-deep-black.jpg)
 3. You can customize the app further by changing the overall style of the app, fonts, and colors. Once you are done, click on**Save & Close** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your Notepad ++ app should display the dark mode now. Don’t forget to set it as the default text editor by following the steps we highlighted above.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Dark Mode in Notepad With Ease
 
@@ -162,15 +162,19 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-mastering-video-on-twitter-top-converter-picks/"><u>[New] In 2024, Mastering Video on Twitter Top Converter Picks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unleash-clarity-efficient-background-erasure-in-affinity-photo/"><u>[New] Unleash Clarity Efficient Background Erasure in Affinity Photo</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-efficiently-downloading-youtube-sections-in-minutes/"><u>[Updated] In 2024, Efficiently Downloading YouTube Sections in Minutes</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/editing-and-recording-sounds-with-audacity-a-comprehensive-guide-for-mac-users/"><u>Editing and Recording Sounds with Audacity: A Comprehensive Guide for Mac Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-access-forbidden-on-windows-network/"><u>Handling 'Access Forbidden' On Windows Network</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-smoothly-setting-shortcuts-for-microsoft-store-uwp/"><u>Navigate Smoothly: Setting Shortcuts for Microsoft Store UWP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-audio-device-errors-on-your-computer-winos/"><u>Rectifying Audio Device Errors on Your Computer, WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-lost-pin-after-glitches-in-your-windows-11-update/"><u>Resetting Lost PIN After Glitches in Your Windows 11 Update</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/top-25-social-stars-essential-instagram-icons/"><u>Top 25 Social Stars Essential Instagram Icons</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-beginners-blueprint-for-initiating-instagram-discussions/"><u>[New] In 2024, Beginner's Blueprint for Initiating Instagram Discussions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamline-searchability-expert-techniques-for-tag-application-for-2024/"><u>[New] Streamline Searchability Expert Techniques for Tag Application for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-tips-from-pros-elevating-your-twitch-video-quality/"><u>[Updated] 2024 Approved Tips From Pros Elevating Your Twitch Video Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sony-s3700-update-a-new-chapter-in-playback-for-2024/"><u>[Updated] Sony S3700 Update A New Chapter in Playback for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-potential-essential-win11-tools/"><u>[Updated] Unleashing Potential Essential Win11 Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-a-tool-for-advancing-emotional-understanding-and-connection/"><u>ChatGPT: A Tool for Advancing Emotional Understanding and Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-solutions-fixing-windows-11s-cursor-blackout/"><u>Effortless Solutions: Fixing Windows 11'S Cursor Blackout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-on-clearing-windows-11-dns-cache/"><u>Expert Tips on Clearing Windows 11 DNS Cache</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-deciphering-defenders-error-0x80004004/"><u>Quick Fix for Deciphering Defender's Error 0X80004004</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-sweep-away-partitions-our-top-4-tactics-for-windows/"><u>Securely Sweep Away Partitions: Our Top 4 Tactics for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-creating-windows-shortcuts-for-microsoft-store-apps/"><u>Step-by-Step: Creating Windows Shortcuts for Microsoft Store Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-overcome-igfxem-hardware-glitches-and-revive-display-output/"><u>Steps to Overcome igfxEM Hardware Glitches and Revive Display Output</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connection-issues-heres-how-you-can-resolve-them/"><u>Struggling with iPhone VPN Connection Issues? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/your-quick-reference-to-using-windows-11s-movie-maker-for-2024/"><u>Your Quick Reference to Using Windows 11'S Movie Maker for 2024</u></a></li>
 </ul></div>
 

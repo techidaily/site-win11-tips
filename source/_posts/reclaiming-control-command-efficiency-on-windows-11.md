@@ -1,7 +1,7 @@
 ---
 title: Reclaiming Control Command Efficiency on Windows 11
-date: 2024-08-28T01:13:19.147Z
-updated: 2024-08-29T01:13:19.147Z
+date: 2024-12-05T20:36:48.357Z
+updated: 2024-12-06T20:55:57.019Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,17 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
  Now that you know all the prime reasons that can contribute to the issue, let’s check out how to eliminate them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  If the Ctrl key on your keyboard isn't functioning, your first course of action should be to [restart your Wiindows computer](https://www.makeuseof.com/windows-restart-methods/). This action will eliminate any potential bugs or glitches responsible for the problem. Before restarting, ensure that you save any active documents or work to prevent any data loss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check for Physical Damage
 
@@ -55,15 +63,14 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 2. Choose **System** from the left sidebar, and then **Troubleshoot** from the right pane.  
 ![Troubleshoot option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/troubleshoot-option.jpg)
 3. Choose **Other troubleshooters.**
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Click the **Run** button next to Keyboard.  
 ![Keyboard troubleshooter in the setting menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Keyboard-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  The troubleshooter will now look for any issues with your keyboard and try to fix them. However, if the keyboard troubleshooter fails to fix the issue, run the Hardware and Devices troubleshooter instead. For that, follow these instructions:
 
 1. Press the **Win + R** hotkey to open the Run dialog box.
@@ -81,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 1. Open Settings, choose **Accessibility** from the left sidebar, and select **Keyboard** from the right pane.  
 ![Keyboard option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-option.jpg)
 2. Turn off the toggle next to the **Sticky keys** and **Filter keys**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Sticky keys option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sticky-keys-option.jpg)
 
  After that, restart your computer and check for the issue. If it continues, you can re-enable the sticky and filter keys.
@@ -102,13 +106,11 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, restart your computer. Upon restart, Windows will automatically reinstall the keyboard driver.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 6\. Download the Latest Windows Update
 
  The issue may also arise from minor bugs or glitches in your current Windows version. To fix this, [manually update Windows](https://www.makeuseof.com/update-windows-manually/) to the latest build.
@@ -116,22 +118,21 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
  Upon completing the update installation, restart your system and verify the functionality of the Ctrl key.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Run SFC and DISM Scans
 
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  Problems with crucial system files on your PC can also affect the proper functioning of the Ctrl key. If the issue arises due to corruption in these important system files, you can run SFC and DISM scans.
 
  To learn how to run these scans, check out [how to repair corrupt Windows files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Perform a Clean Boot
 
  Is the Ctrl key still unresponsive? If so, a background application or service may be preventing Windows from registering the keystroke. To fix this, [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) on your computer and try to use the Ctrl key within this state.
@@ -144,11 +145,28 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
  If the Ctrl key is not working on your Windows computer, you've come to the right place. This guide explains how to troubleshoot and repair the Ctrl key on your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-boosting-your-youtube-earnings-strategies-for-monetizing-short-videos/"><u>[New] 2024 Approved Boosting Your YouTube Earnings Strategies for Monetizing Short Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-harnessing-instagram-filters/"><u>[New] Step-by-Step Harnessing Instagram Filters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-essential-guide-to-populating-powerpoint-decks-with-youtube-videos-for-2024/"><u>[New] The Essential Guide to Populating PowerPoint Decks With YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-sonic-canvas-painting-sounds-on-a-mac-for-2024/"><u>[Updated] Sonic Canvas Painting Sounds on a Mac for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-uncompromised-zoom-audio-two-key-techniques-revealed-for-2024/"><u>[Updated] Uncompromised Zoom Audio Two Key Techniques Revealed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-path-for-successful-java-setup-in-windows/"><u>Clearing Path for Successful Java Setup in Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-8-top-tier-filters-to-elevate-your-live-feed/"><u>In 2024, 8 Top-Tier Filters to Elevate Your Live Feed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-manage-your-directories-in-windows-explorer-version-11/"><u>Learn to Manage Your Directories in Windows Explorer, Version 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-standard-touch-position-for-windows-11-devices/"><u>Re-Establish Standard Touch Position for Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/straighten-up-windows-11-designs/"><u>Straighten Up Windows 11 Designs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317459-9781401951368-the-power-of-love/"><u>The Power of Love | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-5-audio-capture-methods-in-windows-11-operating-system/"><u>Top 5 Audio Capture Methods in Windows 11 Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-malfunctioning-automated-email-rules-on-pc/"><u>Troubleshooting Malfunctioning Automated Email Rules on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/when-can-we-expect-gpt-5-to-arrive/"><u>When Can We Expect GPT-5 to Arrive?</u></a></li>
+</ul></div>
+

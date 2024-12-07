@@ -1,7 +1,7 @@
 ---
 title: Reinvigorating Antique DirectX Games Using DXVK
-date: 2024-11-26T17:42:28.237Z
-updated: 2024-11-27T16:41:31.844Z
+date: 2024-11-30T20:05:37.018Z
+updated: 2024-12-06T23:44:13.468Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Problem With DirectX on Windows
 
  Microsoft created DirectX as a "unified solution" that helped programmers use any PC's hardware capabilities. Instead of writing different code for each hardware part, software developers could "target" DirectX's DirectDraw (2D graphics), Direct3D (hardware-accelerated 3D), and DirectSound (audio) libraries. Then, let Microsoft's solution "translate" their code to "the native language" of each hardware part.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
  DirectX became an irreplaceable core technology in Windows and has been evolving since. However, there's a small catch with Direct3D: it's not 100% backward compatible.
 
  Microsoft, and the creators of GPUs that support the Direct3D API (as in "Nvidia, AMD, and Intel"), have occasionally dropped support for features introduced in past versions of Direct3D but which never gained traction. Thus, some older games might fail to run correctly on a modern GPU with the newest versions of Direct3D.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Vulkan?
 
@@ -50,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
  DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw [what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Should You Use DXVK on Windows?
@@ -72,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
  It's probably easier if we go through the whole process together to see how you can download the latest version of DXVK, identify your game's "tech", and install the correct DLLs in the proper folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Download DXVK
@@ -84,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 ![DXVK Latest Release Asset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-latest-release-asset-1.jpg)
 3. Store the downloaded archive somewhere, for you will need to extract its contents to the folder of every game you want to run with DXVK instead of Direct3D.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Choose the Correct DXVK Version
 
  If you need to know which version of Direct3D your game is using, the PC Gaming Wiki website can help.
@@ -95,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 1. Visit [PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
 2. When you find your game, visit its page and scroll down to reach the **Other Information** section. Turn your attention to the API tables. There, on the **Technical Specs** and **Supported** columns, you will see the version of Direct3D your game is using. Underneath, the **Executable**, **32-bit**, and **64-bit** columns will "tell" you which architecture you should choose.  
 ![PCGamingWiki Game API Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcgamingwiki-game-api-information-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add DXVK to Your Games
 
@@ -109,12 +109,21 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 2. Inside, you'll find two subfolders, one for each computer architecture. Enter the correct one for your game. Even if your OS is 64-bit, like most versions of Windows today, if your game is 32-bit, you should go for the 32-bit folder.  
 ![DXVK 32 bit and 64 bit folders within archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-32-bit-and-64-bit-folders-within-archive-1.jpg)
 3. Select the **DXGI.DLL** plus the correct DLL for the version of **Direct3D** your game is using. As you will see, there are three more DLLs, one for each of the previous versions of Direct3D: 9, 10, and 11.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![DXVK DLLs Within Archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-dlls-within-archive-1.jpg)
 4. Find the local folder where your game is installed and locate the subfolder with its executable ("the file from which the game runs"). Extract the DLLs from the previous step to this folder.  
 ![Extracting DXVK DLLs To Game Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracting-dxvk-dlls-to-game-directory-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Test and Benchmark Your Enhanced Game
@@ -124,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
  Even if you don't see any dramatic changes in frame rates, sometimes the improvements can be "felt" in other ways. For example, we tried DXVK with the classic Batman: Arkham City on a PC equipped with a Ryzen 5900x, 64GBs of RAM, and an Nvidia RTX 3070 GPU. Our hardware was already over this old game's top specs, achieving very high frame rates. Even if they got higher with Vulkan, the difference wouldn't be easily perceivable.
 
 ![Arkham-City-Instant-Transitions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arkham-city-instant-transitions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, the game's action felt smoother. Transitions between screens, loading levels, and pressing Alt + Tab were almost instant with DXVK.
 
@@ -147,25 +160,13 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  DXVK might not be "cheating", but it's still a "game modification", and could get flagged as such.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. The Game Already Has Built-In Vulkan Support
 
  If a game already uses the Vulkan API, like Doom Eternal, there's no reason to set its output to Direct3D to then translate it to Vulkan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. The Game Uses Direct3D 12
 
  Since Direct3D 12 is almost fully on par with Vulkan, there's nothing to gain by translating one ultra-modern graphics API to another one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enhance Your Old Games With "Translated" 3D on Windows
 
@@ -175,27 +176,6 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  Would you like better compatibility and, more importantly, performance for your apps and games? Then you need to try out DXVK.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-your-device-experience-with-smooth-screen-capture-for-2024/"><u>[New] Elevate Your Device Experience with Smooth Screen Capture for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-enhancing-video-discoverability-with-ideal-thumbnail-widths-and-height/"><u>[Updated] 2024 Approved Enhancing Video Discoverability with Ideal Thumbnail Widths and Height</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-8-best-screen-recorders-with-no-lag/"><u>[Updated] In 2024, Top 8 Best Screen Recorders with No Lag</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circumventing-windows-defender-for-additional-security-software/"><u>Circumventing Windows Defender for Additional Security Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ferramenta-de-conversao-wav-a-ogg-da-movavi-recurso-de-download-on-line-gratuito-e-facil-de-usar/"><u>Ferramenta De Conversão WAV a OGG Da Movavi: Recurso De Download On-Line Gratuito E Fácil De Usar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-cant-connect-to-printer-error-on-windows-11/"><u>How to Fix the Can’t Connect to Printer Error on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-14-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on 14 Pro?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-crashed-video-drivers-in-windows/"><u>Immediate Fixes for Crashed Video Drivers in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-itel-a60-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Itel A60</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-the-dialer-in-modern-windows-11/"><u>Launching the Dialer in Modern Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/method-to-override-admin-policies-for-installer-setup-issues/"><u>Method to Override Admin Policies for Installer Setup Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/next-level-collaboration-microsofts-smart-taskbar-companion-for-windows-11/"><u>Next-Level Collaboration: Microsoft’s Smart Taskbar Companion for Windows 11</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/social-sharing-simplified-uploading-immersive-mobile-photography/"><u>Social Sharing Simplified Uploading Immersive Mobile Photography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tidying-up-pinpointing-and-eradicating-empty-pc-folders/"><u>Tidying Up: Pinpointing and Eradicating Empty PC Folders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-comprehensive-reviews-by-tech-experts-featuring-latest-models-on-zdnet/"><u>Top-Rated Touchscreen Laptop Picks: Comprehensive Reviews by Tech Experts - Featuring Latest Models on ZDNet</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-list-of-sources-for-professional-whoosh-effects-for-2024/"><u>Updated The Ultimate List of Sources for Professional Whoosh Effects for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-esc-key-failure-quick-and-easy-remedies-unveiled/"><u>Windows Esc Key Failure: Quick and Easy Remedies Unveiled</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -203,3 +183,23 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevate-your-income-with-proven-vimeo-advertising-strategies/"><u>[Updated] 2024 Approved Elevate Your Income with Proven Vimeo Advertising Strategies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-saving-your-social-media-face-from-spurious-support/"><u>2024 Approved Saving Your Social Media Face From Spurious Support</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparative-study-of-nvidia-drivers-for-gamersstudios/"><u>Comparative Study of Nvidia Drivers for Gamers/Studios</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-fixes-for-windows-10-and-11s-isdonedll-error/"><u>Effective Fixes for Windows 10 & 11'S ISDone.dll Error</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y55s-5g-2023-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y55s 5G (2023) Screen | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y36-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y36 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-guide-to-30-effective-fb-ads-techniques-for-all-businesses/"><u>In 2024, The Ultimate Guide to 30 Effective FB Ads Techniques (for All Businesses)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-browser-overcoming-high-cpu-use-on-google-chrome/"><u>Optimize Your Browser: Overcoming High CPU Use on Google Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-past-the-storm-resolving-stranded-xbox-on-windows-11/"><u>Steering Past the Storm: Resolving Stranded Xbox on Windows 11</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-syncing-images-and-videos-from-your-laptop-to-iphones-via-usb-cable/"><u>Step-by-Step Guide: Syncing Images & Videos From Your Laptop to iPhones via USB Cable</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-windows-schedules-solve-problems-easily/"><u>Streamline Windows Schedules, Solve Problems Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-update-difficulties-fixing-win11s-error-0x80246007/"><u>Tackling Update Difficulties: Fixing Win11’s Error 0X80246007</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-resolving-failed-jvm-creation-in-windows/"><u>Techniques for Resolving Failed JVM Creation in WINDOWS</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+</ul></div>
+

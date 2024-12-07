@@ -1,7 +1,7 @@
 ---
 title: Guide to Regularity of Access Control on Win11
-date: 2024-11-25T16:48:10.281Z
-updated: 2024-11-27T16:45:44.565Z
+date: 2024-12-01T19:29:25.474Z
+updated: 2024-12-07T01:32:55.477Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Disable or Enable Registry Editor Access via the Group Policy Editor
@@ -42,10 +42,14 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 ![Block Registry Editor Access via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Following this, users will see the “Registry editing has been disabled by your administrator” message when they attempt to access the Registry Editor. If you want to re-enable Registry Editor later, repeat the above steps and set the **Prevent access to registry editing tools** policy to **Not configured** or **Disabled**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Disable or Enable Registry Editor Access via the Registry Editor
 
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 ![Block Registry Editor Access via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, the Registry Editor will be disabled on your PC.
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 4. Click the **File** menu and select **Save as**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select **Desktop** in the **Save as** dialog box.
@@ -90,35 +94,11 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 
  Once you run the above command, the Registry Editor will become accessible again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Allowing or Disallowing Registry Editor Access on Windows
 
  Blocking access to the Registry Editor is an effective way to protect your system from registry mishaps. Nonetheless, if you opt to re-enable access to the Registry Editor on your PC, make sure to exercise caution to avoid messing up the Windows Registry.
 
  Fortunately, it’s possible to disable (or enable) Registry Editor access on your Windows 11 PC. Let's see how.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-restoring-full-volume-on-hindered-facebook-videos/"><u>[New] Restoring Full Volume on Hindered Facebook Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-social-media-elite-writes-back-six-essential-tips-to-elevate-your-instagram-presence-for-2024/"><u>[Updated] The Social Media Elite' Writes Back Six Essential Tips to Elevate Your Instagram Presence for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/curbing-high-resource-consumption-by-security-apps/"><u>Curbing High-Resource Consumption by Security Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-error-code-0x800f0831/"><u>Decoding Windows Error Code 0X800F0831</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diving-deeper-dxvks-role-in-optimizing-windows-games/"><u>Diving Deeper: DXVK's Role in Optimizing Windows Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-high-disk-and-cpu-load-from-wsappx-a-step-by-step-guide/"><u>Fixing High Disk & CPU Load From WSAPPX: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-avoid-folder-restrictions-on-windows-11/"><u>How to Avoid Folder Restrictions on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-flawless-gameplay-controlling-games-via-switch-pro-controller-in-steam/"><u>In 2024, Flawless Gameplay Controlling Games via Switch Pro Controller in Steam</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-k70-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi K70 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-picture-mosaic-concepts-illuminate-your-world/"><u>In 2024, Innovative Picture Mosaic Concepts Illuminate Your World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intuitive-pathways-seamlessly-integrating-win11-shortcut-tools/"><u>Intuitive Pathways: Seamlessly Integrating Win11 Shortcut Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-xiaomi-civi-3-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Xiaomi Civi 3 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-blending-multiple-mp4-clips-into-one-top-7-software-recommendations/"><u>Ultimate Guide to Blending Multiple MP4 Clips Into One - Top 7 Software Recommendations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-in-outdated-devices-with-windows-11-to-go-rufus-tutorial/"><u>Unleash Potential in Outdated Devices with Windows 11, To Go, Rufus Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-key-conundrum-nine-strategies-to-recover-from-non-functional-combinations-and-shortcuts/"><u>Windows Key Conundrum: Nine Strategies to Recover From Non-Functional Combinations and Shortcuts</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -127,3 +107,23 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-rush-towards-a-millennium-of-channel-supporters/"><u>[New] 2024 Approved Rush Towards a Millennium of Channel Supporters</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-stepping-into-a-new-digital-era-mastering-your-tiktok-handle-change-process/"><u>[New] In 2024, Stepping Into a New Digital Era Mastering Your TikTok Handle Change Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-accessories-to-elevate-your-sj4000-experience/"><u>[Updated] Top Accessories to Elevate Your SJ4000 Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-explore-our-collection-50plus-unique-free-youtube-banner-ads/"><u>2024 Approved Explore Our Collection 50+ Unique, Free YouTube Banner Ads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breakthrough-tactics-for-improved-voice-identity-in-pubg-for-2024/"><u>Breakthrough Tactics for Improved Voice Identity in PUBG for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digital-legacy-lift-updating-old-games-location-in-windows-11/"><u>Digital Legacy Lift: Updating Old Games' Location in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-forcefully-remove-printers-from-windows-11-pro/"><u>How to Forcefully Remove Printers From Windows 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-microsoft-error-lookup-tool-on-windows-11/"><u>How to Use the Microsoft Error Lookup Tool on Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-edit-mp4-videos-on-mac-mavericks-a-step-by-step-guide/"><u>In 2024, How to Edit MP4 Videos on Mac Mavericks A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi A2</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/perfecting-sound-with-advanced-audacity-methods/"><u>Perfecting Sound with Advanced Audacity Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-speakers-now-a-tale-of-two-devices/"><u>Silent Speakers, Now a Tale of Two Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-geforce-overlays-easy-steps-on-windows-pc/"><u>Stop GeForce Overlays: Easy Steps on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-dawn-of-ai-powered-windows-experience/"><u>The Dawn of AI-Powered Windows Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windowed-decisions-is-win-11s-interface-beneficial/"><u>Windowed Decisions: Is Win 11'S Interface Beneficial?</u></a></li>
+</ul></div>
+

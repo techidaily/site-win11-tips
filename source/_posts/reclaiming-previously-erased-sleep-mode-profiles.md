@@ -1,7 +1,7 @@
 ---
 title: Reclaiming Previously Erased Sleep Mode Profiles
-date: 2024-08-28T01:13:12.045Z
-updated: 2024-08-29T01:13:12.045Z
+date: 2024-12-05T16:02:55.468Z
+updated: 2024-12-07T01:59:16.667Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
 ![check missing power plans control panel windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-missing-power-plans-control-panel-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on your system hardware specification, you may see three or four power plans in the Power Options panel. Balanced, Power Saver and High Performance are the most common in all Windows computers.
 
  However, higher-end hardware running Windows 11\\10 Pro can have the Ultimate Performance Power plan as well. It is a preset power plan to help boost your system performance in a professional setup. Even if available, enabling the[Ultimate Performance power plan may not be necessary for most users](https://www.makeuseof.com/should-you-enable-ultimate-performance-power-plan-windows-10/) .
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 3. In the**Control Panel** , open**Hardware and Sound.**
 4. Next, click on**Power Options** .
 5. Expand the**Show additional plans** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Change Power Mode From the Settings Panel
 
@@ -50,9 +58,6 @@ To change power mode on Windows 11:
 
  If the Power Mode doesn’t show any or some power schemes, you’ll need to restore it using the powercfg command-line utility.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 2\. Reset the Default Power Plan Settings Using Power PowerShell
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-default-power-plans-windows-11-powershell.jpg)
@@ -89,16 +94,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  Next, open**Control Panel** and go to**Power Options** to check if the missing power plans are restored on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Enable the High Performance Power Plan Using Command Prompt
 
 ![enable high performance plan windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-high-performance-plan-windows-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  You can use a different**powercfg** command to enable the High Performance power plan on Windows. This is useful if your system is missing only the High Performance power scheme. Here’s how to do it.
 
 1. [Open Command Prompt with administrator rights](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
@@ -117,9 +116,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Manually Create the Power Plans
 
  If you don’t want to use the preset power plans, you can create your own power plans on Windows. This should work irrespective of the Modern Standby state of your computer.
@@ -132,19 +128,32 @@ To create a custom Power Plan on Windows:
 4. Next, click on**Power Options** .  
 ![control panel create power plan windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-windows-11.jpg)
 5. In the left pane, click on**Create a Power Plan.**  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
 6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
 7. Next, configure the settings for the new power plan.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Click**Create** .\`
 
  Your new custom power plan will appear in Power Options. To remove the power plan, unselect the plan and click on**Change plan** settings. Next, click on**Delete this plan** and click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Missing Default Power Plans on Windows
 
@@ -152,14 +161,11 @@ To create a custom Power Plan on Windows:
 
  That said, not seeing the Ultimate Performance power plan in Power Options is not unusual. By default, it is only available on high-end Windows hardware and disabled to prevent battery draining. But you can still enable it using a PowerShell cmdlet. For most users, however, the balanced power plan offers a great balance between performance and battery life.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +174,21 @@ To create a custom Power Plan on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-become-a-snapchat-boomerang-pro-complete-tutorial/"><u>[New] 2024 Approved Become a Snapchat Boomerang Pro Complete Tutorial</u></a></li>
+<li><a href="https://article-posts.techidaily.com/5-high-quality-displays-for-unparalleled-games-for-2024/"><u>5 High-Quality Displays for Unparalleled Games for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/broadcast-iptv-across-platforms-for-2024/"><u>Broadcast IPTV Across Platforms for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-line-application-analysis-a-users-perspective/"><u>Comprehensive Line Application Analysis: A User's Perspective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-user-experience-highlighting-mouse-pointers-on-win-11/"><u>Elevate Your User Experience: Highlighting Mouse Pointers on Win 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-a14-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy A14 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/innovative-techniques-for-unique-canon-timelapse-vids-for-2024/"><u>Innovative Techniques for Unique Canon Timelapse Vids for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-immediate-folder-addition-on-windows-a-comprehensive-guide-for-onedrive-users/"><u>Mastering the Art of Immediate Folder Addition on Windows: A Comprehensive Guide for OneDrive Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-your-digital-domain-windows-1011-writers-toolkit-restarts/"><u>Refreshing Your Digital Domain: Windows 10/11' Writers’ Toolkit Restarts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-windows-layout-embrace-fancywm-aesthetics/"><u>Reimagine Windows Layout: Embrace FancyWM Aesthetics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplifying-home-entertainment-programming-a-universal-device-controller/"><u>Simplifying Home Entertainment: Programming a Universal Device Controller</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-restoring-your-pcs-control-in-windows-11/"><u>The Ultimate Guide for Restoring Your PC's Control in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-35-unbeatable-cyber-monday-promotions-on-dell-products-at-major-retailers-like-best-buy-amazon-and-newegg-techradar/"><u>Top 35 Unbeatable Cyber Monday Promotions on Dell Products at Major Retailers Like Best Buy, Amazon & Newegg | TechRadar</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-notch-screen-recorder-pcmacos-edition/"><u>Top-Notch Screen Recorder PC/macOS Edition</u></a></li>
+</ul></div>
 

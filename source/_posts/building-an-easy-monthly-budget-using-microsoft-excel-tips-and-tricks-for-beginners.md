@@ -1,7 +1,7 @@
 ---
 title: Building an Easy Monthly Budget Using Microsoft Excel – Tips and Tricks for Beginners
-date: 2024-08-28T01:07:16.930Z
-updated: 2024-08-29T01:07:16.930Z
+date: 2024-12-05T17:54:20.061Z
+updated: 2024-12-06T20:20:09.627Z
 tags:
   - excel
 categories:
@@ -41,9 +41,6 @@ Related: [How To Create Custom Templates in Excel](https://iphone-unlock.techida
 
 ![Office budget templates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/OfficeTemplates-ExcelCreateBudget.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use a Third-Party Budget Template
 
  If you've browsed Microsoft's budget templates and don't see one you like, you can choose a third-party template. Sites like [Vertext42](https://www.vertex42.com/) and [Spreadsheet123](https://www.spreadsheet123.com/) offer nice collections of budget templates.
@@ -69,24 +66,29 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 ![Title and labels for a budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Titles-ExcelCreateBudget.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have more than one source of income such as more than one earner, multiple jobs, or dividends from investments, you can list those separately in your income section.
 
 ![Income in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Income-ExcelCreateBudget.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, list all of your expenses. Be sure to include all bills, loans, and miscellaneous expenses.
 
 ![Expenses in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Expenses-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, head back to the top and enter the months across the second row, starting in the second column. If you prefer a weekly budget, you can enter the week numbers or for a daily budget, enter the days of the week.
 
 ![Months in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Months-ExcelCreateBudget.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can enter the first two or three months, week numbers, or days and then [use the fill handle](https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/) to enter the rest.
 
  You can then start adding the amounts for income and expenses starting with your current month. If you want to insert these amounts for previous time periods, that'll be helpful for an overall picture of the year.
@@ -95,6 +97,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Format as currency in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FormatCurrency-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Because you want a clear picture of money coming in and going out, you should add totals to your income and expense sections. This will also let you easily see how much money you have remaining at the end of the month.
 
  Go to the first cell below all income for the first month. Select the Sum button in the Editing section of the Home tab and pick "Sum" from the list. Confirm the cell range and press Enter or Return. Then, do the same for your expenses.
@@ -102,15 +108,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Income in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Income-ExcelCreateBudget.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can then copy both total formulas across the rows for the remaining months. Select the cell with the formula, use the fill handle to drag to the remaining columns, and release. Although some months display $0, you'll have the formulas ready to go when you add the amounts later.
 
 ![Use Fill for the SUM formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FillSum-ExcelCreateBudget.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Next, you can include a money remaining section at the bottom as mentioned above. You can do this easily by subtracting the cell containing your total expenses from the one containing your total income.
 
  Go to the bottom of the column for the first month, below expenses. Enter the [subtraction formula](https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-12-mini-lock-screen-by-drfone-ios/) for the two total cells. For instance, our income total is in cell B6, and expense total is in cell B19, so we'd use this formula:
@@ -120,19 +124,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Subtraction formula for remaining money](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FormulaRemaining-ExcelCreateBudget.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Press Enter or Return and you'll see your remaining money at the end of the month. Remember, you can use the fill feature to copy the formula to the rest of the months. Optionally, you can label this amount in the first column as well as the income and expense totals if you like.
 
 ![Labels for totals and remaining money](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/TotalRemainingLabels-ExcelCreateBudget.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have this basic budget built, you can use Excel's formatting features to spruce up the sheet if you like. Here, we simply increased the font size for the title and added font colors and bold for income expenses, totals, and months. Visit the Font section of the Home tab for options like these.
 
 ![Font formatted in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FormattedFont-ExcelCreateBudget.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  If you want to create a more detailed budget, take a look at our list of [Excel budget functions](https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-narzo-60-pro-5g-phone-that-is-locked-by-drfone-android/) to see if any interest you. 
 
  Here are just a few examples:
@@ -151,8 +157,6 @@ Related: [7 Essential Microsoft Excel Functions for Budgeting](https://easy-unlo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +164,21 @@ Related: [7 Essential Microsoft Excel Functions for Budgeting](https://easy-unlo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-beyond-the-headsets-the-essence-of-virtual-reality/"><u>[New] 2024 Approved Beyond the Headsets The Essence of Virtual Reality</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-channel-expansion-techniques-for-30plus-online-platforms/"><u>[Updated] Channel Expansion Techniques for 30+ Online Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-productivity-in-windows-11-world/"><u>Elevate Productivity in Windows 11 World</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-the-most-out-of-far-cry-5-a-guide-to-meeting-games-tech-demands-with-pro-insights/"><u>Get the Most Out of Far Cry 5: A Guide to Meeting Game's Tech Demands with Pro Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-realme-11-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Realme 11 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-space-and-order-bulk-file-folders-in-modern-windows/"><u>Maximizing Space & Order: Bulk File Folders in Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-installation-failures-for-older-apps/"><u>Overcoming Installation Failures for Older Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-plain-text-issues-windows-11-mail-fix-tips/"><u>Preventing Plain Text Issues: Windows 11 Mail Fix Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-strategies-for-advancing-your-career-path-toward-chief-information-officer-cio-success-insights-from-zdnet/"><u>Top 5 Strategies for Advancing Your Career Path Toward Chief Information Officer (CIO) Success: Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-voice-chat-in-call-of-duty-modern-warfare/"><u>Troubleshooting Guide: Fixing Non-Functional Voice Chat in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-shortcuts-a-guide-to-reversing-non-responsive-keystrokes-in-windows-os/"><u>Unlock the Power of Shortcuts! A Guide to Reversing Non-Responsive Keystrokes in Windows OS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/venture-into-virtual-laughs-top-20plus-funny-metaverse-creations/"><u>Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-switching-and-modifying-keyboard-setups-efficiently/"><u>Win 11: Switching & Modifying Keyboard Setups Efficiently</u></a></li>
+</ul></div>
 

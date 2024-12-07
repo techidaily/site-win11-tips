@@ -1,7 +1,7 @@
 ---
 title: Simplified Guide to Developing Your Own Windows Voice Translation App
-date: 2024-11-22T18:08:50.297Z
-updated: 2024-11-27T18:01:00.135Z
+date: 2024-12-01T19:31:25.065Z
+updated: 2024-12-06T19:55:57.568Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Laying the Foundations for Whisper and AutoHotkey
 
@@ -57,23 +61,19 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 ![Right Click New Autohotkey Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/right-click-new-autohotkey-script-1.jpg)
 3. Shift + Right Click on the file to access the full context menu and select to open it with your favorite code or text editor. Windows' own **Notepad** will do.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Shift Right Click Open With Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/shift-right-click-open-with-editor-1.jpg)
 4. Despite being "an empty script", your AHK file will already be pre-populated with some "stuff". Those are useful AutoHotkey variables and flags that define how it should work on your desktop. Ignore them, leave them as they are, and do all your future typing underneath them.  
 ![Blank Autohotkey Script In Vs Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/blank-autohotkey-script-in-vs-code-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting to Know Whisper's Flags
 
  Since we're making a GUI for a command line app, it's handy to have a reference to its major variables and flags that we'll be using in our project. You can check them out by reading Whisper's documentation, visiting [its official Github page](https://github.com/openai/whisper), and running it in your terminal.
 
 ![Whisper Flags Note In Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/whisper-flags-note-in-script-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We'll list the ones we'll use in this project for convenience. We suggest you add them to your script as comments (in separate lines, each beginning with a ";" character followed by a space).
 
@@ -82,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 ## Creating the GUI With AutoHotkey
 
  We suggest you split your script into sections using comments like we did to keep it organized. We'll start by defining some variables, continue to the actual GUI, and end by defining its functions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Establishing the Hidden Variables
 
@@ -96,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 `OutputFormat = txtWhisperExecutable = whisper`
 
 ![Defining Script Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-script-variables-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Setting Up the User Options
 
@@ -124,7 +116,7 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 ![Defining Gui Drop Down Lists](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-gui-drop-down-lists-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Guide Whisper
@@ -148,7 +140,7 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 ![Defining Prompt Text Edit Field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-prompt-text-edit-field-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Setting Up the Action Buttons
@@ -178,21 +170,25 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 ![Autohotkey Gui Show And Return](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autohotkey-gui-show-and-return-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For that, add the following two lines below those that define your GUI:
 
 `Gui, ShowReturn`
 
  The first line "tells" AHK to show the GUI's window, while the second marks the section's end.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Functions and Functionality of Our App
 
  Although we've completed the GUI section, if you try to run the script, it will crash. That's because we're referencing non-existing functions in it. So, our next move is to create those functions.
 
 ![Button Functions Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-functions-highlighted-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The three functions we want are:
 
@@ -215,6 +211,10 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 `MsgBox, %SelectedFile%`
 
  This will have AHK show a **Message Box** with the selected file after we choose it, which is useful when troubleshooting your script. If this message box shows your selected file's path and name, it's not your file-selecting button or function that requires fixing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Output Folder Selection
 
@@ -246,10 +246,6 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 ![Button Submit Collecting Whisper Flags](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-collecting-whisper-flag-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, we'll "tell" AHK to use the default terminal (CMD.exe) to run Whisper's executable (that we defined with the **WhisperExecutable** variable) with the GUI's variables (that are now "assembled" in the single **WhisperFlags** variable).
 
 `RunWait, cmd.exe /c %WhisperExecutable% %WhisperFlags%`
@@ -264,18 +260,18 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 ![Button Submit Troubleshooting Copy Command To Clipboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-troubleshooting-copy-command-to-clipboard-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open a terminal, paste the command from the Clipboard, and check the errors that pop up to locate potential problems.
 
 ![Checking Out The Command In Cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/checking-out-the-command-in-cmd-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, while working on the script, I initially forgot to have the prompt enclosed within quotation marks. Thus, the command failed, since Whisper tried to parse the prompt as flags.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Testing and Final Tweaks
@@ -292,28 +288,15 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  If everything worked, go back to your script and either delete or Comment out (by adding a ";" at their beginning) all the troubleshooting functionality (message boxes and copy-to-Clipboard lines).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Taking Whisper Further With AutoHotkey
 
  By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win-amazing.techidaily.com/1722972648041-an-inherent-desire-in-humans-for-recognition-which-would-be-satisfied-by-liberal-democracy-and-capitalism-as-outlined-in-hegels-work/"><u>An Inherent Desire in Humans for Recognition, Which Would Be Satisfied by Liberal Democracy and Capitalism (as Outlined in Hegel's Work)</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-restoring-corrupted-data-on-your-windows-11-pc/"><u>Comprehensive Solutions for Restoring Corrupted Data on Your Windows 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-steam-cloud-glitches-on-pc/"><u>Correcting Steam Cloud Glitches on PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-s18-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo S18 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-pc-performance-tailored-windows-key-tricks/"><u>Elevate PC Performance: Tailored Windows Key Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-experience-with-windows-11-user-tuned-controls/"><u>Elevate Your Experience with Windows 11 User-Tuned Controls</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728470157277-e/"><u>Eドライブ失われ続ける理由と、パーティション復元手順</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-audio-tempo-control-gear-guide-mobile-pc/"><u>In 2024, Audio Tempo Control Gear Guide (Mobile, PC)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-browser-content-function-as-apps-in-windows/"><u>Making Browser Content Function as Apps in Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/prime-10-gif-maker-services-transforming-jpgs-at-no-cost-for-2024/"><u>Prime 10 GIF Maker Services Transforming JPGs at No Cost for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-printer-network-problems-in-windows/"><u>Resolving Printer Network Problems in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-overcoming-chrome-stalling-issues-on-your-windows-10-machine/"><u>Step-by-Step Guide: Overcoming Chrome Stalling Issues on Your Windows 10 Machine</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unleash-creativity-with-top-9-free-tools-to-craft-your-brand-for-2024/"><u>Unleash Creativity with Top 9 Free Tools to Craft Your Brand for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -322,3 +305,27 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>[New] In 2024, The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-your-yt-ad-revenue-with-effective-monetization-audits/"><u>[New] Optimizing Your YT Ad Revenue with Effective Monetization Audits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-smooth-video-viewing-experience-enabledisable-pip-for-iphone-youtube-for-2024/"><u>[New] Smooth Video Viewing Experience Enable/Disable PIP for iPhone YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-steps-for-effective-ipad-screen-casts-for-2024/"><u>[New] Steps for Effective iPad Screen Casts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-see-your-subscribers-on-youtube-in-2024/"><u>[Updated] How to See Your Subscribers on YouTube, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>2024 Approved Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-zenwifi-xt8-ax6600-rigorous-assessment-setting-the-standard-for-modern-mesh-wi-fi-systems/"><u>ASUS ZenWiFi XT8 AX6600 Rigorous Assessment - Setting the Standard for Modern Mesh Wi-Fi Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-loadlibrary-failed-with-error-87-the-parameter-is-incorrect-on-windows/"><u>How to Fix LoadLibrary Failed With Error 87: The Parameter Is Incorrect on Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-your-companion-in-choosing-high-grade-hdr-cameras/"><u>In 2024, Your Companion in Choosing High-Grade HDR Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-local-links-to-global-drives-dropbox-and-googledrive-via-c/"><u>Leveraging Local Links to Global Drives: Dropbox & GoogleDrive via C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-written-expression-on-a-windows-pc/"><u>Master the Art of Written Expression on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/peering-into-windows-11s-covert-icons-and-tray/"><u>Peering Into Windows 11'S Covert Icons & Tray</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-troubleshooting-guide-for-non-responsive-lenovo-fingerprint-scanner/"><u>Quick Troubleshooting Guide for Non-Responsive Lenovo Fingerprint Scanner</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/stay-cool-on-savings-top-laptop-coolers-at-unbeatable-prices-this-cyber-monday-exclusive-offers/"><u>Stay Cool on Savings! Top Laptop Coolers at Unbeatable Prices This Cyber Monday - Exclusive Offers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/super-user-tools-in-windows-interface-features/"><u>Super User Tools in Windows' Interface Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-fatal-error-0x800f0831-beast-in-windows-os/"><u>Taming the Fatal Error 0X800f0831 Beast in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-seamless-transition-of-hosts-from-windows-to-virtualized-linux-world/"><u>The Seamless Transition of Hosts: From Windows to Virtualized Linux World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-addressing-windows-error-code-0xc0000001/"><u>The Ultimate Guide to Addressing Windows Error Code 0XC0000001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-gets-a-lifeline-with-annual-patches-beyond-initial-release/"><u>Windows 11 Gets a Lifeline With Annual Patches Beyond Initial Release</u></a></li>
+</ul></div>
+

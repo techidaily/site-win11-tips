@@ -1,7 +1,7 @@
 ---
 title: Techniques for Overcoming Inaccessible Windows Files
-date: 2024-11-26T18:11:57.450Z
-updated: 2024-11-27T17:45:20.480Z
+date: 2024-12-02T22:07:08.305Z
+updated: 2024-12-06T17:26:29.456Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 
  Now you know what causes this error, let's explore the solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Grant Full Control Permissions
 
  It looks like the main issue causing this error is that Windows doesn’t have sufficient permissions to access the file. To fix this, you must grant full control permissions to the account or user accessing the file. Here are the steps to follow:
@@ -46,7 +42,15 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 ![Grant Full Control Permissions to an user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/grant-full-control-permissions-to-an-user-account.jpg)
 5. Click **Apply** and **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After making these changes, try viewing the photos again and checking if the error has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Take Ownership of the Folder
 
@@ -59,11 +63,11 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 ![Advanced Security Settings for Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/advanced-security-settings-for-folders.jpg)
 5. In the dialog box, type **Everyone** and click **Check Names**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
@@ -73,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 5. Once done, click **OK** and close the window.
 
  After that, restart your computer and try accessing the folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Photos App
 
@@ -84,17 +92,9 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 ![Microsoft Photos App in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-photos-app-in-settings.jpg)
 4. Click on the three dots and select **Advanced options**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, try to open photos on your external hard drive.
 
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
  If you're still encountering the error, try [running the Program Compatibility Troubleshooter](http://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/). This tool scans for compatibility issues with installed programs and solves them automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Files Without a Problem Again on Windows
@@ -116,25 +116,6 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 
  In this article, we explain how to fix this error, so you can view your photos again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-audiophiles-ultimate-narrative-guides/"><u>[New] 2024 Approved Audiophile's Ultimate Narrative Guides</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unveiling-top-techniques-for-vhs-image-transformation/"><u>2024 Approved Unveiling Top Techniques for VHS Image Transformation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-motorola-moto-g13-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Motorola Moto G13 PC | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/coherence-and-creativity-note-taking-made-visible-with-obsidian-canvas/"><u>Coherence & Creativity - Note-Taking Made Visible with Obsidian Canvas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-fixing-steam-authentication-hitches-using-rust-and-windows/"><u>Deciphering and Fixing Steam Authentication Hitches Using Rust & Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-issue-of-unsaved-audio-settings-in-windows/"><u>Fixing the Issue of Unsaved Audio Settings in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-se-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone SE and iPad Without Apple ID | Stellar</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g24-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G24 Fingerprint Lock</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-look-youtube-lives-image-interpretation/"><u>In 2024, Inside Look YouTube Live's Image Interpretation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-smudge-free-sequence-eliminating-gopro-fog/"><u>In 2024, The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-awesome-valorant-thumbnails-for-youtube-content-for-2024/"><u>Mastering Awesome Valorant Thumbnails for YouTube Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-the-stopped-window-lock-screen-countdown/"><u>Rectifying the Stopped Window Lock Screen Countdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uniting-worlds-the-best-6-cross-platform-android-apps-for-windows-11/"><u>Uniting Worlds: The Best 6 Cross-Platform Android Apps for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-polyglots-windows-1011-keys-for-translation/"><u>Unlock the Power of Polyglots: Windows 10/11 Keys for Translation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-are-the-windows-n-editions-and-should-you-use-them/"><u>What Are the Windows N Editions, and Should You Use Them?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,3 +123,21 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/mplify-your-imovie-with-youtube-audio-streams-for-2024/"><u>[New] Amplify Your iMovie with YouTube Audio Streams for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-tiktok-video-potential-with-zoom/"><u>[New] Unlocking TikTok Video Potential with Zoom</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-optimal-6-solutions-for-video-captioning/"><u>[Updated] 2024 Approved Optimal 6 Solutions for Video Captioning</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-youtube-star-status-becoming-a-self-assured-vlogger/"><u>[Updated] Unlock YouTube Star Status Becoming a Self-Assured Vlogger</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-fuzzy-imagery-in-ubisofts-far-cry-6-edition/"><u>Addressing Fuzzy Imagery in Ubisoft's Far Cry 6 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-the-variances-in-exe-and-standard-msis-designs/"><u>Explaining the Variances in EXE and Standard MSIs' Designs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-startup-issues-windows-display-driver-problems/"><u>Fixing Startup Issues: Windows' Display Driver Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpoint-windows-11-desktop-picture-storage/"><u>Pinpoint Windows 11 Desktop Picture Storage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revamp-srt-to-subc-3-effective-techniques-unpacked-for-2024/"><u>Revamp SRT to SUBC 3 Effective Techniques Unpacked for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-disabled-grammarly-functionality-in-windows-10/"><u>Tackling Disabled Grammarly Functionality in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-blinking-screens-in-win1011/"><u>Troubleshooting Blinking Screens in WIN10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-touchpad-solutions-for-nonfunctional-scroll-buttons/"><u>Troubleshooting Windows 11 Touchpad: Solutions for Nonfunctional Scroll Buttons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-insights-of-windows-11s-cpugpuram/"><u>Unveiling the Hidden Insights of Windows 11'S CPU/GPU/RAM</u></a></li>
+</ul></div>
+

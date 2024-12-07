@@ -1,7 +1,7 @@
 ---
 title: "Comparing Microsoft Office: Key Differences on Windows vs macOS Platforms"
-date: 2024-08-28T01:07:18.096Z
-updated: 2024-08-29T01:07:18.096Z
+date: 2024-12-01T23:11:17.790Z
+updated: 2024-12-06T20:01:07.299Z
 tags:
   - excel
 categories:
@@ -28,6 +28,10 @@ Related: [What's the Difference Between Microsoft Office's Desktop, Web, and Mob
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](https://extra-guidance.techidaily.com/new-quirky-creations-your-guide-to-no-cost-memes/) 
 
  Microsoft sells Office for Windows in various editions. Almost all editions come with Word, Excel, PowerPoint, and OneNote. Depending on the edition you buy, you might also get apps like Outlook, Publisher, and Access.
@@ -44,13 +48,18 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
  If you really need any of the specific apps we've listed here, you're going to need run Windows and the Windows version of Office.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Features Are Missing from the Mac Versions of Word, Excel, PowerPoint, Outlook, and OneNote?
 
  So what about the core Office apps that are available on the Mac? While there are a number of very small features missing (stuff that affects very few people), most of the features you find in the Windows versions are present in the macOS versions. Here are the main things you'll miss out on, though.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Suite-Wide
 
  There are a couple of fairly big features that, while not missing entirely from the Office suite for Mac, are not quite up to their Windows counterparts:
@@ -60,9 +69,6 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
  There are, of course, some other missing suite-wide features, but they really pertain to installations that are part of a company network. For example, roaming (the ability to use Office on different computers and have your configuration follow you) is not available for macOS. However, if your system is part of a company network, these things have likely been thought out in advance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ###  Word
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_2.png) 
@@ -78,6 +84,10 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fortunately, the disparity between the Windows and Mac versions of Excel are minimal. Both versions support all the major features. Here are a couple things to note, though:
 
 * **PivotCharts:** While the Mac version of Excel fully supports [PivotTables](https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-huawei-nova-y71-drfone-by-drfone-virtual-android/), its support for PivotCharts (charts derived from PivotTables) has always been lacking. The January 2018 update to Office 2016 for macOS does bring the Mac version's support of PivotCharts more in line with the Windows versions, but you may still find some charting abilities missing.
@@ -86,29 +96,21 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
  These are some pretty "power user" features, so it's likely you won't miss them much.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  PowerPoint
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Windows and Mac versions of PowerPoint are also mostly in parity. That said, there is one feature worth noting that's missing on the macOS side of things: video and animation triggers. These triggers let you make an animation effect begin playing when you click the object being animated, or automatically at the beginning of an audio or video clip.
 
  Note that the Mac version does feature all the same animations, and does let you [trigger animations with a general click or by setting a timer](https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/). It just doesn't include the advanced triggers that the Windows version does.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Outlook
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Most of the Outlook features missing from the Mac version have to do with advanced features you see when connected to an Exchange server. These include things like access to public calendars, distribution lists, retention and compliance features, receipt tracking, and various social features like voting buttons.
 
  There are also a few other missing features worth noting:
@@ -142,8 +144,6 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +151,23 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-precision-craftsmanship-building-exquisite-circle-sphere-objects/"><u>[New] Precision Craftsmanship Building Exquisite Circle, Sphere Objects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-simplified-methods-to-screen-record-instagrams-story-feature/"><u>[Updated] 2024 Approved Simplified Methods to Screen Record Instagram's Story Feature</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-go-professional-stay-budgeted-top-4-tutorials-on-creating-green-screen-magic-for-cost-free-learning/"><u>[Updated] Go Professional, Stay Budgeted Top 4 Tutorials on Creating Green Screen Magic for Cost-Free Learning</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/automatic-conversion-with-flippdf-service-turn-your-pdfs-into-readable-ebooks-at-flipbuildercom/"><u>Automatic Conversion with FlipPDF Service: Turn Your PDFs Into Readable Ebooks at [flipbuilder.com]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/comprehensive-guide-to-addressing-red-dead-redemption-2s-pc-crashes-and-bugs/"><u>Comprehensive Guide to Addressing Red Dead Redemption 2'S PC Crashes and Bugs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-strengthen-window-app-web-interactions/"><u>Effortlessly Strengthen Window App Web Interactions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-autoplay-for-spotify-on-pcs/"><u>How to Stop Autoplay for Spotify on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-solutions-for-silent-audio-input-with-obs-and-windows-11/"><u>Immediate Solutions for Silent Audio Input with OBS and Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-easily-unlock-xiaomi-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock Xiaomi Screen?</u></a></li>
+<li><a href="https://win-best.techidaily.com/online-gratuit-konvertor-van-wmv-bestand-naar-andere-formaten-wegwijzen-door-movavi/"><u>Online Gratuit Konvertor Van WMV-Bestand Naar Andere Formaten - Wegwijzen Door Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-windows-from-tracing-new-program-starts/"><u>Prevent Windows From Tracing New Program Starts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-responsive-hibernate-in-windows/"><u>Resolving Non-Responsive Hibernate in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reverse-malfunctioning-notifications-in-windows-os/"><u>Strategies to Reverse Malfunctioning Notifications in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-hd-adventure-mastery-on-windows-through-scummvm/"><u>The Ultimate Guide to HD Adventure Mastery on Windows Through ScummVM</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-complete-hard-drive-occupancy-on-windows-10-machines/"><u>Troubleshooting Complete Hard Drive Occupancy on Windows 10 Machines</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/windows-controllers-unlock-gaming-joy-by-correcting-invisible-input-devices/"><u>Windows Controllers: Unlock Gaming Joy by Correcting Invisible Input Devices</u></a></li>
+</ul></div>
 

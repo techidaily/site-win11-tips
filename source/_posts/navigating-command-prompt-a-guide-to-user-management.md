@@ -1,7 +1,7 @@
 ---
 title: "Navigating Command Prompt: A Guide to User Management"
-date: 2024-08-28T01:09:30.943Z
-updated: 2024-08-29T01:09:30.943Z
+date: 2024-12-02T18:25:31.393Z
+updated: 2024-12-07T01:20:35.646Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  In this guide, we're going to show you how to use the net user command to perform various actions on user accounts on a Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. List All User Accounts
 
 ![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
@@ -30,9 +34,17 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  Keep the names you see in mind, as you will need them as you use the **net user** command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Show All the Information of a User Account
 
 ![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also bring up all the important information about a user by simply typing the **net user** command followed by the name of the user's name. Here's the basic syntax:
 
@@ -60,13 +72,18 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  Now net user will remove the account from the computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enable and Disable a User Account
 
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
 
 `net user Username /active:no`
@@ -77,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  And if you want to enable a disabled account, you just have to change the **/active:no** switch to **/active:yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Enable and Disable a Domain User Account
 
  Sometimes, you might not want a user to access all the resources in a particular domain. The easier way to restrict them is to disable their account in that domain. You can do this by adding the **/domain** switch to the syntax discussed in the previous section.
@@ -90,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  If you want to enable an account on a domain, just use the **/active:yes** switch in the above command structure instead.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Set User Account Login Times
 
  If you want to specify the times someone can log in, you can use the **/time** parameter to specify the account login times. You can use the basic syntax below:
@@ -111,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  Now Jack can go back to logging in whenever he wants.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 7\. Set User Account Expiry Date
 
 ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
@@ -134,9 +142,6 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  The beauty of it is that you can also use it to change passwords for multiple accounts without leaving the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Change the Password of a Domain User Account
 
  You can also change the password of a user on a domain by appending the **/domain** switch at the end of the command for changing a user account. The syntax for this is as follows:
@@ -144,6 +149,10 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 `net user Username NewPassword /domain`
 
  Again this has to be a local domain user account for this to work. So, if you [changed the user account from a Microsoft account to a local account](https://www.makeuseof.com/how-to-switch-windows-from-microsoft-account-to-local-account/), you'll need to switch it back to use the command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Set a Password Policy for Users
 
@@ -171,9 +180,6 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Take Control of Your Computer's Users Accounts With the Net User Command
 
  Net user is a simple command to understand, allowing you to effectively manage your accounts from one location: Command Prompt. Of course, we haven't covered everything here, as there are too many parameters and switches to cover in a single guide.
@@ -182,11 +188,28 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  In this guide, we're going to show you how to use the net user command to perform various actions on user accounts on a Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-privacy-first-explore-the-best-10-no-cost-highly-secured-video-calling-apps-for-smartphones/"><u>[New] Privacy First Explore the Best 10 No-Cost, Highly-Secured Video Calling Apps for Smartphones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-revolutionizing-iphone-photography-with-hdr-techniques/"><u>[Updated] In 2024, Revolutionizing iPhone Photography with HDR Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-inspire-business-identity-utilize-free-logo-templates-and-modify-endlessly/"><u>[Updated] Inspire Business Identity Utilize Free Logo Templates & Modify Endlessly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-visualize-success-discover-the-top-10-online-tools-for-channel-branding/"><u>[Updated] Visualize Success - Discover the Top 10 Online Tools for Channel Branding</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284733361-dvd-dvd/"><u>DVD作成のプロセスを分かりやすく解説: DVD書き込みと焼き付け</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evolving-winadmin-roles-with-innovative-uac-strategies/"><u>Evolving WinAdmin Roles with Innovative UAC Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-solutions-for-stalled-task-scheduling/"><u>Immediate Solutions for Stalled Task Scheduling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-showhide-file-explorer-folders-windows-11/"><u>Master the Art of Show/Hide File Explorer Folders (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-dodge-windows-login-requests/"><u>Quick Fixes to Dodge Windows Login Requests</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-leading-external-blu-ray-drives-in-the-market-2024-edition/"><u>Top Picks: Leading External Blu-Ray Drives in the Market - 2024 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triple-column-widget-setup-in-windows-11-guide/"><u>Triple Column Widget Setup in Windows 11 Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-new-era-in-ai-performance-amperes-cutting-edge-512-core-ampereone-aurora-processor-with-custom-ai-engine-capabilities-and-hbm-memory-support-rede48/"><u>Unleashing New Era in AI Performance: Ampere's Cutting-Edge 512-Core AmpereOne Aurora Processor with Custom AI Engine Capabilities and HBM Memory Support Redefining Computational Excellence</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-s24-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy S24 Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
+

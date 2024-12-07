@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Control Key Dysfunctions on Win11
-date: 2024-11-24T18:06:53.998Z
-updated: 2024-11-27T16:21:55.057Z
+date: 2024-12-04T20:59:28.114Z
+updated: 2024-12-06T16:44:04.553Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Isn't the Ctrl Key Working on Windows 11?
 
  If the Ctrl key on your Windows computer stops working, you may have trouble executing commands and shortcuts. Here are some of the most common reasons why this might happen:
@@ -40,17 +36,9 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  Now that you know all the prime reasons that can contribute to the issue, let’s check out how to eliminate them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  If the Ctrl key on your keyboard isn't functioning, your first course of action should be to [restart your Wiindows computer](https://www.makeuseof.com/windows-restart-methods/). This action will eliminate any potential bugs or glitches responsible for the problem. Before restarting, ensure that you save any active documents or work to prevent any data loss.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check for Physical Damage
 
@@ -59,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
  To verify whether physical damage is the prime reason behind the problem, access a [keyboard test website](https://www.makeuseof.com/test-keyboard-online-tools/) and press the Ctrl key to check if it registers the action on the site.
 
 ![Keyboard layout on a Keyboard Testing website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-layout.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the website doesn't recognize the Ctrl key input, it's probable that your keyboard has sustained damage. There might be debris or other particles that are responsible for the issue. In that case, use a gentle brush or a microfiber cloth to cleanse the affected area. If you need help, check out our guide on how to [clean beneath keyboard keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/).
 
@@ -74,11 +66,15 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 3. Choose **Other troubleshooters.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click the **Run** button next to Keyboard.  
 ![Keyboard troubleshooter in the setting menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Keyboard-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The troubleshooter will now look for any issues with your keyboard and try to fix them. However, if the keyboard troubleshooter fails to fix the issue, run the Hardware and Devices troubleshooter instead. For that, follow these instructions:
 
@@ -101,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  After that, restart your computer and check for the issue. If it continues, you can re-enable the sticky and filter keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reinstall the Keyboard Driver
 
  Bugs in the keyboard driver can cause various issues, including the one at hand. You can quickly eliminate all such bugs by reinstalling the keyboard driver.
@@ -116,23 +116,19 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  Now, restart your computer. Upon restart, Windows will automatically reinstall the keyboard driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Download the Latest Windows Update
 
  The issue may also arise from minor bugs or glitches in your current Windows version. To fix this, [manually update Windows](https://www.makeuseof.com/update-windows-manually/) to the latest build.
 
  Upon completing the update installation, restart your system and verify the functionality of the Ctrl key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Run SFC and DISM Scans
 
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Problems with crucial system files on your PC can also affect the proper functioning of the Ctrl key. If the issue arises due to corruption in these important system files, you can run SFC and DISM scans.
 
@@ -144,30 +140,15 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  If the Ctrl key functions properly in the clean boot state, it indicates that one of the services you deactivated is responsible for the problem. To pinpoint the culprit, slowly reactivate each service until the Ctrl key becomes nonfunctional again. Once the troublesome service is identified, either download its update or remove it from your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Quickly Fix the Ctrl Key on Windows
 
  Depending on your situation, rectifying the Ctrl key issue can be as simple as cleaning it or downloading an available Windows update. However, if none of the aforementioned solutions prove effective, it's likely that the Ctrl key on your keyboard is damaged and necessitates repair.
 
  If the Ctrl key is not working on your Windows computer, you've come to the right place. This guide explains how to troubleshoot and repair the Ctrl key on your computer.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-simplified-approaches-to-insta-photovideo-resharing-for-2024/"><u>[New] Simplified Approaches to Insta Photo/Video Resharing for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-instagrams-potential-elevating-content-impact/"><u>[New] Unlocking Instagram's Potential Elevating Content Impact</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/achieve-your-goals-using-the-miniature-samsung-galaxy-fit2-activity-band/"><u>Achieve Your Goals Using the Miniature Samsung Galaxy Fit2 Activity Band</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-error-0x8009030e-in-hyper-v-virtualization-windows/"><u>Correcting Error 0X8009030E in Hyper-V Virtualization Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decorating-taskbar-step-by-step-on-adding-a-weather-indicator-to-windows-11/"><u>Decorating Taskbar: Step-by-Step on Adding a Weather Indicator to Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-1011-searcher-that-skips-results/"><u>Fixing Windows 10/11 Searcher That Skips Results</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-14-pro-max-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 14 Pro Max Backup files on Windows PC? | Stellar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-a-broken-mic-on-your-computer-expert-tips/"><u>How to Restore Functionality to a Broken Mic on Your Computer - Expert Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a24-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A24 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-pro-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro with IMEI Code?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-k70-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi K70 ProFRP Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-no-mistakes-essential-errors-to-evade-in-windows-11/"><u>Navigating No Mistakes: Essential Errors to Evade in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-problem-solved-get-your-world-of-warcraft-game-sounds-back/"><u>Noise Problem Solved! Get Your World of Warcraft Game Sounds Back</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-windows-11-terminal-configuration/"><u>Overhauling Windows 11 Terminal Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trailblazing-through-windows-10s-past-actions/"><u>Trailblazing Through Windows 10'S Past Actions</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -176,3 +157,19 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-effortless-free-capture-of-your-android-world/"><u>[New] In 2024, Effortless Free Capture of Your Android World</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860375094-new-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>[New] Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/our-first-youtube-journey-a-money-making-blueprint-for-2024/"><u>[New] Your First Youtube Journey A Money-Making Blueprint for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-audio-precision-with-these-five-editors/"><u>Enhance Audio Precision with These Five Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-razer-device-detection-issues-in-windows-1011/"><u>Fixing Razer Device Detection Issues in WIndows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-error-no-qt-platform-engine-available-for-startup/"><u>Handling Error: No Qt Platform Engine Available for Startup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-tivo-or-comcast-the-ultimate-guide-to-choosing-the-best-dvr-for-your-needs/"><u>New 2024 Approved TiVo or Comcast The Ultimate Guide to Choosing the Best DVR for Your Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-extra-wires-just-joy-link-ps3-to-your-pc/"><u>No Extra Wires, Just Joy: Link PS3 to Your PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successful-guide-installing-the-epson-xp-830-printer-driver-no-more-hassles/"><u>Successful Guide: Installing the Epson XP-830 Printer Driver - No More Hassles!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-flawed-windows-email-rule-configurations/"><u>Troubleshooting Flawed Windows Email Rule Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-login-woes-a-comprehensive-solution/"><u>Windows 11 Login Woes: A Comprehensive Solution</u></a></li>
+</ul></div>
+

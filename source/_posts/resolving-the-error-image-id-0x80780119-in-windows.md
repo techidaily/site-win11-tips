@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Error: Image ID 0X80780119 in Windows"
-date: 2024-11-23T17:49:17.334Z
-updated: 2024-11-27T16:20:58.493Z
+date: 2024-11-30T00:10:33.312Z
+updated: 2024-12-06T19:10:45.825Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Are You Unable to Create a System Image?
 
@@ -49,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
  In case you have large files or folders that you do not want to remove but also don’t need immediately, you can consider moving them to an external drive to free up space.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check and Repair Disk Errors
 
  You might also be facing the system restore issue due to disk errors in the system.
@@ -71,14 +71,10 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 4. Click on the **Check** button here and wait for the system to complete the scan. This may take some time, depending upon the size of your disk.  
 ![Run the error checking tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/error-checking-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable System Protection
@@ -93,19 +89,20 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 ![Click on the System protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection-options.jpg)
 4. In the following dialog, head over to the **System Protection** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Choose the targeted drive and click on the **Configure** button.  
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
 
  You can now close the System Protection dialog and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete USN Journal
@@ -122,6 +119,11 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 4. In the next dialog, choose **Assign the following drive letter** and click **OK**.  
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
 5. Once done, press the **Win** \+ **R** keys together to open Run.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type "cmd" in Run and click **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.
 7. Confirm your action in the UAC prompt.
 8. Execute the following commands in Command Prompt one by one:  
@@ -135,27 +137,6 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-best-5-webcams-with-mic-for-2024/"><u>[New] Best 5 Webcams with Mic for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/chromes-unwanted-tab-behavior-stop-and-reverse/"><u>Chrome's Unwanted Tab Behavior: Stop and Reverse</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/efficiently-convert-videos-to-hevc-format-using-handbrake-complete-encoder-setup-tutorial/"><u>Efficiently Convert Videos to HEVC Format Using Handbrake – Complete Encoder Setup Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-muting-pc-sound-boosting-options/"><u>Guide to Muting PC Sound Boosting Options</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-y56-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Y56 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-t2-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo T2 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-the-windows-engine-crafting-and-deciphering-system-data/"><u>Inside the Windows Engine: Crafting & Deciphering System Data</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide-for-2024/"><u>Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/past-perspectives-present-7-features-from-older-windows-versions/"><u>Past Perspectives Present: 7 Features From Older Windows Versions</u></a></li>
-<li><a href="https://win-best.techidaily.com/resmi-petualangan-untuk-memulihkan-informasi-di-ssd-yang-tidak-dapat-dibuka/"><u>Resmi Petualangan Untuk Memulihkan Informasi Di SSD Yang Tidak Dapat Dibuka</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-time-travel-reimagining-windows-11-as-98/"><u>Tech Time Travel: Reimagining Windows 11 as 98</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transform-your-drive-with-the-escort-ix-the-cutting-edge-ai-jammer-for-smart-drivers/"><u>Transform Your Drive with the Escort iX: The Cutting-Edge AI Jammer for Smart Drivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-gaming-how-three-major-pc-manufacturers-are-revolutionizing-the-experience-with-chrome-powered-devices-insights-from-zdnet/"><u>Transforming Gaming: How Three Major PC Manufacturers Are Revolutionizing the Experience with Chrome-Powered Devices - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-esd-data-into-linuxwindows-iso-formats/"><u>Transitioning ESD Data Into Linux/Windows ISO Formats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-discontent-in-windows-11-upgrades/"><u>Unveiling the Discontent in Windows 11 Upgrades</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-convert-optimize-and-thrill-the-best-vr-video-conversion-software-for-2024/"><u>Updated Convert, Optimize, and Thrill The Best VR Video Conversion Software for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winrar-archive-success-nine-ways-to-prevent-checksum-errors/"><u>WinRAR Archive Success: Nine Ways to Prevent Checksum Errors</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -163,3 +144,23 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-formulating-attractive-instagram-story-captions/"><u>[New] Formulating Attractive Instagram Story Captions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfect-game-video-edits-made-easy-for-newcomers/"><u>[New] In 2024, Perfect Game Video Edits Made Easy for Newcomers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-to-animated-gifs-conversion-guide-online-tutorial-for-success/"><u>[New] Youtube to Animated GIFs Conversion Guide Online Tutorial for Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-x-professional-audio-toolkit-personal-computing/"><u>2024 Approved X-Professional Audio Toolkit, Personal Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-essay-artistry-on-a-win-pc/"><u>Elevate Your Essay Artistry on a Win-PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-a-smooth-wsl-2-experience-with-docker-tools/"><u>Expert Tips for a Smooth WSL 2 Experience with Docker Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y36i-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y36i by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-pin-authenticate-error-on-windows-1110-devices/"><u>Quick Fix for Pin Authenticate Error on Windows 11/10 Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quick-tips-for-iphone-7-video-saving-for-2024/"><u>Quick Tips for iPhone 7 Video Saving for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-custom-settings-with-new-view-restores/"><u>Reclaiming Custom Settings with New View Restores</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-flip-side-realities-of-virtual-reality/"><u>The Flip Side Realities of Virtual Reality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quickest-way-to-a-speedy-windows-11-start-up/"><u>The Quickest Way to a Speedy Windows 11 Start-Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unison-to-win-mastering-phone-calls-on-windows-11-for-retailers/"><u>Unison to Win: Mastering Phone Calls on Windows 11 for Retailers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-addressing-error-code-c0000005-in-windows/"><u>Unraveling and Addressing Error Code C0000005 in Windows</u></a></li>
+</ul></div>
+

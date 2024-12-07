@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Unsyncing Google Drive on Your PC Instantly
-date: 2024-11-23T16:38:26.039Z
-updated: 2024-11-27T18:09:36.104Z
+date: 2024-12-01T02:09:53.808Z
+updated: 2024-12-06T18:05:03.490Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  Restarting the computer is an ideal and recommended way to solve almost all Windows-related errors.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
  For restarting your computer, click the**Windows** icon on the taskbar and then the**Power** button. Finally, click**Restart** to restart your computer. Once your computer boots up properly, try downloading a file or uploading one via Google Drive for desktop.
 
 ![Restart Option In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-option-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disconnect and Reconnect Your Google Account
 
@@ -57,7 +57,7 @@ Follow the below steps to disconnect your Google account from Drive:
 ![Sign In Option In Google Drive's Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-in-option-in-google-drive.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that, during signing in with your Google account, it'll ask for some permissions—so make sure you tick all the checkboxes. This should hopefully fix the syncing issues on your computer.
@@ -73,7 +73,7 @@ Follow the below steps to disconnect your Google account from Drive:
  If you run into problems with Windows programs often, you should know[how to delete temporary files in Windows](https://www.makeuseof.com/windows-11-delete-temporary-files/) . By deleting the temporary files, you force all the Windows programs to recreate them at startup. This removes all the corrupted files and fixes some common sync errors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Examine the Internet Connection
@@ -86,6 +86,10 @@ Follow the below steps to disconnect your Google account from Drive:
 
 ![Ipconfig Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ipconfig-in-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your issue is still not resolved, keep reading, as you may need to jump on to some advanced troubleshooting methods.
 
 ## 5\. Check the Required Permissions to Sync Files
@@ -95,10 +99,6 @@ Follow the below steps to disconnect your Google account from Drive:
  So, if you’re trying to sync the shared files, there are chances that you may not have the appropriate permissions. In that case, you need to click**Request access** or ask for approval from the true owner of the shared file.
 
 ![Request Access In Google Drive Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/request-access-in-google-drive.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In case, the files are owned by you, it’s always a good idea to change the Google Drive streaming folder for troubleshooting. To do this, open**Google Drive Preferences** and choose**Folder** from the list of options under the heading**Google Drive streaming location** .
 
@@ -119,6 +119,11 @@ Follow the below steps to disconnect your Google account from Drive:
 2. Run the installer file you just downloaded and click**Install** .  
 ![Drive For Desktop Installer Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-for-desktop-installer.jpg)
 3. Click**Sign in with browser** and log in with your desired Google account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once you’ve signed into Google Drive, click**Close** to exit the installer.
 5. Now you can view all your files stored in your drive from the Windows File Explorer.
 
@@ -132,15 +137,11 @@ Follow the below steps to disconnect your Google account from Drive:
 ![Google Drive Startup Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/google-drive-startup-settings.jpg)
 * **Check your Drive’s Storage:** Google Drive offers only 15GB of storage to normal users. If you have low cloud storage, you may not be able to upload any new files because of storage limits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Tweak Sync option:** Google Drive will stop syncing any files if you’ve modified the sync options. To revert it, click the**Settings (gear)** icon in Google Drive and select**Resume syncing** .
 * **Restart Google Drive:** To restart the Drive for desktop, click the**Google Drive** icon on the bottom right of the taskbar, and then click**Settings > Quit** . Now, reopen it from the search or start menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Restore Google Drive Sync on Windows
@@ -164,20 +165,16 @@ Follow the below steps to disconnect your Google account from Drive:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-engaging-audiences-how-tos-for-effective-youtube-logo-creation/"><u>[New] 2024 Approved Engaging Audiences How-To's for Effective YouTube Logo Creation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-economical-android-communication-tools-list/"><u>[New] In 2024, Economical Android Communication Tools List</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-deciphering-the-skies-with-yuneecs-typhoon-uav/"><u>[Updated] In 2024, Deciphering the Skies with Yuneec’s Typhoon UAV</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-decoding-aspect-ratios-for-effective-youtube-videos/"><u>2024 Approved Decoding Aspect Ratios for Effective YouTube Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/cease-windows-logging-each-app-opener/"><u>Cease Windows Logging Each App Opener</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-sneak-peek-top-laptops-at-ifa-2023/"><u>Exclusive Sneak-Peek: Top Laptops at IFA 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-allow-or-block-domain-users-from-using-biometrics-on-windows-11/"><u>How to Allow or Block Domain Users From Using Biometrics on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-optimize-warhammer-40k-playtime-win-the-lag-battle/"><u>How to Optimize Warhammer 40K Playtime - Win the Lag Battle</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/instantly-secure-your-snaps-beyond-social-platforms-for-2024/"><u>Instantly Secure Your Snaps Beyond Social Platforms for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/missed-sd-card-display-how-to-locate-it-in-explorer/"><u>Missed SD Card Display: How to Locate It in Explorer</u></a></li>
-<li><a href="https://howto.techidaily.com/oneplus-nord-n30-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconnecting-pc-to-ethernet-win-strategies/"><u>Reconnecting PC to Ethernet: Win Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefine-and-personalize-the-main-screen-for-task-manager-win11/"><u>Redefine and Personalize the Main Screen for Task Manager (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-roblox-error-262/"><u>Strategies to Overcome Roblox Error 262</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-recover-lost-data-on-faulty-usb-sticks-in-windows/"><u>Tactics to Recover Lost Data on Faulty USB Sticks in Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quintessential-7-first-person-shooters/"><u>[New] 2024 Approved Quintessential 7 First-Person Shooters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-10-camera-lenses-to-use/"><u>[New] Best 10 Camera Lenses to Use</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unlocking-success-in-live-streaming-of-cricket-matches-for-2024/"><u>[New] Unlocking Success in Live Streaming of Cricket Matches for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-pinnacle-of-live-tweeting-on-social-media/"><u>[Updated] 2024 Approved The Pinnacle of Live Tweeting on Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-revolutionizing-your-tiktok-content-collection-game/"><u>2024 Approved Revolutionizing Your TikTok Content Collection Game</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-peak-performance-pc-components-selecting-the-optimal-cpu-for-gaming-enthusiasts/"><u>Discover Peak Performance PC Components: Selecting the Optimal CPU for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-viewing-and-cleansing-windows-10-activities/"><u>Expert Tips for Viewing & Cleansing Windows 10 Activities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertly-select-files-engage-checkboxes-in-win11-ui/"><u>Expertly Select Files: Engage Checkboxes in Win11 UI</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/frame-fastness-mastering-time-lapse-shots-with-samsung/"><u>Frame Fastness Mastering Time-Lapse Shots with Samsung</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-your-nvidia-driver-choice-games-vs-studio/"><u>Perfecting Your Nvidia Driver Choice - Games vs Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-microsoft-works-installer-on-windows-11/"><u>The Ultimate Guide to Microsoft Works Installer on Windows 11</u></a></li>
 </ul></div>
 

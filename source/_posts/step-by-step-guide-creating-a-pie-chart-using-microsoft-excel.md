@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating a Pie Chart Using Microsoft Excel"
-date: 2024-08-28T01:07:03.632Z
-updated: 2024-08-29T01:07:03.632Z
+date: 2024-12-04T22:53:05.441Z
+updated: 2024-12-06T20:03:18.830Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 ---
 
 ## Step-by-Step Guide: Creating a Pie Chart Using Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 
 ![Click the "Insert" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/3-excel-insert-tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "Insert" tab, from the "Charts" section, select the "Insert Pie or Doughnut Chart" option (it's shaped like a tiny pie chart).
 
 ![Select "Insert Pie or Doughnut Chart" in the "Insert" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/4-pie-chart-excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Various pie chart options will appear.
 
@@ -52,15 +64,16 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 
 ![Double-click the pie chart header.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/8-rename-pie-chart.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can change the chart's position in your spreadsheet by dragging and dropping the chart. There's an option to [lock the position of your chart](https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-find-x6-pro-by-drfone-android/) as well.
 
  And that's how you go about displaying your Excel data using slices on a pie!
 
 Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-find-x6-pro-by-drfone-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Customize the Pie Chart in Excel
 
  The default pie chart design looks good on its own, but you can customize it if you want.
@@ -69,30 +82,22 @@ Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-andr
 
 ![Click the "Chart Design" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/9-pie-chart-design-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Chart Design" tab, you will find various chart customization options. If you'd like to change your chart's color scheme, click the "Change Colors" option and pick a new scheme.
 
 ![Click "Change Colors" in the "Chart Design" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/10-change-pie-chart-color.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Similarly, to change your chart's style, pick a new design from the "Chart Styles" section.
 
 ![Select a pie chart style from "Chart Styles" in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/11-change-pie-chart-style.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Lastly, if you want to use your chart outside of Excel, save the chart as an image file by right-clicking the chart and selecting "Save as Picture."
 
 ![Right-click a pie chart and select "Save as Picture."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/12-save-pie-chart-as-image.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And that's how you personalize your pie charts in Microsoft Excel. If you're creating a handout, you may want to [save your Excel sheet as a PDF](https://win-able.techidaily.com/how-to-solve-game-lag-and-skipping-frames-in-modern-warfare-ii-cod/) before printing it.
 
 ---
@@ -107,8 +112,6 @@ Related: [How to Combine or Group Pie Charts in Microsoft Excel](https://instagr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +119,22 @@ Related: [How to Combine or Group Pie Charts in Microsoft Excel](https://instagr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-list-of-window-screenshot-utilities/"><u>[New] 2024 Approved Ultimate List of Window Screenshot Utilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beat-explorers-playlist-accessible-free-online-tools-for-2024/"><u>Beat Explorers' Playlist Accessible, Free Online Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-and-eliminating-error-code-c0000005/"><u>Explaining and Eliminating Error Code: C0000005</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/free-film-resource-highlights-where-to-start-your-search/"><u>Free Film Resource Highlights Where to Start Your Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ftdibussys-explained-understanding-its-role-in-disabling-windows-memory-integrity/"><u>Ftdibus.sys Explained: Understanding Its Role in Disabling Windows Memory Integrity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-the-mouse-and-keyboard-settings-to-their-defaults-on-windows/"><u>How to Reset the Mouse and Keyboard Settings to Their Defaults on Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c02-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-14-animated-text-display-cases/"><u>In 2024, Innovative 14 Animated Text Display Cases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovating-window-command-set-for-mythic-modifications/"><u>Innovating Window Command Set for Mythic Modifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-windows-11-taskbar-visibility/"><u>Mastering the Art of Windows 11 Taskbar Visibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-stable-win11-anydesk-connection/"><u>Re-Establishing Stable Win11 AnyDesk Connection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smoothly-switch-between-wifi-and-local-networks/"><u>Smoothly Switch Between WiFi and Local Networks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/start-saving-with-reddit-today-13-easy-and-effective-strategies-no-experience-for-2024/"><u>Start Saving with Reddit Today - 13 Easy & Effective Strategies (No Experience) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-utorrent-setup-failures-on-latest-windows-versions/"><u>Tackling uTorrent Setup Failures on Latest Windows Versions</u></a></li>
+</ul></div>
 

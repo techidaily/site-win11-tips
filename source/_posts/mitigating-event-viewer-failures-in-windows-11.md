@@ -1,7 +1,7 @@
 ---
 title: Mitigating Event Viewer Failures in Windows 11
-date: 2024-11-24T17:23:51.127Z
-updated: 2024-11-27T16:21:01.793Z
+date: 2024-12-01T02:14:21.983Z
+updated: 2024-12-06T20:34:56.365Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
 
 ![restart windows event log service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-windows-event-log-service.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can restart the Windows Event Viewer log service to fix temporary issues with the app. Use the Services snap-in to stop and restart the service and check for any improvements.
 
  To restart the Windows Event Log Service:
@@ -56,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
 3. Click **Check for Updates**. Windows will scan the server for newer updates and populate the screen with the same if available.
 4. Click on **Download & install** to install any critical Windows updates available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Try Some Generic Troubleshooting Steps to Get Event Viewer Working
 
  If the issue persists, this may be an issue with a recently installed Windows update, corrupt system files, and a problematic memory stick. Here are a few tips to try and resolve issues associated with the Windows Event Viewer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Perform a System Restore
@@ -75,12 +67,16 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
  Start with the most recent restore point available. If the problem persists, check if you can undo the most recently installed Windows update. You can also [manually uninstall Windows updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) from the Settings app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check for System File Corruption
 
  Damaged or missing Windows system files can be a reason why some of your system apps are not working. To fix the issue, [run the System File Checker utility](https://www.makeuseof.com/windows-built-in-repair-tools/) to perform a scan and then run the DISM command to repair or replace the damaged files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check for Issues With the Storage Drive
 
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
 ### Disable Windows Defender
 
  If your Event Viewer cannot load the log files, check if the action is blocked by Windows Defender. To determine the problem, [temporarily disable Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) on Windows 11 and then try to open the log files in Event Viewer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check for Memory Leak Issues
 
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
  You can [reinstall Windows 11 without deleting apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) using a Windows 11 ISO image. If you download the latest version of the ISO, the repair installation process will upgrade your Windows to the latest version available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Windows Event Viewer, Back to Normal
@@ -114,27 +114,6 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
 
  Event Viewer can stop working due to issues with the Windows system files, system memory, glitchy Event Viewer services, and corrupt user accounts. Even some rudimentary issues with the recently installed updates can trigger the issue. Here are a few troubleshooting tips to help you fix the Event Viewer not working problem on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-tips-for-swapping-video-direction-in-snapchat/"><u>[New] 2024 Approved Tips for Swapping Video Direction in Snapchat</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-reach-for-the-millennium-1000-youtube-supporters-for-2024/"><u>[Updated] Reach for the Millennium 1,000 YouTube Supporters for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-yis-actioncam-the-innovation-leader-in-high-res-footage/"><u>2024 Approved Yi's ActionCam The Innovation Leader in High-Res Footage</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 Pro 4G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/complete-guide-to-acer-system-restore-on-windows-10/"><u>Complete Guide to Acer System Restore on Windows 10</u></a></li>
-<li><a href="https://fox-search.techidaily.com/expertentaugliche-methoden-zur-fehlerbeheilung-externer-datenspeichergerate-mit-sicherem-datenerhalt/"><u>Expertentaugliche Methoden Zur Fehlerbeheilung Externer Datenspeichergeräte Mit Sicherem Datenerhalt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-frozen-task-manager-in-windows-operations/"><u>Fixing Frozen Task Manager in Windows Operations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-method-forcefully-erase-windows-11-printers/"><u>Instant Method: Forcefully Erase Windows 11 Printers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-to-past-notifications-a-step-by-step-iphone-guide/"><u>Navigating to Past Notifications: A Step-by-Step iPhone Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-wifi-from-windows-11-list/"><u>Removing Wifi From Windows 11 List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-phone-memory-failures-in-cam/"><u>Resolving Windows Phone Memory Failures in Cam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-services-explorer-an-essential-manual-for-7-key-fixes/"><u>Reviving Windows Services Explorer: An Essential Manual for 7 Key Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-soundscape-in-windows-fixing-soundcard-irritations/"><u>Smooth Soundscape in Windows: Fixing Soundcard Irritations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steering-your-onedrive-writings-windows-11-adjustments/"><u>Steering Your OneDrive' Writings: Windows 11 Adjustments</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-6-ultimate-iphone-apps-for-restoring-lost-photographs/"><u>The 6 Ultimate iPhone Apps for Restoring Lost Photographs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-shadows-rejecting-impostor-software-from-windows-store/"><u>Unveiling Shadows: Rejecting Impostor Software From Windows Store</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-online-video-rotators-for-rotating-videos-winmac/"><u>Updated Best Online Video Rotators for Rotating Videos Win/Mac</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,3 +121,21 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-best-6-services-for-visual-text-interpretation/"><u>[New] Best 6 Services for Visual Text Interpretation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-art-of-blending-audio-and-visuals-in-a-trailer/"><u>[Updated] In 2024, The Art of Blending Audio and Visuals in a Trailer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/convenient-and-space-saving-way-of-following-valuables-using-a-miniature-gps-tracker-a-user-review-on-primetrack-154-characters/"><u>Convenient and Space-Saving Way of Following Valuables Using a Miniature GPS Tracker: A User Review on PrimeTrack (154 Characters)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-specified-user-does-not-have-a-valid-profile-app-error-in-windows-11-and-11/"><u>How to Fix the Specified User Does Not Have a Valid Profile App Error in Windows 11 & 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-edge-40-neo-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Edge 40 Neo?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-free-top-8-apps-to-get-likes-on-facebook-android-and-iphone/"><u>In 2024, FREE Top 8 Apps to Get Likes on Facebook (Android and iPhone)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leapfrog-yuzu-load-times-windows-style/"><u>Leapfrog Yuzu Load Times, Windows Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-windowed-yuzu-experience/"><u>Maximize Your Windowed Yuzu Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-discrepancies-with-admin-controlled-options-on-windows-11/"><u>Solving Discrepancies with Admin-Controlled Options on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-gps-navigation-apps-for-your-iphone/"><u>Top 5 Essential GPS Navigation Apps for Your iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-enhancing-windows-11-sounds-with-dolby-atmos/"><u>Tutorial: Enhancing Windows 11 Sounds with Dolby Atmos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-guide-stopping-screen-flashing/"><u>Windows 11 Guide: Stopping Screen Flashing</u></a></li>
+</ul></div>
+

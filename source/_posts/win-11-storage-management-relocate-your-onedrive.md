@@ -1,7 +1,7 @@
 ---
 title: "Win 11 Storage Management: Relocate Your OneDrive"
-date: 2024-11-21T16:22:41.216Z
-updated: 2024-11-27T16:30:16.153Z
+date: 2024-11-30T23:22:07.681Z
+updated: 2024-12-06T19:20:31.664Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the Location of Your OneDrive Folder
 
  When you change where your OneDrive folder is located, you’ll also have to set it to sync with your files on the cloud. You’ll have to unlink your OneDrive folder on your PC first, then move the folder to a new location, and finally re-link your PC to your Microsoft account. These steps will help you set that up.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
  Once you’ve done this, you will be presented with a window to set up OneDrive. Leave this open for the moment. You will need to revisit it once you’ve moved your OneDrive folder to a different location on your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Moving Your OneDrive Folder
@@ -52,24 +56,16 @@ With that done, you can now relocate your OneDrive folder.
 4. From the drop-down that appears, click on the**Choose location** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Move your OneDrive folder to new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-move-onedrive-folder-to-location.jpg)
 5. A pop-up will appear. Browse to the location you want your new OneDrive folder to reside, and click on the**Move** button on the bottom of the pop-up.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Move OneDrive folder to a new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-choose-new-local-onedrive-location.jpg)
 6. Windows will start to move your OneDrive folder and all of its contents to the new location you’ve selected. This may take a while depending on the size of the folder.
 
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Re-Linking OneDrive
 
@@ -80,12 +76,17 @@ With that done, you can now relocate your OneDrive folder.
 3. Click on the**Change location** link.  
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
 4. Then browse to the new location where you moved your OneDrive folder on your PC, and click on the**Select Folder** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. You’ll be presented with a warning screen, telling you that files already exist in this folder. Click on the**Use this folder** button.  
 ![Choose where OneDrive saves files on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/07-choose-onedrive-location.jpg)
 6. Verify that the location you’ve selected is the correct one, and click on**Next** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. You’ll be presented with a welcome screen. Scroll through it and close the setup window.
@@ -113,18 +114,18 @@ With that done, you can now relocate your OneDrive folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-commercial-viability-of-creative-video-content/"><u>[New] The Commercial Viability of Creative Video Content</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-talecraft-triumphs-the-leading-academies-in-narrative-arts/"><u>[Updated] 2024 Approved Talecraft Triumphs The Leading Academies in Narrative Arts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-advanced-steps-in-monitoring-and-archiving-system-sounds/"><u>[Updated] Advanced Steps in Monitoring & Archiving System Sounds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-power-play-essential-10-motivational-films/"><u>[Updated] Power Play Essential 10 Motivational Films</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-quizzical-quests-top-trivia-video-platforms/"><u>[Updated] Quizzical Quests Top Trivia Video Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-deep-dive-into-youtube-mastery-using-sony-vegas-software/"><u>A Deep Dive Into YouTube Mastery Using Sony Vegas Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-0x00000001-a-guide-to-xbox-fixes/"><u>Conquering 0X00000001: A Guide to Xbox Fixes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/intel-usb-30-driver-download-guide-for-windows-11-users/"><u>Intel USB 3.0 Driver Download Guide for Windows 11 Users</u></a></li>
-<li><a href="https://discover-data.techidaily.com/simple-guide-achieving-seamless-incremental-backups-for-your-qnap-network-attached-storage-nas-system/"><u>Simple Guide: Achieving Seamless Incremental Backups for Your QNAP Network Attached Storage (NAS) System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-windows-from-noting-when-programs-run/"><u>Stop Windows From Noting When Programs Run</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-guru-guide-free-up-space-by-removing-windows-temp/"><u>Tech Guru Guide: Free Up Space by Removing Windows' Temp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-terminal-vs-powershell-what-makes-them-different/"><u>Windows Terminal Vs. PowerShell: What Makes Them Different?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-create-impactful-online-ads-on-a-limited-budget/"><u>[New] 2024 Approved How to Create Impactful Online Ads on a Limited Budget</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ultra-30-review-the-virb-action-cam-for-adventurers/"><u>[Updated] 2024 Approved Ultra 30 Review – The VIRB Action Cam for Adventurers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-brightening-videos-android-tips/"><u>[Updated] Brightening Videos Android Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-filmmaking-6-key-color-techniques/"><u>Digital Filmmaking 6 Key Color Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-11-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 11 Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-8-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 8 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimal-movement-quick-windows-11-cessation/"><u>Minimal Movement: Quick Windows 11 Cessation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-service-utilization-for-enhanced-functionality/"><u>Optimizing Windows 11 Service Utilization for Enhanced Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/privacy-panic-after-windows-hellos-fingerprint-vulnerability/"><u>Privacy Panic: After Windows Hello's Fingerprint Vulnerability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-your-path-to-victory-steams-approach/"><u>Resetting Your Path to Victory: Steam's Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-razer-synapse-device-recognition-in-windows-11/"><u>Troubleshooting: Razer Synapse Device Recognition in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-setting-windows-calculator-to-dark-mode/"><u>Tutorial: Setting Windows Calculator to Dark Mode</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-4k-ultra-high-definition-a-comprehensive-guide/"><u>Understanding 4K Ultra High Definition: A Comprehensive Guide</u></a></li>
 </ul></div>
 

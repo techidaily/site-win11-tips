@@ -1,7 +1,7 @@
 ---
 title: Rescue Lost Co-Pilot in Windows' New Era, 11
-date: 2024-08-28T01:09:48.668Z
-updated: 2024-08-29T01:09:48.668Z
+date: 2024-11-29T18:55:15.188Z
+updated: 2024-12-07T00:38:59.101Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,25 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  If you go by what Microsoft says, Copilot is the future of Windows. But what if you want to try it but can’t find it? We’ve got some tricks to try if Copilot is missing on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where is Copilot?
 
  If Copilot is properly installed on Windows 11, you should be able to find the icon in the very **bottom-left corner of your screen**. Click the button here and the Copilot side panel will pop up.
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On some versions of Windows, depending on which build you’re currently running, simply mousing over the Copilot icon activates it. Otherwise, you simply need to click or tap the button to get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Need a Microsoft Account for Copilot
 
@@ -36,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  You may have other reasons for not using a Microsoft account with Windows 11, but regardless of your reasons, Copilot will simply not work without a Microsoft account.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Have You Updated Windows?
 
  Copilot may also be slow to roll out to your computer if you don’t have automatic updates enabled. To resolve this issue, either turn on automatic updates or simply check for updates manually.
@@ -48,13 +57,15 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![Updating Windows 11 in search of Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/updating-windows-11-in-search-of-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If any updates are available, choose to install them. After a restart, hopefully you’ll find Copilot is not present on your Windows 11 installation.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You'll Need Some Patience
 
  If you’re looking to try newer Copilot features right away, you’ll need to run an [Insider build of Windows 11](https://www.makeuseof.com/windows-11-insider-program-join/). These are handy for trying out new features, but they do increase the possibility of instability on your computer.
@@ -67,11 +78,27 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  If you go by what Microsoft says, Copilot is the future of Windows. But what if you want to try it but can’t find it? We’ve got some tricks to try if Copilot is missing on Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-walking-dead-an-insiders-guide-to-best-zombie-experiences/"><u>[New] 2024 Approved Walking Dead An Insider's Guide to Best Zombie Experiences</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-bandicam-uncovered-a-critical-review-for-tech-enthusiasts/"><u>[Updated] 2024 Approved Bandicam Uncovered A Critical Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1728473595690-sd8/"><u>多元化的SD卡故障救援技巧：8个简单方式快速修复</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-microsofts-nearby-sharing-app-performance/"><u>Enhancing Microsoft's Nearby Sharing App Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-pc-gaming-fixing-steam-remote-link-failures/"><u>Enhancing PC Gaming: Fixing Steam Remote Link Failures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-device-failure-alerted/"><u>Graphic Device Failure Alerted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ifa-showcase-cutting-edge-laptops-of-2023/"><u>IFA Showcase: Cutting-Edge Laptops of 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-lut-heaven-the-10-finest-and-accessible-resources/"><u>In 2024, Free LUT Heaven The 10 Finest and Accessible Resources</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-firewall-adjustments-allow-chrome-on-windows-pc/"><u>Mastering Firewall Adjustments: Allow Chrome on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-apple-windows-calendaring-coordination/"><u>Perfecting Apple-Windows Calendaring Coordination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snipit-stumbles-9-techniques-to-overcome-obstructions/"><u>SnipIt Stumbles? 9 Techniques to Overcome Obstructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-solving-system-call-fails-in-windows-1011/"><u>Strategies for Solving 'System Call Fails' In Windows 10/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-solve-missing-dynamic-link-library-errors-in-windows-systems/"><u>Troubleshoot and Solve Missing Dynamic Link Library Errors in Windows Systems</u></a></li>
+</ul></div>
+

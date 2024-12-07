@@ -1,7 +1,7 @@
 ---
 title: "Navigating Size Changes: Using Your Computer's Keys to Resize Software in Win11"
-date: 2024-11-23T17:35:04.805Z
-updated: 2024-11-27T17:19:48.898Z
+date: 2024-12-01T18:27:30.996Z
+updated: 2024-12-06T21:50:52.649Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Manually Resize Software With the Arrow Keys
 
  You don’t need any extra software to resize software windows with keyboard arrow keys. All you need to do is activate the move pointer cursor on a restored-down window. These are the steps for manually resizing windows with keyboard arrow keys:
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 
  For example, pressing the down key first selects the window’s bottom border. Then you can move that border up or down or extend or decrease its width with the arrow keys.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Resize Software Using Snap Layout Hotkeys
 
  Snap Layouts is one of Windows 11’s best new features. That feature enables you to resize software windows to preset layout sizes. You can utilize that feature with the mouse by hovering the cursor over a window’s**Maximize** button and selecting an alternative layout on the panel. Those layout options resize windows to halves, thirds, or quarters of the desktop area.
@@ -53,16 +53,16 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 
 ![Snap Layout options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/snap-layout-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can resize windows by snapping them to either side of the desktop with a couple of hotkeys. Press the**Windows** key +**right** arrow button to snap a window to the right side of the desktop. Or snap to the left side by pressing the**Win** +**left** arrow button. A window snapped with those keyboard shortcuts is resized to half the desktop area.
 
 ![Two side-by-side windows resized with Snap Layout hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/side-by-side-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Resize Software Windows With Custom Hotkeys
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
 6. Press a letter to combine with your selected key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click**OK** on the Sizer Menu Entry window.
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
@@ -112,10 +108,14 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
@@ -138,17 +138,18 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-behind-the-filter-ensuring-veritable-instagram-selfies/"><u>[New] 2024 Approved Behind the Filter Ensuring Veritable Instagram Selfies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-bandicam-unveiled-a-comprehensive-screen-recorder-analysis/"><u>[New] Bandicam Unveiled A Comprehensive Screen Recorder Analysis</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-skip-unwanted-podcast-advice-on-the-spotify-app-for-2024/"><u>[New] Skip Unwanted Podcast Advice on the Spotify App for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-club-vibes-best-dj-template-video-selections/"><u>2024 Approved Club Vibes Best DJ Template Video Selections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-management-of-wi-fi-data-metering-settings-on-win11/"><u>Efficient Management of Wi-Fi Data Metering Settings on Win11</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-clone-and-transfer-data-from-ssd-to-hdd-a-step-by-step-guide/"><u>How to Clone and Transfer Data From SSD to HDD - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/sign-dot-file-online-add-signature-to-dot-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dot file Online - Add Signature to .dot file for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-7-budget-friendly-high-res-4k-cameras-for-2024/"><u>Top 7 Budget-Friendly High-Res 4K Cameras for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steam-offline-win-error-solutions/"><u>Troubleshooting Steam Offline: Win Error Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-video-driver-failure-on-windows-1110/"><u>Troubleshooting Video Driver Failure on Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unilateral-audio-fix-for-windows-users-with-single-speaker-working/"><u>Unilateral Audio Fix for Windows Users with Single Speaker Working</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-live-updates-for-win-11s-task-tracker/"><u>Upgrade Live Updates for Win 11'S Task Tracker</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-understanding-the-unexpected-reasons-for-its-hold-on-release-date/"><u>'Guilty Gear Strive': Understanding the Unexpected Reasons for Its Hold on Release Date</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-focus-freshness-the-ultimate-clear-image-software-guide/"><u>[Updated] Focus Freshness The Ultimate Clear Image Software Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-gain-an-edge-in-views-with-these-5-youtube-thumbnail-creators/"><u>[Updated] Gain an Edge in Views with These 5 YouTube Thumbnail Creators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-fareless-webcam-viewer-with-recording/"><u>[Updated] In 2024, Top Fareless Webcam Viewer with Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-perfecting-screenshots-editing-vids-vertically-on-fcpx-for-2024/"><u>[Updated] Perfecting Screenshots Editing Vids Vertically on FCPX for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-gpio-driver-download-get-your-latest-version-now/"><u>AMD GPIO Driver Download – Get Your Latest Version Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-lost-render-device-errors-for-overwatch-2/"><u>Correcting Lost Render Device Errors for Overwatch 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/covert-menu-configurations-for-modern-windows/"><u>Covert Menu Configurations for Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expanding-accessibility-to-external-devices-in-explorer/"><u>Expanding Accessibility to External Devices in Explorer</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/iphoneandroid-dvd/"><u>IPhone・Android用: DVD映像データ取り込みガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-installation-of-msixbundle-and-apppackages-on-your-device/"><u>Seamless Installation of MSixbundle & Apppackages on Your Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-tackling-windows-unhandled-exception-issue/"><u>Strategies for Tackling Windows 'Unhandled Exception' Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-rdc-top-10-windows-11-tricks/"><u>Unlocking RDC: Top 10 Windows 11 Tricks</u></a></li>
 </ul></div>
 

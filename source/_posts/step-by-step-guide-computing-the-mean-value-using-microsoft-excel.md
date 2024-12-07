@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Computing the Mean Value Using Microsoft Excel"
-date: 2024-08-28T01:08:04.147Z
-updated: 2024-08-29T01:08:04.147Z
+date: 2024-12-03T19:03:17.834Z
+updated: 2024-12-06T20:26:55.033Z
 tags:
   - excel
 categories:
@@ -45,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores will be calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-uncalculated.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As you can see, Student C scored 0 and Student F has yet to take the exam. As a result, we want Excel to work out the scores of those who have taken the exam (all students except for Student F).
 
  To do this, we would type the following formula into cell D2:
@@ -75,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and a space where their average scores will be calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-uncalculated.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In cell D5, we would type the following formula:
 
 =AVERAGEA(B2:B8)
@@ -85,13 +83,18 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and their average scores, calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-calculated.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Unlike the AVERAGE function, which ignores logical values, the AVERAGEA calculation includes FALSE within the calculation as 0\. If this were instead TRUE, this would be counted as 1\. As a result, in our example, Student C's score of 0 is included, and Student F is also calculated as having scored 0\. This is why the result is lower for this calculation than the previous one.
 
  AVERAGEA counts any other text as 0 (for example, if you type FOUR, this is still represented as 0, and not 4), and ignores empty cells.
 
  As with AVERAGE, if any of the values being used in the AVERAGEA calculation were to contain [one of Excel's formula errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/), the calculation would return an error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use AVERAGEIF in Excel
 
@@ -114,8 +117,9 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, the first AVERAGEIF calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This has correctly picked up the scores of Students A, B, D, and E, as these are all more than 10.
 
  To work out the average scores of all students over 12 years of age, we would use the following formula:
@@ -128,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, both AVERAGEIF calculations have been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-2-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This has correctly picked up the scores of Students A, B, D, and E, as they are all over 12 years of age. The calculation also ignores logical values, which is why it hasn't considered Student F, even though they are over 12 years old.
 
  The criteria used in AVERAGEIF can use one of Excel's six logical operators—these are > (greater than), < (less than), = (equal to), <= (less than or equal to), >= (greater than or equal to), or <> (not equal to)—and wildcards (\* and ?). If you want to include an actual question mark or asterisk, add a tilde (\~) before the character.
@@ -148,8 +149,9 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To do this, we would use the following formula:
 
 =AVERAGEIFS(B2:B8,C2:C8,"Green",D2:D8,">10")
@@ -175,8 +177,6 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +184,22 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-from-live-to-recorded-using-obs-for-games-for-2024/"><u>[New] From Live to Recorded Using OBS for Games for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-step-by-step-guide-to-mastering-streamlabs-obs-usage/"><u>[New] In 2024, Step-by-Step Guide to Mastering Streamlabs OBS Usage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-list-10-best-phones-and-pc-for-chatting/"><u>[New] The Ultimate List 10 Best Phones & PC for Chatting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-secret-sauce-for-successful-youtubers-channel-featuring-techniques/"><u>[Updated] 2024 Approved The Secret Sauce for Successful YouTubers Channel Featuring Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comparing-apowersoft-to-alternatives/"><u>[Updated] Comparing Apowersoft to Alternatives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-learn-to-leverage-kinemasters-features-for-maximum-gaming-fun-then-compare/"><u>[Updated] Learn to Leverage KineMaster's Features for Maximum Gaming Fun, Then Compare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-setup-hurdles-powertoys-in-win11/"><u>Conquering Setup Hurdles: PowerToys in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deep-dive-into-windows-component-services-command-line-utility/"><u>Deep Dive Into Windows Component Services Command-Line Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-bloatware-banishment-in-modern-windows-11/"><u>Effortless Bloatware Banishment in Modern Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-control-for-voice-only-windows-bluetooth/"><u>How to Enable Control for Voice-Only Windows Bluetooth</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-seamless-backgrounds-in-teamconferences-via-microsoft-teams/"><u>In 2024, Seamless Backgrounds in TeamConferences via Microsoft Teams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-access-roadblocks-on-windows-to-use-onedrive/"><u>Navigate Access Roadblocks on Windows to Use OneDrive</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premium-action-recording-in-faceview-option/"><u>Premium Action Recording In-Faceview Option</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96475078-9780932551337-psilocybin-mushroom-handbook/"><u>Psilocybin Mushroom Handbook | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionary-possibilities-with-windows-11s-newest-moment/"><u>Revolutionary Possibilities with Windows 11'S Newest Moment</u></a></li>
+</ul></div>
 

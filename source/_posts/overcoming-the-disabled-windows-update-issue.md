@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Disabled Windows Update Issue
-date: 2024-11-21T17:47:25.019Z
-updated: 2024-11-27T16:33:58.459Z
+date: 2024-11-30T00:35:25.444Z
+updated: 2024-12-07T02:03:57.524Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ To run the Windows Update troubleshooter:
  Wait for the troubleshooter to scan your computer and do its thing. If any issues are detected, it will try to fix them on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Scans
@@ -57,7 +57,7 @@ To run the Windows Update troubleshooter:
 ![Run SFC Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-sfc-scan-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the scan is complete, restart your PC. Following that,[open the Services app](https://www.makeuseof.com/windows-11-open-services-app/) and see if you can find the Windows Update service.
@@ -74,10 +74,14 @@ To run the Windows Update troubleshooter:
 ![Scan for Malware on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-malware-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Windows to finish scanning the computer and, if threats are found, apply the recommended fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restore the Windows Update Service Manually via the Registry Editor
 
@@ -95,6 +99,11 @@ To run the Windows Update troubleshooter:
 6. Right-click the**wuauserv** , select**Export** , and save the key on your computer.  
 ![Registry Editor Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-window.jpg)
 7. Right-click the**wuauserv** again and select**Delete** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**Yes** to confirm.
 9. Exit the Registry Editor.
 10. Right-click anywhere on an empty spot on the desktop and select**New > Text Document** . This will open a blank Notepad document.
@@ -174,10 +183,6 @@ To run the Windows Update troubleshooter:
 ![Saving Notepad Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/saving-notepad-document.jpg)
 13. Save the file with**.reg** extension.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 14. Double-click the reg file to run it. Select**Yes** if the User Account Control prompt appears.
 
  Restart your computer after this and see if the Windows Update service appears in the Services app.
@@ -194,10 +199,6 @@ To reset your Windows computer:
 4. In the "Reset this PC" wizard, select**Keep my files** if you want to retain your personal files. Otherwise, select**Remove everything** .
 
 ![Reset Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-computer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  From there, follow the on-screen prompts to complete the process. After that, the Windows Update service should appear as before.
 
@@ -222,21 +223,18 @@ To reset your Windows computer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-how-to-create-and-edit-videos-on-windows-11/"><u>[New] 2024 Approved How to Create and Edit Videos on Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-tips-for-discarding-unwanted-youtube-files/"><u>[Updated] In 2024, The Essential Tips for Discarding Unwanted YouTube Files</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-secure-and-convenient-a-windowsmac-downloading-guide-for-igtv-videos-for-2024/"><u>[Updated] Secure and Convenient A Windows/Mac Downloading Guide for IGTV Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-security-updates/"><u>Decoding Windows Security Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-system-settings-error-in-win11/"><u>Guidelines for Fixing System Settings Error in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pairing-techniques-for-airpods-on-windows-os/"><u>Pairing Techniques for AirPods on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-error-0x80131500-in-the-store/"><u>Reversing Error 0X80131500 in the Store</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-business-conversations-on-gpt-services/"><u>Safeguarding Business Conversations on GPT Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-access-to-windows-11-printer-tools-max-52-chars/"><u>Simplifying Access to Windows 11 Printer Tools (Max 52 Chars)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-correcting-the-nwstoreexe-system-crashes/"><u>Step-by-Step Solutions for Correcting the nw_store.exe System Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-fix-frequent-anydesk-windows-issues/"><u>Steps to Fix Frequent AnyDesk Windows Issues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast-for-2024/"><u>The Stream Reversal Manual An 18-Step Guide to Control Your Broadcast for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-8-multi-subtitles-translators-you-can-use-for-2024/"><u>Top 8 Multi-Subtitles Translators You Can Use for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-ranked-8-light-emulators-for-playing-android-titles/"><u>Top-Ranked 8 Light Emulators for Playing Android Titles</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/ultimate-soundscapes-for-visual-storytelling/"><u>Ultimate Soundscapes for Visual Storytelling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-an-esd-file-how-to-convert-it-to-an-iso-file-on-windows/"><u>What Is an ESD File? How to Convert It to an ISO File on Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-key-to-attracting-views-youtube-image-marketing-for-2024/"><u>[New] The Key to Attracting Views YouTube Image Marketing for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-hidden-truths-about-youtube-earnings/"><u>[Updated] In 2024, The Hidden Truths About YouTube Earnings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-essential-guide-to-youtube-video-lighting-tips/"><u>2024 Approved The Essential Guide to YouTube Video Lighting Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-microsofts-windows-companion-through-vivetool/"><u>Enable Microsoft's Windows Companion Through ViveTool</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/overlooked-marvels-free-transcription-tools-for-macos-for-2024/"><u>Overlooked Marvels Free Transcription Tools for macOS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-usage-profile-deciphering-your-windows-pcs-energy-needs/"><u>Power Usage Profile: Deciphering Your Windows PC's Energy Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-not-a-microsoft-verified-app-warnings-on-pc/"><u>Resolving Not a Microsoft-Verified App Warnings on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-self-update-windows-148-chars/"><u>Step-by-Step Guide to Self-Update Windows (148 Chars)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/strategies-for-securing-product-sponsors-on-youtube/"><u>Strategies for Securing Product Sponsors on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-cutting-edge-computer-components-toms-expertise/"><u>The Ultimate Resource for Cutting-Edge Computer Components - Tom's Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-quick-access-to-visual-keyboard/"><u>Windows 11'S Quick Access to Visual Keyboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winstore-breakdown-overcoming-error-0x80072f17/"><u>WinStore Breakdown: Overcoming Error 0X80072F17</u></a></li>
 </ul></div>
 

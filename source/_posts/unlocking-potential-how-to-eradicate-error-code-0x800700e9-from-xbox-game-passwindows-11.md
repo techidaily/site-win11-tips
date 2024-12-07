@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: How to Eradicate Error Code 0X800700E9 From Xbox Game Pass/Windows 11"
-date: 2024-11-26T17:52:29.235Z
-updated: 2024-11-27T16:07:00.424Z
+date: 2024-12-06T01:45:18.511Z
+updated: 2024-12-06T23:10:44.722Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-button-for-windows-store-apps-troubleshooter.jpg)
 5. Apply any suggestions the troubleshooter provides.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows 10 troubleshooters are available within the**Update & Security** category of Settings. Click the**Troubleshoot** tab in that category and select**Additional troubleshooters** . Then you can select Windows Store Apps from there and click**Run** to access the tool.
 
 ## 2\. Turn Delivery Optimization On in Settings
@@ -48,21 +52,17 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 ![The Delivery Optimization navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delivery-optimization-navigation-option.jpg)
 4. Turn on the**Allow downloads from other PCs** option to enable Delivery Optimization.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Allow downloads from other PCs option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-downloads-from-other-pcs-option.jpg)
 5. Click the**Devices on my local network** radio button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can enable Delivery Optimization in Windows 10’s Settings app much the same. However, you’ll need to select the**Windows Update** category. Then click the**Deliver Optimization** tab in the**Windows Update** category to access and turn on the same**Allow downloads from other PCs** setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable the Delivery Optimization and BITS Services
@@ -76,19 +76,20 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/services-window2.jpg)
 5. Select**Start** if it’s not running.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Automatic** on Delivery Optimization’s**Startup type** menu.  
 ![The Delivery Optimization Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delivery-optimization-properties-window.jpg)
 7. Select**Apply** \>**OK** to save the service’s new settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Repeat steps four to seven for the Background Intelligent Transfer service.
 
  If the services are already running, try restarting them. Right-click the services and select their**Stop** options. Then you can start those services again by right-clicking them and selecting**Restart** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enable Delivery Optimization via the Windows Registry
@@ -104,12 +105,16 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/modify-option.jpg)
 5. Input**3** in the**Value** box and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-dword-key.jpg)
 6. Exit Regedit, and restart the PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reset or Repair the Xbox App
 
@@ -148,10 +153,6 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
  Have a look at our[how to reset your network settings on Windows](https://www.makeuseof.com/reset-network-settings-windows-11/) guide for details about how to apply this troubleshooting method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enjoy Your Xbox Game Pass Games Again
 
  Fortunately, you don’t have to cancel your Xbox Game Pass subscription because of error 0x800700e9\. A lot of users have fixed this installation issue for Xbox Game Pass titles with the resolutions in this guide.
@@ -171,20 +172,18 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-key-strategies-for-gaining-facebooks-top-marker/"><u>[New] 2024 Approved Key Strategies for Gaining Facebook's Top Marker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-voice-to-text-programs/"><u>[New] Leading Voice to Text Programs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-tips-and-tricks-for-windows-hdr-video-workflows/"><u>[New] Tips and Tricks for Windows HDR Video Workflows</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-customize-your-youtube-watch-experience-speed-settings/"><u>[Updated] 2024 Approved Customize Your YouTube Watch Experience (Speed Settings)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-a14-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy A14 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-no-cost-dvd-transcoding-applications-on-windows-11-how-to-easily-change-your-discs-into-mp4-avi-and-wmv-files/"><u>Best No-Cost DVD Transcoding Applications on Windows 11: How to Easily Change Your Discs Into MP4, AVI and WMV Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-through-clutter-windows-storage-techniques/"><u>Cutting Through Clutter: Windows Storage Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-for-using-apple-events-in-windows-11/"><u>Essential Steps for Using Apple Events in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-error-code-0xc0000001-on-windows-1111-pcs/"><u>Fixing Error Code 0XC0000001 on Windows 11/11 PCs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/overcoming-non-displayed-thumbnails-youtube-shorts-guide-for-2024/"><u>Overcoming Non-Displayed Thumbnails YouTube Shorts Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/terminal-vs-powershell-understanding-their-distinct-features/"><u>Terminal Vs. PowerShell: Understanding Their Distinct Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-functional-importance-of-windows-batch-files/"><u>The Functional Importance of Windows Batch Files</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95783032-9781594778582-the-spiritual-life-of-water/"><u>The Spiritual Life of Water | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-against-the-0x80040610-failure-code-in-windows/"><u>Winning Strategies Against the 0X80040610 Failure Code in Windows</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/your-ultimate-guide-to-acquiring-and-installing-stellar-repair-for-photo-8-windows/"><u>Your Ultimate Guide to Acquiring and Installing Stellar Repair for Photo 8 (Windows)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-free-youtube-endings-that-stand-out-ranked/"><u>[New] In 2024, Free YouTube Endings That Stand Out - Ranked!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maintaining-your-instagram-circle-health-for-2024/"><u>[New] Maintaining Your Instagram Circle Health for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>[New] Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-excellence-5-ways-gpt-aids-creatives/"><u>Crafting Excellence: 5 Ways GPT Aids Creatives</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-stream-ios-13s-airplay-in-4k-on-windows-11-and-mac-with-an-iphone-nv/"><u>How to Stream IOS 13'S AirPlay in 4K on Windows 11 and Mac with an iPhone Nv</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-xface-id/"><u>IPhone XのFace IDセットアップと最適利用：認証失敗時の対策も</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-honor-x9a-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Honor X9a FRP Without Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-mac-os-with-external-windows-software/"><u>Maximizing Mac OS with External Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-windows-11-image-frames/"><u>Modifying Windows 11 Image Frames</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-accurate-energy-consumption-forecasts-to-windows-11/"><u>Restoring Accurate Energy Consumption Forecasts to Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-15-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 15 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-up-your-streams-advanced-practices-for-capturing-vr-playtimes-for-2024/"><u>Step Up Your Streams Advanced Practices for Capturing VR Playtimes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-your-full-potential-with-these-9-fixes-for-faulty-windows-key-commands/"><u>Unleash Your Full Potential with These 9 Fixes for Faulty Windows Key Commands</u></a></li>
 </ul></div>
 

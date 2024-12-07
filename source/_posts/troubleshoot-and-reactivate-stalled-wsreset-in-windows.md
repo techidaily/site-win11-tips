@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Reactivate Stalled WSReset in Windows
-date: 2024-11-23T16:34:35.416Z
-updated: 2024-11-27T17:32:40.137Z
+date: 2024-12-03T00:44:46.525Z
+updated: 2024-12-06T22:22:24.032Z
 tags:
   - windows10
   - windows11
@@ -58,16 +58,12 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 
  Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Repair and Reset Windows Store
 
  If WSReset.exe is still not working, chances are the Windows Store app might be corrupted or not functioning correctly. In that case, try [repairing and resetting the Windows Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). This will restore the application to its default settings and often solves errors
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Remove the Latest Windows Updates
@@ -84,11 +80,11 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 ![Uninstall Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-windows-updates.jpg)
 6. Click **Uninstall** again when prompted.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Follow the onscreen instructions and restart your computer when it's done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear the Microsoft Store Cache via the Registry
 
@@ -104,6 +100,11 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 5. Running this command will list all user accounts on your computer. Find the SID of your user account and copy it.  
 ![List all user account via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/list-all-user-account-via-command-prompt.jpg)
 6. Next, open the Registry Editor. For this, click on **Start** \> type **regedit** in the search box, then select it from the results list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If the UAC pop-up appears, click **Yes** to continue.
 8. When the Registry Editor opens, navigate to the following registry key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore`  
@@ -113,13 +114,17 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 10. Right-click on it and select **Delete**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 11. If a confirmation pop-up appears, click **Yes**. This will clear the Microsoft Store cache.
 12. Close the Registry Editor and restart your PC.
 
  Now, open the Command Prompt window with administrative privileges again and run WSReset.exe to see if it works properly. If so, you have successfully cleared the Microsoft Store cache via the registry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Microsoft Store
 
@@ -133,28 +138,11 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 
  You could also [run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix errors and replace corrupt files. If none of the above-mentioned steps work, [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/) and restore your computer to an earlier point when it was working fine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Resolving the WSReset.exe Issue on Windows
 
  Today WSReset.exe is a well-known tool among Windows users. Despite being simple, this can be tricky to troubleshoot if it fails to reset or clear the Windows Store. Hopefully, it's just a system glitch, and you can fix the problem using the suggestions provided in this article.
 
  However, if you encounter problems with WSReset.exe or receive frequent errors, your computer may have an underlying issue that needs to be addressed. This article offers guidance on troubleshooting and fixing WSReset.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-ghostly-replay-techniques-for-editors/"><u>[Updated] Ghostly Replay Techniques for Editors</u></a></li>
-<li><a href="https://fox-info.techidaily.com/exploring-the-world-of-book-trailers-with-top-5-picks/"><u>Exploring the World of Book Trailers with Top 5 Picks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nokia-c12-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nokia C12 Phone?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-gamepad-unresponsiveness/"><u>Overcoming Windows Gamepad Unresponsiveness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-xbox-game-download-issues-on-windows/"><u>Resolving Xbox Game Download Issues on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/streamlined-communication-the-benefits-of-one-phone-number-on-different-tech-devices/"><u>Streamlined Communication: The Benefits of One Phone Number on Different Tech Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-maintain-calc-leading-placement/"><u>Techniques to Maintain Calc Leading Placement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-consequences-of-ai-driven-key-generation-for-windows-11/"><u>The Consequences of AI-Driven Key Generation for Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-far-cry-n6-black-screen-errors-a-complete-guide/"><u>Troubleshooting Far Cry N6 Black Screen Errors: A Complete Guide</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -163,3 +151,22 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-privacy-stopping-followers-on-ig/"><u>[New] In 2024, Mastering Privacy Stopping Followers on IG</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unveiling-ig-reels-vs-ig-stories-essential-insights/"><u>[New] In 2024, Unveiling IG Reels vs IG Stories Essential Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-create-a-breakthrough-in-health-tech/"><u>Can ChatGPT Create a Breakthrough in Health Tech?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-ergohead-mat-assessment-excellence-in-standing-desk-cushioning/"><u>Comprehensive Ergohead Mat Assessment: Excellence in Standing Desk Cushioning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-inactive-windows-media-player-sounds/"><u>Dealing with Inactive Windows Media Player Sounds</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-oodles-complimentary-neighborhood-advertising/"><u>Discover Oodle's Complimentary Neighborhood Advertising</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-m477-color-laserjet-driver-installation-guide-and-download-links/"><u>HP M477 Color Laserjet Driver Installation Guide and Download Links</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-day-in-windows-the-top-5-must-use-productivity-tools/"><u>Master Your Day in Windows: The Top 5 Must-Use Productivity Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-your-fileshare-needs-the-best-tools-for-winpc-users/"><u>Navigating Your Fileshare Needs: The Best Tools for WinPC Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picturemosaic-maker-blend-videos-and-pics-macos-for-2024/"><u>PictureMosaic Maker Blend Videos & Pics macOS for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-robotics-with-animal-models-insights-from-the-new-breed-book-a-zdnet-perspective/"><u>Revolutionizing Robotics with Animal Models: Insights From 'The New Breed' Book - A ZDNet Perspective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-fixed-zip-files-in-win-11/"><u>Step-by-Step Guide to Fixed ZIP Files in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-tech-setup-downloading-and-deploying-msix-extensions/"><u>Streamline Your Tech Setup: Downloading & Deploying MSIX Extensions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trick-to-transition-from-regular-user-immediately/"><u>Trick to Transition From Regular User Immediately</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Elevate Productivity in Windows 11 World
-date: 2024-11-21T16:56:43.634Z
-updated: 2024-11-27T16:29:58.483Z
+date: 2024-12-05T17:49:15.575Z
+updated: 2024-12-06T23:25:55.286Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,23 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Snap Layouts to Arrange Windows
 
 ![windows 11 snap layouts feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Snapping experience in Windows 11 is fun and can increase your productivity. The Snap layouts capability helps you arrange multiple windows side by side quickly, thus helping you multitask.
 
  Snap layouts feature consists of different zones, each one of which will be occupied by a window. These layouts are available when you hover your mouse over the window's maximize button. Alternatively, you can press the **Win key** \+ **Z** on your keyboard to launch the layouts ([learn how to use Snap layouts](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/)).
 
  You can snap up to four windows on your Windows 11 PC. If you have a large screen and want to arrange more windows, you can get the PowerToys app from Microsoft.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Open Files Directly From Start
 
@@ -53,19 +57,11 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 ![Screenshot showing Windows 11 Battery stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/battery-stats.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It's critical to have a comprehensive understanding of what's draining your laptop battery the most. Thanks to Windows 11's detailed report on battery usage, you get a clear picture of which apps consume more power and which consume less.
 
  Moreover, you can view screen on and screen off time from the Settings app. Also, you can change the time period of battery levels from the **Last 24 hours** to the **Last 7 days**. If you choose the seven days time period, your PC will show which apps consumed the most power in the last seven days alongside the screen off and screen on time.
 
  You can also sort by to see the battery stats of apps currently in use and the ones running in the background. Overall, the **Power & battery** page in the Settings app provides you with all kinds of information required to understand your laptop's battery usage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Customize the Quick Settings Panel
 
@@ -75,9 +71,17 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  The option to customize the Quick Settings panel is in the bottom-right corner of the Quick Settings panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run Android Apps in Windows 11
 
 ![Android apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft's Windows Phone platform always suffered from a lack of apps, eventually leading to its demise. However, Microsoft does not want to make the same mistake with Windows 11 desktop.
 
@@ -89,13 +93,13 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 ![Microsoft Teams integration in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft Teams is available across all major platforms, but for Windows 11 users, getting access to Teams is a bit easier. Windows 11 taskbar has the Teams icon, clicking on which will open a small chat window for you to connect with people through text or video. You can also pop out chat windows, meaning you can chat with multiple people simultaneously. In other words, you can be a pro at multitasking while chatting on Teams.
 
  However, it is worth pointing out that what you see on the Windows 11 taskbar is not the full-fledged Teams experience with all the features and benefits. If that is what you want, you need to get the Teams app and remove the chat icon from the taskbar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Use Widgets to Stay Updated With Topics
 
@@ -105,36 +109,11 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  You can see the Widgets icon on the left side of the screen. Moving over the mouse over the icon will open the Widgets board for you to add and remove widgets, plus so much more. If you are new to Windows 11, [learn tips and tricks to get the most out of the Widgets experience](https://www.makeuseof.com/windows-11-widgets-starter-tips/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Windows 11 Is Fun... but Don’t Play With Everything
 
  You can play with Windows 11 settings to have some fun. While the default settings work in many cases, tweaking some of the settings in the OS will help you be more productive. However, you should not touch everything in the OS, as doing so might be counterproductive and break your system.
 
  While we do not know what the next version of Windows has in store for us, there are plenty of functionalities in Windows 11 that are fun and useful at the same time. In this article, we are putting together a list of such Windows 11 capabilities.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-efficient-storage-of-androidmac-snaps-for-longevity-for-2024/"><u>[New] Efficient Storage of Android/Mac Snaps for Longevity for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-simplified-guide-designing-your-podcasts-rss-feed/"><u>[Updated] 2024 Approved Simplified Guide Designing Your Podcast's RSS Feed</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-step-up-to-the-challenge-full-screen-mastery-for-fb-vids-for-2024/"><u>[Updated] Step Up to the Challenge Full-Screen Mastery for FB Vids for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-gt-5-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme GT 5 FRP Bypass Instantly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/breaking-down-the-solutions-to-the-ascent-launch-delays/"><u>Breaking Down the Solutions to 'The Ascent' Launch Delays</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/can-you-broadcast-ontv-the-era-of-fb-videos-begins-for-2024/"><u>Can You Broadcast OnTV The Era of FB Videos Begins for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-user-identity-extracting-sids-in-windows-11/"><u>Decoding User Identity: Extracting SIDs in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-saving-of-windows-mixer-levels-properly/"><u>Ensuring Saving of Windows Mixer Levels Properly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-fixing-directdraw-crashes-in-windows-1011/"><u>Essential Tips for Fixing DirectDraw Crashes in Windows 10/11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/explore-the-advantages-of-consulting-chatgpt-for-medical-insights-discover-7-compelling-reasons/"><u>Explore the Advantages of Consulting ChatGPT for Medical Insights – Discover 7 Compelling Reasons</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-set-a-weekly-schedule-for-backups-in-windows-server-twin-012-4-reliable-techniques/"><u>How to Set a Weekly Schedule for Backups in Windows Server Twin-012 – 4 Reliable Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-the-zoom-cannot-initiate-video-streaming-problem-a-guide-with-five-methods/"><u>How to Troubleshoot the 'Zoom Cannot Initiate Video Streaming' Problem: A Guide with Five Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-window-display-settings-in-win11/"><u>Mastering Window Display Settings in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-graphics-issues-dxgi-error-fixes/"><u>Mastery over Graphics Issues: DXGI Error Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/spotting-hidden-pane-panes-strategies-to-try-with-win11/"><u>Spotting Hidden Pane Panes: Strategies to Try with Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-battlenet-login-failure-on-windows-systems/"><u>Steps to Resolve Battle.net Login Failure on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-7-holiday-upgrades/"><u>Transforming Windows 11: 7 Holiday Upgrades</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,3 +122,27 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-affordable-aaa-gaming-websites-and-streaming-services/"><u>[New] 2024 Approved Affordable AAA Gaming Websites and Streaming Services</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-blend-audio-and-visuals-editing-music-in-canva-videos/"><u>[New] In 2024, Blend Audio & Visuals Editing Music in Canva Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-in-audio-on-windows-best-8-podcast-apps-compiled/"><u>2024 Approved Excellence in Audio on Windows Best 8 Podcast Apps Compiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-using-dbpower-600a-jump-starter-with-18k-mah-capacity-user-experience-reviewed/"><u>Comprehensive Guide to Using DBPOWER 600A Jump Starter with 18K mAh Capacity: User Experience Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-streaming-files-effortlessly-from-ts-to-wmv-for-free-with-movavi/"><u>Convert Streaming Files Effortlessly: From Ts to Wmv for Free with Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/correcting-the-error-message-winhttpdll-not-found-tips-and-techniques/"><u>Correcting the Error Message: 'WinHttp.dll Not Found' - Tips & Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-task-management-utilize-the-power-of-flow-launcher/"><u>Enhance Task Management: Utilize the Power of Flow Launcher</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-every-angle-of-vitas-video-editor-full-review-and-tutorial-2024/"><u>Explore Every Angle of Vita’s Video Editor Full Review & Tutorial, 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-error-0x80042306-a-step-by-step-approach/"><u>Fixing Windows Error 0X80042306: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intro-to-intel-unison-for-efficient-pc-calls-on-windows-11/"><u>Intro to Intel Unison for Efficient PC Calls on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/mini-vs-standard-choosing-your-ideal-home-computer/"><u>Mini Vs. Standard: Choosing Your Ideal Home Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unable-to-retrieve-settings-error-in-geforce-experience-windows-11/"><u>Overcoming Unable to Retrieve Settings Error in GeForce Experience (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-original-boot-menu-colors/"><u>Reinstating Original Boot Menu Colors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-silent-audio-input-quick-remedies-for-obs-and-windows-11/"><u>Resurrecting Silent Audio Input: Quick Remedies for OBS & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/salvage-your-frozen-windows-service-utility-using-these-top-strategies/"><u>Salvage Your Frozen Windows Service Utility Using These Top Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-insiders-guide-to-crafting-insta-tones/"><u>The Insider's Guide to Crafting Insta Tones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-display-driver-failure-in-windows-11plus/"><u>Troubleshooting Display Driver Failure in Windows 11+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-enabling-grammarly-for-windows/"><u>Troubleshooting: Enabling Grammarly for Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-5-most-popular-video-editors-on-the-market-today/"><u>Ultimate Guide to the 5 Most Popular Video Editors on the Market Today</u></a></li>
+</ul></div>
+

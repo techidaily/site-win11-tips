@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Status Audit: Top 3 Strategies"
-date: 2024-11-24T17:43:52.807Z
-updated: 2024-11-27T16:59:21.474Z
+date: 2024-12-05T00:35:24.625Z
+updated: 2024-12-07T00:20:57.572Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Check Windows 11's Activation State Using the Settings App
 
  The Settings app in Windows contains all the necessary information about the Windows edition, its activation status, and the product key.
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![Check Activation Status on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-activation-status-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the status reads**Active** , it means your Windows 11 copy is activated. On the other hand, if the status displays**Not active** , it implies that the copy of your Windows 11 is not yet activated.
@@ -55,10 +51,14 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![Check Windows Activation Status via Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Is your Windows 11 PC not showing the correct activation status despite using a genuine license key? Check our guide on[how to fix the activation key not working issue in Windows 11](https://www.makeuseof.com/windows-11-activation-key-not-working/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Check Windows 11 Activation State via the Run Command
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 2. Type**slmgr.vbs /xpr** in the text field and click**OK** or press**Enter** .
 3. You should see a**Windows Script Host** dialog box that’ll convey whether your copy of Windows 11 is activated or not.  
 ![Check Windows Activation Status via Run Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-run-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Alternatively, you can run the**slmgr.vbs /dlv** command to check the activation status along with other important details such as activation ID, partial product key, and so on.
 
@@ -90,10 +86,14 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![Check Windows Activation Status via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like interacting with your machine via Command Prompt? Here are some[fun Command Prompt tricks](https://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Checking Windows 11’s Activation Status, Made Easy
 
@@ -116,20 +116,18 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-digital-content-filming-talents-release/"><u>[New] In 2024, Digital Content Filming Talents Release</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-excellent-apps-to-keep-your-data-on-the-go-androids-cloud-keeper-list/"><u>[New] In 2024, Excellent Apps to Keep Your Data on the Go - Android's Cloud Keeper List</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ioneering-the-next-level-of-streaming-setups-for-2024/"><u>[New] Pioneering the Next Level of Streaming Setups for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-profile-video-wow-factor-techniques/"><u>[Updated] Profile Video Wow Factor Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inshots-counterparts-for-pc-video-editing/"><u>2024 Approved Inshot's Counterparts for PC Video Editing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-erratic-windows-updates-x8019/"><u>Dealing with Erratic Windows Updates: X8019</u></a></li>
-<li><a href="https://win-webster.techidaily.com/discover-the-latest-ai-powered-surface-pro-10-and-laptop-6-from-microsoft-tech-news/"><u>Discover the Latest: AI-Powered Surface Pro 10 and Laptop 6 From Microsoft | Tech News</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-intricacies-of-windows-11s-data-recovery-functionality/"><u>Exploring the Intricacies of Windows 11'S Data Recovery Functionality</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-15ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 15/iPad Without Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/premium-selection-of-new-laptops-ifa-2023/"><u>Premium Selection of New Laptops IFA 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-win-power-play-essential-apps-to-boost-workday-on-windows-11/"><u>Pro-Win Power Play: Essential Apps to Boost Workday on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/six-steps-to-unearth-the-mystery-of-your-window-based-pc-name/"><u>Six Steps to Unearth the Mystery of Your Window-Based PC Name</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solve-low-brightness-woes-in-windows-11-easily/"><u>Solve Low-Brightness Woes in Windows 11 Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-0x80070091-demystified-how-to-clear-not-empty-directive/"><u>WinError 0X80070091 Demystified: How to Clear 'Not Empty' Directive</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-crafting-gifs-like-a-pro-industry-leaders-tools/"><u>[Updated] Crafting GIFs Like a Pro Industry Leaders' Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-precision-problem-solving-for-social-media-stories-issues/"><u>[Updated] In 2024, Precision Problem-Solving for Social Media Stories Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-stepwise-guide-to-leveraging-picture-in-picture-feature-on-microsoft-edge/"><u>2024 Approved Stepwise Guide to Leveraging Picture-in-Picture Feature on Microsoft Edge</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-fixing-unresponsive-disc-readers-and-ejectors/"><u>Expert Advice on Fixing Unresponsive Disc Readers and Ejectors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-dvd-ripping-showdown-in-depth-comparison-between-winx-dvd-ripper-and-handbrake-features-and-performance/"><u>Free DVD Ripping Showdown: In-Depth Comparison Between WinX DVD Ripper and HandBrake Features and Performance</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-unseen-secrets-of-optimizing-win11-performance/"><u>In 2024, The Unseen Secrets of Optimizing Win11 Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-15-plus-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone 15 Plus and Android Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-for-print-tool-access-in-windows-11-max-48-chars/"><u>Key Steps for Print Tool Access in Windows 11 (Max 48 Chars)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/peeling-back-layers-of-vivas-video-features-for-2024/"><u>Peeling Back Layers of Viva's Video Features for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/photo-carousel-in-windows-11-set-it-up-quickly-without-extras/"><u>Photo Carousel in Windows 11 – Set It Up Quickly, Without Extras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-fix-memory-error-messages/"><u>Quick Steps to Fix Memory Error Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-unheard-audio-during-windows-screencasts/"><u>Solutions for Unheard Audio During Windows Screencasts</u></a></li>
 </ul></div>
 

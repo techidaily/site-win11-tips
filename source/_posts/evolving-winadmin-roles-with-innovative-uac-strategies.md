@@ -1,7 +1,7 @@
 ---
 title: Evolving WinAdmin Roles with Innovative UAC Strategies
-date: 2024-11-26T16:34:20.729Z
-updated: 2024-11-27T16:52:43.288Z
+date: 2024-11-29T21:56:30.777Z
+updated: 2024-12-07T00:42:30.563Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Behaviors Does UAC Have for Administrators?
 
@@ -55,17 +51,21 @@ thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f0
 ![the UAC behavior for admin policy in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/uac-behavior-admin-policy-local-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on the dropdown and select the UAC behavior you want.
 
 ![Editing the UAC behavior for admin policy in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-uac-behavior-admin-policy-local-group-policy-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To apply and save the changes, click on **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changing UAC Behavior for Administrators in the Registry Editor
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f0
  To change the UAC behavior for administrators using the Registry Editor, start by pressing **Win + R**, typing **regedit** in Windows Run, and hitting the **Enter** key.
 
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the UAC prompt, click **Yes** to [open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-local-security-policy/).
 
@@ -87,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f0
 ![The ConsentPromptBehaviorAdmin value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/consentpromptbehavior-value-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Enter one of the following variables in the text box for **Value date**:
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f0
 
 ![Editing the ConsentPromptBehaviorAdmin value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-consentpromptbehavior-value-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, click **OK** to apply and save the changes.
 
 ## Control the UAC’s Behavior as an Administrator
@@ -115,27 +115,6 @@ thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f0
 
  As an administrator, you can change how UAC behaves. In this guide, we’re going to show you how to do that using the Local Group Policy Editor and Registry Editor.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-guide-7-prime-free-video-tag-extractors-for-2024/"><u>[New] Ultimate Guide 7 Prime Free Video Tag Extractors for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-chinas-bargain-bin-of-virtual-reality-gear/"><u>[Updated] 2024 Approved China's Bargain Bin of Virtual Reality Gear</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cinema-at-a-new-frontier-the-in-depth-look-at-the-lg-display-model-31mu97-b/"><u>[Updated] Cinema at a New Frontier The In-Depth Look at the LG Display, Model 31MU97-B</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726026524015-3/"><u>人気の高いサンプリングレート変更サイトベスト3ピック</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerating-your-gaming-experience-update-radeon-drivers-now/"><u>Accelerating Your Gaming Experience: Update Radeon Drivers Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-transition-powertoys-in-your-win11-pc/"><u>Effortless Transition: PowerToys in Your Win11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-share-error-messages-with-nvidias-gui/"><u>Eliminating Share Error Messages with NVIDIA’s GUI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-supercharge-system-controls-running-task-manager-admin-wise-on-win11/"><u>How to Supercharge System Controls: Running Task Manager Admin-Wise on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keysfan-annual-lowest-price-on-black-friday-lifetime-windows-11-starts-from-612/"><u>Keysfan Annual Lowest Price on Black Friday! Lifetime Windows 11 Starts From $6.12</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-diskspace-analysis-with-windows-diskusage-commands/"><u>Mastering DiskSpace Analysis with Windows' DiskUsage Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-unlocking-windows-update-error-0x800736cc/"><u>Mastering the Art of Unlocking Windows Update Error 0X800736CC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revisit-the-classics-enhancing-games-with-retroarchs-shaders/"><u>Revisit the Classics: Enhancing Games with RetroArch’s Shaders</u></a></li>
-<li><a href="https://games-able.techidaily.com/score-big-savings-on-the-85-inch-tcl-smart-led-tv-enjoy-25-off-during-labor-day-promo-znet-shoppers-choice/"><u>Score Big Savings on the 85-Inch TCL Smart LED TV - Enjoy 25% Off During Labor Day Promo | Znet Shoppers' Choice</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforma-tu-formato-m2p-directamente-en-mpeg-sin-costo-con-el-programa-en-linea-de-conversion-de-video-gratis/"><u>Transforma Tu Formato M2P Directamente en MPEG Sin Costo Con El Programa en Línea De Conversión De Video - Gratis</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-obs-desktop-sound-issues/"><u>Troubleshooting Steps for Resolving OBS Desktop Sound Issues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-freeware-top-ranked-mp4-video-transcoder-without-cost/"><u>Ultimate Freeware: Top-Ranked MP4 Video Transcoder without Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/whats-behind-win32keygen-understanding-its-effect-on-pc-safety/"><u>What's Behind Win32/Keygen? Understanding Its Effect on PC Safety</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +122,23 @@ thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-inspiring-visual-collages-a-kaleidoscope-for-the-soul/"><u>2024 Approved Inspiring Visual Collages A Kaleidoscope for the Soul</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-20plus-crucial-configuration-tweaks-revealed/"><u>Enhancing Windows 11: 20+ Crucial Configuration Tweaks Revealed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/free-top-10-facebook-video-downloader-for-android/"><u>FREE Top 10 Facebook Video Downloader for Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-event-viewer-not-working-in-windows-11/"><u>How to Fix the Event Viewer Not Working in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-ps4-network-problems-the-complete-step-by-step-tutorial/"><u>How To Resolve PS4 Network Problems: The Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sleek-screenscape-top-wallpapers-for-your-device/"><u>In 2024, Sleek Screenscape Top Wallpapers for Your Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/indispentic-vr-cinema-must-sees-for-2024/"><u>Indispentic VR Cinema Must-Sees for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-grab-a-4tb-samsung-t5-external-ssd-on-amazon-save-almost-half-its-price-spotted-by-zdnet/"><u>Massive Discount: Grab a 4TB Samsung T5 External SSD on Amazon - Save Almost Half Its Price, Spotted by ZDNet!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-event-viewer-failures-in-windows-11/"><u>Mitigating Event Viewer Failures in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-mosaic-honoring-european-linguistic-heritage/"><u>Multilingual Mosaic: Honoring European Linguistic Heritage</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-caption-your-video-in-fcpx-a-quick-and-easy-guide-for-2024/"><u>New Caption Your Video in FCPX A Quick and Easy Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-external-monitor-offline-in-windows-systems/"><u>Overcoming External Monitor Offline in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/risks-involved-in-ai-crafted-windows-11-codes/"><u>Risks Involved in AI-Crafted Windows 11 Codes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/seamless-sharing-linking-youtube-to-insta-stories-for-2024/"><u>Seamless Sharing Linking YouTube to Insta Stories for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-circle-again-top-5-family-safe-fixes/"><u>Securing Your Circle Again: Top 5 Family Safe Fixes</u></a></li>
+</ul></div>
+

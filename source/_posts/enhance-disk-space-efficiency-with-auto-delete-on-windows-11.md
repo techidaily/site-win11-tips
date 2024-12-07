@@ -1,7 +1,7 @@
 ---
 title: Enhance Disk Space Efficiency with Auto Delete on Windows 11
-date: 2024-11-26T16:05:32.178Z
-updated: 2024-11-27T17:20:23.087Z
+date: 2024-11-30T02:21:24.802Z
+updated: 2024-12-07T01:40:47.076Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Auto-Delete Old Files or Folders Using Storage Settings
 
  The Settings menu lets you do and manage a lot of stuff on your Windows computer. From updates to tweaking the Windows appearance—you can do almost everything. It's no surprise then that you can also use it for setting up an auto-deletion setting on your Windows. Here's how:
 
 ![storage settings on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/storage-settings-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Go to **Settings > System > Storage**.
 2. Toggle on the **Storage Sense** feature.
@@ -42,16 +42,12 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![storage sense in windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/storage-sense-in-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Not all files in the Downloads folder will be deleted after the set time; just those that haven't been opened. This means if you download a file and want to open it later, it will still be deleted after the set time. If you turn this setting on, you should move anything out of the Downloads folder that you intend to keep.
 
  If you want, you can always turn off the setting by simply disabling the **Storage Sense** button later on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Deleted Old Files or Folders With the Command Prompt
 
@@ -70,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
  Your files will be removed as quickly as soon as you hit the above commands.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use Task Scheduler on Windows
@@ -85,6 +81,11 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 4. Right-click on the recently created folder and select the **Create Task** option.  
 ![task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/task-scheduler.jpg)
 5. In the **Name** box, enter a name for the task.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now, in the **General** tab, under the **Security options** section, select the **Run whether the user is logged on or not** option.
 7. Make sure the **Do not store password** checkbox is unselected.
 8. Click on the **Triggers** tab and select the **New** button.
@@ -99,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 `ForFiles`
 
 ![new action tab on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-tab-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Similarly, in the **Add arguments** box, type in the following command:
 
@@ -122,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Auto-Deleting Old Files or Folders on a Windows Computer
 
  Keeping unnecessary files on your computer is seldom useful. They eat up memory space, hamper your PC's performance, and clog the file organization. Setting up auto-delete instructions, with whichever method you prefer, lets you rid your PC of this extra baggage.
@@ -130,27 +131,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  You can get rid of Windows 10 bloatware. You can sort your right click menu. You can even declutter your search results. And of course, you can clean up your desktop. If you're looking for a more passive approach, here's how to erase old files on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-the-end-scene-in-youtube-productions-for-2024/"><u>[New] Elevating the End Scene in YouTube Productions for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-instagram-time-keeper-learning-to-rewind-for-2024/"><u>[New] The Instagram Time Keeper Learning to Rewind for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-youtube-srt-extraction-three-practical-approaches-for-downloading/"><u>[Updated] 2024 Approved YouTube SRT Extraction Three Practical Approaches for Downloading</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-maximize-saving-tiktok-videos-android-and-ios-hacks/"><u>[Updated] In 2024, Maximize Saving TikTok Videos Android & iOS Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fastening-your-purchase-speed-for-ms-store-products/"><u>Fastening Your Purchase Speed for MS Store Products</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-the-windows-search-settings-in-windows-11/"><u>How to Reset the Windows Search Settings in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On OnePlus Ace 2V? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/movavis-free-online-video-converter-convert-mov-to-mp4-and-more/"><u>Movavi's Free Online Video Converter: Convert MOV to MP4 & More</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-most-popular-task-organizers-on-windows/"><u>Navigating the Most Popular Task Organizers on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-non-startup-for-urban-planner-pro-2-expert-tips-and-tricks/"><u>Solving Non-Startup for Urban Planner Pro 2: Expert Tips and Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-dealing-with-no-click-space-in-win11/"><u>Strategies for Dealing with No-Click Space in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-recover-from-unresponsive-spotify-win11-errors/"><u>Strategies to Recover From Unresponsive Spotify Win11 Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-path-to-inter-device-unity-android-plus-windows-guide/"><u>The Path to Inter-Device Unity: Android + Windows Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tips-for-finding-christian-choir-songs-online-and-personalizing-them-for-2024/"><u>Tips for Finding Christian Choir Songs Online & Personalizing Them for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-outlook-integration-fix-non-sync-issue/"><u>Unlock Windows Outlook Integration: Fix Non-Sync Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-efficient-methods-to-resolve-common-anydesk-errors-in-os/"><u>Unlocking Efficient Methods to Resolve Common AnyDesk Errors in OS</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -158,3 +138,21 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-discovering-tiktoks-most-popular-gamers-for-2024/"><u>[New] Discovering TikTok's Most Popular Gamers for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-visual-branding-on-youtubes-iconography-and-images/"><u>[Updated] In 2024, Visual Branding on YouTubes Iconography and Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-new-realms-todays-vr-tomorrows-trials/"><u>[Updated] Navigating New Realms Today's VR, Tomorrow's Trials</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-closer-look-at-the-blueear-bluetooth-hoodie-cap-merging-modern-style-and-effective-audible-performance/"><u>A Closer Look at the BlueEar Bluetooth Hoodie Cap: Merging Modern Style and Effective Audible Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-free-online-calendar-options-today/"><u>Discover the Best Free Online Calendar Options Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-a-hassle-free-transfer-of-your-torrent-clients-data/"><u>Executing a Hassle-Free Transfer of Your Torrent Client's Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-resolve-rdp-internal-errors-on-modern-pcs/"><u>How to Swiftly Resolve RDP Internal Errors on Modern PCs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-12-pro-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 12 Pro or iPad?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-v29e-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo V29e Location | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/schnell-und-sicher-vornehmen-datensicherung-auf-lokalem-laufwerk-in-windows-11/"><u>Schnell Und Sicher Vornehmen - Datensicherung Auf Lokalem Laufwerk in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-software-setup-windows-11s-compatibility-aid/"><u>Seamless Software Setup: Windows 11’S Compatibility Aid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-save-location-messages-in-windows/"><u>Steps to Fix Save Location Messages in Windows</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+</ul></div>
+

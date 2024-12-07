@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Batch Installation in Windows 11 with Ease and Speed – Winstall Way
-date: 2024-08-28T01:11:41.655Z
-updated: 2024-08-29T01:11:41.655Z
+date: 2024-11-29T22:57:37.501Z
+updated: 2024-12-06T16:30:23.555Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 
  Before batch-installing apps on your Windows 11 PC, remember that Winstall is a web portal that provides the complete Winget command to install one or many apps. It cannot directly install apps on your PC. For that, you need to run the generated commands in Command Prompt, PowerShell, as a batch file, or import as a .json file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 1\. How to Install Multiple Apps Using a Winstall App Pack
 
  Winstall app packs are pre-curated collections of apps you need on Windows 11\. There are essential packs, entertainment packs, browser packs, and more. Here's how to install a Winstall pack on your system:
@@ -52,9 +48,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Now, click on the **Get Pack** button. This will scroll the page to the **Get the Pack** section at the bottom.  
 ![Install Multiple Apps Using a Winstall App Pack 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, you can install the app pack in three ways: Batch, PowerShell, and Winget Import. You can [download and run the batch file](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/) with administrator privileges on your system. Or, you can copy the batch file commands and run them in an elevated Command Prompt window.
 
  Similarly, you can run the PowerShell commands in an elevated PowerShell window. The command prompt code uses the "**&&**" operator to sequentially install multiple apps in one attempt, while the PowerShell code uses the "**;**" operator to achieve the same thing. Lastly, you can download the .json file containing the commands and import it using Winget to download all the packages on your PC.
@@ -66,14 +59,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Click on the **Copy to clipboard** button to copy the generated code.  
 ![Install Multiple Apps Using a Winstall App Pack 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-3.jpg)
 4. Now, press **Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **cmd** and press **Ctrl + Shift + Enter** keys to open the tool with administrator privileges.
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Paste the copied code into the Command Prompt window and press the enter key to execute the code.  
 ![Install Multiple Apps Using a Winstall App Pack 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-4.jpg)
 6. The commands will execute linearly and download and install the respective apps on your system. You won't have to click a button or interact with an installer window. After all the apps finish installation, close the Command Prompt window.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How to Install Multiple Apps Using a Custom App List in Winstall
@@ -85,17 +85,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Click on the **Generate Script** button. Like before, you will be redirected to a page with multiple options to install the app packages on your system.  
 ![Install Multiple Apps Using a Custom App List in Winstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall.jpg)
 4. You can use the **Advanced options** section to enable the **silent installation** command while adding the selected packages. Then, click on the **Copy to Clipboard** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Install Multiple Apps Using a Custom App List in Winstall 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall-2.jpg)
 5. [Open Command Prompt with administrator privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) on your system. Paste the copied code into it and press Enter to execute the code.  
 ![Install Multiple Apps Using a Custom App List in Winstall 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall-3.jpg)
 6. Wait for Winget to download and install each app and then close the Command Prompt window.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
 ## Things to Remember While Using Winstall
 
@@ -109,6 +107,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you want to know more about Winget, you should check out [our Widows Package Manager guide](https://www.makeuseof.com/how-to-download-install-and-use-the-windows-package-manager-winget/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Batch Installing Apps Is a Piece of Cake
 
  Opening Microsoft Store or your browser and manually searching for each app or program is exhausting. You can use Winstall to generate code to download and install multiple apps using Winget. Moreover, you can even sign in and create a pack on the website, so other users don't have to search for a specific collection of useful Windows 11 apps.
@@ -117,11 +119,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  With Winstall, you can now easily use Winget to batch-install Windows 10 and 11 apps. Best of all, both tools are free! So, are you wondering how to use this? Let's begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-nighttime-exposures-for-your-iphone-lens-for-2024/"><u>[New] Nighttime Exposures for Your iPhone Lens for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-syma-x5c-an-in-depth-beginners-guide-for-future-pilots/"><u>[Updated] 2024 Approved Syma X5C An In-Depth Beginner’s Guide for Future Pilots</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>[Updated] 2024 Approved Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-extensive-breakdown-gecata-tracking-device-assessment-for-2024/"><u>[Updated] Extensive Breakdown Gecata Tracking Device Assessment for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-edit-titles-and-descriptions-of-igtv-videos/"><u>2024 Approved How to Edit Titles and Descriptions of IGTV Videos?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dormant-dreams-windows-computers-at-rest/"><u>Dormant Dreams: Windows Computers at Rest</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ease-your-computers-pace-with-enhanced-mouse-speed/"><u>Ease Your Computer’s Pace with Enhanced Mouse Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-routes-to-windows-printer-settings-in-w11-max-48-chars/"><u>Easy Routes to Windows Printer Settings in W11 (Max 48 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-video-memory-crashes-in-hogwarts-educational-fantasy-game/"><u>Eliminating Video Memory Crashes in Hogwarts Educational Fantasy Game</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disconnected-print-devices-on-windows-pc/"><u>Fixing Disconnected Print Devices on Windows PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209612325-9781547570065-meditacion-guia-de-meditacion-para-personas-ocupadas-para-curar-depresion-ansiedad-y-estres/"><u>Meditación: Guía De Meditación Para Personas Ocupadas Para Curar Depresión, Ansiedad Y Estrés | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-stable-win11-anydesk-connection/"><u>Re-Establishing Stable Win11 AnyDesk Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slashing-processor-load-effective-ways-to-reduce-ums-overuse-by-vanguard/"><u>Slashing Processor Load: Effective Ways to Reduce UMS Overuse by Vanguard</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-xiaomi-mi-smart-band-4-comprehensive-review-and-insights/"><u>Top Rated Xiaomi Mi Smart Band 4: Comprehensive Review & Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleashing-creative-potential-with-instas-bokeh-effects-for-2024/"><u>Unleashing Creative Potential with Insta's Bokeh Effects for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-solutions-to-operation-failure-error-0x0000011b-in-windows-11/"><u>Unlocking Solutions to Operation Failure (Error 0X0000011B) in Windows 11</u></a></li>
+</ul></div>
+

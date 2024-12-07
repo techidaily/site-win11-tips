@@ -1,7 +1,7 @@
 ---
 title: "Phoenix Revival: AtlasOS for Vintage Setup"
-date: 2024-11-21T16:40:29.223Z
-updated: 2024-11-27T17:20:39.791Z
+date: 2024-12-01T16:09:02.380Z
+updated: 2024-12-06T21:04:47.344Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Atlasos, and Why Should You Use It?
@@ -56,14 +56,10 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 3. Download both the **AME Wizard** and **Atlas Playbook** from the next page. For ease of use, make a new folder, and save both files inside it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![AtlasOS Download AME Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-download-ame-wizard.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before We Continue, Back Up Your Data
 
@@ -85,41 +81,34 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 ![AtlasOS Disabling Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-disabling-windows-security.jpg)
 5. When done, AtlasOS's setup will detect the changes and inform you that "Windows Security is disabled", prompting you to close that settings window and move to the next step.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![AtlasOS Windows Security is Disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-windows-security-is-disabled.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. AtlasOS is designed for a specific combination of a particular Windows version and some updates, and will inform you if those requirements aren't met. Usually, it will also offer the option to "**Prepare** (the) **System**" according to the conditions required by the loaded Playbook. Click on **Run action** to do that.  
 ![AtlasOS Prepare System Run Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-prepare-system-run-action.jpg)
 2. The setup wizard will start "Preparing (your) system" by installing, removing, or modifying components and settings. Your PC might restart during that part of the process, but apart from that, no user intervention should be required.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![AtlasOS Setup Preparing System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-preparing-system.jpg)
 3. You will also have to **allow** the AME Wizard "**to make changes to your device**" for that part to work.  
-![AtlasOS AME Wizard Beta User Account Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-ame-wizard-beta-user-account-control.jpg)
-4. If the AME Wizard prompts you to do so after that, or it fails, you should manually **download the latest updates** for your version of Windows.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![AtlasOS AME Wizard Beta User Account Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-ame-wizard-beta-user-account-control.jpg)
+4. If the AME Wizard prompts you to do so after that, or it fails, you should manually **download the latest updates** for your version of Windows.  
 
 ![AtlasOS Setup Next Windows Update Checking for Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-next-windows-update-checking-for-update.jpg)
 5. When, finally, AME Wizard reports that all "**Requirements** (are) **met**", click on **Next** to proceed to the actual installation.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![AtlasOS Setup Requirements Met Next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-requirements-met-next.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Installing AtlasOS
 
@@ -131,16 +120,8 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 ![AtlasOS Setup Applying Playbook Extracting Resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-applying-playbook-extracting-resources.jpg)
 3. The installer might download resources like **.Net 3.5**...  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![AtlasOS Setup Installing Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-installing-features.jpg)
 4. ...and remove what the loaded Playbook deems "useless fluff", like Microsoft's **OneDrive** cloud storage solution.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![AtlasOS Setup Removing OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-removing-onedrive.jpg)
 5. AtlasOS will also "lose" a lot of system packages and turn off many services to "Lighten up" your OS.  
@@ -148,11 +129,20 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 6. You'll also be given the option to choose how you deal with **Security Mitigations**. We won't dive into details about them, but you can consider them extra security software patches for older CPUs. If your CPU is newer (released within the last five years), it's (usually) better **not to disable them**. If your CPU is relatively old, by disabling Security Mitigations, you'll be trading reduced security for a boost in performance. It's your choice, but AtlasOS will automatically disable them if you don't answer within 5 minutes.  
 ![AtlasOS Setup Security Mitigations Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-security-mitigations-pro.jpg)
 7. When it's mostly done, AtlasOS wizard will inform you that it's "**Finalizing** (the) **configuration**".  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AtlasOS Setup Finalizing Configuration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-finalizing-configuration.jpg)
 8. After all steps are complete and all rules in AtlasOS's Playbook are applied, your PC should restart automatically.  
 ![AtlasOS Setup Playbook Complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-playbook-complete.jpg)
 9. Windows might have to perform a reconfiguration during the next startup.  
 ![Windows Restart Updating Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-restart-updating-features.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Differences Between AtlasOS and Vanilla Windows
 
@@ -164,11 +154,23 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
 ![AtlasOS Update Security Unavailable Leads to Troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-update-security-unavailable-leads-to-troubleshoot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can feel the difference compared to a "normal" Windows installation, and it's also apparent if you check the OS's demands on resources.
 
 ![Windows 10 Firefox And Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-10-firefox-and-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In our case, the "vanilla" version of Windows 10 we used before side-grading it to AtlasOS consumed around 8%-10% more resources while idle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Leaner Version of Windows
 
@@ -178,27 +180,6 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  Let's see how you can squeeze more life out of your old PC with AtlasOS, boosting its responsiveness and increasing your games' framerates.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-released-caught-in-the-web-of-missing-shorts/"><u>[New] 2024 Approved Released Caught in the Web of Missing Shorts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamlining-your-video-collection-converting-mp4-with-vlc/"><u>[New] Streamlining Your Video Collection Converting MP4 with VLC</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-adapting-spotify-playlists-into-a-youtube-music-format/"><u>[Updated] Adapting Spotify Playlists Into a YouTube Music Format</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-expedite-youtube-video-submission-rapid-rendering-secrets/"><u>[Updated] Expedite YouTube Video Submission Rapid Rendering Secrets</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-reach-tweeting-on-facebook/"><u>[Updated] Maximizing Reach Tweeting on Facebook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/dynamic-duo-wearable-and-mac-harmony/"><u>Dynamic Duo Wearable & Mac Harmony</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-interconnected-scribbling-across-devices/"><u>Enabling Interconnected Scribbling Across Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-event-viewer-errors-in-windows-11/"><u>Fixing Windows Event Viewer Errors in Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ios-tracker-application-monitor-your-iphone-with-ease/"><u>IOS Tracker Application: Monitor Your iPhone with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-output-top-5-must-have-windows-productivity-apps/"><u>Maximize Your Output: Top 5 Must-Have Windows Productivity Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-speed-with-intels-ethernet-driver-on-fedora/"><u>Maximizing Speed with Intel's Ethernet Driver on Fedora</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-windowscape-custom-monitor-aesthetics-with-wallpapers-in-win-1011/"><u>Tailored Windowscape: Custom Monitor Aesthetics with Wallpapers in WIN 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-dealing-with-non-powershell-availability-in-windows/"><u>Tips for Dealing with Non-PowerShell Availability in Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-ios-gif-apps-showcase-iphone-series/"><u>Top 10 iOS GIF Apps Showcase IPhone Series</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-frozen-wsreset-utility-for-windows-users/"><u>Unlocking Frozen WSReset Utility for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-and-dolby-atmos-setup-guide/"><u>Win 11 & Dolby Atmos Setup Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win32keygen-alert-understanding-the-threat-and-cleanup-strategies/"><u>Win32/Keygen Alert: Understanding the Threat and Cleanup Strategies</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -206,3 +187,19 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-revolutionize-your-video-output-top-10-apps-converting-flv-to-youtube/"><u>[Updated] Revolutionize Your Video Output Top 10 Apps Converting FLV to YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-steam-login-issues-on-rust-platforms-windows/"><u>Bypassing Steam Login Issues on Rust Platforms Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-financially-navigate-to-w11-pro-best-offers/"><u>Gain Financially: Navigate to W11 Pro Best Offers</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberated-communication-windows-utilizing-freedomgpt/"><u>Liberated Communication Windows: Utilizing FreedomGPT</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-real-time-broadcasting-a-beginners-guide-for-2024/"><u>Mastering Real-Time Broadcasting A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-elevates-education-through-partnership-with-apple-technology/"><u>Mondly Elevates Education Through Partnership With Apple Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steady-handling-of-frozen-windows-pin-issues/"><u>Steady Handling of Frozen Windows Pin Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-windows-operation-fails-with-error-0x0000011b/"><u>Stopping Windows' Operation Fails with Error 0X0000011B</u></a></li>
+</ul></div>
+

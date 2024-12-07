@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Sync for Dual Desktops: Mastering File Coordination via AOEMi"
-date: 2024-11-23T16:30:58.633Z
-updated: 2024-11-27T17:57:36.778Z
+date: 2024-11-30T17:52:03.936Z
+updated: 2024-12-06T22:51:11.561Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3f
 
 ![AOMEI Home Screen UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Home-Screen-UI.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up AOMEI Basic Sync
 
  An AOMEI basic sync allows you to easily sync changed files from a given source directory to the destination directory.
@@ -44,6 +48,11 @@ To perform a basic sync:
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.
 5. ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)  
  For a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AOMEI Folder Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Folder-Share.jpg)
 6. You can also click**Options** to configure various settings for your backup such as email notifications, comments, pre- and post-backup scripts to be run as well as options to sync deletions between the source and destination directories.
 7. You can click on**Schedule Sync** to set the backup as a scheduled task to be run whenever you desire.  
@@ -51,7 +60,7 @@ To perform a basic sync:
 8. Finally, click**Start Sync** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Two-Way Sync
@@ -68,12 +77,13 @@ To perform a two-way sync:
 ![AOMEI Add Source Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Add-Source-Folder.jpg)
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
 5. Once again, for a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. You have the same options as before to create a scheduled sync or set up email notifications, comments, or scripts.
 7. Select**Start Sync** .
 
@@ -84,24 +94,16 @@ To perform a two-way sync:
 ![AOMEI Sync Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Sync-Test.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then let's manually run the sync operation.
 
 ![Two Way Sync Manual Operation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Two-Way-Sync-Manual-Operation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Within a few seconds, our file appears in the destination folder.
 
 ![AOMEI Sync Test Result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Sync-Test-Result.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Real-Time Sync
 
@@ -114,12 +116,13 @@ Within a few seconds, our file appears in the destination folder.
 3. Specify a source folder by clicking the**Add Folder** button.  
 ![AOMEI Add Source Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Add-Source-Folder.jpg)
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.  
-![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
-5. Once again, for a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
+5. Once again, for a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.
 
 6. You have the same options as before to create a scheduled sync or set up email notifications, comments, or scripts.
 7. Select**Start Sync** .
@@ -145,17 +148,19 @@ Within a few seconds, our file appears in the destination folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-groundbreaking-action-adventure-masterpieces-top-10/"><u>[New] 2024 Approved Groundbreaking Action-Adventure Masterpieces (Top 10)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-finest-6-economical-4k-hd-projector-picks/"><u>[New] Finest 6 Economical 4K HD Projector Picks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-playlists-that-rule-spotifys-top-10/"><u>[Updated] Playlists that Rule Spotify's Top 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cure-frozen-media-app-on-your-windows-11-system/"><u>Cure Frozen Media App on Your Windows 11 System</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-routine-reinstalling-mice-for-windows-systems/"><u>Essential Routine: Reinstalling Mice for Windows Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-freezing-in-valheim-on-your-computer-top-fixes-that-worked/"><u>How To Prevent Freezing in Valheim on Your Computer - Top Fixes That Worked</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-comparative-review-of-filmmaking-apps-filmora-and-democracy-creator/"><u>In 2024, A Comparative Review of Filmmaking Apps Filmora & Democracy Creator</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-pickus-impact-on-mobile-photography-a-comparative-study/"><u>In 2024, PickU's Impact on Mobile Photography – A Comparative Study</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-restoring-the-dormant-wsreset-on-your-pc/"><u>Methods for Restoring the Dormant WSReset on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-tips-to-optimize-fps-in-csgo-matches/"><u>Pro Tips to Optimize FPS in CS:GO Matches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-n-lineup-analyzed-optimal-selections/"><u>Windows N Lineup Analyzed: Optimal Selections</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensive-tutorial-adding-timer-functionality-to-obs-for-2024/"><u>[New] Comprehensive Tutorial Adding Timer Functionality to OBS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-disconnected-sounds-to-cohesive-scenes-with-audacity/"><u>[New] From Disconnected Sounds to Cohesive Scenes with Audacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-professional-techniques-for-aps-hdr-creation/"><u>2024 Approved Unveiling Professional Techniques for APS HDR Creation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/de-to-homemade-film-crafting-youtube-and-beyond-for-2024/"><u>A Guide to Homemade Film Crafting, YouTube & Beyond for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-erroneous-game-status-detection-in-discord-windows-edition/"><u>Correcting Erroneous Game Status Detection in Discord, Windows Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-a-dead-zone-on-your-iphone-discover-7-likely-causes-of-screen-unresponsiveness/"><u>Experiencing a Dead Zone on Your iPhone? Discover 7 Likely Causes of Screen Unresponsiveness</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/framefusion-creator-for-2024/"><u>FrameFusion Creator for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211235016-9798869109507-la-vie-sait-mieux/"><u>LA VIE SAIT MIEUX | Free Book</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ter-library-selecting-witty-content-for-short-youtube-videos/"><u>Laughter Library Selecting Witty Content for Short YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-drive-not-initialized-warning/"><u>Quick Fix Guide: Drive Not Initialized Warning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-missing-audio-saving-feature-on-windows/"><u>Restoring Missing Audio Saving Feature on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-unnecessary-edge-tab-activation-on-w11/"><u>Stop Unnecessary Edge Tab Activation on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transferring-iphones-calendar-events-to-windows-pc/"><u>Transferring iPhone's Calendar Events to Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-technology-windows-on-iphoneipad-mac-pc-unveiled/"><u>Transformative Technology: Windows on iPhone/iPad, Mac, PC Unveiled</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Excel, Guide, Tutorial, and Specific Functions INDEX and MATCH.
-date: 2024-08-28T01:07:35.129Z
-updated: 2024-08-29T01:07:35.129Z
+date: 2024-12-02T21:07:23.645Z
+updated: 2024-12-06T17:01:43.118Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  The INDEX function returns a value based on a location you enter in the formula while MATCH does the reverse and returns a location based on the value you enter. When you combine these functions, you can find any number or text you need.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  VLOOKUP Versus INDEX and MATCH
 
  The difference between these functions and VLOOKUP is that VLOOKUP finds values from left to right. Hence the function's name; VLOOKUP performs a vertical lookup.
@@ -32,8 +36,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Microsoft goes on to say that if your sheet isn't set up in a way where VLOOKUP can help you find what you need, you can use INDEX and MATCH instead. So let's look at how to use INDEX and MATCH in Excel.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  INDEX and MATCH Function Basics
 
  To use these functions together, it's important to understand their purpose and structure.
@@ -50,9 +55,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![INDEX function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/INDEX-ExcelINDEXandMATCH.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  The result is 20,745 because that's the value in the fourth position of our cell range.
 
  For more details on the Array and Reference Forms of INDEX as well as other ways to use this function, take a look at our how-to for [INDEX in Excel](https://youtube-help.techidaily.com/in-2024-the-full-course-on-becoming-a-yt-creator-expert/).
@@ -65,19 +67,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![MATCH function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MATCH-ExcelINDEXandMATCH.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  The result is 4 because the value in cell G2 is in the fourth position in our cell range.
 
  For additional details on the `match_type` argument and other ways to use this function, take a look at our tutorial for [MATCH in Excel](https://extra-guidance.techidaily.com/mirthful-missions-delving-into-the-goofy-movie-vhs-for-2024/).
 
 Related: [How to Find a Value's Position With MATCH in Microsoft Excel](https://extra-guidance.techidaily.com/mirthful-missions-delving-into-the-goofy-movie-vhs-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use INDEX and MATCH in Excel
 
  Now that you know what each function does and its syntax, it's time to put this dynamic duo to work. Below, we'll use the same data as above for INDEX and MATCH individually.
@@ -92,14 +87,6 @@ Related: [How to Find a Value's Position With MATCH in Microsoft Excel](https://
 
 ![INDEX and MATCH for a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/INDEXMATCHG2-ExcelINDEXandMATCH.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Let's look at another example. We want to know which city has sales that match a certain amount. Using our sheet, you would enter this formula:
 
 =INDEX(B2:B8,MATCH(G5,D2:D8))
@@ -109,8 +96,9 @@ Related: [How to Find a Value's Position With MATCH in Microsoft Excel](https://
 ![INDEX and MATCH for a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/INDEXMATCHG5-ExcelINDEXandMATCH.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here's an example using an actual value instead of a cell reference. We'll look for the value (sales) for a specific city with this formula:
 
 =INDEX(D2:D8,MATCH("Houston",B2:B8))
@@ -121,6 +109,10 @@ Related: [How to Find a Value's Position With MATCH in Microsoft Excel](https://
 
 ![INDEX and MATCH for text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/INDEXMATCHHouston-ExcelINDEXandMATCH.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To obtain that same result by using the location ID instead of the city, we simply change the formula to this:
 
 =INDEX(D2:D8,MATCH("2B",A2:A8))
@@ -128,6 +120,10 @@ Related: [How to Find a Value's Position With MATCH in Microsoft Excel](https://
  Here we changed the MATCH formula to look up "2B" in the cell range A2 through A8 and provide that result to INDEX which then returns 20,745.
 
 ![INDEX and MATCH for text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/INDEXMATCH2B-ExcelINDEXandMATCH.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Basic functions in Excel](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) like those that help you [add numbers](https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-instagrams-policies-a-musicians-legal-primer/) in cells or [enter the current date](https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-redmi-note-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/) are certainly helpful. But when you start adding more data and advancing your data entry or analysis needs, lookup functions like INDEX and MATCH in Excel can be quite useful.
 
@@ -139,8 +135,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +142,19 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-adjust-default-snapshot-savings-in-mac/"><u>[New] 2024 Approved Adjust Default Snapshot Savings in Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-elite-20-unprotected-open-access-pubg-montages/"><u>[New] In 2024, Elite 20 Unprotected, Open-Access PUBG Montages</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-masterclass-in-visualization-perfectly-cropped-instagram-videos/"><u>[Updated] 2024 Approved Masterclass in Visualization Perfectly Cropped Instagram Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-effective-legal-strategies-for-content-visibility/"><u>[Updated] In 2024, Effective, Legal Strategies for Content Visibility</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-precision-timing-crafting-your-ideal-video-conference/"><u>[Updated] In 2024, Precision Timing Crafting Your Ideal Video Conference</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-win11s-color-changing-features/"><u>Configuring Win11's Color-Changing Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-basics-to-advanced-the-hand-trackers-playbook-for-2024/"><u>From Basics to Advanced The Hand Tracker's Playbook for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-dissecting-video-ranking-algorithms-on-youtube/"><u>In 2024, Dissecting Video Ranking Algorithms on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-up-your-game-with-these-9-improvements-in-outlook-windows-edition/"><u>Step Up Your Game with These 9 Improvements in Outlook, Windows Edition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-mend-and-revive-damaged-mpeg-4-video-files/"><u>The Ultimate Guide to Mend & Revive Damaged MPEG-4 Video Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-rejuvenating-defective-batch-files-on-windows/"><u>Tips for Rejuvenating Defective Batch Files on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-enhanced-vehicles-the-ultimate-5-budget-driver-software/"><u>Win-Enhanced Vehicles: The Ultimate 5 Budget Driver Software</u></a></li>
+</ul></div>
 

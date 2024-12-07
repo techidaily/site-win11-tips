@@ -1,7 +1,7 @@
 ---
 title: Perfecting Windows 11 Taskbar Size and Alignment
-date: 2024-11-20T17:31:04.308Z
-updated: 2024-11-27T16:28:13.733Z
+date: 2024-12-04T18:29:54.934Z
+updated: 2024-12-06T21:44:36.090Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Make the Windows 11 Taskbar Bigger or Smaller?
@@ -45,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 6. Double-click**TaskbarSi** to edit it, and then enter**2** in the**Value data** text box and click**OK** to make the Taskbar bigger.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![changing the taskbarsi value to 2 in the Registry Editor on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbarsi-value-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you restart your computer, you will see the result: an enlarged Taskbar.
@@ -59,18 +59,18 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 ![an enlarged Taskbar on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-desktop-enlarged-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make the Taskbar smaller, enter**0** in the**Value data** text box, click**OK** , and then restart your computer. You will then see that the Taskbar has shrunk.
 
 ![a smaller taskbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-desktop-small-taskbar.jpg)
 
- If you decide to go back to the Taskbar’s default size, you can easily set**Value data** to**1** or simply delete the**TaskbarSi** value.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you decide to go back to the Taskbar’s default size, you can easily set**Value data** to**1** or simply delete the**TaskbarSi** value.
 
 ## Adjust the Taskbar’s Size to Suit Your Needs on Windows 11
 
@@ -91,24 +91,22 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-key-strategies-for-gaining-facebooks-top-marker/"><u>[New] In 2024, Key Strategies for Gaining Facebook's Top Marker</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-leveraging-adobe-connect-for-exceptional-video-capture-and-editing-for-2024/"><u>[New] Leveraging Adobe Connect for Exceptional Video Capture & Editing for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-windows-11-service-management/"><u>Essential Techniques for Windows 11 Service Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-top-3-techniques-to-fasten-windows-11-bootup-time/"><u>Explore Top 3 Techniques to Fasten Windows 11 Bootup Time</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-reno-11f-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Reno 11F 5G Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-change-lockout-duration-after-failed-logon-attempts-in-windows-10-and-11/"><u>How to Change Lockout Duration After Failed Logon Attempts in Windows 10 and 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-v29-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo V29 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instalwin11nonet-preparing-your-system/"><u>InstalWin11NoNet: Preparing Your System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-device-connection-with-microsofts-phone-link/"><u>Mastering Device Connection with Microsoft's 'Phone Link'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-invalid-reparse-buffer-tag-error-with-onedrive/"><u>Mitigating Invalid Reparse Buffer Tag Error with OneDrive</u></a></li>
-<li><a href="https://win11.techidaily.com/operating-unity-windows-rolls-out-across-apple-pc-mac-android-world/"><u>Operating Unity: Windows Rolls Out Across Apple, PC, Mac, Android World</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-glitched-netflix-on-windows-pc/"><u>Resetting Glitched Netflix on Windows PC</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/restarting-disrupted-streams-on-fb-fixes-for-todays-broadcasters-for-2024/"><u>Restarting Disrupted Streams on FB Fixes for Today's Broadcasters for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rise-to-the-top-essential-ms-store-winners-2023/"><u>Rise to the Top: Essential MS Store Winners, 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-windows-task-sequence-error-0x8007000f/"><u>Steps to Overcome Windows Task Sequence Error 0X8007000f</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-gpeditmsc-access-issues-in-windows-home-edition/"><u>Troubleshooting 'gpedit.msc' Access Issues in Windows Home Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-compatibility-with-idt-high-definition-sound-card-solved/"><u>Windows 11 Compatibility with IDT High Definition Sound Card - Solved!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streaming-services-showdown-vimeo-versus-youtube/"><u>[Updated] 2024 Approved Streaming Services Showdown Vimeo Versus YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-diving-deep-into-instagrams-new-features-for-2024/"><u>[Updated] Diving Deep Into Instagram's New Features for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-efficient-strategies-to-log-facetime-discussions-for-2024/"><u>[Updated] Efficient Strategies to Log FaceTime Discussions for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-through-the-fins-pro-techniques-for-taking-superior-gopro-videos-underwater/"><u>[Updated] In 2024, Through the Fins Pro Techniques for Taking Superior GoPro Videos Underwater</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-diverse-forms-of-remote-controlled-flyers/"><u>2024 Approved Diverse Forms of Remote-Controlled Flyers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-a-windows-trash-bin-for-irreversible-file-disposal-11/"><u>Configuring a Windows Trash Bin for Irreversible File Disposal (11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failing-copy-functionality-in-windows-11/"><u>Correcting Failing Copy Functionality in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-nospinlockavailable-bsod-stop-code-0x0000001d-in-windows/"><u>How to Correctly Address NO_SPIN_LOCK_AVAILABLE BSOD (Stop Code 0X0000001D) in Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-5-best-free-mov-video-joiners/"><u>In 2024, 5 Best Free MOV Video Joiners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/library-installation/"><u>Library Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-specific-app-failures-in-windows-os/"><u>Overcoming Device-Specific App Failures in Windows OS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prove-your-prowess-with-swift-video-edits-on-windows-11-photos/"><u>Prove Your Prowess with Swift Video Edits on Windows 11 Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-access-to-credentials-in-windows-11-a-guide-to-opening-your-vault-fast/"><u>Quick Access to Credentials in Windows 11: A Guide to Opening Your Vault Fast</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/est-of-yt-a-deep-dive-into-music-dance-clips-23-for-2024/"><u>The Best of YT A Deep Dive Into Music Dance Clips, '23 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-windows-11-users-guide-to-high-dynamic-range-visuals/"><u>The Complete Windows 11 User's Guide to High Dynamic Range Visuals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-accessing-windows-preferences/"><u>The Ultimate List: Accessing Windows Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-top-tier-classic-gaming-in-hd-clarity-windows-plus-scummvm-techniques/"><u>Tips for Top-Tier Classic Gaming in HD Clarity: Windows + ScummVM Techniques</u></a></li>
 </ul></div>
 

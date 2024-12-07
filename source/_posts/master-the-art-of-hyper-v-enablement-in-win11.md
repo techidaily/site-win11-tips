@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Hyper-V Enablement in Win11
-date: 2024-11-21T16:15:33.784Z
-updated: 2024-11-27T16:19:25.224Z
+date: 2024-11-30T21:24:54.106Z
+updated: 2024-12-07T01:51:51.473Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Use Cases for Hyper-V?
 
  Hyper-V is a native virtualization tool that allows you to run multiple operating systems on your system virtually without affecting your host OS.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 * Offers disaster recovery features including live migration and failover clustering for increased uptime.
 * Create and run virtual machines in isolation for improved security.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prerequisites to Enable Hyper-V on Windows 11
 
 ![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
  Depending on how many virtual machines and types of applications you intend to run, you may need more resources to run the virtual machines smoothly.
 
  In addition, you need to enable Hardware Virtualization in BIOS. It is an essential feature to run virtual machines on your Windows system but often disabled by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable Hardware Virtualization in BIOS
 
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 4. In the BIOS Setup Utility, use the arrow key and open the **Configuration** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, use the down arrow key to highlight the **Virtualization Technology** option.  
@@ -79,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
  After restart, you can enable Hyper-V on Windows 11\. Here’s how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn On Hyper-V in Windows 11 Via Control Panel
@@ -87,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 ![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can enable Hyper-V using the Windows Features dialog. You can access Windows Features to [add or remove optional features in Windows 11](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) from the Control Panel. Here’s how to do it.
@@ -101,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 7. Once completed, click on **Restart Now** to restart, and apply the changes.
 
  After the restart, search for **Hyper-V** and click on **Hyper-V Manager** to create virtual machines in Windows 11\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Add Hyper-V to Windows 11 Using Command Prompt
 
@@ -125,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 ## 3\. Enable Hyper-V Using PowerShell
 
 ![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you prefer Windows PowerShell over Command Prompt, you can also enable Hyper-V using the shell application.
 
@@ -162,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
 ![Windows admin center console home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-admin-center-console-home.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While the MMC-based Hyper-V manager is functional and built into the OS, consider using the relatively new Windows Admin Center. It is a browser-based management app that lets you manage your servers, virtual machines, local users and groups, and more.
 
  Download [Windows Admin Center](https://www.microsoft.com/en-in/windows-server/windows-admin-center) from the official Microsoft page and run the installer to give it a go. Once installed, open the app, and it will launch in your default browser, giving you access to a host of management tools.
@@ -178,29 +178,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  In this article, we show you the how to enable Hyper-V in Windows 11 and create virtual machines without third-party tools.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-skyline-of-success-stardews-top-7-upgrades-review/"><u>[New] 2024 Approved Skyline of Success Stardew's Top 7 Upgrades Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-create-impressive-slow-motion-content-a-step-by-step-instagram-reel-masterclass-for-2024/"><u>[New] How to Create Impressive Slow Motion Content A Step by Step Instagram Reel Masterclass for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-navigating-immediate-account-suspension-due-to-copyright-violations/"><u>[New] In 2024, Navigating Immediate Account Suspension Due to Copyright Violations</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-complete-guide-for-snapchats-friendly-pins/"><u>[New] The Complete Guide for Snapchat's Friendly Pins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-winmedia-tool-error-0x90017/"><u>Deciphering WinMedia Tool Error: 0X90017</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-to-resolving-0x0000004e-on-windows-pcs/"><u>Expert Guide to Resolving 0X0000004E on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fresh-windows-features-streamlined-directory-development/"><u>Fresh Windows Features: Streamlined Directory Development</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-updated-epson-wf-3620-drivers-compatible-with-windows-1087-free-download/"><u>Get Updated Epson WF-3620 Drivers Compatible with Windows 10/8/7 - Free Download</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-mastering-remote-desktop-control-with-your-samsung-smart-tv/"><u>Guide: Mastering Remote Desktop Control with Your Samsung Smart TV</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-14-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 14 Plus?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-perform-a-clean-boot-on-windows-11/"><u>How to Perform a Clean Boot on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-poco-x5-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Poco X5 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-internet-methods-without-a-preinstalled-browser/"><u>Instant Internet: Methods Without a Preinstalled Browser</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/steps-for-successful-extraction-of-fb-content-for-2024/"><u>Steps for Successful Extraction of FB Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-tutorial-for-analyzing-and-managing-windows-drive-space-with-diskusage/"><u>The Ultimate Tutorial for Analyzing and Managing Windows Drive Space with DiskUsage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/time-traveling-through-pages-how-to-effectively-leverage-the-wayback-machine-for-historical-research/"><u>Time Traveling Through Pages: How to Effectively Leverage the Wayback Machine for Historical Research</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-outlook-error-in-windows-environments/"><u>Troubleshooting Outlook Error in Windows Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11s-sticky-feature-universal-device-synergy/"><u>Windows 11'S Sticky Feature: Universal Device Synergy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-the-archive-of-your-snaps/"><u>Windows: The Archive of Your Snaps</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -208,3 +185,21 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-your-course-in-the-realm-of-youtube-shorts/"><u>[New] 2024 Approved Charting Your Course in the Realm of YouTube Shorts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-frames-to-fabulous-the-ultimate-list-of-photo-plugins/"><u>[New] In 2024, Frames to Fabulous The Ultimate List of Photo Plugins</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-your-picture-at-a-glance-quick-steps-for-saving-social-media-pics/"><u>[New] In 2024, Your Picture at a Glance Quick Steps for Saving Social Media Pics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories/"><u>[New] Perfect Picture Spotlights How to Zoom in & Out on Insta Stories</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easily-overcoming-file-corrupted-issue-error-0x80070570-on-windows-11/"><u>Easily Overcoming File Corrupted Issue (Error 0X80070570) on Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-underwater-realms-and-share-with-the-insta360-x2/"><u>Explore Underwater Realms & Share With the Insta360 X2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-razer-device-detection-issues-in-windows-1011/"><u>Fixing Razer Device Detection Issues in WIndows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-error-no-qt-platform-engine-available-for-startup/"><u>Handling Error: No Qt Platform Engine Available for Startup</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-geforce-now-error-code-xc0f1103f/"><u>Steps to Correct GeForce Now Error Code Xc0f1103f</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-infinix-hot-40i-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Infinix Hot 40i Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-login-woes-a-comprehensive-solution/"><u>Windows 11 Login Woes: A Comprehensive Solution</u></a></li>
+</ul></div>
+

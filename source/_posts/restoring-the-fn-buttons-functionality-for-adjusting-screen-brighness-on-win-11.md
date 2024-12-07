@@ -1,7 +1,7 @@
 ---
 title: Restoring the Fn Button's Functionality for Adjusting Screen Brighness on Win 11
-date: 2024-11-21T16:33:54.462Z
-updated: 2024-11-27T17:15:13.685Z
+date: 2024-12-03T17:08:48.301Z
+updated: 2024-12-06T20:57:58.238Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
  The function key may not work if it is disabled on your keyboard. To make sure it is enabled, press the**Fn + Esc** keys simultaneously. Doing this will toggle the function lock on and off. If it was disabled, enabling it should help fix the brightness key not working issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run the Hardware and Devices Troubleshooter
 
  The Hardware and Devices Troubleshooter is the next step to try if the above solutions weren't enough. This tool can detect and fix any hardware and device issues on your computer, including the problem with the keyboard. To run the troubleshooter, do the following:
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 1. Open the Command Prompt window with admin access. If you need help, see our guide on[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 2. Once you're in the Command Prompt window, type and execute the command below:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `msdt.exe -id DeviceDiagnostic`
 
@@ -67,11 +67,11 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 4. Scroll down to locate the Keyboard and then click**Run** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, try using the brightness function key again to see if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update the Keyboard Driver
 
@@ -84,7 +84,16 @@ To update the keyboard driver, follow these steps:
 3. Expand**Keyboards** , then right-click on your current keyboard driver and select**Update driver** .  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 4. Next, click**Search automatically for drivers** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process. Once you've done this, restart your computer and check if the issue is resolved.
 
@@ -98,7 +107,7 @@ To update the keyboard driver, follow these steps:
  After performing the above steps, restart your computer to reinstall the drivers. Once you power up again, check if the function key works now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn Off the Filter Keys
@@ -114,11 +123,11 @@ To update the keyboard driver, follow these steps:
 ![Turn on Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-filter-keys.jpg)
 5. Click**Apply** and then**OK** .
 
-Now check if your keyboard is working properly.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Now check if your keyboard is working properly.
 
 ## 8\. Scan for Malicious Programs
 
@@ -130,19 +139,11 @@ Now check if your keyboard is working properly.
 
  This should help you fix the issue of your keyboard not functioning properly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Switch to a Different Keyboard
 
  Sometimes the problem is not others but the keyboard itself. It could have defective keys or some other hardware issue preventing it from functioning correctly; in that case, try using your device on another computer or laptop to be sure that the problem is not the operating system or software.
 
  If you find that your keyboard is the issue, then it’s time to replace it with a new one or get it repaired.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make Use of the Function Key Again on Windows
 
@@ -163,22 +164,24 @@ Now check if your keyboard is working properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-bottom-line-gear-collect-all-these-trendsetting-tools-to-win-in-business/"><u>[New] In 2024, Bottom Line Gear Collect All These Trendsetting Tools to Win in Business</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-visual-victory-a-guide-to-speed-up-picture-perfection-in-windows/"><u>[New] In 2024, Visual Victory A Guide to Speed Up Picture Perfection in Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-screen-capture-showdown-bandicam-vs-camtasia-battle/"><u>[New] Screen Capture Showdown Bandicam Vs Camtasia Battle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/darkschemetoggleinwindowsnotepadapp/"><u>DarkSchemeToggleInWindowsNotepadApp</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-on-the-go-music-file-changing-change-your-m4a-tracks-into-mp3s-without-spending-a-penny-online/"><u>Effortless On-the-Go Music File Changing: Change Your M4A Tracks Into MP3s Without Spending a Penny Online</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-dilemma-of-non-functional-microphones-in-google-hangouts/"><u>Fixing the Dilemma of Non-Functional Microphones in Google Hangouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harness-the-power-of-your-windows-11-to-create-vibrant-ai-images-with-paint-tool-sai/"><u>Harness the Power of Your Windows 11 to Create Vibrant AI Images with Paint Tool SAI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-dispel-geforce-now-error-xc0f1103f-in-win11/"><u>How to Dispel GeForce Now Error Xc0f1103f in Win11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-kinemaster-rises-a-comprehensive-android-game-guide-2023/"><u>In 2024, KineMaster Rises A Comprehensive Android Game Guide 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-to-the-past-unlocking-vintage-pc-experiences/"><u>Key to the Past: Unlocking Vintage PC Experiences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-0xc00d36b4-sound-problem-in-win11/"><u>Overcoming 0xC00D36B4 Sound Problem in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-your-favorite-windows-extras-in-7-simple-steps/"><u>Regain Your Favorite Windows Extras in 7 Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-your-files-ditching-onedrive-on-windows-11/"><u>Simplifying Your Files: Ditching OneDrive on Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ifferences-between-standard-and-premium-youtube-viewing-for-2024/"><u>The Differences Between Standard and Premium YouTube Viewing for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transparency-for-hidden-menu-items-on-windows-11/"><u>Transparency for Hidden Menu Items on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172356979-unleash-gaming-with-chatgpt-experience-our-best-6/"><u>Unleash Gaming with ChatGPT - Experience Our Best 6</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-compatible-zebra-printer-drivers-download-and-updates-guide/"><u>Windows-Compatible Zebra Printer Drivers: Download and Updates Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-the-positive-side-of-engaging-with-asmr-for-2024/"><u>[New] Exploring The Positive Side of Engaging with ASMR for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-art-of-echo-chambers-hits-that-amplify-on-fb/"><u>[New] In 2024, The Art of Echo Chambers Hits that Amplify on FB</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-key-practices-for-screen-recording-on-phones/"><u>[Updated] In 2024, Key Practices for Screen Recording on Phones</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-correcting-system-service-malfunctions-in-windows-11-for-smooth-operation/"><u>Diagnosing and Correcting System Service Malfunctions in Windows 11 for Smooth Operation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enforcing-restrictions-on-insider-beta-access/"><u>Enforcing Restrictions on Insider Beta Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-intel-unison-error-on-windows-11/"><u>Fixing Intel Unison Error on Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211065233-9789359392189-gleanings-of-a-mystic/"><u>Gleanings Of A Mystic | Free Book</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-8-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 8 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-no-drivers-detected-error-in-new-os-install/"><u>How To Overcome No Drivers Detected Error in New OS Install</u></a></li>
+<li><a href="https://win-blog.techidaily.com/identifying-and-marking-discrepancies-between-rows-using-microsoft-excel/"><u>Identifying and Marking Discrepancies Between Rows Using Microsoft Excel</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevating-social-interactions-a-complete-gif-guide-for-snapchat-users/"><u>In 2024, Elevating Social Interactions A Complete Gif Guide for Snapchat Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-atmosphere-leading-windows-11-weather-apps/"><u>Navigating the Atmosphere: Leading Windows 11 Weather Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-error-fixing-the-stranded-phenomenon-in-windows/"><u>Overcoming Xbox Error: Fixing the ‘Stranded’ Phenomenon in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-your-packaging-skills-the-art-of-sefx-in-win11/"><u>Perfect Your Packaging Skills: The Art of SEFx in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivate-winget-in-a-click-for-windows-11/"><u>Reactivate Winget in a Click for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-settle-into-mobile-with-one-click-apk-installations-on-w11/"><u>Swiftly Settle Into Mobile with One Click APK Installations on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-offline-windows-update-handbook/"><u>The Offline Windows Update Handbook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-zte-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your ZTE Device</u></a></li>
 </ul></div>
 

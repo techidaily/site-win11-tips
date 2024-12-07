@@ -1,7 +1,7 @@
 ---
 title: "Conquering FS Issues: A Win11 Manual Approach"
-date: 2024-11-22T18:03:17.602Z
-updated: 2024-11-27T17:04:14.737Z
+date: 2024-12-01T22:55:34.962Z
+updated: 2024-12-06T16:32:02.766Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the SFC and DISM Command Line Tools
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
  Our guide on[how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to initiate an SFC scan. You can also run a Deployment Image Servicing Management scan in the Command Prompt before or after running the SFC tool. To do so, you’ll need to execute the following command:
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan Your Hard Drive
 
@@ -49,15 +53,7 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk.jpg)
 5. Exit the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Store App Troubleshooter
 
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
@@ -90,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 7. Click**OK** to close the Windows License Manager Service Properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Any Affected App
@@ -101,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
 ## 6\. Set Up a New Local User Account on Windows
@@ -114,6 +106,14 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
  Our guide on[how to fix Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes full instructions for how to apply this solution.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
 
@@ -150,18 +150,18 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-unleashing-brand-potential-with-essential-phrases/"><u>[New] 2024 Approved Unleashing Brand Potential with Essential Phrases</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebooks-recent-views-uncovered-for-you/"><u>[Updated] In 2024, Facebook’s Recent Views Uncovered for You</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-7-best-vocal-modification-software-on-the-market/"><u>2024 Approved 7 Best Vocal Modification Software on the Market</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/cross-monitors-data-synthesis-for-2024/"><u>Cross-Monitors Data Synthesis for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-expression-activating-newest-emojis-in-win11/"><u>Enhance Expression: Activating Newest Emojis in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enhance-dedicated-system-ram-for-graphic-tasks/"><u>How to Enhance Dedicated System RAM for Graphic Tasks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g04-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G04 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-samsung-flow-to-connect-your-windows-pc-and-galaxy-phone/"><u>How to Use Samsung Flow to Connect Your Windows PC and Galaxy Phone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalize-and-organize-win11-desktop-quickly/"><u>Personalize & Organize Win11 Desktop Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-control-of-windows-timers-beat-failures/"><u>Regain Control of Windows Timers, Beat Failures</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-insiders-handbook-for-instagram-video-woes-for-2024/"><u>The Insider’s Handbook for Instagram Video Woes for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-power-settings-save-charges/"><u>Understanding Power Settings - Save Charges!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-10-slow-shutdown-issue/"><u>[Solved] Windows 10 Slow Shutdown Issue</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-sound-enthusiasts-companion-high-quality-recording-tips/"><u>[Updated] The Sound Enthusiast's Companion High-Quality Recording Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/complete-evaluation-the-dji-inspire-1-unveiled/"><u>Complete Evaluation The DJI Inspire 1 Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/could-vince-lucidos-edgy-evga-rtx-3090-kingpin-dethrone-dominant-rtx-gpus-in-gaming-realms/"><u>Could Vince Lucido's Edgy EVGA RTX 3090 'Kingpin' Dethrone Dominant RTX GPUs in Gaming Realms?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-save-configuration-flaw-pubg-on-windows/"><u>Fixing the Save Configuration Flaw: PUBG on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-huawei-nova-y71-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Huawei Nova Y71 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ifa-showcase-cutting-edge-laptops-of-2023/"><u>IFA Showcase: Cutting-Edge Laptops of 2023</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695305-in-depth-review-of-the-rode-streamer-x-fulfill-your-live-broadcast-needs/"><u>In-Depth Review of the Rode Streamer X: Fulfill Your Live Broadcast Needs!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rediscovering-the-missing-tab-button-on-your-laptop/"><u>Rediscovering the Missing Tab Button on Your Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-solving-system-call-fails-in-windows-1011/"><u>Strategies for Solving 'System Call Fails' In Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-vintage-video-games-adding-trophies-via-retroarch/"><u>The Art of Vintage Video Games - Adding Trophies via Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-comprehensive-walkthrough-of-microsoft-works-in-w11/"><u>The Comprehensive Walkthrough of Microsoft Works in W11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-truth-understanding-false-virus-warnings-and-top-5-strategies-to-prevent-them/"><u>Unveiling the Truth: Understanding False Virus Warnings & Top 5 Strategies to Prevent Them</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Back to Windows' Original Style
-date: 2024-11-22T16:33:51.874Z
-updated: 2024-11-27T17:22:55.392Z
+date: 2024-12-04T19:30:45.552Z
+updated: 2024-12-06T22:11:26.291Z
 tags:
   - windows10
   - windows11
@@ -35,17 +35,13 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 ![The View by menu in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/view-by-menu.jpg)
 4. Then click the **Up to “Desktop”** button (up arrow) button on the Control Panel’s navigation bar. Alternatively, press the **Alt + Up arrow key** keyboard shortcut.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Up to Desktop button in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/up-button.jpg)
 
- Now you’ll see the classic File Explorer from Windows 10 that incorporates a tab bar. You’ll always need to open the Control Panel first to access classic File Explorer through it. So, consider [setting up a Control Panel shortcut](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) in Windows 11 to give you more direct access.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now you’ll see the classic File Explorer from Windows 10 that incorporates a tab bar. You’ll always need to open the Control Panel first to access classic File Explorer through it. So, consider [setting up a Control Panel shortcut](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) in Windows 11 to give you more direct access.
 
 ## 2\. Manually Edit the Registry
 
@@ -58,26 +54,34 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-key-option.jpg)
 4. Input **Blocked** to create that key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right-click the **Blocked** key and select **New** \> **String Value**.
 6. Input **{e2bf9676-5f8f-435c-97eb-11607a5bedf7**} in the new string’s text box. You can copy and paste that string name in by selecting its text, pressing **Ctrl** \+ **C**, and then pressing **Ctrl** \+ **V**.  
 ![The string value for restoring File Explorer's ribbon UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-string-value.jpg)
 7. Then you'll need to [restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) or Windows 11 for the registry tweak to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now press the **File Explorer** taskbar button to see the change. Or open that file manager app with any other method you prefer to [open File Explorer on Windows](https://www.makeuseof.com/windows-open-file-explorer/). The File Explorer that opens will have the tabbed ribbon interface from Windows 10\.
 
 ![The tabbed ribbon interface in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-tabbed-ribbon-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you ever want to go back to the original command bar, delete the string you added. To do so, right-click **{e2bf9676-5f8f-435c-97eb-11607a5bedf7}** within the **Blocked** key and select **Delete**. Click **Yes** when asked to confirm deletion.
 
 ![The Delete option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Execute a Registry Command via Command Prompt
 
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
 ![The Disable rounded corners option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-rounded-corners-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows 11’s File Explorer also has a redesigned context menu. You can disable that new right-click menu by clicking the **Disable the Windows 11 context menu** option on the **File Explorer** tab. Then right-clicking a file in Explorer will show only the classic context menu, as in Windows 10\.
 
 ## Restore a Tabbed User Interface in Windows 11's File Explorer
@@ -131,21 +131,6 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
  Do you prefer the tabbed File Explorer in Windows 10? If so, you don’t have to stick with File Explorer’s command bar in Windows 11\. This is how you can restore Explorer’s classic ribbon interface on a Windows 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-non-vimeo-powerhouses-for-video-content-creation-for-2024/"><u>[Updated] Non-Vimeo Powerhouses for Video Content Creation for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-nubia-red-magic-8s-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Nubia Red Magic 8S Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-code-0x800f0831-error-in-modern-windows/"><u>Fixing Code 0X800F0831 Error in Modern Windows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-final-cut-pro-offers-users-multiple-options-to-adjust-video-speed-easily-including-timelapse/"><u>New In 2024, Final Cut Pro Offers Users Multiple Options to Adjust Video Speed Easily, Including Timelapse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-to-rejuvenate-your-qbittorrent-status/"><u>Quick-Fix Guide to Rejuvenate Your qBittorrent Status</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-remote-play-issue-in-windows/"><u>Resolving Remote Play Issue in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-camera-app-crash-code-afc-error/"><u>Resolving Windows 11'S Camera App Crash: Code AFC Error</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/streamlined-iphone-snapchat-linkage-for-photographs-and-memories-for-2024/"><u>Streamlined iPhone-Snapchat Linkage for Photographs & Memories for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-top-ranking-vpns-for-gamers-fully-tested-by-pros-insights-from-zdnet/"><u>Ultimate Guide: Top-Ranking VPNs for Gamers, Fully Tested by Pros - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-does-aggregatorhostexe-do-on-windows-os-safety-analysis/"><u>What Does AggregatorHost.exe Do on Windows OS? Safety Analysis</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -153,3 +138,19 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-capture-tool-for-windows-10-professional/"><u>[Updated] 2024 Approved Ultimate Capture Tool for Windows 10 - Professional</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-navigating-video-data-in-high-capacity-drives-64128gb/"><u>[Updated] In 2024, Navigating Video Data in High-Capacity Drives (64/128GB)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-essay-artistry-on-a-win-pc/"><u>Elevate Your Essay Artistry on a Win-PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-custom-settings-with-new-view-restores/"><u>Reclaiming Custom Settings with New View Restores</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/share-your-video-vision-youtube-to-facebook-guide-2024/"><u>Share Your Video Vision YouTube to Facebook Guide 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-usb-connection-issues-on-your-pc-running-windows-10-or-11/"><u>Solving USB Connection Issues on Your PC Running Windows 10 or 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quickest-way-to-a-speedy-windows-11-start-up/"><u>The Quickest Way to a Speedy Windows 11 Start-Up</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-tecno-pop-7-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unison-to-win-mastering-phone-calls-on-windows-11-for-retailers/"><u>Unison to Win: Mastering Phone Calls on Windows 11 for Retailers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-meaning-of-meta-in-video-games/"><u>Unraveling the Meaning of 'Meta' In Video Games</u></a></li>
+</ul></div>
+

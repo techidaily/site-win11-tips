@@ -1,0 +1,154 @@
+---
+title: Eradicating Unauthorized Windows Server Error
+date: 2024-12-02T16:04:19.037Z
+updated: 2024-12-06T17:30:25.110Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Eradicating Unauthorized Windows Server Error
+excerpt: This Article Describes Eradicating Unauthorized Windows Server Error
+keywords: Stop Unauthorized Windows Errors,Remove Illegal Windows Servers,Eradicate Erroneous Windows OS,Eliminate Rogue Windows Installation,Prevent Unlawful Windows Server,Curbing Illicit Windows Issues,Terminate Incorrect Windows System
+thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c102001532905c0076072bec26.jpg
+---
+
+## Eradicating Unauthorized Windows Server Error
+
+ Have you encountered the "Forbidden: you don't have permission to access / on this server" error when visiting a specific website on Windows? There are two possible origins of this error: your browser or the server where the website you want to visit is hosted.
+
+ How can we determine what is causing this error and fix it? In this article, we'll examine the reasons behind this error and suggest fixes to prevent it from occurring again.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Why Does the “You Don’t Have Permission to Access / On This Server” Error Occur?
+
+ The major causes of the "you don't have permission to access / on this server" include a server-side issue with the website you are trying to access, interference from the browser's cache and cookies, a website not being accessible in your geographical location, an interference from your ISP or merely using a proxy server on your Windows device.
+
+ To fix the "you don't have permission to access / on this server" issue on your browser, you need to clear the browser's cache and cookies, enable or disable a VPN, change the DNS, delete your browser history, or disable any proxy network you're using. There may also be a need to reset or reinstall the browser if the major fixes do not work.
+
+## First, Rule Out Server-Side Issues
+
+ First, you should verify that the problem isn't coming from the server that hosts the website or webpage you're trying to access. To eliminate this possibility, use another browser on your device and try accessing the website again.
+
+ If you experience the same issue on another browser, use a different device at home and revisit the same webpage or website. If you encounter the same error, connect your primary device to a different internet connection to rule out a problem with the network connection.
+
+* If the error does not appear when you connect to another internet connection, it's a problem with your network connection.
+* If changing your browser alone fixes the issue on your primary device, apply the browser-related fixes.
+* If you encounter the same error on another laptop, even when connected to a different internet connection, it is likely a server-side issue, so you should wait until the administrator fixes it.
+
+ Once you're confident there is no server-side issue, apply the appropriate fixes.
+
+## Next, Apply Preliminary Checks
+
+ First, apply the following preliminary checks before attempting any of the fixes below:
+
+1. Restart your browser.
+2. Restart your Windows device.
+3. Turn off your router, wait a few minutes, and then turn it back on.
+4. Reconnect your device to the internet after disconnecting the network connection.
+
+ If the above preliminary checks do not help, proceed to the main fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Fix Browser-Specific Issues
+
+ If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
+
+### 1\. Clear the History, Cache, and Cookies on Your Browser
+
+![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
+
+ Image Credit: Faithie/Depositphotos
+
+ Piled-up browsing history and cache overflow could be the primary causes of the error we're discussing. Thus, to fix the "you don't have permission to access / on this server" error, you should first clear your browser's browsing history, cache, and cookies.
+
+ We have guides on clearing browsing data in[Chrome](https://www.makeuseof.com/clear-browsing-data-google-chrome/) ,[Firefox](https://www.makeuseof.com/clear-cache-firefox/) , and[Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) . When clearing the data, check the boxes for cache and cookies too. If you're using another browser, refer to its official website for instructions about cleaning it up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 2\. Reset Your Browser
+
+![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Did you recently change your browser settings and then encounter the error? If so, you should revert the changes. To do this, you should reset your browser. A browser reset restores all customizations and changes to the default.
+
+ Every browser has a different reset process. For the most-used browsers, we have a guide on[how to reset Chrome and Firefox](https://www.makeuseof.com/tag/reset-chrome-firefox/) . If you are using a different browser, refer to the official guidelines provided by that particular browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Fix Network Related Issues
+
+ If changing the network connection fixes the problem on your device, and you want to use your primary network, then apply these fixes:
+
+### 1\. Disable or Enable Your VPN
+
+ First, ensure that the website's server hasn't blocked your IP address. Enabling a VPN connection is the best way to do this. With a VPN connection, you can mask your real IP address, which might be blocked on the website where this error occurs. It also helps you eliminate the possibility of specific content being unavailable in your area.
+
+ So, enable a VPN on your browser or run the VPN app on your Windows device and see if it works. If it does, enable VPN every time you visit this website. Also, if you are accessing the content with a VPN enabled, you should either disable it or switch to a different VPN to ensure your masked IP address hasn't been blocked.
+
+Proceed to the next step if either of these changes does not help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 2\. Change Your DNS
+
+ Sometimes your ISP blocks you from accessing certain types of web content. If the site you're accessing also falls under the blocked content, you'll likely encounter errors. Changing your DNS can help eliminate this possibility. If you're unfamiliar with the process, check out[our guide on how to change DNS in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
+
+### 3\. Disable Any Proxy Servers You Are Using
+
+![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
+
+ Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
+
+## Ensure the Firewall Isn't Causing the Problem
+
+ The Windows firewall or antivirus can prevent you from accessing specific URLs. To prevent that from happening, whitelist the browser in firewall settings. Don't know where to begin? Check out our guide on[how to whitelist any app through a Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
+
+## Fix Annoying Browser Errors on Windows
+
+ Random errors can upset us when accessing our favorite content. Hopefully, after applying the fixes in this article, you should be able to fix the annoying "you don't have permission to access / on this server" error. If the error persists on your default browser, you should switch to another browser and make it your default.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-precision-screensaver-for-chromebooks/"><u>[Updated] 2024 Approved Precision Screensaver for Chromebooks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-video-features-youtube-annotations-guide/"><u>2024 Approved Streamlining Video Features YouTube Annotations Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciding-on-nearby-transfer-google-vs-windows-options/"><u>Deciding on Nearby Transfer: Google Vs. Windows Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-top-7-secure-windows-applications-153-chars/"><u>Exclusive Guide to Top 7 Secure Windows Applications (153 Chars)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-hp-network-card-drivers-for-pcs-running-windows-1078/"><u>How to Get the Latest HP Network Card Drivers for PCs Running Windows 10/7/8</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-100-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor 100 Pro? Try These Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-windows-11-hdmi-via-driver-rejuvenation/"><u>Optimizing Windows 11 HDMI via Driver Rejuvenation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-unwanted-launch-of-snipping-tool-via-print-screen-in-win-11/"><u>Prevent Unwanted Launch of Snipping Tool via Print Screen in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-drag-recover-lost-functionality-fast/"><u>Win11 Drag: Recover Lost Functionality Fast</u></a></li>
+</ul></div>
+

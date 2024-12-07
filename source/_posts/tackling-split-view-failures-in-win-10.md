@@ -1,7 +1,7 @@
 ---
 title: Tackling Split View Failures in Win 10
-date: 2024-08-28T01:10:52.649Z
-updated: 2024-08-29T01:10:52.649Z
+date: 2024-12-03T17:24:52.438Z
+updated: 2024-12-06T23:59:34.445Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 
  Split screen is convenient for multitasking on Windows computers. You use this feature to compare and copy data between two or more programs or windows simultaneously. But what if this feature stops working? This article discusses how to fix split screen problems on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes Split Screen to Not Work?
 
  Before you troubleshoot, you must understand why the split screen isn't working. Some of the most common reasons include.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 
  Now that you know the potential causes of the split screen not working, let’s look at how to resolve it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try Some Generic Fixes
 
  Before we jump into more complicated fixes, it's worth trying out some basic ones that typically fix Windows errors like this.
@@ -39,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 3. You can also [perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) to resolve split screen problems. This method starts Windows with a minimum set of drivers and programs. If this works, it means a driver or program you installed recently is causing the problem; uninstall the culprit and try again.
 4. If the split screen still doesn't work, update your graphics driver. Outdated drivers usually cause conflicts and lead to problems such as split screen not working. To do that, check out [how to update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 2\. Make Sure "Snap Windows" Is Enabled
 
  It's possible that you accidentally disabled split screen features in your system settings. If so, tweak the Windows settings and turn on the service. Here's how to do it:
@@ -51,15 +56,9 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 3. On the next page, turn on **Snap windows**.  
 ![Enable Snap windows in Multitasking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-snap-windows-in-multitasking.jpg)
 4. Now click the down arrow key and ensure all the checkboxes are selected.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After making these changes, close the Settings window and check if it solves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 3\. Check Your Display Settings
 
  If updating the driver doesn't work, review your display settings. Sometimes, split screen issues come about when the display resolution is not set correctly. In this situation, adjust Windows resolution and check if it resolves the problem.
@@ -67,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
  To get started, [open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and navigate to **System** \> **Display**. In the right pane, scroll down to the **Scale & layout** section.
 
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
 
@@ -82,16 +85,15 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 4. Once you find the process, right-click on it and select **End task**. This will terminate the Windows Explorer process.  
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restart-windows-explorer.jpg)
 5. Now click **Run new task** at the top of the Task Manager window.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Type **explorer.exe** in the Open field and click **OK**. This will start a new Windows Explorer instance.
 
  After restarting Windows Explorer, try split screen again and see if it works now.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Uninstall Third-Party Software
 
  If you have any third-party software or applications that manage Windows or screen layouts, uninstall them temporarily. Sometimes these programs interfere with Windows split-screen functionality and cause the issue.
@@ -116,14 +118,12 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
  Similarly, press **Win + Up Arrow** or **Down Arrow** to snap windows into a quarter-screen size, allowing you to have four windows open simultaneously.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Manage Apps and Tasks Simultaneously to Enhance Your Productivity on Windows
 
  Whether it’s for work or leisure, a split screen can make all the difference in multitasking. Now that you know how to fix split screen problems on Windows, you can manage your apps and tasks simultaneously easily.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +131,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-critical-look-at-itop-for-tech-enthusiasts/"><u>[New] A Critical Look at ITop for Tech Enthusiasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-exploring-top-tier-no-cost-webm-video-streamers-for-browsers/"><u>[Updated] 2024 Approved Exploring Top-Tier, No-Cost WebM Video Streamers for Browsers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-seamless-audio-transitions-in-audacity/"><u>[Updated] Mastering Seamless Audio Transitions in Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edges-steady-presence-insight-for-win11-users/"><u>Edge's Steady Presence: Insight for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-win11s-sticky-features-a-multi-device-approach/"><u>Harnessing WIN11'S Sticky Features: A Multi-Device Approach</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-for-streamlining-the-windows-11-taskbar-experience/"><u>Top Tips for Streamlining the Windows 11 Taskbar Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/sh-potential-best-gaming-content-to-elevate-your-channel-for-2024/"><u>Unleash Potential Best Gaming Content to Elevate Your Channel for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-friendly-guide-convert-mkv-to-mp4-quickly/"><u>Win-Friendly Guide: Convert MKV to MP4 Quickly</u></a></li>
+</ul></div>
+

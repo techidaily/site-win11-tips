@@ -1,7 +1,7 @@
 ---
 title: How Does Compatibility Mode Work Within the Microsoft Office Suite? Exploring Its Functions and Uses
-date: 2024-08-28T01:07:43.909Z
-updated: 2024-08-29T01:07:43.909Z
+date: 2024-12-03T20:45:54.087Z
+updated: 2024-12-06T21:01:42.609Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016
 ---
 
 ## How Does Compatibility Mode Work Within the Microsoft Office Suite? Exploring Its Functions and Uses
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,21 +41,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/img_5743935fd3133.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Find Out Which Compatibility Mode a Document Is Using
 
  You can find out which Compatibility Mode a document is in. To do so, open a document that's in Compatibility Mode and click File > Info > Check for Issues > Check Compatibility.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/img_57439393f2876.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Click the "Select Version to Show" box. The version with a check mark next to it is the Compatibility Mode the document is currently using.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/img_574393b890be5.png) 
@@ -59,8 +57,9 @@ No advertising on the website.
  In the screenshot above, the document is in Word 2010 Compatibility Mode, which likely means it was created by Word 2010.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Update a Document and Leave Compatibility Mode
 
  To get a document out of Compatibility Mode, open it in the appropriate Office application and click File > Info > Convert. This will convert the older document to a modern type of Office document.
@@ -69,9 +68,6 @@ No advertising on the website.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/img_574393e794cc8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  You'll be warned that your document could undergo minor layout changes. You probably won't even notice them unless your document has complex custom formatting.
 
  After you agree, "Compatibility Mode" will vanish from the title bar. You may want to quickly look through the document to confirm that there are no layout changes you need to fix. You can now save the document, and it'll be saved as a modern Office document. It will no longer open in Compatibility Mode.
@@ -79,9 +75,9 @@ No advertising on the website.
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/img_5743941839aa7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What To Do If New Documents Are in Compatibility Mode
 
  If every document you create is in Compatibility Mode, your Office application is likely set to create documents in an older file format.
@@ -93,9 +89,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/img_57439465a2960.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  You don't need to go through your documents one by one updating them. They'll just work fine, and you won't even notice a difference unless you try to use a feature that doesn't work in Compatability Mode. If you try to use a feature and aren't allowed to do so, you'll be told you need to convert the document to access that feature, and you can do so then.
@@ -106,8 +102,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +109,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-tips-effective-screenrec-usage-on-laptops-for-2024/"><u>[New] Essential Tips Effective ScreenRec Usage on Laptops for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-surveying-with-style-instagrams-polling-protocols-explained/"><u>[New] In 2024, Surveying with Style Instagram's Polling Protocols Explained</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-free-tool-for-tiktok-to-mp4-conversion/"><u>[Updated] Free Tool for TikTok to MP4 Conversion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-simplified-steps-for-snapchat-lens-design/"><u>[Updated] Simplified Steps for Snapchat Lens Design</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-timeless-treasures-the-premier-compiler-and-preserver-for-tweeter-visuals-for-2024/"><u>[Updated] Timeless Treasures The Premier Compiler & Preserver for Tweeter Visuals for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-interest-with-budget-friendly-youtube-video-intros/"><u>Building Interest with Budget-Friendly YouTube Video Intros</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-faceoff-evaluating-which-ai-excels-at-coding-chatgpt-versus-gemini-challenge/"><u>Chatbot Faceoff: Evaluating Which AI Excels at Coding - ChatGPT Versus Gemini Challenge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-inactive-windows-media-player-sounds/"><u>Dealing with Inactive Windows Media Player Sounds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-features-of-the-latest-cycwagen-electric-bike-a-hands-on-review/"><u>Discover the Features of the Latest CycWagen Electric Bike - A Hands-On Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-task-management-in-windows-11/"><u>Enhancing Task Management in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-text-accessibility-incorporating-wordpad-triggers-in-windows-11/"><u>Improving Text Accessibility: Incorporating WordPad Triggers in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insights-into-ps5-slim-release-timeline-cost-and-technical-specifications/"><u>Insights Into PS5 Slim Release Timeline, Cost, and Technical Specifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-fixed-zip-files-in-win-11/"><u>Step-by-Step Guide to Fixed ZIP Files in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-revive-a-non-responsive-control-panel/"><u>Strategies to Revive a Non-Responsive Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sweep-away-sluggish-entry-beat-delay-in-win-11-with-these-solutions/"><u>Sweep Away Sluggish Entry: Beat Delay in Win 11 with These Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synergy-of-data-windows-1011-file-management/"><u>Synergy of Data: Windows 10/11 File Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-windows-11-screensaver-preferences/"><u>Tailoring Your Windows 11 Screensaver Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trick-to-transition-from-regular-user-immediately/"><u>Trick to Transition From Regular User Immediately</u></a></li>
+</ul></div>
 

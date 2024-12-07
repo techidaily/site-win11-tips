@@ -1,7 +1,7 @@
 ---
 title: Ensuring Proper Installation of Windows 11
-date: 2024-11-26T16:42:21.800Z
-updated: 2024-11-27T16:33:16.323Z
+date: 2024-12-03T20:17:51.077Z
+updated: 2024-12-06T23:24:43.289Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Check Windows 11's Activation State Using the Settings App
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 ![Check Activation Status on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-activation-status-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the status reads**Active** , it means your Windows 11 copy is activated. On the other hand, if the status displays**Not active** , it implies that the copy of your Windows 11 is not yet activated.
@@ -55,15 +55,7 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 
 ![Check Windows Activation Status via Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Is your Windows 11 PC not showing the correct activation status despite using a genuine license key? Check our guide on[how to fix the activation key not working issue in Windows 11](https://www.makeuseof.com/windows-11-activation-key-not-working/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Check Windows 11 Activation State via the Run Command
 
@@ -76,10 +68,14 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 3. You should see a**Windows Script Host** dialog box that’ll convey whether your copy of Windows 11 is activated or not.  
 ![Check Windows Activation Status via Run Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-run-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can run the**slmgr.vbs /dlv** command to check the activation status along with other important details such as activation ID, partial product key, and so on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Check Windows 11 Activation State With Command Prompt or PowerShell
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 2. In the console, type**slmgr /xpr** and press**Enter** .
 3. In the dialog box, check Windows 11’s activation status. If your machine is not activated, you should see the**Windows is in notification mode** message.  
 ![Check Windows Activation Status via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Like interacting with your machine via Command Prompt? Here are some[fun Command Prompt tricks](https://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
 
@@ -116,20 +116,20 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-techniques-for-photo-based-tileworks/"><u>[New] Exploring Techniques for Photo-Based Tileworks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-six-innovative-approaches-for-recording-and-storing-mov-files-on-windows-11/"><u>[Updated] Six Innovative Approaches for Recording and Storing MOV Files on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bing-chat-vs-chatgpt-for-freelancers-understanding-the-key-differences-and-what-matters-most/"><u>Bing Chat vs ChatGPT for Freelancers: Understanding the Key Differences and What Matters Most</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-6s-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 6s After Forgetting the Passcode?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-10-routes-to-windows-network-connection-settings/"><u>Exploring 10 Routes to Window's Network Connection Settings</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-capabilities-of-the-affordable-rexing-v1-dashcam-the-perfect-blend-of-quietness-and-trustworthiness/"><u>Exploring the Capabilities of the Affordable Rexing V1 DashCam: The Perfect Blend of Quietness and Trustworthiness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-connect-without-a-default-browser-on-win/"><u>How to Connect Without a Default Browser on Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-windows-subsystem-for-linux/"><u>How to Enable Windows Subsystem for Linux</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-device-connection-with-windows-11s-phones/"><u>Mastering Device Connection with Windows 11'S Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/software-environment-setup/"><u>Software Environment Setup</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solving-windows-10-network-problems-update-and-fix-ethernet-drivers-with-ease/"><u>Solving Windows 10 Network Problems: Update and Fix Ethernet Drivers with Ease</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essential-blueprint-for-melding-linktree-into-tiktok-profiles/"><u>The Essential Blueprint for Melding Linktree Into TikTok Profiles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tighten-up-yuzu-loading-screens-wins-style/"><u>Tighten Up Yuzu Loading Screens, WINs Style</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-volume-woes-simple-tips-to-restore-your-computers-sound/"><u>Windows 10 Volume Woes? Simple Tips to Restore Your Computer's Sound</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-arm-setup-iso-file-to-desktop-conversion-explained/"><u>Windows 11 ARM Setup: ISO File to Desktop Conversion Explained</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-audacitys-guide-to-fading-sounds-invisibly/"><u>[New] 2024 Approved Audacity's Guide to Fading Sounds Invisibly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-amplify-visual-appeal-in-tiktok-clips/"><u>[New] Amplify Visual Appeal in TikTok Clips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-listening-experience-by-increasing-volume-on-windows-11/"><u>Enhance Your Listening Experience by Increasing Volume on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-repairing-windows-11s-media-app-failures/"><u>Expert Advice on Repairing Windows 11'S Media App Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-11s-development-environment-a-guide-to-dev-drive/"><u>Exploring Windows 11'S Development Environment: A Guide to Dev Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-emulate-macos-layout-in-windows-top-5-strategies/"><u>How to Emulate macOS Layout in Windows: Top 5 Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-tiworkerexe-high-cpu-usage-in-windows/"><u>How to Fix a TiWorker.exe High CPU Usage in Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-narzo-n53-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme Narzo N53?</u></a></li>
+<li><a href="https://facebook.techidaily.com/improved-account-safety-receive-instagram-codes-on-whatsapp/"><u>Improved Account Safety: Receive Instagram Codes on WhatsApp</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-edge-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-pro-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 Pro 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innocent-looking-software-uncovered-for-windows-11-speed-drop/"><u>Innocent-Looking Software Uncovered for Windows 11 Speed Drop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-time-to-switch-a-detailed-comparison-between-iphone-16-pro-and-iphone-14-pro-for-informed-consumers-expert-analysis-by-zdnet/"><u>Is It Time to Switch? A Detailed Comparison Between iPhone 16 Pro and iPhone 14 Pro for Informed Consumers | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-no-more-restore-functional-slack-notifications-in-win-11/"><u>Silent No More! Restore Functional Slack Notifications in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-procedure-to-move-onedrive-directly-in-windows/"><u>Unveiling the Procedure to Move OneDrive Directly in Windows</u></a></li>
 </ul></div>
 

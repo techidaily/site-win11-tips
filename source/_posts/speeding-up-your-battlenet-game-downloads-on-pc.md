@@ -1,7 +1,7 @@
 ---
 title: Speeding Up Your Battle.net Game Downloads on PC
-date: 2024-08-28T01:11:26.075Z
-updated: 2024-08-29T01:11:26.075Z
+date: 2024-12-02T22:32:32.074Z
+updated: 2024-12-06T16:45:31.321Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,9 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
  Furthermore, make sure that the Efficiency mode isn't configured for Battle.net. The efficiency mode decreases the priority of an application. To get more information about efficiency mode and the steps to disable it, check out our[guide on efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/#how-to-enable-or-disable-efficiency-mode) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Turn Off Windows' Metered Connection
 
  Windows has a metered connection feature that lets you control your bandwidth usage. This feature is mainly designed to save data, especially if you're under a data cap. It also affects how an app uses the available bandwidth.
@@ -62,15 +62,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  That's it. Restart Battle.net, and check if there's any improvement in the download speed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Troubleshoot Your Connection
 
  A weak internet connection might be affecting Battle.net's download speed. You can confirm this by testing your connection speed by visiting any of the[best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
  If you're getting a comparatively lower download speed, check out our guide on[how to improve your internet connection](https://www.makeuseof.com/how-to-improve-internet-speed/) . If this helps improve your internet connection, try downloading games on Battle.net. But if there's no improvement in your connection, contact your internet service provider (ISP).
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Any Proxy Server Connection
 
  A[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) ensures that you're safe and protected online. But on the negative side, it can make the connection unstable and slow down the download speed.
@@ -83,9 +84,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Click the**LAN settings** option and uncheck the**Use** **a proxy server for your LAN** box.  
 ![Turn off proxy on Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Turn-off-proxy.jpg)
 5. Save the changes by clicking the**OK** button.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 5\. Download the Latest Network Driver Updates
 
@@ -98,8 +96,9 @@ To update the network driver update, follow the below instructions:
 3. Right-click on the installed network adapters and select**Update driver.**  
 ![Update Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Update-Network-Drivers-on-Windows.jpg)
 4. Choose**Search automatically for drivers.**
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows will now look for and download the latest network driver update. If it finds nothing, search for the network adapter's manufacturer's official website for drivers instead.
@@ -116,6 +115,10 @@ After that, restart your computer and check for the issue again.
 ![Blizzard Folder in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Blizzard-Folder.jpg)
 4. Choose the**Delete** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Flush the DNS Cache
 
  Flushing the DNS cache is another effective way to improve the download speed in Battle.net. You can do this by following the below instructions:
@@ -126,9 +129,6 @@ After that, restart your computer and check for the issue again.
 
  After flushing the DNS cache, restart your computer and check for the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 8\. Reset the Network Settings
 
  Is there still no improvement in Battle.net download speed? Probably there's something wrong with your current network settings.
@@ -142,8 +142,9 @@ You can fix this by resetting the network settings. Here's how:
 4. Click**Yes** to the prompt that appears to confirm your selection.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Improve Your Battle.net Download Speed
 
  Nobody loves to wait for several hours to download their favorite games on Battle.net. Fortunately, you can fix the slow download speed on Battle.net by following the above fixes.
@@ -156,8 +157,6 @@ You can fix this by resetting the network settings. Here's how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +164,20 @@ You can fix this by resetting the network settings. Here's how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-freewayframe-the-road-to-effortless-game-snapshots-in-24/"><u>[New] 2024 Approved FreewayFrame The Road to Effortless Game Snapshots in '24</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-step-by-step-process-for-podcast-rss-creation-for-2024/"><u>[New] A Step-by-Step Process for Podcast RSS Creation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-iphone-capabilities-crafting-and-transforming-slow-videos/"><u>[New] Unlocking iPhone Capabilities Crafting & Transforming Slow Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-characters-that-captivate-key-growth-strategies/"><u>[Updated] Characters That Captivate Key Growth Strategies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-gt-5-240wwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme GT 5 (240W)with/without a PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-path-stream-your-google-meet-chats-to-youtube/"><u>In 2024, Navigating the Path Stream Your Google Meet Chats to YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-removal-add-a-permanently-deletable-trash-bin-to-your-windows-11/"><u>Mastering File Removal: Add a Permanently Deletable Trash Bin to Your Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-component-services-an-overview/"><u>Navigating Windows Component Services: An Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-responsive-hibernate-in-windows/"><u>Resolving Non-Responsive Hibernate in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reverse-malfunctioning-notifications-in-windows-os/"><u>Strategies to Reverse Malfunctioning Notifications in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-external-display-delays-in-windows-systems/"><u>Tackling External Display Delays in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-hd-adventure-mastery-on-windows-through-scummvm/"><u>The Ultimate Guide to HD Adventure Mastery on Windows Through ScummVM</u></a></li>
+</ul></div>
 

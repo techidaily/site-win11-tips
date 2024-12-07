@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Time-Based Sorting in Microsoft Excel: A Comprehensive Tutorial"
-date: 2024-08-28T01:07:54.085Z
-updated: 2024-08-29T01:07:54.085Z
+date: 2024-12-04T23:26:25.937Z
+updated: 2024-12-06T23:52:28.842Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 ---
 
 ## Mastering the Art of Time-Based Sorting in Microsoft Excel: A Comprehensive Tutorial
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
  To do this, open your Excel workbook and select your data. You can do this using your mouse or trackpad, or by clicking a cell in the range and pressing Ctrl+A on your keyboard.
 
 ![Unsorted dates in an Excel workbook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Selected-Data.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With your data selected, click the "Sort & Filter" button in the "Home" tab of the ribbon bar. This is where you go to [sort values in Excel](https://win11-tips.techidaily.com/steps-to-resolve-iphone-image-failure-in-windows-os/) in various ways, including by date.
 
@@ -53,8 +61,9 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
  This will ensure that your entire data set is sorted in ascending or descending order, using the dates as the reference point.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Sorting Dates by Month or Year
 
  It can sometimes be useful to organize data by specific months or years. You might, for instance, be looking to see how many birthdays fall in these groups.
@@ -81,9 +90,6 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
 
 ![The MONTH and YEAR functions, shown in a Microsoft Excel worksheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Month-Year-Function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  To ensure that your
 
         `MONTH`
@@ -96,10 +102,6 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
 
 ![To copy the data from a cell to fill a column, double-click the small, green square icon in the bottom-right corner of the cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Copy-Cell-Button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  With your
 
         `MONTH`
@@ -116,30 +118,27 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
 
 ![To sort Excel data in ascending or descending order, click Sort &amp; Filter &gt; Sort Oldest to Newest or Sort Newest to Oldest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Sort-and-Filter-Options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  You'll need to confirm that you want to use the entire data set, so make sure that "Expand The Selection" is highlighted and then click "Sort" in the "Sort Window" warning box.
 
 ![Sort Warning box Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Sort-Warning-Box.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Depending on the options you selected, Excel will immediately sort your data using the month or year column you created.
 
 ![An example Excel data set, sorted by month using a MONTH formula and the sort function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Data-Sorted-by-Month.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +147,26 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-idea-to-rss-producing-a-podcast-feed/"><u>[New] From Idea to RSS Producing a Podcast Feed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-glamour-unleashed-comprehensive-youtube-guide-to-elegance/"><u>[Updated] In 2024, Glamour Unleashed Comprehensive YouTube Guide to Elegance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-no-flair-just-facts-dissecting-recordcast-for-2024/"><u>[Updated] No Flair, Just Facts Dissecting RecordCast for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-t2-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-zte-blade-a73-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to ZTE Blade A73 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/asistencia-integral-en-linea-para-solucionar-problemas-con-winx-dvd-rip-and-video-converter/"><u>Asistencia Integral en Línea Para Solucionar Problemas Con WinX DVD Rip & Video Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-your-blank-desktop-icon-recovery-tips/"><u>Cure Your Blank Desktop: Icon Recovery Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oppo-a56s-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Oppo A56s 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-fixing-package-could-not-be-opened-errors-on-ws11ws10/"><u>Essential Strategies for Fixing 'Package Could Not Be Opened' Errors on WS11/WS10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-techniques-for-quiet-filming-for-2024/"><u>Essential Techniques for Quiet Filming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-failure-of-powershell-detection-in-windows/"><u>Fixes for Failure of PowerShell Detection in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-download-a-browser-without-a-browser-after-installing-windows/"><u>How to Download a Browser Without a Browser After Installing Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-zeroxc000003e-error-in-win1011-application-initiation/"><u>Navigating ZeroXc000003e Error in Win10/11 Application Initiation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-winxps-error-x80300024-mystery/"><u>Solving WinXP's Error X80300024 Mystery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-fixing-exception-breakpoint-issue-on-pcs/"><u>Tactics for Fixing Exception Breakpoint Issue on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-11-calendar-features/"><u>The Ultimate Guide to Windows 11 Calendar Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-your-windows-11-local-login-without-secure-questions/"><u>Unlocking Your Windows 11 Local Login Without Secure Questions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Eliminating Smart Tags From Microsoft Excel Workbooks"
-date: 2024-08-28T01:08:06.458Z
-updated: 2024-08-29T01:08:06.458Z
+date: 2024-12-01T00:52:22.063Z
+updated: 2024-12-06T16:30:08.598Z
 tags:
   - excel
 categories:
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  Smart tags can be very useful in Excel to quickly change the action a spreadsheet performs on your data. They appear automatically as you work in Excel, but each smart tag can be removed if you do not use them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Are Smart Tags?
 
  A smart tag is a small button that appears as data is entered or selected on a spreadsheet. This button provides actions based on the data in the cells. The image below shows the Paste Options smart tag that appears when data is pasted.
 
 ![The Paste Options smart tag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/paste-options.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When the smart tag is clicked, different paste options are provided.
 
@@ -48,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
 ![The Paste Options smart tag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/paste-options.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This setting removes the smart tag for both the paste and autofill options.
 
 ###  Flash Fill
@@ -56,21 +68,17 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
 ![Flash Fill automatically offering suggestions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/flash-fill-automatic.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  If Flash Fill performs the action, the smart tag appears so that you can undo the suggestions.
 
 ![Undo Flash Fill behaviour](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/reverse-flash-fill.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  If you don't want this automatic Flash Fill behavior to keep happening, you can turn it off. From the "Advanced" category, uncheck the "Automatically Flash Fill" box.
 
 ![Stop automatic Flash Fill happening](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/flash-fill.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Error Checking
 
@@ -84,13 +92,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![Prevent background error checking](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/error-checking.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ###  Quick Analysis Tools
 
  The Quick Analysis options smart tag appears when you select a range of values on your spreadsheet. It offers a quick way to create a chart, apply a Conditional Formatting rule, or use other analysis features.
@@ -98,22 +99,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Access quick analysis tools through the smart tag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/quick-analysis-smart-tag.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you don't use this feature, you might find it frustrating and want to remove it. In the "General" category, uncheck the "Show Quick Analysis Options on Selection" box.
 
 ![Stop Quick Analysis options appearing on selection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/quick-analysis.png)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +123,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effortless-youtube-income-computations-for-2024/"><u>[Updated] Effortless YouTube Income Computations for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/audiophiles-recorder-review-for-2024/"><u>Audiophile's Recorder Review for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-oversight-4-tech-savvy-checkpoints-for-professionals/"><u>ChatGPT Oversight: 4 Tech-Savvy Checkpoints for Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-user-experience-highlighting-mouse-pointers-on-win-11/"><u>Elevate Your User Experience: Highlighting Mouse Pointers on Win 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guarding-against-genuine-geniuses-spotting-automated-prose/"><u>Guarding Against Genuine Geniuses: Spotting Automated Prose</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-healing-power-of-asmr-explained-here/"><u>In 2024, The Healing Power of ASMR Explained Here</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-s23-ultra-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy S23 Ultra? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-immediate-folder-addition-on-windows-a-comprehensive-guide-for-onedrive-users/"><u>Mastering the Art of Immediate Folder Addition on Windows: A Comprehensive Guide for OneDrive Users</u></a></li>
+<li><a href="https://win-updates.techidaily.com/practical-strategies-for-minimizing-bmp-image-dimensions-efficiently/"><u>Practical Strategies for Minimizing BMP Image Dimensions Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-windows-layout-embrace-fancywm-aesthetics/"><u>Reimagine Windows Layout: Embrace FancyWM Aesthetics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enabledisable-wi-fi-connection-metering-on-win11/"><u>Steps to Enable/Disable Wi-Fi Connection Metering on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-restoring-your-pcs-control-in-windows-11/"><u>The Ultimate Guide for Restoring Your PC's Control in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-resetting-windows-post-shutdown/"><u>Troubleshooting Guide: Resetting Windows Post-Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vmware-crashes-in-windows-11/"><u>Troubleshooting VMware Crashes in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016535042-turtle-beach-microphone-not-working-expert-fixes-and-solutions-available/"><u>Turtle Beach Microphone Not Working: Expert Fixes and Solutions Available</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-fax-interface-for-editors/"><u>Unlocking Windows 11'S Fax Interface for Editors</u></a></li>
+</ul></div>
 

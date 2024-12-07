@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity with Customized Keyboard Tricks
-date: 2024-08-28T01:12:24.271Z
-updated: 2024-08-29T01:12:24.271Z
+date: 2024-12-05T18:41:20.201Z
+updated: 2024-12-07T00:21:04.869Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,11 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 1. Click any area of your Windows desktop with the mouse’s right button and select the **New** and **Shortcut** options.  
 ![The Shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/shortcut-option.jpg)
 2. Then input (or copy and paste) one of the NirCmd commands below in the item location box as follows:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Users\nircmd-x64\nircmd.exe NirCmd command`  
 ![The Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-shortcut-wizard.jpg)
 3. Click **Next** to continue to the final step in the shortcut wizard.
@@ -59,22 +64,21 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 2. Click in the Shortcut box and press a key combination to set up a **Ctrl** \+ **Alt** or **Ctrl** \+ **Shift** hotkey.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shortcut-tab.jpg)
 3. Then select **Apply** to save your hotkey.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **OK** to exit the shortcut’s properties window.
 
  Now press your keyboard shortcut to activate the NirCmd command desktop shortcut. However, don’t delete the NirCmd desktop shortcuts for which you’ve created hotkeys. The hotkeys won’t work without them.
 
  If you prefer not to clutter your desktop with shortcuts, you can move them into a subfolder. To do so, right-click the desktop to select **New** \> **Folder** and input a directory title. Drag and drop the shortcuts into the folder on the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Examples of Handy Commands You Can Create With NirCmd
 
  Now you can set up NirCmd desktop and keyboard command shortcuts that do all kinds of things. Here are eight handy NirCmd commands to create shortcuts for.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### 1\. Empty the Recycle Bin
 
  A keyboard shortcut for emptying the Recycle Bin would undoubtedly be handy, but Windows doesn’t have one. You can create a desktop shortcut or hotkey for emptying the Recycle Bin with this NirCmd command:
@@ -88,13 +92,18 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 `nircmd.exe win center alltop`
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Log Out of Windows
 
  A hotkey for [signing out of your Windows user account](https://www.makeuseof.com/windows-11-how-to-sign-out/) would be useful. You can create such a keyboard shortcut with this NirCmd command:
 
 `nircmd.exe exitwin logoff`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Read Out the Copied Clipboard Item
 
@@ -116,7 +125,9 @@ keywords: Boost Workflow,Efficient Typing,Personalized Keys,Productivity Tips,Ke
 thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463af4e51940397e62459c5f66.jpg
 ---
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Activate Your Windows 11/10 Screensaver
 
@@ -125,8 +136,9 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 `nircmd.exe screensaver`
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Close All Open File Explorer Windows
 
  This NirCmd command shortcut closes all open File Explorer windows. It will come in handy when you need to close lots of Explorer folder windows. The NirCmd command for closing all open File Explorer windows is:
@@ -139,30 +151,17 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
 `nircmd.exe win settopmost title "Calculator" 1`
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### 8\. Set the Brightness Level
 
  This NirCmd command shortcut will enable you to [set a screen brightness level](https://www.makeuseof.com/windows-10-adjust-screen-brightness/) by pressing a hotkey. Activating this command changes the brightness level set within Settings. The command needs to include a brightness value to set. For example, a NirCmd command for setting the brightness level to 60 percent looks like this:
 
 `nircmd.exe setbrightness 60 3`
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Create Handy Windows Task Shortcuts With NirCmd
 
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -170,3 +169,22 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-efficient-video-broadcasting-across-twit-and-tumble/"><u>[New] 2024 Approved Efficient Video Broadcasting Across Twit & Tumble</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-professional-gopro-footage-in-3-simple-steps/"><u>[New] Professional Gopro Footage in 3 Simple Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-versatile-viewing-cycle-and-catch-up-with-youtube-videos-on-tv/"><u>[New] Versatile Viewing Cycle and Catch Up with YouTube Videos on TV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-content-strategy-with-social-blade-and-youtube-stats/"><u>[Updated] 2024 Approved Elevate Your Content Strategy with Social Blade and YouTube Stats</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-iosandroid-leading-photo-writing-app-list/"><u>[Updated] In 2024, IOS/Android Leading Photo-Writing App List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-viewing-and-cleansing-windows-10-activities/"><u>Expert Tips for Viewing & Cleansing Windows 10 Activities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertly-select-files-engage-checkboxes-in-win11-ui/"><u>Expertly Select Files: Engage Checkboxes in Win11 UI</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/master-the-art-of-recording-lol-discover-3-essential-tips/"><u>Master the Art of Recording LOL - Discover 3 Essential Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-your-nvidia-driver-choice-games-vs-studio/"><u>Perfecting Your Nvidia Driver Choice - Games vs Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-and-improve-task-management-on-windows-11-with-widgets/"><u>Simplify and Improve Task Management on Windows 11 with Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-microsoft-works-installer-on-windows-11/"><u>The Ultimate Guide to Microsoft Works Installer on Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722536077135-top-notch-beesound-earbuds-affordable/"><u>Top-Notch BeeSound Earbuds, Affordable!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-the-power-of-windows-11-with-auto-hdr-feature-activation/"><u>Unleash the Power of Windows 11 with Auto HDR Feature Activation</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/zodia-the-newly-launched-sc-backed-blockchain-venture-takes-off-in-hong-kong-insights-by-yl-computing/"><u>Zodia: The Newly Launched SC-Backed Blockchain Venture Takes Off in Hong Kong - Insights by YL Computing</u></a></li>
+</ul></div>
+

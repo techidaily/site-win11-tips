@@ -1,7 +1,7 @@
 ---
 title: Designating Menu Triggers for Software Patch Alerts
-date: 2024-08-28T01:11:06.652Z
-updated: 2024-08-29T01:11:06.652Z
+date: 2024-11-30T17:38:51.092Z
+updated: 2024-12-07T00:53:28.805Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,19 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 3. Type **ms-settings:windowsupdate-action** within the Value data box, and click **OK**.  
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/edit-string-window.png)
 4. Right-click the **command** key and select the **New** \> **String Value** options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Enter the string title **DelegateExecute**, and press the **Return** key.  
 ![The DelegateExecute string for the command key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/delegateexecute_string.png)
 6. Double-click the **DelegateExecute** string to bring up its Value data box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Type **{556FF0D6-A1EE-49E5-9FA4-90AE116AD744}** in the Value data text box, and press the **OK** button.
 8. Close the Registry Editor’s window.
 
@@ -63,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 
  If you ever want to remove the **Check for Updates** shortcut from the context menu, open the **Shell** key in the Registry Editor again. Then right-click the **Check for Updates** key to select **Delete**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Add a Windows Update Submenu to the Context Menu With Winaero Tweaker
 
  Winaero Tweaker is a freely available customization software for Windows with which you can customize the context menu in many ways. That software has an option you can select to add a **Windows Update** submenu to the context menu, which includes a **Check for updates** shortcut. This is how you can add a **Check for updates** shortcut to the desktop’s right-click menu with Winaero Tweaker:
@@ -74,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 5. Click on the **Windows Update** setting.  
 ![The Add Windows Update submenu to Desktop context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-add-windows-update-to-context-menu-option.jpg)
 6. Select the **Add Windows Update submenu to Desktop context menu** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now look at the new Windows Update submenu on the desktop’s context menu. Press **Shift** \+ **F10** to view the classic context menu. Move the cursor over the **Windows Update** submenu to view its options. There you can select a **Check for updates** option to bring up the **Check for updates** button.
 
@@ -90,8 +108,9 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 ![The Windows Update Control Panel shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-update-in-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keep an Eye Out For New Windows Updates
 
  So, now you can select a handy **Check for Updates** shortcut on your desktop’s context menu. That shortcut will save you from having to manually open Settings and its **Windows Update** tab whenever you need to check for updates. Instead, you can simply click the **Check for Updates** context menu option to open the update tab directly from the desktop.
@@ -100,11 +119,33 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 
  To ensure your Windows 11/10 PC has all the patch updates available for it, it’s a good idea to check for new ones via Settings. The **Windows Update** tab includes a **Check for updates** button. You can add a shortcut for that tab to the desktop’s context menu with the method below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-auditory-artistry-access-to-excellent-dj-video-samples/"><u>[New] 2024 Approved Auditory Artistry Access to Excellent DJ Video Samples</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-5-premium-ps1-game-simulators-for-pc-gamers/"><u>[Updated] 2024 Approved 5 Premium PS1 Game Simulators for PC Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-premium-performance-in-a-package-that-pleases-your-pocket/"><u>[Updated] 2024 Approved Premium Performance in a Package That Pleases Your Pocket</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-x-media-library-manager-personal-computer/"><u>[Updated] In 2024, X-Media Library Manager, Personal Computer</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-transforming-photos-remove-background-with-ease-for-2024/"><u>[Updated] Transforming Photos Remove Background with Ease for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/contrast-in-connectivity-boosting-pcs-sluggish-internet/"><u>Contrast in Connectivity: Boosting PC's Sluggish Internet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-to-address-memory-issues/"><u>Essential Strategies to Address Memory Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-clipboard-functionality-within-microsoft-written-assurance-mode-windows-11/"><u>How to Configure Clipboard Functionality Within Microsoft' Written Assurance Mode, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-no-available-display-options-on-pc/"><u>How to Correct No Available Display Options on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-the-inconvenience-of-an-endless-updating/"><u>How to Resolve the Inconvenience of an Endless Updating</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-mini-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 12 mini Unavailable Issue With Ease</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-6s-plus-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 6s Plus Before the Plan Expires</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/in-depth-comparison-how-does-veeam-stack-up-against-cohesity/"><u>In-Depth Comparison: How Does Veeam Stack Up Against Cohesity?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-family-safety-a-guide-for-modern-families/"><u>Microsoft Family Safety: A Guide for Modern Families</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnect-your-printer-to-regain-printing-power/"><u>Reconnect Your Printer to Regain Printing Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-maximizing-microsofts-family-safety/"><u>Tips & Tricks for Maximizing Microsoft's Family Safety</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-6s-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 6s</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-win-1111-server-error-in-microsoft-store/"><u>Troubleshooting Win 11/11 Server Error in Microsoft Store</u></a></li>
+</ul></div>
+

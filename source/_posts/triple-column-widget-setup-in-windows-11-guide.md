@@ -1,7 +1,7 @@
 ---
 title: Triple Column Widget Setup in Windows 11 Guide
-date: 2024-11-25T16:49:49.556Z
-updated: 2024-11-27T17:05:00.476Z
+date: 2024-11-30T20:11:00.299Z
+updated: 2024-12-06T17:48:46.781Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the New Widgets Board in Windows 11, and How Is It Different From the Old One?
 
 ![Windows 11 widgets pane](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-8.jpg)
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  The new Widgets Board offers a larger canvas with a clear separation between Widgets and the feed content. It has three columns, one for Widgets and the other two for feed content. At the time of writing, stable Windows 11 users only have a two-column Widget board housing Windows 11 widgets and the feed content.
 
 Simply put, they have no separation in the two-column Widgets view.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the ViveTool and Why Do You Need It to Enable the New Widgets Board?
 
@@ -47,16 +47,12 @@ Simply put, they have no separation in the two-column Widgets view.
 
  For convenience, set up ViveTool and its extracted contents in the**C:/ViVeTool** folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable the New Widgets Panel in Windows 11
 
 ![Screenshot showing how to enable three column widget panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you have successfully set up ViveTool on your PC, you can jump straight to the steps required to enable the specific feature ID for the three-column Widgets view.
@@ -71,27 +67,31 @@ vivetool /enable /id:43028164
 
  Now, launch the Widgets panel from the taskbar. If you do not have the Widgets icon in the taskbar, you can tweak the taskbar setting and bring that icon to your taskbar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will the Widgets Panel Be Available for Other Insider Channels?
 
  Every feature that Microsoft tests in Canary Channel build may or may not make it to other Insider Channels. The new Widgets Board is no exception.
 
  But since Microsoft has officially confirmed that it will be available to more Insiders in the coming days, we are hopeful it will make its way to other channels and, eventually, to a stable Windows 11 release.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will Widgets Panel Always Have Three Columns in the Future?
 
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
 
  However, we cannot rule out the possibility of Microsoft making the larger Widgets board optional in the future, allowing users to decide which suits them best.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## New Widgets Board in Windows 11, Enabled
 
@@ -114,22 +114,15 @@ vivetool /enable /id:43028164
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-peak-performance-in-live-recording-software/"><u>[New] 2024 Approved Peak Performance in Live Recording Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-exploring-asmr-uncover-its-pros-today/"><u>[New] Exploring ASMR Uncover Its Pros Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-first-timers-insights-into-pixel-density-matters/"><u>[New] First-Timer's Insights Into Pixel Density Matters</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-perfecting-your-presence-mastery-of-title-and-tag-use-on-youtube/"><u>[New] In 2024, Perfecting Your Presence Mastery of Title and Tag Use on YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ransforming-raw-footage-into-youtube-gold-via-sony-vegas/"><u>[New] Transforming Raw Footage Into YouTube Gold via Sony Vegas</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-capturing-with-snap-zoom-guide/"><u>2024 Approved Capturing with Snap Zoom Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clean-and-tailor-your-w11-desktop-now/"><u>Clean & Tailor Your W11 Desktop, Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-prompt-injection-in-ai-understanding-its-working-mechanism/"><u>Decoding Prompt Injection in AI - Understanding Its Working Mechanism</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-and-irreversible-file-removal-creating-a-customizable-desktop-bin-windows-11/"><u>Effortless and Irreversible File Removal: Creating a Customizable Desktop Bin (Windows 11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-windows-11-update-hiccup-error-0xc1900101/"><u>Eliminating Windows 11 Update Hiccup: Error 0xC1900101</u></a></li>
-<li><a href="https://win-answers.techidaily.com/experience-premium-quality-on-a-budget-with-the-caixun-75-4k-smart-tv/"><u>Experience Premium Quality on a Budget with the Caixun 75 4K Smart TV</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-usb-stick-not-transferring-data-on-windows/"><u>How to Fix a USB Stick Not Transferring Data on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-operation-failed-on-win-1011-systems/"><u>Preventing 'Operation Failed' On Win 10/11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-directx-download-errors-on-pcs/"><u>Rectifying DirectX Download Errors on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-onedrive-for-microsoft-live-users/"><u>Setting Up OneDrive for Microsoft Live Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-the-samsung-galaxy-z-flip-7plus-price-forecasts-release-details-and-insights-on-new-specs/"><u>What to Expect From the Samsung Galaxy Z Flip 7+ - Price Forecasts, Release Details & Insights on New Specs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11s-defender-log-cleanse-a-practical-approach-for-users/"><u>Win 11'S Defender Log Cleanse: A Practical Approach for Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-turning-live-radio-into-a-personal-archive-step-by-step-instructions/"><u>[New] Turning Live Radio Into a Personal Archive Step-by-Step Instructions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-simplified-guide-to-structuring-ad-copy-on-social-media/"><u>[Updated] 2024 Approved Simplified Guide to Structuring Ad Copy on Social Media</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-audio-extraction-made-easy-youtube-music-on-your-mac/"><u>2024 Approved Audio Extraction Made Easy YouTube Music on Your Mac</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/analyzing-the-arlo-video-alarm-doorbell-the-convenient-fusion-of-surveillance-and-protection/"><u>Analyzing the Arlo Video Alarm Doorbell: The Convenient Fusion of Surveillance and Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-full-control-of-your-mouse-with-these-tricks-windows-users/"><u>Gain Full Control of Your Mouse with These Tricks Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-cwindowssystem32configsystemprofiledesktop-error-message/"><u>How to Resolve 'C: Windows System32 Config SystemProfile Desktop' Error Message?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-accessing-system32-on-win11/"><u>Mastery of Accessing System32 on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-unseen-wi-fi-networks-on-win11/"><u>Steps to Rectify Unseen Wi-Fi Networks on Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-your-multimedia-browsing-in-chrome-using-pip/"><u>Streamline Your Multimedia Browsing in Chrome Using PIP</u></a></li>
 </ul></div>
 

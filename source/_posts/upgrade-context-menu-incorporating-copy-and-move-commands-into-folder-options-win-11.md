@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Context Menu: Incorporating Copy & Move Commands Into Folder Options (Win 11)"
-date: 2024-08-28T01:09:32.302Z
-updated: 2024-08-29T01:09:32.302Z
+date: 2024-12-04T22:42:20.581Z
+updated: 2024-12-06T16:45:14.843Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
  You may frequently need to move or copy files to alternative folders in Windows. To do this, you might move files to different folders by dragging and dropping them. To copy a file to another location, you can either hold the**Ctrl** key while dragging or utilize the copy-paste hotkeys.
 
  It would be better to have context menu options for moving and copying files to selected locations. Then you could right-click a file and select a**Move to folder** or**Copy to folder** option. This is how you can add context menu options for moving and copying files to folders in Windows 11/10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Move to Folder Context Menu Option
 
@@ -61,6 +65,11 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Close the Registry Editor app’s window.
 
  Then you can select the**Copy to folder** context menu option much the same as the move one. Right-click a file in Explorer, select**Show more options** (in Windows 11), and click**Copy to folder** . A Copy Items window will open from which you can choose a folder to include the copied file. Clicking**Copy** will paste the item into the selected folder.
@@ -70,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Move and Copy to Folder Context Menu Options With WinBubble
 
  It’s relatively straightforward to add the "Copy/Move to folder" options with the Registry Editor, but there’s still an easier way to do it. You can add the same options to the context menu with the freeware WinBubble. WinBubble is customization software that includes a wide variety of context menu options. This is how to add a "Copy/Move to folder" context menu options with WinBubble:
@@ -85,30 +95,23 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 1. Select**Extract all** on Explorer’s command bar or the**Compressed Folder Tools** tab in Windows 10.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
 2. Press the**Browse** button.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
 4. Next, select**Show extracted files when complete** for the WinBubbles folder to automatically open after extraction.
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-extract-compressed-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 1. Now double-click WinBubbles EXE to launch that software.
 2. Select the**Move to** option on the**General** tab.
 3. Click the**Copy to** checkbox to select that option.  
 ![The Copy to option in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-checkbox.jpg)
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 6. Minimize or exit the WinBubble window.
 
  Now look at your new context menu options for copying and moving items to different locations. WinBubble adds them to the classic context menu like the manual registry tweak methods. So, you’ll still need to select**Show more options** or press**Shift** +**F10** to access those options in Windows 11.
@@ -116,13 +119,9 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Move and Copy Files to Folders With Your New Context Menu Options
 
  The**"** Copy/Move to folder" context menu options undoubtedly provide more convenient ways to copy and move files into alternative directories. You won’t need to drag files about anymore for moving items in Windows 11 after adding a new**"** Move to Folder option" to the right-click menu. Nor will you need to paste copied files elsewhere in Windows 11 thanks to the "Copy to folder" menu option.
@@ -133,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +139,21 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-extreme-capture-duo-gopro-hero5-black-versus-hero4-silver-edition/"><u>[New] Extreme Capture Duo GoPro Hero5 Black Versus Hero4 Silver Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-from-ordinary-to-extraordinary-the-roadmap-to-likes-on-tiktok-unboxes/"><u>[Updated] 2024 Approved From Ordinary to Extraordinary The Roadmap to Likes on TikTok Unboxes</u></a></li>
+<li><a href="https://win11.techidaily.com/9-ways-to-fix-the-cant-switch-out-of-s-mode-issue-in-windows-11-or-10/"><u>9 Ways to Fix the “Can’t Switch Out of S Mode” Issue in Windows 11 or 10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/conquering-subreddit-mastering-the-art-of-public-discussion/"><u>Conquering Subreddit Mastering the Art of Public Discussion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktop-deco-compelling-stick-on-apps-for-windows-enthusiasts/"><u>Desktop Deco: Compelling Stick-On Apps for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-fixes-rejuvenate-frozen-mouse-contexts-in-windows/"><u>Easy Fixes: Rejuvenate Frozen Mouse Contexts in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-nubia-z50s-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Nubia Z50S Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-y17s-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo Y17s Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-how-chromeos-fuels-the-pixel-slate-mayhem/"><u>Inside Look: How ChromeOS Fuels the Pixel Slate Mayhem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-infinite-treasure-in-dragon-game-tips-and-tricks-for-pc-users/"><u>Master the Art of 'Infinite Treasure' In Dragon Game - Tips & Tricks for PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-powershell-script-execution-policy/"><u>Mastering the Art of PowerShell Script Execution Policy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/offline-operations-with-llama-2-stepwise-tutorial/"><u>Offline Operations with Llama 2: Stepwise Tutorial</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-obscured-system-tray-on-win11/"><u>Unveiling the Obscured: System Tray on Win11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Develop a Trusted Window Icon for Safe Hardware Disconnect in Win11
-date: 2024-08-23T07:08:36.337Z
-updated: 2024-08-24T07:08:36.337Z
+date: 2024-11-29T16:12:35.504Z
+updated: 2024-12-07T02:00:36.223Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
 ![The Eject Portable option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/eject-portable-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Safely Remove Hardware window also enables you to view properties for listed devices. To do so, select a device and click the**Properties** button. That will bring up a window that includes general, event, and driver details for the device.
 
  The Safely Remove Hardware desktop shortcut will be blank by default. However, you can add an icon to it by following the instructions in our[guide for customizing Windows 11/10 icons](https://www.makeuseof.com/tag/customize-icon-windows/) .
@@ -53,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
  Adding Safely Remove Hardware to the taskbar or Start menu will make its desktop shortcut redundant. You can remove that desktop shortcut by right-clicking its icon and selecting**Delete** (the trash can icon).
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up a "Safely Remove Hardware" Hotkey
 
  There’s no quicker way to open anything in Windows 11 than pressing a hotkey. A keyboard shortcut enables you to open anything without having to minimize windows to reach the desktop, bring up the Start menu, or move the mouse at all. You can set up a hotkey that opens the Safely Remove Hardware dialog as instructed for method one in our[how to assign keyboard shortcuts to programs on Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) guide.
@@ -62,13 +67,11 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/shortcut-key-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Creating such a hotkey doesn’t make the Safely Remove Hardware desktop shortcut redundant. The hotkey activates the desktop shortcut you assigned it to. So, erasing the Safely Remove Hardware desktop shortcut will delete the shortcut key.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to a Set Up a "Safely Remove Hardware" Context Menu Shortcut
 
  The context menu is an out-of-the-way place to stick shortcuts for opening things. Adding a Safely Remove Hardware option there will enable you to access that dialog by right-clicking the desktop area. Such a shortcut will probably be preferable for users who prefer to minimize desktop and taskbar clutter.
@@ -95,13 +98,15 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 ![The Safely Remove Hardware context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/safely-remove-hardware-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That option can be easily removed from the context menu if you decide not to keep it there. To remove it, return to the registry key specified in step three above; right-click the**Safely Remove Hardware** key you added and select**Delete** . Then select**Yes** to delete the key.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Utilize the Safely Remove Hardware Dialog Faster on Windows
 
  Creating a Safely Remove Hardware shortcut with any method above will make that dialog window more accessible whenever you need to remove a device. That dialog provides a handy alternative way for users to safely remove USB drives with additional options for viewing device details. You can use that dialog to view properties for connected drives and select to stop them so they can be removed without corrupting data.
@@ -112,8 +117,6 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +124,22 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-advice-to-recover-missing-thumbnails-from-videos/"><u>[New] 2024 Approved Expert Advice to Recover Missing Thumbnails From Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-zoom-livestream-setup-guide-for-youtube-enthusiasts/"><u>[New] Step-by-Step Zoom Livestream Setup Guide for YouTube Enthusiasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exploring-top-users-on-snapchat-for-2024/"><u>[Updated] Exploring Top Users on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-infographic-guide-effective-video-promotion-tools/"><u>2024 Approved Infographic Guide Effective Video Promotion Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-canon-mg6320-series-pixma-driver-software-for-windows-computers/"><u>Download & Install Canon MG6320 Series PIXMA Driver Software for Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-method-turn-off-pin-during-windows-11-display-cast/"><u>Easy Method: Turn Off PIN During Windows 11 Display Cast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-webinar-label-builder-kit-for-2024/"><u>Expert Webinar Label Builder Kit for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-audience-appeal-the-ultimate-guide-to-youtube-video-formats/"><u>In 2024, Audience Appeal The Ultimate Guide to YouTube Video Formats</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/jaco-smartpro-digital-tire-inflator-review/"><u>Jaco SmartPro Digital Tire Inflator Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-component-services-an-overview/"><u>Navigating Windows Component Services: An Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebuilding-connected-elements-in-windows-explorer/"><u>Rebuilding Connected Elements in Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-error-image-id-0x80780119-in-windows/"><u>Resolving the Error: Image ID 0X80780119 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-external-display-delays-in-windows-systems/"><u>Tackling External Display Delays in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-gaming-pcs-reimagined-with-atlasos/"><u>Vintage Gaming PCs, Reimagined with AtlasOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-firewall-a-complete-reboot-guide/"><u>Windows Firewall: A Complete Reboot Guide</u></a></li>
+</ul></div>
 

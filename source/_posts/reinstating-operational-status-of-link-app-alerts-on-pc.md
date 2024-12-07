@@ -1,7 +1,7 @@
 ---
 title: Reinstating Operational Status of Link App Alerts on PC
-date: 2024-11-21T16:21:53.908Z
-updated: 2024-11-27T18:00:46.114Z
+date: 2024-12-01T16:07:29.198Z
+updated: 2024-12-06T16:20:43.891Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Notifications for the Phone Link App
 
  Phone Link, like any other app, requires your permission to display notifications on Windows. If you have previously denied this permission to the Phone Link app, here's how to enable it.
@@ -38,11 +42,7 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 ![Enable Notifications for Phone Link on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-phone-link-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check In-App Notification Settings
@@ -57,16 +57,12 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 4. Under**Notifications** , enable all the toggles.  
 ![Phone Link In-App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/phone-link-in-app-notification-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Phone Link is failing to show notifications from a specific app, click**Choose which apps I get notifications from** and enable alerts for that app.
 
 ![Configure Phone Link Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-phone-link-notifications.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Allow Phone Link App to Run in the Background
@@ -83,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 6. Click the drop-down menu under**Background apps permissions** and choose**Always** .  
 ![Allow Phone Link to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-phone-link-to-run-in-the-background-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Is the background app permission options missing from the Settings app? Here's[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
 ## 4\. Disable Battery Saver Mode
@@ -100,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 3. Click on**Battery saver** to expand it.
 4. Click the**Turn off now** button.  
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's worth noting that Windows might activate the battery saver mode automatically if the battery level falls below 20 percent. To prevent this, keep your laptop connected to a power source while using the Phone Link app.
 
@@ -115,6 +111,14 @@ To disable the Do Not Disturb mode, use these steps:
 4. Expand the**Turn on do not disturb automatically** and clear all the checkboxes.  
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Unlink and Link Your Phone Again
 
  Phone Link may fail to display any notifications on Windows if your Android or iPhone isn’t linked properly. To avoid issues caused by misconfigured setup, you can unlink your phone from Windows and start over. Here are the steps for the same.
@@ -129,10 +133,6 @@ To disable the Do Not Disturb mode, use these steps:
 ## 7\. Try Generic Fixes for Windows Apps
 
  There are a few tricks you can try to fix the Phone Link app that also works with any other Windows app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Repair or Reset the App
 
@@ -165,17 +165,15 @@ To disable the Do Not Disturb mode, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-discover-top-10-iphone-apps-for-free-artistic-photo-composition-and-editing/"><u>[New] Discover Top 10 iPhone Apps for Free, Artistic Photo Composition & Editing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-core-concepts-of-story-making/"><u>[Updated] Core Concepts of Story Making</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/pc-iphone-android/"><u>失われた動画の回復 - PC, iPhone, Androidで方法</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bypassing-the-blue-screen-resolving-windows-dxgkrnlsys-issues/"><u>Bypassing the Blue Screen: Resolving Windows 'dxgkrnl.sys' Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-audio-device-connectivity-issue/"><u>Correcting Windows Audio Device Connectivity Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-window-management-experience-on-windows-1-written-by-your-name/"><u>Elevate Your Window Management Experience on Windows 1 Written By: [Your Name]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elusive-sites-secure-solutions-7-fixes-for-unresponsive-browsers/"><u>Elusive Sites, Secure Solutions: 7 Fixes for Unresponsive Browsers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/expert-analysis-mp4-video-download-tools/"><u>Expert Analysis MP4 Video Download Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-videos-stop-buffering-and-glitches-on-devices/"><u>In 2024, Facebook Videos Stop Buffering & Glitches on Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>New In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/purple-panic-quick-fixes-for-distorted-windows-display/"><u>Purple Panic! Quick Fixes for Distorted Windows Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-win-error-31-a-systematic-fix-guide/"><u>Unlocking WIN Error 31: A Systematic Fix Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-fiendish-funny-factory-for-2024/"><u>[Updated] Fiendish Funny Factory for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-mix-fold-3-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-quickly-identify-and-eliminate-null-space-on-your-pc-drive/"><u>How to Quickly Identify & Eliminate Null Space on Your PC Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-and-stabilize-apex-gameplay-on-windows-11/"><u>How to Reset and Stabilize Apex Gameplay on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smart-weather-app-options-for-win-os/"><u>Smart Weather App Options for Win OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-windows-kernel32dll-issue-a-step-by-step-guide/"><u>Solving Windows Kernel32.dll Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-handle-windows-update-error-0x800f0845/"><u>Steps to Handle Windows Update Error: 0X800F0845</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-transformative-impact-of-gpt-on-clinical-settings/"><u>The Transformative Impact of GPT on Clinical Settings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/urgent-evacuation-of-airplane-after-aboard-laptop-fires-up-an-american-airlines-incident/"><u>Urgent Evacuation of Airplane After Aboard Laptop Fires Up - An American Airlines Incident</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ensure Your Computer Passes Windows 11 Standards
-date: 2024-11-22T17:02:38.180Z
-updated: 2024-11-27T17:05:27.330Z
+date: 2024-12-03T17:52:19.465Z
+updated: 2024-12-06T16:04:45.954Z
 tags:
   - windows10
   - windows11
@@ -21,17 +21,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Minimum Requirements for Installing Windows 11](#minimum-requirements-for-installing-windows-11)
 * [How to Check Windows 11 Compatibility](#how-to-check-windows-11-compatibility)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Windows 11 offers several improvements over its predecessor, and it's a free upgrade from Windows 10 as long as your PC meets certain requirements. However, unlike Windows 10, which supports older Windows 8 devices, Windows 11 requires more advanced hardware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Minimum Requirements for Installing Windows 11
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Although [Microsoft states](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e) you can run Windows 11 on systems that support at least TPM 1.2 by bypassing the check for TPM 2.0, the company strictly recommends against taking that route.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check Windows 11 Compatibility
@@ -75,12 +71,16 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![PC Health Check app running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/pc-health-check-app-running-on-windows.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll get a pop-up on your screen that lists your hardware specifications and informs you whether they meet the minimum requirements for Windows 11\.
 
  Don't panic just yet if you find that your PC isn't compatible. Many users with modern hardware have faced this problem, but it's mostly TPM or Secure Boot-related. Both of these settings can be changed by [entering the BIOS on your Windows PC](https://www.makeuseof.com/tag/enter-bios-computer/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Enabling AMD fTPM and Intel PTT
 
@@ -91,26 +91,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
  However, if your PC hardware doesn't meet Windows 11's requirements, know that Microsoft will end support for Windows 10 in October 2025\. After that, you'll need to upgrade to a new PC or pay Microsoft a yearly fee for extended security updates until October 2028\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/new-20plus-best-free-camera-apps-for-high-quality-slo-motion-videos/"><u>[New] 20+ Best Free Camera Apps for High-Quality Slo-Motion Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elevate-your-storytelling-with-strategic-video-callouts/"><u>[New] In 2024, Elevate Your Storytelling with Strategic Video Callouts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expert-reviews-best-game-capture-apps/"><u>[Updated] 2024 Approved Expert Reviews Best Game Capture Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>[Updated] Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-vloggers-ultimate-gear-list-17-100/"><u>[Updated] Vloggers' Ultimate Gear List #17-100</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/guida-facilissima-per-la-conversione-di-file-mp4-in-mp3-su-windows-10-con-un-utilita-libera-e-gratuita/"><u>Guida Facilissima per La Conversione Di File MP4 in MP3 Su Windows 10 Con Un Utilità Libera E Gratuita</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-how-to-handle-msvcr120dll-absence-on-computers/"><u>Mastering How to Handle 'Msvcr120_dll' Absence on Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-repair-of-televisual-displays-with-persistent-linear-patterns/"><u>Mastering the Repair of Televisual Displays with Persistent Linear Patterns</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powertoys-for-efficient-file-naming/"><u>PowerToys for Efficient File Naming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-image-saving-failures-in-win11-camera-app/"><u>Remedying Image Saving Failures in Win11 Camera App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-your-windows-search-top-11-fixes-excluded/"><u>Revive Your Windows Search: Top 11 Fixes Excluded</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-online-research-how-artificial-intelligence-is-reshaping-site-exploration/"><u>Revolutionizing Online Research: How Artificial Intelligence Is Reshaping Site Exploration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-10-strategies-to-reconnect-your-xbox-controller/"><u>Top 10 Strategies to Reconnect Your Xbox Controller</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-essential-windows-applications-the-must-have-software-tools-and-their-importance/"><u>Top Essential Windows Applications: The Must-Have Software Tools & Their Importance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-app-launch-issues-windows-11s-error-xc000003e/"><u>Unraveling the Mystery of App Launch Issues: Windows 11'S Error XC000003E</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-does-runtime-broker-do-decoding-its-pc-essence/"><u>What Does Runtime Broker Do? Decoding Its PC Essence</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -118,3 +98,23 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-essential-cloud-price-breakdown-guide/"><u>[New] Essential Cloud Price Breakdown Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-navigating-the-world-of-iphone-x-animoji-like-a-pro-for-2024/"><u>[New] Navigating the World of iPhone X Animoji Like a Pro for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-reach-new-heights-boosting-youtube-viewership/"><u>[Updated] Reach New Heights Boosting YouTube Viewership</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-how-to-bypass-windows-11-lock-screen/"><u>Deciphering How to Bypass Windows 11 Lock Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deep-dive-into-windows-component-services-command-line-utility/"><u>Deep Dive Into Windows Component Services Command-Line Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-bloatware-banishment-in-modern-windows-11/"><u>Effortless Bloatware Banishment in Modern Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhanced-wine-90-brings-major-upgrades-to-linux-gaming-and-application-experience/"><u>Enhanced Wine 9.0 Brings Major Upgrades to Linux Gaming and Application Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-winx-dvd-creator-software-easy-and-fast-dvd-burning-tool-for-pc/"><u>Free WinX DVD Creator Software: Easy & Fast DVD Burning Tool for PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-control-for-voice-only-windows-bluetooth/"><u>How to Enable Control for Voice-Only Windows Bluetooth</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-magic-vs-2-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Magic Vs 2.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-facelift-tech-top-facial-editing-apps/"><u>In 2024, Premium Facelift Tech Top Facial Editing Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionary-possibilities-with-windows-11s-newest-moment/"><u>Revolutionary Possibilities with Windows 11'S Newest Moment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-with-ease-windows-users-meet-kali/"><u>Transitioning with Ease: Windows Users, Meet Kali</u></a></li>
+</ul></div>
+

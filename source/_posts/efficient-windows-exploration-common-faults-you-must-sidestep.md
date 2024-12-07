@@ -1,7 +1,7 @@
 ---
 title: "Efficient Windows Exploration: Common Faults You Must Sidestep"
-date: 2024-11-23T17:43:00.280Z
-updated: 2024-11-27T17:41:08.642Z
+date: 2024-12-02T22:14:52.319Z
+updated: 2024-12-06T16:25:28.250Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 
 ![two people using a windows laptop](https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From opening the File Explorer to creating folders, keyboard shortcuts can help you work faster, which otherwise would've taken longer. [Keyboard shortcuts in Windows 11](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) are also the only solution when your trackpad or mouse is not working. And if you're facing the same issue, you should learn [how to fix your laptop's trackpad](https://www.makeuseof.com/tag/fix-laptop-touchpad-not-working/).
 
  As for keyboard shortcuts in File Explorer, there are plenty of useful ones. You can even use them to open tabs and make the folder icons bigger or smaller. Here is a list of some of the important keyboard shortcuts you can use in Windows 11's File Explorer:
@@ -53,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 * Press **Alt** \+ **P** to display the preview pane.
 * Press **Alt** \+ **Enter** to open the properties of the selected file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Avoiding Recent and Favorites Sections
 
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
 
@@ -72,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 ## 4\. Not Using Search Syntax While Searching Something in File Explorer
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
 
@@ -91,10 +95,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  You can check out how to [enable checkboxes in File Explorer](https://www.makeuseof.com/how-to-enable-checkboxes-select-files-windows-11/) to select multiple items more easily. This is the easiest way to select multiple files using your mouse or trackpad.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Not Knowing How To Name a File or Folder in File Explorer
 
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
@@ -105,21 +105,21 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  To help you, we have some [pro tips for naming and organizing files in Windows](https://www.makeuseof.com/pro-tips-naming-organizingfiles-windows/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Not Taking Advantage of Customization Options in File Explorer
 
 ![Screenshot showing File Explorer Download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows is known for its customizations. You also get a ton of options in File Explorer that enable you to give it a unique touch and be more productive. You're not utilizing some of the handy File Explorer features if you're not customizing it.
 
  One of the most widely used customization options is changing how folders and files are displayed in File Explorer. You can view files and folders with different view options, including tiles, lists, icons, content, and more. You can also [hide or reveal files containing sensitive information](https://www.makeuseof.com/tag/3-quick-easy-ways-hide-folder-windows-7/) at your convenience from File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Windows File Explorer Like a Pro
 
@@ -129,20 +129,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  For new Windows users or those unaware of File Explorer's many useful features, you should avoid making some common mistakes, as mentioned below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-from-camera-clicks-to-youtube-clips-an-experts-step-by-step-visual-instruction-manual/"><u>[New] In 2024, From Camera Clicks to YouTube Clips An Expert's Step-by-Step Visual Instruction Manual</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-everything-you-need-to-know-about-stardew-valley-ginger-island/"><u>[Updated] 2024 Approved Everything You Need to Know About Stardew Valley Ginger Island</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-trending-tweet-treasures-1-10-showdown/"><u>[Updated] 2024 Approved Trending Tweet Treasures #1-#10 Showdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-incorporate-portable-menus-in-windows-11plus/"><u>Effortlessly Incorporate Portable Menus in Windows 11+</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-xs-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone XS Max If Youve Tried Everything</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467004335-lost-sight-of-your-iphones-app-icons-discover-effective-remedies-to-restore-them/"><u>Lost Sight of Your iPhone's App Icons? Discover Effective Remedies to Restore Them</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-restrictions-resetting-corporate-settings-in-chromeedge-pcs/"><u>Overcoming Restrictions: Resetting Corporate Settings in Chrome/Edge PCs</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/reviving-old-photos-through-snapchats-memories-feature/"><u>Reviving Old Photos Through Snapchat's Memories Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-protecting-privacy-top-7-windows-apps-148-chars/"><u>Ultimate Guide to Protecting Privacy: Top 7 Windows Apps (148 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-boot-up-clearing-non-visible-sign-in-screens/"><u>Windows 11 Boot Up: Clearing Non-Visible Sign-In Screens</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -150,3 +136,25 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-your-movie-magic-free-text-animation-basics/"><u>2024 Approved Boost Your Movie Magic Free Text Animation Basics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-build-a-custom-facebook-coverage/"><u>2024 Approved Build a Custom Facebook Coverage</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-top-choice-portable-consoles-for-gamers-on-the-go/"><u>2024'S Top Choice Portable Consoles for Gamers On-the-Go</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/y-classics-a-curated-15-channel-collection-for-humor/"><u>Comedy Classics A Curated 15-Channel Collection for Humor</u></a></li>
+<li><a href="https://common-error.techidaily.com/dont-let-a-ghostly-cursor-haunt-your-windows-11-experience-quick-and-easy-fixes-uncovered/"><u>Don't Let a Ghostly Cursor Haunt Your Windows 11 Experience: Quick and Easy Fixes Uncovered</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/downloading-and-installing-windows-11-arm-an-iso-based-tutorial/"><u>Downloading & Installing Windows 11 ARM: An ISO-Based Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-customizable-fn-key-features-in-windows-11/"><u>Exploring Customizable FN Key Features in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-novice-film-capture-scrutiny-report/"><u>In 2024, Novice Film Capture Scrutiny Report</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-15-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 15 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-depth-look-at-razers-hd-webcam-experience-for-2024/"><u>In-Depth Look at Razer's HD Webcam Experience for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-antique-directx-games-using-dxvk/"><u>Reinvigorating Antique DirectX Games Using DXVK</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trick-installing-outlook-preview-in-windows-1011/"><u>Trick: Installing Outlook Preview in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-why-you-shouldnt-turn-off-wins-11-notifications/"><u>Understanding Why You Shouldn’t Turn Off Wins 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-secrets-opening-win11s-system32/"><u>Unraveling the Secrets: Opening Win11's System32</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-samsung-960-evo-ssd-with-the-best-driver-download-tools-for-windows-systems/"><u>Update Your Samsung 960 EVO SSD with the Best Driver Download Tools for Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-storage-management-relocate-your-onedrive/"><u>Win 11 Storage Management: Relocate Your OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategy-against-default-saving-failures/"><u>Winning Strategy Against Default Saving Failures</u></a></li>
+</ul></div>
+

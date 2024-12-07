@@ -1,7 +1,7 @@
 ---
 title: "Excel Online Vs. Desktop: Understanding My Preference and Its Benefits"
-date: 2024-08-28T01:07:36.273Z
-updated: 2024-08-29T01:07:36.273Z
+date: 2024-12-01T23:14:39.214Z
+updated: 2024-12-06T23:43:19.292Z
 tags:
   - excel
 categories:
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
  Let's first look at the features in Excel for the web that really persuade me that it's the better way to create a spreadsheet.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  It's Free
 
  If you're looking for a free, web-based spreadsheet program that works like a paid app, you can't go wrong with Excel for the web. All you need is a Microsoft account—which you can create using a Microsoft, Outlook, Hotmail, Live, Yahoo, or Gmail email address—to access to Microsoft 365 for the web.
@@ -35,8 +32,13 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 ![Excel for the web landing page, with the Excel logo highlighted on the left, and the three options available for creating or working on spreadsheets also highlighted in the main pane.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/excel-for-the-web-landing-page.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  You Can Automatically Sync Forms to Excel
 
  Excel for the web is Microsoft's answer to Google Sheets, and in no way is that truer than its form-to-spreadsheet integration.
@@ -51,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
 ![An Excel for the web window displaying the results from the Microsoft Form.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/synced-results.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Excel Online Is Better for Collaboration
 
  Sharing an Excel workbook through the app or Excel for the web requires very similar steps. Where Excel for the web comes out on top, though, is how it lets two or more people work on a spreadsheet at the same time (and, as I mentioned earlier, using Excel for the web is free).
@@ -68,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 ![An Excel for the web workbook with the Share button highlighted and the sharing options displayed beneath.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/share-excel-for-the-web.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Click "Share" to add the recipients' email addresses. You can also see a list of people who already have access through this option.
 * Click "Copy Link" if, for example, you want to send a link to the workbook through another app or embed it within text in an email.
 * Click "Copy Link To This Sheet" to send the active worksheet (the one you have open at that time).
@@ -93,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
  When Microsoft has a new idea for its apps, it first rolls it out to members of the [Microsoft 365 Insider program](https://insider.microsoft365.com/en-us/). Generally, updates to the web-based version of Excel are available to everyone using the program much more quickly than when Microsoft amends its subscription apps. As a result, you're more likely to access Excel's latest features by using Excel for the web. As well as the features mentioned above, keep an eye on the [Microsoft 365 Insider blog](https://insider.microsoft365.com/en-us/blog) for more info on what's in the pipeline.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Excel for the Web Has Many Traditional App-Based Features
 
  Over the years, people have complained that Excel for the web is less functional than its app-based counterpart. While this might have been correct when Microsoft launched the Office Web Apps in 2010, nowadays, Excel for the web has adopted many features from its app-based cousin:
@@ -103,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 * **AutoFill**—Make the most of Excel's autofill to add sequential data to your spreadsheet. To try it out, type **January** in cell A1 and **February** in cell A2, highlight both cells, and then move your cursor to the bottom-right corner of cell A2\. You'll see the cursor change to a + sign, which you can click and drag downwards to complete your column of months.
 * **Paste options**—Ctrl+C and Ctrl+V is probably the most well-known keyboard shortcut around. However, if you only want to paste certain things from what you've copied—such as the formatting or cell value—right-click the cell where you want it to go, hover over "Paste Special," and choose from the six options available.
 * **Export and Open CSV Files**—The Excel app has supported CSV files—useful as a lightweight intermediary format to move data between applications—for many years, but you can now also [take advantage of this capability in Excel for the web](https://extra-skills.techidaily.com/spectral-perfection-program-for-2024/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  There's Room for Improvement
 
@@ -122,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,26 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-eyelaughs-funny-image-generator/"><u>[New] EyeLaughs Funny Image Generator</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-unseen-loss-rapid-video-expulsion/"><u>[New] In 2024, The Unseen Loss Rapid Video Expulsion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-craft-stellar-channels-best-10-apps-for-artistic-banner-design-for-2024/"><u>[Updated] Craft Stellar Channels Best 10 Apps for Artistic Banner Design for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/apeaksofts-game-changing-recording-technology-review-for-2024/"><u>Apeaksoft's Game-Changing Recording Technology Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-down-to-size-excluding-onedrive-in-windows-explorer/"><u>Cut Down to Size: Excluding OneDrive in Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-character-mapping-errors-on-windows/"><u>Decoding and Correcting Character Mapping Errors on Windows</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/effective-solutions-for-speeding-up-sluggish-windows-applications-expert-tips-from-yl-computings-guide/"><u>Effective Solutions for Speeding Up Sluggish Windows Applications - Expert Tips From YL Computing's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solve-camera-unavailable-issue-on-windows-11/"><u>How to Solve Camera Unavailable Issue on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-elite-camcorders-with-direct-facing-screens/"><u>In 2024, Elite Camcorders with Direct Facing Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-maze-of-typical-anydesk-issues-on-windows/"><u>Navigating Through the Maze of Typical AnyDesk Issues on Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-best-free-3d-animation-apps-for-android-and-ios/"><u>New In 2024, Unleash Your Creativity Best Free 3D Animation Apps for Android & iOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/quick-tips-turning-off-igtv/"><u>Quick Tips Turning Off IGTV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-where-your-onedrive-stands-a-guide-for-windows-10/"><u>Redefining Where Your OneDrive Stands: A Guide for Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-decorative-elements-in-windows-search/"><u>Reducing Decorative Elements in Windows Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-incessant-pause-windows-errors/"><u>Remedy for Incessant Pause Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-true-windows-clock-settings/"><u>Securing True Windows Clock Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-executing-clean-boots-on-windows-11/"><u>Understanding and Executing Clean Boots on Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/what-is-snapchat-spotlight-in-2024-how-to-use-it/"><u>What Is Snapchat Spotlight, In 2024 How to Use It?</u></a></li>
+</ul></div>
 

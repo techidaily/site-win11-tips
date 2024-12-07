@@ -1,7 +1,7 @@
 ---
 title: "Liberating Windows Dialogue: With FreedomGPT Engagement"
-date: 2024-08-28T01:10:51.481Z
-updated: 2024-08-29T01:10:51.481Z
+date: 2024-12-04T16:55:34.427Z
+updated: 2024-12-06T22:04:51.912Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a03
 
  Unlike ChatGPT, which is only usable through your browser when connected to the internet, FreedomGPT is an alternative you can install on your computer. You can then chat with it about anything you want without sharing your data with others.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Not Just Use ChatGPT?
 
  ChatGPT is admittedly awesome at what it does. It can be daunting to wrap your head around how these AI chatbots work, so take some time to check out [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) if you're still learning about this topic.
 
  The problem with ChatGPT is that it comes with some caveats:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. ChatGPT May Record and Use Your Responses for Training Purposes
 
@@ -34,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a03
 
  That's why many companies have forbidden using ChatGPT internally, and why it's generally considered a bad idea to share sensitive information with it.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. OpenAI Sets Limits on How You Use ChatGPT
 
  Are you among those who believe that ChatGPT is getting progressively worse? Does it seem to perform slower than before, and the answers it provides becoming less useful? It's not your imagination.
@@ -58,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a03
 
  With FreedomGPT's "app" part downloaded and installed, run its installed local instance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download AI Models in FreedomGPT
 
  Although FreedomGPT is a complete AI chatbot solution, it initially lacks "the brains" that will allow you to interact with it: an AI model.
@@ -70,14 +79,12 @@ thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a03
 3. Even the most compact AI models can be multiple gigabytes in size, so it may take a while to download your chosen model. Fortunately, FreedomGPT will show you a download progress bar.  
 ![FreedomGPT Downloading Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-downloading-model-1.jpg)
 4. Once you've downloaded an AI mode, a new button will appear on the left, allowing you to **Select** which downloaded AI model you'd like to use.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![FreedomGPT AI Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-ai-model-selection-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Chat With FreedomGPT
 
  Fortunately, if you're familiar with ChatGPT, you'll notice that FreedomGPT's UI is very similar.
@@ -85,15 +92,8 @@ thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a03
 1. The first thing you will see after choosing an AI model are some examples of prompts you can try out and information on its capabilities and limitations. If you want to try out one of the example prompts, click on it. However, you can type anything you wish in the input field at the bottom of FreedomGPT's window.  
 ![FreedomGPT Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-interface-1.jpg)
 2. Press **Enter** after typing your prompt, and it will show up in FreedomGPT's conversation view. The AI model's response will appear below your prompt. If you don't like how it's going, you can cut a response short by clicking on the **Stop Responding** button, which appears while a reply is produced.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![FreedomGPT Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-chatting-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Switch Models in FreedomGPT
 
  If you want to try another AI model, you don't have to exit and rerun FreedomGPT. You can switch models from within the app.
@@ -101,22 +101,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. At the top left of FreedomGPT's window is the current AI model's name. Click on it to access the model management panel.  
 ![FreedomGPT Active Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-active-model-1.jpg)
 2. The model management panel is identical to the screen you saw when you first ran FreedomGPT. You can switch to another model from this panel by clicking on **Select** before its name or **Download** and install more models.  
-![FreedomGPT Switch Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-switch-models-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![FreedomGPT Switch Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-switch-models-1.jpg)
+
 ## Talk to an AI Whenever You Like With FreedomGPT
 
  Although it's less feature-rich and advanced than ChatGPT, FreedomGPT has many pros going for it You don't share whatever you type with others, it's available while you're offline, it's easy to set up and use, and best of all, it's free to use.
 
  Unlike ChatGPT, which is only usable through your browser when connected to the internet, FreedomGPT is an alternative you can install on your computer. You can then chat with it about anything you want without sharing your data with others.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -124,3 +120,25 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-superior-sound-recorders-for-scholarly-discussions-for-2024/"><u>[New] Superior Sound Recorders for Scholarly Discussions for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-maximizing-your-monetary-gains-on-social-media-with-snapchat/"><u>[Updated] 2024 Approved Maximizing Your Monetary Gains on Social Media with Snapchat</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-help-polish-written-work/"><u>Can AI Help Polish Written Work?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/compact-superzoom-camera-a-deep-dive-into-sx720hs-features/"><u>Compact Superzoom Camera: A Deep Dive Into SX720HS Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-unlicensed-adobe-software-alerts/"><u>Disabling Unlicensed Adobe Software Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-11s-development-environment-a-guide-to-dev-drive/"><u>Exploring Windows 11'S Development Environment: A Guide to Dev Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-a-custom-pattern-lock-to-a-windows-11-or-11-pc/"><u>How to Add a Custom Pattern Lock to a Windows 11 or 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-tiworkerexe-high-cpu-usage-in-windows/"><u>How to Fix a TiWorker.exe High CPU Usage in Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-tales-on-the-silver-screen-writing-for-cinema/"><u>In 2024, Tales on the Silver Screen Writing for Cinema</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-into-productivity-windows-11s-multiple-folder-creation-tricks/"><u>Leap Into Productivity: Windows 11'S Multiple Folder Creation Tricks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nokia-105-classic-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nokia 105 Classic? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-archive-integration-securing-zip-within-images-windows-11/"><u>Silent Archive Integration: Securing ZIP Within Images (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/standby-struggles-decoding-modern-standby-woes/"><u>Standby Struggles: Decoding Modern Standby Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-0x8004dec5-error-in-windows-11-onedrive-sign-in/"><u>Troubleshooting 0X8004dec5 Error in Windows 11 OneDrive Sign In</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-procedure-to-move-onedrive-directly-in-windows/"><u>Unveiling the Procedure to Move OneDrive Directly in Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-fastest-way-to-convert-4k-videos-to-mp4-no-technical-expertise-needed-for-2024/"><u>Updated The Fastest Way to Convert 4K Videos to MP4 No Technical Expertise Needed for 2024</u></a></li>
+</ul></div>
+

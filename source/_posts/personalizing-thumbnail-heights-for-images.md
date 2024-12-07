@@ -1,7 +1,7 @@
 ---
 title: Personalizing Thumbnail Heights for Images
-date: 2024-11-22T16:03:31.629Z
-updated: 2024-11-27T16:56:49.113Z
+date: 2024-12-03T20:28:53.755Z
+updated: 2024-12-06T23:18:36.993Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Change Image Thumbnail Size Using the File Explorer
@@ -40,11 +40,11 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 ![View option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change the Image Thumbnail Size Using the Registry Editor
@@ -60,35 +60,21 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 ![DWORD (32-bit) Value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dword-32-bit-value-2.jpg)
 4. Name the value **ThumbnailSize**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Double-click on ThumbnailSize, and enter the value between **32** and **256**. The higher the number, the larger the image thumbnail.  
 ![Value data in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/value-data-1.jpg)
 6. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything Is Large and Clear on Windows
 
  Thumbnails are small representations of the original image, allowing you to identify and organize your images easily. However, if the image thumbnail size is too small, identifying and organizing your images can be challenging. Fortunately, the above methods can help you change the image thumbnail size according to your preference, making it easier to manage your files.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-navigating-through-gopros-time-lapse-potential/"><u>[New] Navigating Through GoPro's Time-Lapse Potential</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-the-screen-of-the-iphone-7/"><u>[Updated] How to Record the Screen Of The iPhone 7</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-prioritize-quality-and-ease-the-top-12-videophones-for-2024/"><u>[Updated] Prioritize Quality and Ease The Top 12 Videophones for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-wattpad-stars-moments-on-snapchat/"><u>[Updated] Wattpad Stars Moments on Snapchat</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-crafting-top-tier-gopro-filming/"><u>2024 Approved Unlocking the Potential Crafting Top-Tier Gopro Filming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-admin-restriction-notifications-in-winsec/"><u>Dealing with 'Admin Restriction' Notifications in WinSec</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-wpt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to .wpt file</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-vlc-media-player-reducing-delay-effects/"><u>Optimizing VLC Media Player: Reducing Delay Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-device-hang-error-x887a0006-on-windows-11/"><u>Overcoming Device Hang Error: X887A0006 on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-breakpoint-exception-error/"><u>Overcoming Windows' Breakpoint Exception Error</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -97,3 +83,21 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-zero-pay-zone-how-to-watch-record-and-edit-soccer-for-free/"><u>[New] 2024 Approved Zero Pay Zone How To Watch, Record, and Edit Soccer for Free</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-cutting-edge-cinema-teasers/"><u>[New] Cutting-Edge Cinema Teasers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>[New] In 2024, Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlocking-the-secrets-to-becoming-an-exceptional-interviewer/"><u>[New] Unlocking The Secrets To Becoming An Exceptional Interviewer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-understanding-apples-audio-content-guidelines/"><u>[Updated] In 2024, Understanding Apple’s Audio Content Guidelines</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectrum-perfection-color-grading-basics/"><u>[Updated] Spectrum Perfection Color Grading Basics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-90-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-playback-settings-for-flawless-media-streams/"><u>Optimizing Playback Settings for Flawless Media Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-altering-win-11s-keyboard-settings/"><u>Understanding and Altering Win 11'S Keyboard Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-creativity-on-win10-with-these-7-art-tools/"><u>Unleash Creativity on Win10 with These 7 Art Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-creativity-desktop-drawing-in-win-1011/"><u>Unleash Creativity: Desktop Drawing in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackling-the-gamer-solve-full-screen-freezes-for-sonic-games-windows-11/"><u>Unshackling the Gamer: Solve Full-Screen Freezes for Sonic Games (Windows 11)</u></a></li>
+</ul></div>
+

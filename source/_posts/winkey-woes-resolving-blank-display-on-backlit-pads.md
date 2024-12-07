@@ -1,7 +1,7 @@
 ---
 title: "WinKey Woes: Resolving Blank Display on Backlit Pads"
-date: 2024-11-24T18:12:30.140Z
-updated: 2024-11-27T16:12:09.970Z
+date: 2024-12-04T19:56:50.040Z
+updated: 2024-12-07T00:31:33.263Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check if Your Keyboard Comes With the Backlit Feature
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 ![backlit-keyboard-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/backlit-keyboard-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re sure your keyboard comes with a backlight, try using a keyboard shortcut to turn it on. Depending on the manufacturer, the shortcut might be the **Fn key** and one of the **F keys** or **Fn key + Spacebar**.
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 
 ![Backlit keyboard app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/keyboard-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Update Your Keyboard Drivers
 
  If your keyboard backlight is sensor-activated, and it doesn’t work anymore, there’s a chance an outdated or corrupt driver is causing the problem. To fix it, you should update your keyboard driver. Here is how you can do it:
@@ -76,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 3. Right-click your keyboard driver and select **Update driver**.
 
 ![Update keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/update-keyboard-driver-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this didn't fix the problem, there are [more ways to fix a corrupt driver](http://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/).
 
@@ -90,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 ![Running the keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/keyboard-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Windows 11, go to **Settings > System >Troubleshoot > Other trouble-shooters** to access the Keyboard troubleshooter.
@@ -106,17 +114,9 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 
 ![Running the device troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Perform a Clean Boot
 
  If nothing worked until now, you should [perform a clean boot](https://www.makeuseof.com/how-perform-clean-boot-windows-10/)on your computer. This way, your system will start without any third-party app that might influence your backlit keyboard functionality. If your keyboard lights up, open Control Panel and take a look at the apps that you’ve installed lately since one of them is causing your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Backlit Keyboard Problems Resolved
 
@@ -126,27 +126,6 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 
  However, different apps, software updates, or hardware issues might stop your backlit keyboard from working. So if you’ve already restarted your computer or connected your keyboard to every USB port, and it’s still not working, it’s time you take a closer look at the problem.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-leveraging-viewership-the-mechanics-of-product-sponsored-youtube-videos/"><u>[New] In 2024, Leveraging Viewership The Mechanics of Product-Sponsored YouTube Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-a-step-by-step-approach-to-boosting-your-podcasts-seo/"><u>[Updated] A Step-by-Step Approach to Boosting Your Podcast's SEO</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-the-way-for-functional-alerts-in-microsoft-outlook/"><u>Clearing the Way for Functional Alerts in Microsoft Outlook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/dissecting-instagrams-maximum-video-duration-rule/"><u>Dissecting Instagram's Maximum Video Duration Rule</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-enhance-your-pcs-outlook-velocity/"><u>Effortlessly Enhance Your PC's Outlook Velocity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guaranteeing-unhindered-printer-usage-on-windows-11/"><u>Guaranteeing Unhindered Printer Usage on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-keeping-windows-bar-visible-with-maximized-titles/"><u>Guide to Keeping Windows Bar Visible with Maximized Titles</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-f04-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy F04 Phone When You Forget the Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-poco-m6-pro-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Poco M6 Pro 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-smart-7-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Smart 7? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-pathways-of-windows-iscsi-initiator/"><u>Navigating the Pathways of Windows iSCSI Initiator</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/e-engagement-understanding-fair-advertising-on-youtube/"><u>Secure Engagement Understanding Fair Advertising on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sidestep-too-many-requests-a-guide-to-smooth-windows-app-operations/"><u>Sidestep 'Too Many Requests': A Guide to Smooth Windows App Operations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-workaround-windows-installation-blockers/"><u>Techniques to Workaround Windows Installation Blockers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/transformative-ways-to-document-facetime-interactions-for-2024/"><u>Transformative Ways to Document FaceTime Interactions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/visualize-diskspace-on-demand-from-windows-explorer-menu/"><u>Visualize DiskSpace on Demand From Windows Explorer Menu</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -154,3 +133,19 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-revival.techidaily.com/comparing-top-ai-chatbots-chatgpt-microsoft-bing-ai-and-google-bard-who-reigns-supreme/"><u>Comparing Top AI Chatbots: ChatGPT, Microsoft Bing AI & Google Bard - Who Reigns Supreme?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-win11s-secrets-mastering-mouse-settings-and-controls/"><u>Decode Win11's Secrets: Mastering Mouse Settings and Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expand-your-windows-11-pinned-apps-area/"><u>Expand Your Windows 11 Pinned Apps Area</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-your-least-resource-intensive-windows-browser-option/"><u>Finding Your Least Resource-Intensive Windows Browser Option</u></a></li>
+<li><a href="https://fox-within.techidaily.com/guide-to-restoring-accidentally-erased-camera-recordings-on-your-dvrnvr-device/"><u>Guide to Restoring Accidentally Erased Camera Recordings on Your DVR/NVR Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-g24-power-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola G24 Power to iPhone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-x9b-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor X9b FRP</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-desktop-image-blending-techniques-for-2024/"><u>Mastering Desktop Image Blending Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-fixing-net-issues-max-156/"><u>The Ultimate Guide to Fixing .NET Issues (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-cyber-safety-7-strategies-for-blocking-unauthorized-access/"><u>Winning Cyber Safety: 7 Strategies for Blocking Unauthorized Access</u></a></li>
+</ul></div>
+

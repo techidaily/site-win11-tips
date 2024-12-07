@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Stuck-On-Size Errors in Win11 Discord with Ease
-date: 2024-08-28T01:12:35.805Z
-updated: 2024-08-29T01:12:35.805Z
+date: 2024-12-03T18:03:00.785Z
+updated: 2024-12-06T23:28:17.311Z
 tags:
   - windows10
   - windows11
@@ -30,11 +30,20 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 2. Click the **Choose** **File** button and select the GIF that's throwing the error on uploading on Discord.  
 ![Choose File on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/choose-file.jpg)
 3. Click the **Upload** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use the **Compression level slider** to manually adjust the amount of compression. If your GIF is large in size, set the slider at a higher level.  
 ![Compression slider on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/compression-slider.jpg)
 5. Click the **Optimize GIF** button.
 6. Click the **Save** button.  
 ![Save icon on Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-icon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, check if you can upload the GIF. If not, probably the resolution is more than 128\*128 pixels. To reduce the resolution, follow the below steps:
 
@@ -53,44 +62,41 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 ![Log out option of Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-out-option.jpg)
 3. Enter your credentials and click the **Log In** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, try to upload the GIF and check if you still face the error.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Clear the Discord Cache Data
 
  Discord's cache stores all your media, so you don't have to re-download them every time you see it. However, whether it's because of malware attacks, sudden system shutdowns due to power cuts, or something else, the cache data can get corrupted and cause issues like the one at hand.
 
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reinstall Discord
 
  The error message can also occur due to an issue in the Discord installation files. You can fix this by reinstalling Discord.
 
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Contact Discord Support
 
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your Conversations Interesting With GIF Emotes on Discord
 
  It's very easy to upload and post GIF emotes on Discord. But sometimes you might encounter the "cannot resize GIF" error when you try to upload one.. Luckily, you can quickly solve the issue by following the above solutions.
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -98,3 +104,19 @@ The ultimate burning program for all your needs!</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/advancing-iphones-intelligence-top-four-ai-enhancements-inspired-by-android/"><u>Advancing iPhone's Intelligence: Top Four AI Enhancements Inspired by Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-task-management-on-windows-11/"><u>Elevate Task Management on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-roblox-error-262-in-minutes/"><u>Eliminate Roblox Error 262 in Minutes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/escalating-valorant-speed-on-slow-windows-systems/"><u>Escalating Valorant Speed on Slow Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-narzo-n53-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme Narzo N53 Pattern Lock Screen</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-mac-studio-to-youtube-stream-imovie-video-upload-guide-for-2024/"><u>From Mac Studio to YouTube Stream IMovie Video Upload Guide for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/locating-autosaved-or-temporary-excel-file-positions-in-windows-and-macos-systems/"><u>Locating Autosaved or Temporary Excel File Positions in Windows and MacOS Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-sharpened-internet-video-views-for-2024/"><u>Mastering the Art of Sharpened Internet Video Views for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-11-error-code-geforce-x0001/"><u>Mending Windows 11 Error Code: GeForce X0001</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-your-information-safeguarding-against-potential-risks-of-chatgpts-customized-gpt-models/"><u>Protecting Your Information: Safeguarding Against Potential Risks of ChatGPT's Customized GPT Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-tutorial-acquiring-the-latest-drivers-for-your-acer-aspire-computer-on-a-windows-system/"><u>Ultimate Tutorial: Acquiring the Latest Drivers for Your Acer Aspire Computer on a Windows System</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Solving Graphics Error: Fix for Windows Device Hang"
-date: 2024-11-26T18:05:06.411Z
-updated: 2024-11-27T16:38:44.331Z
+date: 2024-12-02T16:20:17.817Z
+updated: 2024-12-06T21:20:59.659Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 ![The Run this program as administrator setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-compatibility-tab1.jpg)
 6. To save the settings, press the **Apply** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Then try playing your affected game to see if this potential solution makes a difference.
 
 ## 2\. Select Debug Mode in the NVIDIA Control Panel
@@ -53,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 3. Select **Debug Mode** on the menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair the Files for Any Affected Games
 
  There’s a possibility that the 0x887A0006 error sometimes occurs because of corrupted game files. So, it’s recommended players verify affected games with their gaming clients. Epic Games, Steam, Origin, and Battle.net all include options for verifying (repairing) games. This is how you can verify affected games in the Epic Game and Steam launchers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Repair Games on Epic Games
 
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 5. Press the **Verify** button, and wait for the verification process to finish.  
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Repair Games on Steam
 
  For Steam:
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 4. Click the **Local Files** tab to view more options.  
 ![The Verify integrity option in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/steams-verify-option.jpg)
 5. Select Steam’s **Verify integrity of game files** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check If Your PC Uses the Right GPU for Affected Games
 
@@ -101,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 ![The High-performance NVIDIA processor option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-high-performance-graphics-processor-option.jpg)
 7. Select **Apply** to save the new GPU settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your PC has an AMD graphics card, you’ll need to open the AMD Radeon Settings panel from the desktop’s context menu. Click the System tab in AMD Radeon Settings. Then click the **Switchable Graphics** tab, and select the **High Performance** GPU option for the affected game.
 
 ## 5\. Roll Back the Most Recent Graphics Driver Update
@@ -112,14 +108,6 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
  A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about [how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Update Your GPU’s Driver
 
@@ -130,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
  Our guide for [updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Disable DirectX 12 in Any Affected Games
 
@@ -151,7 +135,11 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 6. Add **d3d11** in the text box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Switch to the High-Performance Power Plan
@@ -163,11 +151,16 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 3. Click **Create a power plan** on the left side of the Control Panel applet.  
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-option.jpg)
 4. Select the **High performance** option for the plan.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-radio-button.jpg)
 5. Input a plan title in the name box and click **Next**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **Create** to add the plan.
@@ -194,16 +187,24 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 6. Enter **0** in TdrLevel’s **Value** box, and select **OK** to save.
 7. Close the Regedit app, and then restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Reinstall the Game That's Crashing
 
 ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can [back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
  You might be able to uninstall an affected game via Programs and Features or Settings. If you can’t see a game listed there, however, you’ll need to uninstall the title within the gaming client software with which you installed it. Then select to install the game in your gaming client.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stop the 0x887A0006 Error Spoiling Your Gaming Fun
@@ -212,26 +213,6 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 
  Microsoft has described the DXGI\_ERROR\_DEVICE\_HUNG error to be a command communication issue between system hardware and games. This error is a big deal when it keeps crashing affected Windows games. However, players have resolved the 0x887A0006 error with these potential fixes.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-navigating-the-maze-of-communication-features-on-snapchat/"><u>[New] 2024 Approved Navigating the Maze of Communication Features on Snapchat</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/astering-360-degree-videos-secure-youtube-uploads/"><u>[New] Mastering 360-Degree Videos Secure YouTube Uploads</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensive-guide-for-high-quality-presentation-capture-for-2024/"><u>[Updated] Comprehensive Guide for High-Quality Presentation Capture for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-all-about-kinemaster-androids-ultimate-gaming-companion/"><u>[Updated] In 2024, All About KineMaster Android's Ultimate Gaming Companion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimizing-playback-speed-with-professional-tactics/"><u>[Updated] Optimizing Playback Speed with Professional Tactics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capturing-the-best-on-iphone-8-techniques-for-pro-video-shoots/"><u>Capturing the Best on iPhone 8 Techniques for Pro Video Shoots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-captcha-errors-on-steam-software/"><u>Correcting CAPTCHA Errors on Steam Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiency-at-your-fingertips-windows-command-shortcuts/"><u>Efficiency at Your Fingertips: Windows Command Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-use-of-task-scheduler-in-running-batch-jobs/"><u>Efficient Use of Task Scheduler in Running Batch Jobs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-limited-controls-in-windows-voice-only-bluetooth-outputs-only/"><u>Eliminating Limited Controls in Windows - Voice-Only Bluetooth Outputs Only</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-launching-windows-based-programs/"><u>Mastering the Art of Launching Windows-Based Programs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-2024s-best-gaming-displays-cost-effective-curved-panels-and-adaptive-sync-technology/"><u>Navigate Through 2024'S Best Gaming Displays: Cost-Effective, Curved Panels and Adaptive Sync Technology</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/secure-mobile-messaging-made-simple-with-these-10-best-free-chat-services-on-iphoneandroid-for-2024/"><u>Secure Mobile Messaging Made Simple with These 10 Best Free Chat Services on iPhone/Android for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/solving-the-mystery-of-disappearing-files-in-secure-google-photos-storage/"><u>Solving the Mystery of Disappearing Files in Secure Google Photos Storage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-sheen-on-your-taskbar-w11-edition/"><u>Strategies for Sheen on Your Taskbar: W11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-common-steam-errors-the-e84-solution/"><u>Tackling Common Steam Errors: The E84 Solution</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -239,3 +220,27 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-hidden-media-from-your-connected-friends-for-2024/"><u>[New] Unleashing Hidden Media From Your Connected Friends for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-full-assessment-of-slomo-application-trends/"><u>[Updated] Full Assessment of SloMo Application - Trends</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-a-step-by-step-guide-to-dominating-the-youtube-viewership-game/"><u>2024 Approved A Step-by-Step Guide to Dominating the YouTube Viewership Game</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-back-on-windows-high-contrast-glare/"><u>Cut Back on Windows' High Contrast Glare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-fixing-winerror-0x80071a90/"><u>Detailed Guide to Fixing WinError 0X80071a90</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdr-tech-review-auroras-place-among-leaders/"><u>HDR Tech Review Aurora's Place Among Leaders</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a59-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A59 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-make-collab-videos-and-grow-your-channel-in-2024/"><u>How to Make Collab Videos and Grow Your Channel, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-and-stabilize-apex-gameplay-on-windows-11/"><u>How to Reset and Stabilize Apex Gameplay on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-telnet-effectively-on-windows-1011-devices/"><u>How to Use Telnet Effectively on Windows 10/11 Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/initiating-your-streaming-journey-youtube-registration/"><u>Initiating Your Streaming Journey YouTube Registration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-original-windows-search-settings/"><u>Restoring Original Windows Search Settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smart-weather-app-options-for-win-os/"><u>Smart Weather App Options for Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-systemsettingsexe-errors-in-win11/"><u>Steps to Resolve SystemSettings.exe Errors in Win11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-find-n3-flip-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo Find N3 Flip Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-and-reactivate-stalled-wsreset-in-windows/"><u>Troubleshoot and Reactivate Stalled WSReset in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-bluescreenview-usage-guide/"><u>Unveiling BlueScreenView: Usage Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-lighten-the-load-best-free-video-compression-software-for-windows-10/"><u>Updated In 2024, Lighten the Load Best Free Video Compression Software for Windows 10</u></a></li>
+</ul></div>
+

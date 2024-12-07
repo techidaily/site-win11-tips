@@ -1,7 +1,7 @@
 ---
 title: "Master the Art: Integrating Portable Tools in Windows 11"
-date: 2024-08-28T01:13:05.414Z
-updated: 2024-08-29T01:13:05.414Z
+date: 2024-12-03T22:19:30.193Z
+updated: 2024-12-06T18:40:25.282Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 ![The self-extracting archive for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/self-extracthing-archive.jpg)
 8. Then click the**Extract** option for the archive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now it's time to get SyMenu up and running:
 
 1. Double-click the**SyMenu.exe** file.
@@ -43,6 +47,10 @@ Now it's time to get SyMenu up and running:
 4. Click the**I accept this condition** option for privacy policies.
 5. Finally, select an**Advanced** menu structure option and click**Next** .  
 ![The menu structure options for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use SyMenu on Windows
 
@@ -62,6 +70,10 @@ Now it's time to get SyMenu up and running:
 
 ![The SyMenu app suite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-symenu-suite.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can customize colors for the menu from the SyMenu options. Select**Tools** \>**Options** to bring up that window. Click**Theme** to view the options shown below. You can change the menu’s colors by clicking the palette boxes and choosing alternatives.
 
 ![The Theme tab for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-theme-tab.jpg)
@@ -70,9 +82,6 @@ Now it's time to get SyMenu up and running:
 
  If you're looking for apps to add to your repertoire, why not check out[the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) ?
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## How to Add a Portable Software Menu With LiberKey
 
  LiberKey adds a bigger portable software menu to Windows that includes animation effects, tabs, and larger icons. Its tabbed layout enables you to create alternative menu tabs for opening portable apps. These are the steps for adding a portable software menu to Windows with LiberKey:
@@ -82,6 +91,11 @@ Now it's time to get SyMenu up and running:
 3. Select the**Download LiberKey 5.8** option.  
 ![The Download LiberKey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-liberkay-option.jpg)
 4. Double-click**LiberKey\_5.8.1129.exe** to open a setup wizard for the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Next** to select the**I accept software license agreement** option.
 
 1. Select**Next** a few more times to reach the directory selection option.
@@ -90,8 +104,9 @@ Now it's time to get SyMenu up and running:
 4. Then select**Install** to add LiberKey to your USB stick.  
 ![The Install button for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option2.jpg)
 5. Click**Finish** with the Launch LiberKey checkbox selected.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you’ll see a LiberKey icon in the Windows system tray area. Click that system tray icon to view the menu. That menu has**Most used** and**Recent** which will fill up when you start using LiberKey a bit more. It also includes a pie chart icon that shows the amount of free and used drive storage when you hover the cursor over it.
@@ -102,13 +117,14 @@ Now it's time to get SyMenu up and running:
 
 ![The small LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-small-liberkey-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  First, you’ll need to add a new menu tab for your portable software. Click the small**User menus** arrow button to select**Create new menu** . Input a title for the tab in the Menu name box and select**OK** .
 
 ![The Create new menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-current-item-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
 ![The New shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-shortcut-submenu.jpg)
@@ -124,21 +140,15 @@ Now it's time to get SyMenu up and running:
 ![The Color tab for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-color-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can reconfigure LiberKey’s effects from the**User Interface** tab on the Configuration window. Select the disable options there to turn off the menu’s animation effects. To add an analog clock to the menu’s LiberKey logo, select the**Displayclock** checkbox. You can also adjust the menu open delay by selecting**Custom** and entering an alternative millisecond value.
 
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Make Your Portable Apps More Accessible on Windows
 
  A SyMenu or LiberKey software menu gives you an entirely new way to manage and launch portable apps on Windows PCs. You can make all your portable software more directly accessible from the system tray area with LiberKey and SyMenu. That menu will also be truly portable since you can utilize it from a USB stick on different PCs.
@@ -149,8 +159,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +166,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-depth-steps-using-mobizen-for-smooth-screen-recording-for-2024/"><u>[New] In-Depth Steps Using Mobizen for Smooth Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erfecting-projects-a-deep-dive-into-youtube-studio-editor/"><u>[New] Perfecting Projects A Deep Dive Into YouTube Studio Editor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-vimeo-vs-youtube-vs-dailymotion-which-video-platform-is-right-for-you/"><u>2024 Approved Vimeo vs YouTube vs Dailymotion Which Video Platform Is Right for You?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/b500s-wi-fi-capability-a-missed-marking/"><u>B500's Wi-Fi Capability, a Missed Marking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficiently-upgrade-sata-drivers-on-windows-the-ultimate-how-to-guide/"><u>Efficiently Upgrade SATA Drivers on Windows: The Ultimate How-To Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-essential-errors-fixing-issues-in-win10win11/"><u>Eradicating 'Essential' Errors: Fixing Issues in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tabs-to-transcribe-on-tablets-and-laptops/"><u>Essential Tabs to Transcribe on Tablets & Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-full-capabilities-of-windows-snip-and-sketch-tool/"><u>Explore the Full Capabilities of Windows' Snip & Sketch Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-your-intel-unison-working-flawlessly-on-windows-11/"><u>Get Your Intel Unison Working Flawlessly on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-protect-your-windows-command-history/"><u>How to Protect Your Windows Command History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-windows-11-definers-guide/"><u>Immediate Windows 11 Definers Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-broadcast-keepers-2023/"><u>In 2024, Facebook Broadcast Keepers 2023</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-microsofts-pc-manager-into-windows-11/"><u>Integrating Microsoft's PC Manager Into Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shake-up-your-computing-experience-win-11s-non-native-tools/"><u>Shake Up Your Computing Experience: Win 11'S Non-Native Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sharpen-your-shots-canon-offers-freepaid-lut-edits-for-2024/"><u>Sharpen Your Shots Canon Offers Free/Paid LUT Edits for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11-tpm-obstacles-with-ease/"><u>Tackling Windows 11 TPM Obstacles with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-efficient-browsers-with-low-resource-impact-on-all-oses/"><u>Top Efficient Browsers with Low Resource Impact on All OSes</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-smart-7-hd-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Smart 7 HD? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

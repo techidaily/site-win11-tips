@@ -1,7 +1,7 @@
 ---
 title: "How To: Implement Three-Column Layouts in Win11 UI"
-date: 2024-11-26T16:30:53.282Z
-updated: 2024-11-27T17:35:27.544Z
+date: 2024-12-01T18:03:47.929Z
+updated: 2024-12-06T22:35:22.729Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the New Widgets Board in Windows 11, and How Is It Different From the Old One?
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901
 ![Windows 11 widgets pane](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The new Widgets Board offers a larger canvas with a clear separation between Widgets and the feed content. It has three columns, one for Widgets and the other two for feed content. At the time of writing, stable Windows 11 users only have a two-column Widget board housing Windows 11 widgets and the feed content.
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901
 Simply put, they have no separation in the two-column Widgets view.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the ViveTool and Why Do You Need It to Enable the New Widgets Board?
@@ -54,10 +54,6 @@ Simply put, they have no separation in the two-column Widgets view.
  If you're unfamiliar with it, this is what[the Canary Channel is about and how to use it](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) .
 
  For convenience, set up ViveTool and its extracted contents in the**C:/ViVeTool** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable the New Widgets Panel in Windows 11
 
@@ -75,6 +71,10 @@ vivetool /enable /id:43028164
 
  Now, launch the Widgets panel from the taskbar. If you do not have the Widgets icon in the taskbar, you can tweak the taskbar setting and bring that icon to your taskbar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will the Widgets Panel Be Available for Other Insider Channels?
 
  Every feature that Microsoft tests in Canary Channel build may or may not make it to other Insider Channels. The new Widgets Board is no exception.
@@ -86,7 +86,7 @@ vivetool /enable /id:43028164
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
@@ -114,18 +114,21 @@ vivetool /enable /id:43028164
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-become-a-pro-at-screen-recording-essential-tips-for-xiaomi-users/"><u>[Updated] 2024 Approved Become a Pro at Screen Recording Essential Tips for Xiaomi Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-ultimate-timepiece-comparing-google-pixel-watch-gen-3-vs-apple-watch-series-9-find-your-perfect-fit/"><u>Choosing the Ultimate Timepiece: Comparing Google Pixel Watch Gen 3 Vs. Apple Watch Series 9 - Find Your Perfect Fit</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725286799946-dvdmac/"><u>DVDをMacに取り込むためのガイド - ソフトなし、ディスクユーティリティで完全解決！</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-video-loading-on-facebook/"><u>In 2024, Mastering Video Loading on Facebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/proven-techniques-to-elevate-your-igtv-videos-on-mobile-and-professional-cameras-for-2024/"><u>Proven Techniques to Elevate Your IGTV Videos on Mobile & Professional Cameras for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-the-windows-update-problem-error-0x80246007/"><u>Rectifying the Windows Update Problem: Error 0X80246007</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-absent-camera-alert-in-device-mgmt-window/"><u>Resolve Absent Camera Alert in Device Mgmt Window</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snapseed-basics-your-first-steps-in-enhancing-images-for-2024/"><u>Snapseed Basics Your First Steps in Enhancing Images for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-unifying-windows-partitions-efficiently/"><u>Step-By-Step: Unifying Windows Partitions Efficiently</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-taskbar-quick-navigation-via-system-tray-keys/"><u>Taming the Taskbar: Quick Navigation via System Tray Keys</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-get-adobe-premiere-pro-cs6-for-mac-at-no-cost-2023-update-for-2024/"><u>Updated Get Adobe Premiere Pro CS6 for Mac at No Cost 2023 Update for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/which-pkg-master-makes-windows-setup-easier/"><u>Which Pkg Master Makes Window's Setup Easier?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-revival-hack-top-3-restart-strategies/"><u>Windows Revival Hack: Top 3 Restart Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevating-your-social-signature-top-tips-and-tricks-for-impressive-biographies-on-fb/"><u>[Updated] 2024 Approved Elevating Your Social Signature Top Tips and Tricks for Impressive Biographies on FB</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-free-guide-recording-youtube-videos-on-screencasts/"><u>[Updated] 2024 Approved Free Guide Recording YouTube Videos on Screencasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-screening-the-modern-internet-best-capture-apps-reviewed/"><u>[Updated] 2024 Approved Screening the Modern Internet Best Capture Apps Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-strengthen-window-app-web-interactions/"><u>Effortlessly Strengthen Window App Web Interactions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-autoplay-for-spotify-on-pcs/"><u>How to Stop Autoplay for Spotify on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-solutions-for-silent-audio-input-with-obs-and-windows-11/"><u>Immediate Solutions for Silent Audio Input with OBS and Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-x100-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo X100 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-windows-from-tracing-new-program-starts/"><u>Prevent Windows From Tracing New Program Starts</u></a></li>
+<li><a href="https://discover-able.techidaily.com/revive-deleted-data-on-windows-11-top-3-methods/"><u>Revive Deleted Data on Windows 11: Top 3 Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reverse-malfunctioning-notifications-in-windows-os/"><u>Strategies to Reverse Malfunctioning Notifications in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-hd-adventure-mastery-on-windows-through-scummvm/"><u>The Ultimate Guide to HD Adventure Mastery on Windows Through ScummVM</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-to-best-camcorders-top-10-list-2024/"><u>Ultimate Guide to Best Camcorders - Top 10 List, 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-2024s-superior-ipad-air-sleeves-professional-ratings-and-reviews-zdnet/"><u>Ultimate List of 2024'S Superior iPad Air Sleeves: Professional Ratings & Reviews | ZDNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209845916-9780692792971-wake-up-the-universe-is-speaking-to-you/"><u>Wake Up! The Universe Is Speaking To You | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-switching-and-modifying-keyboard-setups-efficiently/"><u>Win 11: Switching & Modifying Keyboard Setups Efficiently</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317775-9781401944940-your-life-after-their-death/"><u>Your Life After Their Death | Free Book</u></a></li>
 </ul></div>
 

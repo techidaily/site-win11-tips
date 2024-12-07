@@ -1,7 +1,7 @@
 ---
 title: Efficiently Modify the Drop-Down Selection Options in Microsoft Excel
-date: 2024-08-28T01:07:30.476Z
-updated: 2024-08-29T01:07:30.476Z
+date: 2024-11-30T23:37:16.012Z
+updated: 2024-12-06T23:31:25.111Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  You may have used a table, named cell range, or manual setup for your drop-down list. We'll show you how to edit your list accordingly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Edit a Drop-Down List From a Table
 
  The nice thing about [using a table in Excel](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/) for your drop-down list is that the list updates automatically when you make changes to your table.
@@ -30,6 +34,10 @@ Related: [How to Create and Use a Table in Microsoft Excel](https://instagram-vi
  To add an item, go to the last row in the column, press Enter or Return, enter the new list item, and press Enter or Return again.
 
 ![Add an item to a table in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/AddTableItem-ExcelEditDropDownList.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you select the drop-down list, you'll see the additional item in the selection.
 
@@ -43,18 +51,6 @@ Related: [How to Create and Use a Table in Microsoft Excel](https://instagram-vi
 
 ![Deleted table item from list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/RemoveTableItem-ExcelEditDropDownList.png) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Edit a Drop-Down List From a Cell Range
 
  You might use a cell range or a [named range](https://fox-blue.techidaily.com/2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/) for the items in your drop-down list, which is a handy way to go. Here's how to add and remove items from your list.
@@ -70,20 +66,15 @@ Related: [How to Assign a Name to a Range of Cells in Excel](https://fox-blue.te
 ![Data Validation on the Data tab in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/DataToolsDataValidation-ExcelEditDropDownList.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the Source box, either update the cell references to include the additions or drag through the new range of cells on the sheet. Click "OK" to apply the change.
 
 ![Data Validation with updated cell references](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/DataValidationUpdateCells-ExcelEditDropDownList.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Optionally, check the box at the bottom if you use the list in more than one place and want to update it throughout.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Add an Item to a Named Range
 
  If you [use a named range](https://some-skills.techidaily.com/new-the-impact-of-testimonial-videos-today/) for your list items, you can use the above method to add an item to the list. However, this will not update the named range to include the additional item. Instead, update the named range.
@@ -93,21 +84,18 @@ Related: [How to Assign a Name to a Range of Cells in Excel](https://fox-blue.te
 ![Name Manager on the Formulas tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/FormulasNameManager-ExcelEditDropDownList.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the Name Manager opens, select the named range and update the cell references in the Refers To box at the bottom. You can manually adjust the cell references or simply drag through them on your sheet. Click the checkmark to the left of that field to save your changes and hit "Close."
 
 ![Updated named range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/UpdateNamedRange-ExcelEditDropDownList.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your drop-down list automatically updates to include the new list item.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Remove an Item From a Range
 
@@ -128,8 +116,9 @@ Related: [How to Assign a Name to a Range of Cells in Excel](https://fox-blue.te
 ![Blank item in drop-down list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/BlankInList-ExcelEditDropDownList.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Edit a Drop-Down List Manually
 
  If you entered your list items manually in the [Data Validation](https://extra-lessons.techidaily.com/mastering-iphone-saving-and-utilizing-gifs-effectively/) box rather than referencing a table or cell range, you can simply add or remove list items in that same spot.
@@ -144,6 +133,10 @@ Related: [How To Restrict Data Input In Excel With Data Validation](https://extr
 
 ![Updated Data Validation list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/DataValidationUpdateList-ExcelEditDropDownList.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just because you add a drop-down list for data entry in Excel, doesn't mean you can't make changes to it when needed. For another option, you can [set up custom lists in Excel](https://win-blog.techidaily.com/maximizing-fps-essential-tricks-for-optimizing-fallout-76-performance/) to use anytime.
 
 <ins class="adsbygoogle"
@@ -152,8 +145,6 @@ Related: [How To Restrict Data Input In Excel With Data Validation](https://extr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +152,20 @@ Related: [How To Restrict Data Input In Excel With Data Validation](https://extr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-top-timelapses-quick-capture-and-edit/"><u>[Updated] 2024 Approved Best Top Timelapses Quick Capture & Edit</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-essential-quick-steps-for-effective-double-take-filming/"><u>[Updated] Essential Quick Steps for Effective Double Take Filming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-zooms-full-potential-with-essential-3-methods/"><u>[Updated] Unleash Zoom's Full Potential with Essential 3 Methods</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-step-by-step-guide-to-unmicrophonic-audio-recording/"><u>2024 Approved Step-by-Step Guide to Unmicrophonic Audio Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converting-gmail-to-outlook-mail-on-windows/"><u>Converting Gmail to Outlook Mail on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-a-smooth-wsl-2-experience-with-docker-tools/"><u>Expert Tips for a Smooth WSL 2 Experience with Docker Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-magic-v2-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor Magic V2 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-beat-of-the-future-top-emerging-raps-on-tiktok/"><u>In 2024, The Beat of the Future Top Emerging Raps on TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-pin-authenticate-error-on-windows-1110-devices/"><u>Quick Fix for Pin Authenticate Error on Windows 11/10 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-printscreen-capabilities-in-windows-11-and-windows-10-a-step-by-step-fix-guide/"><u>Restoring PrintScreen Capabilities in Windows 11 and Windows 10 - A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/script-snafus-say-goodbye-with-these-windows-fixes/"><u>Script Snafus? Say Goodbye with These Windows Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-productivity-in-windows-with-these-top-apps/"><u>Skyrocket Your Productivity in Windows with These Top Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-addressing-error-code-c0000005-in-windows/"><u>Unraveling and Addressing Error Code C0000005 in Windows</u></a></li>
+</ul></div>
 

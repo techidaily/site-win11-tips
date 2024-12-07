@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Play: Addressing Fall Guys Errors on Windows"
-date: 2024-11-23T16:48:00.023Z
-updated: 2024-11-27T17:41:40.196Z
+date: 2024-12-02T00:07:37.986Z
+updated: 2024-12-07T01:43:06.467Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
  Now that we know all the possible culprits behind the issue, let's jump into the fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Connection
 
  Before making any changes to your network settings, ensure that a weak internet connection is not causing the issue. You can check this by visiting an[internet-speed testing website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
  If the results show that your connection is unstable and weak, then you'll have to troubleshoot your connection. Check out our guide on[network diagnostic tricks you can try](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for ways to get your connection fixed again.
 
  f manual troubleshooting makes no difference, consider contacting your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Close Network Hogging Applications from Background
 
@@ -54,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 ![End high network apps in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-high-network-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, right-click on all such applications, and choose**End task.** After that, restart Fall Guys and check if the problem persists.
@@ -71,6 +79,10 @@ Here's how you can do that:
 3. Choose**Turn off Windows Defender Firewall (not recommended)** option for both**private** and**public** network settings.  
 ![Turn off firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, check if the problem continues. If not, enable the Windows Defender Firewall and then add Fall Guys to the Windows Firewall exception list. Here's how:
 
 1. In the Windows Search, type**Allow an app through Windows Firewall** and press**Enter** .
@@ -79,17 +91,13 @@ Here's how you can do that:
 ![Browse option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/browse-option.jpg)
 4. Go to the Fall Guys installation folder. It'd be**C:\\Program Files\\Epic Games\\FallGuys** if you kept the same target location during installation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select**FallGuys\_client.exe** and click**Add.**  
 ![FallGuys file in browse option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fallguys-file.jpg)
 
  That's it! Fall Guys has now been added to the Windows Firewall exception list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable Any Active Proxy Servers
@@ -99,10 +107,6 @@ Here's how you can do that:
 1. Open the Windows Search, type**Command Prompt,** and choose**Run as administrator** from the right pane.
 2. In the console, type**netsh winhttp reset proxy** and press**Enter** .  
 ![Disabling proxy command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-proxy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Connect to a Different DNS Server
 
@@ -117,18 +121,10 @@ Follow the below steps to change to Google DNS:
 ![IPv6 option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ipv6-option.jpg)
 5. Select the**Use the following DNS server addresses** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. If you're on IPv4, type**8.8.8.8** in the**Preferred DNS server** and**8.8.4.4** in the**Alternate DNS server.**
 7. If you're on IPv6, type**2001:4860:4860::8888** in the**Preferred DNS server** and**2001:4860:4860::8844** in the**Alternate DNS** server.  
 ![Editing IPv6 properties in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/editing-ipv6-properties.jpg)
 8. Click**OK.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Edit the Fall Guys Engine.ini File
 
@@ -154,7 +150,7 @@ RetryTime=0.5`
 Launch Fall Guys and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset Winsock Settings
@@ -166,6 +162,10 @@ Launch Fall Guys and check if the problem persists.
 1. Open Command Prompt with admin rights, as we covered in method four above.
 2. Type**netsh winsock reset** and press**Enter** .  
 ![Reset Winsock command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-winsock-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, restart your computer and check if the problem is fixed.
 
@@ -188,21 +188,18 @@ Now, restart your computer and check if the problem is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-fps-titans-ranking-gamings-elite-shooters/"><u>[Updated] FPS Titans Ranking Gaming's Elite Shooters</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-optimizing-googles-automatic-speech-recognition-features/"><u>[Updated] In 2024, Optimizing Google's Automatic Speech Recognition Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-online-photos-the-cropping-guide/"><u>[Updated] Perfecting Online Photos The Cropping Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-srts-most-effective-upgrades-for-macwindows/"><u>[Updated] SRT's Most Effective Upgrades for Mac/Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unleashing-creativity-making-photo-based-videos-using-pixiz-for-2024/"><u>[Updated] Unleashing Creativity Making Photo-Based Videos Using Pixiz for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dial-down-desktop-debacle-solutions-for-silenced-keyboard-sounds/"><u>Dial Down Desktop Debacle: Solutions for Silenced Keyboard Sounds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-your-game-of-naraka-bladepoint-from-suddenly-stopping/"><u>How to Stop Your Game of Naraka: Bladepoint From Suddenly Stopping?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-utilize-bluescreenview-effectively/"><u>How to Utilize BlueScreenView Effectively</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-13-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 13 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-the-most-of-hotkeys-in-windows-11/"><u>Making the Most of Hotkeys in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-password-free-logins-with-troublesome-winpin/"><u>Mastering Password-Free Logins with Troublesome WinPIN</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-bypassing-windows-defenders-protective-measures/"><u>Strategies for Bypassing Windows Defender's Protective Measures</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-the-9-most-effective-android-emulators-on-pc-and-mac/"><u>The Ultimate List of the 9 Most Effective Android Emulators on PC & Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-ais-evolution-within-the-windows-11-era/"><u>Unraveling AI's Evolution Within the Windows 11 Era</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-branding-with-visuals-inserting-watermarks-into-youtube-vids/"><u>[New] In 2024, Branding with Visuals Inserting Watermarks Into YouTube Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elevate-your-device-experience-with-smooth-screen-capture/"><u>[New] In 2024, Elevate Your Device Experience with Smooth Screen Capture</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-thorough-reconnaissance-the-full-review-for-bublcams-panoramic-masterpiece-for-2024/"><u>[New] Thorough Reconnaissance The Full Review for Bublcam's Panoramic Masterpiece for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-9-stealthy-pro-tools-tricks-for-novice-designers/"><u>[Updated] 9 Stealthy Pro Tools Tricks for Novice Designers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-high-quality-photo-for-free/"><u>[Updated] Mastering the Art of High Quality Photo for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-11-perks-for-everyday-users/"><u>Essential Windows 11 Perks for Everyday Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-suppressing-win-11s-on-screen-hub-mode/"><u>Guide to Suppressing Win 11'S On-Screen Hub Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-c53-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on C53</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-portaudio-misfires-in-audacity-on-win-1111/"><u>Remedying PortAudio Misfires in Audacity on Win 11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-older-features-of-photo-viewer-with-this-guide-for-win11/"><u>Reviving Older Features of Photo Viewer with This Guide for Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-converting-photos-to-engaging-gif-format/"><u>Step-by-Step Tutorial: Converting Photos to Engaging GIF Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-potential-with-simple-hotkey-pairings/"><u>Unlock Windows Potential with Simple Hotkey Pairings</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
 </ul></div>
 

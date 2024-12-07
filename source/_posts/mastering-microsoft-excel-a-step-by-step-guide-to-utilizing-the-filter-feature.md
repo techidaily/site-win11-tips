@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: A Step-by-Step Guide to Utilizing the Filter Feature"
-date: 2024-08-28T01:08:43.930Z
-updated: 2024-08-29T01:08:43.930Z
+date: 2024-12-03T23:51:07.496Z
+updated: 2024-12-06T17:17:01.465Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/0ee1c1c5a9be407cbf065c21cefa3d097b024c8bd
 ---
 
 ## Mastering Microsoft Excel: A Step-by-Step Guide to Utilizing the Filter Feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,6 +40,10 @@ To use the FILTER function, enter simply enter the array and range for your crit
 
  Use the third optional argument if your data set may return an empty result since it'll display the [#CALC! error](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/) by default. To replace the error message, you can include text, a letter, or number in quotes or simply leave the quotes empty for a blank cell.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Create a Basic Filter Formula
 
  To get started, we'll start with a basic filter so that you can [see how the function works](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/). In each screenshot, you'll see our filter results on the right.
@@ -50,9 +58,6 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![FILTER function basic formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicCellReference-ExcelFILTERFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Another way to write the formula is by entering the contents of cell B2 in quotation marks as follows:
 
 =FILTER(A2:D13,B2:B13="Electronics")
@@ -65,18 +70,12 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![FILTER function using a separate cell as criteria](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicOtherCellReference-ExcelFILTERFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  If your data contains a number, you can use this as the criteria without quotation marks. In this example, we'll use the same cell range, but filter by cells D2 through D13 looking for 10.
 
 =FILTER(A2:D13,D2:D13=10)
 
 ![FILTER function formula using number criteria](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicNumber-ExcelFILTERFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  If you aren't receiving any results for your formula or are seeing the #CALC! error, you can use the third argument `if_empty`. For instance, we'll display None if the result is blank.
 
 =FILTER(A2:D13,D2:D13=75,"None")
@@ -84,6 +83,10 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
  As you can see, the `range=criteria` data doesn't include 75, therefore, our result is None.
 
 ![FILTER function formula with no results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicNoResults-ExcelFILTERFunction.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Filter Using Multiple Criteria in the FILTER Function
 
@@ -97,9 +100,6 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![FILTER function formula for multiple criteria using AND](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/MultipleCriteriaAND-ExcelFILTERFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  To use the other operator, we'll filter for either A3 or B2 using a plus sign (+) as follows:
 
 =FILTER(A2:D13,(A2:A13=A3)+(B2:B13=B2))
@@ -107,6 +107,10 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
  Now, you can see that our results contain five records with West or Electronics.
 
 ![FILTER function formula for multiple criteria using OR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/MultipleCriteriaOR-ExcelFILTERFunction.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Sort Your Filtered Data in Excel
 
@@ -124,9 +128,6 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
 
 ![FILTER function with SORT function in descending order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SortDescending-ExcelFILTERFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  To display the results in ascending order instead, replace the `-1` with `1`:
 
 =SORT(FILTER(A2:D13,B2:B13=B2),4,1)
@@ -134,8 +135,9 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
 ![FILTER function with SORT function in ascending order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SortAscending-ExcelFILTERFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Excel's built-in filter is great for quickly seeing specific records in a data set. And the [advanced filter](https://driver-error.techidaily.com/error-22-addressed-device-now-online/) works well for filtering by a criteria range in place or another location. But for using multiple criteria and sorting at the same time, take the FILTER function for a spin.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -150,8 +152,6 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +159,16 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-achieve-aesthetic-11-best-instagram-enhancers-for-2024/"><u>[New] Achieve Aesthetic 11 Best Instagram Enhancers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-definitive-list-of-economical-teleconference-platforms/"><u>[New] In 2024, The Definitive List of Economical Teleconference Platforms</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/instrumental-showcase-highlighting-the-best-15-video-techniques/"><u>Instrumental Showcase Highlighting the Best 15 Video Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pc-performance-with-essential-tools/"><u>Maximizing PC Performance with Essential Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-updating-issue-with-error-e/"><u>Overcoming Windows' Updating Issue with Error E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-admin-managed-chromium-and-microsoft-edge-settings-in-windows-os/"><u>Resetting Admin-Managed Chromium & Microsoft Edge Settings in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/text-files-and-windows-the-secure-path-of-password-storage/"><u>Text Files & Windows: The Secure Path of Password Storage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-must-watch-animated-films-on-disneyplus-july-2024-edition/"><u>The Ultimate Selection of Must-Watch Animated Films on Disney+ - July 2024 Edition</u></a></li>
+</ul></div>
 

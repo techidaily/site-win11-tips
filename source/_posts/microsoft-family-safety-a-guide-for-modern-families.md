@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Family Safety: A Guide for Modern Families"
-date: 2024-11-25T16:50:53.814Z
-updated: 2024-11-27T16:01:57.700Z
+date: 2024-12-05T01:26:47.145Z
+updated: 2024-12-06T19:14:11.714Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Microsoft Family Safety?
 
 ![microsoft family safety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-safety.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have a family, then it makes perfect sense you'd want to[protect your children online](https://www.makeuseof.com/child-online-safety-tips/) in every way. In this case, Microsoft's Family Safety will be of huge help.
 
@@ -67,6 +59,10 @@ Here's how you can set up one through Content Filters:
 
  On both the Web and the smartphone app, you will find an additional option,**Apps and games** section. As the name suggest, this will let you limit the user's access to specific apps or games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Screen Time
 
  Overuse of smartphones, computers, and other digital devices is a key issue for children growing in this day and age. This is exactly where**Screen Time** will help you out.
@@ -82,15 +78,15 @@ Here's how you can enable Screen Time:
 
 ![edit time limit windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-time-limit-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You will get a new dialog box to choose a new day and time from there. Set your new screen time limit by clicking on**Done** . That's it; the screen time feature will be enabled on your PC from here on.
 
 ## 3\. Find Your Family
 
 ![find your family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-your-family.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perhaps a little menacing for those of us conscious of cybersecurity, the**Find Your Family** app will help you keep tabs on the live location of your family members, provided they are all using Microsoft products. While this feature can have drawbacks of its own, Find Your Family will certainly give a sense of certainty to its users.
 
@@ -126,6 +122,10 @@ Firstly, make sure you have checked all your location permissions:
 * Select the member account you'd like to enable reporting.
 * Click on**Settings** and toggle on the**Activity reporting** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Spending
 
  Do your family members splurge your money on vanity purchases? While buying a few things here and there is not a big deal, however, if your kids are used to spending money online irresponsibly, a more restricted approach to spending might be more suited.
@@ -141,17 +141,21 @@ Here's how you can add money to your account:
 
 ![spending](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spending.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As soon as you do this, your account will receive a new payment. From hereon, your family members are free to make purchases under the pre-set budget set by you.
 
  Of course, if there's a deeper financial problem causing bad spending habits, this will be a band-aid over a bigger issue. As such, check out[how to break bad online shopping habits](https://www.makeuseof.com/ways-break-bad-online-shopping-habits/) for more tips on toning the spending down.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Family Notebook
 
 ![family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/family-notebook.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can plan and manage all your task or activities for days (or even weeks) from a single, personal app on your smartphone. However, if you're already a die-hard Microsoft user, why not make the most out of Family Notebook and its handy features?
 
@@ -160,10 +164,6 @@ Here's how you can add money to your account:
  You'll end up in the**Family Notebook** section of your OneNote as soon as you do this. From there, you will be taken straight to the Introduction page of your Family Notebook, as shown on the image below.
 
 ![microsoft family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-notebook.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To get a full overview of Family Notebook, check out[Microsoft's short blog on Family Notebook](https://blogs.windows.com/windowsexperience/2018/05/14/windows-10-tip-organize-your-busy-lives-with-a-family-notebook-in-onenote/) .
 
@@ -186,15 +186,24 @@ Here's how you can add money to your account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-next-gen-gameplay-logging-alternatives-to-fbx/"><u>[New] In 2024, Next-Gen Gameplay Logging Alternatives to FBX</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-by-step-guide-recording-on-itunes/"><u>[Updated] 2024 Approved Step-by-Step Guide Recording on iTunes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unleash-power-with-apples-m1-max-clip-for-2024/"><u>[Updated] Unleash Power with Apple's M1 Max Clip for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-engaging-students-the-power-of-youtube-in-education/"><u>2024 Approved Engaging Students The Power of YouTube in Education</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-initiate-startup-diagnostics-on-pcs/"><u>How to Initiate Startup Diagnostics on PCs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-brand-trust-through-video-praise/"><u>In 2024, Brand Trust Through Video Praise</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/reviving-vintage-visual-storytelling-techniques-today-for-2024/"><u>Reviving Vintage Visual Storytelling Techniques Today for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-embracing-windows-11-widgets/"><u>Step-by-Step: Embracing Windows 11 Widgets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-windows-stores-error-0x80073d26/"><u>Unlocking the Secrets of Windows Store's Error 0X80073D26</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winterminal-update-bg-selection/"><u>WinTerminal: Update Bg Selection</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-a59-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo A59 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965918197-effortless-installation-get-your-intel-thunderbolt-controller-drivers-now/"><u>Effortless Installation: Get Your Intel Thunderbolt Controller Drivers Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-user-experience-highlighting-mouse-pointers-on-win-11/"><u>Elevate Your User Experience: Highlighting Mouse Pointers on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-this-file-does-not-have-an-app-associated-with-it-error-on-windows/"><u>How to Fix the “This File Does Not Have an App Associated With It” Error on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-pro-max-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 Pro Max to Roku? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-movie-aesthetics-through-color-grading-and-luts/"><u>In 2024, Mastering Movie Aesthetics Through Color Grading and Luts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-youtube-creator-summit-a-getaway-for-youtubes-top-talent/"><u>In 2024, The YouTube Creator Summit - A Getaway for YouTube's Top Talent</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-look-at-fongo-why-it-dominates-the-voip-market-across-canada/"><u>Inside Look at Fongo: Why It Dominates the VOIP Market Across Canada</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-secret-commands-into-windows-interface/"><u>Integrating Secret Commands Into Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-vpn-troubleshooting-procedures/"><u>Navigating Windows VPN Troubleshooting Procedures</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-start-guide-for-behringer-usb-audio-connection-software/"><u>Quick Start Guide for Behringer USB Audio Connection Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-your-digital-domain-windows-1011-writers-toolkit-restarts/"><u>Refreshing Your Digital Domain: Windows 10/11' Writers’ Toolkit Restarts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-windows-layout-embrace-fancywm-aesthetics/"><u>Reimagine Windows Layout: Embrace FancyWM Aesthetics</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/reverting-shortcut-errors-back-to-original-folder-structures-on-your-pc/"><u>Reverting Shortcut Errors Back to Original Folder Structures on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-attached-file-program-issue-win-1011/"><u>Tackling Non-Attached File Program Issue (Win 10/11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-embedding-old-apps-into-the-latest-windows-11/"><u>The Ultimate Guide: Embedding Old Apps Into the Latest Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components-and-systems/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components and Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-makes-the-feb2023-win11-update-stand-out/"><u>What Makes The Feb2023 Win11 Update Stand Out?</u></a></li>
 </ul></div>
 

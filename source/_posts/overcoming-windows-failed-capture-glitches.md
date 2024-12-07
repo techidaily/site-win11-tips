@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Failed Capture Glitches
-date: 2024-08-28T01:10:56.252Z
-updated: 2024-08-29T01:10:56.252Z
+date: 2024-12-03T22:28:46.132Z
+updated: 2024-12-06T21:52:32.183Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  The code’s error message says, “Sorry, we weren’t able to save the photo.” As you might expect, the Camera app won't save any new photos when this error appears. As such, this is how you can fix the “photo capture file creation failed” error on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Camera Access Permission Settings
 
  First, check that webcam access permission is set for the Camera app. This is how you can enable apps to access the webcam in Windows:
@@ -36,9 +40,17 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows has a **Reset** troubleshooting option for fixing apps that aren’t working right. Resetting the Windows Camera app will clear its data. That’s worth a try since it’s a straightforward potential fix to apply.
 
  Our guide on [how to reset a Window app](https://www.makeuseof.com/windows-reset-app/) includes instructions for applying this potential fix in Windows 11 and 10\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Create a New Camera Roll Folder
 
@@ -53,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  Also, check if the Camera Roll folder has been moved out of the Pictures folder to another directory. If it has, moving Camera Roll back into the default Pictures location could also resolve this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Set a Different Camera Roll Library Location
 
  Setting a different Camera Roll library save location is another fix that’s worked for some users. To do so, you’ll need to add and set a new save location within the Camera Roll Properties window as follows:
@@ -66,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 3. Right-click Camera Roll to select **Properties**.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/properties-option3.jpg)
 4. Click **Add** on the **Library** tab.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Next, select a folder location such as **Downloads**.
 
 1. Right-click inside the Include Folder in the Camera Roll window to select **New** \> **Folder**.
@@ -76,6 +82,11 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 3. Click the **Include folder** button.  
 ![The Include folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/include-folder-button.jpg)
 4. Select the Photo folder in the **Library locations** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Save set** **location**.  
 ![The Set save location button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-save-location-button.jpg)
 6. Select **Apply** to set the new save location.
@@ -93,16 +104,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 4. Then click the **New** **photos and videos will be saved** to option.  
 ![The default save location settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/default-save-location-settings.jpg)
 5. Select a different drive or partition to save images to.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Click **Apply** to set the new location.
 
  If you don’t have any alternative place for saving photos, you could [set up a new drive partition with Disk Management](https://www.makeuseof.com/how-to-partition-hard-drive/). Then select to save photos to the new drive partition within Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update Your Webcam’s Driver
 
  Camera app issues can occur if your webcam’s driver is outdated. Updating your webcam's driver will ensure the camera works better with software.
@@ -110,8 +115,9 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  Our guide to [replacing and finding Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) explains how you can manually update your device drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall the Windows Camera
 
  If the “photo capture file creation failed” continues after trying other solutions in this guide, you might have to reinstall the Windows Camera app to get this issue sorted. Then you’ll have a fresh copy of the latest Windows Camera app version. As you can’t uninstall that app via Settings, you’ll need to remove Camera via Powershell and then reinstall it as follows:
@@ -130,14 +136,17 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 `Remove-AppxPackage PackageFullName`  
 ![The Remove-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/remove-apppackage-command.jpg)
 4. Exit PowerShell and open this [Windows Camera page](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) on the Microsoft Store.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Click **Get in Store app** and **Open in Microsoft Store** app to access an installation option.  
 ![The Windows Camera app page on MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-windows-camera-app.jpg)
 6. Press **Get** to reinstall Windows Camera.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will need to replace **PackageFullName** in the command specified above with the actual package name. So, the PowerShell command should look more like this:
@@ -150,11 +159,24 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  The code’s error message says, “Sorry, we weren’t able to save the photo.” As you might expect, the Camera app won't save any new photos when this error appears. As such, this is how you can fix the “photo capture file creation failed” error on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-how-to-handle-previewed-activities-on-facebook/"><u>[New] In 2024, How to Handle Previewed Activities on Facebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-no-more-black-fringe-in-youtube-videos/"><u>[New] In 2024, No More Black Fringe in YouTube Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/melodic-mastery-mac-studio-tips/"><u>Melodic Mastery Mac Studio Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-the-click-to-action-ratio-stop-accelerated-movement/"><u>Perfecting the Click-to-Action Ratio: Stop Accelerated Movement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realign-your-windows-view-top-screen-fixes-unveiled/"><u>Realign Your Window's View: Top Screen Fixes Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-oculus-q-into-a-functional-windows-vr-headset/"><u>Turning Oculus Q Into a Functional Windows VR Headset</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-future-my-experience-testing-face-recognition-biometric-locks-a-game-changer-in-home-security-zdnet/"><u>Unlocking the Future: My Experience Testing Face Recognition Biometric Locks - A Game Changer in Home Security | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-systems-without-disrupting-your-qbittorrent-streams/"><u>Upgrading Systems Without Disrupting Your qBittorrent Streams</u></a></li>
+</ul></div>
+

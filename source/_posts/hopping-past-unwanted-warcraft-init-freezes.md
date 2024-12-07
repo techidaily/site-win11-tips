@@ -1,7 +1,7 @@
 ---
 title: Hopping Past Unwanted Warcraft Init Freezes
-date: 2024-08-28T01:10:47.901Z
-updated: 2024-08-29T01:10:47.901Z
+date: 2024-12-05T01:58:46.342Z
+updated: 2024-12-06T16:50:08.570Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
  Does your Battle.net desktop client refuse to initialize the World of Warcraft (WoW) update? If so, you're not alone. Despite Battle.net being one of the most popular gaming clients, many users have reported having problems initiating games or updating them.
 
  Why does this happen? In this article, we'll explain why WoW updates get stuck on initializing and fixes you can apply to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Is WoW Update Stuck on Initializing, and How Can You Fix It?
 
@@ -38,9 +42,9 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 * Ensure that your device meets the minimum gaming requirements. Also, check if your video card is on[Blizzard's list of supported video cards](https://eu.battle.net/support/en/article/31372) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Ensure It's Not a Visual Glitch
 
  The Battle.net desktop client can sometimes appear stuck on initializing due to a visual glitch. This means the update may still be downloading, but the client may show the update progress bar as stuck at initializing. Therefore, it's imperative to confirm that first:
@@ -49,15 +53,15 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 2. See if the Battle.net desktop client is consuming any network resources in the Task Manager.  
 ![Checking Battle.net's Network Resource Consumption in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-checking-battle-net-s-network-resource-consumption-in-task-manager-on-windows.jpg)
 3. Then, open the folder where the game was installed.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 4. Check the overall size of the WoW folder after ten minutes and note down the size of the game files.
 
  The growing folder size and consumption of network resources in Task Manager indicate the client is downloading the update. So, the update stuck on initializing in the Battle.net desktop client is just a visual glitch.
 
  However, if the progress bar is really stuck on initializing, it's time to perform some fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete the Battle.net Client Cache
 
@@ -72,17 +76,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 4. Delete the**Cache** folder.  
 ![Deleting Battle.net Cache on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deleting-battle-net-cache-on-windows.jpg)
 5. Restart your device and try downloading the update again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Rule Out Internet Issues
 
 ![The front of a Wi-Fi router, set against a blurred background](https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5ad0376d97a1f07070c0cf22e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  World of Warcraft update can get stuck in the Battle.net desktop client if your internet connection is down. Run any process that uses a network resource to determine whether the internet is connected. If the internet is not working, resolve the Wi-Fi problem, and the issue will be rectified automatically.
 
  If you are confident that your internet connection is working, take the following steps:
@@ -92,6 +94,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Your ISP can also block blizzard servers. You can rule out this possibility by[changing your DNS](https://www.makeuseof.com/tag/change-dns-increase-internet-speed/) and running the update again.
 
  If the internet is not the cause of the problem, move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Put an End to Other Processes
 
@@ -105,25 +111,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![disable enable defender firewall smartscreen](https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0d4d3a83638bfcc50c7ba407.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Microsoft Defender and third-party antivirus programs are great at catching and removing threats. Sometimes, however, they deem even safe-to-execute processes as threats and block them. It's at that point when things start to get frustrating.
 
  To ensure the Battle.net connection isn't halted for the same reason, you should whitelist the client in Microsoft Defender. Have you never done that before? We have a guide on[how to whitelist apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Additionally, if you're running an antivirus program, turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy Playing World of Warcraft Again
 
  A stuck update can really ruin your plans for a chill gaming night. Hopefully, with the fixes mentioned in this article, you can successfully fix and complete the stuck update. If none of the fixes work, you'll have to reinstall the Battle.net desktop client from scratch and reinstall World of Warcraft.
@@ -134,8 +125,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +132,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-enhance-professionalism-update-google-meet-displays-for-2024/"><u>[Updated] Enhance Professionalism Update Google Meet Displays for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-optimizing-your-tv-for-social-video-streams/"><u>[Updated] In 2024, Optimizing Your TV for Social Video Streams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-zero-to-trendsetter-solo-podcast-success-story/"><u>2024 Approved From Zero to Trendsetter Solo Podcast Success Story</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-next-generation-of-mac-video-capture-software-not-bandicam/"><u>2024 Approved The Next Generation of Mac Video Capture Software (Not Bandicam)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-your-blank-desktop-icon-recovery-tips/"><u>Cure Your Blank Desktop: Icon Recovery Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-fixing-package-could-not-be-opened-errors-on-ws11ws10/"><u>Essential Strategies for Fixing 'Package Could Not Be Opened' Errors on WS11/WS10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-failure-of-powershell-detection-in-windows/"><u>Fixes for Failure of PowerShell Detection in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-started-with-corsair-k70-find-and-install-software-drivers-easily/"><u>Get Started with Corsair K70 - Find & Install Software Drivers Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-download-a-browser-without-a-browser-after-installing-windows/"><u>How to Download a Browser Without a Browser After Installing Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-swift-solution-tweeting-videos-not-functioning-chrome/"><u>In 2024, Swift Solution Tweeting Videos Not Functioning Chrome</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-definitive-srt-file-generation-manual/"><u>In 2024, The Definitive SRT File Generation Manual</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sm-bus-controller-drivers-available-now-supported-by-windows-11-10-8-and-7-versions/"><u>SM Bus Controller Drivers Available Now – Supported by Windows 11, 10, 8 & 7 Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-fixing-exception-breakpoint-issue-on-pcs/"><u>Tactics for Fixing Exception Breakpoint Issue on PCs</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Windows 11'S Full Potential with a Trio of Widget Grids
-date: 2024-11-24T17:03:08.570Z
-updated: 2024-11-27T17:37:33.103Z
+date: 2024-11-30T17:58:51.072Z
+updated: 2024-12-07T00:37:18.521Z
 tags:
   - windows10
   - windows11
@@ -26,20 +26,20 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the New Widgets Board in Windows 11, and How Is It Different From the Old One?
 
 ![Windows 11 widgets pane](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The new Widgets Board offers a larger canvas with a clear separation between Widgets and the feed content. It has three columns, one for Widgets and the other two for feed content. At the time of writing, stable Windows 11 users only have a two-column Widget board housing Windows 11 widgets and the feed content.
 
 Simply put, they have no separation in the two-column Widgets view.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the ViveTool and Why Do You Need It to Enable the New Widgets Board?
 
@@ -51,9 +51,17 @@ Simply put, they have no separation in the two-column Widgets view.
 
  For convenience, set up ViveTool and its extracted contents in the**C:/ViVeTool** folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the New Widgets Panel in Windows 11
 
 ![Screenshot showing how to enable three column widget panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you have successfully set up ViveTool on your PC, you can jump straight to the steps required to enable the specific feature ID for the three-column Widgets view.
 
@@ -74,24 +82,16 @@ vivetool /enable /id:43028164
  But since Microsoft has officially confirmed that it will be available to more Insiders in the coming days, we are hopeful it will make its way to other channels and, eventually, to a stable Windows 11 release.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Widgets Panel Always Have Three Columns in the Future?
 
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
 
  However, we cannot rule out the possibility of Microsoft making the larger Widgets board optional in the future, allowing users to decide which suits them best.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## New Widgets Board in Windows 11, Enabled
 
@@ -114,22 +114,18 @@ vivetool /enable /id:43028164
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-fast-tracking-your-creative-spark-with-google-images-art-for-2024/"><u>[Updated] Fast-Tracking Your Creative Spark with Google Images Art for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-inadept-pc-specifications-for-games/"><u>Correcting Inadept PC Specifications for Games</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-gadget-guide-navigating-the-newest-pc-technologies/"><u>Expert Insights From Tom's Gadget Guide: Navigating the Newest PC Technologies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-disabled-outlook-notification-settings-in-windows/"><u>Fixing Disabled Outlook Notification Settings in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-frustrating-frozen-windows-update-showing-zero-progress-made-simple/"><u>Fixing the Frustrating Frozen Windows Update Showing Zero Progress Made Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-ancient-code-to-modern-design-7-timeless-traits-in-windows-11/"><u>From Ancient Code to Modern Design: 7 Timeless Traits in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harness-the-security-benefits-of-powershells-execution-policies/"><u>Harness the Security Benefits of PowerShell's Execution Policies</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-lava-agni-2-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Lava Agni 2 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-recovery-post-lifes-peak-for-windows-users/"><u>Mastering Recovery Post-Life's Peak: For Windows Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-video-formats-quick-and-easy-mkv-to-vob-file-conversion-techniques/"><u>Mastering Video Formats: Quick & Easy MKV to VOB File Conversion Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/omoton-t1-tablet-stand-review/"><u>Omoton T1 Tablet Stand Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-winstore-failure-error-0x800704cf/"><u>Reversing WinStore Failure: Error 0X800704CF</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/streaming-stakes-pewdiepies-earnings-examination/"><u>Streaming Stakes PewDiePie’s Earnings Examination</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-gaming-odyssey-of-yesteryear-using-dosbox-x/"><u>The Gaming Odyssey of Yesteryear: Using DOSBox-X</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-quality-matters-top-10-free-online-video-enhancers-for-better-results-for-2024/"><u>Updated Quality Matters Top 10 Free Online Video Enhancers for Better Results for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-codes-zeroing-out-the-0x800f0831-blight/"><u>WinError Codes: Zeroing Out the 0X800F0831 Blight</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-metaverse-mirth-humorous-digital-world-memes/"><u>[New] Mastering Metaverse Mirth Humorous Digital World Memes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-high-impact-content-masterful-strategies-for-more-views/"><u>[Updated] 2024 Approved Unlocking High-Impact Content Masterful Strategies for More Views</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-prime-binge-worthy-hits-highest-tweets-and-view-counts-for-2024/"><u>[Updated] Prime Binge-Worthy Hits Highest Tweets & View Counts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mp4-downloader-pro-facebook-video-hacks/"><u>2024 Approved MP4 Downloader Pro - Facebook Video Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-no-wi-fi-link-windows-reconnection-guide/"><u>Fixing No Wi-Fi Link: Windows Reconnection Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-planning-superior-dietary-choices/"><u>GPT: Planning Superior Dietary Choices</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/gratuidade-do-seguro-de-dados-backups-pessoais-e-simplificados-no-sistema-operacional-windows/"><u>Gratuidade Do Seguro De Dados: Backups Pessoais E Simplificados No Sistema Operacional Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/green-screen-mastery-on-youtube-ideas-unleashed/"><u>Green Screen Mastery on YouTube - Ideas Unleashed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-addressing-and-correcting-discoloration/"><u>Methods for Addressing and Correcting Discoloration</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-and-rearrange-onedrive-on-windows-11/"><u>Navigate and Rearrange OneDrive on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-normalcy-to-your-win-1011-menu-system/"><u>Restoring Normalcy to Your Win 10/11 Menu System</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tackling-photo-mismatch-on-fb-conversation-screen-for-2024/"><u>Tackling Photo Mismatch on FB Conversation Screen for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninstall-challenges-busted-tactics-for-features-not-installed-on-windows-11-and-11-pro/"><u>Uninstall Challenges Busted: Tactics for Features Not Installed on Windows 11 & 11 Pro</u></a></li>
 </ul></div>
 

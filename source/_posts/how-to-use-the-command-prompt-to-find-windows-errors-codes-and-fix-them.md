@@ -1,7 +1,7 @@
 ---
 title: How to Use the Command Prompt to Find Windows Errors Codes and Fix Them
-date: 2024-08-23T07:09:05.637Z
-updated: 2024-08-24T07:09:05.637Z
+date: 2024-11-30T22:46:07.979Z
+updated: 2024-12-06T22:41:27.127Z
 tags:
   - windows10
   - windows11
@@ -60,14 +60,15 @@ Here is how you can use it:
 
  You should now be presented with a description of the error message. You can use this detail to identify the culprit and eliminate it.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Access the Event Viewer
 
  When you encounter an error on Windows, a log file for the error is created in the Event Viewer. This log file contains the details of the event, including the time and date it occurred, the error code associated with it, and the source of the event.
 
  You can[access the Event Viewer using the Command Prompt](https://www.makeuseof.com/windows-open-event-viewer/) to identify the culprit behind the error, and then proceed with the relevant solutions to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Resolve the Problem Using the Command Prompt
 
@@ -84,8 +85,9 @@ Here is how you can use it:
 ![Run SFC and DISM scans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/scannow-restorehealth-cmd-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  SFC or the System File Checker works by scanning the protected system files to check their integrity. It will compare the files to a stable version stored in the Windows component store or the installation media. If a problem with the file is identified, the utility will automatically replace the file with its healthier counterpart and generate a report based on it.
 
  DISM, on the other hand, can be used to repair a wide range of issues, including system files, problematic drivers, and a corrupt Windows image. It is considered to be more advanced and powerful than SFC.
@@ -96,14 +98,6 @@ Here is how you can use it:
 
  Doing so will create a log file named sfcdetails.txt on your desktop, listing all the issues found during the scan.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### 2\. Uninstall Windows Updates
 
  There are times when an update you install on the system turns out to be buggy or corrupt, leading to different issues within the system.
@@ -121,11 +115,9 @@ Here is how you can use it:
 ![Uninstall the update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-update-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### 3\. Fix Boot Issues
 
  If you are having trouble booting into Windows, or the boot time is just painfully slow, the issue is likely to be related to the boot sector or boot configuration data (BCD).
@@ -138,6 +130,11 @@ Here is how you can do that:
 2. Navigate to**Troubleshoot** \>**Advanced options** .  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Choose**Command Prompt** from the list of options available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once you are in the Command Prompt window, execute the following commands:  
 `bootrec /fixmbr bootrec /fixboot bootrec /rebuildbcd`
 5. If you are prompted with Add installation to boot list?, type Y and hit Enter.
@@ -145,23 +142,20 @@ Here is how you can do that:
 7. Restart your computer, and you should be able to boot into Windows successfully!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Command Prompt to the Rescue
 
  Having knowledge of certain Windows tools can come in handy when dealing with various computer-related issues. One such utility that can help you find solutions is Command Prompt and knowing how to use it can save you both time and frustration.
 
  We highly recommend backing up your essential data before making any changes to your operating system, just to be safe. With a little patience and some troubleshooting skills, you can get rid of annoying Windows errors for good.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +164,19 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/"><u>[New] Authoritative Picks Top 10 Apps to Watch Football Games Anytime, Anywhere</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-mac-capturing-utilities-ranked/"><u>[New] In 2024, Best Mac Capturing Utilities Ranked</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-lenovo-thinkpad-edge-driver-updates-compatible-with-windows-10/"><u>Download Lenovo ThinkPad Edge Driver Updates Compatible with Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-fixes-for-windows-10-and-11s-isdonedll-error/"><u>Effective Fixes for Windows 10 & 11'S ISDone.dll Error</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-infinix-note-30-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Infinix Note 30 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-14-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone 14 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplifying-complications-in-youtube-shorts/"><u>In 2024, Simplifying Complications in YouTube Shorts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimal-movement-quick-windows-11-cessation/"><u>Minimal Movement: Quick Windows 11 Cessation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-browser-overcoming-high-cpu-use-on-google-chrome/"><u>Optimize Your Browser: Overcoming High CPU Use on Google Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-past-the-storm-resolving-stranded-xbox-on-windows-11/"><u>Steering Past the Storm: Resolving Stranded Xbox on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-setting-windows-calculator-to-dark-mode/"><u>Tutorial: Setting Windows Calculator to Dark Mode</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/youtube-live20243/"><u>YouTube Live収録無料ソフトウェア：2024年度人気の3つピック</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Steps to Handle Windows Update Error: 0X800F0845"
-date: 2024-11-21T17:39:07.461Z
-updated: 2024-11-27T17:38:50.027Z
+date: 2024-12-01T01:48:36.745Z
+updated: 2024-12-06T18:23:51.352Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Windows Update 0x800f0845 Error?
 
  0x800f0845 is an error that mostly occurs while installing cumulative updates on your Windows PC. You may experience this update error if Windows components and services are corrupted or if there are damaged or missing system files. Sometimes, this error happens by the interactions of third-party apps with the system apps.
@@ -40,10 +44,14 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 ![0x800f0845 Error in Windows Update History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/0x800f0845-error-update-history.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So what can you do now? Cumulative updates are quality updates, so these must be installed. Fortunately, as there are ways to get past the 0x800f0845 error and install the failed updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the Windows Update Troubleshooter
 
@@ -56,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 4. Then click**Run** on the**Windows Update** troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-update-troubleshooter.jpg)
@@ -65,11 +73,11 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ![Windows Update Troubleshooting Complete Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-troubleshooting-complete.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  So close the troubleshooter and restart your computer. Then try updating Windows again and check if the failed update gets installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Temporarily Disable Your Antivirus Software
 
@@ -81,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 Try updating Windows now and see if the update gets installed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the System File Checker and the DISM Tool
 
  Corrupted Windows system files could also be the cause of the 0x800f0845 error. To scan, repair, and replace such damaged files, run the System File Checker or SFC scan.
@@ -94,10 +98,6 @@ Try updating Windows now and see if the update gets installed.
  To know how to run the SFC and DSIM, you can explore our guide on[CHKSDK, SFC, and DISM, and how they work](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
  These scans will take a few minutes to run. If the 0x800f0845 error was caused by corrupted files, it should have been fixed. So try updating Windows again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reset Windows Update Components
 
@@ -129,6 +129,10 @@ net start cryptsvc`
 
  Once you have run all the commands, the update error should have got fixed. Restart your PC and try installing the updates again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Install the Update Manually via the Microsoft Update Catalog
 
  What if none of the above solutions works for you? No worries, just install the update manually from the Microsoft Update Catalog.
@@ -138,12 +142,13 @@ net start cryptsvc`
 ![Search For Update On Microsoft Update Catalog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-on-microsoft-update-catalog.jpg)
 3. The matching updates will show up on the results page. Check the update that applies to your Windows PC—whether it is for Windows 10 or 11, and whether it is for an ARM64-based system or an x64-based system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Microsoft Update Catalog Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-update-catalog-search-results.jpg)
 4. To know the build of your PC, search for**About** in**Windows Search** and click on**About your PC** under**Best match** . In the**About** page, under**Device specifications** , check your**System type** to know whether it is x64-based or another.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Device Specifications in About Your PC Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-10065.jpg)  
  Select the update that matches your system in Microsoft Update Catalog and click the**Download** button.
 5. The**Download** page will open with the file download link. Click on the link to download the update.  
@@ -155,10 +160,6 @@ net start cryptsvc`
  Finally, the**Installation complete** window will appear.  
 ![Click Restart Now to Complete Installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-to-complete-installation.jpg)
 7. Just click the**Restart Now** button to complete the installation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. After your PC restarts, go to the**Windows Update history** page.  
 ![Cumulative Update Successfully Installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cumulative-update-successfully-installed.jpg)  
@@ -183,16 +184,19 @@ net start cryptsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-pioneering-digital-realms-comparing-metaverse-and-omniverse/"><u>[New] In 2024, Pioneering Digital Realms Comparing Metaverse & Omniverse</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-building-your-own-youtube-organization-toolkit-the-watch-later-way/"><u>[Updated] Building Your Own YouTube Organization Toolkit The Watch Later Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-desktop-cleanliness-with-self-deleting-files-in-windows-os/"><u>Enhance Desktop Cleanliness with Self-Deleting Files in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-command-not-available-in-windows/"><u>Immediate Fixes for Command Not Available in Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-2023s-mastered-entry-editor-for-multi-platform-devices/"><u>In 2024, 2023'S Mastered Entry Editor for Multi-Platform Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-0x80246007-update-obstacle-on-windows-1011/"><u>Overcoming 0X80246007 Update Obstacle on Windows 10/11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revolutionize-patient-engagement-with-ad-insights-for-2024/"><u>Revolutionize Patient Engagement with Ad Insights for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/seamless-subtitle-management-a-mac-edition/"><u>Seamless Subtitle Management A Mac Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-desktop-connection-on-w11/"><u>Streamlining Desktop Connection on W11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-lava-yuva-3-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Lava Yuva 3 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win1011s-vanishing-windows-how-to-bring-them-back-quickly/"><u>Win10/11's Vanishing Windows: How to Bring Them Back Quickly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-30-pathways-to-unique-metaverse-meme-production/"><u>[New] 30 Pathways to Unique Metaverse Meme Production</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-8-free-and-online-facebook-link-downloaders/"><u>[New] In 2024, 8 Free And Online Facebook Link Downloaders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-building-a-robust-spotify-advertising-strategy/"><u>[Updated] Building a Robust Spotify Advertising Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-unlicensed-adobe-software-alerts/"><u>Disabling Unlicensed Adobe Software Alerts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-a-custom-pattern-lock-to-a-windows-11-or-11-pc/"><u>How to Add a Custom Pattern Lock to a Windows 11 or 11 PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xs-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XS without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-pro-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 14 Pro to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/installazione-facoltativa-di-tecnico-aomei-e-spazio-infinito-sul-cloud-con-aomei-backupper-scopri-le-possibilita/"><u>Installazione Facoltativa Di Tecnico AOMEI E Spazio Infinito Sul Cloud Con AOMEI Backupper: Scopri Le Possibilità</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-archive-integration-securing-zip-within-images-windows-11/"><u>Silent Archive Integration: Securing ZIP Within Images (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/standby-struggles-decoding-modern-standby-woes/"><u>Standby Struggles: Decoding Modern Standby Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-0x8004dec5-error-in-windows-11-onedrive-sign-in/"><u>Troubleshooting 0X8004dec5 Error in Windows 11 OneDrive Sign In</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tutorial-tracking-down-your-youtube-comments-for-2024/"><u>Tutorial Tracking Down Your YouTube Comments for 2024</u></a></li>
 </ul></div>
 

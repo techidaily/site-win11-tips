@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Razer Synapse Device Recognition in Windows 11"
-date: 2024-11-22T16:42:08.594Z
-updated: 2024-11-27T18:12:26.939Z
+date: 2024-11-29T16:04:14.223Z
+updated: 2024-12-06T22:34:18.656Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## But First, Double-Check Device Compatibility With Razer Synapse
 
  First, before you hop into the troubleshooting steps, note that Synapse will not detect non-Razer devices. There are even some Razer products Synapse 3.0 and 2.0 don’t support. It might be the case Synapse isn’t detecting your hardware because it doesn’t support it. So, double-check your Razer Synapse software supports the device it’s not detecting.
 
  You can check supported hardware at the[Razer Synapse 3 supported device page](https://mysupport.razer.com/app/answers/detail/a%5Fid/4130/~/razer-synapse-3-supported-devices) . Click a category on that page to see if your device is listed there. You can also check compatibility for version 2.0 at the[Razer Synapse 2.0](https://mysupport.razer.com/app/answers/detail/a%5Fid/4131/~/razer-synapse-2.0-supported-devices) supported device page. If your device is listed among the supported hardware on one of those pages, your Synapse software should detect it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the Hardware and Devices Troubleshooter
 
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 6. Click**Next** in the Hardware and Devices troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-hardware-and-devices-troubleshooter.jpg)
@@ -63,14 +63,6 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-device-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Select Synapse’s Repair Option
 
  A lot of users have also said they’ve been able to fix Synapse not detecting devices by selecting a**Repair** option for that software. Synapse has a**Repair** option you can select on a Razer Gaming Software window. This is how you can select that option in Windows 11/10:
@@ -81,12 +73,13 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 ![The Change button for Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-button.jpg)
 4. Select the**Repair** option in the window that opens.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-button.jpg)
 5. Sign back into Razer Synapse after selecting**Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then select**Restart** in Windows 11/10 before launching Synapse.
 
 ## 4\. Reinstall Razer Synapse
@@ -103,6 +96,11 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 `C:\Program Files (x86)\Razer`  
 ![The Program Files > Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-directory.jpg)
 8. Press**Ctrl** +**A** to select any remaining files in the Razer folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Press the**Del** key to erase the selected files.
 
  Next, input this Razer directories path in Explorer’s address bar and hit**Enter** :
@@ -112,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 ![The ProgramData > Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-subfolder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Repeat steps eight and nine to delete all files in the Razer directories folder. Once done, restart your PC.
@@ -132,14 +130,20 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 4. Right-click a Razer mouse and select**Uninstall device** \>**Uninstall** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-option.jpg)
 5. Repeat the previous step for all HID mice devices listed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then double-click the**Keyboards** category.  
 ![The Keyboards device category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboards-category.jpg)
 7. Uninstall all Razer and HID keyboard devices listed there as outlined in step four.
-8. Reboot the Windows PC for the automatic reinstallation of device drivers. You can also select**Action** and**Scan for hardware changes** in Device Manager to reinstall uninstalled peripherals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Reboot the Windows PC for the automatic reinstallation of device drivers. You can also select**Action** and**Scan for hardware changes** in Device Manager to reinstall uninstalled peripherals.
 
 ## 6\. Disable Antivirus Utilities
 
@@ -168,22 +172,21 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-apoyo-affordable-lightroom-counterparts-reviewed/"><u>[New] Apoyo Affordable Lightroom Counterparts Reviewed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-behind-the-scenes-with-intova-edge-x/"><u>[New] Behind the Scenes with Intova Edge X</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-compelling-fictional-personalities-using-top-chatgpt-prompts/"><u>Craft Compelling Fictional Personalities Using Top ChatGPT Prompts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-rid-of-the-redundant-essential-app-removals-in-windows/"><u>Get Rid of the Redundant: Essential App Removals in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-integrating-ai-in-windows-via-vivetool/"><u>Guide to Integrating AI in Windows via ViveTool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-0x8007045d-error-on-modern-windows-os/"><u>Guide to Overcoming 0X8007045D Error on Modern Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-and-remedying-winscombsvrdll-issues/"><u>Guide to Overcoming and Remedying WinscombSvr.dll Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rescue-corrupt-data-overcoming-windows-error-x70/"><u>How To Rescue Corrupt Data: Overcoming Windows Error X70</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-breaking-down-the-barriers-top-strategies-for-beginners-in-influencer-marketing-on-reddit/"><u>In 2024, Breaking Down the Barriers Top Strategies for Beginners in Influencer Marketing on Reddit</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-x90s-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo X90S FRP Without Computer</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-mastering-virtual-worlds-choosing-metavisors-wisely/"><u>In 2024, Mastering Virtual Worlds Choosing Metavisors Wisely</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-role-of-free-exchange-in-discovery/"><u>In 2024, The Role of Free Exchange in Discovery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keep-networks-secretive-windows-wireless-hiding/"><u>Keep Networks Secretive: Windows Wireless Hiding</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-dex-galaxy-windows-integration-made-simple/"><u>Navigating DeX: Galaxy-Windows Integration Made Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-pc-setup-with-these-3-efficient-steps-for-a-bootable-win-11-usb/"><u>Optimize Your PC Setup with These 3 Efficient Steps for a Bootable Win 11 USB</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-level-streaming-tech-innovations-you-need/"><u>Pro-Level Streaming Tech Innovations You Need</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-your-ideal-vr-gear-selection-would-you-prefer-the-ease-of-mobile-or-tethered-setup-for-2024/"><u>Unveiling Your Ideal VR Gear Selection Would You Prefer the Ease of Mobile or Tethered Setup for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-amplify-your-creative-impact-youtube-studio-editing-essentials/"><u>[New] In 2024, Amplify Your Creative Impact YouTube Studio Editing Essentials</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-easy-color-techniques-for-professional-outputs/"><u>[Updated] 2024 Approved Easy Color Techniques for Professional Outputs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-getting-acquainted-with-youtube-tvs-distinctive-features/"><u>[Updated] In 2024, Getting Acquainted with YouTube TV's Distinctive Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-essential-guide-to-blurring-video-borders-in-teams/"><u>[Updated] In 2024, The Essential Guide to Blurring Video Borders in Teams</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-display-driver-start-fails-in-windows/"><u>Essential Fixes for “Display Driver Start” Fails in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/experts-guide-to-windows-security-crafting-custom-pin-layouts/"><u>Expert's Guide to Windows Security: Crafting Custom PIN Layouts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-se-2022-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-scape-discovering-the-artistic-no-money-backdrops-of-tiktok/"><u>In 2024, FREE-Scape Discovering the Artistic No-Money Backdrops of TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-chatgpt-installation-in-a-windows-environment/"><u>Master ChatGPT Installation in a Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-minecraft-errors-with-ease/"><u>Navigating Windows' Minecraft Errors with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-resetting-issue-with-windows-11s-nvidia-control-panel/"><u>Overcoming Resetting Issue with Windows 11'S NVidia Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-icon-cache-a-step-by-step-guide/"><u>Resetting Icon Cache: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-missing-zlibdll-error-a-comprehensive-guide/"><u>Solving 'Missing zlib.dll' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-refresh-win11-terminal-settings/"><u>Steps to Refresh Win11 Terminal Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-gaming-discounts-during-cyber-monday-2024-exclusive-offers-you-dont-want-to-miss-zdnet/"><u>Top Gaming Discounts During Cyber Monday 2024: Exclusive Offers You Don't Want to Miss | ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Manipulate Windows Auto-Lock/Screensaver Timeout
-date: 2024-11-23T18:03:18.929Z
-updated: 2024-11-27T17:43:38.349Z
+date: 2024-12-03T22:08:33.730Z
+updated: 2024-12-06T16:09:36.451Z
 tags:
   - windows10
   - windows11
@@ -45,11 +45,11 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![Using Windows System Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-Windows-System-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Apply the same settings for the **When plugged** in option on the right-hand side pane. From there, close the **system settings** and restart your device to save these changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Use the Edit Plan Settings (via the Control Panel)
 
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![Using the Edit Plan Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Edit-Plan-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use the Advanced Power Options (via the Control Panel)
 
  You can also use the Control Panel's advanced power settings to configure the lock screen timeout settings.
@@ -87,15 +83,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![Using the Advanced Power Options to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Advanced-Power-Options-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you're done, click **Apply** and then click **OK**. Finally, close the **Control Panel** and then restart your device to save these changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Use the Command Prompt
 
@@ -124,12 +112,16 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
  Now, let's explore how you can change the screen saver timeout settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use the System Settings
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here's how to change the duration of the screen saver using the system settings:
 
@@ -147,11 +139,11 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Using the System Settings to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-System-Settings-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
 
- Finally, press **Apply** and then press **OK** to save these changes.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Finally, press **Apply** and then press **OK** to save these changes.
 
 ### Use the Local Group Policy Editor
 
@@ -163,6 +155,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 4. Double-click the **Screen saver timeout** option on the right-hand side.
 
 ![Using the LGPE to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-LGPE-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the next window, select the **Enabled** option. From there, use the **arrow buttons** next to the **Seconds** box to select the duration of the screen saver.
 
@@ -198,10 +194,14 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 ![Clicking the "ScreenSaveTimeOut" value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clicking-the-screensavetimeout-value.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak Your Lock Screen Timeout Settings Without a Hassle
@@ -225,17 +225,19 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-fifa-video-highlights-top-youtube-data-infographics/"><u>[New] FIFA Video Highlights Top YouTube Data Infographics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-insights-into-whatsapps-voice-chatting-capabilities/"><u>[Updated] Insights Into WhatsApp's Voice Chatting Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-discovering-innovation-my-experience-testing-lenovos-revolutionary-auto-swivel-laptop-at-ifa-202n-insights/"><u>1. Discovering Innovation: My Experience Testing Lenovo's Revolutionary Auto-Swivel Laptop at IFA 202N - Insights</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-dive-deep-with-these-6-extraordinary-metaverse-models/"><u>2024 Approved Dive Deep with These 6 Extraordinary Metaverse Models</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-windows-geforce-notaxc0f1103f/"><u>Methods to Rectify Windows' GeForce NotaXC0F1103F</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210275268-9781989838372-rapid-weight-loss-hypnosis-for-women/"><u>Rapid Weight Loss Hypnosis For Women | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-inaccessible-roblox-game-on-windows-due-to-settings/"><u>Resolving Inaccessible Roblox Game on Windows Due to Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shine-up-windows-extend-volume-for-clear-view/"><u>Shine Up Windows Extend Volume for Clear View</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-efficient-use-of-windows-with-external-screen-support/"><u>Tips for Efficient Use of Windows with External Screen Support</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-value-picks-the-reliable-and-economical-lg-24lh4830-smart-television/"><u>Top Value Picks: The Reliable and Economical LG 24LH4830 Smart Television</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208776417-touchpad-dilemma-unveil-and-repair-instantly/"><u>Touchpad Dilemma: Unveil & Repair Instantly!</u></a></li>
+<li><a href="https://techidaily.com/1-solving-common-issues-with-windows-defender-a-step-by-step-guide/"><u>1. Solving Common Issues with Windows Defender: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-effortless-youtube-live-with-step-by-step-obs-guide-for-beginners/"><u>2024 Approved Effortless YouTube Live with Step-by-Step OBS Guide for Beginners</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-off-facebook-activity-expose-is-it-worth-the-scrutiny/"><u>2024 Approved Off-Facebook Activity Exposé - Is It Worth The Scrutiny?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-charismatic-videos-with-diy-camera-setups/"><u>Crafting Charismatic Videos with DIY Camera Setups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-for-downloading-and-installing-windows-11-arm-iso-version/"><u>Easy Steps for Downloading & Installing Windows 11 ARM ISO Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-finding-windows-launch-codes/"><u>Essential Tips for Finding Windows' Launch Codes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-unique-look-with-windows-11-wallpapers/"><u>In 2024, Crafting a Unique Look with Windows 11 Wallpapers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-inside-look-the-power-of-recmeister-capturing-features/"><u>In 2024, Inside Look The Power of Recmeister Capturing Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unleashing-youtube-potential-with-effective-seo-methods-1-11/"><u>In 2024, Unleashing YouTube Potential with Effective SEO Methods (1-11)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-14th-new-york-times-quiz-insightful-tips-and-solutions-399-edition/"><u>July 14Th New York Times Quiz: Insightful Tips & Solutions - #399 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-and-mouse-waking-windows-11-from-sleep/"><u>Keyboard & Mouse: Waking Windows 11 From Sleep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-breakthrough-swift-smart-team-tools/"><u>Microsoft's Breakthrough: Swift, Smart Team Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-away-from-constant-enter-credential-messages/"><u>Navigating Away From Constant Enter Credential Messages</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Infinix Zero 30 5G | Dr.fone</u></a></li>
 </ul></div>
 

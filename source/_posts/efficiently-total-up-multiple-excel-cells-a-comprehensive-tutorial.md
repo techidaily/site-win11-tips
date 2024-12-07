@@ -1,7 +1,7 @@
 ---
 title: Efficiently Total Up Multiple Excel Cells - A Comprehensive Tutorial
-date: 2024-08-28T01:07:31.624Z
-updated: 2024-08-29T01:07:31.624Z
+date: 2024-12-03T17:26:02.765Z
+updated: 2024-12-06T22:42:25.451Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ---
 
 ## Efficiently Total Up Multiple Excel Cells - A Comprehensive Tutorial
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,9 +28,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![sum at bottom of excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/bottom-sum.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But, we’ll assume you want to add the sum to the workbook itself. In that case, highlight the numbers you want to add.
 
 ![highlight cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/highlight.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From the “Formulas” tab, click “Autosum” to find the sum of the list of numbers. Once you click, Excel will automatically add the sum to the bottom of this list.
 
@@ -47,29 +59,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![empty cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/empty-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From the “Formulas” tab, click the arrow icon at the right of “Autosum.”
 
 ![formulas autosum](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/formulas-autosum.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Choose “Sum.”
 
 ![autosum and sum](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/sum.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the first number in the series.
 
 ![first cell in column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/first.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hold the "Shift" button and then click the last number in that column to select all of the numbers in between.
 
 ![shift and click to select](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/shift-highlight.png) 
@@ -82,23 +90,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![ctrl and click to select](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/ctrl.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Press the "Enter" button on the keyboard, or the checkmark in the formula bar to execute the formula.
 
 ![autosum and sum](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/sum.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +107,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-narrowing-down-to-top-8-exceptional-online-platforms-for-free-srt/"><u>[New] 2024 Approved Narrowing Down to Top 8 Exceptional Online Platforms for Free SRT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-efficiently-record-your-screen-with-io-screen-recorder/"><u>[Updated] Efficiently Record Your Screen with IO Screen Recorder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flip-the-script-ios-method-to-reverse-vids/"><u>2024 Approved Flip the Script IOS Method to Reverse Vids</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-retro-tech-treasure/"><u>2024 Approved Retro Tech Treasure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clarifying-system-repair-tools-chkdsk-vs-sfc-and-dissect-processes/"><u>Clarifying System Repair Tools: Chkdsk Vs. Sfc & Dissect Processes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/complete-step-by-step-tutorial-creating-personalized-ringtones-with-itunes/"><u>Complete Step-by-Step Tutorial: Creating Personalized Ringtones with iTunes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-11-camera-glitch-code-a00f4289/"><u>Correcting Windows 11 Camera Glitch Code A00F4289</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-enhance-printer-speed/"><u>Effortlessly Enhance Printer Speed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ting-youtube-consumption-strategies-for-organizing-videos-for-future-viewing/"><u>Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-file-how-to-handle-mcuicntexe-failure/"><u>Fixing Missing File: How to Handle McUICnt.exe Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-issues-made-simple/"><u>Navigating Through Windows Issues Made Simple!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-mail-app-failure-decode-windows-11s-0x800713f/"><u>Overcoming Mail App Failure: Decode Windows 11’S 0X800713F</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-guide-to-developing-your-own-windows-voice-translation-app/"><u>Simplified Guide to Developing Your Own Windows Voice Translation App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/social-media-synergy-linking-instagram-with-tiktok-for-2024/"><u>Social Media Synergy Linking Instagram with TikTok for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-your-windows-with-expert-wsl-2-docker-techniques/"><u>Transforming Your Windows with Expert WSL 2 Docker Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-unsyncing-google-drive-on-your-pc-instantly/"><u>Troubleshoot Unsyncing Google Drive on Your PC Instantly</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-working-on-editing-a-video-and-youd-like-to-add-text-to-it-learn-the-various-ways-that-you-can-add-text-to-a-video/"><u>Updated In 2024, Are You Working on Editing a Video and Youd Like to Add Text to It? Learn the Various Ways that You Can Add Text to a Video</u></a></li>
+</ul></div>
 

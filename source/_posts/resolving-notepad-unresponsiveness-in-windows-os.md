@@ -1,7 +1,7 @@
 ---
 title: Resolving Notepad Unresponsiveness in Windows OS
-date: 2024-08-28T01:12:53.413Z
-updated: 2024-08-29T01:12:53.413Z
+date: 2024-12-03T17:01:34.819Z
+updated: 2024-12-06T18:07:28.876Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,15 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 
 ![Notepad Window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/notepad-window-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that this is just a temporary fix that you can use if you don’t have time to figure out what’s causing the problem. To resolve the underlying issue for good, it's time to dive into the potential root causes of this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Repair the Notepad App
 
@@ -45,9 +53,9 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
  Once you have repaired the Notepad app, try using it again. If Notepad continues to close automatically, you can consider resetting it on your PC. Check out [how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Reinstall the Notepad App
 
  Another thing you can do is uninstall the Notepad app and reinstall it on your PC. This should resolve any issues caused by corrupted data and also update the app to its most recent version.
@@ -61,13 +69,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Uninstall Notepad App From Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-notepad-app-from-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the app is removed, head over to [the Notepad app on the Microsoft Store](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3) to download and install Notepad again. Following this, the app should work smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Try Generic Fixes
 
  In most cases, one of the above suggestions should prevent Notepad from crashing on your Windows PC. If not, you can try some generic solutions to fix the problem.
@@ -78,15 +84,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * **Create another user account:** If nothing else works, your current user account may be at fault. In that case, you will have to [create a new user account on Windows](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to get Notepad working again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Start Using Notepad Again on Windows
 
  Notepad is a handy app for jotting down notes and editing text files on your Windows computer. However, your experience while using it may not always be without problems. Hopefully, one of the above suggestions has helped you fix Notepad crashes on Windows, and things are back to normal.
 
  If the Notepad app is constantly closing or crashing on your Windows 10 or 11 PC, don’t fret. Here are some tips that should help fix the problem.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -94,3 +99,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-easy-transition-from-local-to-global-stream-spotify-playlists-on-youtube/"><u>[Updated] Easy Transition From Local to Global Stream Spotify Playlists on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows7dvd2024/"><u>「無料・有料問わず、Windows7上のDVDコピー手順ベスト５～2024年版ガイド」</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/countering-lsa-protection-off-alert-in-windows-os/"><u>Countering LSA Protection OFF Alert in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-silent-sound-capture-a-step-by-step-guide-for-w11-users/"><u>Fixing Silent Sound Capture: A Step-by-Step Guide for W11 Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-n3-flip-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find N3 Flip to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-design-principles-essential-knowledge-of-yt-banners-and-art/"><u>Mastering Design Principles Essential Knowledge of YT Banners & Art</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-visual-enhancements-using-portable-lut-tools/"><u>Quick Visual Enhancements Using Portable LUT Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-faulty-usb-stick-behavior-on-windows-systems/"><u>Rectifying Faulty USB Stick Behavior on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-lost-audio-preferences-in-windows/"><u>Troubleshooting Lost Audio Preferences in Windows</u></a></li>
+</ul></div>
+

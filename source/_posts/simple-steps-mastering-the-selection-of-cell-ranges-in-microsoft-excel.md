@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Mastering the Selection of Cell Ranges in Microsoft Excel"
-date: 2024-08-28T01:08:49.642Z
-updated: 2024-08-29T01:08:49.642Z
+date: 2024-12-01T22:02:34.377Z
+updated: 2024-12-06T20:43:16.628Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1f9efb9a5a1a414295a14ea1d46a07970958d7efb
 ---
 
 ## Simple Steps: Mastering the Selection of Cell Ranges in Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/1f9efb9a5a1a414295a14ea1d46a07970958d7efb
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b1128b9f05f6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should now have a group of cells selected.
 
 ##  Select a Large Range of Cells With the Shift Key
@@ -45,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/1f9efb9a5a1a414295a14ea1d46a07970958d7efb
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112ddeb27af.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll your sheet until you find the last cell in the range you want to select. Hold down your Shift key, and then click that cell.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112e1ed76ca.png) 
@@ -57,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/1f9efb9a5a1a414295a14ea1d46a07970958d7efb
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112e638aefd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Select (or Deselect) Independent Cells Outside a Range With the Ctrl Key
 
  You can also select multiple cells that are not connected to one another by using your Ctrl key.
@@ -67,13 +73,14 @@ thumbnail: https://thmb.techidaily.com/1f9efb9a5a1a414295a14ea1d46a07970958d7efb
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112ddeb27af.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, hold down the Ctrl key and click to select additional cells. In the image below, we've selected five different cells.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2018-06-05-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  You can also use your Ctrl key to deselect an already selected cell---even from a selection range. In the image below, we deselected several cells from a range of cells we'd already selected just by holding down the Ctrl key while clicking the cells.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2018-06-05-2.png) 
@@ -86,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/1f9efb9a5a1a414295a14ea1d46a07970958d7efb
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b11267766a49.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Type in the range of cells you want to select using the following format:
 
 First Cell:LastCell
@@ -98,15 +102,13 @@ First Cell:LastCell
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b1126f0d6153.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hit Enter (or Return on Mac), and the cells you input are selected.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112742688f0.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ##  Select an Entire Row of Cells
 
  You may need to select an entire row of cells at one time---perhaps to apply formatting a header row. It's easy to do this.
@@ -115,14 +117,12 @@ First Cell:LastCell
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112a2955e5e.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  The entire row is now selected.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Select Multiple Entire Rows of Cells.
 
  Sometimes, you may want to select multiple entire rows cells. Much like with selecting individual cells, you'll use the Shift key if the rows are contiguous (or you can click and drag) and the Ctrl key if the rows are noncontiguous.
@@ -136,11 +136,16 @@ First Cell:LastCell
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112b4a94e0b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To select noncontiguous rows, click the row number of a row you want to select.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112b02af9b4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then hold down your Ctrl key while clicking the row numbers of additional rows you want to add to the selection. In the image below, we've selected several rows that are noncontiguous.
 
@@ -150,9 +155,6 @@ First Cell:LastCell
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2018-06-05-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Select One or More Entire Columns of Cells
 
  Sometimes, you may want to select an entire column of cells. It's easy to do this, too. In fact, it works exactly like selecting rows.
@@ -160,6 +162,10 @@ First Cell:LastCell
  Click a column letter to select the column.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112c46049f2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also select multiple columns by clicking and dragging or by using the Shift key, just like with rows. The Ctrl key also works for selecting noncontiguous columns or for deselecting columns from a selected range.
 
@@ -169,8 +175,6 @@ First Cell:LastCell
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +182,20 @@ First Cell:LastCell
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovating-filming-techniques-smartphones-as-webcams/"><u>[New] In 2024, Innovating Filming Techniques Smartphones as Webcams</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-maximizing-your-social-media-impact-group-photosvideos-on-ig/"><u>[New] In 2024, Maximizing Your Social Media Impact Group Photos/Videos on IG</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tep-by-step-guide-transforming-viewers-into-profit-for-2024/"><u>[New] Step-By-Step Guide Transforming Viewers Into Profit for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715860313707-new-xbox-game-memories-save-them-with-screenshots/"><u>[New] Xbox Game Memories, Save Them with Screenshots!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/capturing-horizon-views-for-successful-drone-livestreams-for-2024/"><u>Capturing Horizon Views for Successful Drone Livestreams for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-local-links-to-global-drives-dropbox-and-googledrive-via-c/"><u>Leveraging Local Links to Global Drives: Dropbox & GoogleDrive via C</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-remedy-for-domain-services-print-woes-in-windows/"><u>Mastering the Remedy for Domain Services Print Woes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/peering-into-windows-11s-covert-icons-and-tray/"><u>Peering Into Windows 11'S Covert Icons & Tray</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-fatal-error-0x800f0831-beast-in-windows-os/"><u>Taming the Fatal Error 0X800f0831 Beast in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-seamless-transition-of-hosts-from-windows-to-virtualized-linux-world/"><u>The Seamless Transition of Hosts: From Windows to Virtualized Linux World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-addressing-windows-error-code-0xc0000001/"><u>The Ultimate Guide to Addressing Windows Error Code 0XC0000001</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-a05-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy A05 to iPhone 14/15 | Dr.fone</u></a></li>
+</ul></div>
 

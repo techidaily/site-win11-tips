@@ -1,7 +1,7 @@
 ---
 title: "Mastering MS Excel: A Comprehensive Tutorial on Square Root Calculation Techniques"
-date: 2024-08-28T01:06:58.969Z
-updated: 2024-08-29T01:06:58.969Z
+date: 2024-12-05T01:24:03.699Z
+updated: 2024-12-07T01:56:21.256Z
 tags:
   - excel
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
  Calculating the square root of numbers is common in mathematical equations. If you'd like to perform that calculation in Microsoft Excel, you have a couple of ways to do that. We'll show you how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is a Square Root?
 
  The square root of a number is the value that you multiply by itself to get the original number. For example, the square root of 25 is 5\. This is because if you multiply 5 by 5, you get 25.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  To start, first, open your spreadsheet with Microsoft Excel. In your spreadsheet, find the number for which you want to find the square root.
 
 ![Find the number to get the square root for.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/1-select-number.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the spreadsheet, click the cell in which you want to display the resulting square root.
 
@@ -44,26 +52,32 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Type the square root formula and press Enter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/3-enter-square-root-formula.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To directly specify your number in the formula, replace `D2` in the formula with your number. Like so:
 
 =225^(1/2)
 
 ![Enter numbers directly in the square root formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-enter-values-in-square-root-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  And instantly, Excel will display the resulting square root in your selected cell.
 
 ![The answer of the square root formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/5-square-root-formula-result.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Want to [find the sum of squares in Excel](https://visual-screen-recording.techidaily.com/new-reviewing-free-screen-recorder-tools-for-pc/)? It's equally easy to do that.
 
 Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-recording.techidaily.com/new-reviewing-free-screen-recorder-tools-for-pc/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Calculate Square Root in Excel With the SQRT Function
 
  If you'd like to use a function to calculate the square root, use Excel's dedicated `SQRT` function for finding square roots. This function retrieves the same result as the method above.
@@ -72,18 +86,12 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
 
 ![Select a cell to display the square root function result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-select-square-root-result-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the selected cell, enter the following `SQRT` function and press Enter. In this function, replace `D2` with the cell where your number is.
 
 =SQRT(D2)
 
 ![Type the square root function and press Enter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/7-enter-square-root-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  If you wish to directly use the number in the function, then replace `D2` with your actual number. Like this:
 
 =SQRT(625)
@@ -96,9 +104,6 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
 
  And that's all.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ##  Bonus Tip: Insert the Square Root Symbol in Excel
 
  By default, both methods above do not display the square root (√) symbol. To add this symbol, you can use Excel's `UNICHAR` function in conjunction with your preferred square root finding method.
@@ -115,9 +120,6 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
 
 ![Insert the square root symbol.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/10-insert-square-root-symbol.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  And those are the ways to quickly get to the square root of a number. Very useful!
 
 ---
@@ -136,8 +138,6 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +145,20 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ow-to-become-a-youtube-partner-for-2024/"><u>[New] How to Become A YouTube Partner for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-look-behind-the-curtain-at-ws623s-design-decisions/"><u>A Look Behind the Curtain at WS623's Design Decisions</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/complete-guide-restoring-a-corrupted-drive-on-pcs-windows-108711/"><u>Complete Guide: Restoring a Corrupted Drive on PCs (Windows 10/8/7/11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-cause-of-spotifys-code-4-failures/"><u>Deciphering the Cause of Spotify's Code 4 Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-to-fix-persistent-crashing-issues-in-call-of-duty-mw3-play-uninterrupted/"><u>Effortless Solutions to Fix Persistent Crashing Issues in Call of Duty: MW3 - Play Uninterrupted!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/engage-with-9-routes-to-control-windows-audio-effects/"><u>Engage With 9 Routes to Control Windows Audio Effects</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-google-pixel-8-lock-screen-password-by-drfone-android/"><u>How to Reset your Google Pixel 8 Lock Screen Password</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/"><u>How to Restart Any iPhone, Even if the Buttons Are Broken</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-screenshare-troubleshooting-microphone-on-google-meet-windows/"><u>Silent Screenshare: Troubleshooting Microphone on Google Meet (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-error-30005-failed-file-creation-code-32/"><u>Steps to Correct Error 30005: Failed File Creation, Code 32</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-eliminating-license-ends-warning-on-win11/"><u>Tips for Eliminating License Ends Warning on Win11</u></a></li>
+</ul></div>
 

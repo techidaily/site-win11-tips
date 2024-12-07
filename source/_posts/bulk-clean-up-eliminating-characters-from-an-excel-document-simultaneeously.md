@@ -1,7 +1,7 @@
 ---
 title: "Bulk Clean-Up: Eliminating # Characters From an Excel Document Simultaneeously"
-date: 2024-08-28T01:08:12.997Z
-updated: 2024-08-29T01:08:12.997Z
+date: 2024-12-02T01:39:57.790Z
+updated: 2024-12-07T01:50:18.803Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 ---
 
 ## Bulk Clean-Up: Eliminating # Characters From an Excel Document Simultaneeously
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  Today’s Question & Answer session comes to us courtesy of SuperUser—a subdivision of Stack Exchange, a community-driven grouping of Q&A web sites.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Question
 
  SuperUser reader M.Hesse wants to know how to get rid of all the number sign (#) errors in Microsoft Excel at the same time:
@@ -29,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
  How do you get rid of all the number sign errors in Microsoft Excel at the same time?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Answer
 
  SuperUser contributors Justin, Raystafarian, and boflynn have the answer for us. First up, Justin:
@@ -43,53 +52,33 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 > 
 > ![how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-01.jpg) 
 > 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 > Or click and drag to select a smaller range of columns:
 > 
 > ![how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-02](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-02.jpg) 
 > 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 > **Step 2\. Auto-Size Selected Columns** 
 > 
 > Now double-click on the right boundary of any of the selected columns when your cursor changes to the column-resizing double arrow:
 > 
 > ![how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-03](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-03.jpg) 
 > 
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 > ![how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-04.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Followed by the answer from Raystafarian:
 
 > Yes, on the ribbon go to Home, Cells, and click Format. Once there, you can choose to AutoFit either the Row Height and/or Column Width.
 > 
 > ![how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-05](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-05.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  With our final answer from boflynn:
 
 > For keyboard ninjas, here is a technique that does not require a mouse:
@@ -113,8 +102,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +109,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-graphics-legacy-radeon-reloaded/"><u>[New] In 2024, Graphics Legacy Radeon Reloaded</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionary-drone-motors-the-quintessential-guide-to-flight-excellence/"><u>[New] Revolutionary Drone Motors The Quintessential Guide to Flight Excellence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-essential-errors-fixing-issues-in-win10win11/"><u>Eradicating 'Essential' Errors: Fixing Issues in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tabs-to-transcribe-on-tablets-and-laptops/"><u>Essential Tabs to Transcribe on Tablets & Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-full-capabilities-of-windows-snip-and-sketch-tool/"><u>Explore the Full Capabilities of Windows' Snip & Sketch Tool</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-silent-menace-solving-the-no-audio-issue-in-evil-genius-2/"><u>Fixing Silent Menace: Solving the 'No Audio' Issue in Evil Genius 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-your-intel-unison-working-flawlessly-on-windows-11/"><u>Get Your Intel Unison Working Flawlessly on Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/w-generation-generating-7-hilarious-video-moments-online-for-2024/"><u>Guffaw Generation Generating 7 Hilarious Video Moments Online for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-protect-your-windows-command-history/"><u>How to Protect Your Windows Command History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-windows-11-definers-guide/"><u>Immediate Windows 11 Definers Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-real-time-broadcast-periscope-essentials-for-2024/"><u>Mastering Real-Time Broadcast Periscope Essentials for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-mobile-apps-for-animated-text-videos-for-2024/"><u>New Top Mobile Apps for Animated Text Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-form-spectrum-youtube-meets-tiktok/"><u>Short-Form Spectrum YouTube Meets TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11-tpm-obstacles-with-ease/"><u>Tackling Windows 11 TPM Obstacles with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-efficient-browsers-with-low-resource-impact-on-all-oses/"><u>Top Efficient Browsers with Low Resource Impact on All OSes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-lossless-4k-video-reduction-unlock-the-secrets-of-shrinking-videos-while-maintaining-superior-clarity/"><u>Ultimate Guide to Lossless 4K Video Reduction: Unlock the Secrets of Shrinking Videos While Maintaining Superior Clarity</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Future of Notes Is Obsidian Canvas Style
-date: 2024-11-24T16:36:28.144Z
-updated: 2024-11-27T17:12:40.883Z
+date: 2024-12-05T00:01:36.899Z
+updated: 2024-12-07T02:07:57.553Z
 tags:
   - windows10
   - windows11
@@ -27,17 +27,9 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mind-Mapping With Obsidian Canvas
 
  Obsidian's Canvas offers you "the platform" to organize visually however you wish. We realize this sounds vague, so let's start with a practical example: using Obsidian's Canvas for mind mapping.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Set Up Your Obsidian Canvas
 
@@ -51,11 +43,12 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 6. The spot where you move and "drop" your note will also define its initial placement on the Canvas board.  
 ![Obsidian Dragging Note To Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-dragging-note-to-canvas.jpg)
 7. Since you've added "a generic element" but not a specific note, snippet, or media file to your board, Obsidian will show its file requester, which you should use to search for and select one of your notes.  
-![Obsidian Searching For Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-searching-for-note.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Obsidian Searching For Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-searching-for-note.jpg)
 
 ### How to Edit Your Canvas Elements
 
@@ -64,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 1. If you point the cursor at an element on your Canvas board or select it, you'll see a mini action menu on its top.  
 ![Obsidian Note Quick Action Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-quick-action-menu.jpg)
 2. You can use the first button to **remove** an element from the board. The second button allows you to change its **color**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Obsidian Note Quick Action Colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-quick-action-colors.jpg)
 3. The magnifying glass button **centers** the view on the selected element. The notepad-with-pencil button performs the same action as double-clicking on an element, allowing you to **edit** its content directly on the Canvas board.  
@@ -81,28 +70,36 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 
 ![Obsidian Canvas Connectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connectors.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also embed images on your Canvas by dragging the media button from the bottom bar or by directly dragging and dropping them from the **File** tab.
 
 ![Obsidian Canvas Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-images.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The connectors between elements are as configurable as the elements themselves. You can click on a connector and use the mini action menu on its top to a) **remove** it, b) change its **color**, c) **center** the view on it, d) change its **direction** (back, forward, and bidirectional), or e) edit its **label**.
 
 ![Obsidian Canvas Connector Direction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-direction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can add or edit an existing label on a connector by double-clicking on it or choosing the last option from its quick menu. Then, type the text you want to appear on its center as its label.
 
 ![Obsidian Canvas Connector Labels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-labels.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Don't press **Delete** to remove a connector's label; that would remove the connector itself. You can **edit** the label and erase its text. Still, it's quicker to select the new **Remove label** button that shows up on the quick actions bar if a selector has a label.
 
 ![Obsidian Canvas Connector Remove Label](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-remove-label.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Navigating Your Canvas
@@ -114,14 +111,23 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 2. The first button, with the cog icon, offers the option to toggle two methods of element **snapping** on the board and **locking** it from edits as "Read-only". The plus and minus buttons allow you to **zoom** in and out, and the circular arrow button to **reset** the zoom level. The rectangular selector button centers the view on the **selected element**. Below are two more buttons for **undoing** and **redoing** actions. The last button, Canvas help, with a question mark, shows a panel with Canvas-related **shortcuts**.  
 ![Obsidian Canvas Sidebar Snap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-sidebar-snap.jpg)
 3. Obsidian Canvas displays a horizontal or vertical line when two or more elements' borders or centers align to help you keep your Canvas boards tidy.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Obsidian Canvas Alignment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-alignment.jpg)
 4. Remember, Obsidian's other features are also active and usable on Canvas. For example, you can still keep **CTRL** pressed and point at a link to a note to see a **floating preview** of its contents.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Obsidian Floating Note Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-floating-note-preview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting More Out Of Obsidian Canvas
 
@@ -165,10 +171,6 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 * Reconsider or act on them, and shuffle them among the quadrants of your Priority Matrix.
 * **Delete** or **Archive** them when done with any of them to keep your Priority Matrix clean.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A Canvas for Everything With Obsidian
 
  With Obsidian's Canvas, the possibilities are truly endless. We saw how you can use it to do things for which you might be using other specialized apps up to now, from creating mind maps to organizing your tasks on a Priority Matrix.
@@ -179,23 +181,6 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 
  Let's see how you can use Obsidian's Canvas to make sense of your notes and boost your productivity visually.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/come-condividere-le-immagini-di-installazione-sul-tuo-team-utilizzando-una-rete-internet/"><u>Come Condividere Le Immagini Di Installazione Sul Tuo Team Utilizzando Una Rete Internet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/complete-step-by-step-solution-overcoming-battlefield-5-startup-problems/"><u>Complete Step-by-Step Solution: Overcoming Battlefield 5 Startup Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-windows-zoom-downfall-fix-error-1132/"><u>Counteracting Windows' Zoom Downfall - Fix Error 1132</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-most-frequent-user-criticisms-on-windows-11/"><u>Exploring The Most Frequent User Criticisms on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-12-mini-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 12 mini and iPad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-troubleshooting-in-windows-11-keyboard-shortcuts/"><u>Mastering Troubleshooting in Windows 11: Keyboard Shortcuts</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-achieve-hollywood-grade-video-a-step-by-step-fcpx-guide/"><u>New In 2024, Achieve Hollywood-Grade Video A Step-by-Step FCPX Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-tab-key-malfunction-in-modern-oses/"><u>Overcoming Tab Key Malfunction in Modern OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-sound-in-windows-10-a-comprehensive-guide/"><u>Restoring Sound in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-cloud-storage-integrating-dropbox-and-google-drive-via-c/"><u>Unlocking Cloud Storage: Integrating Dropbox and Google Drive via C</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-auditory-sculpture-in-motion-constructing-vibrant-audio-visual-compositions-with-premiere-pro/"><u>Updated Auditory Sculpture in Motion Constructing Vibrant Audio-Visual Compositions with Premiere Pro</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -203,3 +188,21 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-climbing-the-youtube-search-rankings-key-seo-strategies-unveiled-for-2024/"><u>[New] Climbing the YouTube Search Rankings Key SEO Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-painting-with-light-the-art-of-selective-hue-enhancement/"><u>[New] In 2024, Painting with Light The Art of Selective Hue Enhancement</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-listeners-language-decoded-without-the-charge/"><u>2024 Approved Listeners' Language Decoded, Without the Charge</u></a></li>
+<li><a href="https://fox-links.techidaily.com/drafting-a-powerful-post-for-online-fundraising-for-2024/"><u>Drafting a Powerful Post for Online Fundraising for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/embarking-on-the-journey-of-modern-love-with-facebooks-new-feature/"><u>Embarking on the Journey of Modern Love with Facebook's New Feature</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-lava-blaze-2-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-quick-h264-edits-the-ultimate-tutorial-on-cutting-videos-with-ease/"><u>Mastering Quick H.264 Edits: The Ultimate Tutorial on Cutting Videos with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-constant-techsign-in-issues-in-microsoft-teams/"><u>Navigating Constant TechSign In Issues in Microsoft Teams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-msie-0x80073d26-in-microsoft-store-on-windows-11/"><u>Overcoming MSIE 0X80073D26 in Microsoft Store on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/permanent-file-deletion-techniques-on-windows-11-a-step-by-step-guide/"><u>Permanent File Deletion Techniques on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-login-correcting-invalid-captcha/"><u>Steam Login: Correcting Invalid CAPTCHA</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-frozen-context-items-on-windows-11-pc/"><u>Steps to Overcome Frozen Context Items on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-windows-update-9-hacks-to-sidestep-verification-slowdowns/"><u>Unleash Windows Update: 9 Hacks to Sidestep Verification Slowdowns</u></a></li>
+</ul></div>
+

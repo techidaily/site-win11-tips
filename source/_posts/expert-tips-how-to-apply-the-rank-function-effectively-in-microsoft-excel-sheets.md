@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: How to Apply the RANK Function Effectively in Microsoft Excel Sheets"
-date: 2024-08-28T01:07:40.837Z
-updated: 2024-08-29T01:07:40.837Z
+date: 2024-12-03T20:20:46.383Z
+updated: 2024-12-07T00:55:23.247Z
 tags:
   - excel
 categories:
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
  Excel's RANK function tells you a statistical rank of a value within a set of data. This has a range of practical uses—teachers ranking their students, sports coaches ranking their players, and a whole host of other situations where you would want to rank data. Here's how to use it. 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Use Excel's RANK Function
 
  When you use RANK, it will return a digit that tells you where the cell you're referencing ranks within the chosen series of data. To do this, use the following formula:
@@ -38,23 +35,14 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
 ![Excel sheet with a table showing seven employees, their sales for each of the first six months, and their total sales.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/table-without-ranking.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  We can use the RANK function to—you guessed it—rank the employees based on their total sales. To do this, we need to create a ranking column in our existing table. If you want to later create a league table for the ranking, it's important to place the rank at the start of your data, so the ranking column needs to be in column A. To do this, right click on the column "A" header (the part that says "A", "B", "C", etc.) and click "Insert".
 
 ![Excel sheet showing the 'Insert' option by right-clicking on the header of column A.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/insert-column-a.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  You will then see a new, blank column appear at the left-hand side of your table. Format this column as you wish and name the column "Rank".
 
 ![Excel sheet showing the new column at the left-hand side of the table, renamed 'Rank'.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extra-column-added.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  We're now ready to begin our RANK formula.
 
  Click on the first empty cell in your ranking column (in this case, A3), and type:
@@ -81,17 +69,22 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
 ![Excel sheet with the 'Rank' column completed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/rank-all-results.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your table now clearly tells you where each value ranks within your set of data. For tidiness, you can [rename your worksheet](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-14-ultra-phone-unlock-it-now-by-drfone-android/) "Totals".
 
  If you want to make your rankings even clearer so that you can review the rankings at a quick glance, [apply conditional formatting to your table](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  What are RANK.EQ and RANK.AVG?
 
  RANK.EQ tells Excel to rank all equal values together, while RANK.AVG tells Excel to average the ranking for all equal values. They both follow exactly the same syntax and processes as RANK in Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Use VLOOKUP in Excel to Create a League Table
 
  Assuming you have already created the rankings using the method above, you can now reorder the data to produce a league table.
@@ -101,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
  In your LeagueTable sheet, create the outline for your league table, including manually inputting the rankings into column A. In our example from the section above, we know we have seven employees to include in our league table, so we've typed the numbers one to seven.
 
 ![Excel sheet showing the layout for what will be the league table, with the rank numbers manually added to column A.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/league-blank.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We're now ready to create the league table. The first data we want to include from our Totals sheet is the name of the employee who is ranked first. To do this, we need to [use Excel's VLOOKUP function](https://extra-tips.techidaily.com/integrate-sound-and-sight-web-studio/). In cell B3, type
 
@@ -136,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
 ![Excel sheet showing the 'Employee' column filled in based on their rank, using VLOOKUP and AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/league-all-results-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that we can see the employees in order based on their total sales from the Totals sheet, we can add their total sales using VLOOKUP in the same way.
 
  This would be the formula we place in cell C3:
@@ -146,12 +147,13 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
 ![Excel sheet showing the result of using VLOOKUP to find the highest-ranked employee's total sales.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/league-first-result-column-2-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Complete the table by using AutoFill down column C.
 
 ![Excel sheet showing the completed league table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/league-all-results-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Instead of manually typing the VLOOKUP formula in any subsequent columns after you have completed column B, you could initially [use a mixed reference](https://screen-mirror.techidaily.com/how-realme-note-50-mirror-screen-to-pc-drfone-by-drfone-android/) with column A locked within your VLOOKUP formula, and then AutoFill to the right.
 
@@ -167,8 +169,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +176,21 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-perfecting-the-introduction-writing-impressive-summaries/"><u>[New] 2024 Approved Perfecting the Introduction Writing Impressive Summaries</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-ranking-videos-youtubes-everlasting-classics/"><u>[New] In 2024, High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ethical-editors-handbook-on-sensitive-content-for-2024/"><u>[New] The Ethical Editor's Handbook on Sensitive Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-back-on-windows-high-contrast-glare/"><u>Cut Back on Windows' High Contrast Glare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-quickly-identify-and-eliminate-null-space-on-your-pc-drive/"><u>How to Quickly Identify & Eliminate Null Space on Your PC Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-and-stabilize-apex-gameplay-on-windows-11/"><u>How to Reset and Stabilize Apex Gameplay on Windows 11</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leverage-the-power-of-cookiebot-elevate-your-sites-user-experience-and-insights/"><u>Leverage the Power of Cookiebot - Elevate Your Site's User Experience & Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-social-media-with-ai-powered-assistance-from-chatgpt/"><u>Mastering the Art of Social Media with AI-Powered Assistance From ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-original-windows-search-settings/"><u>Restoring Original Windows Search Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smart-weather-app-options-for-win-os/"><u>Smart Weather App Options for Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-systemsettingsexe-errors-in-win11/"><u>Steps to Resolve SystemSettings.exe Errors in Win11</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/ultimate-guide-to-zero-data-loss-usb-duplication-for-free-top-techniques/"><u>Ultimate Guide to Zero-Data-Loss USB Duplication for Free - Top Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrades-announced-sonos-streamlines-mobile-app-and-unveils-cutting-edge-web-interface-for-superior-sound-control/"><u>Upgrades Announced: Sonos Streamlines Mobile App & Unveils Cutting-Edge Web Interface for Superior Sound Control</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Permanent Erase: Configuring a Trash Bin for Irreversible Deletion in Windows PCs (11)"
-date: 2024-08-28T01:12:08.401Z
-updated: 2024-08-29T01:12:08.401Z
+date: 2024-12-03T18:15:39.679Z
+updated: 2024-12-06T23:14:28.504Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
  Would you prefer to have a bin on your Windows 10 or 11 desktop that truly deletes files dragged to it beyond recovery? If so, you can add exactly that to the desktop with Free File Wiper and Multi Trash. This is how you can add a desktop trash bin for permanent file erasure to Windows with those apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Standard Deletion vs. Permanent Erasure: What's Wrong With the Default Recycle Bin?
 
  The Recycle Bin is based on the standard file deletion method. It enables users to delete files either by emptying the bin or bypassing it by pressing the**Shift + Delete** hotkey. Users can also select a**Don’t move files to the Recycle Bin** option for standard file deletion.
 
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
 
@@ -48,6 +56,11 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Now you’ll see a Free File Wiper bin icon somewhere on the Windows desktop. Left-click and drag that icon to reposition it if necessary.
 
  To permanently delete something with the shredder app, bring up Explorer, left-click a file, and then drag it onto the Free File Wiper bin desktop icon. A warning prompt will appear that says you won’t be able to recover the file after wiping it. Select**Yes** if you’re sure about permanently erasing the file.
@@ -75,41 +88,30 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 7. Click the**Add gadget** option to view the desktop widget selection window.  
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
  Adding Free File Wiper or Multi Trash bins to Windows will enable you to delete files and folders more securely from the desktop area. Although there are many other file shredder utilities available, few of them have comparable drag-and-drop functionality. So, Multi Trash and Free File Wiper are more unique tools for shredding files in that respect.
@@ -122,8 +124,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-the-ls-showdown-tech-titans-clashing-in-real-time/"><u>[New] The LS Showdown Tech Titans Clashing in Real Time</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-14-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi 14 Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/auroras-vision-in-home-theater-systems-evaluated-for-2024/"><u>Aurora's Vision in Home Theater Systems Evaluated for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-drivers-streamlined-process-for-amd-radeon-rx-470-graphic-card/"><u>Download and Update Drivers: Streamlined Process for AMD Radeon RX 470 Graphic Card</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-overcome-win11-cc-challenges/"><u>Expert Tips to Overcome Win11 CC Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-full-control-of-your-mouse-with-these-tricks-windows-users/"><u>Gain Full Control of Your Mouse with These Tricks Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-accessing-system32-on-win11/"><u>Mastery of Accessing System32 on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-play-addressing-fall-guys-errors-on-windows/"><u>Streamlining Play: Addressing Fall Guys Errors on Windows</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1728481224070-usbhdd/"><u>USB外付けHDDから重要な情報を復元する方法 - フォーマット後も大丈夫</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x-flip-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X Flip Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-11-compatible-download-nvidias-rtx-3060-ti-graphics-card-drivers/"><u>Windows 11 Compatible: [Download] NVIDIA's RTX 3060 Ti Graphics Card Drivers</u></a></li>
+</ul></div>
 

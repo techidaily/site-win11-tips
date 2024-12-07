@@ -1,7 +1,7 @@
 ---
 title: "Navigating Windows Component Services: An Overview"
-date: 2024-11-24T16:04:26.828Z
-updated: 2024-11-27T18:15:22.753Z
+date: 2024-11-30T22:03:20.664Z
+updated: 2024-12-06T17:28:48.211Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open the Component Services Tool Using the Start Menu Search Bar
 
  Want to access any Windows app easily?[Use the Start menu search bar](https://www.makeuseof.com/windows-search-use-guide/) ; it’s an easy-to-use tool that’s located in the bottom-left corner of your taskbar.
@@ -37,11 +41,7 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![Opening the Component Services Tool Using the Start Menu Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-start-menu-search-bar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open the Component Services Tool Using the Run Command Dialog Box
@@ -79,11 +79,11 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![Opening the Component Services tool using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Open the Component Services Tool Using the Control Panel
@@ -114,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 ![Opening the Component Services Tool Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Open the Component Services Tool From the Windows System32 Directory
 
  You can also access the Component Services tool by double-clicking on its relevant file in the Windows System32 folder. Here are the steps you should apply:
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 4. Double-click on the**comexp** option.
 
 ![Selecting the comexp option in the System32 directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/selecting-the-comexp-option-in-the-system32-directory.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to make the Component Services tool easily accessible, you should consider pinning it to the taskbar. To do that, right-click on the**comexp** option in the System32 folder and select**Pin to taskbar** .
 
@@ -157,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can easily access your apps by clicking on the relevant desktop shortcuts. But bear in mind that you first need to create desktop shortcuts before you can use them.
 
  Let’s check out the steps for creating a desktop shortcut for the Component Services tool:
@@ -168,16 +172,12 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 ![Creating the Component Services Tool desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-the-component-services-tool-desktop-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type**Component Services Tool** in the "Name" box and then click the**Finish** button. From there, you can start using your desktop shortcut by simply clicking on it.
 
  And if you want to make things easier, consider pinning the desktop shortcut to your taskbar to make it easily accessible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Access the Component Services Tool Using Your Favorite Method
@@ -201,22 +201,16 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-one-ear-beats-troubleshoot-guide/"><u>[New] One-Ear Beats Troubleshoot Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-overview-merging-srt-with-mp4-files-and-videos/"><u>[Updated] Comprehensive Overview Merging SRT with MP4 Files and Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>[Updated] In 2024, Expert Advice Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-video-lags-with-chromes-youtube-support/"><u>Eliminating Video Lags with Chrome's YouTube Support</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-infinix-smart-8-plus-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Infinix Smart 8 Plus and Browser | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/iphone-sharing-files-from-a-windows-pc/"><u>IPhone Sharing Files From a Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-access-control-return-users-to-standard-settings/"><u>Mastering Access Control: Return Users to Standard Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/professional-secrets-assembling-your-own-high-quality-projector-screen/"><u>Professional Secrets: Assembling Your Own High-Quality Projector Screen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-incompatible-volume-driver-error-on-windows/"><u>Resolving Incompatible Volume Driver Error on Windows</u></a></li>
-<li><a href="https://win-hot.techidaily.com/solve-windows-search-errors-with-ease-expert-tips-and-strategies/"><u>Solve Windows Search Errors with Ease - Expert Tips & Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-8-study-techniques-for-maximum-efficiency-in-windows/"><u>Top 8 Study Techniques for Maximum Efficiency in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-stop-minecraft-crashes-in-windows/"><u>Troubleshooting Guide: Stop Minecraft Crashes in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-stop-default-save-location-issues/"><u>Troubleshooting Windows: Stop Default Save Location Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-lunar-client-failure-in-windows/"><u>Troubleshooting: Resolving Lunar Client Failure in Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-a23-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy A23 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://facebook.techidaily.com/unraveling-2022s-pivotal-moments-in-google-news/"><u>Unraveling 2022'S Pivotal Moments in Google News</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-versions-of-windows-movie-maker/"><u>[New] Versions of Windows Movie Maker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-smooth-and-quick-download-4-websites-for-tones-for-2024/"><u>[Updated] Smooth and Quick Download 4 Websites for Tones for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-diy-dynamics-unlock-creative-animation-potential/"><u>2024 Approved DIY Dynamics Unlock Creative Animation Potential</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-itel-p55t-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Itel P55T Phone Network-Ready</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-input-device-failures-on-windows-7-fixes-for-your-defunct-usb-mouse-and-keyboard/"><u>Overcoming Input Device Failures on Windows 7 – Fixes for Your Defunct USB Mouse and Keyboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-decorative-elements-in-windows-search/"><u>Reducing Decorative Elements in Windows Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-true-windows-clock-settings/"><u>Securing True Windows Clock Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-rejuvenating-defective-batch-files-on-windows/"><u>Tips for Rejuvenating Defective Batch Files on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-enhanced-vehicles-the-ultimate-5-budget-driver-software/"><u>Win-Enhanced Vehicles: The Ultimate 5 Budget Driver Software</u></a></li>
 </ul></div>
 

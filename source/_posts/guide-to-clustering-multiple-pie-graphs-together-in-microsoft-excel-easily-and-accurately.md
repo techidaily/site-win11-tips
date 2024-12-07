@@ -1,7 +1,7 @@
 ---
 title: Guide to Clustering Multiple Pie Graphs Together in Microsoft Excel Easily and Accurately
-date: 2024-08-28T01:08:39.819Z
-updated: 2024-08-29T01:08:39.819Z
+date: 2024-12-01T02:08:33.479Z
+updated: 2024-12-07T02:07:47.699Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ---
 
 ## Guide to Clustering Multiple Pie Graphs Together in Microsoft Excel Easily and Accurately
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
  For example, the pie chart below shows the answers of people to a question.
 
 ![A basic pie chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/basic-pie-resized.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is fine, but it can be complicated if you have multiple Pie charts.
 
@@ -74,8 +82,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![Pie chart of the combined data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/combined-pie-chart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Combine Pie Chart into a Single Figure
 
  Another reason that you may want to combine the pie charts is so that you can move and resize them as one.
@@ -86,17 +95,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Group button on the Format tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/group-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  All pie charts are now combined as one figure. They will move and resize as one image.
 
 ![Resizing pie charts as one](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/resize-pie-charts-resized.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Choose Different Charts to View your Data
 
  Although this article is about combining pie charts, another option would be to opt for a different chart type. Pie charts are not the only way to visualize parts of a whole.
@@ -108,8 +110,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Data for the stacked column charts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/different-chart-data.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the range of cells and click Insert > Column chart.
 
 ![Insert column chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/insert-column-chart-1.png) 
@@ -117,6 +120,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  There are two types of Stacked Column to choose from. The first one will present your data as below.
 
 ![Stacked column chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/stacked-column-chart-resized-2-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is like having three pie charts in one chart.
 
@@ -128,9 +135,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Comparing sales with the stacked percentage column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/stacked-percentage-column-resized.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This uses a percentage in the axis.
 
  So we lose the ability to see that Manchester produced the lowest revenue, but it can give us a better focus on the relative contribution. For example, most of the sales from the Manchester store were from biscuits.
@@ -140,8 +144,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Row and column data reversed in a stacked column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/switch-row-column-resized.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Depending on your reasons, there are different ways to combine pie charts into a single figure. This article explored three techniques as solutions to three different presentation scenarios.
 
 <ins class="adsbygoogle"
@@ -150,8 +155,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +162,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[New] 2024 Approved Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-syma-x8c-user-guide-insights/"><u>[Updated] In 2024, The Syma X8C User Guide Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-gamers-guide-to-lgs-360-degree-vr-experience/"><u>A Gamer's Guide to LG's 360-Degree VR Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apemans-c450-model-a-comprehensive-dashcam-evaluation-at-affordable-prices/"><u>Apeman's C450 Model - A Comprehensive Dashcam Evaluation at Affordable Prices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-solutions-fixing-windows-11s-cursor-blackout/"><u>Effortless Solutions: Fixing Windows 11'S Cursor Blackout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-on-clearing-windows-11-dns-cache/"><u>Expert Tips on Clearing Windows 11 DNS Cache</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy F04</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-depth-zoom-techniques-for-exceptional-podcasts-for-2024/"><u>In-Depth Zoom Techniques for Exceptional Podcasts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/launchpad-gear-list-enhance-your-beginners-gopro-journey-for-2024/"><u>Launchpad Gear List - Enhance Your Beginner's GoPro Journey for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/major-update-alert-filmora-x-now-compatible-with-arm-processors/"><u>Major Update Alert Filmora X Now Compatible with ARM Processors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ct-your-data-while-converting-youtube-videos-to-mp3-tracks/"><u>Protect Your Data While Converting YouTube Videos to MP3 Tracks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-deciphering-defenders-error-0x80004004/"><u>Quick Fix for Deciphering Defender's Error 0X80004004</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-upgrade-failure-0xc1900101/"><u>Resolving Windows 11 Upgrade Failure #0xC1900101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-sweep-away-partitions-our-top-4-tactics-for-windows/"><u>Securely Sweep Away Partitions: Our Top 4 Tactics for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-creating-windows-shortcuts-for-microsoft-store-apps/"><u>Step-by-Step: Creating Windows Shortcuts for Microsoft Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unwinding-error-code-1132-in-windows-zoom/"><u>Unwinding Error Code 1132 in Windows Zoom</u></a></li>
+</ul></div>
 

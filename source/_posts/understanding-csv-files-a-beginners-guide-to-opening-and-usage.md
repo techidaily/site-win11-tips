@@ -1,7 +1,7 @@
 ---
 title: "Understanding CSV Files: A Beginner's Guide to Opening & Usage"
-date: 2024-08-28T01:08:28.122Z
-updated: 2024-08-29T01:08:28.122Z
+date: 2024-12-03T18:25:36.671Z
+updated: 2024-12-06T16:55:57.964Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 ---
 
 ## Understanding CSV Files: A Beginner's Guide to Opening & Usage
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
  A Comma Separated Values (CSV) file is a plain text file that contains a list of data. These files are often used for exchanging data between different applications. For example, databases and contact managers often support CSV files.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Structure of a CSV File
 
  CSV files may sometimes be called Character Separated Values or Comma Delimited files. They mostly use the comma character to separate (or delimit) data, but sometimes use other characters, like semicolons. The idea is that you can export complex data from one application to a CSV file, and then import the data in that CSV file into another application.
@@ -44,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
  That simplicity is a feature. CSV files are designed to be a way to easily export data and import it into other programs. The resulting data is human-readable and can be easily viewed with a text editor like Notepad or a spreadsheet program like Microsoft Excel.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to View a CSV File in a Text Editor
 
  To view the contents of a CSV file in Notepad, right-click it in File Explorer or Windows Explorer, and then select the "Edit" command.
@@ -56,21 +58,12 @@ Related: [Why You Need a Plain Text Editor](https://android-pokemon-go.techidail
 
 ![img_5acfa9d682c26](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/img_5acfa9d682c26.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  You'll see the plaintext list of data in the CSV file. For example, if the CSV file was exported from a contacts program, you'd see information about each contact here, with the contact's details sorted onto a new line. If it was exported from [a password manager like LastPass](https://easy-unlock-android.techidaily.com/unlock-your-realme-gt-5-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/), you'd see different website login entries on their own line here.
 
  In Notepad, the "Word Wrap" feature can make the data harder to read. Click Format > Word Wrap to disable it and make each line of data stay on its own line for improved readability. You'll need to scroll horizontally to read the full lines.
 
 ![img_5acfaa319c745](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/img_5acfaa319c745.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Open a CSV File in a Spreadsheet Program
 
  You can also open CSV files in spreadsheet programs, which make them easier to read. For example, if you have Microsoft Excel installed on your computer, you can just double-click a .csv file to open it in Excel by default. If it doesn't open in Excel, you can right-click the CSV file and select Open With > Excel.
@@ -82,8 +75,13 @@ Related: [Why You Need a Plain Text Editor](https://android-pokemon-go.techidail
 ![A CSV file imported into Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/new-excel-screenshot.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Import a CSV File Into an Application
 
  If you just want to view the contents of a CSV file or work with it as a spreadsheet, that's all you need to do. However, many CSV files are made for importing into other programs. You might export your contacts from [Google Contacts](https://common-error.techidaily.com/how-to-troubleshoot-and-fix-the-dreaded-minecraft-error-code-amoeba/), your saved passwords from LastPass, or a large amount of data from a database program. You can even [export CSV from MySQL on the command line](https://instagram-clips.techidaily.com/updated-2024-approved-instagram-pro-tips-10-crucial-tools-to-increase-followers/). The resulting CSV files can then be imported into applications that support that type of data.
@@ -96,6 +94,10 @@ Related: [How to Export and Delete Saved Passwords in Chrome](https://android-po
 
 ![Exporting Google Contacts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/img_5acfa8f9f0135.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  CSV files are something most people never need to bother with. But, if you've ever need to get information out of one application and into another, their simple format and portability are extremely convenient.
 
 <ins class="adsbygoogle"
@@ -104,8 +106,6 @@ Related: [How to Export and Delete Saved Passwords in Chrome](https://android-po
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +113,19 @@ Related: [How to Export and Delete Saved Passwords in Chrome](https://android-po
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-top-10-games-like-gta-v-for-2024/"><u>[New] Top 10 Games Like GTA V for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-strategies-against-photos-app-issues-on-windows-11/"><u>2024 Approved Proven Strategies Against Photos App Issues on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users-for-2024/"><u>Capturing Photographs From Movies in Windows Photos App for Savvy Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-execution-crafting-shortcuts-in-windows-11-uwp/"><u>Efficient Execution: Crafting Shortcuts in Windows 11 (UWP)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-google-by-drfone-android/"><u>How to Bypass FRP from Google?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-microphone-failure-discover-effective-fixes-for-clear-audio-recording/"><u>IPhone Microphone Failure? Discover Effective Fixes for Clear Audio Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/propel-windows-pcs-into-transcoding-elite-with-tdarr-software/"><u>Propel Windows PCs Into Transcoding Elite with Tdarr Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-resolution-excising-unwanted-apps-in-win11/"><u>Rapid Resolution: Excising Unwanted Apps in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/shining-up-your-android-videos-effortlessly/"><u>Shining Up Your Android Videos Effortlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-code-0x800f0831-fix-and-stop-worrying/"><u>WinError Code 0X800f0831: Fix and Stop Worrying</u></a></li>
+</ul></div>
 

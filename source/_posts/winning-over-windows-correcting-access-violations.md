@@ -1,7 +1,7 @@
 ---
 title: "Winning Over Windows: Correcting Access Violations"
-date: 2024-08-28T01:10:02.715Z
-updated: 2024-08-29T01:10:02.715Z
+date: 2024-12-03T19:51:47.366Z
+updated: 2024-12-07T01:56:21.416Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d
 
  We're going to show you how to get rid of the “access control entry is corrupt” error on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Perform an SFC or CHKDSK Scan
 
  Running an SFC scan can fix the error by fixing any corrupt system files associated with the proper functioning of the ACL. If the files are missing, a DISM scan will replace them using a cached Windows system image file. If these two scans don't work, the problem could be related to hard disk errors, which you can fix with a CHKDSK scan.
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dism-scan-health-restore-health-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The above-mentioned tools are [built into Windows to help repair corrupt or damaged files](https://www.makeuseof.com/windows-built-in-repair-tools), and you should familiarize yourself with how and when to use them.
 
@@ -33,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d
  Sometimes, UWP apps can lock resources when they're running in their sand-boxed environment. They're not supposed to, but when they do, you can get the “access control entry is corrupt” error message. To fix this, close the UWP app you suspect is the culprit and then update or reinstall it.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change Ownership of the Affected File or Folder
 
  Taking ownership of a file or folder can sometimes resolve the “access control entry is corrupt” error. To do that, follow the steps below:
@@ -46,19 +55,15 @@ thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d
 3. Next to the **Owner**, check to see if your username is listed as the owner of the file or folder. If it isn't, that may be the problem. So, click on the **Change** link next to it to open the Select User or Group window.  
 ![the Advanced Settings window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-settings-window-of-a-file-on-windows.jpg)
 4. Click **Advanced** to open the **Select User or Group (Advanced)** window.  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![the Select User or Group window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-select-user-or-group-window-of-a-file-on-windows.jpg)
 5. Click **Find Now** to search for the available users on your Windows computer.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![the advanced Select User or Group window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-select-user-or-group-window-of-a-file-on-windows.jpg)
 6. In the search results at the bottom, select your username and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the advanced Select User or Group window of a file on Windows with a list user on the PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-select-user-or-group-window-of-a-file-with-a-list-of-users-on-windows.jpg)
 7. Back in the **Select User or Group** window, click **OK**.
 8. In the **Advanced Securities** window, click **Apply** and then **OK**.
@@ -72,24 +77,20 @@ thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d
  Try to access the file or folder (provided it is in a publicly available directory), and if the error doesn't pop up, you can migrate the necessary files from the old account to the new one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Restore the Access Control List
 
  If none of the solutions above have worked, then it might be time to restore the ACL itself. To do that, first, [back up your Windows 10 computer](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) or [back up your Windows 11 computer](https://www.makeuseof.com/windows-11-create-complete-backup/).
 
  Then, [factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/), and that should get rid of the “access control entry is corrupt” error.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Access Every Resource on Your Windows Computer
 
  The “access control entry is corrupt” error is frustrating since it locks you out of the resources you need at the time on your Windows computer. Hopefully, the first four fixes will help before you have to do something drastic like resetting your PC. Either way, it's good to know you're not stuck with the error indefinitely.
 
  We're going to show you how to get rid of the “access control entry is corrupt” error on your Windows computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -97,3 +98,24 @@ thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-the-best-oculus-rift-video-players-review/"><u>[New] The Best Oculus Rift Video Players Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-explore-free-options-10-leading-mac-artists-preferences/"><u>[Updated] 2024 Approved Explore Free Options 10 Leading Mac Artists' Preferences</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-your-influence-amidst-changing-social-media-ecosystem-for-2024/"><u>[Updated] Mastering Your Influence Amidst Changing Social Media Ecosystem for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/building-bridges-pathways-for-graphic-design-aspirants-for-2024/"><u>Building Bridges Pathways for Graphic Design Aspirants for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-clockdate-visibility-in-windows-11-bar/"><u>Controlling Clock/Date Visibility in Windows 11 Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-best-moments-for-running-ping-commands/"><u>Decoding the Best Moments for Running Ping Commands</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-your-pc-is-out-of-memory-error-in-windows-1-groovy/"><u>How to Fix the 'Your PC Is Out of Memory' Error in Windows 1 Groovy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-operation-failed-0x0000011b-error-on-windows-11-and-11/"><u>How to Fix the Operation Failed 0X0000011B Error on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-device-linking-performance-with-reduced-ram-consumption/"><u>Improving Device Linking Performance with Reduced RAM Consumption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reset-your-shortcuts-strategies-to-restore-functionality-to-windows-input-methods/"><u>Reset Your Shortcuts!: Strategies to Restore Functionality to Windows Input Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-update-error-code-0xca00a009/"><u>Resolving Windows Update Error: Code 0xCA00A009</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-strategies-to-remove-grime-from-your-tv-remote-and-enhance-its-functionality/"><u>Simple Strategies to Remove Grime From Your TV Remote and Enhance Its Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simplifying-your-dts-soundtrack-rewrites-with-advanced-techniques-in-the-dts-editor/"><u>Simplifying Your DTS Soundtrack Rewrites with Advanced Techniques in the DTS Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrims-extender-errors-on-your-system/"><u>Skyrim's Extender Errors on Your System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>The Metrics of Mastery Assessing Luminance's HDR Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-performing-mp4-video-encoders-of-202ebusinesses-favorite-choices/"><u>Top Performing MP4 Video Encoders of 202Ebusinesses-Favorite Choices</u></a></li>
+</ul></div>
+

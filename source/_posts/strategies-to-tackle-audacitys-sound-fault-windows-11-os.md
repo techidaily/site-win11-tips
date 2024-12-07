@@ -1,7 +1,7 @@
 ---
 title: Strategies to Tackle Audacity's Sound Fault, Windows 11 OS
-date: 2024-08-28T01:09:23.513Z
-updated: 2024-08-29T01:09:23.513Z
+date: 2024-12-02T02:06:09.576Z
+updated: 2024-12-06T19:56:10.617Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
  Audacity is great music editing and recording software when it works. However, some users can’t utilize Audacity because of an Internal PortAudio error that occurs when they launch the software. Instead of launching, Audacity throws up this message: “Could not find any audio devices… Internal PortAudio error.”
 
  Although the Audacity window opens, users can’t play or record anything with that software when the Internal PortAudio error occurs. Does the same thing happen when you run Audacity? If it does, this is how you can fix the Internal PortAudio error in Windows 11 and 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the Playing Audio Troubleshooter
 
@@ -65,11 +69,18 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 5. Right-click any disabled playback device and select**Enable** . Repeat this step for all disabled devices listed.  
 ![The Enable option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-option.jpg)
 6. Then select the**Recording** tab to view more devices.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Recording tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recording-tab.jpg)
 7. Click disabled recording devices with the mouse’s right button to select their**Enable** options. Enable all disabled devices listed there.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Select the Sound window’s**Apply** option to save settings.
 9. Click**OK** on the Sound window to exit, and then restart your Windows 11/10 desktop or laptop.
 
@@ -82,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 3. Select the**Rescan Audio Devices** option.  
 ![The Rescan Audio Devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rescan-audio-devices-option.jpg)
 4. Wait for the rescan to finish, and then restart**Audacity** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall Audio Device Drivers
 
@@ -97,20 +105,21 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 4. Right-click your speaker’s audio device and select**Uninstall** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device.jpg)
 5. Select**Uninstall** on the small window that opens.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-button.jpg)
 6. Repeat the last two steps for all sound devices in the**Audio inputs and outputs** category.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
 8. Restart your PC for automatic driver reinstallation. If some drivers aren’t reinstalled after the restart, select the**Action** \>**Scan for hardware** changes options in Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 6\. Update the Realtek Audio Codec Driver
 
  Does your PC have a Realtek audio codec driver? If so, it’s recommended to update that driver for the sake of fixing the Internal PortAudio error. Update that Realtek driver as follows:
@@ -120,6 +129,11 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 3. Click**Uninstall** to remove the driver.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features.jpg)
 4. Then bring up the[Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the**Download** button for the latest compatible Realtek driver for your PC.
 6. Open the folder containing the downloaded Realtek driver package.
 7. Double-click the Realtek package to install the latest driver.
@@ -132,14 +146,12 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 
 ![The download Audacity option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-audacity-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the Internal PortAudio Error Sorted on Audacity for Windows
 
  Although there are plenty of audio editor alternatives to Audacity, few others match its sound recording and editing features. However, you probably won’t need to switch to an alternative music editor because of the Internal PortAudio error after applying the potential fixes above. They’re widely cited solutions that have resolved the PortAudio error for many Audacity users.
@@ -150,8 +162,6 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +169,26 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-7-faqs-about-youtube-shorts-thumbnail-not-showing-problem/"><u>[New] 2024 Approved 7 FAQs About YouTube Shorts Thumbnail Not Showing Problem</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-memes-unleashed-ranking-the-best-templates-10/"><u>[New] Memes Unleashed Ranking the Best Templates #10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-6-screen-recorder-no-ads-for-android-for-2024/"><u>[New] Top 6 Screen Recorder No Ads for Android for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-balancing-frequency-and-quality-in-youtube-video-uploads/"><u>[Updated] 2024 Approved Balancing Frequency & Quality in YouTube Video Uploads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparative-study-of-nvidia-drivers-for-gamersstudios/"><u>Comparative Study of Nvidia Drivers for Gamers/Studios</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-photos-with-in-picture-smoothing-techniques/"><u>Enhance Photos with In-Picture Smoothing Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-the-complete-furious-7-score-and-official-tracks-free-download-from-youtube/"><u>Get the Complete Furious 7 Score and Official Tracks Free Download From YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-failed-logon-lockout-period-for-win1011/"><u>Modifying Failed Logon Lockout Period for Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-window-no-problem-revive-off-screen-apps-with-6-easy-fixes-for-win-1011/"><u>No Window, No Problem! Revive Off-Screen Apps with 6 Easy Fixes for Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/phoenix-revival-atlasos-for-vintage-setup/"><u>Phoenix Revival: AtlasOS for Vintage Setup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/quick-tips-tiktok-age-authentication/"><u>Quick Tips TikTok Age Authentication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-print-conflicts-in-windows-1011/"><u>Resolving Print Conflicts in Windows 10/11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-stuttering-and-delays-optimize-resident-evil-village-on-pc-here/"><u>Say Goodbye to Stuttering and Delays: Optimize Resident Evil Village on PC Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-past-the-storm-resolving-stranded-xbox-on-windows-11/"><u>Steering Past the Storm: Resolving Stranded Xbox on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-windows-schedules-solve-problems-easily/"><u>Streamline Windows Schedules, Solve Problems Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-update-difficulties-fixing-win11s-error-0x80246007/"><u>Tackling Update Difficulties: Fixing Win11’s Error 0X80246007</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-resolving-failed-jvm-creation-in-windows/"><u>Techniques for Resolving Failed JVM Creation in WINDOWS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-how-to-stream-games-from-ps5-with-friends/"><u>Ultimate Tutorial: How to Stream Games From PS5 with Friends</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-nest-audios-charm-an-essential-addition-to-music-lovers-smart-home-collections/"><u>Unveiling Nest Audio's Charm: An Essential Addition to Music Lovers’ Smart Home Collections</u></a></li>
+</ul></div>
 

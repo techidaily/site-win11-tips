@@ -1,7 +1,7 @@
 ---
 title: Win the War Against Failed Chromebook File Uploads, WIN-Wise
-date: 2024-08-28T01:12:13.035Z
-updated: 2024-08-29T01:12:13.035Z
+date: 2024-12-04T23:44:14.390Z
+updated: 2024-12-06T20:04:07.205Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 
 ![Open Incognito Window in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-incognito-window-in-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, try uploading files and check if the issue occurs again.
 
 ## 3\. Disable Browser Extensions
@@ -50,13 +54,11 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Restart Chrome after this, and then enable your extensions one at a time. You will need to upload a test file after enabling each extension until the issue occurs again. Once you find the extension that is causing the issue, consider removing it.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 4\. Disable Energy Saver Mode in Chrome
 
  When you [enable Energy Saver mode in Chrome](https://www.makeuseof.com/enable-google-chrome-energy-saver-mode/), it limits certain background processes and visual effects to conserve battery life. However, this feature might cause your file uploads to fail in Chrome, especially if you are uploading large files.
@@ -68,11 +70,12 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 3. Disable the toggle next to **Energy saver**.  
 ![Turn Off Energy Saver in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-energy-saver-in-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After completing the above steps, see if you can upload files without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Your Antivirus
 
  Many third-party antivirus programs have web protection features that are intended to safeguard you while you browse the internet. However, these antivirus programs can sometimes be intrusive and prevent file uploads in Chrome.
@@ -82,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
  If this solves your problem, you will need to review the web protection settings in your antivirus program and make the necessary changes to avoid any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install Any Pending Google Chrome Updates
 
@@ -94,14 +101,8 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 3. Wait for Chrome to download pending updates, and then click the **Relaunch** button to install them.  
 ![Install Chrome Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/install-chrome-updates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  Once you have updated Chrome, your file uploads should work as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Create a New Chrome Profile
 
  Issues with your Chrome profile can also cause the browser to malfunction. This could happen if your Chrome profile has become corrupted. You can try creating a new user profile in Chrome to see if that fixes the problem. Here's how to do that.
@@ -112,9 +113,14 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Switch to the newly created profile and try to upload files again. If this fixes your problem, you can consider [deleting the old Google Chrome profile](https://www.makeuseof.com/how-to-delete-google-chrome-profile/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Chrome Settings
 
@@ -137,11 +143,26 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-download-youtube-playlist-step-by-step/"><u>[New] 2024 Approved How to Download YouTube Playlist-Step by Step</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-vector-graphics-101-overview-of-varieties-and-tools/"><u>[New] 2024 Approved Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-hashtag-hits-top-10-viral-tiktoks-on-twitter-for-2024/"><u>[New] Hashtag Hits Top 10 Viral TikToks on Twitter for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foundational-codes-for-youtube-enthusiasts-for-2024/"><u>[Updated] Foundational Codes for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/audio-fusion-seamlessly-converting-aiff-files-into-mp3-format/"><u>Audio Fusion Seamlessly Converting AIFF Files Into MP3 Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-standalone-to-hybrid-creating-a-linux-vm-in-hyper-v-on-windows/"><u>From Standalone to Hybrid: Creating a Linux VM in Hyper-V on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-implementing-automated-accounts-in-your-discord-community/"><u>Guide: Implementing Automated Accounts in Your Discord Community</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-youtube-sounds-into-imovie-tracks-swiftly/"><u>Hitch YouTube Sounds Into iMovie Tracks Swiftly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-solution-to-microsoft-store-crash-windows-error-code-x800704cf/"><u>Quick Solution to Microsoft Store Crash: Windows' Error Code X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-your-disconnected-ps4-remote-on-pc/"><u>Unraveling the Mystery of Your Disconnected PS4 Remote on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-unlocking-the-dialer/"><u>Win 11: Unlocking the Dialer</u></a></li>
+</ul></div>
+

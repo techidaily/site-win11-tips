@@ -1,7 +1,7 @@
 ---
 title: Immediate Solutions for Silent Audio Input with OBS and Windows 11
-date: 2024-11-21T18:19:26.426Z
-updated: 2024-11-27T16:10:58.933Z
+date: 2024-12-04T17:14:58.001Z
+updated: 2024-12-06T17:08:18.995Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 ![Run as admin option for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-as-admin-option.jpg)
 4. Click**Apply** \>**OK** to save the settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Unmute OBS Studio in the Settings App
 
  OBS Studio will fail to record audio if it is muted in the Settings app. Here's how to check and change OBS Studio sound settings in the Settings app.
@@ -54,16 +58,12 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 ![Unmute OBS Studio in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unmute-obs-studio.jpg)
 5. Also, click the drop-down icon next to OBS Studio, then choose the correct input device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Choosing default audio device for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-default-audio-device.jpg)
 
 Restart OBS Studio and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Use the Correct Recording Device
@@ -78,11 +78,7 @@ Restart OBS Studio and check if the problem persists.
 5. Click**Apply** and then**OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Allow OBS Studio to Access Microphone
@@ -97,14 +93,6 @@ Restart OBS Studio and check if the problem persists.
 ![Microphone access option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microphone-access.jpg)
 4. Next, enable the toggle next to**Let desktop apps to access your microphone** option.  
 ![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Change the OBS Studio Settings
 
@@ -121,7 +109,7 @@ Restart OBS Studio and check if the problem persists.
 6. Choose**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 . Adjust the Audio Mixer Settings
@@ -139,6 +127,14 @@ Restart OBS Studio and check if the problem persists.
 6. Under the**Audio Monitoring** tab, choose**Monitor** **and Output** for**Desktop Audio** and**Monitor Only** **(mute output)** for**Mic/Aux.**  
 ![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Download the Latest Audio Driver Updates
 
  A corrupt or outdated audio driver can also be a prime reason why OBS Studio is unable to record audio. To fix this, you will have to[update the audio driver on Windows](https://www.makeuseof.com/how-to-update-audio-drivers-windows-11/) .
@@ -151,6 +147,10 @@ You can do that by following the below steps:
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-driver-2.jpg)
 4. Choose**Search automatically for drivers** option in the window that crops up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, allow Windows to search for and download any available driver updates for your recording device.
 
 ## 9\. Reinstall OBS Studio
@@ -158,7 +158,7 @@ You can do that by following the below steps:
  Are you still facing the issue? If yes, then there's something wrong with the OBS Studio installation file that's causing the problem. The only solution, in this case, is to reinstall the OBS Studio.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy Uninterrupted Recording Again on OBS Studio for Windows
@@ -182,14 +182,20 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-ultimate-gag-reel-collection-comical-cells-and-cell-blocks-on-facebook/"><u>[New] In 2024, The Ultimate Gag Reel Collection Comical Cells and Cell Blocks on Facebook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-hd-video-memory-creators/"><u>[Updated] Ultimate HD Video Memory Creators</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-podcast-production-perfection-from-draft-to-audio-bliss/"><u>2024 Approved Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deactivating-license-validity-remaining-time-alert-on-winoses/"><u>Deactivating License Validity Remaining Time Alert on WinOSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-windows-fixes-to-restore-dotnet-health-max-156/"><u>Essential Windows Fixes to Restore DotNet Health (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-deactivated-patch-service-in-windows/"><u>How to Reactivate Deactivated Patch Service in Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-bluetooth-speaker-audio-only-issue/"><u>Resolving Windows: Bluetooth Speaker - Audio Only Issue</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tech-titans-in-vr-top-10-mobile-headsets-reviewed/"><u>Tech Titans in VR Top 10 Mobile Headsets Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-pvr-uno-customizable-media-solution/"><u>[Updated] 2024 Approved PVR Uno Customizable Media Solution</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ballot-box-bonanza-topping-politic-simulations/"><u>[Updated] Ballot Box Bonanza Topping Politic Simulations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dispatcher-for-mmc-preventing-cannot-create-errors/"><u>Dispatcher for MMC: Preventing 'Cannot Create' Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-frustrating-camera-errors-code-0xa00f4289/"><u>Eliminating Frustrating Camera Errors: Code 0xA00F4289</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-factors-missing-in-gamefis-popularity-surge/"><u>Essential Factors Missing in GameFi's Popularity Surge</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-legacy-keys-an-insiders-look-at-narrator-shortcuts/"><u>Leveraging Legacy Keys: An Insider's Look at Narrator Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-11-installation-essential-usb-techniques-for-3-methods/"><u>Navigating Win 11 Installation: Essential USB Techniques for 3 Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-frustrating-issues-on-your-iphone-a-critical-look-at-apples-oversights/"><u>Overcoming Frustrating Issues on Your iPhone - A Critical Look at Apple's Oversights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-steams-captcha-failed-issue/"><u>Quick Fixes for Steam's 'CAPTCHA Failed' Issue</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-system-writer-missing-from-backup-issue-3-effective-solutions/"><u>Resolving 'System Writer Missing From Backup' Issue: 3 Effective Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-os-experience-auto-updates-graphics-card-swap-in-win10/"><u>Seamless OS Experience: Auto Updates, Graphics Card Swap in Win10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-achieving-verification-status-on-instagram/"><u>The Ultimate Guide: Achieving Verification Status on Instagram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-no-cost-ai-applications-for-crafting-expert-emails-using-chatgpt-and-organizing-messages/"><u>Top 5 No-Cost AI Applications for Crafting Expert Emails Using ChatGPT and Organizing Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-to-eradicate-windows-error-code-0x800704b3/"><u>Unlocking Secrets to Eradicate Windows' Error Code: 0X800704B3</u></a></li>
 </ul></div>
 

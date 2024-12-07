@@ -1,7 +1,7 @@
 ---
 title: "Revamp Your Old Videos: Master MadVR Techniques"
-date: 2024-11-25T16:13:51.587Z
-updated: 2024-11-27T16:37:45.902Z
+date: 2024-12-02T20:18:23.967Z
+updated: 2024-12-06T17:52:57.972Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/0afe9beb0b64de5cc7a966e66ff258745b01178cd
 
 Best of all, it is open-source and free to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add MadVR to MPC-HC
 
  You can use madVR with many media players. Still, for this tutorial, we'll use the popular Media Player Classic - HomeCinema, better known as "MPC-HC". It's old and has ceased development, but it remains one of the best solutions for playing media when paired with madVR.
@@ -48,10 +52,6 @@ Best of all, it is open-source and free to use.
 5. Click on**Add Filter** at the top right.  
 ![MPC HC Add Filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-add-filter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click on**Browse** at the bottom left of the new**Select Filter** window. Point the requester to the folder where you extracted madVR and select the**madVR.ax** file. Click**OK** to return to the**Select Filter** window. Locate**madVR** among the entries, select it, and click**OK** .  
 ![MPC HC Select Filter MadVR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-select-filter-madvr.jpg)
 2. Click on the newly-added**madVR** entry on the**External Filters** list. Choose**Prefer** from the options on the right.  
@@ -59,14 +59,14 @@ Best of all, it is open-source and free to use.
 3. Expand the**Playback** entry from the list on the left and choose**Output** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click on the drop-down menu under**DirectShow Video** and select**madVR** .
 5. Press**OK** to save the changes. Close and relaunch MPC-HC to ensure it will be using the madVR renderer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweaking the MadVR Settings
@@ -83,23 +83,19 @@ Best of all, it is open-source and free to use.
 
 ![MadVR Deinterlacing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-deinterlacing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Move to**artifact removal** , and pause for a second. Now's the time to drag and drop a video, preferably a highly-compressed one, onto MPC-HC's window, and let it play in the background. This way, you'll be able to check how your madVR settings affect how videos look.
 
  Try enabling the options in this section one by one and, if available, progressively increasing their strength. You can click on**Apply** at any time to check their effect on your video.
 
 ![MadVR Artifact Removal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-artifact-removal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When your video starts looking "off", with annoyingly pronounced "edges" around elements, dial your last settings down a notch. If playing a lot of MPEG4/HEVC content (encoded with DivX/XviD/H.264/H.265/NVENC), make sure to try out**reduce compression artifacts** . Setting its quality to**very high** and enabling**process chroma channels, too** come with higher requirements but can also further reduce the annoying "(macro)blocks" on highly-compressed files.
 
 ![MadVR Reduce Compression Artifacts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-reduce-compression-artifacts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Do the same for the options in the**image enhancements** section. Since their result depends on both the active video and your perception of what looks best, we'll leave the choice of which you should enable and their values up to you. Remember that you can see their effect in any active video immediately after hitting the**Apply** button on the window.
 
@@ -113,17 +109,9 @@ Best of all, it is open-source and free to use.
 
 ![MadVR Chroma Upscaling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-chroma-upscaling.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Modern GPUs are pretty good at downscaling. Thus, you can choose**DXVA2** from the**image downscaling** page to have the task entirely performed by your GPU. However, the other options also "run" on the GPU, either on its texture units or as pixel shaders, and may offer even crisper visuals. It's worth trying them all out to see which you prefer.
 
 ![MadVR Image Downscaling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-image-downscaling.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Move to**image upscaling** , and notice how the options here are split into two lists:**Upscaling** and**Doubling** .**Upscaling** lists advanced algorithms that analyze each frame and try to create more visual detail from what already exists.
 
@@ -136,7 +124,7 @@ Best of all, it is open-source and free to use.
 ![MadVR Upscaling Refinement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-upscaling-refinement.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Adjusting the Quality With MadVR
@@ -149,6 +137,14 @@ Best of all, it is open-source and free to use.
 
 ![MadVR Quality Or Performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-quality-or-performance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Final Note About MadVR
 
  Keep in mind that not all videos are equal. Your madVR settings will need tweaking depending on the video you're watching. You can use "mild" defaults for general improvement of all videos on your monitor, but madVR is best when you invest a minute in fine-tuning it for each video.
@@ -158,6 +154,10 @@ Best of all, it is open-source and free to use.
  However, if you configure madVR with relatively mild settings, it will essentially be a "set it and forget it" affair. After its initial configuration, it will start enhancing every video you play with MPC-HC. Plus, if you enable it in any other media player, you won't have to reconfigure its settings; it will make your videos look just as good there.
 
  Still, you may need to make occasional tweaks here and there to make a video look its best. One video might need less sharpening, while another might look better with a higher "reduce compression artifacts" value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting Optimal Playback With MadVR
 
@@ -178,22 +178,19 @@ Best of all, it is open-source and free to use.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-trending-beats-navigating-the-world-of-viral-tiktok-raps/"><u>[New] 2024 Approved Trending Beats Navigating the World of Viral TikTok Raps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-audio-artists-almanac-your-guide-to-video-submission-for-2024/"><u>[Updated] Audio Artists' Almanac Your Guide to Video Submission for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-guide-to-converting-speech-to-text-with-google-docs/"><u>[Updated] The Ultimate Guide to Converting Speech to Text with Google Docs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-strategy-is-vlc-worthy-to-challenge-mpc/"><u>2024 Approved Streaming Strategy Is VLC Worthy to Challenge MPC?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/comprehensively-understanding-iphone-audio-acquisition/"><u>Comprehensively Understanding iPhone Audio Acquisition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-itel-p55-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Itel P55 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-wasted-space-in-windows-with-temp-file-fixes/"><u>Eliminate Wasted Space in Windows with Temp File Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/festive-windows-apps-purchases-via-ms-store/"><u>Festive Windows Apps Purchases via MS Store</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-insta-tones-101-learn-to-design-and-download-on-your-own/"><u>In 2024, Insta Tones 101 Learn to Design and Download on Your Own</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-window-adjustment-overcoming-windows-overscan-hurdles/"><u>Master Window Adjustment: Overcoming Windows Overscan Hurdles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximizing-fitness-performance-with-polar-grit-x-pro-titan-a-detailed-review-by-zdnet-on-training-and-recovery-tools-for-athletes/"><u>Maximizing Fitness Performance with Polar Grit X Pro Titan: A Detailed Review by ZDNet on Training & Recovery Tools for Athletes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-error-code-0x8007000f-on-running-tasks/"><u>Resolving Error Code 0X8007000F on Running Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-up-app-access-5-tricks-for-fast-app-opening-in-windows-11/"><u>Speed Up App Access: 5 Tricks for Fast App Opening in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-approach-for-flawless-docx-to-pdf-transitions-in-win-11/"><u>Stepwise Approach for Flawless Docx to PDF Transitions in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-halt-windows-pcs-from-booting-bios-mode/"><u>Strategies to Halt Windows PCs From Booting BIOS Mode</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-audio-transformation-apps-for-next-level-vtuber-performance/"><u>Top 10 Audio Transformation Apps for Next-Level VTuber Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-windows-software-for-efficient-file-sharing/"><u>Top 5 Windows Software for Efficient File Sharing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-heartfelt-gratitude-paidfree-creative-templates/"><u>[Updated] 2024 Approved Heartfelt Gratitude Paid/Free Creative Templates</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tiktok-to-twitter-strategy-for-maximum-engagement/"><u>[Updated] In 2024, TikTok-to-Twitter Strategy for Maximum Engagement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-light-and-color-interplay-for-images/"><u>[Updated] Light & Color Interplay for Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-already-in-use-names-in-device-setup-procedures/"><u>Eradicating 'Already in Use' Names in Device Setup Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-keep-your-surface-pcs-updated/"><u>Essential Steps to Keep Your Surface PCs Updated</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-timed-lock-screen-function/"><u>Guidelines for Restoring Timed Lock Screen Function</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-funflicks-full-evaluation-and-instructions-24/"><u>In 2024, FunFlicks Full Evaluation & Instructions '24</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterpieces-unleashed-a-comprehensive-look-at-the-bestiary-of-8-iphone-drawing-apps/"><u>In 2024, Masterpieces Unleashed A Comprehensive Look at the Bestiary of 8 iPhone Drawing Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-system-energy-add-fully-charged-notifications-to-windows-11/"><u>Optimize System Energy: Add Fully Charged Notifications to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tips-for-simplified-window-changes-through-key-combinations/"><u>Pro Tips for Simplified Window Changes Through Key Combinations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-wireless-network-access-difficulties-on-your-android-phone/"><u>Troubleshooting Wireless Network Access Difficulties on Your Android Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmute-your-silent-slack-alerts-with-these-tips-for-win-11-users/"><u>Unmute Your Silent Slack Alerts with These Tips for Win 11 Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 11 Pro Max</u></a></li>
 </ul></div>
 

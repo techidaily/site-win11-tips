@@ -1,7 +1,7 @@
 ---
 title: Effortless Multipurpose Close on Modern Windows PCs
-date: 2024-08-28T01:11:51.120Z
-updated: 2024-08-29T01:11:51.120Z
+date: 2024-12-03T19:27:31.039Z
+updated: 2024-12-06T18:37:46.916Z
 tags:
   - windows10
   - windows11
@@ -61,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Command Prompt can help you troubleshoot PC issues, configure some system settings, and run your Windows apps.
 
  Interestingly, this tool can also help you simultaneously close multiple windows of the same app. However, the Command Prompt might not be the best option if you want to close different apps simultaneously.
@@ -74,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![Opening the Command Prompt using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-command-prompt-using-the-start-menu-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Let’s say you want to close multiple File Explorer windows simultaneously. To do that, type the following command in the Command Prompt and press **Enter**:
 
 taskkill /f /im explorer.exe
@@ -81,12 +86,16 @@ taskkill /f /im explorer.exe
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We’ve already discovered that the Command Prompt can only help you close multiple windows of the same app.
 
@@ -110,9 +119,6 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Creating a Batch Script for Closing Multiple Apps Simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-a-batch-script-for-closing-multiple-apps-simultaneously.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  From there, follow these steps:
 
 1. Press the **File** tab in the top-left corner of the text file.
@@ -129,15 +135,13 @@ taskkill /f /im paintdotnet.exe /T > nul
 ![Clicking a batch script on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-a-batch-script-on-the-desktop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can add as many apps as you want to your batch script.
 
  And when using the batch script, ensure that it doesn’t end up closing some important apps by mistake. This means it might be worth regularly checking what’s on the script first before running it.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use the Close All Windows Tool
 
 ![The Close All Windows Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-close-all-windows-tool.jpg)
@@ -154,23 +158,17 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 **Download**: Close All Windows for [Windows](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Close Your Multiple Apps Simultaneously With Just a Few Clicks
 
  It’s always frustrating when your Windows device suddenly becomes slow or buggy. In most cases, such issues are caused by running tons of apps simultaneously.
 
  Want a quick way to speed up your device? Close your multiple active programs simultaneously using the tips we’ve covered. And if you end up closing some apps by mistake, you can apply some quick tricks to restore them again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,4 +177,18 @@ taskkill /f /im paintdotnet.exe /T > nul
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-breaking-down-advanced-photographic-modes-for-enhanced-results-for-2024/"><u>[New] Breaking Down Advanced Photographic Modes for Enhanced Results for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-mobile-gaming-best-android-gb-simulators/"><u>[New] Premier Mobile Gaming Best Android GB Simulators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-vr-films-that-you-should-never-miss-for-2024/"><u>[Updated] Top VR Films That You Should Never Miss for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-your-studies-with-the-ideal-school-computer-top-tips-and-tricks-for-smart-purchases/"><u>Ace Your Studies with the Ideal School Computer: Top Tips and Tricks for Smart Purchases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-sluggish-steam-downloads-in-windows-environment/"><u>Fixing Sluggish Steam Downloads in Windows Environment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-installation-of-jizz-planet-plugin-for-kodi-platform-version-1n9/"><u>Mastering the Installation of Jizz Planet Plugin for Kodi Platform Version 1N9</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-9gag-meme-landscape-a-beginners-guide/"><u>Navigating the 9GAG Meme Landscape A Beginner's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-in-place-update-process/"><u>Navigating Windows 11'S In-Place Update Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-win-11s-stubborn-zip-compression-problems/"><u>Resolve Win 11'S Stubborn ZIP Compression Problems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/round-the-clock-insight-detailed-look-at-google-podcast/"><u>Round-the-Clock Insight Detailed Look at Google Podcast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-iomap64sys-crashes-in-windows-systems/"><u>Troubleshooting IOMap64.sys Crashes in Windows Systems</u></a></li>
+</ul></div>
 

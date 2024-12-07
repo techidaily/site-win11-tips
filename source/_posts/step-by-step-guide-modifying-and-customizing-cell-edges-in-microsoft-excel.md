@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Modifying and Customizing Cell Edges in Microsoft Excel"
-date: 2024-08-28T01:08:07.708Z
-updated: 2024-08-29T01:08:07.708Z
+date: 2024-12-01T01:54:04.451Z
+updated: 2024-12-06T16:59:45.278Z
 tags:
   - excel
 categories:
@@ -59,8 +59,6 @@ Excel spreadsheets can be hard to read at a glance, thanks to dense information 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -68,8 +66,24 @@ Excel spreadsheets can be hard to read at a glance, thanks to dense information 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[New] 2024 Approved How to Download Youtube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-to-alternatives-to-streamlabs-obs-for-2024/"><u>[New] The Ultimate Guide to Alternatives to StreamLabs OBS for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/edge-ai-cooling-solutions-freeze-intro-triad-with-airjet-pak-units-for-up-to-25w/"><u>Edge AI Cooling Solutions: Freeze Intro Triad with AirJet PAK Units for Up to 25W</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-for-rejuvenating-lost-windows-server-time-services/"><u>Essential Steps for Rejuvenating Lost Windows Server Time Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-luts-for-sophisticated-photographic-changes-for-2024/"><u>Exploring LUTs for Sophisticated Photographic Changes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-battery-saver-on-or-off-on-your-windows-laptop/"><u>How to Turn Battery Saver On or Off on Your Windows Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-cc-errors-quickly/"><u>Navigating Windows 11 CC Errors Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-ignore-mandatory-warning-win10win11-fixes/"><u>Quick Guide to Ignore 'Mandatory' Warning: WIN10/WIN11 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-function-keys-on-a-win10-laptoppc/"><u>Revive Your Function Keys on a WIN10 Laptop/PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-installing-and-using-kik-messenger-on-pcsmacs/"><u>Step-by-Step Guide: Installing & Using Kik Messenger on PCs/Macs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-device-list-for-chilling-by-water/"><u>Ultimate Device List for Chilling by Water</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-the-full-potential-of-canvas-image-tools/"><u>Unlocking the Full Potential of Canva's Image Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unveiling-the-future-adopting-macos-11-big-sur-for-growth-for-2024/"><u>Unveiling The Future Adopting macOS 11 Big Sur for Growth for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

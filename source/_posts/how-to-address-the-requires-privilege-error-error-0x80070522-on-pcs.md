@@ -1,7 +1,7 @@
 ---
 title: How To Address the “Requires Privilege” Error (Error 0X80070522) on PCs
-date: 2024-08-28T01:13:22.396Z
-updated: 2024-08-29T01:13:22.396Z
+date: 2024-12-05T16:44:52.535Z
+updated: 2024-12-06T20:31:12.361Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,13 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Turn Off User Account Control (in Three Different Ways)
 
  User Account Control is a Windows security feature that restricts software privileges. That feature is the most regular cause of error 0x80070522\. Follow the steps in our[g](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) uide to[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) to set UAC to the lowest**Never notify** option.
@@ -44,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
  It’s not recommended to leave UAC off. Do what you must with the files when User Account Control is disabled. Then turn UAC back on after you’ve saved, moved, or copied the files as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Modify the Drive’s Sharing Permissions
 
  Error 0x80070522 can also arise because of restricted sharing permissions on a drive partition. You can remedy that by selecting the Full control permission setting for the drive. This is how you can modify a drive’s sharing permissions in Windows :
@@ -54,31 +60,26 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 2. Right-click the Local Disk C: drive and select**Properties** . If error 0x80070522 occurs on a different drive, select**Properties** for whatever partition you need to fix the issue.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-properties-option.jpg)
 3. Click the**Sharing** tab.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 4. Press the**Advanced Sharing** button.
 5. Select the**Share this folder** checkbox.  
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 1. Click the**Permissions** button.
 2. Select the**Full control** option’s**Allow checkbox for the Everyone** group.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Select**Close** to exit the properties window.
 5. Then click**Power** and select**Restart** within your Start menu.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Perform the Required File or Folder Actions on Windows
 
  Applying those potential solutions will probably fix error 0x80070522 and enable you to perform required file or folder actions without restriction. Most users have resolved this error by disabling User Account Control security one way or another.
@@ -91,8 +92,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +99,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-chat-101-an-introduction-to-online-video-talks-for-2024/"><u>[New] Insta Chat 101 An Introduction to Online Video Talks for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-for-beyond-sharex-review-for-2024/"><u>[New] The Ultimate Guide for Beyond-ShareX Review for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-an-in-depth-look-at-movavis-video-edition-plus-for-2e24/"><u>[Updated] 2024 Approved An In-Depth Look at Movavi's Video Edition Plus for 2E24</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-exclusive-changes-in-photo-backgrounds-visionshift-elite/"><u>[Updated] 2024 Approved Exclusive Changes in Photo Backgrounds VisionShift Elite</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-screen-casting-in-vlc-reviewed/"><u>2024 Approved Screen Casting in VLC Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-error-0x80072efd-in-windows-devicesstore/"><u>Combatting Error 0X80072EFD in Windows Devices/Store</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/compreranal-guide-to-best-free-budget-friendly-lut-sources-for-2024/"><u>Compreranal Guide to Best Free, Budget-Friendly LUT Sources for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortlessly-overcoming-the-itbm-driver-unavailable-problem/"><u>Effortlessly Overcoming the 'ITBM Driver Unavailable' Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-delayed-folder-integration-on-windows-a-step-by-step-approach-to-onedrive-issues/"><u>Overcoming Delayed Folder Integration on Windows: A Step-by-Step Approach to OneDrive Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sealing-the-gap-fixing-steam-play-on-windows-pcs/"><u>Sealing the Gap: Fixing Steam Play on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-easy-silence-windows-11-function-suppression/"><u>The Easy Silence: Windows 11 Function Suppression</u></a></li>
+</ul></div>
 

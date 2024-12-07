@@ -1,7 +1,7 @@
 ---
 title: Conquering New UserName Assignments in Windows 11 Edition
-date: 2024-08-28T01:12:37.030Z
-updated: 2024-08-29T01:12:37.030Z
+date: 2024-12-03T23:54:13.891Z
+updated: 2024-12-07T00:11:48.240Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,11 @@ To change your username using the Control Panel, follow these steps:
 4. Click on**Change your account name** .  
 ![Click on Change Your Account Name in User Account Settings in Windows Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-on-change-your-account-name-in-user-account-settings-in-windows-control-panel.jpg)
 5. Click**Yes** in the**User Account Control (UAC)** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. In the**New account name** field, type your new username.
 7. After that, click on**Change Name** .  
 ![Click on Change Name After Entering the New Username](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-on-change-username-after-entering-the-new-username.jpg)
@@ -54,9 +59,6 @@ To change your username using the Run command, follow these steps:
 2. Enter**"netplwiz"** in the**Run command** field and press**Enter** .  
 ![Run Netplwiz Command in the Windows Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-run-netplwiz-command-in-the-windows-run-command.jpg)
 3. Click**Yes** in the**User Account Control (UAC)** window.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. In the**User Accounts** window, select the user account for which the username needs to be changed.
 5. Click on**Properties** .  
 ![Go to Properties in the User Accounts Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-go-to-properties-in-the-user-accounts-window.jpg)
@@ -64,8 +66,9 @@ To change your username using the Run command, follow these steps:
 7. Once the new username has been added, click the**Apply** button and**OK** .  
 ![Click OK After Adding the New Name in the User Accounts Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-adding-the-new-name-in-the-user-accounts-window.jpg)
 8. Then, log out of your account, and you'll be greeted with your new username on the sign-in screen when you sign in.
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Change Your Username From Local User and Group Management Tool
@@ -78,16 +81,19 @@ To change your username using the Run command, follow these steps:
 2. Type**"lusrmgr.msc"** and press**Enter** .  
 ![Run lusrmgr.msc Command in Windows Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-run-lusrmgr-msc-command-in-windows-run-command.jpg)
 3. Click**"Yes"** in the**User Account Control (UAC)** window.
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Select the**Users** tab in the left sidebar.
 5. Find your account in the right pane.
 6. Right-click the username and click**Rename** .  
 ![Click Rename by Right-clicking on the Account Name in the Local User and Group Management Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-click-rename-by-right-clicking-on-the-account-name-in-the-local-user-and-group-management-tool.jpg)
 7. Enter the new username you want to use.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Afterward, close the local user and group management tool, sign out of your account once, and you'll see your new username on the sign-in screen.
@@ -109,6 +115,10 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 ![Changing Username in Windows Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/changing-username-in-windows-powershell.jpg)
 5. Then, log back into your account after logging out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. How to Change Your Profile Username From the Microsoft Website
 
  If you use a Microsoft account on your computer, change your username on the Microsoft website. To update your profile username on the Microsoft website, follow these steps:
@@ -119,31 +129,27 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 4. Click the**Edit name** button.  
 ![Click on Your info and Edit name to Change Username of a Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-your-info-and-edit-name-to-change-username-of-a-microsoft-account.jpg)
 5. Remove your current username and add the one you wish to switch to.
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. After that, click**Save** .  
 ![Click on Save to Change the Username of Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-save-to-change-the-username-of-microsoft-account.jpg)
 
  Changing the username associated with your Microsoft account may not take effect immediately. Sometimes, you may not see the new username after signing out from your account once, as we do in the other methods. To prevent that from happening, we recommend[restarting your device](https://www.makeuseof.com/windows-restart-methods/) instead of just signing out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Change Your Username With Ease
 
  Your username doesn't have to remain the same for the rest of your life. If you decide to change it, you can use the first four methods listed above to change the current username (of your local user account) to the one you prefer. Regardless of which way you opt, ensure you sign out of your account once. Only then will this change take effect.
 
  You will need to change the username associated with your Microsoft account from the Microsoft website. Also, remember that changing your username does not automatically change the user profile folder name. Therefore, you'll have to change it separately.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +158,20 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elite-avc-playback-software-for-smartphones-and-pcs/"><u>[Updated] In 2024, Elite AVC Playback Software for Smartphones and PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-virtual-cache-step-by-step-guide-w11/"><u>Clear Virtual Cache: Step by Step Guide W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-secure-hiccups-a-guide/"><u>Correcting Windows Secure Hiccups: A Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-windows-10-cast-to-device-malfunctions-solutions-inside/"><u>Effective Remedies for Windows 10 Cast To Device Malfunctions – Solutions Inside</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-seamless-fullscreen-launch-on-windows-pcs/"><u>Ensure Seamless Fullscreen Launch on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-webcam-camera-error-code-0xa00f4289-in-windows-10-and-11/"><u>How to Fix the Webcam Camera Error Code 0xA00F4289 in Windows 10 & 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-new-msi-speaker-drivers-on-windows-direct-links-available/"><u>How to Install New MSI Speaker Drivers on Windows - Direct Links Available</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/internet-radio-streaming-made-easy-your-recording-guidebook/"><u>Internet Radio Streaming Made Easy Your Recording Guidebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-print-settings-an-essential-tool-overview/"><u>Mastering Windows Print Settings: An Essential Tool Overview</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-fix-kinemaster-for-top-memes/"><u>Quick-Fix KineMaster for Top Memes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-viair-eportable-88p-air-compressor-potent-but-with-few-hitches/"><u>Review of Viair ePortable 88P Air Compressor: Potent but With Few Hitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-folder-security-on-windows-10-with-group-policies/"><u>Setting Up Folder Security on Windows 10 with Group Policies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-system-failures-due-to-inadequate-intel-graphic-specs/"><u>Troubleshooting System Failures Due to Inadequate Intel Graphic Specs</u></a></li>
+</ul></div>
 

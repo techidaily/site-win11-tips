@@ -1,7 +1,7 @@
 ---
 title: "From Standalone to Hybrid: Creating a Linux VM in Hyper-V on Windows"
-date: 2024-11-26T17:09:22.289Z
-updated: 2024-11-27T16:45:32.070Z
+date: 2024-12-02T18:50:46.200Z
+updated: 2024-12-07T01:56:36.959Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3db
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Prerequisites for Running a Linux Virtual Machine Inside Hyper-V
 
  Firstly, you will need a Windows virtual machine that is completely functional inside VMware. We would suggest Windows 10 or 11 virtual machines for this project. Moreover, you must pick either Windows Pro or Enterprise edition because Hyper-V isn’t available for Windows Home edition.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3db
  Make sure to dedicate an adequate amount of hardware resources to the virtual machine. The reason behind this is that you will try to run a virtual machine inside a virtual machine. So, the Windows virtual machine can dedicate only a portion of its resources to running a Linux virtual machine using Hyper-V. We tested this using a Windows 11 system with 16GB of RAM and an eight-core AMD processor.
 
  Also, update the VMware Workstation Player to the latest version before you begin the installation method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V
 
@@ -53,13 +53,13 @@ To enable Virtualization, do as follows:
 5. Click on the**OK** button to apply changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Install Hyper-V on the Windows Virtual Machine
@@ -76,6 +76,10 @@ To enable Virtualization, do as follows:
 7. **Restart** your system to apply changes when the installation completes.
 
  Hyper-V is now active on your Windows virtual machine. Next, you need to create a Linux virtual machine it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Create a Linux Virtual Machine Using Hyper-V
 
@@ -98,7 +102,7 @@ To create an Ubuntu virtual machine, do as follows:
 9. Click on the**Next** button and review the virtual machine configuration. Then, click on the**Finish** button to create the virtual machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that the virtual machine is ready, it's time to get Ubuntu up and running:
@@ -113,10 +117,6 @@ To create an Ubuntu virtual machine, do as follows:
 ![Ubuntu Virtual Machine Running Using Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ubuntu-virtual-machine-running-using-hyper-v.jpg)
 
  The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Few Things to Remember
 
@@ -145,19 +145,21 @@ To create an Ubuntu virtual machine, do as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-interactive-link-integration-for-instagram-users-for-2024/"><u>[New] Interactive Link Integration for Instagram Users for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-ensuring-your-content-is-safe-for-tiktok-uploading/"><u>[Updated] 2024 Approved Ensuring Your Content Is Safe for TikTok Uploading</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-11-tips-to-make-product-ad-videos/"><u>2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-dynamic-enhancements-for-your-tiktok-projects/"><u>2024 Approved Dynamic Enhancements for Your TikTok Projects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-error-1053-when-windows-services-stall/"><u>Fixing Error 1053: When Windows Services Stall</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-software-shortcuts-to-windows-11s-desktop-context-menu/"><u>How to Add Software Shortcuts to Windows 11’S Desktop Context Menu</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-nvidia-settings-are-unavailable-window/"><u>Overcoming Error: Nvidia Settings Are Unavailable Window</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-motorola-edgeplus-2023-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/power-up-android-studio-accelerated-development-on-win32/"><u>Power-Up Android Studio: Accelerated Development on Win32</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-fixing-local-lsa-unavailability-alerts/"><u>Tips for Fixing Local LSA Unavailability Alerts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transforma-tus-videos-en-linea-de-alta-calidad-desde-mpgmpeg4-al-formato-universal-mkv-gratis-gracias-a-la-herramienta-de-conversion-intuitiva-y-rapida-de-m13/"><u>Transforma Tus Vídeos en Línea De Alta Calidad Desde MPG/MPEG4 Al Formato Universal MKV Gratis Gracias a La Herramienta De Conversión Intuitiva Y Rápida De MovieAVI</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-how-to-solve-iphone-not-ringtoning-problem-with-these-simple-tricks/"><u>Ultimate Guide: How to Solve 'iPhone Not Ringtoning' Problem with These Simple Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-artistic-potential-through-windows-generate-delete/"><u>Unleashing Artistic Potential Through Windows' Generate Delete</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-content-perfecting-videos-on-instagram/"><u>[New] 2024 Approved Elevate Your Content Perfecting Videos on Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-visual-filmmaking-resources-environmentally-conscious-for-2024/"><u>[Updated] Visual Filmmaking Resources - Environmentally Conscious for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/disliking-the-new-find-my-iphone-on-apple-watch-via-watchos-evolution-whats-your-take-the-digital-analyst-at-zdnet/"><u>Disliking the New Find My iPhone on Apple Watch via WatchOS Evolution – What's Your Take? | The Digital Analyst at ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-steam-sound-clarity/"><u>Enhancing Windows Steam Sound Clarity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/hands-on-approach-to-ios-audio-capture/"><u>Hands-On Approach to iOS Audio Capture</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-x9b-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor X9b Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-repair-mfc42ddll-missing-issues/"><u>How to Correctly Address and Repair mfc42d.dll Missing Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-0xc0000142-in-windows-1110/"><u>How to Fix Error 0Xc0000142 in Windows 11/10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-se-2022-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-mystery-disappearing-power-button-on-win11/"><u>Master the Mystery: Disappearing Power Button on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-rescue-made-simple-top-ten-strategies/"><u>System Rescue Made Simple: Top Ten Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-future-at-an-irresistible-price-best-windows-11-deal-612lifetime-key-lovers-delight/"><u>Unlock the Future at an Irresistible Price – Best Windows 11 Deal, $6.12/Lifetime, Key Lovers' Delight!</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-silentizer-xtreme-revolutionize-how-you-listen-and-edit-media/"><u>Updated In 2024, Silentizer Xtreme Revolutionize How You Listen and Edit Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-enforcing-group-policy-on-single-user-profiles/"><u>Win 10/11: Enforcing Group Policy on Single-User Profiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-diagnostics-launch-guide-for-beginners/"><u>Windows Diagnostics Launch Guide for Beginners</u></a></li>
 </ul></div>
 

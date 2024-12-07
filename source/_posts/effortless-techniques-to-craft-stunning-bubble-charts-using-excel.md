@@ -1,7 +1,7 @@
 ---
 title: Effortless Techniques to Craft Stunning Bubble Charts Using Excel
-date: 2024-08-28T01:08:18.803Z
-updated: 2024-08-29T01:08:18.803Z
+date: 2024-11-30T00:45:34.313Z
+updated: 2024-12-06T21:17:21.821Z
 tags:
   - excel
 categories:
@@ -41,9 +41,9 @@ Related: [How to Choose a Chart to Fit Your Data in Microsoft Excel](https://and
 ![Data for a bubble chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/ChartData-ExcelBubbleChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Create the Bubble Chart
 
  Select the data set for the chart by dragging your cursor through it. Then, go to the Insert tab and Charts section of the ribbon.
@@ -53,21 +53,19 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Bubble chart styles on the Insert tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/InsertChart-ExcelBubbleChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your chart displays in your sheet immediately. You can see our Quantity values (x) along the bottom, Cost values (y) along the left side, and Sales values (z) as the sizes of the bubbles.
 
 ![Bubble chart inserted in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/InsertedChart-ExcelBubbleChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  From here, you can drag to move or resize the chart, or customize it to include a [trendline](https://remote-screen-capture.techidaily.com/2024-approved-udemy-alternatives-10-best-online-learning-sites-like-udemy/), legend, data labels, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Customize the Bubble Chart
 
  You have a few different [ways to customize](https://youtube-docs.techidaily.com/approved-strategies-for-effective-youtube-playlist-distribution/) the bubble chart in Excel. Select the chart open one or more of the following views.
@@ -81,8 +79,9 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 ![Chart Design tab in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/ChartDesignTab-ExcelBubbleChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Format Tab
 
  Open the Format tab to use a fill color, outline, effect, WordArt, or alt text.
@@ -90,18 +89,20 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 ![Format tab in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormatTab-ExcelBubbleChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Format Chart Sidebar
 
  Right-click the chart and choose "Format Chart Area." You can then do some of the same things as on the Format tab. You can add a fill or border color, apply a shadow or glow, and change the [size or properties](https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-find-x6-pro-by-drfone-android/).
 
 ![Format Chart sidebar in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormatChartSidebar-ExcelBubbleChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-find-x6-pro-by-drfone-android/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Windows Chart Format Buttons
 
@@ -137,8 +138,6 @@ Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-andr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +145,21 @@ Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-andr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-disseminate-your-tiktok-on-twitter-effectively/"><u>[New] 2024 Approved Disseminate Your TikTok on Twitter Effectively</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-real-time-game-capture-aps4-strategies-in-obs/"><u>[New] 2024 Approved Real-Time Game Capture APS4 Strategies in OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>[New] CinematicCapture Easy Screen Recorder for Win11 PCs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-through-youtubes-content-id-system-issues-for-2024/"><u>[New] Navigating Through YouTube's Content ID System Issues for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-installing-and-configuring-snapchat-for-mac-computers/"><u>[Updated] 2024 Approved Installing and Configuring Snapchat for Mac Computers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft/"><u>[Updated] The Art of Recording Fun 6 Techniques to Document Minecraft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-knowledge-for-cutting-out-backgrounds-in-paint/"><u>Essential Knowledge for Cutting Out Backgrounds in Paint</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-windows-credential-maze/"><u>Master the Windows Credential Maze</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-iphone-experience-with-ios-16-unlocking-the-potential-of-the-enhanced-lock-screen-tech-insights/"><u>Maximize Your iPhone Experience with iOS 16: Unlocking the Potential of the Enhanced Lock Screen - Tech Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-iomap64-bsod-a-comprehensive-guide-for-pcs/"><u>Overcoming the IOMap64 BSOD: A Comprehensive Guide for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-error-code-0x80300024-on-windows-xp/"><u>Quick Fix for Error Code: 0X80300024 on Windows XP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-resolving-java-vm-creation-problem-on-pcs/"><u>Tips for Resolving Java VM Creation Problem on PCs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-income-guide-whats-new-in-2024/"><u>YouTube Income Guide - What's New, In 2024</u></a></li>
+</ul></div>
 

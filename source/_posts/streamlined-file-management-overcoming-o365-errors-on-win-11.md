@@ -1,7 +1,7 @@
 ---
 title: "Streamlined File Management: Overcoming O365 Errors on Win 11"
-date: 2024-08-28T01:09:24.713Z
-updated: 2024-08-29T01:09:24.713Z
+date: 2024-12-05T16:36:32.509Z
+updated: 2024-12-06T20:55:45.289Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,11 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 2. Input your OneDrive email address (for your Microsoft account), and click the**Sign in** option.  
 ![The Sign in button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sign-in-button.jpg)
 3. Enter a password, and press the**Sign in** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Keep clicking**Next** to reach the last option on the OneDrive setup window.
 5. Press the**Open my OneDrive** **folder** button.
 
@@ -46,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
  First, check your PC’s drive storage space by launching File Explorer and clicking**This PC** . The C: drive icon there shows you how much free storage is available.
 
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
@@ -59,6 +68,11 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 `%localappdata%\Microsoft\OneDrive\OneDrive.exe /reset`  
 ![The reset OneDrive Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-reset-one-drive-command.jpg)
 4. Click**OK** to execute the reset command for OneDrive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`
 
@@ -72,16 +86,14 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 4. Click the**Change location** option.  
 ![The Change location option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-location-option.jpg)
 5. Select an alternative drive partition on your PC to link OneDrive with.
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 6. Click**Select Folder** to confirm the chosen location.
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
 
  Some OneDrive users have confirmed selecting to always keep affected files on the device, along with a "free up space" option, can fix error 0x80070185\. Selecting the "always keep on this device" option makes a OneDrive file available offline.
@@ -93,14 +105,13 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 3. Right-click the file affected by error 0x80070185 and select**Always keep on this** **device** .  
 ![The Always keep on this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-keep-on-this-device-option.jpg)
 4. Then right-click the same file again to select**Free up** **space** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
-5. Repeat these steps for all files you can’t access because of error 0x80070185.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Repeat these steps for all files you can’t access because of error 0x80070185.
+
 ## 6\. Turn Off Any Active Firewalls
 
  Firewall blocks applied to OneDrive can sometimes cause the error 0x80070185 to occur. We recommend users temporarily turn off firewalls to see if they’re causing this issue. You can turn off the Windows Defender Firewall with the following steps:
@@ -111,23 +122,13 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 4. Click**Turn Windows Defender Firewall on or off** to access the settings.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-defender-firewall-applet.jpg)
 5. Select the two**Turn off Windows Defender Firewall** network settings, and click**OK** to apply.  
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-windows-defender-firewall-option.jpg)
 6. Return to OneDrive to see if the 0x80070185 error persists with the firewall off.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  It’s also recommended to turn off any third-party firewalls installed. Some antivirus utilities also have firewalls. If you’ve installed any additional security software, select the option to disable its firewall if it has one.
 
@@ -142,14 +143,15 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 3. If you’re using Windows 11’s Settings app, click OneDrive’s three-menu button and click**Uninstall** . You can select OneDrive and press**Uninstall** in Windows 10.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-option.jpg)
 4. Select**Uninstall** for confirmation.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Open the[OneDrive page on the Microsoft Store](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb) .
 6. Click OneDrive’s**Get in Store** button.
 7. Select**Open Microsoft Store** to view the OneDrive page in that app.  
 ![The Get button for OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-button-for-onedrive.jpg)
 8. Click**Get** to reinstall OneDrive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Access your OneDrive Files again
 
@@ -161,8 +163,6 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +170,23 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-essential-youtube-short-content-techniques-unveiled/"><u>[Updated] 2024 Approved Essential YouTube Short Content Techniques Unveiled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-a-compreous-guide-to-recording-and-securing-periscope-videos/"><u>[Updated] A Compreous Guide to Recording & Securing Periscope Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-uncovering-8-honestly-backed-promotion-services/"><u>[Updated] Uncovering 8 Honestly Backed Promotion Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-contenders-clash-analyzing-the-superior-ai-experience-between-chatgpt-plus-and-perplex-5-ai-chatbots-face-off-assessing-the-benefits-of-chatgpt-plus64/"><u>Chatbot Contenders Clash: Analyzing The Superior AI Experience Between ChatGPT Plus and Perplex 5. AI Chatbots Face-Off: Assessing the Benefits of ChatGPT Plus Versus Perplexity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-app-guard-graphics-in-windows-11-os/"><u>Enhancing App Guard Graphics in Windows 11 OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/first-glimpse-at-apple-vision-pro-before-launch-navigating-testflight-for-exclusive-early-access-zdnet-insights/"><u>First Glimpse at Apple Vision Pro Before Launch: Navigating TestFlight for Exclusive Early Access | ZDNET Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-nvidia-connect-failure-on-windows-11-systems/"><u>Fixing Nvidia Connect Failure on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-novice-to-pro-winning-strategies-for-ps1-games-on-windows-by-duckstation/"><u>From Novice to Pro: Winning Strategies for PS1 Games on Windows by Duckstation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-embed-google-maps-in-a-windows-environment/"><u>How to Embed Google Maps in a Windows Environment</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keeping-your-ipad-quiet-tips-for-stopping-alerts-during-an-iphone-phone-call/"><u>Keeping Your iPad Quiet: Tips for Stopping Alerts During an iPhone Phone Call</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-games-fix-fullscreen-woes-in-windows/"><u>Maximize Your Games: Fix Fullscreen Woes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-no-errors-resolve-the-0x0-glitch-in-windows-11/"><u>Tackling No Errors: Resolve the 0X0 Glitch in Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-head-to-head-sony-vegas-pro-vs-adobe-premiere-pro-which-one-reigns-supreme/"><u>Updated 2024 Approved Head-to-Head Sony Vegas Pro vs Adobe Premiere Pro - Which One Reigns Supreme?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-icon-loss-how-to-regain-them/"><u>Windows 11 Icon Loss - How to Regain Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-aid-revolution-post-cortanas-quadruple-leap/"><u>Windows Aid Revolution: Post-Cortana's Quadruple Leap</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Should Focus on Making Windows 11 Better, Not Just More Fun
-date: 2024-08-28T01:12:16.138Z
-updated: 2024-08-29T01:12:16.138Z
+date: 2024-12-05T22:39:38.360Z
+updated: 2024-12-06T20:37:25.019Z
 tags:
   - windows10
   - windows11
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 ## Microsoft Should Focus on Making Windows 11 Better, Not Just More Fun
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft has increasingly prioritized AI in Windows 11 by frequently adding new Copilot features and integrations.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 ![Tecno Megabook T16 Pro sitting on display at MWC 2024](https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a2404b925ef4f20286104a39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Justin Duino / MakeUseOf
 
  When Microsoft released Windows 11 in October 2021, it was called the Windows version for gaming. However, it’s become apparent that[Microsoft’s focus regarding Windows 11 has shifted](https://www.makeuseof.com/future-of-windows-11-ai/) . The company has increasingly prioritized[artificial intelligence (AI)](https://www.makeuseof.com/artificial-intelligence-ai-simple-terms/) with its continuous stream of Copilot integrations.
@@ -39,20 +47,17 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
  It’s clear that Copilot and AI, not gaming, have become central to realizing Windows 11's full potential and Microsoft's broader ambitions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Are the Real Features?
 
 ![Copilot key on an Acer laptop](https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb738e8c283227d7e47f57830.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Justin Duino / MakeUseOf
 
  Microsoft’s Copilot features, while cool and awesome, sometimes feel more like fun additions than substantial improvements to Windows 11\. For instance, the ability to make video chats look like paintings or[create images with Copilot](https://www.makeuseof.com/how-use-bing-image-creator-free/) might be entertaining, but it doesn’t necessarily address the usability of Windows 11.
@@ -66,15 +71,13 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
  Lingering issues like an inconsistent UI, wonky taskbar, sluggish file explorer, and compatibility headaches leave many of us questioning whether it truly serves as an upgrade over Windows 10\. Several users have even claimed that W11 lags behind W10 in responsiveness, particularly on older hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Slow Steps in the Right Direction
 
 ![Windows 11 Start menu open on a Dell XPS 16](https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a4db0cfc4bb799b623cb07e4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Jerome Thomas / MakeUseOf
 
  Despite my criticism, it's only fair to acknowledge that Microsoft has also made moves in the right direction. Additions like the revamped Snipping Tool and an upgraded Snap feature for easier multitasking offer real utility. The Windows 11 interface is also starting to provide a welcome coherence compared to past releases.
@@ -85,14 +88,11 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
  Copilot's integration into apps and browsers on your W11 PC could save you valuable time, allowing you to focus on important tasks. The issue is when the balance is tipped in favor of fun Copilot features over functional features. As Microsoft continues to improve Windows 11, we can only hope that they will strive to create an operating system that is not just more fun but also better.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +101,23 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-best-offer-top-business-cloud-solutions/"><u>[Updated] Best Offer Top Business Cloud Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-dive-into-iphones-audio-memos-made-simple/"><u>[Updated] In 2024, Dive Into iPhone's Audio Memos Made Simple</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-user-non-interference-with-windows-safescreen/"><u>Ensuring User Non-Interference with Windows SafeScreen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-best-gear-for-stop-motion-special-effects/"><u>In 2024, Best Gear for Stop Motion Special Effects</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-download-voice-log-inspect/"><u>In 2024, Download Voice Log Inspect</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lock-it-down-four-fast-fixes-to-forbid-users-on-windows-11/"><u>Lock It Down: Four Fast Fixes to Forbid Users on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-tackling-ms-store-crashes-on-windows-os/"><u>Quick Guide: Tackling MS Store Crashes on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-operational-status-of-link-app-alerts-on-pc/"><u>Reinstating Operational Status of Link App Alerts on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-digital-world-insights-on-windows-11-changes/"><u>Revamping the Digital World: Insights on Windows 11 Changes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-app-display-with-in-built-windows-11-tuning/"><u>Streamlining App Display With In-Built Windows 11 Tuning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-steam-file-sync-obstructions-in-windows-os/"><u>Unblocking Steam File Sync Obstructions in Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-of-usb-composite-devices-insights-and-solutions/"><u>Understanding the Legacy of USB Composite Devices: Insights and Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-windows-computer-with-the-new-brother-hl-2240-printer-software/"><u>Update Your Windows Computer with the New Brother HL-2240 Printer Software</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-xr21-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia XR21 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

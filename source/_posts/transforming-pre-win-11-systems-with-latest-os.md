@@ -1,7 +1,7 @@
 ---
 title: Transforming Pre-Win 11 Systems with Latest OS
-date: 2024-11-25T16:41:38.556Z
-updated: 2024-11-27T17:45:42.211Z
+date: 2024-12-02T18:44:12.023Z
+updated: 2024-12-06T22:32:40.177Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Upgrade to Windows 11 22H2 on Unsupported Hardware
 
@@ -70,7 +74,7 @@ To download Windows 10 ISO:
  Once you have both the ISO files saved, follow the next step to extract and modify the Windows 11 ISO.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Modify the Windows 11 ISO to Bypass Hardware Check During the Upgrade
@@ -80,35 +84,37 @@ To download Windows 10 ISO:
 1. Right-click on the**Windows 10 ISO** file and select**Mount** . This will create a new virtual DVD Drive and open the ISO folder.  
 ![mount windows 10 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mount-windows-10-iso.jpg)
 2. Open the**Sources** folder and locate the**appraiserres.dll** file. Copy the**DLL** file and move it to a different folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![copy appraiserres dll windows 10 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-appraiserres-dll-windows-10-iso.jpg)
 3. Next, extract the Windows 11 ISO to a different folder. You can[use WinRAR to extract](https://www.win-rar.com/start.html?&L=0) the Windows 11 ISO file.  
 ![extract windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-windows-11-iso.jpg)
 4. Open the Windows 11 ISO's extracted folder and then the**Source** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Next, copy and paste the**appraiserres.dll** file copied from Windows 10 ISO into Windows 11 ISO's**Sources** folder.
 
 1. Select**Replace the file in the destination** to confirm the action.  
 ![replace the file in the destination appraiserrs ll windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/replace-the-file-in-the-destination-appraiserrs-ll-windows-11-iso.jpg)
 2. Next, disconnect your PC from the Internet. This prevents the setup from downloading updated files during installation and overwriting the modified dll file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once the Internet is disabled, open the extracted Windows 11 ISO folder and double-click on the**Setup file** . Click**Yes** if prompted by UAC.
 4. In the**Windows 11 Setup** dialog, click on**Change how Setup downloads updates.**  
 ![windows 11 setup not right now updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-not-right-now-updates.jpg)
 5. Next, select**Note right now.** This will prevent the Windows setup from finding and installing newer updates causing the upgrade process to fail on unsupported hardware.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![windows 11 setup choose what to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-choose-what-to-install.jpg)
 6. In the**Choose what to keep** screen, select**Keep personal files and apps.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Click**Next** and then click on**Accept** .  
 ![windows 11 setup ready to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-ready-to-install.jpg)
@@ -118,10 +124,6 @@ To download Windows 10 ISO:
 To check your Windows specification:
 
 ![check windows specification windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-windows-specification-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
 2. In the**System** tab, scroll down and click on**About** .
@@ -140,7 +142,7 @@ To go back to the previous version:
 3. Click on**Go back** under**Recovery options** . Then, follow the on-screen instructions to uninstall the Windows 22H2 update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Installing Windows 11 22H2 on Unsupported Hardware
@@ -164,21 +166,24 @@ To go back to the previous version:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-live-with-clarity-secrets-for-high-quality-fb-recordings/"><u>[New] In 2024, Live with Clarity Secrets for High-Quality FB Recordings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outube-channel-art-how-to-make-banners-icons-and-thumbnails-in-2024/"><u>[New] YouTube Channel Art How to Make Banners, Icons, and Thumbnails, In 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-beginners-guide-to-iphone-video-capture-for-2024/"><u>[Updated] Beginner's Guide to Iphone Video Capture for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtubes-earnings-structure/"><u>[Updated] Understanding YouTube's Earnings Structure</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unmuting-your-social-network-fixing-half-volume-videos-for-2024/"><u>[Updated] Unmuting Your Social Network Fixing Half-Volume Videos for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-seamless-stream-to-song-transition-with-top-video-mp3-tools/"><u>2024 Approved Seamless Stream-to-Song Transition with Top Video-MP3 Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/file-time-manipulation-5-windows-applications-at-your-fingertips/"><u>File Time Manipulation: 5 Windows Applications at Your Fingertips</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-usb-drives-into-file-system-navigation/"><u>Integrating USB Drives Into File System Navigation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-hidden-settings-with-ease/"><u>Navigating Windows 11 Hidden Settings with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-autolock-a-step-by-step-guide/"><u>Overcoming AutoLock: A Step by Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-file-explorer-launch/"><u>Streamlining Your File Explorer Launch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-installation-downloading-the-epson-xp-830-printer-driver-step-by-step/"><u>Successful Installation: Downloading the Epson XP-830 Printer Driver Step by Step</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-tablet-tools-best-notes-companions-in-win/"><u>Top Tablet Tools: Best Notes' Companions in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/utilizing-windows-companion-vivetool-method/"><u>Utilizing Windows Companion: ViveTool Method</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-upgrade-new-gtx-970-graphics-drivers/"><u>Windows 10 Upgrade - New GTX 970 Graphics Drivers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-transform-brainstorms-into-youtube-channel-names/"><u>[New] 2024 Approved How To Transform Brainstorms Into YouTube Channel Names</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-navigating-recordings-in-windows-11-a-compreayers-guide/"><u>[New] 2024 Approved Navigating Recordings in Windows 11 A Compreayer's Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-secure-and-efficient-lecture-recording-with-apple-devices/"><u>[New] In 2024, Secure & Efficient Lecture Recording with Apple Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-strategic-interaction-for-sustainable-subscriber-acquisition/"><u>[Updated] In 2024, Strategic Interaction for Sustainable Subscriber Acquisition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-10-no-cost-video-conference-platforms-worklearn-edition/"><u>2024 Approved Essential 10 No-Cost Video Conference Platforms Work/Learn Edition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leveraging-hashtags-for-a-huge-impact-on-your-youtube-views/"><u>2024 Approved Leveraging #Hashtags for a Huge Impact on Your YouTube Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-windows-display-eradicating-overscan/"><u>Fine-Tuning Windows Display: Eradicating Overscan</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-essential-guide-to-du-recorder-functionality/"><u>In 2024, The Essential Guide to Du Recorder Functionality</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/levolution-des-bannieres-publicitaires-exploration-de-la-deuxieme-copie-and-ses-alternatives-preferees/"><u>L'Évolution Des Bannières Publicitaires: Exploration De La Deuxième Copie & Ses Alternatives Préférées</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-windows-11-taskbar-size-and-alignment/"><u>Perfecting Windows 11 Taskbar Size and Alignment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pros-picks-the-leading-drawers-on-windows-11/"><u>Pro's Picks: The Leading Drawers on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refresh-windows-memory-3-essential-steps/"><u>Refresh Windows Memory - 3 Essential Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-sync-for-dual-desktops-mastering-file-coordination-via-aoemi/"><u>Streamlined Sync for Dual Desktops: Mastering File Coordination via AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-alleviate-windows-overload-due-to-unrealcefsubprocess/"><u>Techniques to Alleviate Windows' Overload Due to UnrealCEFSubprocess</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-deadly-mystery-of-windows-c0000022-failure/"><u>Unraveling the Deadly Mystery of Windows' C0000022 Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-component-services-tool-essentials/"><u>Unraveling Windows Component Services Tool Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-systems-speed-with-essential-wintoys-tools/"><u>Upgrade Your System's Speed with Essential WinToys Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-11-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 11?</u></a></li>
 </ul></div>
 

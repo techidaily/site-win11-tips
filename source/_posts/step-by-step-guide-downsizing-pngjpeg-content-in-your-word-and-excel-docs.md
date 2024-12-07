@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Downsizing PNG/JPEG Content in Your Word and Excel Docs"
-date: 2024-08-28T01:08:24.646Z
-updated: 2024-08-29T01:08:24.646Z
+date: 2024-11-29T21:43:18.928Z
+updated: 2024-12-07T01:46:06.787Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4eb72915c915cf8500790273e3fd63ebe88ce7c63
 ---
 
 ## Step-by-Step Guide: Downsizing PNG/JPEG Content in Your Word and Excel Docs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,6 +27,10 @@ Related: [Screenshot Tour: What’s New in Office 2016](https://hardware-help.te
  Office already works behind the scenes to help keep files sizes small. The newer DOCX file type essentially acts as a ZIP file, compressing the contents of the file. Pictures and text that appear more than once in a document are only stored once in the actual file. So, at least in more recent versions of Office apps, you'll find that large file sizes are usually a result of having lots of different pictures in your documents.
 
  The good news is that Office apps also offer some handy tools for keeping those image sizes in check. In this article, we're using [Office 2016](https://hardware-help.techidaily.com/get-your-acer-2-in-1s-touch-functionality-back-with-updated-drivers-for-windows-11-download/) (more specifically, Word 2016) as our example. But you'll find the same tools we discuss in other Office apps, like Excel and PowerPoint, and in previous versions of Office going back to at least Office 2010.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Compress Pictures in Your Office Document
 
@@ -43,8 +51,9 @@ Related: [Screenshot Tour: What’s New in Office 2016](https://hardware-help.te
  Depending on the number of pictures in your document, Word may take a few moments to compress them all. When it's finished, save your document and check the new file size. If you're not sure you want to stick with the changes, you can always save your document as a new file and then compare file sizes with the original version.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove Editing Information from Pictures
 
  Office apps offer all kinds of [great picture editing tools](https://article-files.techidaily.com/prestige-pcs-and-laptops-technologys-elite/) built right in. When you use them, Word retains the original picture and keeps track of the edits you've made so that you can undo them or return to the original picture should you need to. If you're happy with the way you've formatted your images, all that saved editing information just increases the size of your file. If compressing the pictures in your document didn't get your file size down far enough, you can also have Word delete the saved formatting information. Again, you might want to save the document as a new file before you get started so that you can revert to the original if necessary.
@@ -54,29 +63,21 @@ Related: [Screenshot Tour: What’s New in Office 2016](https://hardware-help.te
 ![ofs_4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/ofs_4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the File menu, click Options.
 
 ![ofs_5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/ofs_5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the Word Options window, from the selections on the left, click Advanced.
 
 ![ofs_6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/ofs_6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the Advanced Word Options window, scroll down to the "Image Size and Quality" section on the right. Select the "Discard editing data" option to have Word discard the formatting information when saving the file. The other options in this section allow you to safeguard the document against having images compressed and select a default resolution for when images are compressed (although you can always select a new resolution when you do the compressing).
 
 ![ofs_7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/ofs_7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you've done that, save your file (or save as a new file) and then check out the new file size. It will likely have gone down a good bit.
 
  In our example, we've taken a Word file ("File 1.docx" in the following image) that contains about 20 good quality images and weighed in at nearly 48 MB in size. Many of those images were cropped, some were resized, and several were edited in other ways. After compressing the images and removing the saved formatting information, the new file ("File 2 (compressed).docx" in the following image) is now just under 35 MB, a roughly 27% reduction in file size. And to illustrate built in compression in the DOCX format, we also zipped that file. As you can see, the difference in size between the zipped and unzipped files is negligible.
@@ -84,8 +85,9 @@ Related: [Screenshot Tour: What’s New in Office 2016](https://hardware-help.te
 ![ofs_8_v2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/ofs_8_v2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And that's it! Images are big and they can rapidly increase the size of your Office documents. But by using the built in compression tools in Office apps and removing old editing information, you can significantly decrease the size of Office documents that contain images without much effort.
 
 <ins class="adsbygoogle"
@@ -94,8 +96,6 @@ Related: [Screenshot Tour: What’s New in Office 2016](https://hardware-help.te
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +103,20 @@ Related: [Screenshot Tour: What’s New in Office 2016](https://hardware-help.te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchats-hidden-content-finding-and-restoring-photos/"><u>[New] In 2024, Snapchat's Hidden Content Finding and Restoring Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-dealing-with-a-solitary-speaker/"><u>[Updated] In 2024, Dealing with a Solitary Speaker</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unranked-movies-the-real-top-picks/"><u>[Updated] In 2024, Unranked Movies The Real Top Picks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-realme-gt-5-pro-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Realme GT 5 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-error-e8024002e-for-update-issues/"><u>Fixing Error E:8024002E for Update Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-frequent-outlook-program-failures-and-shutdowns/"><u>How to Stop Frequent Outlook Program Failures and Shutdowns</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-itel-p40-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Itel P40 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y27s-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y27s Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-and-locals-key-distinctions-in-windows-login-systems-exposed/"><u>Microsoft & Locals: Key Distinctions in Windows Login Systems Exposed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powertoys-techniques-when-and-how-to-apply-lockmaster/"><u>PowerToys Techniques: When and How to Apply Lockmaster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surge-into-success-7-key-methods-for-enhanced-windows-11-use-38/"><u>Surge Into Success: 7 Key Methods for Enhanced Windows 11 Use (38)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-rpg-experience-awaits-in-the-elder-scrolls-v-skyrim-for-switch-gamers/"><u>The Ultimate RPG Experience Awaits in The Elder Scrolls V: Skyrim for Switch Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-workflow-with-efficient-multi-tasking-in-windows-11/"><u>Transforming Workflow with Efficient Multi-Tasking in Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cure Failed Setup: Resolving MSPM Issues"
-date: 2024-08-28T01:10:22.801Z
-updated: 2024-08-29T01:10:22.801Z
+date: 2024-12-05T23:57:31.338Z
+updated: 2024-12-06T18:18:51.527Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,17 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 7. Disable the toggle next**Real-time protection.**  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/real-time-protection-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're using a third-party antivirus program, you can disable it by right-clicking on its icon in the system tray and choosing the "Disable" option from the context menu. You can also go through the antivirus support pages to learn more about how to disable it.
 
  After disabling the security program, give a quick restart to your computer and check if the problem continues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Program Troubleshooter
 
@@ -61,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ![Program Compatibility Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Program-Compatiblity-Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If running the built-in troubleshooter wasn't helpful, download and run the Program Install and Uninstall troubleshooter from[Windows Support](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) .
 
 ## 4 . Clear the Temp Folder
@@ -81,9 +86,6 @@ To delete the Temp folder, follow the below instructions:
 3. Select everything inside the Temp folder by pressing the**Ctrl + A** hotkeys.
 4. Press the**Shift + Delete** hotkeys to clear the Temp folder's content permanently.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 . Download Any Available Windows Updates
 
  Windows regularly releases updates to add new features and fix bugs and glitches. And from what it looks like, Microsoft PC Manager can fail to install on your computer due to a temporary glitch.
@@ -95,9 +97,14 @@ To delete the Temp folder, follow the below instructions:
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows will now look for and download any available updates. Once the update is installed, restart your computer and check for the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Fix Any Corrupted Files on Your Computer
 
@@ -110,16 +117,10 @@ To delete the Temp folder, follow the below instructions:
 3. Wait until the command is executed. Depending on your computer's health, the process can take up to 15 minutes. Sometimes the process will stick, but wait for it to complete.
 4. After the process is complete, type**sfc /scannow** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reset Your Computer
 
 ![Reset PC button in Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Reset-PC-.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  If you're still unable to install the Microsoft PC Manager, you can use the Windows Reset function. This will reinstall Windows, but it will keep all your personal files intact. Here's how to do it:
 
 1. Navigate to Settings > System > Recovery.
@@ -128,8 +129,9 @@ To delete the Temp folder, follow the below instructions:
 Next, follow the on-screen to complete the reset process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Optimize Your System With Microsoft PC Manager
 
  Microsoft PC Manager is the new way to optimize your system performance. The application is still in the beta phase; thus, it's common for it to run into issues now and then. If the Microsoft PC Manager fails to install on your computer, you now know what's causing the problem and how to fix it.
@@ -140,8 +142,6 @@ Next, follow the on-screen to complete the reset process.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +149,21 @@ Next, follow the on-screen to complete the reset process.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-camstudio-2023-screen-recorder-insights-and-reviews/"><u>[New] 2024 Approved CamStudio 2023 Screen Recorder Insights & Reviews</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-effortless-webcam-recording-with-vlc-streaming-capabilities/"><u>[Updated] 2024 Approved Effortless Webcam Recording with VLC Streaming Capabilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-scaling-back-obs-video-bandwidth/"><u>[Updated] 2024 Approved Scaling Back OBS Video Bandwidth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-of-dji-mavic-pro-eyewear-tech/"><u>[Updated] In-Depth Review of DJI Mavic Pro Eyewear Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-supercharge-your-videos-with-powerful-tagging-techniques/"><u>[Updated] Supercharge Your Videos with Powerful Tagging Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-zoom-for-the-first-timer-easy-to-follow-guidelines-for-2024/"><u>[Updated] Zoom for the First Timer Easy-to-Follow Guidelines for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-inside-the-world-of-superior-screen-recording-with-recmeister/"><u>2024 Approved Inside the World of Superior Screen Recording with Recmeister</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-bouncie-drivelink-reviews-cost-effective-and-user-friendly-gps-navigation-system/"><u>Discover the Bouncie DriveLink Reviews: Cost-Effective & User-Friendly GPS Navigation System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-personalization-for-windows-11-search/"><u>Mastering Personalization for Windows 11 Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snooze-no-more-keyboard-plus-mouse-to-wake-windows-1011/"><u>Snooze No More! Keyboard + Mouse to Wake Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-and-fix-obs-startup-failures/"><u>Strategies to Prevent and Fix OBS Startup Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/undoing-sending-mistakes-easily-retrieve-deleted-emails-on-outlook-with-these-simple-steps/"><u>Undoing Sending Mistakes: Easily Retrieve Deleted Emails on Outlook with These Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-windows-error-0xc00ce556/"><u>Unveiling Fixes for Windows' Error 0xC00CE556</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-activatedeactivate-wi-fi-data-metering/"><u>Windows 11: Activate/Deactivate Wi-Fi Data Metering</u></a></li>
+</ul></div>
 

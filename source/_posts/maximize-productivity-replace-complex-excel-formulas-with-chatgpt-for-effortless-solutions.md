@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Replace Complex Excel Formulas with ChatGPT for Effortless Solutions"
-date: 2024-08-28T01:09:09.092Z
-updated: 2024-08-29T01:09:09.092Z
+date: 2024-12-01T21:38:54.863Z
+updated: 2024-12-06T22:59:12.537Z
 tags:
   - excel
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  How to Get a Quick Excel Formula From ChatGPT
 
  If you dread the mere thought of opening Excel, let alone creating formulas, you've come to the right place. ChatGPT offers you an easy way to create Excel formulas with zero practical experience required.
@@ -38,6 +34,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  All you have to do is give ChatGPT an explanation of what you want to do, and it'll give you a formula, along with detailed instructions on how to implement it. Just make sure to mention the range (columns and rows) that you want to apply the formula to, and it'll do the rest for you. In this example, I have an assortment of orders for various items with varying prices and profit margins.
 
 ![A list of orders for mugs, spoons, teapots, and kettles in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/test-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  My goal is to calculate the revenue and profit for each order. While the formula required to do this isn't complex, let's just assume that I knew nothing about Excel, and it was my first day on the job. I'd turn to ChatGPT and ask it for a formula:
 
@@ -48,18 +48,20 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This is just a basic example to show you how ChatGPT can determine what formulas you need based on what you'd like to do. Let's do something slightly more complicated by asking it to help us [calculate the average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) profit margin and most profitable item.
 
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're already an Excel aficionado and prefer making formulas yourself, you can ask ChatGPT to suggest the best function for your unique scenario. Let's say I wanted to import information about the revenue and profits from my orders sheet to a tax sheet. ChatGPT gave me four viable formulas that I could use, along with a brief explanation of how they work.
 
@@ -70,8 +72,9 @@ Close
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  You Can Create Formatting Rules With ChatGPT
 
  Excel has a complex interface that makes it hard to navigate, especially for novices, and conditional formatting rules require you to poke around to figure them out. In the following example, I have a list of articles with columns that track whether they have been written and have photos.
@@ -79,8 +82,9 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I gave ChatGPT detailed instructions to help me color-code the table so that I could keep track of what articles were still in progress. Here's my prompt, followed by ChatGPT's response:
 
 Close 
@@ -101,9 +105,6 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  You Still Need to Check the Formulas Manually
 
  While ChatGPT is undoubtedly one of the "smartest" tools humans have ever created, it's not perfect. It might create a formula that doesn't work correctly, which isn't a problem when Excel spits out an error. However, in instances where a formula seemingly functions correctly but has omitted an important parameter, it can create a false sense of security.
@@ -120,8 +121,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +128,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>[New] A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elevated-visuals-selecting-the-right-card/"><u>[New] In 2024, Elevated Visuals Selecting the Right Card</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-revamping-reality-the-premier-11-instagram-edits-for-2024/"><u>[New] Revamping Reality The Premier 11 Instagram Edits for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-exclusive-list-of-8-best-apps-to-enhance-facebook-likes-for-2024/"><u>[Updated] Exclusive List of 8 Best Apps To Enhance Facebook Likes for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-tips-for-erasing-backgrounds-in-figma-design/"><u>2024 Approved Ultimate Tips for Erasing Backgrounds in Figma Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktop-deco-compelling-stick-on-apps-for-windows-enthusiasts/"><u>Desktop Deco: Compelling Stick-On Apps for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-fixes-rejuvenate-frozen-mouse-contexts-in-windows/"><u>Easy Fixes: Rejuvenate Frozen Mouse Contexts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-overcome-win11-cc-challenges/"><u>Expert Tips to Overcome Win11 CC Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-full-control-of-your-mouse-with-these-tricks-windows-users/"><u>Gain Full Control of Your Mouse with These Tricks Windows Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-cyberspace-companion-fb-stories-saver/"><u>In 2024, Cyberspace Companion FB Stories Saver</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/incorporating-chatgpt-into-your-writing-routine-successfully/"><u>Incorporating ChatGPT Into Your Writing Routine Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-infinite-treasure-in-dragon-game-tips-and-tricks-for-pc-users/"><u>Master the Art of 'Infinite Treasure' In Dragon Game - Tips & Tricks for PC Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-file-visibility-in-macos-techniques-for-revealing-hidden-files-using-terminal-tools/"><u>Mastering File Visibility in macOS: Techniques for Revealing Hidden Files Using Terminal Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-powershell-script-execution-policy/"><u>Mastering the Art of PowerShell Script Execution Policy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-accessing-system32-on-win11/"><u>Mastery of Accessing System32 on Win11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/reimagining-home-setups-with-a-webcam-for-2024/"><u>Reimagining Home Setups with a Webcam for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-play-addressing-fall-guys-errors-on-windows/"><u>Streamlining Play: Addressing Fall Guys Errors on Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Enrich Your Digital Library by Adding Emulators to Playnite
-date: 2024-11-20T16:33:30.666Z
-updated: 2024-11-27T16:48:08.117Z
+date: 2024-11-30T18:02:46.539Z
+updated: 2024-12-06T22:18:08.989Z
 tags:
   - windows10
   - windows11
@@ -38,11 +38,7 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 ![Playnite Menu Add Ons Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-add-ons-entry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Metadata Sources
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 
 ![Playnite Add Ons Browse For More Metadata Sources Wikipedia Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-add-ons-browse-for-more-metadata-sources-wikipedia-selected.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Since we are dealing with emulated content and retro games, we suggest you install the following metadata sources:
 
 * GameTDB Metadata Provider
@@ -73,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 
  You can click on each one in Playnite and check the details pane to learn more about them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The "Generic" Page
 
  Although we won't use them for this article, Playnite has some emulation-related add-ons, making your retro-gaming life easier.
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
  You can find those on the **Generic** page, directly below the **Metadata Sources** page we saw above.
 
 ![Playnite Add Ons Browse For More Generic Emulation Toolbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-add-ons-browse-for-more-generic-emulation-toolbox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The ones we suggest you check are the following:
 
@@ -99,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 
  That's useful for a seamless gaming experience, especially if you're also using your PC as a media center/console alternative, and want to keep it joypad-friendly. If you're in the opposite camp, you might prefer multitasking on your ultrawide monitor and keeping multiple windows in view. For that, check our guide on [how you can force all your games into windowed mode in Windows 10 & 11](https://www.makeuseof.com/windows-10-11-windowed-mode-games/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Prevent Automatic ROM Scans
 
  Are you often adding or removing titles to your emulated games collection or otherwise fiddling with it? You might want to avoid including your emulated games in Playnite's regular library updates. Having Playnite rescan huge ROM libraries with thousands of files could make the app crawl.
@@ -106,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
  To find that option, click **Playnite's icon** on the top left of the app to access its main menu, and select **Settings** (or press F4 on your keyboard).
 
 ![Playnite Menu Settings Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-settings-entry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, select **Updating** in the navigational tree on the left of that window. Use the drop-down menu on the right of **Scan emulation folders** to change its value to **Only manually**. Then, click **Save** to register your tweak and exit that window.
 
@@ -117,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 
 ![Playnite Menu Library Configure Emulators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-library-configure-emulators.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Download Emulators in Playnite
 
  There are dozens of emulators available for every retro platform imaginable. If they support flags, you can use them through Playnite. However, you'll have to create a configuration for them yourself. Thankfully, Playnite already supports many of them and offers predefined configurations that enable their use without lifting a finger to "add support" for them.
@@ -126,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 ![Playnite Configure Emulators Download Emulators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-download-emulators.jpg)
 
  So, that's where we will take a short break while you check that list, choose the ones you want, visit their sites, download, and install them. After doing that, you are ready to move to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Making Sense Of Emulation Profiles
 
@@ -143,15 +151,15 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 
 ![Playnite Configure Emulators Duckstation Default Profile Arguments](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-duckstation-default-profile-arguments.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also create more profiles with alternative configurations for each emulator. Still, we won't go over this in this article.
 
  Since you can use many emulators for each platform, Playnite treats emulators and emulated platforms distinctly. By visiting the second tab of that window, **Auto-scan Configurations**, you can select with which emulator you want to scan a platform's titles. You can also choose if they should be included in the update scans of your whole Playnite game library.
 
 ![Playnite Configure Auto Scan Configurations PS3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-auto-scan-configurations-ps3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on how you keep your game ROMs stored and the chosen emulator, you can also select if you want to import those titles using a relative path, scan the chosen platform's folder for more games within subfolders, scan inside archives, and if all files related to a title should be presented individually or "merged" into a single library entry.
 
@@ -179,22 +187,14 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 ![Playnite Filtering Library Down To Sony PlayStation 3 Titles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-filtering-library-down-to-sony-playstation-3-titles.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To play a game, since thanks to your actions above Playnite knows which emulator to use to launch it, you can simply click on its **play icon**.
 
 ![Playnite Seeking God Of With God Of War III Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-seeking-god-of-with-god-of-war-iii-selected.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If, even after you have access to every single game on your PC through Playnite, it still doesn't cut it for you, there are alternatives worth trying. Check [our list of the best game launchers to launch and organize PC games](https://www.makeuseof.com/tag/pc-game-launchers/), but keep in mind that many of them are less emulation-friendly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Retro Gaming Made Easier With Playnite
 
@@ -204,26 +204,6 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 
  Let's see how you can have Playnite detect them, scan your emulated games, and include them in your unified game library.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-understanding-the-shift-navigating-posting-in-an-algorithm-world/"><u>[New] 2024 Approved Understanding the Shift Navigating Posting in an Algorithm World</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-examining-instagrams-per-video-content-restrictions/"><u>[New] Examining Instagram's Per-Video Content Restrictions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-viral-videos-not-pricey-twitter-video-to-gif-conversion-for-2024/"><u>[New] Viral Videos, Not Pricey Twitter Video to GIF Conversion for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-pivot-to-popularity-mastering-video-flip-on-social-for-2024/"><u>[Updated] Pivot to Popularity Mastering Video Flip on Social for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-blending-identifying-the-10-finest-mixers-for-podcasters/"><u>2024 Approved Audio Blending Identifying the 10 Finest Mixers for Podcasters</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-asus-vivobook-11-a-versatile-laptop-that-packs-a-punch-without-breaking-the-bank/"><u>Comprehensive Review: ASUS VivoBook 11 - A Versatile Laptop That Packs a Punch Without Breaking the Bank</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-improperly-aligned-thx-surround-on-pcs/"><u>Correcting Improperly Aligned THX Surround on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-to-reactivate-stalled-wsreset-on-pcs/"><u>Essential Steps to Reactivate Stalled WSReset on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-to-resolve-unspecified-obs-studio-issue-in-win-11/"><u>Expert Tips to Resolve Unspecified OBS Studio Issue in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-folders-reverting-to-read-only-mode-in-windows-11-and-11/"><u>How to Fix Folders Reverting to Read-Only Mode in Windows 11 and 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tune-your-devices-touch-sensitivity-in-windows-11/"><u>How to Tune Your Device's Touch Sensitivity in Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unboxing-the-market-strategic-essentials/"><u>In 2024, Unboxing the Market Strategic Essentials</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-motorola-edge-2023-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Motorola Edge 2023 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-blueprint-to-utilizing-devs-space-in-win11/"><u>The Essential Blueprint to Utilizing Devs Space in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-0x80073712-in-windows-update/"><u>Troubleshooting 0X80073712 in Windows Update</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -231,3 +211,21 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-techniques-that-elevate-your-ppt-recording-experience/"><u>[New] In 2024, Techniques that Elevate Your PPT Recording Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-graphic-design-evolution-post-acid-review/"><u>[Updated] 2024 Approved Graphic Design Evolution Post-ACID Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-premium-sites-summarized-acquiring-personal-preferences-in-ringtone-vids/"><u>[Updated] 2024 Approved Premium Sites Summarized Acquiring Personal Preferences in Ringtone Vids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-cutting-edge-components-in-desktops/"><u>2024 Approved Cutting-Edge Components in Desktops</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tless-sound-sourcing-the-top-15-freebie-audiosites/"><u>Effortless Sound Sourcing The Top 15 Freebie Audiosites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886241954-googles-latest-accessory-the-pixel-watch-3-release-date-pricing-insights/"><u>Google's Latest Accessory? The Pixel Watch 3 - Release Date, Pricing Insights.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-unfreeze-windows-games-like-minecraft/"><u>Guide to Unfreeze Windows Games Like Minecraft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-qt-platform-plugin-not-loaded-failsafe/"><u>Overcoming 'Qt Platform Plugin Not Loaded' Failsafe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-downloads-that-just-wont-go/"><u>Overcoming Downloads that Just Won't Go</u></a></li>
+<li><a href="https://techidaily.com/remove-itel-p40-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Itel P40 unlock screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-undetected-bluetooth-connections-on-your-windows-10-pc/"><u>Solve Undetected Bluetooth Connections on Your Windows 10 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-windows-hello-not-recognizing-scan-failure/"><u>Steps to Correct Windows Hello Not Recognizing Scan Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-using-the-windows-11-home-feature/"><u>Tips for Using the Windows 11 Home Feature</u></a></li>
+</ul></div>
+

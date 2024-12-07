@@ -1,7 +1,7 @@
 ---
 title: No Fitbit on Hand? Discover How You Can Use Microsoft Excel to Keep Tabs on Your Personal Health Metrics!
-date: 2024-08-28T01:07:59.966Z
-updated: 2024-08-29T01:07:59.966Z
+date: 2024-12-01T01:40:57.809Z
+updated: 2024-12-06T17:41:55.255Z
 tags:
   - excel
 categories:
@@ -39,6 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Daily Calorie and Fat Percentage Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DailyCalorieFatPercentage-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Journal Your Diet and Exercise
 
  To help you reach your health goals, try out this [Diet and Exercise Journal](https://templates.office.com/en-us/diet-and-exercise-journal-tm04036851) Excel template. You have three tabs to record and view your progress.
@@ -51,9 +55,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Diet and Exercise Journal Exercise tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DietExerciseJournalExercise-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Insert your start and end dates and weights and then view analyses of the Diet and Exercise sheets on the Goals tab. You'll see helpful charts along with a brief summary showing your progress, making it easier to achieve your goals.
 
 ![Diet and Exercise Journal Goals tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DietExerciseJournalGoals-ExcelHealthTrackers.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Calculate Calorie Intake on an Amortization Schedule
 
@@ -65,12 +81,6 @@ Related: [5 Ways Your iPhone Can Help You Lose Weight](https://visual-screen-rec
 
 ![Calorie Amortization Schedule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CalorieAmortizationSchedule-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Track Weight Loss
 
  If you already have a diet plan to [reach your target weight](https://on-screen-recording.techidaily.com/updated-in-2024-enhance-your-file-management-six-tips-for-win-11s-mov-files/), then keep track of it easily with this [Weight Loss Tracker](https://templates.office.com/en-us/weight-loss-tracker-tm03458079) template for Excel.
@@ -79,9 +89,6 @@ Related: [5 Ways Your iPhone Can Help You Lose Weight](https://visual-screen-rec
 
 ![Weight Loss Tracker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/WeightLossTracker-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Get a Fitness Plan
 
  For the ultimate fitness template, you can track everything from your weight to the size of your biceps to the food you eat.
@@ -96,20 +103,18 @@ Related: [5 Ways Your iPhone Can Help You Lose Weight](https://visual-screen-rec
 
 ![Fitness Plan Activity Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FitnessPlanActivity-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Add the foods you eat including calories, fat, cholesterol, sodium, and other nutritional details.
 
 ![Fitness Plan Food Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FitnessPlanFood-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, review the Weight Tracker tab which summarizes the other sheets and gives you a clear view of your fitness plan progress.
 
 ![Fitness Plan Weight Tracker tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FitnessPlanWeight-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Related: [How I Used Technology to Get in the Best Shape of My Life and Save My Son](https://twitter-videos.techidaily.com/updated-2024-approved-elevating-twitter-interactions-through-personalized-video-previews/) 
 
 ##  Track Your Blood Sugar
@@ -120,12 +125,6 @@ Related: [How I Used Technology to Get in the Best Shape of My Life and Save My 
 
 ![Blood Sugar Tracker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BloodSugarTracker-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Log Your Blood Pressure and Glucose
 
  For logging both pressure and glucose, use this [Blood Pressure and Glucose Tracker](https://templates.office.com/en-us/blood-pressure-and-glucose-tracker-tm03107635) template.
@@ -136,10 +135,11 @@ Related: [How I Used Technology to Get in the Best Shape of My Life and Save My 
 
 ![Blood Pressure and Glucose Tracker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BloodPressureGlucoseTracker-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  For a bonus, you can include notes on the right side which is helpful for out-of-the-ordinary levels.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Keep a Medication Log
 
@@ -147,9 +147,6 @@ Related: [How I Used Technology to Get in the Best Shape of My Life and Save My 
 
 Related: [How to Set an Emergency Contact on iPhone (and Why)](https://instagram-videos.techidaily.com/new-how-to-boost-your-instagram-vids-visibility-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ###  Basic Medication Log
 
  For your own logging, this [Basic Medication Log](https://templates.office.com/en-us/basic-medication-log-tm01068457) gives you all the spots you need for complete details. Add the medication name, start and stop dates, dosages with times, and special instructions.
@@ -159,8 +156,9 @@ Related: [How to Set an Emergency Contact on iPhone (and Why)](https://instagram
 ![Basic Medication Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicMedicationLog-ExcelHealthTrackers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Family Medication Log
 
  With a tab for each person in this [Medication Log](https://templates.office.com/en-us/medication-log-tm89852877), you can easily list medications, dosages, frequencies, and times of day for each family member. You can also include remarks, or notes, per medication.
@@ -168,14 +166,18 @@ Related: [How to Set an Emergency Contact on iPhone (and Why)](https://instagram
 ![Medication Log for families](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FamilyMedicationLog-ExcelHealthTrackers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Track Your Pet's Health
 
  Maybe the health tracker you need is for your furry family member. This [Pet Health Log](https://templates.office.com/en-us/pet-health-log-tm06128278) lets you track immunizations, medications, and known conditions. You can also log vet visits with complete details for tests performed, diagnosis, prescribed action and medication, and more.
 
 ![Pet Health Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PetHealthLog-ExcelHealthTrackers.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have more than one pet, [copy the original sheet](https://fox-blue.techidaily.com/updated-2024-approved-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/) to another tab before entering the details. You can then [rename the tab](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-14-ultra-phone-unlock-it-now-by-drfone-android/) with your pet's name. Do the same for each pet in your household for a handy record of everyone's health history.
 
@@ -191,8 +193,6 @@ Related: [How to Track Almost Anything with Excel List Templates](https://androi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +200,24 @@ Related: [How to Track Almost Anything with Excel List Templates](https://androi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-accelerate-how-to-swiftly-broadcast-playlists/"><u>[Updated] Accelerate How To Swiftly Broadcast Playlists</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-save-powerpoint-presentation-as-video-on-windows-and-mac-os-for-2024/"><u>[Updated] How to Save PowerPoint Presentation as Video on Windows and Mac OS for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-engagement-strategies-for-video-thumbnail-design/"><u>[Updated] Maximizing Engagement Strategies for Video Thumbnail Design</u></a></li>
+<li><a href="https://techidaily.com/a-guide-through-monster-hunter-world-exploring-bizarre-and-formidable-beasts/"><u>A Guide Through Monster Hunter: World - Exploring Bizarre & Formidable Beasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/capture-your-world-audio-on-windows-10-for-2024/"><u>Capture Your World Audio on Windows 10 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-path-for-successful-java-setup-in-windows/"><u>Clearing Path for Successful Java Setup in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-windows-1110-bluetooth-stuttering-a-step-by-step-guide-to-smooth-sound/"><u>Fix Your Window's 11/10 Bluetooth Stuttering: A Step-by-Step Guide to Smooth Sound</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-purge-win-searchs-visual-components/"><u>How to Purge Win Search's Visual Components</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-realme-narzo-60-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Realme Narzo 60 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-manage-your-directories-in-windows-explorer-version-11/"><u>Learn to Manage Your Directories in Windows Explorer, Version 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-standard-touch-position-for-windows-11-devices/"><u>Re-Establish Standard Touch Position for Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-qt-initialization-error-no-platform-available-during-startup/"><u>Resolving Qt Initialization Error: No Platform Available During Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-error-1132-on-windows-11s-zoom-service/"><u>Steps to Overcome Error 1132 on Windows 11'S Zoom Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/straighten-up-windows-11-designs/"><u>Straighten Up Windows 11 Designs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-malfunctioning-automated-email-rules-on-pc/"><u>Troubleshooting Malfunctioning Automated Email Rules on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-potential-from-standard-sdr-to-high-end-hdr/"><u>Unleashing Potential From Standard SDR to High-End HDR</u></a></li>
+</ul></div>
 

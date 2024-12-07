@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Virtualization on Windows 11
-date: 2024-08-28T01:09:59.178Z
-updated: 2024-08-29T01:09:59.178Z
+date: 2024-11-29T18:58:28.734Z
+updated: 2024-12-06T23:32:49.891Z
 tags:
   - windows10
   - windows11
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
 ## How to Turn Off Virtualization on Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Hyper-V can conflict with third-party virtualization tools and apps on Windows 11, causing errors when launching them. Disabling Hyper-V can resolve this issue.
@@ -28,22 +32,20 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
  Luckily, you can disable Hyper-V in Windows 11 with the help of the classic Windows Features dialog, Command Prompt, and PowerShell.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why You May Need to Disable Hyper-V
 
  By design, only one virtualization tool can use the integrated virtualization extension, such as Intel VT-x and AMD-V, available on your processor. If you need to use third-party virtualization software, including VMware WorkStation and Virtual Box, you must disable the Hyper-V Hypervisor.
 
  You may also need to disable other hypervisor-dependent features, including Device Guard, Credential Guard, and memory integrity feature part of Core Isolation in Windows Security.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Check if Hyper-V Is Running on Windows 11
 
 ![System information hyper has been detected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/system-information-hyper-has-been-detected.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  You can access the System Information app to determine if the Hyper-V virtualization is running. This is useful if you need to verify the Hyper-V hypervisor status after or before disabling it.
 
  To check the Hyper-V hypervisor status on your computer:
@@ -55,14 +57,9 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 4. If yes, you'll need to disable Hyper-V, Memory integrity, and the Credential Guard feature, as discussed below, to use other virtualization tools without any error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Disable Hyper-V via Windows Optional Features
 
  The [Windows Features dialog lets you add additional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) disabled by default in Windows 11\. You can also use it to disable some advanced features, including Hyper-V.
@@ -83,17 +80,20 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 2. Uncheck the **Hyper-V** option to disable the feature.  
 ![Windows features dialog disable Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Windows-features-dialog-disable-hyper-v.jpg)
 3. Next, scroll down and locate the **Virtual Machine Platform** and **Windows Hypervisor Platform** options.  
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Windows features dialog disable virtual machine platform windows hypervisor platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Windows-features-dialog-disable-virtual-machine-platform-windows-hypervisor-platform.jpg)
 4. Unselect both options and click **OK**.
 5. Windows will uninstall Hyper-V and other features from your system.
 6. Once done, restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Disable Hyper-V Using BCDEDIT
 
 ![Disable Hyper-V command prompt BCDedit tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-command-prompt-bcdedit-tool.jpg)
@@ -128,8 +128,9 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
  After the restart, you can run your games and other hypervisors without the error. If not, open the Windows Features dialog, disable the **Virtual Machine Platform** and **Windows Hypervisor Platform** options, and restart your PC to turn off Hyper-V Hypervisor.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Disable Hyper-V Using PowerShell
 
 ![Powershell disable Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/powershell-disable-hyper-v.jpg)
@@ -144,9 +145,9 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 5. Wait for the process to complete. Once done, close PowerShell and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Uninstall the Hyper-V Virtual Network Adapter
 
  During the restart following the uninstallation of Hyper-V, you may frequently encounter the message, "We couldn't complete the updates, undoing changes." To resolve this issue, ensure the Hyper-V virtual network adapters are deleted from your PC. You can delete the virtual network adapter from Device Manager.
@@ -159,21 +160,12 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 4. If no virtual adapters associated with Hyper-V are listed, click **View** and select **Show hidden devices.**  
 ![device manager show hidden devices windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/device-manager-show-hidden-devices-windows-11.jpg)
 5. Right-click on the **Hyper-V Virtual Ethernet Adapter** and select **Uninstall device**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Do not remove the **Microsoft Wi-Fi Direct Virtual Adapter.**
 6. Click **Uninstall** to confirm the action.  
 ![Uninstall Hyper-V virtual adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/uninstall-hyper-v-virtual-adapter.jpg)
 7. Repeat the steps to delete all the virtual network adapters associated with Hyper-V.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 8. Once done, close Device Manager and restart your PC. Next, uninstall Hyper-V and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## How to Turn Off Virtualization-Based Security (Memory Integrity)
 
  If you encounter the Hyper-V detected issue even after you disable Hyper-V, try to disable the Memory integrity feature in Windows Security. The Memory integrity feature is part of Core Isolation. It helps prevent hackers from accessing and infecting high-security processes using malicious code.
@@ -186,9 +178,11 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 2. In the left pane, click on the **Privacy & security** tab.  
 ![Privacy and security Windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/privacy-and-security-windows-security.jpg)
 3. Next, click on **Windows Security**.
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Under the **Protection areas** section, click on **Device security.**  
 ![Windows 11 privacy and security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Windows-11-privacy-and-security.jpg)
 5. Next, click on **Core isolation details** under the **Core isolation** section.  
@@ -196,13 +190,7 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 6. Toggle the switch under **Memory integrity** to turn it **Off**.  
 ![Windows 11 core isolation memory integrity turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-11-core-isolation-memory-integrity-off.jpg)
 7. Restart your PC to apply the changes.
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Disable Device Guard and Credential Guard
 
  Device Guard and Credential Guard don't play well with other virtualization software, including VMware Workstation. You may encounter an error saying Device Guard/Credential Guard is enabled when trying to power on the VMware Workstation.
@@ -221,6 +209,10 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![Windows registry editor Lsa subkey create New value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-registry-editor-lsa-subkey-create-new-value.jpg)
 5. To create a new key, right-click the **Lsa** subkey in the left pane and select **New < DWORD (32-bit)** **value**. Rename the value as **LsaCfgFlags**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Next, double-click on **LsaCfgFlags** and type **0** in the **Value data** field.  
 ![Windows registry editor Lsa subkey value 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-registry-editor-lsa-subkey-value-0.jpg)
 2. Click **OK** to save the changes.
@@ -232,6 +224,10 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![Windows registry editor device guard subkey value 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-registry-editor-device-guard-subkey-value-0.jpg)
 6. Click **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer to apply the changes and disable Device Guard and Credential Guard. If you ever need to enable these features, modify the value data and change it to **1**.
 
 ## Disable Hyper-V in Windows 11 to Run Third-Party Virtualization Tools and Apps
@@ -240,11 +236,33 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
  Fortunately, you can easily disable the Hyper-V Hypervisor and other Virtualization-based Security solutions to use third-party hypervisors without errors.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>[Updated] 2024 Approved Top Voice Modification Tools Essential Choices for VTuber Creators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-inexpensive-pcs-mastering-best-obs-arrangements-for-2024/"><u>[Updated] Inexpensive PCs Mastering Best OBS Arrangements for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-elevating-audio-rates-on-youtube-dual-device-approach/"><u>2024 Approved Elevating Audio Rates on YouTube Dual Device Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-virtual-cache-step-by-step-guide-w11/"><u>Clear Virtual Cache: Step by Step Guide W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-secure-hiccups-a-guide/"><u>Correcting Windows Secure Hiccups: A Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-techniques-for-combining-mp4-footage-into-one-file/"><u>Effortless Techniques for Combining MP4 Footage Into One File</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-roblox-error-262-in-minutes/"><u>Eliminate Roblox Error 262 in Minutes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-webcam-camera-error-code-0xa00f4289-in-windows-10-and-11/"><u>How to Fix the Webcam Camera Error Code 0xA00F4289 in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-the-looks-like-youre-stranded-error-in-xbox-app/"><u>How to Stop the 'Looks Like You’re Stranded' Error in Xbox App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-a2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi A2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-print-settings-an-essential-tool-overview/"><u>Mastering Windows Print Settings: An Essential Tool Overview</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-the-seas-of-sponsorships-a-youtubers-playbook/"><u>Navigating the Seas of Sponsorships A Youtuber's Playbook</u></a></li>
+<li><a href="https://win-best.techidaily.com/rescuing-files-after-windows-1011-reimaging-comprehensive-instructions/"><u>Rescuing Files After Windows 10/11 Reimaging: Comprehensive Instructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-upgrade-failure-0xc1900101/"><u>Resolving Windows 11 Upgrade Failure #0xC1900101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-folder-security-on-windows-10-with-group-policies/"><u>Setting Up Folder Security on Windows 10 with Group Policies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-art-of-captivating-your-online-audience-for-2024/"><u>The Art of Captivating Your Online Audience for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-best-screen-recorders-perfect-for-windows-11-your-ultimate-guide/"><u>Top 10 Best Screen Recorders Perfect for Windows 11 - Your Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-system-failures-due-to-inadequate-intel-graphic-specs/"><u>Troubleshooting System Failures Due to Inadequate Intel Graphic Specs</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728497299877-windowspc/"><u>WindowsPC用：削除済みファイルを簡単に回復する方法が４つ！</u></a></li>
+</ul></div>
+

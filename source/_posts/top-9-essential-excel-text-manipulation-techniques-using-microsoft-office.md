@@ -1,7 +1,7 @@
 ---
 title: Top 9 Essential Excel Text Manipulation Techniques Using Microsoft Office
-date: 2024-08-28T01:07:07.118Z
-updated: 2024-08-29T01:07:07.118Z
+date: 2024-12-05T18:54:12.380Z
+updated: 2024-12-06T22:37:54.247Z
 tags:
   - excel
 categories:
@@ -54,8 +54,9 @@ Related: [How to Quickly and Easily Change Case in Excel 2013 Using a Function](
 ![PROPER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ProperFunction-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove Spaces: TRIM
 
  You may have extra spaces in the text that you want to remove. The [TRIM function](https://graphic-issues.techidaily.com/regaining-access-to-nvidia-writable-displays/) takes care of eliminating spaces without manual work.
@@ -75,17 +76,9 @@ Related: [How to Quickly and Easily Change Case in Excel 2013 Using a Function](
 ![TRIM cell reference in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TrimCell-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
 
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  Compare Text Strings: EXACT
 
  Maybe you have two cells containing text that you want to compare and see if they [match exactly](https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/). Appropriately named, the EXACT function comes to the rescue.
@@ -106,18 +99,16 @@ Related: [How to Use the XLOOKUP Function in Microsoft Excel](https://android-tr
 
 ![EXACT with False due to upper case letters](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ExactFalseCaps-ExcelTextFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  In our final example, the result is False once more. The text in cell B1 has spaces that the text in cell A1 does not.
 
 ![EXACT with False due to spaces](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ExactFalseSpaces-ExcelTextFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Locate Text Within a String: FIND
 
  If you want to find specific text within another string of text, you can use the FIND function. Keep in mind that the function is case-sensitive and does not use wildcards.
@@ -132,6 +123,10 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 
 ![FIND function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Find-ExcelTextFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To find the letter F in cell A1 beginning with the fourth character, you would use this formula:
 
 =FIND("F",A1,4)
@@ -139,6 +134,10 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
  The result here is 6 because that is the character position for first capital F after the fourth character.
 
 ![FIND with an instance](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindInstance-ExcelTextFunctions.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Replace Existing Text Using a Position: REPLACE
 
@@ -161,9 +160,6 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 ![REPLACE text at the beginning](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReplaceBeginning-ExcelTextFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Here's another example for that product ID. Using this formula, we can change the eighth and ninth characters in the string "QR" with "VV."
 
 =REPLACE(A1:A5,8,2,"VV")
@@ -171,6 +167,10 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
  To break this one down, `A1:A5` is our cell range, `8` is the position of the first character to replace, `2` is the number of characters to replace, and `VV` is the new text.
 
 ![REPLACE text at the end](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReplaceEnd-ExcelTextFunctions.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Substitute Current With New Text: SUBSTITUTE
 
@@ -184,6 +184,10 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 ![SUBSTITUTE a name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SubstituteName-ExcelTextFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To change "Location 1, Quarter 1" to "Location 1, Quarter 2" in cell A1, you would use this formula:
 
 =SUBSTITUTE(A1,"1","2",2)
@@ -193,11 +197,9 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 ![SUBSTITUTE a number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SubstituteNumber-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Combine Text: CONCAT
 
  One final function you may find helpful when working with text is CONCAT. This function helps you [join text](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/) from multiple strings or locations into one string, or [add to currently existing text](https://buynow-reviews.techidaily.com/a-comprehensive-review-top-long-reach-routers-dominating-the-market-in-ebytes/).
@@ -218,9 +220,6 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 ![CONCAT with a prefix](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ConcatAdd-ExcelTextFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Here you have Mr. with a space in the first set of quotes, the first cell reference, another space within quotes, and the second cell reference.
 
  Hopefully these Excel text functions help you manipulate your text in less time and with less effort.
@@ -231,8 +230,6 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +237,23 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-mp4mpeg-audio-extraction-tool-for-2024/"><u>[New] MP4/MPEG Audio Extraction Tool for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-insta-metrics-top-strategies-for-highlight-optimization/"><u>[Updated] In 2024, Mastering Insta Metrics Top Strategies for Highlight Optimization</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfected-audio-for-windows/"><u>[Updated] Perfected Audio for Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-seamless-audio-switch-from-srt-to-xmlssa-guide-for-2024/"><u>[Updated] Seamless Audio Switch From SRT to XML/SSA Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-eyeball-enticer-titan-master/"><u>2024 Approved Eyeball Enticer Titan Master</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-security-with-new-passwords-in-windows-11/"><u>Enhance Security with New Passwords in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-unique-launcher-tools-for-windows-applications/"><u>Exploring Unique Launcher Tools for Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-crashes-maintaining-stability-of-windows-epic-launcher/"><u>Fix Crashes: Maintaining Stability of Windows Epic Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-regularity-of-access-control-on-win11/"><u>Guide to Regularity of Access Control on Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-turning-onoff-windows-10s-touch-keyboard-feature/"><u>Guide: Turning On/Off Windows 10'S Touch Keyboard Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-rated-asmr-gear-high-quality-priced-right/"><u>In 2024, Top-Rated ASMR Gear High Quality, Priced Right</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/live-speech-recognition-mastery-with-whisper/"><u>Live Speech Recognition Mastery with Whisper</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-s-top-video-editors-for-4k-proxy-files-a-comprehensive-guide/"><u>New 2024 Approved S Top Video Editors for 4K Proxy Files A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-conversion-of-mobile-to-desktop-android-webcams-in-windows-11/"><u>Seamless Conversion of Mobile to Desktop: Android Webcams in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-devices-strengthening-passcodes-in-windows-11-and-11/"><u>Securing Devices, Strengthening Passcodes in Windows 11 and 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-customizing-display-options-for-windows-11-users/"><u>Step-by-Step Tutorial on Customizing Display Options for Windows 11 Users</u></a></li>
+</ul></div>
 

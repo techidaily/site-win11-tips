@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Identify & Eliminate Null Space on Your PC Drive
-date: 2024-11-24T16:13:02.505Z
-updated: 2024-11-27T18:16:09.851Z
+date: 2024-11-30T20:29:39.866Z
+updated: 2024-12-06T20:19:15.423Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 ![Going to the Options Menu by Clicking on the Three Horizontal Dots in the Right End of the File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/1-going-to-the-options-menu-by-clicking-on-the-three-horizontal-dots-in-the-right-end-of-the-file-explorer-menu.jpg)  
  When using Windows 10, select the**File** menu and click**Options** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Go to the**View** tab in the**Folder** **Options** window and check the box for**Show hidden files, folders, and drives** .  
 ![Checking the Circle for Show Hidden Files Folders and Drives in Folder Options Window of File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-checking-the-circle-for-show-hidden-files-folders-and-drives-in-folder-options-window-of-file-explorer.jpg)
 
@@ -59,11 +55,16 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | select FullName | Out-GridView`  
 ![Locating Empty Folders by Running a Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-locating-empty-folders-by-running-a-command-in-windows-powershell-app.jpg)
 4. PowerShell will display all empty subfolders within that folder in a few seconds. Be patient if it takes a while.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Successfully Locating All Empty Folders and Subfolders Using Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-successfully-locating-all-empty-folders-and-subfolders-using-windows-powershell-app.jpg)
 5. Look over the list of empty folders PowerShell displays and determine whether they are safe to delete. When you are sure you want to delete these empty folders, enter the following command after adding the target folder path at its respective location:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | remove-item`  
@@ -78,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
  Therefore, if you want more control over finding and deleting empty folders on your Windows device, you will have to use third-party tools. In the next section, we will demonstrate how you can do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Find and Delete Empty Folders Using Third-Party Software
 
  While the method discussed above will work in most cases, it requires more manual input and gives less control over deleting specific empty folders. To keep things more straightforward and less time-consuming, you can use third-party software to clean your device.
@@ -95,9 +92,18 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 5. Check the boxes for all drives or folders you want to scan (except the one where your operating system is installed).  
 ![Checking the Boxes for Drives or Folders to Scan in the Empty Folder Cleaner Software on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/8-checking-the-boxes-for-drives-or-folders-to-scan-in-the-empty-folder-cleaner-software-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. When you have selected the drives and folders you want to scan for empty folders, click on the**Scan** button in the top-left corner.  
 ![Viewing the Empty Files and Folders Found After Scanning the Selected Folders in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/9-viewing-the-empty-files-and-folders-found-after-scanning-the-selected-folders-in-empty-folder-cleaner-software.jpg)
 2. Depending on how much data you're scanning, the app may take a while. Wait until the scan is complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Upon completion of the scan, you will see a list of empty folders that have been found on your device. You can view them either as a list or as a tree.
 4. Check the boxes for empty folders you wish to delete or select all empty folders by clicking**Select All** .  
 ![Checking the Boxes for All Empty Files and Folders by Clicking on Select All Button in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/10-checking-the-boxes-for-all-empty-files-and-folders-by-clicking-on-select-all-button-in-empty-folder-cleaner-software.jpg)
@@ -106,14 +112,10 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 ![Deleting All Empty Files and Folders by Clicking on the Yes Button in the Warning Pop-up in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/11-deleting-all-empty-files-and-folders-by-clicking-on-the-yes-button-in-the-warning-pop-up-in-empty-folder-cleaner-software.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There is no doubt that Empty Folder Cleaner makes deleting empty folders on Windows devices incredibly simple. Despite its ease of use, it remains a third-party software. Even though it has a good reputation, you should still be aware of security risks when using it, especially when allowing it to scan confidential documents.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Don't Let Empty Folders Clog Up Your Device's Organization
 
@@ -136,17 +138,15 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-precision-scheduling-for-peak-performance-a-guide-to-slack-filmora-meetings/"><u>[New] 2024 Approved Precision Scheduling for Peak Performance A Guide to Slack-Filmora Meetings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-simplifying-social-media-sharing-from-tiktok-to-fb/"><u>[New] 2024 Approved Simplifying Social Media Sharing From TikTok to FB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-fusing-inboxes-linking-your-gmail-with-outlook-on-windows/"><u>Efficiently Fusing Inboxes: Linking Your Gmail with Outlook on Windows</u></a></li>
-<li><a href="https://win-tips.techidaily.com/elevate-your-experience-benefits-and-steps-for-upgrading-windows-10-home-to-pro-edition/"><u>Elevate Your Experience: Benefits and Steps for Upgrading Windows 10 Home to Pro Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-driver-tools-for-performance-the-ultimate-5-guide/"><u>Essential Driver Tools for Performance: The Ultimate 5 Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/from-silence-to-symphony-adding-audio-elements-to-instareels-for-2024/"><u>From Silence to Symphony Adding Audio Elements to InstaReels for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-pro-max-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 Pro Max to iPad? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-itel-p55-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Itel P55 5G Lock Screen Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-utorrent-connection-issues-windows-fix-guide/"><u>Overcoming uTorrent Connection Issues: Windows Fix Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-your-pc-from-haltinng-during-fortnite-expert-tips-for-a-smooth-gameplay-2024-solutions/"><u>Stop Your PC From Haltinng During Fortnite: Expert Tips for a Smooth Gameplay (2024 Solutions)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocked-connection-top-6-tactics-to-solve-non-functional-network-hardware-in-pcs/"><u>Unblocked Connection: Top 6 Tactics to Solve Non-Functional Network Hardware in PCs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editor-for-macos-easy-video-creation-tool/"><u>Video Editor for macOS Easy Video Creation Tool</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-transform-overload-into-order-with-skillful-tiktok-saves-edits/"><u>[Updated] Transform Overload Into Order with Skillful TikTok Saves Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edges-steady-presence-insight-for-win11-users/"><u>Edge's Steady Presence: Insight for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-win11s-sticky-features-a-multi-device-approach/"><u>Harnessing WIN11'S Sticky Features: A Multi-Device Approach</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-verify-your-bitcoin-btc-wallet-balance-using-a-blockchain-analyzer-insights-from-yl-computing/"><u>How to Verify Your Bitcoin (BTC) Wallet Balance Using a Blockchain Analyzer - Insights From YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-get-clear-coffee-stain-free-images-using-ioss-free-app/"><u>In 2024, Get Clear, Coffee Stain-Free Images Using iOS's Free App</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-syncing-with-serenity-listening-to-podcasts-on-iphone/"><u>In 2024, Syncing With Serenity Listening to Podcasts on iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-visual-filmmaking-aids-go-green-no-money/"><u>In 2024, Visual Filmmaking Aids Go Green, No Money</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-for-streamlining-the-windows-11-taskbar-experience/"><u>Top Tips for Streamlining the Windows 11 Taskbar Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-a-high-performance-touchscreen-laptop-expert-ratings-and-thorough-testing-by-zdnet/"><u>Ultimate Guide to Choosing a High-Performance Touchscreen Laptop: Expert Ratings & Thorough Testing by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-friendly-guide-convert-mkv-to-mp4-quickly/"><u>Win-Friendly Guide: Convert MKV to MP4 Quickly</u></a></li>
 </ul></div>
 

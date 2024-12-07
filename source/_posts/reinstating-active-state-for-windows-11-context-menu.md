@@ -1,7 +1,7 @@
 ---
 title: Reinstating Active State for Windows 11 Context Menu
-date: 2024-08-28T01:12:48.987Z
-updated: 2024-08-29T01:12:48.987Z
+date: 2024-11-29T22:00:49.211Z
+updated: 2024-12-06T20:09:50.890Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,14 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 ![The Windows Explorer process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-process.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan Your PC With System File Checker and Deployment Image Servicing Management
 
  Corrupted system files can be a cause for menus not displaying correctly in Windows. So, we recommend users run system image and file scans when the context menu isn’t working right.
@@ -35,16 +43,17 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Deactivate Tablet Mode (for Windows 10)
 
  The context menu loses functionality when Windows 10 is in Tablet Mode. So, check whether you've inadvertently set your PC to Tablet Mode. Our [turning off Windows 10’s tablet mode](https://www.makeuseof.com/turn-off-tablet-mode-windows-10/) provides details about how to disable that mode via the Action Center.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Change the "Remove File Explorer" Context Menu Policy Setting
 
  The Windows Group Policy has a "Remove File Explorer" setting that disables the desktop’s right-click menu when enabled. If you’re a Windows Pro or Enterprise user, check that policy to see if it is enabled and disable it if it is.
@@ -61,9 +70,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 7. Select the policy’s **Not Configured** radio button.  
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/not-configured-radio-button.jpg)
 8. Click **Apply** to set the policy change.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9. Select **OK** to exit the Remove File Explorer’s default context menu window.
 
 ## 5\. Create a NoViewContextMenu Registry DWORD
@@ -92,16 +103,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Now delete all subkeys within the **ContextMenuHandlers** key except **New**, **Sharing**, **WorkFolders**, and **FileSyncEx**. To do so, right-click a subkey and select **Delete**.  
 ![The Delete registry key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-delete-option.jpg)
 3. Click **Yes** when prompted to provide confirmation.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 4. Repeat the previous two steps to erase the other subkeys in **ContextMenuHandlers**, but do not delete **WorkFolders**, **FileSyncEx**, **New**, and **Sharing**.  
 ![The ContextMenuHandlers key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/contextmenuhandlers-key.jpg)
 5. Exit Registry Editor and select to restart your Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Update Your Mouse’s Driver
 
  The mouse is the peripheral with which users activate the context menu. Although not an especially likely cause, it’s possible your context menu isn’t working because your mouse’s driver is faulty or outdated. So, try updating the driver for your mouse. We have a guide about [finding and replacing old device drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) that provides details for how you can apply this potential fix.
@@ -109,9 +114,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![A mouse driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-download-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Incidentally, you check if the context menu not working is a mouse issue by utilizing the hotkey for that menu. Try pressing the **Shift** \+ **F10** hotkey when on the desktop to see if that opens the context menu. Or select a desktop shortcut and press that keyboard shortcut. If the context menu works then, there could be an issue with your mouse or its right button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform a Clean Boot
 
@@ -123,9 +133,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  When you’ve set the clean boot, restart Windows and right-click on the desktop to see if the context menu works ok. If it does, then it’s probably better to leave the boot configuration as set. However, you can try to identify what program or service was causing the issue by gradually re-enabling disabled startup apps and services until the context menu stops working again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Disable Third-Party Context Menu Shell Extensions With CCleaner
 
  You can also directly select to turn off third-party shell extensions included in the startup that might be causing context menu issues with CCleaner. So, try turning off superfluous context menu add-ons with that software as follows:
@@ -136,18 +143,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 4. Select **Install** to add the software with default installation settings.  
 ![The Install option for CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-button.jpg)
 5. Open CCleaner and click its **Tools** tab.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Click the **Startup** and **Context Menu** tabs.
 7. Look at the Program column to identify third-party shell extensions listed there.  
 ![The Context Menu tab in CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-context-menu-tab-in-cccleaner.jpg)
 8. Select third-party shell extensions and click **Disable** to turn them off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Get the Desktop Context Menu Fixed With These Resolutions
 
  The troubleshooting methods above are quite thorough and will likely resolve most Windows context menu issues. Lots of users have been able to fix the context menu not working by applying the registry tweak solutions.
@@ -156,11 +161,31 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Although desktop context menu access is seldom essential, it offers handy shortcuts, especially when you've customized it. So, it’s important to fix the desktop context menu when it’s not working. If your Windows desktop context menu isn’t functioning right, try applying the troubleshooting methods below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-turning-horizons-into-heights-uploading-videos-to-igtv/"><u>[New] 2024 Approved Turning Horizons Into Heights Uploading Videos to IGTV</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-discover-snapchats-biggest-drawings-and-effects-for-2024/"><u>[New] Discover Snapchat's Biggest Drawings & Effects for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-create-memes-for-free-with-the-meme-maker-tools/"><u>2024 Approved Create Memes for Free with the Meme Maker Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-video-perfection-a-comprehensive-strategy-for-seamless-subtitle-and-cc-integration-on-youtube/"><u>2024 Approved Video Perfection A Comprehensive Strategy for Seamless Subtitle & CC Integration on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-recycle-bin-malfunctions-in-win-11/"><u>Eradicating Recycle Bin Malfunctions in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-considerations-why-you-should-think-twice-about-relying-on-chatgpt-for-emotional-support/"><u>Essential Considerations: Why You Should Think Twice About Relying on ChatGPT for Emotional Support</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extensive-review-the-hero4-black-journey-for-2024/"><u>Extensive Review The Hero4 Black Journey for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-isdonedll-failures-in-windows-11-and-11x/"><u>How to Rectify ISDone.dll Failures in Windows 11 and 11X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unveiling-the-process-precision-recording-of-roblox-adventures-on-apple-devices/"><u>In 2024, Unveiling the Process Precision Recording of Roblox Adventures on Apple Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965877641-intel-optane-driver-updates-for-windows-made-easy-step-by-step-instructions-inside/"><u>Intel Optane Driver Updates for Windows Made Easy – Step-by-Step Instructions Inside</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-f15-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy F15 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-0x80070141-device-unreachability-issue/"><u>Overcoming Windows 0X80070141 Device Unreachability Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/temporarily-unable-to-access-heres-how-to-restore-functionality-to-windows-smartscreen-filter/"><u>Temporarily Unable To Access? Here's How to Restore Functionality to Windows SmartScreen Filter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathfinders-guide-crafting-intelligent-folder-labels-on-windows-11/"><u>The Pathfinder's Guide: Crafting Intelligent Folder Labels on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-reviving-cursor-color-in-bios/"><u>Troubleshooting: Reviving Cursor Color in BIOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-solving-the-root-of-iomap64-bsod-errors/"><u>Understanding and Solving the Root of IOMap64 BSOD Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unsignatured-drivers-on-windows-how-to-bypass-sie/"><u>Unsignatured Drivers on Windows: How to Bypass SIE</u></a></li>
+</ul></div>
+

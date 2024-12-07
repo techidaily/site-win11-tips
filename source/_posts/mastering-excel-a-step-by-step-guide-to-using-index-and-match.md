@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel: A Step-by-Step Guide to Using INDEX and MATCH"
-date: 2024-08-28T01:06:57.797Z
-updated: 2024-08-29T01:06:57.797Z
+date: 2024-12-03T19:52:15.621Z
+updated: 2024-12-06T20:25:44.606Z
 tags:
   - excel
 categories:
@@ -32,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
  Microsoft goes on to say that if your sheet isn't set up in a way where VLOOKUP can help you find what you need, you can use INDEX and MATCH instead. So let's look at how to use INDEX and MATCH in Excel.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  INDEX and MATCH Function Basics
 
  To use these functions together, it's important to understand their purpose and structure.
@@ -51,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![INDEX function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/INDEX-ExcelINDEXandMATCH.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The result is 20,745 because that's the value in the fourth position of our cell range.
 
  For more details on the Array and Reference Forms of INDEX as well as other ways to use this function, take a look at our how-to for [INDEX in Excel](https://youtube-help.techidaily.com/in-2024-the-full-course-on-becoming-a-yt-creator-expert/).
@@ -71,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 Related: [How to Find a Value's Position With MATCH in Microsoft Excel](https://extra-guidance.techidaily.com/mirthful-missions-delving-into-the-goofy-movie-vhs-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ##  How to Use INDEX and MATCH in Excel
 
  Now that you know what each function does and its syntax, it's time to put this dynamic duo to work. Below, we'll use the same data as above for INDEX and MATCH individually.
@@ -98,8 +96,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![INDEX and MATCH for a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/INDEXMATCHG5-ExcelINDEXandMATCH.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here's an example using an actual value instead of a cell reference. We'll look for the value (sales) for a specific city with this formula:
 
 =INDEX(D2:D8,MATCH("Houston",B2:B8))
@@ -111,8 +110,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![INDEX and MATCH for text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/INDEXMATCHHouston-ExcelINDEXandMATCH.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To obtain that same result by using the location ID instead of the city, we simply change the formula to this:
 
 =INDEX(D2:D8,MATCH("2B",A2:A8))
@@ -122,8 +122,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![INDEX and MATCH for text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/INDEXMATCH2B-ExcelINDEXandMATCH.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Basic functions in Excel](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) like those that help you [add numbers](https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-instagrams-policies-a-musicians-legal-primer/) in cells or [enter the current date](https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-redmi-note-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/) are certainly helpful. But when you start adding more data and advancing your data entry or analysis needs, lookup functions like INDEX and MATCH in Excel can be quite useful.
 
 Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/)
@@ -134,8 +135,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +142,18 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-chuckle-crafting-tool/"><u>[New] In 2024, Chuckle Crafting Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-inspire-business-identity-utilize-free-logo-templates-and-modify-endlessly-for-2024/"><u>[Updated] Inspire Business Identity Utilize Free Logo Templates & Modify Endlessly for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-hidden-treasure-troves-of-snapchat-tones-for-2024/"><u>[Updated] Unveiling the Hidden Treasure Troves of Snapchat Tones for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-hilarious-youtube-moments-top-10-quirky-short-film-concepts/"><u>2024 Approved Hilarious YouTube Moments Top 10 Quirky Short Film Concepts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows109/"><u>高性能ブルーレイソフトウェアランキング：Windows10で最も推奨される有料および無料選9点</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-11-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 11 Pro How to Bypass?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-inverted-keystroke-correction-on-pcs/"><u>Mastering Inverted Keystroke Correction on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-win-friendly-video-coders-reasoned/"><u>Selecting Win-Friendly Video Coders Reasoned</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209873592-9780954528089-soul-completion/"><u>Soul Completion | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-sync-for-dual-desktops-mastering-file-coordination-via-aoemi/"><u>Streamlined Sync for Dual Desktops: Mastering File Coordination via AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-component-services-tool-essentials/"><u>Unraveling Windows Component Services Tool Essentials</u></a></li>
+</ul></div>
 

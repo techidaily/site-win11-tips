@@ -1,7 +1,7 @@
 ---
 title: Printing Excel Sheets Made Easy - How to Show Gridlines with Row/Column Labels
-date: 2024-08-28T01:08:47.442Z
-updated: 2024-08-29T01:08:47.442Z
+date: 2024-12-04T22:51:38.530Z
+updated: 2024-12-06T22:08:05.008Z
 tags:
   - excel
 categories:
@@ -27,58 +27,54 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015
 
 ![01_clicking_page_layout_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/01_clicking_page_layout_tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the “Sheet Options” section, select the “Print” check box under “Gridlines” so there is a check mark in the box.
 
 ![02_selecting_print_under_gridlines](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/02_selecting_print_under_gridlines.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The “Print Gridlines” option applies only to the current workbook and is set separately for each worksheet in your workbook. The state of the option (on or off) for each worksheet is saved with the workbook.
 
  You can also [change the color of the gridlines](https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-pova-5-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Print Row and Column Headings
 
  By default, Excel doesn’t print the row and column headings you see on the screen. However, you can choose to do so.
 
 ![03_row_and_column_headings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/03_row_and_column_headings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open the desired workbook and click the tab at the bottom for the worksheet for which you want to print row and column headings.
 
 ![04_selecting_a_sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/04_selecting_a_sheet.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the “Page Layout” tab, if it’s not already the active tab.
 
 ![05_clicking_page_layout_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/05_clicking_page_layout_tab.png) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the “Sheet Options” section, select the “Print” check box under “Headings” so there is a check mark in the box.
 
 ![06_selecting_print_under_headings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/06_selecting_print_under_headings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  Just like the “Print Gridlines” option, the “Print Headings” option only affects the currently active worksheet in the current workbook. To print row and column headings for other worksheets in your workbook, select each worksheet and turn on this option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Troubleshooting
 
  If gridlines don't appear in the print preview or the resulting printout, you probably have the "Draft quality" enabled for your printer. This mode is designed to save ink, so it omits things like the gridlines.
@@ -91,8 +87,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +94,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-deity-command-for-windows-context-menu/"><u>Crafting a Deity Command for Windows Context Menu</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creating-the-ultimate-home-pc-for-professional-video-editors/"><u>Creating the Ultimate Home PC for Professional Video Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/demystifying-srt-to-sub-clear-practical-solutions-for-2024/"><u>Demystifying SRT to SUB Clear, Practical Solutions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-and-employing-themes-from-the-microsoft-store/"><u>Integrating and Employing Themes From the Microsoft Store</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-overcoming-windows-os-obs-problems/"><u>Quick Guide: Overcoming Windows OS OBS Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-roblox-availability-correcting-windows-user-restrictions/"><u>Reestablishing Roblox Availability: Correcting Windows User Restrictions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-driver-released-despite-ongoing-tasks/"><u>Resolved: Driver Released Despite Ongoing Tasks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+</ul></div>
 

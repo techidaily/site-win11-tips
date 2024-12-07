@@ -1,7 +1,7 @@
 ---
 title: How to Convert Mp3 Files Into Audible CDs Using the Power of Windows and ImgBurn
-date: 2024-08-23T07:09:07.900Z
-updated: 2024-08-24T07:09:07.900Z
+date: 2024-12-02T18:31:19.917Z
+updated: 2024-12-06T23:46:35.380Z
 tags:
   - windows10
   - windows11
@@ -69,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
  Place an "empty" CD in your CD writer, and prepare to burn some music.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## How to Make a Cue File
 
  The music on Audio CDs is stored in sequence, track after track. In the realm of CD writing, that sequence is called the "CUE," from the popular CUE & BIN format combination. Think of it as a playlist for a media player, defining how tracks will be placed on the disc.
@@ -79,36 +76,26 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 1. To create such a CUE from a bunch of audio files with ImgBurn, choose**Create CUE File** from the app's**Tools** menu.  
 ![ImgBurn Tools Create CUE File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-tools-create-cue-file.jpg)
 2. Drag and drop your audio files from a file manager on ImgBurn's**Create CUE File** window. You'll see them in serialized sequence inside the**Layout** part of ImgBurn's window.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ImgBurn Creating the CUE list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-list.jpg)
 3. If you want to remove a file from your Audio CD, select it in the**Layout** and click on the button with the**red "X"** on the right. Audio CDs can hold up to 70 minutes of audio. If your files add up to more, you should remove some of them, or ImgBurn won't be able to write them on an Audio CD.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-![ImgBurn Creating the CUE Removing Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-removing-files.jpg)
-4. You can use the**arrow buttons** on the right of the window to change the placement of files in the CUE sequence.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ImgBurn Creating the CUE Changing Sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-changing-sequence.jpg)
-5. Most Audio CD Players will display information about the playing track on their screen. You can choose what they should show from the**CD-TEXT** section under the**Track Options** . If you don't want to enter information for your music manually, go for either**File Name** or**Tag** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
-![ImgBurn Creating the CUE CD TEXT Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-cd-text-options.jpg)
-6. Enable the option**Add To Write Queue When Done** on the bottom left of ImgBurn's window. Then, click on OK to save your CUE file and have it "forwarded" to the CD writing section of the app.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ImgBurn Creating the CUE Add to Write Queue When Done](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-add-to-write-queue-when-done.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ImgBurn Creating the CUE Removing Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-removing-files.jpg)
+4. You can use the**arrow buttons** on the right of the window to change the placement of files in the CUE sequence.  
+![ImgBurn Creating the CUE Changing Sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-changing-sequence.jpg)
+5. Most Audio CD Players will display information about the playing track on their screen. You can choose what they should show from the**CD-TEXT** section under the**Track Options** . If you don't want to enter information for your music manually, go for either**File Name** or**Tag** .  
+![ImgBurn Creating the CUE CD TEXT Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-cd-text-options.jpg)
+6. Enable the option**Add To Write Queue When Done** on the bottom left of ImgBurn's window. Then, click on OK to save your CUE file and have it "forwarded" to the CD writing section of the app.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![ImgBurn Creating the CUE Add to Write Queue When Done](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-add-to-write-queue-when-done.jpg)
+
 ## How to "Burn" Your Music Onto a CD
 
  When back at ImgBurn's main interface, you can now have the app convert on-the-fly and write your music to an Audio CD.
@@ -118,14 +105,29 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. If you have more than one optical disc writing device on your PC, select the correct one under**Destination** .  
 ![ImgBurn Select Writing Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-select-writing-device.jpg)
 3. Turn your attention to the bottom right of ImgBurn's writing window. Change the**Write Speed** under**Settings** to 4x or even lower for optimal results.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ImgBurn Choose Writing Speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-choose-writing-speed.jpg)
 4. Click on the large button on the bottom left of ImgBurn's writing window to start the burning process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ImgBurn Burn Media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-burn-media.jpg)
 5. ImgBurn's main window will "morph" again to show you the writing process progress. Your Audio CD will be ready when the bar under**Complete** fills up. Depending on your settings and hardware, your CD tray may eject when the writing completes.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ImgBurn Writing Progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-writing-progress.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Listen to Music the Retro Way With ImgBurn
 
@@ -133,14 +135,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  With CDs restricted to around 70 minutes of audio, you must prioritize, think, and plan. To choose the tracks that matter the most. To carefully consider the melodies and lyrics that are more appropriate for an event, a mood, or a state of mind.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +148,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-video-mastery-unlocked-the-top-5-online-techniques-to-shorten-vimeo-content/"><u>[Updated] Video Mastery Unlocked The Top 5 Online Techniques to Shorten Vimeo Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-paint-your-posts-brightly-instagrams-triple-highlight-strategies/"><u>2024 Approved Paint Your Posts Brightly Instagram's Triple Highlight Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-reducing-your-stress-levels-a-guide/"><u>ChatGPT's Role in Reducing Your Stress Levels: A Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/engaging-audiences-making-popular-youtube-shorts-for-2024/"><u>Engaging Audiences Making Popular YouTube Shorts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-app-guard-graphics-in-windows-11-os/"><u>Enhancing App Guard Graphics in Windows 11 OS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-flawless-visual-balance-aspect-ratios-matter/"><u>In 2024, Achieving Flawless Visual Balance Aspect Ratios Matter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-failed-logon-lockout-period-for-win1011/"><u>Modifying Failed Logon Lockout Period for Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-window-no-problem-revive-off-screen-apps-with-6-easy-fixes-for-win-1011/"><u>No Window, No Problem! Revive Off-Screen Apps with 6 Easy Fixes for Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/phoenix-revival-atlasos-for-vintage-setup/"><u>Phoenix Revival: AtlasOS for Vintage Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-print-conflicts-in-windows-1011/"><u>Resolving Print Conflicts in Windows 10/11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/temporal-trials-inverting-and-rewinding-your-vids-on-iphone/"><u>Temporal Trials Inverting and Rewinding Your Vids on iPhone</u></a></li>
+</ul></div>
 

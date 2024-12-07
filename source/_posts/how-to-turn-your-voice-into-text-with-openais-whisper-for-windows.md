@@ -1,7 +1,7 @@
 ---
 title: How to Turn Your Voice Into Text With OpenAI’s Whisper for Windows
-date: 2024-08-28T01:10:53.829Z
-updated: 2024-08-29T01:10:53.829Z
+date: 2024-12-03T21:06:59.211Z
+updated: 2024-12-06T22:33:33.543Z
 tags:
   - windows10
   - windows11
@@ -58,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633
 `pip3 install python-ffmpeg`  
 ![pip install python ffmpeg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip-install-python-ffmpeg.jpg)
 3. Finally, install Whisper from its Github page with:  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 `pip3 install git+https://github.com/openai/whisper.git`
 
 ## Getting Whisper's CUDA-Enabled Version
@@ -80,9 +77,6 @@ To have Whisper use the CUDA cores of your Nvidia GPU:
 `whisper --help | findstr -i pytorch`  
  You should see**(default: cuda)** instead of**(default: cpu)** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## What to Do if Torch Fails to Install
 
  If you encounter the "no version found" errorwhile installing torch, you may need to install an older version of Python parallel to your current one.
@@ -96,15 +90,15 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 ![choco install python alternate version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choco-install-python-alternate-version.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, use the path of the secondary version for all "generic" Whisper commands (e.g., "c:\\Python310\\Scripts\\pip.exe" rather than just "pip").
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Record Your Voice
 
  You can use any sound-recording app to turn your voice into a WAV or MP3 file. Windows includes such an app—for more info on that, see[how to use the Windows 10 Voice Recorder app](https://www.makeuseof.com/how-to-use-the-windows-10-voice-recorder-app/) .
@@ -112,6 +106,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  For a more full-featured option, try**Audacity** . Learn how to do it with our guide on[how to use Audacity to record audio on Windows and Mac](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/) .
 
 ![Recording voice with Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/recording-voice-with-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Start Transcribing With Whisper
 
@@ -126,9 +124,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 `whisper --model base --language gr --task translate LatestNote.mp3`  
 ![Whisper translate gr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/whisper-translate-gr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  Once processed, the text file (named "LatestNote.mp3.txt") will appear in the same folder. Open it in a text editor like**Notepad** to view the translated text.
 
  We used a translation example because English transcription is even more straightforward: you only have to "lose" the "--language" and "-task" flags. Thus, for plain transcription, the above command would be:
@@ -153,9 +148,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![whisper model small](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/whisper-model-small.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  To select one of them, specify the model after the "--model" switch in the command:
 
 `whisper --model tiny/small/medium/large [file]`
@@ -173,14 +165,26 @@ For example:
 3. In the Windows Start menu, search for "path" and select**Edit the system environment variables** .  
 ![Windows Start Edit The System Environment Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-start-edit-the-system-environment-variables.jpg)
 4. Find the**Path** variable under**User variables for YOUR\_USERNAME** . Double-click on it to edit it. Click on**New** , and paste the path to your scripts folder. Click on**OK** to accept the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Environment Variables User Account Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/environment-variables-user-account-path.jpg)
 5. Return to your scripts folder in Windows Explorer. Create a new batch file there named "wht.bat". "Inside" it, place this command:  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 `whisper --model tiny --language en %1`  
 ![Creating WHT Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-wht-batch-file.jpg)
 6. Create two more batch files, "whs" and "whm".
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Place this inside the first script:  
 `whisper --model small --language en %1`
 8. Place this inside the second:  
@@ -194,8 +198,9 @@ For example:
 `wht YOUR_AUDIO_FILE.mp3`
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Typing at the Speed of Sound With Whisper
 
  Even the quickest touch-typists can't match the speed at which we speak. However, until recently, talking instead of typing wasn't optimal for creating documents.
@@ -204,14 +209,11 @@ For example:
 
  After the steps above, you should be ready to transcribe or translate your voice with high accuracy, using only a single command.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -220,4 +222,23 @@ For example:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-metaverse-and-omniverse-distinctions/"><u>[Updated] Exploring the Metaverse and Omniverse Distinctions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-social-media-giant-to-premium-format-mastering-insta-to-mp4-2-ways/"><u>[Updated] From Social Media Giant to Premium Format Mastering Insta-to-MP4 2 Ways</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-embrace-the-synergy-streaming-fb-videos-through-your-apple-device/"><u>2024 Approved Embrace the Synergy Streaming FB Videos Through Your Apple Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directdraw-breakdown-fixes-for-win11-and-beyond/"><u>DirectDraw Breakdown: Fixes for Win11 and Beyond</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-steps-transforming-your-youtube-videos-into-high-quality-mp3-files/"><u>Easy Steps: Transforming Your YouTube Videos Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-video-ram-in-windows-11-pro/"><u>Enhancing Video RAM in Windows 11 Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-comparative-study-of-vsdc-vs-best-video-recorders/"><u>In 2024, Comparative Study of VSDC vs Best Video Recorders</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-anglers-selection-leading-fishing-cameras-ranked/"><u>In 2024, Prime Anglers' Selection Leading Fishing Cameras Ranked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-microphone-sound-heres-the-windows-google-meet-solution/"><u>Lost Microphone Sound? Here's the Windows Google Meet Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k20-fixes-resolving-the-game-crashing-problems-swiftly/"><u>NBA 2K20 Fixes: Resolving the Game-Crashing Problems Swiftly!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-ntoskrnlexes-heavy-cpu-footprint/"><u>Reducing Ntoskrnl.exe's Heavy CPU Footprint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-the-foundation-for-win-11-security-upgrades/"><u>Setting the Foundation for Win 11 Security Upgrades</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/syncing-tiktok-creativity-across-chrome-android-ios-for-2024/"><u>Syncing TikTok Creativity Across Chrome, Android, iOS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-11-home-settings/"><u>The Ultimate Guide to Windows 11 Home Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-guide-switching-gpu-disabled-state/"><u>Windows Guide: Switching GPU Disabled State</u></a></li>
+</ul></div>
 

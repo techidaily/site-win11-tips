@@ -1,7 +1,7 @@
 ---
 title: Insider Look at Opened Windows Content
-date: 2024-08-28T01:09:51.109Z
-updated: 2024-08-29T01:09:51.109Z
+date: 2024-11-29T17:21:22.543Z
+updated: 2024-12-07T01:31:38.989Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
  In this article, we'll discuss how to see the recently opened files on Windows, when they were modified the last time, and how to recover them if they have been deleted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to See Recently Opened Files on Windows
 
  Windows offers two ways to view recently opened files; using Quick Access or the Recent Items folder.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
  In most cases, Quick Access displays the recently opened files in File Explorer; however, there are times when it breaks and stops showing them. If that's the case for you, check out our article on[fixing Quick Access when it doesn't show recent files](https://www.makeuseof.com/windows-11-fix-quick-access-not-showing-recent-files/) .
 
  If you cannot fix the Quick Access to show recently opened files or want to do a deeper analysis of recently opened items, you can check recently opened items in the Recent Items folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View Recently Opened Items in the Recent Items Folder
 
@@ -58,19 +66,19 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 3. Click on the parameter you wish to sort the files by.  
 ![Sorting the Files or Folders by Clicking on the Sort By Option in the Context Menu of the File in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Sorting-the-Files-or-Folders-by-Clicking-on-the-Sort-By-Option-in-the-Context-Menu-of-the-File-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 4. If you cannot find the parameter you want to sort the items by, click on the**More...** button in the**Sort by** menu, check the box for the detail you wish to sort the data by, and click**Ok** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to View Recently Opened Files for Specific Apps on Windows
 
  Although most apps allow users to view recently opened files within the app, Windows also keeps track of recently opened files in most cases.
@@ -81,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
 ![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to See Recently Opened Files Removed From Quick Access
 
  Quick Access is an access point that lets you access recently closed files quickly. Therefore, even if you or someone you share the computer with removes the files from Quick Access, they don't get deleted from their original location. You can still access the recently closed files in the main Recent Items folder using the same steps we explained earlier.
@@ -99,27 +104,22 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 ![Restoring Previous Version of Windows Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Restoring-Previous-Version-of-Windows-Folder-in-Windows-File-Explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Access Recently Opened Files With Ease
 
  Recently opened files give us a quick overview of which files have been worked on by you or someone else recently. We hope our guide made it easy for you to access recently opened files in Quick Access and the Recent Items folder.
 
  If someone deletes files from the Recent Items folder after using them, you can try restoring them with our solution. If you succeed, you're all set; otherwise, you'll have to resort to third-party recovery software.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +128,26 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-story-stream-sequencer-app/"><u>[New] In 2024, Story Stream Sequencer App</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-behind-the-scenes-youtube-live-thumbnail-secrets/"><u>[Updated] Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comment-resoudre-les-problemes-de-fichiers-dans-windows-11-solutions-et-conseils-pour-un-systeme-fluide/"><u>Comment Résoudre Les Problèmes De Fichiers Dans Windows 11 : Solutions Et Conseils Pour Un Système Fluide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-group-policies-on-single-user-profiles-in-windows-11-and-11/"><u>Customizing Group Policies on Single User Profiles in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-workspace-microsofts-ai-copilot-takes-over-the-windows-11-taskbar/"><u>Elevate Your Workspace: Microsoft's AI Copilot Takes Over the Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-disk-operations-in-windows/"><u>Fixing Steam Disk Operations in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-play-7t-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor Play 7T.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-retrieve-flawless-copyright-free-images-for-2024/"><u>How to Retrieve Flawless, Copyright-Free Images for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-cut-to-quality-perfecting-videos-with-enhancer-22/"><u>In 2024, Cut to Quality Perfecting Videos with Enhancer 2.2</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intriguing-indulgences-the-ultimate-list-of-websites-for-puzzling-boxes/"><u>In 2024, Intriguing Indulgences The Ultimate List of Websites for Puzzling Boxes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-insiders-guide-to-finesse-and-control-on-insta-stories/"><u>In 2024, The Insider's Guide to Finesse and Control on Insta Stories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-bluetooth-listings-in-device-controller/"><u>Re-Establish Bluetooth Listings in Device Controller</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-microsoft-store-steps-to-fixes-in-windows-11/"><u>Reclaim Your Microsoft Store: Steps to Fixes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-playnite-experience-through-emulator-addition/"><u>Streamlining Your Playnite Experience Through Emulator Addition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/super-user-tools-in-windows-interface-features/"><u>Super User Tools in Windows' Interface Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-windows-chronosphere-time-unification-tactics/"><u>Sync Windows Chronosphere: Time Unification Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-gets-a-lifeline-with-annual-patches-beyond-initial-release/"><u>Windows 11 Gets a Lifeline With Annual Patches Beyond Initial Release</u></a></li>
+</ul></div>
 

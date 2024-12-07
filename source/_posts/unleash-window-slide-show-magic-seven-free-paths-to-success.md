@@ -1,7 +1,7 @@
 ---
 title: Unleash Window Slide Show Magic - Seven Free Paths to Success
-date: 2024-08-23T07:08:29.448Z
-updated: 2024-08-24T07:08:29.448Z
+date: 2024-12-04T22:30:57.256Z
+updated: 2024-12-07T00:23:35.255Z
 tags:
   - windows10
   - windows11
@@ -60,18 +60,6 @@ his is how you can set up a screensaver slideshow in Windows 11:
 2. Select the**Albums** tab.  
 ![The Albums tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/albums-tab.jpg)
 3. Click**New album** to select images within Photos to include in your slideshow. You can click the**Import** \>**From folder** options to select images you can’t find within the Photos app.
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Press the**Create** button to set up the album.  
 ![The Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/the-create-button.jpg)
 5. Select the album you just set up in Photos.
@@ -79,8 +67,9 @@ his is how you can set up a screensaver slideshow in Windows 11:
 ![The slideshow option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/slideshow-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Set Up a Slideshow With Video Editor
 
  Video Editor is an app that’s like an expansion to Photos. That app enables its users to set up photo video slideshows with different themes and background music. Here are the steps for creating a slideshow clip for your favorite snapshots in Video Editor:
@@ -91,25 +80,38 @@ his is how you can set up a screensaver slideshow in Windows 11:
 4. Press the**New video project** button.  
 ![The New video project button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/new-video-project-button.jpg)
 5. Enter a title for your clip, and click the**OK** option.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
 1. Click**\+ Add** \>**From this PC** to select some images for the slideshow. Then select**Open** to add them.
 2. Drag image thumbnails from the project library onto the slides at the bottom of the**My Slideshow** tab.  
 ![The My Slideshow tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/photo-slides.jpg)
 3. Check all the slides' checkboxes, and right-click one to select**Duration** . Then input a value to set how long the slideshow displays all the images before changing.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Duration option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/duration-option.jpg)
 4. You can add captions to specific images by right-clicking them and selecting**Edit** \>**Text** option. Enter a caption in the text box, select a font, and click**Done** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Text caption options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/caption-text-options.jpg)
 5. To add some sound, click the**Background music** option. Then choose an audio scheme, and press the**Done** button.
 6. Click the three-dot button at the top right of Video Editor to select**Themes** . Select a theme to set for the slideshow and click**Done** .  
 ![The Themes option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/themes-option.jpg)
 7. Press the**Finish video** button.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Select an option on the**Video quality** drop-down menu, and click the**Export** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Set Up a Slideshow With Google Photos
 
@@ -121,18 +123,17 @@ his is how you can set up a screensaver slideshow in Windows 11:
 4. Click the**Create album** option.  
 ![The Create album option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/create-album-option.jpg)
 5. Enter an album title, and press the**Add photos** button.
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Choose some photographs, and click the**Done** button.
 7. Select your new album in Google Photos.
 8. Click the**More options** (three-dot) button to select**Slideshow** .  
 ![The Slideshow option in Google Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/the-slideshow-option.jpg)
 9. Your album slideshow will now play in full-screen mode. Click the left and right arrows to flick through your images.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. How to Set Up a Slideshow With Google Slides
 
  Slides is a presentation web app of the G Suite you can also utilize with a Google Account. That app includes much more extensive options for setting up photo slideshows with different layouts, transition effects, animations, and captions than Google Photos. These are the steps for setting up a basic image slideshow with Slides:
@@ -145,8 +146,9 @@ his is how you can set up a screensaver slideshow in Windows 11:
 ![The Blank slide option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/blank-slide-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 1. Select**Blank** to add an empty slide.
 2. Repeat steps five and six to add as many slides as you need for your photo slideshow.
 3. Then select a blank slide to add an image to and click**Insert** .
@@ -160,21 +162,21 @@ his is how you can set up a screensaver slideshow in Windows 11:
 3. To add a slideshow transition effect, click the**Transition** button. Then choose a transition on the drop-down menu, and select the**Apply to all slides** option.  
 ![The transition effect options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/apply-to-all-slides-option.jpg)
 4. You can also add captions to slides by clicking the**Text box** option. Position your box at the bottom or top of the slide, and enter a photo description in it.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A text box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/text-box.jpg)
 5. Click the**Slideshow** button to view the presentation.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Your presentation gets automatically saved within Slides. However, you can save it to a hard drive by clicking**File** \>**Download** and choosing Microsoft PowerPoint (or alternative) file format.
 
  Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our[how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. How to Set Up a Slideshow With Windows Media Player
 
  Windows Media Player is old software with which you can play music and video and view images. That software still comes included with Windows 11, and you can set up basic image slideshows with WMP as it catalogs pictures in your user folder. This is how you can create image slideshows with Windows Media Player:
@@ -193,13 +195,14 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
 ![Selected slideshow images in Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/pictures-in-windows-media-player.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now select your Image Slideshow playlist in Windows Media Player, which will include the photo files you’ve added to it. Click the**Play** button to start the slideshow. Windows Media Player will then display play a basic slideshow that flicks through the images in it at about five-second intervals. If WMP doesn’t automatically show the slideshow, click the**Switch to Now Playing** option.
 
 ![A slideshow image in Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-slideshow-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Who Needs Third-Party Photo Slideshow Software?
 
  So, it’s hardly essential to install third-party slideshow software in Windows 11 when you can show off your favorite pics with the methods above. Windows 11’s built-in desktop and screensaver slideshow features and Google Photos are ok for showcasing basic image collections. You can set up more advanced photography slideshows that incorporate variable transition effects, background music, audio narrative, and text captions with Video Editor and Google Sheets.
@@ -210,8 +213,6 @@ his is how you can set up a screensaver slideshow in Windows 11:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +220,23 @@ his is how you can set up a screensaver slideshow in Windows 11:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtube-shorts-tutorial-crafting-compact-engaging-videos/"><u>[New] 2024 Approved YouTube Shorts Tutorial Crafting Compact, Engaging Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphoneandroid-stabilization-elite-photo-tripods/"><u>[New] IPhone/Android Stabilization Elite Photo Tripods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-say-laughs-say-free-mememakers-tutorial/"><u>[New] Say Laughs, Say Free - MemeMaker's Tutorial</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-non-playing-youtube-content-fixed-for-phonestablets/"><u>[Updated] Non-Playing YouTube Content Fixed for Phones/Tablets</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/conversione-libera-online-da-webm-a-ogv-con-movavi/"><u>Conversione Libera Online: Da WebM a OGV Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-slick-methods-to-access-your-windows-assistants/"><u>Five Slick Methods to Access Your Windows Assistants</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-se-2020-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone SE (2020)? 5 Tips You Must Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-the-10-windows-restore-paths/"><u>Mastering Quick Access: The 10 Windows Restore Paths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-remove-stubborn-software-in-windows-11/"><u>Methods to Remove Stubborn Software in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-correcting-windows-error-403-on-roblox/"><u>Navigating and Correcting Windows Error 403 on Roblox</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/picsnapper-app-testimonials-and-feedback/"><u>PicSnapper App Testimonials & Feedback</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-rhythm-revelations-audio-and-actors-dance-for-2024/"><u>Rapid Rhythm Revelations Audio and Actors' Dance for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-custom-settings-with-new-view-restores/"><u>Reclaiming Custom Settings with New View Restores</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-unblocking-resources-in-windows-11/"><u>Strategies for Unblocking Resources in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-overcoming-windows-file-permission-errors/"><u>Ultimate Guide to Overcoming Windows File Permission Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unison-to-win-mastering-phone-calls-on-windows-11-for-retailers/"><u>Unison to Win: Mastering Phone Calls on Windows 11 for Retailers</u></a></li>
+</ul></div>
 

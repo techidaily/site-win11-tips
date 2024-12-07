@@ -1,7 +1,7 @@
 ---
 title: Tweaking FN Keys to Your Desired Effects on Windows 11
-date: 2024-11-24T17:53:24.073Z
-updated: 2024-11-27T16:46:42.036Z
+date: 2024-12-05T23:35:01.654Z
+updated: 2024-12-07T01:31:19.869Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5
 
  We have a detailed[guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Change the Function Key Settings Using the Mobility Settings on Dell Computers
 
  The easiest way to change function keys is by modifying settings within the Windows Mobility Center. This method, however, will only work for those of you using a Dell device.
@@ -47,22 +51,14 @@ Here is how to proceed:
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Modify the Function Keys Settings in the BIOS
 
@@ -84,6 +80,10 @@ Similarly, if you have an Acer device, follow these steps:
 2. Once you reach the BIOS screen, head over to the System Configuration Menu and click Enter in the Action Keys Mode option.
 3. Pick the desired mode and hit Exit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
  If you cannot boot into BIOS for some reason, try changing the Fn keys using UEFI settings. UEFI is basically BIOS on steroids, as it offers a bunch of additional functions and is more powerful.
@@ -95,10 +95,6 @@ Similarly, if you have an Acer device, follow these steps:
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
 If you are a Windows 11 user, follow these steps:
@@ -108,12 +104,21 @@ If you are a Windows 11 user, follow these steps:
 3. Finally, click on**Restart now** associated with Advanced startup.  
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
 
 1. In the following window, select**Troubleshoot** .
 2. Click on**UEFI Firmware Settings** \>**Restart** .  
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
@@ -125,10 +130,6 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -163,14 +164,24 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-brightening-gopro-footage/"><u>[New] Step-by-Step Guide to Brightening GoPro Footage</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-ipados-paint-the-creme-de-la-creation-apps/"><u>2024 Approved IPadOS Paint The Crème De La Création Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-rebound-crafters-tools/"><u>2024 Approved Rebound Crafters' Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-stealthy-introduction-to-unique-accessories-just-in-a-zdnet-review-reveals-the-charm-and-details/"><u>Apple's Stealthy Introduction to Unique Accessories Just In: A ZDNet Review Reveals the Charm and Details</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/laciewindows-10/"><u>LaCie外付けドライブがWindows 10で識別されないときの対策方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-hurdle-fixing-frozen-grammarly-app/"><u>Overcoming the Hurdle: Fixing Frozen Grammarly App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-eradicating-photo-failed-on-pc/"><u>Quick Guide: Eradicating Photo Failed on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-unaccessible-package-dilemma-in-windows-11-10/"><u>Remedying the 'Unaccessible Package' Dilemma in Windows 11, 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-system-repair-the-essence-of-chkdsk-and-sfc/"><u>Understanding System Repair: The Essence of CHKDSK & SFC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamline-screen-recording-with-these-windows-tools/"><u>[New] 2024 Approved Streamline Screen Recording with These Windows Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-starting-off-determining-your-creative-passion/"><u>[New] In 2024, Starting Off Determining Your Creative Passion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-leading-10-free-subtitle-editors-for-srt-files/"><u>[New] Unveiling Leading 10 FREE Subtitle Editors for SRT Files</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-melodies-with-a-twist-funny-tone-websites-listed/"><u>[Updated] 2024 Approved Melodies with a Twist Funny Tone Websites Listed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-rights-infringement-abrupt-content-elimination-for-2024/"><u>[Updated] Rights Infringement Abrupt Content Elimination for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-screen-capture-tools-explored-apowersoft-and-others-compared-for-2024/"><u>[Updated] Top Screen Capture Tools Explored - Apowersoft and Others Compared for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/converting-mp4-files-to-mov-format-using-vlc-a-step-by-step-guide/"><u>Converting MP4 Files to MOV Format Using VLC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-overcoming-windows-breakpoint-errors/"><u>Effective Strategies for Overcoming Windows' Breakpoint Errors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-moto-g84-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Moto G84 5G Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-emulator-add-ons-for-playnite-on-pc/"><u>Mastering Emulator Add-Ons for Playnite on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-teams-leap-towards-lightweight-efficacy/"><u>Microsoft Teams' Leap Towards Lightweight Efficacy</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-meme-maker-apps-for-android-and-ios-devices-for-2024/"><u>New Top Meme Maker Apps for Android and iOS Devices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-booting-the-non-operational-search-in-windows-11-settings/"><u>Re-Booting the Non-Operational Search in Windows 11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-classics-upgraded-videos-through-madvr-and-pcs/"><u>Redefine Classics: Upgraded Videos Through MadVR and PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-c-drive-filling-mystery-on-pcs/"><u>Reversing C: Drive Filling Mystery on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-windows-11-audio-capture/"><u>The Complete Guide to Windows 11 Audio Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tick-tock-files-masterful-methods-to-modify-file-times-in-win8/"><u>Tick-Tock Files: Masterful Methods to Modify File Times in Win8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-oculus-rift-into-a-windows-compatible-device/"><u>Transforming Oculus Rift Into a Windows-Compatible Device</u></a></li>
 </ul></div>
 

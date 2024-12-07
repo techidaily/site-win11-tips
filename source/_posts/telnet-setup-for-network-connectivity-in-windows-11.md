@@ -1,7 +1,7 @@
 ---
 title: Telnet Setup for Network Connectivity in Windows 11
-date: 2024-08-23T07:08:28.318Z
-updated: 2024-08-24T07:08:28.318Z
+date: 2024-12-01T22:50:02.752Z
+updated: 2024-12-06T17:09:08.573Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
  You can enable Telnet on Windows 10 and 11 computers via Command Prompt or the Graphics User Interface (GUI) tool. Here we show you the many ways to enable Telnet on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Telnet on Windows Using Control Panel
 
  You can enable Telnet Client using the Classic Control Panel. Since it is an optional feature, you can enable it using the Windows Optional Feature dialog. You can use it[add or remove other users' optional features on Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) .
@@ -31,8 +35,18 @@ To enable Telnet Client using Control Panel:
 3. In Control Panel, Click on**Uninstall a Program** under**Programs and Features.**  
 ![turn windows features on or off control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-windows-features-on-or-off-control-panel.jpg)
 4. In the left pane, click on the**Turn Windows feature on or off.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![enable telnet client windows features dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-windows-features-dialog.jpg)
 5. In the Windows Features dialog, scroll down and select**Telnet Client.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**OK** and wait for the feature to install. Once installed, restart your PC to apply the changes and enable the feature.
 
 If you need to disable Telnet:
@@ -40,6 +54,10 @@ If you need to disable Telnet:
 1. Open the**Windows Features** dialog and unselect**Telnet Client.**
 2. Click**OK** and wait for the feature to uninstall.
 3. Click on**Restart** now to reboot your PC and apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable Telnet Client Using Windows PowerShell
 
@@ -58,21 +76,10 @@ To enable Telnet using Windows PowerShell:
 `Disable-WindowsOptionalFeature -Online -FeatureName TelnetClient`
 6. Close PowerShell and restart your PC.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Install Telnet Client Using Command Prompt
 
 ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
 
 Follow these steps to install Telnet using Command Prompt:
@@ -87,48 +94,31 @@ Follow these steps to install Telnet using Command Prompt:
 6. Wait for the success message.
 7. Type**exit** and press**Enter** to close Command Prompt.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Check the Telnet Client Status on Your PC
 
 ![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
 
 1. Launch Command Prompt as administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for in-depth steps).
 2. In the Command Prompt window, type**Telnet** and press**Enter** .
 3. A new CMD with Microsoft Telnet will open.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## All the Ways to Enable Telnet On Your Windows 11 Computer
 
  Telnet is a built-in remote access utility that you can use to troubleshoot firewall and network issues. While it is still part of Windows, system administrators now prefer the more secure SSH protocol to access computers over an unsecured network.
 
  The major disadvantage of Telnet is that it is not secure and prone to a man-in-the-middle attack. If not for particular situations, switch to a more secure network protocol such as SSH and Mosh with better password and public key authentication.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +127,26 @@ Follow these steps to install Telnet using Command Prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-guide-to-disable-recommended-podcast-features-in-spotify-for-2024/"><u>[Updated] Guide to Disable Recommended Podcast Features in Spotify for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-instant-recording-shutdown-quicktime-hacks-for-2024/"><u>[Updated] Instant Recording Shutdown QuickTime Hacks for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-cutting-edge-screen-time-youtubes-top-movies-list/"><u>2024 Approved Cutting Edge Screen Time YouTube's Top Movies List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lgs-gaming-monitor-review-the-future-of-4k-freesync/"><u>2024 Approved LG’s Gaming Monitor Review - The Future of 4K FreeSync</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ssdwindows-t/"><u>不用重装：完成在SSD上映像Windows T窝法和二方案</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converting-gmail-to-outlook-mail-on-windows/"><u>Converting Gmail to Outlook Mail on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-11-camera-glitch-code-a00f4289/"><u>Correcting Windows 11 Camera Glitch Code A00F4289</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-essay-artistry-on-a-win-pc/"><u>Elevate Your Essay Artistry on a Win-PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-a-smooth-wsl-2-experience-with-docker-tools/"><u>Expert Tips for a Smooth WSL 2 Experience with Docker Tools</u></a></li>
+<li><a href="https://win-data.techidaily.com/fehlersuche-mit-sfc-scannow-entdeckt-beschadigte-dateien-wiederherstellung-fur-pc-nutzer/"><u>Fehlersuche Mit SFC Scannow: Entdeckt Beschädigte Dateien, Wiederherstellung Für PC-Nutzer.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017004317-how-to-restore-voice-chat-in-fortnite-a-step-by-step-guide/"><u>How to Restore Voice Chat in Fortnite - A Step-by-Step Guide!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/premier-platforms-for-game-casting-for-2024/"><u>Premier Platforms for Game Casting for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-pin-authenticate-error-on-windows-1110-devices/"><u>Quick Fix for Pin Authenticate Error on Windows 11/10 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/script-snafus-say-goodbye-with-these-windows-fixes/"><u>Script Snafus? Say Goodbye with These Windows Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-productivity-in-windows-with-these-top-apps/"><u>Skyrocket Your Productivity in Windows with These Top Apps</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-converting-pdf-files-to-word-documents-on-macos-mojave/"><u>Step-by-Step Guide: Converting PDF Files to Word Documents on macOS Mojave</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quickest-way-to-a-speedy-windows-11-start-up/"><u>The Quickest Way to a Speedy Windows 11 Start-Up</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/troubleshooting-common-dying-light-lagging-challenges-for-smooth-gaming/"><u>Troubleshooting Common Dying Light Lagging Challenges for Smooth Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-addressing-error-code-c0000005-in-windows/"><u>Unraveling and Addressing Error Code C0000005 in Windows</u></a></li>
+</ul></div>
 

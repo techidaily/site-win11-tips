@@ -1,7 +1,7 @@
 ---
 title: "Windows Firewall: A Complete Reboot Guide"
-date: 2024-11-20T17:18:53.226Z
-updated: 2024-11-27T16:10:49.069Z
+date: 2024-12-04T20:01:05.661Z
+updated: 2024-12-06T16:24:44.999Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,14 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 
 ![Clicking the Restore defaults option on the Windows Defender Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-defaults-option-on-the-windows-defender-firewall-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use the Command Prompt
 
  Ever used the Command Prompt before? It’s an incredible tool that helps you configure system settings, troubleshoot PC issues, and access various apps.
@@ -54,17 +62,9 @@ netsh advfirewall reset
 
  Wait for the process to complete. From there, restart your device to save these changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use Windows PowerShell
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Struggling to reset the firewall settings using the Command Prompt? If so, then try [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/).
 
@@ -93,11 +93,7 @@ netsh advfirewall reset
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the "Firewall with Advanced Security" Tool
@@ -116,7 +112,7 @@ netsh advfirewall reset
 ![Selecting the Restore Default Policy option on the Firewall with Advanced Security screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-restore-default-policy-option-on-the-firewall-with-advanced-secutiry-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Can’t access the “Windows Defender Firewall with Advanced Security” screen using the steps we’ve covered? Try these methods:
@@ -128,6 +124,10 @@ netsh advfirewall reset
 5. Click **Advanced settings** in the middle pane.
 
  From there, right-click on the **Windows Defender Firewall with Advanced Security on Local Computer** option and select the **Restore Default Policy** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restoring the Firewall Settings to Their Default Settings
 
@@ -150,18 +150,24 @@ netsh advfirewall reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/lear-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>[New] Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-creating-heartfelt-youtube-journeys/"><u>[Updated] In 2024, Creating Heartfelt YouTube Journeys</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-splitcam-verdict-unrivaled-camera-quality-or-not-in-2024/"><u>[Updated] SplitCam Verdict Unrivaled Camera Quality or Not, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-location-of-saved-wallpaper-image/"><u>Discovering Location of Saved Wallpaper Image</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-correct-windows-system-insight-tracking/"><u>Ensuring Correct Window's System Insight Tracking</u></a></li>
-<li><a href="https://fox-that.techidaily.com/finding-your-absent-iphone-a-step-by-step-guide-with-the-find-my-feature/"><u>Finding Your Absent iPhone: A Step-by-Step Guide with the 'Find My' Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-missing-desktop-icons-on-windows-10-fix-and-guide/"><u>How to Recover Missing Desktop Icons on Windows 10 (Fix & Guide)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-funniest-memes-to-download-iphone/"><u>In 2024, Funniest Memes to Download (iPhone)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/learn-fastest-ways-to-adjust-auditory-properties-on-windows-11/"><u>Learn Fastest Ways to Adjust Auditory Properties on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-rufus-overriding-tpm-and-secure-boot-in-win11/"><u>Mastering Rufus: Overriding TPM & Secure Boot in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-methods-with-dism-for-system-restoration/"><u>Proven Methods with DISM for System Restoration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrected-systems-the-ultimate-guide-of-13-system-recovery-tips/"><u>Resurrected Systems: The Ultimate Guide of 13 System Recovery Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/transitioning-personal-brand-how-to-alter-your-name-on-facebook/"><u>Transitioning Personal Brand: How to Alter Your Name on Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-path-to-stunning-hdr-portraits/"><u>[New] The Ultimate Path to Stunning HDR Portraits</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-video-to-gif-seamless-process-for-vimeo-content/"><u>[Updated] From Video to GIF Seamless Process for Vimeo Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-relive-facebooks-yesteryears-instructions-for-digital-devices/"><u>[Updated] How to Relive Facebook's Yesteryears - Instructions for Digital Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-perfect-timekeeping-a-guide-to-adding-timestamps-in-youtube-links/"><u>2024 Approved Perfect Timekeeping A Guide to Adding Timestamps in YouTube Links</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-win11s-color-changing-features/"><u>Configuring Win11's Color-Changing Features</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/differences-between-sonys-ps5-slim-model-and-full-sized-console/"><u>Differences Between Sony's PS5 Slim Model and Full-Sized Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-resolving-the-windows-0xc000012f-stop-error/"><u>Effortless Solutions: Resolving the Windows 0xC000012F Stop Error</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/effortless-steps-to-blur-distractions-in-google-meets/"><u>Effortless Steps to Blur Distractions in Google Meets</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-advanced-protection-into-windows-11s-edge-browser/"><u>Integrating Advanced Protection Into Windows 11'S Edge Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-your-customized-windows-mixer-levels/"><u>Keeping Your Customized Windows Mixer Levels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-size-changes-using-your-computers-keys-to-resize-software-in-win11/"><u>Navigating Size Changes: Using Your Computer's Keys to Resize Software in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-disabled-windows-update-issue/"><u>Overcoming the Disabled Windows Update Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-0x80860010-application-overload-trouble/"><u>Overcoming Windows' 0X80860010 Application Overload Trouble</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-download-of-realtek-alc-audio-drivers-compatible-with-windows-11/"><u>Quick Download of Realtek ALC Audio Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/screen-size-snafus-in-windows-how-to-correct-them/"><u>Screen Size Snafus in Windows: How to Correct Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-up-your-game-with-these-9-improvements-in-outlook-windows-edition/"><u>Step Up Your Game with These 9 Improvements in Outlook, Windows Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-readiness-enabling-tpm-secure-boot-pre-upgrade/"><u>Windows 11 Readiness: Enabling TPM, Secure Boot Pre-Upgrade</u></a></li>
 </ul></div>
 

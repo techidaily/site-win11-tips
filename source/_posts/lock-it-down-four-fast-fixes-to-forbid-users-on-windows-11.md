@@ -1,7 +1,7 @@
 ---
 title: "Lock It Down: Four Fast Fixes to Forbid Users on Windows 11"
-date: 2024-11-21T18:02:55.464Z
-updated: 2024-11-27T17:52:08.769Z
+date: 2024-12-02T00:14:44.452Z
+updated: 2024-12-06T21:05:44.164Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/2cb7f310cfa40bade9f97a206c11fec1a7936d92f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Disable a User Account in Windows Settings
 
  Windows allows the system administrator to manage user accounts on Windows 11\. Not only can you[add a local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) there, but you can also block sign-in to disable an account temporarily.
@@ -39,18 +35,27 @@ To disable user accounts via Settings:
 2. In the left pane, click on the**Accounts** tab.  
 ![windows 11 settings account family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-1.jpg)
 3. Next, in the right pane, scroll down and click on**Family** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under**Your family** , scroll down and click on the account you want to disable.  
 ![windows 11 settings account family block sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-block-sign-in-1.jpg)
 5. Next, click the**Block sign in** button and click**Block** in the confirmation dialog.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![windows 11 settings account family allow sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-allow-sign-in-1.jpg)
 6. If you need to enable the user account again, click the**Allow sign in** button and click**Allow** to confirm the action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that you must log in to your administrator account to make changes to user accounts. Also, you can only block sign-in for members of**Your family** in the Family groups from Settings. If you need to disable a local user account, you must use the PowerShell and Command Prompt methods below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Disable a User Account Using Windows PowerShell
 
@@ -90,6 +95,11 @@ To disable a user account using Command Prompt:
 4. Locate the user account name in the return list.  
 ![command prompt net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user.jpg)
 5. Next, type the following command to disable the specified user account:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `net user NewUser /active:no`
 6. In the above command, replace**NewUser** with the user account name you want to disable.  
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
@@ -97,10 +107,6 @@ To disable a user account using Command Prompt:
 8. If you need to enable the account again, execute the following command:  
 `net user NewUser /Active:yes`
 9. Make sure to replace NewUser with the account name you want to enable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable a User Account From the Computer Management Console
 
@@ -116,10 +122,6 @@ To disable a user account using Command Prompt:
 ![computer management local users groups users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users.jpg)
 4. Next, locate and select**Local Users and Groups.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select the**Users** folder**.**
 
 1. In the right pane, you can view all the user accounts on your PC.
@@ -128,10 +130,6 @@ To disable a user account using Command Prompt:
 3. In the**Properties** dialog, select the**Account is disabled** option.
 4. Click**Apply** and**OK** to save the changes.
 5. To enable the account gain, uncheck the**Account is disabled** option and click**Apply** and**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Disable User Account Using Local Users and Groups on Windows 11 Home
 
@@ -149,7 +147,11 @@ To disable a user account using Command Prompt:
 6. Click**Apply** and**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There Are Many Ways to Disable a User Account on Windows 11
@@ -173,18 +175,19 @@ To disable a user account using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-future-of-fitness-in-virtual-reality-walkers/"><u>[New] The Future of Fitness in Virtual Reality Walkers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-toolwiz-visualize-a-comprehensive-2023-evaluation-for-2024/"><u>[New] Toolwiz Visualize - A Comprehensive 2023 Evaluation for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-artisans-selection-best-photo-frame-software/"><u>[Updated] The Artisan's Selection Best Photo Frame Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/amplifying-online-presence-focusing-on-details/"><u>Amplifying Online Presence Focusing on Details</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-disk-usage-by-your-windows-software/"><u>Deciphering Disk Usage by Your Windows Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-dock-for-captured-images/"><u>Deciphering the Dock for Captured Images</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-portable-entertainment-in-hotels-and-dorms-using-roku-technology/"><u>Master Portable Entertainment in Hotels & Dorms Using Roku Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-hack-your-hr-tasks-5-essential-chatgpt-shortcuts-unveiled/"><u>Quick-Hack Your HR Tasks: 5 Essential ChatGPT Shortcuts Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-reinstating-notification-banners/"><u>Steps for Reinstating Notification Banners</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-battle-of-titans-detailed-breakdown-of-iphone-15-pro-max-against-samsungs-galaxy-s24-ultra/"><u>The Battle of Titans: Detailed Breakdown of iPhone 15 Pro Max Against Samsung's Galaxy S24 Ultra</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-user-data-the-guide-to-obtaining-sids-in-win11/"><u>Unlocking User Data: The Guide to Obtaining SIDs in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-against-chromes-sync-failures-your-windows-solution-guide/"><u>Win Against Chrome's Sync Failures: Your Windows Solution Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-guide-stabilizing-a-misbehaving-pointer/"><u>Win11 Guide: Stabilizing a Misbehaving Pointer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-and-compare-20plus-best-free-video-editors-for-ios-for-2024/"><u>[Updated] Explore and Compare 20+ Best Free Video Editors for iOS for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-revolutionary-tools-for-next-gen-streaming-experience-for-2024/"><u>[Updated] Revolutionary Tools for Next-Gen Streaming Experience for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-latest-in-video-capturing-apeaksoft-2023-edition-analysis/"><u>[Updated] The Latest in Video Capturing Apeaksoft 2023 Edition Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-proper-installation-of-windows-11/"><u>Ensuring Proper Installation of Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-the-variances-in-exe-and-standard-msis-designs/"><u>Explaining the Variances in EXE and Standard MSIs' Designs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-crashes-now-top-6-troubleshooting-tips-for-pcs/"><u>Fix Your Game Crashes Now: Top 6 Troubleshooting Tips for PCs</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-swiftly-navigate-ios-magnification-features/"><u>In 2024, Swiftly Navigate iOS Magnification Features</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-troubleshoot-invisible-hand-in-windows/"><u>Mouse Troubleshoot - Invisible Hand in Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-palworld-not-loading-problems-quickly-guide-and-tips/"><u>Resolving Palworld Not Loading Problems Quickly - Guide & Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-disabled-grammarly-functionality-in-windows-10/"><u>Tackling Disabled Grammarly Functionality in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-errors-during-win10win11-remote-access-attempts/"><u>Tackling Errors During Win10/Win11 Remote Access Attempts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-blinking-screens-in-win1011/"><u>Troubleshooting Blinking Screens in WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-a-guide-to-5-effective-window-folder-habits/"><u>Unleash Potential: A Guide to 5 Effective Window Folder Habits</u></a></li>
 </ul></div>
 

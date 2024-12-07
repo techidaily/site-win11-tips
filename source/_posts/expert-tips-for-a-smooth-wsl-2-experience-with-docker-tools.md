@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for a Smooth WSL 2 Experience with Docker Tools
-date: 2024-11-26T16:28:56.613Z
-updated: 2024-11-27T17:58:05.348Z
+date: 2024-11-30T17:00:14.518Z
+updated: 2024-12-07T01:24:37.901Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Docker?
 
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 ![Microservice architecture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microservice-architecture.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For software developers, Docker streamlines workflow by creating individual containers for different microservices that include the necessary dependencies, libraries, and configurations. Each microservice container is isolated and individually scalable.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 ![newly built image on docker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/newly-built-image-on-docker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows Subsystem for Linux (WSL) is a valuable feature that allows Windows users to run Linux distributions like Ubuntu and Kali without setting up a virtual machine or dual-boot.
@@ -75,13 +71,13 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
  To[set up VS Code with WSL 2 on Windows](https://www.makeuseof.com/how-to-set-up-vs-code-with-wsl-2-windows-10-11/) , you can configure the**WSL** extension from the VS Code Marketplace and get things going.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Utilize the WSL 2 File System
 
  To properly run your Docker containers, it's vital that you rely on the file system of your WSL 2 distro and not heavily depend on the native Windows file system. Throughout my experience of working with Docker containers on WSL 2, I’ve discovered it’s better to store your project files within WSL.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use Native Linux Scripts
 
@@ -100,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 `export DOCKER_BUILDKIT=1.`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Set Up Resource Limits
@@ -118,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
  You can recover all of the memory that is unnecessarily being utilized as a cache by running the following command via root in WSL 2:
 
 `echo 1 > /proc/sys/vm/drop_caches`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Smarter With WSL 2
 
@@ -138,20 +138,22 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-free-frameworks-amplify-your-youtube-vision/"><u>[New] Free Frameworks Amplify Your YouTube Vision</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-googles-enhanced-technique-for-flawless-speech-transcription/"><u>[New] Google's Enhanced Technique for Flawless Speech Transcription</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-trendsetting-techniques-going-viral-in-the-digital-world/"><u>[New] Trendsetting Techniques Going Viral in the Digital World</u></a></li>
-<li><a href="https://win-dash.techidaily.com/a-comprehensive-tutorial-revamping-ati-radeon-drivers-for-optimal-performance-in-windows/"><u>A Comprehensive Tutorial: Revamping ATI Radeon Drivers for Optimal Performance in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-windowsstore-folders-inaccessible-layers/"><u>Dissecting WindowsStore Folder's Inaccessible Layers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-conversion-of-3gp-files-to-wma-format-instantly-with-movavi/"><u>Free Conversion of 3GP Files to WMA Format - Instantly with Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-vivo-y27-4g-by-fonelab-android-recover-data/"><u>How to recover lost data from Vivo Y27 4G?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/subtle-scams-the-undisclosed-threats-in-affordable-windows-licenses/"><u>Subtle Scams: The Undisclosed Threats in Affordable Windows Licenses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-fix-isdonedll-glitches-in-w10-and-11/"><u>Tips to Fix ISDone.dll Glitches in W10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-and-resolve-hidden-5ghz-network-on-windows-11-here/"><u>Uncover and Resolve Hidden 5GHz Network on Windows 11 Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-the-scribe-within-windows-11-speech-mode/"><u>Unleash the Scribe Within: Windows 11 Speech Mode</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-13-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 13 using icloud website</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/web-experience-unleashed-creating-windows-programs-from-sites/"><u>Web Experience Unleashed: Creating Windows Programs From Sites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win10-pixel-perfect-discover-the-7-finest-artist-apps/"><u>Win10 Pixel Perfect: Discover the 7 Finest Artist Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-how-to-start-a-facebook-giveaway-post/"><u>[New] How to Start a Facebook Giveaway Post</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-year-of-gaming-earnings-revolutions/"><u>[New] The Year of Gaming Earnings Revolutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-video-clarity-adding-captions-on-youtube/"><u>[Updated] Unlock Video Clarity Adding Captions on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-boosting-zoom-clarity-the-guide-to-using-filters-wisely/"><u>2024 Approved Boosting Zoom Clarity The Guide to Using Filters Wisely</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-daily-video-size-summation-total-gb-cost/"><u>2024 Approved Daily Video Size Summation Total GB Cost</u></a></li>
+<li><a href="https://win11.techidaily.com/5-best-windows-counterparts-to-procreate-app/"><u>5 Best Windows Counterparts to Procreate App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-hide-a-drive-in-windows-1110/"><u>How to Hide a Drive in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-constant-techsign-in-issues-in-microsoft-teams/"><u>Navigating Constant TechSign In Issues in Microsoft Teams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-msie-0x80073d26-in-microsoft-store-on-windows-11/"><u>Overcoming MSIE 0X80073D26 in Microsoft Store on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-win11s-camera-not-recognized-problem/"><u>Resolving Win11's Camera Not Recognized Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-digital-world-insights-on-windows-11-changes/"><u>Revamping the Digital World: Insights on Windows 11 Changes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-login-correcting-invalid-captcha/"><u>Steam Login: Correcting Invalid CAPTCHA</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-frozen-context-items-on-windows-11-pc/"><u>Steps to Overcome Frozen Context Items on Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-improve-fps-and-reduce-lag-in-roblox-windows-edition/"><u>Strategies to Improve FPS & Reduce Lag in Roblox Windows Edition</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-rated-titles-discover-the-highest-ranked-apps-on-google-play/"><u>Top Rated Titles: Discover the Highest-Ranked Apps on Google Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-windows-update-9-hacks-to-sidestep-verification-slowdowns/"><u>Unleash Windows Update: 9 Hacks to Sidestep Verification Slowdowns</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveiling-youtube-pros-tubebuddys-edge-for-2024/"><u>Unveiling YouTube Pros TubeBuddy's Edge for 2024</u></a></li>
 </ul></div>
 

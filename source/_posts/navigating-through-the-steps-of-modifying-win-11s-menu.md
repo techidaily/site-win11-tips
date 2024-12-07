@@ -1,7 +1,7 @@
 ---
 title: Navigating Through the Steps of Modifying Win 11'S Menu
-date: 2024-08-28T01:10:27.550Z
-updated: 2024-08-29T01:10:27.550Z
+date: 2024-12-06T01:14:33.852Z
+updated: 2024-12-06T17:38:17.442Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,19 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 2. Repeat step five to add another new string to the **Menu1** key. However, enter **SubCommands** to be this new string’s name.  
 ![The Menu1 registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-menu1-key.jpg)
 3. Double-click the **MUIVerb** string added to the **Menu1** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Enter **Apps** in the **Value** box for the **MUIVerb** string, which will be the heading for your new context menu submenu. Or you can input a different submenu heading in the **Value data** box if preferred.  
 ![The MUIVerb string value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muiverb-string.jpg)
 5. Click **OK** to exit the Edit String window for **MUIVerb**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Next, double-click on the **SubCommand** string inside the **Menu1** key.
 7. Input **Notepad; Remote Desktop Connection** inside the **Value** box for the **SubCommands** string and click **OK**.  
 ![subcommands-string-value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/subcommands-string-value.jpg)
@@ -58,6 +68,11 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 `C:\Windows\System32\notepad.exe`  
 ![The Notepad path value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-notepad-path-value.jpg)
 10. Repeat steps two to five to create a **Remote Desktop Connection** key with a **command** subkey, as shown in the snapshot directly below. Instead of naming the key Notepad, input **Remote Desktop Connection** for the new key’s title.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Remote Desktop Connection and Notepad keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/notepad-and-remote-desktop-connection-keys.jpg)
 11. Double-click the **(Default)** string for the **Remote Desktop Connection** key you created.
 12. Input **Remote Desktop Connection** into the **Value** box and select **OK**.
@@ -103,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 ![The Easy Context Menu window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/easy-context-menu-window.jpg)
 9. Click **Apply Changes** to add the new submenu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now check out the new **Software Shortcuts** submenu on Windows 11’s classic desktop context menu. That cascading menu will include all the programs you selected to add to it. It will also include program icons, so long as you leave the **Show icon in the Context Menu** checkboxes selected.
 
 ![software-shortcuts-submenu2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu2.jpg)
@@ -114,8 +133,13 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 ![A Tools submenu added with Easy Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-tools-submenu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Organize Your Windows Desktop Context Menu Shortcuts With Submenus
 
  Adding one or more submenus to Windows 11’s desktop context menu will enable you to organize the software shortcuts added to it.
@@ -124,11 +148,31 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  If you add many shortcuts to that menu, organizing them into submenus is a good idea. Doing so will enable you to add more shortcuts without greatly extending the length of the classic context menu. This is how you can add new submenus to the Windows 11’s desktop context menu.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-music-playlist-creation-for-youtube-anywhere-webmobile-for-2024/"><u>[New] Effortless Music Playlist Creation for YouTube, Anywhere (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-guide-to-download-windows-movie-maker-60/"><u>[Updated] Full Guide to Download Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-edge-innovations-for-your-daily-life/"><u>2024 Approved Leading Edge Innovations for Your Daily Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-essential-errors-fixing-issues-in-win10win11/"><u>Eradicating 'Essential' Errors: Fixing Issues in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-full-capabilities-of-windows-snip-and-sketch-tool/"><u>Explore the Full Capabilities of Windows' Snip & Sketch Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-protect-your-windows-command-history/"><u>How to Protect Your Windows Command History</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/ideal-camera-and-recording-apps-for-iphone-and-android-smartphones-for-2024/"><u>Ideal Camera and Recording Apps for iPhone and Android Smartphones for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-windows-11-definers-guide/"><u>Immediate Windows 11 Definers Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-epic-battle-royale-thumbnails-done-fast/"><u>In 2024, Epic Battle Royale Thumbnails, Done Fast!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unveiling-the-world-of-alternative-augmented-reality-decorations/"><u>In 2024, Unveiling the World of Alternative Augmented Reality Decorations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/protouch-4k-uniscreen-hub-systems/"><u>ProTouch 4K UniScreen Hub Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shake-up-your-computing-experience-win-11s-non-native-tools/"><u>Shake Up Your Computing Experience: Win 11'S Non-Native Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-correcting-drivers-issues-for-your-hp-screen-in-microsofts-latest-and-older-os-versions-windows-1187/"><u>Step-by-Step Guide: Correcting Drivers Issues for Your HP Screen in Microsoft's Latest and Older OS Versions (Windows 11/8/7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11-tpm-obstacles-with-ease/"><u>Tackling Windows 11 TPM Obstacles with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-efficient-browsers-with-low-resource-impact-on-all-oses/"><u>Top Efficient Browsers with Low Resource Impact on All OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-the-0x8007251d-windows-error/"><u>Understanding and Resolving the 0X8007251d Windows Error</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Understanding Windows Update Classification
-date: 2024-11-23T18:00:54.308Z
-updated: 2024-11-27T17:09:48.674Z
+date: 2024-11-30T00:27:55.582Z
+updated: 2024-12-07T00:00:17.641Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Different Types of Windows Updates
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
  Here are some of the popular update types that you often see being offered by Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Quality Updates
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
  These updates target issues that might be resulting in compatibility issues within the system or affect the system’s stability by causing frequent crashes or BSODs. They are likely to contain fixes related to software, hardware, and driver problems that the system is facing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Feature Updates
 
  As the name suggests, feature updates introduce new functionality and features in the system. This can include a new setting in the system or a new app to improve your Windows experience.
@@ -73,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
  Feature updates can also contain security patches that address security vulnerabilities in the system. Microsoft may include some bug fixes to improve the stability and reliability of the current Windows version as well. However, these updates are typically larger in size and you are likely to need 3GB for the 64-bit or 2GB for the 32-bit version of free space to download and install these updates.
 
  Microsoft rolls out these updates every six months and initially, they are offered as optional updates that you must install manually using the Settings app. However, if your device with Windows installation is approaching the end of service, the system will download these updates automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Security Updates
 
@@ -94,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
  Windows also gives you the option to[manually update the drivers using the Device Manager](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) utility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding the Update Numbers
 
  Each update package and patch released by Microsoft is assigned an update number to manage it across different Windows versions. This update number typically consists of a series of digits that include the specific sequence number for the update and the month/year on which the update was released.
@@ -101,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 ![KB Number of Windows 11 Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/KB-Number-of-Windows-11-Update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The updates also include a development code name that specifies the year of release followed by the time. So if you are seeing a 22H2 update on your computer, it means that the update was released in the second half (H2) of the year 2022\. This information can be seen in the Version section of an update.
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
  This typically happens if the update you install is infected with bugs and vulnerabilities itself. The update can also conflict with the existing settings and configuration, leading to different issues and errors. In some cases, the updates you install can turn out to be incompatible with the hardware as well.
 
  If you encounter problems after installation, you can[uninstall the update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) or[roll back to an older Windows version](https://www.makeuseof.com/windows-reset-system-restore-difference/) to fix the issue. To minimize the risk of issues associated with updates, we recommend creating a backup of your important data before you begin installing updates. You can also install updates one at a time and monitor the system for issues while doing so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Making Sense of Update Names and Numbers
 
@@ -137,20 +137,22 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ubscriber-glory-the-play-button-and-accolades-for-maker/"><u>[New] Subscriber Glory The Play Button & Accolades for Maker</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-leading-edge-webcams-insiders-choice-in-windows-11/"><u>2024 Approved Leading Edge Webcams Insider's Choice in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-f04-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy F04 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-6s-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 6s is off? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/features-performance-and-verdict-reviewing-google-maps-for-ios/"><u>Features, Performance, and Verdict: Reviewing Google Maps for iOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-download-adobe-reader-from-the-microsoft-store/"><u>How to Download Adobe Reader From the Microsoft Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-recycle-bin-corrupted-error-on-windows-10-and-11/"><u>How to Fix a Recycle Bin Corrupted Error on Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-make-your-sd-card-visible-again-in-explorer/"><u>How to Make Your SD Card Visible Again in Explorer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-journey-through-the-metaverse-discovering-iconic-memes/"><u>In 2024, Journey Through the Metaverse Discovering Iconic Memes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-machine-enabling-admin-access/"><u>Master Your Machine: Enabling Admin Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-persistent-0x800f0831-error/"><u>Mastering the Art of Fixing Persistent 0X800F0831 Error</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-hot-40-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-extracting-youtube-subtitles-srt-for-2024/"><u>The Ultimate Guide to Extracting YouTube Subtitles (SRT) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/to-dot-automation-with-ifttt-triggers/"><u>To-Dot Automation with IFTTT Triggers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-your-sign-in-from-ease-of-use-with-pin-to-enhanced-security-with-passwords-in-windows-11/"><u>Transitioning Your Sign-In: From Ease of Use with PIN to Enhanced Security with Passwords in Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-immersive-stories-that-keep-you-watching-within-limit/"><u>[New] Immersive Stories That Keep You Watching (Within Limit)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-vlc-for-pc-and-mac-universal-media-solution/"><u>[New] In 2024, VLC for PC & Mac Universal Media Solution</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-into-every-detailed-detail-expert-strategies-to-record-immersive-sims-4-adventures/"><u>[New] Into Every Detailed Detail Expert Strategies to Record Immersive Sims 4 Adventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-disruptive-beatscape-best-rhythm-altering-tools-for-2024/"><u>[Updated] Disruptive Beatscape Best Rhythm Altering Tools for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-complete-guide-to-cashing-in-on-tiktok-in-8-steps/"><u>2024 Approved The Complete Guide to Cashing In on TikTok in 8 Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/affordable-choices-best-laptops-for-gamers-on-a-dime/"><u>Affordable Choices Best Laptops for Gamers on a Dime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-repairing-defrag-glitch-in-os/"><u>Diagnosing and Repairing Defrag Glitch in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reconnect-steam-in-windows-environment/"><u>How to Reconnect Steam in Windows Environment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screen-captures-on-an-hp-computer-system/"><u>Mastering the Art of Screen Captures on an HP Computer System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-nature-exceptional-weather-apps-for-windows-11/"><u>Navigating Nature: Exceptional Weather Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-login-problems-8-effective-solutions/"><u>Navigating Windows Login Problems: 8 Effective Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/office-upgrade-effortless-installation-in-windows-1011/"><u>Office Upgrade: Effortless Installation in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unknown-component-error-on-w11w10-os/"><u>Overcoming 'Unknown Component' Error on W11/W10 OS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-auditory-solutions-iphone-tunes-makers/"><u>Premier Auditory Solutions IPhone Tunes Makers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dpkgresourcelifecycleerror-how-to-correctly-resolve-dgbotdll-file-absent-issues/"><u>Solving the Dpkg_resource_lifecycle_error: How to Correctly Resolve dgBot.dll File Absent Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-enigma-of-endless-c-drive-usage/"><u>Solving The Enigma of Endless C: Drive Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-resolving-error-code-0xc00d36b4/"><u>Windows 11: Resolving Error Code 0xC00D36B4</u></a></li>
 </ul></div>
 

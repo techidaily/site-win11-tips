@@ -1,7 +1,7 @@
 ---
 title: Correcting the 'Install Failed' Disconnect for Win 11 Discord
-date: 2024-08-28T01:12:38.213Z
-updated: 2024-08-29T01:12:38.213Z
+date: 2024-12-04T17:43:38.922Z
+updated: 2024-12-07T01:46:38.684Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,14 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 
 ![The Download Public Test Build button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-public-test-build.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Windows Troubleshooter for Installing and Uninstalling Programs
 
  The Microsoft Program Install and Uninstall troubleshooter resolves issues blocking software installation by examining the registry. So, running the troubleshooter could feasibly be a solution for the “Installation has failed” error. You can download and open the Program Install and Uninstall troubleshooter in the following steps:
@@ -38,19 +46,16 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 4. Double-click**MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab** to launch the troubleshooter.  
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-program-install-and-uninstall-troubleshooter.jpg)
 5. Select**Next** to go to the first step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Installing** to view a program list.
 7. Select**Discord** if you can see that software on the list. If Discord isn’t there, click the**Not listed** option.  
 ![The program selection list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-program-list.jpg)
 8. Then press**Next** again to start troubleshooting.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disable Any Background Discord Processes
 
  Some users have said disabling Discord background processes can resolve the issue. If you’ve previously installed and used the software, there could be some related background Discord processes or services that need disabling. This is how you can check for and disable Discord background processes in Windows 10 and 11:
@@ -63,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 5. Repeat the fourth step for all Discord-related processes.
 6. Try installing Discord after disabling related background processes.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Delete Any Leftover Discord Data Folders
 
  Erasing leftover Discord data is one of the most widely confirmed resolutions for the “Installation has failed” error (especially when combined with the third solution). That’s a potential fix more applicable to users who’ve previously installed Discord. If there are leftover Discord data folders on your PC, make sure you delete them as follows:
@@ -80,25 +82,15 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 6. Right-click a Discord data folder there if you can find one and select**Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the Discord Setup File as an Administrator
 
  Running the Discord setup file as an administrator will ensure the installer has fuller system access, which might make a difference. To do so, open whatever folder includes the**DiscordSetup.exe** file. Then right-click**DiscordSetup.exe** to select its**Run as administrator** option.
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-adminstrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Install the .NET Framework on Windows
 
  Discord’s “Installation has failed” error can occur because the .NET Framework is missing. If something has happened to .NET Framework on your PC, you may need to install it again. This is how to install .NET Framework 4.5 on Windows:
@@ -109,22 +101,28 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 4. Double-click**dotNetFx45\_Full\_setup** to open the Microsoft .NET Framework 4.5 window.  
 ![The Microsoft .NET Framework 4.5 installer window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microsoft-net-framework-installer-window.jpg)
 5. Click**Continue** if that option isn’t grayed out.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If .NET Framework isn’t missing, there could still be an issue with that framework. You can instead try to repair it by running the .NET Framework Repair Tool. Check out our guide about[repairing .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more details.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Turn Off Antivirus Utilities Before Installing Discord
 
  It’s not entirely unusual for antivirus utilities to cause third-party software installation issues. Antivirus apps are designed to block malware from installing, but can sometimes confuse legitimate third-party software packages to be something they aren’t. So, it’s recommended users turn off antivirus shields before attempting to install Discord.
 
 ![The Real-time protection setting in the Windows Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can turn off the Windows Security real-time protection by following the instructions in our[how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Try Installing Discord in Safe Mode
 
@@ -144,8 +142,6 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +149,22 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-blurry-beginnings-transforming-your-videography-with-instagram-techniques/"><u>[New] In 2024, From Blurry Beginnings Transforming Your Videography with Instagram Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-step-by-step-guide-to-instagram-livestreaming-using-obs/"><u>[Updated] 2024 Approved Step-by-Step Guide to Instagram Livestreaming Using OBS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-the-essence-of-streaming-with-recordcast-for-2024/"><u>[Updated] Unveiling the Essence of Streaming with RecordCast for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/die-winxdvd-ruckerstattungspolitik-erlauterung-digiarty/"><u>Die WinXDVD Rückerstattungspolitik Erläuterung - DigiArty</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-solutions-fixing-windows-11s-cursor-blackout/"><u>Effortless Solutions: Fixing Windows 11'S Cursor Blackout</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-do-beginners-make-a-cool-video-for-youtube-on-mac-for-2024/"><u>How Do Beginners Make a Cool Video for YouTube on Mac for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-the-looks-like-youre-stranded-error-in-xbox-app/"><u>How to Stop the 'Looks Like You’re Stranded' Error in Xbox App</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-hot-40i-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Hot 40i FRP Bypass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-the-mindset-of-a-photographer-polarrs-editing-techniques-for-2024/"><u>Inside the Mindset of a Photographer Polarr’s Editing Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-deciphering-defenders-error-0x80004004/"><u>Quick Fix for Deciphering Defender's Error 0X80004004</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-upgrade-failure-0xc1900101/"><u>Resolving Windows 11 Upgrade Failure #0xC1900101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-sweep-away-partitions-our-top-4-tactics-for-windows/"><u>Securely Sweep Away Partitions: Our Top 4 Tactics for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-creating-windows-shortcuts-for-microsoft-store-apps/"><u>Step-by-Step: Creating Windows Shortcuts for Microsoft Store Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-xs-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone XS Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-portal-to-excitement-top-7-linux-terminal-gaming/"><u>Your Portal to Excitement: Top 7 Linux Terminal Gaming</u></a></li>
+</ul></div>
 

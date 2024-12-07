@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Efficiency with Google Sheets: Top 14 Capabilities Missed in Microsoft Excel"
-date: 2024-08-28T01:07:09.678Z
-updated: 2024-08-29T01:07:09.678Z
+date: 2024-11-29T22:45:43.620Z
+updated: 2024-12-06T18:34:41.118Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 ---
 
 ## Unlocking Efficiency with Google Sheets: Top 14 Capabilities Missed in Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -54,6 +58,10 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![MINUS function in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/MINUS-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Count Unique Values: COUNTUNIQUE
 
  If you ever need to [count the number of distinct values](https://youtube-help.techidaily.com/in-2024-unleash-potential-with-optimal-hashtags-for-gaming-vids/) in Google Sheets, then COUNTUNIQUE is your function. Count the number of customers who ordered once, products without inventory, or anything else where you want [unique values](https://extra-lessons.techidaily.com/in-2024-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/) using this function.
@@ -72,19 +80,8 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![COUNTUNIQUE for values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/COUNTUNIQUEValues-GoogleSheetsFunctionsNotExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 Related: [How to Count Unique Values in Google Sheets](https://extra-lessons.techidaily.com/in-2024-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Language Functions: DETECTLANGUAGE and GOOGLETRANSLATE
 
  Spreadsheets aren't just about numbers and calculations. You may be [working on a sheet with others](https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-15-how-to-fix-it-by-drfone-ios/) who speak a different dialect. With DETECTLANGUAGE you can identify the dialect of text and with GOOGLETRANSLATE you can translate text to another language.
@@ -103,6 +100,10 @@ Related: [How to Share Documents on Google Docs, Sheets, and Slides](https://app
 
 ![DETECTLANGUAGE in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/DETECTLANGUAGE-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The syntax for the second function is `GOOGLETRANSLATE(text, from_language, to_language)` where you can use a cell reference or the text for the first argument. For the language arguments, you use a two-letter abbreviation. You can also use "auto" for the `from_language` argument to automatically detect the source dialect.
 
  To translate the text in cell A1 from English to Spanish, use this formula:
@@ -115,12 +116,6 @@ Related: [How to Share Documents on Google Docs, Sheets, and Slides](https://app
 
 ![GOOGLETRANSLATE in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/GOOGLETRANSLATE-GoogleSheetsFunctionsNotExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Greater Than, Less Than, and Equal to: GT, GTE, LT, LTE, EQ
 
  Have you ever wanted an easy way to display if one value is greater than, less than, or equal to another in your sheet? These functions do just that and would be great additions to Excel.
@@ -148,9 +143,9 @@ Related: [How to Share Documents on Google Docs, Sheets, and Slides](https://app
 ![GREATER THAN function in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/GREATERTHAN-GoogleSheetsFunctionsNotExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Insert and Customize a Picture: IMAGE
 
  Along with numbers and text, you may want to [include an image in your spreadsheet](https://screen-mirroring-recording.techidaily.com/new-in-2024-journey-through-nature-top-12-android-simulators/). While you can easily [insert an image in Google Sheets](https://win-solutions.techidaily.com/whats-holding-up-wolcen-launch-insights-into-the-games-delayed-rollout/), the IMAGE function lets you insert one from the web and then customize its size.
@@ -170,6 +165,10 @@ Related: [How to Insert a Picture in Microsoft Excel](https://screen-mirroring-r
 
 ![IMAGE function with original size](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/IMAGEOriginal-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To insert that same image but use a custom size, you would use this formula replacing the URL, width, and height with your own details:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2022/02/DateOptions-GoogleSheetsCustomDateTime.png",4,200,500)
@@ -180,9 +179,6 @@ Related: [How to Insert a Picture in Microsoft Excel](https://screen-mirroring-r
 
 Related: [How to Make a QR Code in Google Sheets](https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Add a Mini Graph: SPARKLINE
 
  You don't always need a chart that's bigger than life in your spreadsheet. Google Sheets allows you to add a mini chart using the SPARKLINE function. In Excel, you can [create a sparkline](https://screen-mirroring-recording.techidaily.com/updated-smart-choices-the-ultimate-list-of-educator-friendly-recording-tools-for-2024/) using the chart feature, but the function is simpler and faster to whip up.
@@ -196,8 +192,9 @@ Related: [How to Make a QR Code in Google Sheets](https://location-fake.techidai
 ![SPARKLINE Line chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/SPARKLINELine-GoogleSheetsFunctionsNotExcel.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To use a bar chart with that same cell range, you'd use this formula:
 
 =SPARKLINE(B2:E2,{"charttype","column"})
@@ -214,8 +211,6 @@ Related: [How to Concatenate Data from Multiple Cells in Google Sheets](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +218,20 @@ Related: [How to Concatenate Data from Multiple Cells in Google Sheets](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-platform-variations-youtube-vs-dailymention/"><u>[Updated] Exploring Platform Variations YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-hyper-clear-playtime-best-ultra-hd-hdmi-21-gaming-screens/"><u>[Updated] In 2024, Hyper-Clear Playtime Best Ultra HD (HDMI 2.1) Gaming Screens</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-remedying-loss-of-color-contrast-in-online-video-playback/"><u>[Updated] Remedying Loss of Color Contrast in Online Video Playback</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ners-bonanza-affordable-profitable-channel-options-for-2024/"><u>Beginner's Bonanza Affordable, Profitable Channel Options for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-repairing-defrag-glitch-in-os/"><u>Diagnosing and Repairing Defrag Glitch in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/extending-pin-length-a-guide-to-tighter-security-in-win11/"><u>Extending Pin Length: A Guide to Tighter Security in Win11</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/foto-wiederherstellung-aus-adobe-photoshop-lightroom-schritt-fur-schritt-anleitungen/"><u>Foto Wiederherstellung Aus Adobe Photoshop Lightroom - Schritt-Für-Schritt Anleitungen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-drafts-to-masterpieces-top-10-essential-graphic-design-tools/"><u>In 2024, From Drafts to Masterpieces Top 10 Essential Graphic Design Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-microsoft-services-resolve-onedrive-sign-in/"><u>Jumpstart Your Microsoft Services: Resolve OneDrive Sign-In</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/office-upgrade-effortless-installation-in-windows-1011/"><u>Office Upgrade: Effortless Installation in Windows 10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-days-finest-discover-the-top-36-apple-products-at-exceptional-discounts/"><u>Prime Day's Finest: Discover the Top 36 Apple Products at Exceptional Discounts!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweaking-fn-keys-to-your-desired-effects-on-windows-11/"><u>Tweaking FN Keys to Your Desired Effects on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-torrent-mastery-select-five/"><u>Windows Torrent Mastery: Select Five</u></a></li>
+</ul></div>
 

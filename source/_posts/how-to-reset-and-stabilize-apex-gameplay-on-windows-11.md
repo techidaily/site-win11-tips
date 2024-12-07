@@ -1,7 +1,7 @@
 ---
 title: How to Reset and Stabilize Apex Gameplay on Windows 11
-date: 2024-11-24T17:48:11.076Z
-updated: 2024-11-27T16:38:07.363Z
+date: 2024-12-05T16:48:54.005Z
+updated: 2024-12-06T21:51:19.892Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
  However, if Apex Legends is crashing on a compatible computer, then here are the fixes that might help you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Close Unnecessary Background Running Applications
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
  To do this, open the Task Manager, right-click on all unnecessary background applications and choose**End Task** . You can also[stop these programs from launching on boot in Windows 11](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Is Your CPU Overclocked?
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  So, to fix Apex Legends' crashing issue, consider disabling CPU overclocking, which will reset your processor to its default settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Change the EasyAntiCheat Priority
 
  EasyAntiCheat is an anti-cheat service that ensures your multiplayer game is free from hacking and cheating. But sometimes, this service can consider your computer background processes malicious and cause various issues, including a complete game crash.
@@ -77,15 +73,15 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![Settings EasyAntiCheat priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/easyanticheat-priority.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, switch to Apex Legends and check if you still experience the crash.
 
 ## 4\. Tweak the In-Game Settings
 
 ![Apex Legends Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apex-legends-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Apex Legends offers a plethora of graphics-related options that you can enable to enhance the look of the game. Some of these options are only compatible with high-spec devices.
 
@@ -109,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  These settings work well on most low-end devices. Still, you can play around with these settings till you get the best combination for your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Check the Apex Legends Files for Corruption
 
  Apex Legends will likely crash on your computer if its files are corrupted. To detect and remove corruption, you'll have to verify the integrity of game files.
@@ -122,6 +114,10 @@ Here's how to do it in the EA app:
 1. Launch the EA app and choose**My Collection** from the left sidebar.
 2. Click the**three dots** on Apex Legends and choose**Repair.**  
 ![Repair option in the EA App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The EA app will now look for and remove any corruption in the Apex Legends files.
 
@@ -142,6 +138,10 @@ Here's how to do it in the EA app:
 
  Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on[how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Allow the Apex Legends Launcher Through the Windows Firewall
 
  Windows Defender Firewall might interfere with the Apex Legends launcher and cause it to crash. To stop this from happening, you'll have to allow the launcher to run through the Windows Defender Firewall. Here's how:
@@ -151,13 +151,13 @@ Here's how to do it in the EA app:
 ![Allow an app through Windows Firewall in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-an-app-through-windows-firewall.jpg)
 3. Click the**Change settings** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Check both the**Private** and**Public** boxes of all the EA app services.  
 ![Allow EA Services through Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-ea-services.jpg)
 5. Click**OK.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similarly, if you're using Steam or Origin, check both the Private and Public boxes for these launchers and save the changes.
 
@@ -180,19 +180,20 @@ Here's how to do it in the EA app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/astering-video-metrics-the-role-of-thumbnail-size/"><u>[New] Mastering Video Metrics The Role of Thumbnail Size</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-seamless-switching-between-screens-with-chromes-pip/"><u>[Updated] In 2024, Seamless Switching Between Screens with Chrome's PIP</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-finest-lineup-top-7-aim-focused-titles/"><u>[Updated] In 2024, The Finest Lineup Top 7 Aim-Focused Titles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-android-image-editing-software/"><u>2024 Approved Prime Android Image Editing Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/declutter-your-notebooks-visual-techniques-in-obsidian/"><u>Declutter Your Notebooks: Visual Techniques in Obsidian</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-file-management-windows-11-guide/"><u>Enhancing File Management: Windows 11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-software-interaction-winshortcut-guide/"><u>Enhancing Software Interaction: WinShortcut Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/geforce-rtx-3070-ti-windows-driver-update-install-directly-for-win-11-8-and-7-systems/"><u>GeForce RTX 3070 Ti Windows Driver Update: Install Directly for Win 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/limiting-removable-storage-on-windows-without-compromise/"><u>Limiting Removable Storage on Windows Without Compromise</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macos-security-unveiled-how-to-retrieve-hidden-password-data/"><u>MacOS Security Unveiled: How To Retrieve Hidden Password Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/penning-pages-gpt-3-as-your-crafting-companion/"><u>Penning Pages: GPT-3 as Your Crafting Companion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powertoys-made-simple-text-pasting-tips/"><u>PowerToys Made Simple: Text Pasting Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-propel-your-content-using-igtv-hashtags-to-expand-audiences/"><u>2024 Approved Propel Your Content Using IGTV Hashtags to Expand Audiences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/confronting-ai-titans-advanced-gemini-vs-plush-gpt/"><u>Confronting AI Titans: Advanced Gemini Vs. Plush GPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directdraw-breakdown-fixes-for-win11-and-beyond/"><u>DirectDraw Breakdown: Fixes for Win11 and Beyond</u></a></li>
+<li><a href="https://some-skills.techidaily.com/epub-and-mobi-conversion-mastery-unlocking-the-full-potential/"><u>EPUB and MOBI Conversion Mastery: Unlocking the Full Potential</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-motorola-razr-40-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Motorola Razr 40</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-rapid-methods-unsettle-and-rearrange-your-video-list/"><u>In 2024, Rapid Methods Unsettle and Rearrange Your Video List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unravel-the-mystery-perfect-your-green-screen-skills-using-kinemaster/"><u>In 2024, Unravel the Mystery Perfect Your Green Screen Skills Using Kinemaster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-microphone-sound-heres-the-windows-google-meet-solution/"><u>Lost Microphone Sound? Here's the Windows Google Meet Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-ntoskrnlexes-heavy-cpu-footprint/"><u>Reducing Ntoskrnl.exe's Heavy CPU Footprint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-the-foundation-for-win-11-security-upgrades/"><u>Setting the Foundation for Win 11 Security Upgrades</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speedily-solving-stuck-emoji-prediction-on-apple-devices-a-list-of-7-remedies/"><u>Speedily Solving Stuck Emoji Prediction on Apple Devices: A List of 7 Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-11-home-settings/"><u>The Ultimate Guide to Windows 11 Home Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-pc-adventures-from-the-latest-google-play-game-beta/"><u>Top 10 PC Adventures From the Latest Google Play Game Beta</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-throwing-a-memorable-labor-day-bash-tips-and-tricks-zdnet/"><u>Ultimate Guide to Throwing a Memorable Labor Day Bash: Tips & Tricks - ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-guide-switching-gpu-disabled-state/"><u>Windows Guide: Switching GPU Disabled State</u></a></li>
 </ul></div>
 

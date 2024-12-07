@@ -1,7 +1,7 @@
 ---
 title: Reducing Decorative Elements in Windows Search
-date: 2024-11-26T17:24:43.896Z
-updated: 2024-11-27T17:06:16.046Z
+date: 2024-12-05T01:32:19.010Z
+updated: 2024-12-06T18:33:00.725Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Are There Pictures in Your Search Box?
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
  This information is different for both organizations and regular users. If you are signed in to Windows using your work account, you will see information regarding your organization and its employees. On your home PC, you'll see more generic informational content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable the Illustrations in Windows Search Icons
@@ -60,25 +60,25 @@ If you are a Windows 11 user, you can use these steps as well:
 2. Click on**Search permissions** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Search permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/search-permissions.jpg)
 3. Head over to the More settings section and turn the toggle off for**Show search highlights** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Search Highlights toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/show-search-highlights-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Alternatively, you can also press the Win + S keys together to open the Windows Search utility. Click on the three-dot icon and choose**Search settings** . Once the Settings window launches, you can scroll down to the More settings section and disable**Show search highlights** .
 
 ![Access the Search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Search Illustrations, Solved
 
@@ -99,18 +99,22 @@ If you are a Windows 11 user, you can use these steps as well:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-comprerant-hashtags-with-leading-trackers-for-fb-twt-and-ig/"><u>[New] 2024 Approved Compreran't Hashtags with Leading Trackers for FB, Twt and IG</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-keep-the-sparkle-alive-sustaining-your-snapchat-streak/"><u>[New] 2024 Approved Keep the Sparkle Alive Sustaining Your Snapchat Streak</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-tracked-fame-youtubes-pacey-video-breakthroughs/"><u>[Updated] In 2024, Fast-Tracked Fame YouTube's Pacey Video Breakthroughs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-to-restore-shelldll-files-when-they-are-lost-or-mistakenly-deleted/"><u>Effective Techniques to Restore Shell.dll Files When They Are Lost or Mistakenly Deleted</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-x8b-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor X8b to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-top-tactics-for-captivating-audienes-in-instagram-reels/"><u>In 2024, Top Tactics for Captivating Audienes in Instagram Reels</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mastering-multi-channel-promotion-integrating-email-with-social-platforms-insights-from-the-marketing-cocktail-conference-2010/"><u>Mastering Multi-Channel Promotion: Integrating Email with Social Platforms - Insights From the Marketing Cocktail Conference 2010</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastermakers-ranking-the-top-5-digital-titling-pros/"><u>Mastermakers Ranking the Top 5 Digital Titling Pros</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modernizing-vintage-directx-games-using-dxvk/"><u>Modernizing Vintage DirectX Games Using DXVK</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/obs-on-pc-overcoming-launching-problems/"><u>OBS on PC: Overcoming Launching Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taskbar-time-management-in-windows-1011/"><u>Taskbar Time Management in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-dxgierrordevicehung-on-windows-11/"><u>Troubleshooting DXGI_ERROR_DEVICE_HUNG on Windows 11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unveiling-the-simplicity-of-storytelling-for-2024/"><u>Unveiling the Simplicity of Storytelling for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-architectural-wonders-from-the-sandbox/"><u>[New] 2024 Approved Architectural Wonders From the Sandbox</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-in-depth-look-techniques-for-screen-capturing-on-android/"><u>[New] 2024 Approved In-Depth Look Techniques for Screen Capturing on Android</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-heritage-on-display-post-copyright-masterpieces/"><u>[New] Heritage on Display Post-Copyright Masterpieces</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pixel-powerhouses-the-elite-females-on-yt/"><u>[Updated] Pixel Powerhouses The Elite Females on YT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-financially-navigate-to-w11-pro-best-offers/"><u>Gain Financially: Navigate to W11 Pro Best Offers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nubia-red-magic-9-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nubia Red Magic 9 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Passcode without Computer?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-examination-of-samsung-photo-editor-features/"><u>In 2024, The Ultimate Examination of Samsung Photo Editor Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-and-locals-key-distinctions-in-windows-login-systems-exposed/"><u>Microsoft & Locals: Key Distinctions in Windows Login Systems Exposed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-adobe-premiere-cheat-sheet-6-time-saving-tips/"><u>New In 2024, The Ultimate Adobe Premiere Cheat Sheet 6 Time-Saving Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powertoys-techniques-when-and-how-to-apply-lockmaster/"><u>PowerToys Techniques: When and How to Apply Lockmaster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-clearing-frozen-application-alerts/"><u>Solutions for Clearing Frozen Application Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steady-handling-of-frozen-windows-pin-issues/"><u>Steady Handling of Frozen Windows Pin Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-windows-operation-fails-with-error-0x0000011b/"><u>Stopping Windows' Operation Fails with Error 0X0000011B</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surge-into-success-7-key-methods-for-enhanced-windows-11-use-38/"><u>Surge Into Success: 7 Key Methods for Enhanced Windows 11 Use (38)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-workflow-with-efficient-multi-tasking-in-windows-11/"><u>Transforming Workflow with Efficient Multi-Tasking in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vr-headset-match-the-top-10-360-degree-videos-on-pc/"><u>VR Headset Match The Top 10 360-Degree Videos on PC</u></a></li>
 </ul></div>
 

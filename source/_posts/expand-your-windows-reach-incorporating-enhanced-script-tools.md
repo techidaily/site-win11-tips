@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Window's Reach: Incorporating Enhanced Script Tools"
-date: 2024-08-28T01:11:24.836Z
-updated: 2024-08-29T01:11:24.836Z
+date: 2024-11-30T22:03:47.478Z
+updated: 2024-12-07T01:55:52.971Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
  The Run command accessory in Windows 11/10 for opening apps and files has been a part of Microsoft’s flagship OS series for decades. Yet, that accessory has hardly changed since the 1990s; and the Windows search tool works better for Run’s intended purpose. It’s about time the big M revamped Run.
 
  Alas, Microsoft hasn’t announced any update that will enhance Run. However, you can at least add an enhanced Run replacement to Windows 11/10\. This is how you can add two better Run alternatives to Windows 11/10 with Run-Command and PowerToys.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add an Alternative Run Accessory to Windows With Run-Command
 
@@ -69,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
 
 ![The Options menu in Run-Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/options-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
@@ -83,6 +91,11 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
 6. Select the**I agree to** checkbox and click PowerToys’**Install** option.  
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
@@ -92,17 +105,9 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Getting Familiar With PowerToys Run
 
  The first thing you’ll notice about PowerToys after entering a command in its text box is that it shows multiple results. Thus, it’s a little more like the Windows search tool than Run, which makes it a more flexible alternative. It displays four results by default, but you can increase that by entering a higher value for the**Number of results shown** **before** **scrolling** setting in the**PowerToys Run** tab.
@@ -112,41 +117,33 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
 ![A file search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-file-search-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  To open a website with PowerToys Run, input the**//** plugin followed by a site URL. For example, try opening Bing by inputting**//www.bing.com** inside the tool’s command box. Then select the result (or press**Enter**) to open that search engine in your default browser.
 
  Another good thing about PowerToys is that you can utilize it for calculations. Input an**\=** before a sum in the PowerToys Run command box to activate the calculator. For example, entering**\=55+125** will display a 180 result. You can do calculations by inputting the**+** (addition),**\*** (multiplication),**/** (division), and**–** (subtraction) operators.
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
 
  So, you don’t have to stick with Windows’ outmoded Run accessory anymore. Both Run-Command and PowerToys Run are superior alternatives for opening apps, files, and more besides in Windows 11 and 10\. PowerToys offers the best flexibility thanks to its numerous plugins. However, Run-Command’s shortcuts menu is a great feature that could make it the preferable Run replacement for many users.
@@ -157,8 +154,6 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +161,20 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/hoosing-your-go-to-youtube-video-downloaders-on-android-platform/"><u>[New] Choosing Your Go-To YouTube Video Downloaders on Android Platform</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-how-to-embrace-tiktok-as-a-macbook-enthusiast-for-2024/"><u>[New] How to Embrace TikTok as a MacBook Enthusiast for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unlocking-the-mysteries-imports-of-media-files-in-w11/"><u>[New] In 2024, Unlocking the Mysteries Imports of Media Files in W11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-visual-virtuosity-the-best-sites-and-apps-for-frames-on-photos/"><u>[Updated] In 2024, Visual Virtuosity The Best Sites & Apps for Frames on Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-your-internet-connection-for-maximum-privacy-on-win-11/"><u>Configuring Your Internet Connection for Maximum Privacy on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-method-turn-off-pin-during-windows-11-display-cast/"><u>Easy Method: Turn Off PIN During Windows 11 Display Cast</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebuilding-connected-elements-in-windows-explorer/"><u>Rebuilding Connected Elements in Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-error-image-id-0x80780119-in-windows/"><u>Resolving the Error: Image ID 0X80780119 in Windows</u></a></li>
+<li><a href="https://win-special.techidaily.com/soluciones-efectivas-para-recuperar-datos-perdidos-de-una-carpeta-eliminada-en-windows-1011/"><u>Soluciones Efectivas Para Recuperar Datos Perdidos De Una Carpeta Eliminada en Windows 10/11</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nokia-130-music-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nokia 130 Music Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-gaming-pcs-reimagined-with-atlasos/"><u>Vintage Gaming PCs, Reimagined with AtlasOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-firewall-a-complete-reboot-guide/"><u>Windows Firewall: A Complete Reboot Guide</u></a></li>
+</ul></div>
 

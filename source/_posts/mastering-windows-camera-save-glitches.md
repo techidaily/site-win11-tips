@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Camera Save Glitches
-date: 2024-11-20T17:42:45.513Z
-updated: 2024-11-27T17:53:40.576Z
+date: 2024-12-06T01:41:01.325Z
+updated: 2024-12-06T20:08:52.811Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Storage Permissions
 
  If your laptop or computer’s camera doesn’t save photos or videos, we recommend starting your troubleshooting journey by ensuring it has sufficient permissions to store data on your device.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 ![Pick a different location to save photos and videos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choose-a-different-location.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here is an alternate way of changing the location:
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 ![Change where the camera will save photos and videos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/change-location-for-camera.jpg)
 5. Now, add your new preferred location and choose **Set Default Save Location**.
 6. Hit **Apply** \> **OK** to save the changes and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update the Camera Drivers
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
  You can also head over to your manufacturer’s website, download an updated version from there, and then install it manually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair the Camera App
@@ -98,11 +98,11 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 ![Repair Camera app from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Camera.jpg)
 6. Wait for the process to complete. This may take a while, depending upon the complexity of the underlying problems.
 
- Once the app is successfully repaired, check if the issue is fixed. If the app fails to repair, you should see a “We couldn’t repair this app. Try again in a bit.” In that case, you can try using the System File Checker for a more detailed check of the system, or move to the next method below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once the app is successfully repaired, check if the issue is fixed. If the app fails to repair, you should see a “We couldn’t repair this app. Try again in a bit.” In that case, you can try using the System File Checker for a more detailed check of the system, or move to the next method below.
 
 ## 4\. Check Your Antivirus and Firewall Settings
 
@@ -111,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
  To determine if this is true, you can [disable your antivirus program temporarily](https://www.makeuseof.com/cant-enable-windows-firewall/). If you are using the security features offered by Windows, you can [turn off Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) for some time and retry saving your photos and videos.
 
  It is, however, important to note that disabling these programs can make your computer vulnerable to risks, so we recommend turning them back on immediately once you are done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reset or Reinstall the Camera App
 
@@ -126,34 +130,9 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 
  Once the command executes, launch Microsoft Store and install the Camera app again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capture and Save Your Moments Again on Windows
 
  A malfunctioning Camera app that can't save your photos or videos can be a real inconvenience, but it is not impossible to fix. Hopefully, the methods above will help you restore your Camera app's functionality and continue capturing life's moments with confidence. To prevent this issue from occurring in the future, it is best to keep your camera drivers up-to-date at all times.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-skys-new-choreographer-gopro-karma-takes-center-stage/"><u>[New] 2024 Approved Sky's New Choreographer GoPro Karma Takes Center Stage</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-metaverse-shenanigans-a-treasury-of-hilarity-and-creative-memes/"><u>[New] In 2024, Metaverse Shenanigans A Treasury of Hilarity and Creative Memes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-premier-non-udemy-platforms-for-personalized-e-learning-for-2024/"><u>[New] Premier Non-Udemy Platforms for Personalized E-Learning for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-essential-guide-to-creating-amazing-ig-films-for-2024/"><u>[Updated] The Essential Guide to Creating Amazing IG Films for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/amplifying-security-the-art-of-longer-pin-codes-in-win11/"><u>Amplifying Security: The Art of Longer Pin Codes in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-leveraging-windows-11s-start-screen/"><u>Essential Techniques for Leveraging Windows 11'S Start Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-active-directory-print-failures-on-windows-11-os/"><u>Fixing Active Directory Print Failures on Windows 11 OS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-12-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 12</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-hot-40-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Hot 40 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-your-systems-inner-workings/"><u>Initiating Your System's Inner Workings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-your-gaming-experience-on-windows-hardware/"><u>Optimizing Your Gaming Experience on Windows Hardware</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-seamlessly-transferring-dvd-movie-files-from-pcmac-to-roku-for-instant-playback/"><u>Step-by-Step Guide: Seamlessly Transferring DVD Movie Files From PC/Mac to Roku for Instant Playback</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-pc-display-rgb-control-guide-for-win11/"><u>Tailoring Your PC Display: RGB Control Guide for Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unite-windows-devices-for-streamlined-transcoding-operations-using-tdarr/"><u>Unite Windows Devices for Streamlined Transcoding Operations Using Tdarr</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-gems-of-windows-11-mouse-settings/"><u>Unveiling the Hidden Gems of Windows 11 Mouse Settings</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-8-best-free-online-video-stabilizers/"><u>Updated In 2024, 8 Best Free Online Video Stabilizers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-chronology-continuity-transition-with-a-windows-7-product-key/"><u>Windows Chronology Continuity: Transition with a Windows 7 Product Key</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -162,3 +141,20 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-declutter-photos-with-affinitys-ease/"><u>[New] 2024 Approved Declutter Photos with Affinity's Ease</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-streaming-success-live-tiktok-broadcasts-on-computers/"><u>[New] 2024 Approved Streaming Success Live TikTok Broadcasts on Computers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-crafting-captivating-intros-for-podcasts/"><u>[New] Crafting Captivating Intros for Podcasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-twinkling-typefaces-the-essence-of-bouncy-text/"><u>2024 Approved Twinkling Typefaces The Essence of Bouncy Text</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-narzo-n53-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme Narzo N53 Device SIM</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-excessive-cpu-use-by-wudfhostexe-in-windows-10-systems/"><u>Effective Solutions for Overcoming Excessive CPU Use by wudfhost.exe in Windows 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-this-app-is-preventing-windows-from-shutting-down-restarting-or-signing-out-error-on-windows/"><u>How to Fix “This App Is Preventing Windows From Shutting Down, Restarting, or Signing Out” Error on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-redmi-note-12-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Redmi Note 12 Pro+ 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-old-computers-switching-away-from-windows/"><u>Refreshing Old Computers: Switching Away From Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-11-calendar-features/"><u>The Ultimate Guide to Windows 11 Calendar Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-how-ai-transforms-windows-innovations/"><u>Unlocking Potential: How AI Transforms Windows Innovations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-visual-magic-how-to-create-stunning-video-effects-from-scratch/"><u>Updated 2024 Approved Visual Magic How to Create Stunning Video Effects From Scratch</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Method to Delete WSL
-date: 2024-08-28T01:11:18.743Z
-updated: 2024-08-29T01:11:18.743Z
+date: 2024-11-30T18:21:05.058Z
+updated: 2024-12-06T23:29:04.113Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 
  Here are the steps you need to follow to completely remove WSL from your Windows PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Uninstall Windows Subsystem for Linux?
 
  WSL is a very handy tool that allows you to easily run Linux distros in a virtual environment on your Windows computer. Although it doesn't have much impact on storage space, if you have no interest in using Linux, there's no need to have it installed.
 
  There are also [good alternatives to WSL](https://www.makeuseof.com/dont-need-microsoft-windows-subsystem-for-linux/) for running Linux available, and you might decide to use one of those instead of the Microsoft solution. Not only would you not need WSL, but there is also a slight risk of conflict between the Windows Subsystem and your alternative choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Remove All Installed Linux Distros on Windows
 
@@ -35,13 +43,14 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 
 ![Ubuntu in the Windows 11 apps list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsl-remove.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the computer came to you with the apps already installed, you might not know what is or isn't a Linux distribution. Here are some of the [most common Linux distros](https://www.makeuseof.com/linux-distros-for-beginners-intermediate-and-advanced-users/), but you can also simply do a Google search for the name of the app you are unsure about.
 
  When all versions of Linux have been uninstalled, you can move on to the next step in the process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Uninstall the WSL Components
 
  With all versions of Linux removed, you can remove the WSL app and its related components. As with the previous step, you can remove WSL in the same way you would remove any other app.
@@ -51,13 +60,11 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 ![Uninstalling WSL components in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsl-components.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you see any additional WSL components, such as the WSL update or WSLg Preview, uninstall these in the same way.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Uninstall WSL and Virtual Machine Platform
 
  The final part of the process is to uninstall the WSL core files and disable the option in the Windows Optional Features panel.
@@ -70,13 +77,11 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 ![Removing WSL in the Windows Features panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsl-core-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  WSL should now be completely removed from your computer. It will receive no automatic updates, and you won't be able to interact with it in any way. If you need it in the future, here's how to [install WSL through the Microsoft Store](https://www.makeuseof.com/install-windows-subsystem-for-windows-microsoft-store/) on a Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Removing WSL From Your Windows PC
 
  You can install WSL on your Windows computer with a single command. Uninstalling it, if you no longer need or want it on your PC, is not quite as simple. By following the three simple steps detailed here, you can ensure that all WSL files and components are removed.
@@ -85,11 +90,27 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 
  Here are the steps you need to follow to completely remove WSL from your Windows PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-laughlens-pictorial-humor-studio/"><u>[New] 2024 Approved LaughLens Pictorial Humor Studio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-lolkit-design-memes-and-graphics-with-a-click/"><u>[New] 2024 Approved LolKit Design Memes & Graphics with a Click</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mpeg-for-mov-movavi/"><u>自分流にカスタマイズ! フリーなMPEG変換ツール for MOVビデオファイル - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeating-the-invalid-captcha-obstacle-in-steam/"><u>Defeating the 'Invalid CAPTCHA' Obstacle in Steam</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-razer-device-detection-issues-in-windows-1011/"><u>Fixing Razer Device Detection Issues in WIndows 10/11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/harnessing-webcams-a-2023-guide-to-slidecast-perfection-for-2024/"><u>Harnessing Webcams A 2023 Guide to Slidecast Perfection for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-mastering-color-correction-and-grading/"><u>In 2024, Ultimate Guide Mastering Color Correction & Grading</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-extra-wires-just-joy-link-ps3-to-your-pc/"><u>No Extra Wires, Just Joy: Link PS3 to Your PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-xs-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone XS Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/syncing-your-customized-powertoys-setup/"><u>Syncing Your Customized PowerToys Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-flawed-windows-email-rule-configurations/"><u>Troubleshooting Flawed Windows Email Rule Configurations</u></a></li>
+</ul></div>
+

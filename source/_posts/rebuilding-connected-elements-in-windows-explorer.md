@@ -1,7 +1,7 @@
 ---
 title: Rebuilding Connected Elements in Windows Explorer
-date: 2024-11-23T16:00:49.476Z
-updated: 2024-11-27T17:15:51.430Z
+date: 2024-11-30T22:31:11.391Z
+updated: 2024-12-06T22:09:17.689Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update to Windows 11 22H2
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 ![Check Windows version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-windows-version-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're already running the latest version if you see the**No updates available** message. In this case, move on to the following solutions.
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 ![Restart File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-file-explorer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Close Task Manager, launch File Explorer, and check if the problem is now solved.
@@ -77,6 +77,10 @@ Follow these steps to clear File Explorer cache files:
 
  If you often have to go through the above process manually, you can use Storage Sense to[clean your caches in Windows 11](https://www.makeuseof.com/windows-11-clear-caches/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run the System File Checker
 
  The System File Checker (or SFC) is one of the[built-in Windows tools you can use to fix corrupted system files](https://www.makeuseof.com/windows-built-in-repair-tools/) . If this is the reason for File Explorer's missing tabs, running the tool should fix it.
@@ -84,10 +88,6 @@ Follow these steps to clear File Explorer cache files:
  In the Start menu search bar, search for**command prompt** and select**Run as administrator** . Type**sfc/ scannow** and press**Enter** to run the command.
 
 ![SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall Windows Updates
 
@@ -102,7 +102,7 @@ Follow these steps to clear File Explorer cache files:
 ![Uninstall Windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-updates-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This solution works for recent updates. If it’s been a while since you’ve updated to Windows 11 22H2, you’ll have to load a restore point to[revert your computer to the previous Windows version](https://www.makeuseof.com/windows-11-create-restore-point/) .
@@ -128,20 +128,18 @@ Follow these steps to clear File Explorer cache files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-an-engaging-film-teaser/"><u>[New] Crafting an Engaging Film Teaser</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-perfecting-film-editing-final-cut-pro-101-for-2024/"><u>[New] Perfecting Film Editing Final Cut Pro 101 for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-scripting-sci-fi-elements-time-and-space-in-action/"><u>[New] Scripting Sci-Fi Elements Time & Space in Action</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-elevating-visual-experience-big-is-better/"><u>[Updated] 2024 Approved Elevating Visual Experience Big Is Better</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dominance-through-speed-boosting-your-framerate/"><u>Dominance Through Speed - Boosting Your Framerate</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-your-online-presence-secrets-of-youtube-live-with-wirecast-for-2024/"><u>Elevate Your Online Presence Secrets of Youtube Live with WireCast for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-discrepancies-between-your-personal-to-dos-and-ms-to-do/"><u>Fixing Discrepancies Between Your Personal To-Dos & MS To-Do</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-camon-20-pro-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Camon 20 Pro 5G Is Unlocked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-momentum-accelerating-fb-videos-for-2024/"><u>Mastering Momentum Accelerating FB Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mouse-clicks-made-simple-three-ways-to-boost-speed/"><u>Mouse Clicks Made Simple: Three Ways to Boost Speed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-strategy-for-eliminating-error-code-262-in-roblox/"><u>The Ultimate Strategy for Eliminating Error Code 262 in Roblox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-ways-to-rectify-disconnected-google-drive-windows/"><u>Top Ways to Rectify Disconnected Google Drive Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-productivity-experience-flawless-ai-with-copilot-and-gpt-4-turbo-at-zero-cost/"><u>Unlocking Productivity: Experience Flawless AI with Copilot & GPT-4 Turbo at Zero Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-winstore-hurdle-microsoft-error-0x80072f17/"><u>Unraveling WinStore Hurdle: Microsoft Error 0X80072F17</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-to-look-forward-to-with-windows-11s-latest-update/"><u>What to Look Forward To With Windows 11'S Latest Update</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-sound-of-success-tailoring-audio-for-instagram-content/"><u>[New] The Sound of Success Tailoring Audio for Instagram Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-total-motion-audit-2023/"><u>[New] Total Motion Audit 2023</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-a-comprehensive-walkthrough-setting-up-your-first-wirecast-livestream-to-youtube/"><u>[Updated] 2024 Approved A Comprehensive Walkthrough Setting Up Your First WireCast Livestream to Youtube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-rhythms-ally-finding-best-dj-content-online-for-2024/"><u>[Updated] Rhythm's Ally Finding Best DJ Content Online for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-winning-at-facebook-health-promotion-campaigns/"><u>2024 Approved Winning at Facebook Health Promotion Campaigns</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevate-your-driving-pleasure-with-essential-sj4000-gear-for-2024/"><u>Elevate Your Driving Pleasure with Essential SJ4000 Gear for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-slick-methods-to-access-your-windows-assistants/"><u>Five Slick Methods to Access Your Windows Assistants</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-13-proplus-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 13 Pro+ 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-the-10-windows-restore-paths/"><u>Mastering Quick Access: The 10 Windows Restore Paths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-correcting-windows-error-403-on-roblox/"><u>Navigating and Correcting Windows Error 403 on Roblox</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfecting-your-images-the-art-of-curving-for-2024/"><u>Perfecting Your Images The Art of Curving for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-unblocking-resources-in-windows-11/"><u>Strategies for Unblocking Resources in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-money-making-guide-on-social-media-for-2024/"><u>The Ultimate Money-Making Guide on Social Media for 2024</u></a></li>
 </ul></div>
 

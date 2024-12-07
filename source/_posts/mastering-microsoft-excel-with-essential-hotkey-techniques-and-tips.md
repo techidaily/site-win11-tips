@@ -1,7 +1,7 @@
 ---
 title: Mastering Microsoft Excel with Essential Hotkey Techniques and Tips
-date: 2024-08-28T01:08:19.968Z
-updated: 2024-08-29T01:08:19.968Z
+date: 2024-12-01T17:48:01.927Z
+updated: 2024-12-06T19:16:03.139Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 ---
 
 ## Mastering Microsoft Excel with Essential Hotkey Techniques and Tips
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
  Now, does anyone expect you to memorize all these keyboard combos? Of course not! Everyone’s needs are different, so some will be more useful to you than others. And even if you pick up a few new tricks, it’s worth it. We’ve also tried to keep the list clean and simple, so go ahead and print it that helps!
 
  Also, even though our list of shortcuts here is pretty long, it’s by no means a complete list of every keyboard combo available in Excel. We’ve tried to keep it to the more generally useful shortcuts. And, you’ll be happy to know that almost all of these shortcuts have been around for a long time, so they should be helpful no matter what version of Excel you’re using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  General Program Shortcuts
 
@@ -68,8 +76,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 * **Alt+F11:** Open the Microsoft Visual Basic For Applications Editor
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Moving Around in a Worksheet or Cell
 
  You can use keyboard shortcuts to easily navigate throughout your worksheet, within a cell, or throughout your entire workbook.
@@ -88,9 +97,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 * **Alt+Page Up/Down:** Move one screen to the right or left in a worksheet
 * **Ctrl+Page Up/Down:** Move to the previous or next worksheet
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Selecting Cells
 
  You may have noticed from the previous section you use the arrow keys to move between cells, and the Ctrl key to modify that movement. Using the Shift key to modify the arrow keys lets you extend your selected cells. There are also a few other combos for speeding up selection, as well.
@@ -101,8 +107,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 * **Ctrl+Shift+Space:** Select the entire worksheet
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Editing Cells
 
  Excel also provides some keyboard shortcuts for editing cells.
@@ -121,8 +128,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 * **Enter:** Complete an entry in a cell or the formula bar
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Formatting Cells
 
  Ready to format some cells? These keyboard shortcuts make it easier!
@@ -153,8 +161,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +168,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-add-a-countdown-timer-in-obs/"><u>2024 Approved How To Add a Countdown Timer in OBS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/android-freedom-the-most-popular-top-10-fb-video-extraction-tools-for-2024/"><u>Android Freedom The Most Popular Top 10 FB Video Extraction Tools for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-xr-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone XR in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone X</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-dealing-with-breakpoint-exception-in-windows/"><u>Quick Guide to Dealing with Breakpoint Exception in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-bypassing-lol-freeze-frames/"><u>Quick Tips: Bypassing LOL Freeze Frames</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-operations-integrating-portables-into-win11plus/"><u>Streamline Operations: Integrating Portables Into Win11+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-your-single-double-click-rate-on-pc/"><u>Supercharge Your Single-Double Click Rate on PC</u></a></li>
+</ul></div>
 

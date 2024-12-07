@@ -1,7 +1,7 @@
 ---
 title: Launching SFC Verification for Windows Files
-date: 2024-08-28T01:10:32.368Z
-updated: 2024-08-29T01:10:32.368Z
+date: 2024-12-02T16:15:25.487Z
+updated: 2024-12-06T16:57:56.511Z
 tags:
   - windows10
   - windows11
@@ -43,11 +43,12 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other SFC Commands You Can Run on Windows
 
  The**SFC /scannow** isn’t the only System File Checker Command you can run. Here are a couple more and what they do:
@@ -60,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 | /offbootdir | Run this command to tell the SFC which directory contains a bootable version of Windows. You need to do this every time you use the tool outside of Windows. For example, to select the**E:** drive on your PC, enter**/offbootdir=e:\\**                                         |
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Run an Offline SFC Scan on Windows
 
  There are a few scenarios that warrant the use of the SFC without logging into Windows. One such scenario is if the operating system files are so corrupted that Windows cannot start.
@@ -86,8 +84,9 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
 
 `findstr /c:"[SR]" %windir%\logs\cbs\cbs.log >sfcdetails.txt`
@@ -97,15 +96,17 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 ![the sfc details text file in File Explorer on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You’ll see that the log file contains entries from the System File Checker only.
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
 
 `/offlogfile=[offline log file path]`
@@ -113,22 +114,20 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Running the System File Checker, Demystified
 
  We have only just begun to scratch the surface of what you can do with the System File Checker on Windows 10 and 11\. However, now that you know**how to run SFC** (both in and out of Windows), you can use the tool effectively to troubleshoot problems with operating system files.
 
  Using the SFC effectively is a necessary skill for every Windows user, and it’s just one of the many tools you can use to fix problems on your Windows computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +136,21 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ethical-approaches-to-extract-mp4-from-youtube-for-2024/"><u>[New] Ethical Approaches to Extract MP4 From YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigate-your-way-through-premiere-pros-fs-mode/"><u>[New] Navigate Your Way Through Premiere Pro's FS Mode</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unveiling-10-cost-effective-virtual-communication-tools/"><u>[Updated] 2024 Approved Unveiling 10 Cost-Effective Virtual Communication Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-maintaining-perpetual-ps4-windows-tether/"><u>A Guide to Maintaining Perpetual PS4-Windows Tether</u></a></li>
+<li><a href="https://driver-error.techidaily.com/conquering-unwanted-bluetooth-connection/"><u>Conquering Unwanted Bluetooth Connection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elite-gaming-display-showcase-top-5-monitors/"><u>Elite Gaming Display Showcase Top 5 Monitors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-stop-0x0000007b-errors/"><u>How to Fix STOP 0X0000007B Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-a24-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy A24 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-cc-errors-quickly/"><u>Navigating Windows 11 CC Errors Quickly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signature-for-pdf-file-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Online signature for .pdf file document</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enabledisable-wi-fi-connection-metering-on-win11/"><u>Steps to Enable/Disable Wi-Fi Connection Metering on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-resetting-windows-post-shutdown/"><u>Troubleshooting Guide: Resetting Windows Post-Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vmware-crashes-in-windows-11/"><u>Troubleshooting VMware Crashes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-fax-interface-for-editors/"><u>Unlocking Windows 11'S Fax Interface for Editors</u></a></li>
+</ul></div>
 

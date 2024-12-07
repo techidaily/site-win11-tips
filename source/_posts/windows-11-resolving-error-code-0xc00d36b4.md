@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Resolving Error Code 0xC00D36B4"
-date: 2024-11-26T16:06:52.382Z
-updated: 2024-11-27T16:06:21.750Z
+date: 2024-11-29T18:15:24.743Z
+updated: 2024-12-06T22:26:01.587Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding the Problem Behind Audio Error 0xc00d36b4 on Windows
 
  The audio error 0xc00d36b4 occurs when Windows fails to play audio due to a problem with the audio codec. It typically occurs on the Groove Music or the Movies & TV app, and can be caused due to one or more of the following factors:
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
  This is why, the first thing that we recommend doing is making sure that the file you are trying to play is in a supported format. You can do so by right-clicking on the file and choosing**Properties** . Head over to the**General** tab and check the file extension or file type there.
 
 ![Check the file type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-file-type.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it is not, you can use a third-party application to convert it into a compatible format. Alternatively, you can try using another application that supports the format of your audio file.
 
@@ -72,10 +80,6 @@ Here is how you can do that:
 8. Upon reboot, restart the service by following the same steps mentioned above.
 9. Finally, restart your computer again and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Uninstall Nero Codecs
 
  As we mentioned above, if you have Nero Codecs installed on your computer, then there is a chance that it is interfering with the processes of Groove Music or the Windows Media Player.
@@ -90,7 +94,7 @@ Here is how you can do that:
 5. Once done, restart your computer and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable Copy Protection
@@ -107,25 +111,21 @@ Here is how you can do that:
 3. Head over to the**Rip Music** tab and uncheck the box associated with**Copy protect music** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Uncheck the Copy protect music option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-protect-music.jpg)
 4. Click**Apply** \>**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Update Audio Drivers
 
  There can be a problem with the audio drivers installed on the system, which is preventing them from communicating with the relevant hardware and leading to the problem.
 
  This typically happens when the drivers are either corrupt or outdated. Fortunately, both of these issues can be fixed by[updating the audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) . The easiest way of doing this is by using the Device Manager utility that comes with Windows by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Windows Media Player
 
@@ -154,18 +154,17 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-screen-recorders-for-google-meet-you-should-try-free-and-paid/"><u>[New] 2024 Approved Best Screen Recorders for Google Meet You Should Try [Free and Paid]</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-pureimages-backdrop-refinement-feature/"><u>[New] In 2024, PureImage's Backdrop Refinement Feature</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>2024 Approved Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-troubleshooting-steps-to-address-and-resolve-auto-gpt-setup-difficulties/"><u>6 Troubleshooting Steps to Address and Resolve Auto-GPT Setup Difficulties</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-google-pixel-fold-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Google Pixel Fold Phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/enhancing-your-home-network-leading-wi-fi-range-extenders-ranked-best-of-2024/"><u>Enhancing Your Home Network: Leading Wi-Fi Range Extenders Ranked Best of 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enjoy-gameplay-without-extra-cables-setup-ps3-controller-on-windows/"><u>Enjoy Gameplay Without Extra Cables: Setup PS3 Controller on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-nubia-red-magic-8s-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Nubia Red Magic 8S Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-shadowy-side-of-microsoft-artistry/"><u>The Shadowy Side of Microsoft Artistry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-gesture-failures-in-windows/"><u>Understanding and Correcting Gesture Failures in Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-digital-media-compreenhensive-srt-to-other-guidebook/"><u>Unlocking Digital Media Compreenhensive SRT-to-Other Guidebook</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-ultimate-guide-to-integrating-audacity-into-your-ubuntu-workflow-from-installation-to-uninstallation/"><u>Updated In 2024, The Ultimate Guide to Integrating Audacity Into Your Ubuntu Workflow - From Installation to Uninstallation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ways-to-scrub-windows-safety-log-files-easy-methods/"><u>Ways to Scrub Windows' Safety Log Files: Easy Methods</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-elevating-voice-quality-top-10-microphone-guide/"><u>[New] 2024 Approved Elevating Voice Quality Top 10 Microphone Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-convert-srt-fastly-a-compreenas-the-minute-blueprint-2023/"><u>[Updated] 2024 Approved Convert SRT Fastly A Compreenas-the-Minute Blueprint 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-directly-posting-tiktok-videos-on-facebook/"><u>[Updated] The Art of Directly Posting TikTok Videos on Facebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-your-youtube-presence-key-tips-for-popularity-for-2024/"><u>Boosting Your YouTube Presence Key Tips for Popularity for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-12-mini-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 12 mini to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-step-by-step-process-for-converting-your-mp3-collection-into-widespread-high-quality-audio-cds-via-imgburn-windows/"><u>Easy Step-by-Step Process for Converting Your Mp3 Collection Into Widespread, High-Quality Audio Cds via ImgBurn (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-older-software-works-on-contemporary-windows-10/"><u>Ensuring Older Software Works on Contemporary Windows 10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-becoming-snapstreak-savvy-tips-for-uninterrupted-connection/"><u>In 2024, Becoming Snapstreak Savvy Tips for Uninterrupted Connection</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/marauders-dictionary-20-terms-to-sound-like-a-buccaneer/"><u>Marauder's Dictionary: 20 Terms to Sound Like a Buccaneer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-convert-esd-to-iso-in-windows-environment/"><u>The Ultimate Guide to Convert ESD to ISO in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-gaming-potential-combatting-directdraw-faults-on-windows-11/"><u>Unlocking Gaming Potential: Combatting DirectDraw Faults on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Frequency Formula: A Comprehensive Guide on Utilizing Excel's Countif Feature"
-date: 2024-08-28T01:07:55.287Z
-updated: 2024-08-29T01:07:55.287Z
+date: 2024-12-01T22:29:33.247Z
+updated: 2024-12-06T16:47:24.279Z
 tags:
   - excel
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 ## Mastering the Frequency Formula: A Comprehensive Guide on Utilizing Excel's Countif Feature
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Does the FREQUENCY Function Do?](https://screen-activity-recording.techidaily.com/new-2024-approved-zippyzoom-tortoisepic-timestretch/)
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 * [Bypassing the Formulas Menu and Using the Function Bar](https://win-able.techidaily.com/troubleshooting-tactics-for-the-application-has-unexpectedly-stopped-on-cod-mw3-mobile-game/)
 
  Excel's FREQUENCY function lets you count how many times values fall within specific ranges. For example, if you had the ages of a group of people in your spreadsheet, you could figure out how many people fall into different age ranges. Let's take a look at how to calculate frequency distributions and, with a slight modification, frequency percentages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Does the FREQUENCY Function Do?
 
@@ -52,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-2-find-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Function Arguments window pops up. Click in the "Data\_array" box and then highlight the cells in the "Data\_array" column (you can also type the cell numbers if you prefer).
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-3-select-data-array.png) 
@@ -73,43 +78,30 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-5-press-ok-button.png) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will see that only the first cell of the "Results" column has a value, the rest are blank.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-6-initial-result.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  To see the other values, click inside the "Formula" bar and then press Ctrl+Shift+Enter.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-7-click-inside-function-bar.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Results column will now display the missing values.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-8-results-after-cse.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can see that Excel found four values that were less than or equal to one (highlighted in red) and also found the counts of each of our other number ranges. We've added a "Result Description" column to our spreadsheet so that we can explain the logic Excel used to calculate each result.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-9-results-explanations-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Figure Out Frequency Percentages
 
  That's all well and a good, but what if instead of raw counts in the results, we wanted to see percentages instead. What percentage of our numbers fell between one and two, for example.
@@ -130,25 +122,28 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-11-initial-percentage-results.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  The results are not automatically formatted as percentages, but that's easy enough to change. Switch to the "Home" menu and then press the "%" button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-12-format-using-number-menu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The values will now appear as percentages. So, for example, you can now see that 17% of the numbers in the "Data\_array" column fell in the 1-2 range.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-13-formatted-percentage-results.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Best of all, now that the formula is in place in the "Results" column, you can alter any of the values in the "Data\_array" and "Bins\_array" columns and Excel will automatically refresh the results with updated values.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Bypassing the Formulas Menu and Using the Function Bar
 
  If you prefer typing and know your way around naming columns and cells, you can always bypass digging through the "Formulas" menu by simply typing functions directly into Excel's Function Bar and then pressing Ctrl+Shift+Enter.
@@ -175,8 +170,6 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +177,24 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-becoming-a-viral-icon-instagrams-secrets-revealed/"><u>[New] 2024 Approved Becoming a Viral Icon Instagram's Secrets Revealed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-uncover-the-10-best-makeup-experts-on-youtube-you-cant-ignore/"><u>[New] In 2024, Uncover the 10 Best Makeup Experts on YouTube You Can't Ignore</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-making-moolah-the-snapchat-way/"><u>[Updated] Making Moolah The Snapchat Way</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-vivo-y200e-5g-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y200e 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-resolving-windows-photography-problems/"><u>Master the Art of Resolving Windows Photography Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-file-challenges-workarounds-for-rename-restrictions-in-win-11/"><u>Navigating File Challenges: Workarounds for Rename Restrictions in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-dual-network-connectivity-in-windows-os/"><u>Optimizing Dual Network Connectivity in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-java-fixing-the-setup-failure-issue/"><u>Reinstating Java: Fixing the Setup Failure Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-ppt-files-6-accelerated-fixes-in-windows-11/"><u>Secure Your PPT Files: 6 Accelerated Fixes in Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/superb-culmination-for-vr-journeys/"><u>Superb Culmination for VR Journeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-recovery-from-onedrive-operational-fails-in-windows-os/"><u>Swift Recovery From OneDrive Operational Fails in Windows OS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-tiers-of-technology-youtube-gamers-showcase-for-2024/"><u>Top Tiers of Technology YouTube Gamer's Showcase for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-tutorial-on-refreshing-razers-blackwidow-controller-software/"><u>Ultimate Tutorial on Refreshing Razer's BlackWidow Controller Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-speed-mastering-windows-task-shortcuts/"><u>Unlocking Speed: Mastering Windows Task Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-efficiency-embedding-keyboard-shortcuts-into-windows-menu-bar/"><u>Upgrading Efficiency: Embedding Keyboard Shortcuts Into Windows Menu Bar</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Clearing Obstacles for Win11's Optimal CCleaner Use
-date: 2024-08-23T07:08:56.401Z
-updated: 2024-08-24T07:08:56.401Z
+date: 2024-12-04T19:28:27.096Z
+updated: 2024-12-06T19:26:55.128Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,25 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  Many users report CCleaner not responding when they click to open that software. However, this Piriform software can also fail to start with error messages. This is how you can fix CCleaner not working on your Windows 11/10 PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try Opening CCleaner From Its Installation Directory
 
  Many users open CCleaner with desktop, taskbar, or Start menu shortcuts. However, CCleaner might not launch because of an issue with its shortcut. So, try opening CCleaner directly from its installation folder to see if that makes any difference. To do so, you’ll need to double-click the **CCleaner64.exe** application file within the software’s installation directory.
 
 ![The CCleaner.exe file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ccleaner-exe-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can launch CCleaner from the installation directory, there must be an issue with the shortcut for opening that software. In this case, set up a new Windows desktop shortcut by right-clicking the CCleaner EXE file and selecting **Send to (Desktop)**. Then try opening the software with the new CCleaner shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run CCleaner With Administrator Rights
 
@@ -35,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
  If that works, set CCleaner to always run with elevated privileges. Then you won’t need to manually select to run CCleaner with admin rights every time you need to open it. This guide about [how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) includes instructions for permanently setting programs to start with elevated privileges.
 
 ![The RUn this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-this-program-as-adminstrator-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Delete the CCleanerx64 Registry Key
 
@@ -50,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 5. Select **Yes** on the Confirm Key Delete window prompt.
 6. Click the Registry Editor app’s **X** Close window button and try opening CCleaner.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Add CCleaner to Your Antivirus Software’s Exceptions List
 
  Antivirus programs that flag CCleaner as unwanted software can block that app from running. That’s more likely considering that this Piriform software has had its malware incidents in the past. Microsoft Defender was widely reported to flag CCleaner as unwanted software in 2020\. Some users have also confirmed disabling Trend Micro antivirus fixed CCleaner not working on their PCs.
@@ -62,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 ![The Add an exclusion button in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-an-exclusion-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable Your Active Firewalls
 
  CCleaner needs internet connectivity for updates, bug reporting, and its online features. Therefore, firewall blocks can be another cause for CCleaner not working. Disabling your PC’s firewall will ensure that it isn’t blocking CCleaner’s internet connectivity.
@@ -72,14 +86,8 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
 ![The Turn off Windows Defender Firewall options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run CCleaner after turning off the firewall on your PC. The firewall was most likely causing the issue if the CCleaner software works when it's disabled. Add CCleaner to your firewall’s allowed app list to utilize that software with the firewall enabled. Our article about [allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) tells you how to add programs to Microsoft Defender Firewall’s allowed list.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Run CCleaner After Clean-Booting Windows
 
  An app conflicting with the Piriform software could be another possible reason for CCleaner not working on your PC. Clean-booting Windows 11/10 will likely eliminate that potential cause. Setting a clean boot will disable most third-party startup programs and services that run in the background. Clean boot is like entering Windows safe mode, but it doesn’t disable any device drivers.
@@ -91,8 +99,9 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
  What you do then is up to you. You can leave the boot setup as set or try to find out what was conflicting with the CCleaner software. To find what’s causing the issue, re-enable disabled startup items in a one-at-a-time fashion before every reboot until CCleaner stops working again. Then either permanently disable or uninstall the conflicting service or app.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall CCleaner
 
  If CCleaner still isn’t working after applying the other troubleshooting methods in this guide, you might have to reinstall the software. This will refresh all CCleaner’s files and registry entries. You can remove CCleaner with most of the methods outlined in this article about [uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). We recommend uninstalling with one of the best uninstaller utilities to remove all leftover debris.
@@ -103,16 +112,11 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  If you want to try the UWP app instead, open the [CCleaner Microsoft Store page](https://apps.microsoft.com/store/detail/ccleaner/XPFCWP0SQWXM3V), click on the **Get in Store app**, and **Open Microsoft Store** options to access an installation option for CCleaner. Press the **Install** button for the app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Clean Up Your PC With CCleaner Again
 
  There’s no guaranteed way to fix CCleaner not working. However, the troubleshooting methods above will probably kick-start the CCleaner software for Windows 11/10 in most cases. Then you can clean up your Windows 11/10 PC with all the tools CCleaner has to offer again.
 
  Many users report CCleaner not responding when they click to open that software. However, this Piriform software can also fail to start with error messages. This is how you can fix CCleaner not working on your Windows 11/10 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,3 +124,23 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>[New] 2024 Approved From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-massive-subscriber-jump-for-a-sensible-5-investment/"><u>2024 Approved Massive Subscriber Jump for a Sensible $5 Investment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-ways-to-maximize-windows-11s-first-screen-interface/"><u>Effective Ways to Maximize Windows 11'S First-Screen Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-windows-navigation-techniques-excluding-ls-command/"><u>Efficient Windows Navigation Techniques Excluding LS Command</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-showdown-notions-ai-vs-microsofts-chatgpt-who-wins-the-tech-battle/"><u>Generative AI Showdown: Notion's AI Vs. Microsoft's ChatGPT – Who Wins the Tech Battle?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-s17-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo S17 Pro?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-starting-problems-in-outriders-for-pc-users/"><u>How to Overcome Starting Problems in Outriders for PC Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-magic-photo-management-decoded-by-reviews/"><u>In 2024, Magic Photo Management Decoded by Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intelligent-hardware-monitoring-via-interactive-widgets/"><u>Intelligent Hardware Monitoring via Interactive Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-your-windows-11-bar-top-techniques-unveiled/"><u>Maximizing Your Windows 11 Bar: Top Techniques Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-abyzy-and-alterx-integration-strategies/"><u>Seamless ABYZY and AlterX Integration Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-6-windows-11-applications-enhancing-remote-work-efficiency/"><u>Top 6 Windows 11 Applications Enhancing Remote Work Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-how-to-eradicate-error-code-0x800700e9-from-xbox-game-passwindows-11/"><u>Unlocking Potential: How to Eradicate Error Code 0X800700E9 From Xbox Game Pass/Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-secrets-for-clearing-file-access-barriers-in-windows/"><u>Unveiling Secrets for Clearing File Access Barriers in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-black-screen-after-fall-creators-update-solved/"><u>Windows 11 Black Screen After Fall Creators Update [Solved]</u></a></li>
+</ul></div>
+

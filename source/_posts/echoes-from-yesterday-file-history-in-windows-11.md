@@ -1,7 +1,7 @@
 ---
 title: "Echoes From Yesterday: File History in Windows 11"
-date: 2024-11-25T16:32:30.051Z
-updated: 2024-11-27T17:03:34.116Z
+date: 2024-11-30T21:49:41.422Z
+updated: 2024-12-07T00:59:06.755Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 2. Type **File History** in the search box. Click on the first relevant search result to open File History in a new window.  
 ![Open File History Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Using Control Panel
 
  File history previously lived in the Settings app in Windows 10 but is now only present in Control Panel's System and Security section. Here's how to access it:
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 2. In the Control Panel window, click on the **System and Security** option.
 3. Scroll down and locate the **File History** option. Double-click on it to view and manage the connected devices and backups.  
 ![Open File History Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Using the Settings App
 
@@ -61,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 4. The Control Panel window will open with the File History page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Using the Run Dialog Box
@@ -72,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 2. Type **control /name Microsoft.FileHistory** in the text box and press the **Enter** key.  
 ![Open File History Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-run-dialog-box.jpg)
 3. The File History page will open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Using File Explorer
 
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 ![Open File History Using File explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Using Task Manager
@@ -97,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 ![Open File History Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-task-manager.jpg)
 3. File History will launch on your system. Close the Task Manager
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Using Terminal App
 
  If you love the terminal and don’t like the idea of opening menus or searching for an app or tool, you can open File History using the Terminal app. Here’s how to do it:
@@ -110,6 +102,14 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 3. Now, type the following command and press the **Enter** key to execute it: **control /name Microsoft.FileHistory**  
 ![Open File History Using Terminal App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-terminal-app.jpg)
 4. Close the Terminal app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Using a Desktop Shortcut
 
@@ -121,33 +121,17 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 ![Open File History Using Desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-desktop-shortcut.jpg)
 4. Name the shortcut **File History** and click on the **Finish** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Switch to the desktop. Double-click on the newly created File History shortcut to launch the tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Access File History Settings In a Jiffy
 
  Microsoft came with this excellent physical backup option for Windows OS. Now, you know eight easy methods to access File History, run a manual backup session, and tweak its settings. You can even add and remove folders in File History, but that requires a bit more effort.
 
  But Control Panel isn’t the only way to access File History on Windows. This guide will list eight quick methods to open the File History page in Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-guide-to-enhancing-youtube-content-post-upload/"><u>[New] 2024 Approved Essential Guide to Enhancing YouTube Content Post-Upload</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-superb-culmination-for-vr-journeys-for-2024/"><u>[Updated] Superb Culmination for VR Journeys for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-mac-streams-with-these-industrys-favorite-5-apps/"><u>2024 Approved Optimize Mac Streams with These Industry's Favorite 5 Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-complete-guide-to-compliant-twitter-videos/"><u>2024 Approved The Complete Guide to Compliant Twitter Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-concealed-context-commands-windows-edition/"><u>Crafting Concealed Context Commands, Windows Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-stalled-function-keys-for-brightness-control-in-windows-11/"><u>Enabling Stalled Function Keys for Brightness Control in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y200-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y200 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-asus-rog-phone-8-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Asus ROG Phone 8 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-system-call-issues-in-win11/"><u>Mastering the Resolution of System Call Issues in Win11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-neon-typography-made-easy-9-best-online-text-generator-tools/"><u>New Neon Typography Made Easy 9 Best Online Text Generator Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-reduce-memory-consumption-by-connected-devices-software/"><u>Strategies to Reduce Memory Consumption by Connected Devices Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-for-using-system-restore-in-windows-11/"><u>The Complete Guide for Using System Restore in Windows 11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -156,3 +140,21 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[Updated] 2024 Approved How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-xbox-recorders-handbook-for-gamers/"><u>[Updated] In 2024, The Xbox Recorder’s Handbook for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-gateway-to-enhanced-experiences-nvidias-new-app/"><u>Gamer's Gateway to Enhanced Experiences – Nvidia's New App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-download-a-browser-without-a-browser-after-installing-windows/"><u>How to Download a Browser Without a Browser After Installing Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-acclaimed-nature-friendly-filming-equipment-insights/"><u>In 2024, Acclaimed Nature-Friendly Filming Equipment Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tips-and-tricks-erasing-unwanted-backdrops/"><u>In 2024, Tips and Tricks Erasing Unwanted Backdrops</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-graphics-rendering-on-your-pc-upgrade-to-new-drivers-for-hp-omen-15/"><u>Maximize Graphics Rendering on Your PC – Upgrade to New Drivers for HP Omen 15</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-zeroxc000003e-error-in-win1011-application-initiation/"><u>Navigating ZeroXc000003e Error in Win10/11 Application Initiation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-winxps-error-x80300024-mystery/"><u>Solving WinXP's Error X80300024 Mystery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-fixing-exception-breakpoint-issue-on-pcs/"><u>Tactics for Fixing Exception Breakpoint Issue on PCs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/time-lapse-video-techniques-for-ipad-users-for-2024/"><u>Time-Lapse Video Techniques for iPad Users for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-13-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-your-windows-11-local-login-without-secure-questions/"><u>Unlocking Your Windows 11 Local Login Without Secure Questions</u></a></li>
+</ul></div>
+

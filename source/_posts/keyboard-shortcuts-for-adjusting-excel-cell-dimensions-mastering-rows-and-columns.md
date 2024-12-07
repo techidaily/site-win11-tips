@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Shortcuts for Adjusting Excel Cell Dimensions: Mastering Rows & Columns"
-date: 2024-08-28T01:09:04.358Z
-updated: 2024-08-29T01:09:04.358Z
+date: 2024-12-02T18:14:34.282Z
+updated: 2024-12-06T18:16:54.210Z
 tags:
   - excel
 categories:
@@ -59,8 +59,6 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -68,8 +66,24 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/solution-how-to-prevent-and-resolve-r-type-final-2-from-freezingcrashing-on-desktop-computers/"><u>[SOLUTION] How to Prevent and Resolve R-Type Final #2 From Freezing/Crashing on Desktop Computers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-securely-capture-web-series-every-time-you-watch/"><u>[Updated] How to Securely Capture Web Series Every Time You Watch</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-every-participants-placement-in-google-meet-for-2024/"><u>[Updated] Unlocking Every Participant’s Placement in Google Meet for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-messenger-video-guide-dimensions-file-type-elapsed/"><u>2024 Approved Messenger Video Guide Dimensions, File Type, Elapsed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-system-file-checker-in-windows-os/"><u>Executing System File Checker in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-standalone-to-hybrid-creating-a-linux-vm-in-hyper-v-on-windows/"><u>From Standalone to Hybrid: Creating a Linux VM in Hyper-V on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-reviving-a-dead-steelseries-x70-optical-mouse-nub-in-depth-restoration-guide-for-windows-users/"><u>Master the Art of Reviving a Dead SteelSeries X70 Optical Mouse Nub: In-Depth Restoration Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-microsoft-to-do-unsync-issues-quickly/"><u>Navigating Microsoft To Do Unsync Issues Quickly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-essential-guide-to-downloading-and-personalizing-whatsapp-tones-for-iphonesandroids-for-2024/"><u>The Essential Guide to Downloading & Personalizing WhatsApp Tones for iPhones/Androids for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-zero-cost-win-media-players/"><u>The Ultimate Guide to Zero-Cost Win Media Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-mirage-techniques-to-discern-real-insights-from-fake/"><u>Unveiling AI Mirage: Techniques to Discern Real Insights From Fake</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-unlocking-the-dialer/"><u>Win 11: Unlocking the Dialer</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

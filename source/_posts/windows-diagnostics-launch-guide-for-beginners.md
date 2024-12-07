@@ -1,7 +1,7 @@
 ---
 title: Windows Diagnostics Launch Guide for Beginners
-date: 2024-11-23T16:48:41.643Z
-updated: 2024-11-27T16:03:01.766Z
+date: 2024-12-04T16:51:59.658Z
+updated: 2024-12-06T22:02:57.829Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
  This is the easiest way to go about launching the Startup Repair tool on Windows. So we will lay out this method first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use the Windows 11 Settings App
@@ -43,16 +43,12 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 
 ![windows recovery option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-recovery-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the next boot-up of Windows, your PC will be launched in the **Windows Recovery Environmen**t. From there, click on **Troubleshoot > Advanced Options > Startup Repair**.
 
  And that’s it. As soon as you click on the above option, the Startup Repair tool will be launched right then and there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use the Windows 10 Settings App
@@ -78,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 
  The Startup Repair tool will be launched from here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Startup Repair From BIOS
 
  If you have an installation media, using or opening the Startup Repair tool won’t be too much of a struggle. Just plug in the USB stick containing the installation media and start your PC from the ground up.
@@ -90,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 4. Finally, click on the USB stick to get started with Startup Repair.
 
  The Startup Repair tool will be launched from here, and it will look up and fix any issues it finds on your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use the Command Prompt
 
@@ -105,16 +109,12 @@ shutdown /r /o
 
  As soon as you hit **Enter**, your PC will be restarted in the **Advanced Startup Options** menu; you can then select the **Startup Repair** option from there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Use the F11 Shortcut Key During Boot
 
  Sometimes, simply hitting the **F11** key repeatedly during the boot-up can take you to the **Advanced Options** menu on many computers. So, make sure you give this a go as well. From there, you can easily access the **Windows Startup Options** tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Startup Repair Tool on a Windows PC
@@ -123,24 +123,6 @@ shutdown /r /o
 
  We have looked over a host of different ways to access the tool. So, let’s look at all of them one by one.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-pioneers-guide-to-vr-terminology/"><u>[New] In 2024, The Pioneer's Guide to VR Terminology</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-guide-to-record-online-video-calls-for-2024/"><u>[New] Step-by-Step Guide to Record Online Video Calls for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-tailored-tricks-building-a-personalized-youtube-follow-buttons/"><u>[New] Tailored Tricks Building a Personalized YouTube Follow Buttons</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-taking-video-action-with-gopro-burst-technology/"><u>[New] Taking Video Action with GoPro Burst Technology</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-face-fluidity-adding-dynamic-blur-to-photos-via-picsart/"><u>[Updated] In 2024, Face Fluidity Adding Dynamic Blur to Photos via Picsart</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/apowersoft-revisited-comparative-review-of-screen-recording-tech/"><u>Apowersoft Revisited Comparative Review of Screen Recording Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-function-keys-on-windows-1011-systems/"><u>Personalizing Function Keys on Windows 10/11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-your-system-restore-mspm-in-windows-7/"><u>Revive Your System: Restore MSPM in Windows 7</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/solucion-al-problema-de-transferencia-de-fotos-desde-el-iphone-a-la-pc/"><u>Solución Al Problema De Transferencia De Fotos Desde El iPhone a La PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/start-your-french-reading-journey-with-these-20-novels/"><u>Start Your French Reading Journey with These 20 Novels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-circumvent-microsofts-virus-prevention-hurdles/"><u>Strategies to Circumvent Microsoft's Virus Prevention Hurdles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steam-backup-errors/"><u>Troubleshooting Steam Backup Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-your-computers-print-command-solutions-for-faulty-wwinplusp-operations/"><u>Unlock Your Computer's Print Command: Solutions for Faulty WWin+P Operations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-ditching-show-more-options-menu-feature/"><u>Windows 11: Ditching Show More Options Menu Feature</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -148,3 +130,27 @@ shutdown /r /o
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-guide-to-mass-downloading-a-complete-look-at-tiktok-archives/"><u>[New] 2024 Approved Guide to Mass Downloading A Complete Look at TikTok Archives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-wizardry-techniques-for-massive-reach-for-2024/"><u>[New] Instagram Video Wizardry Techniques for Massive Reach for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-powerhouse-analyzing-the-performance-of-lg-ud88-w-hdtv/"><u>2024 Approved The Powerhouse Analyzing the Performance of LG UD88-W HDTV</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-kinemasters-full-potential-in-zoomed-sections/"><u>2024 Approved Unlocking Kinemaster's Full Potential in Zoomed Sections</u></a></li>
+<li><a href="https://fox-links.techidaily.com/best-value-for-money-selecting-the-leading-free-srt-services/"><u>Best Value for Money Selecting the Leading Free SRT Services</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-printer-drivers-free-download-options-available-now/"><u>Epson Printer Drivers: Free Download Options Available Now</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-ultimate-guide-downloading-and-enjoying-4k-360-degree-virtual-reality-videos/"><u>Free Ultimate Guide: Downloading and Enjoying 4K 360-Degree Virtual Reality Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-tecno-spark-10-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Tecno Spark 10 Pro Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-11s-zero-error-hurdle/"><u>Mastery over Windows 11'S Zero-Error Hurdle</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-solved-how-to-download-podcasts-to-computers-in-2024/"><u>New Solved! How To Download Podcasts to Computers, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-sharing-between-two-computers-with-aoemi/"><u>Optimizing File Sharing Between Two Computers with AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-application-start-up-issues-how-to-fix-error-code-0xc000003e-in-windows-11/"><u>Overcoming Application Start-Up Issues: How to Fix Error Code 0XC000003E in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shifting-screen-placement-in-windows-1011/"><u>Shifting Screen Placement in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-initial-no-display-window-dilemma/"><u>Solving Initial No-Display Window Dilemma</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-overcoming-windows-0x80070003-file-updater-error/"><u>Troubleshooting: Overcoming Windows' 0X80070003 File Updater Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-extraordinary-windows-capabilities-today/"><u>Unlock Extraordinary Windows Capabilities Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-style-dynamic-window-management-with-wmdesk/"><u>Upgrade Style: Dynamic Window Management with WmDesk</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10win11-fixing-non-operational-diagnostics/"><u>Win10/Win11: Fixing Non-Operational Diagnostics</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1728498441386-windows-7/"><u>Windows 7</u></a></li>
+</ul></div>
+

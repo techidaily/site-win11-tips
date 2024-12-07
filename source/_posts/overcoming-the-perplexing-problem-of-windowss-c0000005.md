@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Perplexing Problem of Windows's C0000005
-date: 2024-08-23T07:09:03.322Z
-updated: 2024-08-24T07:09:03.322Z
+date: 2024-12-04T17:43:22.150Z
+updated: 2024-12-06T17:44:18.965Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
  We have rounded up a variety of methods you can try your luck with. Let's look at how you can fix the error Code 0xc0000005 on Windows for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Deactivate Data Execution Prevention (DEP)
 
 [Data Execution Prevention](https://www.makeuseof.com/data-execution-prevention-explained/) is a security feature on Windows that prevents damage to your PC from malware and other malicious attacks on your PC. It does this by blocking out specific memory regions so that code cannot be executed from those locations, which in the absence of DEP, would be used for buffer attacks.
@@ -36,9 +40,17 @@ bcdedit.exe /set {current} nx AlwaysOff
 
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
 
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
 
@@ -61,12 +73,12 @@ Similarly, to check the app's version, follow the steps below:
 
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now check if the app and your operating system are compatible with each other.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
 
  While the methods we have discussed have targeted the error code 0xc0000005 in particular, there are some quick fixes that come recommended for pretty much all Windows errors. Note that it's not the case that these solutions are bound to fix any particular error you are facing at a point in time, but if you have tried all the different methods from above, then the below methods are definitely worth a go.
@@ -81,23 +93,20 @@ Let's go over all of them one by one.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Error Code 0xc0000005 on a Windows PC
 
  Like most abrupt Windows errors, the 0xc0000005 error code can cause a sharp break in your workflow. Hopefully, using one of the methods from above, you managed to get rid of the Windows error for good.
 
  However, it's a fact that Windows gets plagued by many such simple errors from time to time, that more often than not, can be fixed with little to no effort. So, make sure you keep tabs on all such errors, along with their solutions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,4 +115,26 @@ Let's go over all of them one by one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-transforming-vision-into-action-building-a-successful-fb-reel-channel/"><u>[Updated] In 2024, Transforming Vision Into Action Building a Successful FB Reel Channel</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-pro-level-strategies-captioning-content-on-vimeo-for-2024/"><u>[Updated] Pro-Level Strategies Captioning Content on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/10-websites-for-premium-quality-vector-stock-images/"><u>10 Websites for Premium-Quality Vector Stock Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-aerial-innovations-explained-drone-technology-simplified/"><u>2024 Approved Aerial Innovations Explained Drone Technology Simplified</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-crew-for-photographic-rhythm-films/"><u>2024 Approved Ultimate Crew for Photographic Rhythm Films</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/echoes-from-yesterday-file-history-in-windows-11/"><u>Echoes From Yesterday: File History in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embedding-dolby-atmos-sound-into-windows-11/"><u>Embedding Dolby Atmos Sound Into Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-connection-errors-restoring-windows-and-ea-ties/"><u>Eradicating Connection Errors: Restoring Windows & EA Ties</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-server-slips-fixing-microsoft-store-issues/"><u>Eradicating Windows Server Slips: Fixing Microsoft Store Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-screen-problems-with-windows-11-driver-reset/"><u>Fix Screen Problems with Windows 11 Driver Reset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-how-to-disable-gaming-proposals-on-your-pcs-win11/"><u>Guide: How to Disable Gaming Proposals on Your PC's Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halting-auto-initiate-of-windows-file-explorer/"><u>Halting Auto-Initiate of Windows File Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-mail-apps-0x800713f-error-in-windows-10-and-11/"><u>How to Fix the Mail App’s 0X800713f Error in Windows 10 & 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-camera-save-glitches/"><u>Mastering Windows Camera Save Glitches</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/so-beenden-sie-die-weisse-monitorausfalle-schnell-unter-windows-11/"><u>So Beenden Sie Die Weiße Monitorausfälle Schnell Unter Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-common-causes-and-fixes-for-game-crashes-in-mount-and-blade-2-bannerlord/"><u>Solved! Common Causes and Fixes for Game Crashes in Mount & Blade 2: Bannerlord</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speedy-conversion-techniques-how-to-turn-youtube-footage-into-avi-files-seamlessly/"><u>Speedy Conversion Techniques: How to Turn YouTube Footage Into AVI Files Seamlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-free-android-video-call-apps-compared-for-2024/"><u>Top Free Android Video Call Apps Compared for 2024</u></a></li>
+</ul></div>
 

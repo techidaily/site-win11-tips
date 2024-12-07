@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11'S In-Place Update Process
-date: 2024-11-21T16:29:05.989Z
-updated: 2024-11-27T17:54:54.167Z
+date: 2024-12-04T23:50:19.785Z
+updated: 2024-12-07T00:04:17.791Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is an In-Place Upgrade on Windows?
 
  An in-place upgrade helps you replace your current Windows installation files with a new copy without removing anything else on your system. So, you can use this feature to upgrade to a new version of windows or fix your current installation.
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 * Ensure fast internet connectivity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Perform an In-Place Upgrade on Windows 11
@@ -52,12 +56,16 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
  To perform an in-place upgrade, you need to do two things. Firstly, you need to download the latest Windows 11 ISO file. Then, you need to run the setup from the ISO file, pick the appropriate in-place upgrade option, and proceed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Download the Windows 11 ISO Image File
 
  First of all, you need to grab the Windows 11 ISO image file. If you don't already have one on hand, check out[how to download a Windows ISO without the Media Creation tool](https://www.makeuseof.com/windows-iso-direct-download/) for some easy methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Perform an In-Place Upgrade Using the Windows11 ISO Image File
 
@@ -70,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 ![Change how Setup downloads updates setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-how-setup-downloads-updates-setting.jpg)
 5. Read the EULA page and click on the**Accept** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. On the**Choose what to keep** page, select the**Keep personal files and apps** option. Click on the**Next** button. Then click on the**Install** button.  
 ![Keep all your files and app in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/keep-all-your-files-and-app-in-windows-11.jpg)
 2. The setup will begin installing a new copy of Windows 11\. If you have an SSD, the installation won’t take more than 15 minutes. Your system will restart multiple times during this process.  
@@ -81,15 +85,11 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 3. After the setup finishes installing updates, it will redirect you to the login screen.**Input** your password and press the**Enter** key to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Installing Updates in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-updates-in-windows-11.jpg)
 4. Wait for the setup to prepare your system for the first boot. You will automatically enter the desktop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
 
@@ -112,20 +112,21 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-secrets-to-acquiring-free-audio-tracks-for-videos/"><u>[Updated] 2024 Approved Secrets to Acquiring Free Audio Tracks for Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-exclusive-melodic-selections-for-video-editing/"><u>[Updated] In 2024, Exclusive Melodic Selections for Video Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cloud-connected-computers-integrating-files-with-dropboxgoogledrive-in-c/"><u>Cloud-Connected Computers: Integrating Files with Dropbox/GoogleDrive in C:</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-rectified-in-monitor-driver/"><u>Error Rectified in Monitor Driver</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-websites-directory-personalized-ringtone-source-for-2024/"><u>Expert Websites Directory Personalized Ringtone Source for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-ensure-seamless-steam-data-writing/"><u>How To Ensure Seamless Steam Data Writing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-y27s-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Y27s PIN</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 System? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-a-twitching-windows-mouse-pointer/"><u>How to Stop a Twitching Windows Mouse Pointer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-complete-course-on-managing-and-editing-srt-on-mac/"><u>In 2024, A Complete Course on Managing and Editing SRT on Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-archive-support/"><u>Leveraging Windows 11 Archive Support</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-wwinplusprint-functionality-fixes-for-non-operational-printer-on-pc/"><u>Mastering WWin+Print Functionality: Fixes for Non-Operational Printer on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-operational-challenges-with-error-740/"><u>Navigating Windows 11'S Operational Challenges with Error #740</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overclocking-ethernet-bypassing-windows-inherent-limit-of-100mbps/"><u>Overclocking Ethernet: Bypassing Windows' Inherent Limit of 100Mbps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmask-your-computer-understanding-its-windows-based-model-name/"><u>Unmask Your Computer: Understanding Its Windows-Based Model Name</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mp3-creation-from-vimeo-streaming-media/"><u>[New] 2024 Approved MP3 Creation From Vimeo Streaming Media</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-advanced-3d-viewing-on-your-android-device/"><u>[New] Advanced 3D Viewing on Your Android Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precision-in-adding-time-stamps-to-images/"><u>[New] Precision in Adding Time Stamps to Images</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-undetected-consumer-of-life-streams-fb/"><u>2024 Approved Undetected Consumer of Life Streams (FB)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-unpreviews-in-windows-outlook-for-businesses/"><u>Conquering Unpreviews in Windows Outlook for Businesses</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-the-world-of-online-promotion-exclusive-free-youtube-banner-access/"><u>Enter the World of Online Promotion Exclusive Free YouTube Banner Access!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-roundup-high-quality-zero-price-livestream-software-list/"><u>Exclusive Roundup High-Quality, Zero-Price LiveStream Software List</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oppo-reno-11-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Oppo Reno 11 Pro 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-contextual-menu-integration-new-folder-placement/"><u>Mastering Contextual Menu Integration: New Folder Placement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-education-on-windows-8-proven-methods/"><u>Mastering Education on Windows: 8 Proven Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-need-to-panic-solve-black-windows-issues-fast/"><u>No Need to Panic - Solve Black Windows Issues Fast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-windows-roblox-conflicts-that-force-shutdown/"><u>Preventing Windows-Roblox Conflicts that Force Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-winerror-x709/"><u>Strategies to Overcome WinError X709</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-resolve-unsuited-interface-in-windows/"><u>Swiftly Resolve 'Unsuited' Interface in Windows</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-virtual-journey-understanding-the-pros-and-cons-of-downloads/"><u>The Virtual Journey: Understanding the Pros and Cons of Downloads</u></a></li>
 </ul></div>
 

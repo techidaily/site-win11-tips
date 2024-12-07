@@ -1,7 +1,7 @@
 ---
 title: "Quick Solution to Microsoft Store Crash: Windows' Error Code X800704CF"
-date: 2024-11-23T16:05:28.282Z
-updated: 2024-11-27T16:48:47.557Z
+date: 2024-11-29T22:38:05.174Z
+updated: 2024-12-06T16:43:42.725Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 6. Then double-click**Internet Connections** or**Network Adapter** to open one of those troubleshooters.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The troubleshooting list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/troubleshooter-list.jpg)
@@ -59,14 +59,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ![DNS server settings on the Internet Protocol Version window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/internet-protocal-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Execute the Remove Proxy Server Command
 
  Another confirmed method for fixing error 0x800704CF is to run a command for removing the proxy server. Users who’ve confirmed this potential solution ran the Netsh.exe utility to disable proxy, which sets more direct internet access. This is how you can remove the proxy server with the Command Prompt:
@@ -77,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 `netsh winhttp reset proxy`  
 ![The remove proxy command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-proxy-command.jpg)
 4. Restart Windows 11 or 10 after executing the command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Disable the Microsoft Network Component Setting Client
 
@@ -94,18 +82,18 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 5. Deselect the**Client for Microsoft Networks** checkbox.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Client for Microsoft Networks checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/client-for-microsoft-network-option.jpg)
 6. Select**OK** to save the new property setting, and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reinstall the Network Adapter Driver
@@ -117,15 +105,20 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-context-menu-option.jpg)
 3. Select the**Delete the driver** (or**Attempt to remove the driver**) checkbox.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. ![The Delete the driver software for this device checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-window.jpg)  
  Click**Uninstall** inside the confirmation dialog window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. To reinstall, click the**Action** menu.  
 ![The Scan for hardware changes option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scan-for-hardware-changes.jpg)
 6. Select**Scan for hardware changes** on the menu to detect and reinstall the missing network driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reregister the Microsoft Store App
 
@@ -134,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
  To apply this solution, open Command Prompt with admin rights, as outlined in steps one and two of resolution four in this guide. Then execute this command:
 
 `Get-AppXPackage *Microsoft.WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml&}`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your PC’s Network
 
@@ -148,6 +145,10 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
  You might need to fix error 0x800704CF because of an issue with your current user account. Some Windows troubleshooting tools could feasibly resolve that user account glitch. However, setting up and migrating to a new user account is an alternative troubleshooting method that you can try.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-option2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To apply this solution, check out our post for[resolving Windows issues by setting up a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) . Create a new local user account as instructed in that article, and then log in to the new account to see if error 0x800704CF occurs there. If not, you can migrate your user files to the new account as covered in that guide.
 
@@ -170,17 +171,24 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-quicktime-lapse-setup-for-5/"><u>[New] 2024 Approved Ultimate Quicktime-Lapse Setup for #5</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastering-alias-transformation-on-google-meet-platforms/"><u>[Updated] Mastering Alias Transformation on Google Meet Platforms</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-online-video-preservation-for-2024/"><u>[Updated] The Ultimate Guide to Online Video Preservation for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeat-stray-crashes-discover-these-6-proven-fixes-for-pc-users/"><u>Defeat Stray Crashes: Discover These 6 Proven Fixes for PC Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-purpose-of-x-marked-folders-in-windows/"><u>Exploring: The Purpose of X-Marked Folders in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-disabling-auto-start-and-update-searches-by-discord/"><u>Guide to Disabling Auto-Start & Update Searches by Discord</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-honor-x50iplus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor X50i+ Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-ascent-performance-optimization-a-comprehensive-guide-to-fixing-lag-and-increasing-frame-rate/"><u>Mastering The Ascent Performance Optimization: A Comprehensive Guide to Fixing Lag and Increasing Frame Rate</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-paste-functionality-in-common-web-browsers/"><u>Restoring Paste Functionality in Common Web Browsers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stopping-unrequested-search-menu-opens-in-win11/"><u>Stopping Unrequested Search Menu Opens in Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-future-tech-empower-your-meta-quest-3-with-ai-capabilities-faster-than-the-vision-pro-in-depth-guide/"><u>Unlocking Future Tech: Empower Your Meta Quest 3 with AI Capabilities Faster Than the Vision Pro | In-Depth Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-journey-of-a-movie-maker-youtube-tutorials-and-more/"><u>[New] 2024 Approved Journey of a Movie Maker YouTube Tutorials & More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-performance-7-cameras-for-cutting-edge-vlogging-tech-for-2024/"><u>[New] High-Performance 7 Cameras For Cutting-Edge Vlogging Tech for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-velocity-in-real-time-periscope-livestreams/"><u>[New] Maximizing Velocity in Real-Time Periscope Livestreams</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-winning-at-movie-watching-leading-windows-phone-apps-for-2024/"><u>[Updated] Winning at Movie Watching Leading Windows Phone Apps for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-easy-steps-to-rotate-video-in-vlc/"><u>2024 Approved Easy Steps to Rotate Video in VLC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-audiovisual-transmitters-for-2024/"><u>Comprehensive Guide to Audiovisual Transmitters for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craftsmanship-reimagined-a-curated-list-of-the-best-7-drawing-apps/"><u>Craftsmanship Reimagined: A Curated List of the Best 7 Drawing Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-driver-issue-43-solved/"><u>Device Driver Issue #43 Solved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-productivity-in-windows-11-world/"><u>Elevate Productivity in Windows 11 World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enrich-your-digital-library-by-adding-emulators-to-playnite/"><u>How to Enrich Your Digital Library by Adding Emulators to Playnite</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-explores-high-dynamic-range-photography/"><u>In 2024, IPhone Explores High Dynamic Range Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/play-with-perspective-learning-warp-effects-in-adobe-ph/"><u>Play With Perspective Learning Warp Effects in Adobe PH</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-plain-text-issues-windows-11-mail-fix-tips/"><u>Preventing Plain Text Issues: Windows 11 Mail Fix Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-setup-routine-installing-outlook-preview-app/"><u>Quick Setup Routine: Installing Outlook Preview App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-wipe-dns-records-from-your-steam-client/"><u>Steps to Wipe DNS Records From Your Steam Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-windows-fix-the-best-8-tactics/"><u>Swift Windows Fix: The Best 8 Tactics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-steadicam-options-for-high-end-dslr-video-production-for-2024/"><u>The Best Steadicam Options for High-End DSLR Video Production for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-full-potential-with-a-trio-of-widget-grids/"><u>Unlocking Windows 11'S Full Potential with a Trio of Widget Grids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-error-encountered-during-oculus-download/"><u>Unveiling Fixes for Error Encountered During Oculus Download</u></a></li>
 </ul></div>
 

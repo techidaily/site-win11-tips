@@ -1,7 +1,7 @@
 ---
 title: Overcoming Microsoft Store App Installation Errors
-date: 2024-08-23T07:08:45.468Z
-updated: 2024-08-24T07:08:45.468Z
+date: 2024-11-29T22:14:06.902Z
+updated: 2024-12-06T16:24:11.746Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,11 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 ![Run the Microsoft Store troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/store-troubleshooter-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows will now search for any problems regarding the Microsoft Store and suggest solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update the Microsoft Store
 
  Microsoft Store might throw error when installing a new app if it’s outdated. In this case, updating the Store to the latest version should fix the problem.
@@ -62,13 +60,18 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
  This way, you install any pending updates for the apps installed through Microsoft Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run an SFC and DISM Scan
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If Microsoft Store still can't install an app after updating it, you might be dealing with corrupted system files. In this case, you should launch Command Prompt with administrative rights and run an SFC and DISM scan.
 
 ## 5\. Turn On Necessary Features
@@ -77,18 +80,6 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
  You can check the app description to find out if it needs a specific feature, so it runs properly. Then, head to Settings and [enable Windows 11 optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/).
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Restart the Application Identity Service
 
  Windows has a built-in service that checks an app's identity when running it. If there’s something wrong with the Application Identity service, you might run into Windows's inability to run a certain app. In this case, you should restart the Application Identity services.
@@ -98,8 +89,9 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 ![Restart the Application Identity service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restart-identity-service-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Close Windows Services, reboot your computer and try to run the problematic app again.
 
 ## 7\. Reset the Microsoft Store
@@ -107,8 +99,9 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
  Microsoft Store might display this error if it accumulated too much cache or if it somehow got corrupted. In this case, [you should reset the Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). Then, relaunch the app and check if the error is now gone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Microsoft Store Apps Working
 
  Being unable to install an app via the Microsoft Store can be frustrating, especially if you want to install an app that requires no special software or hardware. Hopefully, it's just a system glitch that you can solve with the solutions mentioned here.
@@ -119,11 +112,33 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
  Other than getting new hardware, you can solve this issue by going through the below solutions.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-cost-efficient-game-capture-learn-to-livestran-a-match/"><u>[New] Cost-Efficient Game Capture Learn to Livestran a Match</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfected-methods-for-capturing-live-hulu-on-different-devices-for-2024/"><u>[New] Perfected Methods for Capturing Live Hulu on Different Devices for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltra-quick-fortnite-image-design/"><u>[New] Ultra-Quick Fortnite Image Design</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-10-battle-royale-games/"><u>[Updated] 2024 Approved Top 10 Battle Royale Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-diy-photography-support-systems/"><u>[Updated] DIY Photography Support Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-the-confusion-remedy-for-mmc-errors/"><u>Clearing Up the Confusion: Remedy for MMC Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/days-gone-action-packed-adventure-now-available-for-pc-official-launch-announcement/"><u>Days Gone Action-Packed Adventure Now Available for PC – Official Launch Announcement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-security-with-new-passwords-in-windows-11/"><u>Enhance Security with New Passwords in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-unique-launcher-tools-for-windows-applications/"><u>Exploring Unique Launcher Tools for Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-crashes-maintaining-stability-of-windows-epic-launcher/"><u>Fix Crashes: Maintaining Stability of Windows Epic Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-regularity-of-access-control-on-win11/"><u>Guide to Regularity of Access Control on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-missing-time-remaining-indicator-in-windows-11-os/"><u>How to Correct the Missing Time Remaining Indicator in Windows 11 OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/live-speech-recognition-mastery-with-whisper/"><u>Live Speech Recognition Mastery with Whisper</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/networking-galore-places-for-youtube-affiliate-marketing-for-2024/"><u>Networking Galore Places for YouTube Affiliate Marketing for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-conversion-of-mobile-to-desktop-android-webcams-in-windows-11/"><u>Seamless Conversion of Mobile to Desktop: Android Webcams in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-expectations-for-octobers-apple-event-featuring-revolutionary-m4-mac-mini-and-latest-ipads-dive-into-innovative-ai-updates-digitalsavvynet/"><u>Unlocking Expectations for October's Apple Event Featuring Revolutionary M4 Mac Mini and Latest iPads - Dive Into Innovative AI Updates! | DigitalSavvyNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unstick-your-arrows-with-ease-and-precision/"><u>Unstick Your Arrows with Ease and Precision</u></a></li>
+</ul></div>
+

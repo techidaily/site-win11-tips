@@ -1,7 +1,7 @@
 ---
 title: "Discover the Unique Capabilities of Siri: 11 Innovative Uses for Your Mac"
-date: 2024-08-28T01:08:15.311Z
-updated: 2024-08-29T01:08:15.311Z
+date: 2024-12-03T18:02:48.382Z
+updated: 2024-12-06T18:23:26.643Z
 tags:
   - excel
 categories:
@@ -44,17 +44,29 @@ Related: [26 Actually Useful Things You Can Do with Siri](https://extra-resource
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583e314a96045.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The beauty of using Siri to perform Finder operations is that it makes short work of otherwise tedious tasks.
 
 Related: [How to Use macOS' Spotlight Like a Champ](https://fox-that.techidaily.com/7-proven-ways-to-reactivate-depth-effect-feature-on-ios-16-lock-screen/) 
 
  For example, you can ask Siri to open your Applications folder or to find the spreadsheet you were working on yesterday. Maybe you sent a file to a work colleague and you want to review it with them, simply ask Siri to "Show me the file I sent so-and-so" and it's right there in front of you. No more awkward "hold on a minute while I find that file" and other delays.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pull Up Important Information About Your Mac
 
  Here's a little tip that's completely Mac-only. You can now ask Siri to tell you things about your computer. For instance, if you want to know your Mac's serial number or what OS version you have, you only need to ask.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583f35b638ac3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sure, [you could run System Report](https://win-dash.techidaily.com/access-high-quality-gigabyte-sound-card-drivers-without-spending-a-penny/) and search for the needed information, but this is much faster, and more fun.
 
@@ -64,9 +76,6 @@ Related: [How to Use macOS' Spotlight Like a Champ](https://fox-that.techidaily.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583e321e6c90b.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What else you might wonder? Try asking sports questions such as if your favorite team won, what the score of the game was last night, or player stats ("Which quarterback has the most touchdowns?").
 
 Related: [You Can Drag and Drop Siri Image Results into Other Applications on Your Mac](https://extra-skills.techidaily.com/updated-photo-to-pixellated-panels-pro-windows-and-mac-edition/) 
@@ -74,6 +83,10 @@ Related: [You Can Drag and Drop Siri Image Results into Other Applications on Yo
  You can also find photos of just about anything. Just ask Siri to "Find photos of iPhones on the Internet" and it will display a list of the top 12 Bing images results. You can even [drag those results into other applications](https://extra-skills.techidaily.com/updated-photo-to-pixellated-panels-pro-windows-and-mac-edition/).
 
 ![Screen Shot 2016-11-30 at 11.26.35 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/Screen-Shot-2016-11-30-at-11.26.35-AM.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If nothing from these results really strikes your fancy, you can click "See more images in Safari".
 
@@ -86,9 +99,9 @@ Related: [You Can Drag and Drop Siri Image Results into Other Applications on Yo
 ![Untitled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/Untitled-2.gif) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This is particularly useful if you just don't feel like opening Safari and entering in the URL, because we all have those staggering moments of laziness when we just don't want to type.
 
 ##  Play Music or Find Shows in iTunes
@@ -115,17 +128,10 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583e393124c08.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Just tell Siri to update Twitter or to post to Facebook (that's about all you can do with Facebook), and it will prompt you for your words of wisdom. You will need to [make sure your social media accounts are set up](https://youtube-tips.techidaily.com/024-approved-how-to-download-youtube-playlist-step-by-step/) first.
 
  Alternatively, you can give Siri more direct questions and commands, like "Search Twitter for How-to Geek" or "Find tweets with the hashtag GeekLife" or simply ask it what's going on in your town or area.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ##  Open and Search for Applications
 
  This one is as easy as it sounds. If you want to open an application, just tell Siri to do it. For example, "Open Slack" or "Open iTunes".
@@ -134,9 +140,6 @@ The ultimate burning program for all your needs!</a>
 
  If you don't have an application installed, Siri will helpfully offer to search the App Store for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Read and Compose Emails
 
  Tired of using your eyes and brain to read email? Just have Siri do it for you instead.
@@ -146,15 +149,13 @@ The ultimate burning program for all your needs!</a>
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583e39e337f28.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This is a pretty cool trick allowing you to continue working on something else without interrupting your flow.
 
  And, if you need to dash off a quick message to your boss, you can tell Siri, "Mail Whitson about that really long Siri article" or ask it if you have "Any new email from Lowell today?"
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Make Reminders, Appointments, and Notes
 
  Apple devices come with a triple productivity threat in the form of Reminders, Appointments, and Notes.
@@ -163,9 +164,6 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583e3bbd414bb.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Better still, Reminders will propagate to your other devices like iPhone and iPad, so no matter where you are or where you go, they'll always be with you.
 
  The same things goes for setting appointments. Just tell Siri something like "Create an event on Wednesday for 'Lunch at noon with Mom'" and it will add it to your Calendar.
@@ -173,13 +171,18 @@ The ultimate burning program for all your needs!</a>
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583f014080a62.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And again, what you add on Mac will appear on your other Apple devices, so there's no fear of missing out.
 
  There's quite a bit more you can do with Calendar, like moving or rescheduling appointments ("Move my noon meeting to 3pm"), asking for your itinerary ("What does my day look like?"), or even double-checking on specific upcoming meetings ("What's on my calendar for Tuesday?").
 
  On the Notes side of things, it's very easy to make little notes about things such as "Note that I paid my water bill", or "Find my meeting notes", or "Show my notes from November 23rd." Notes aren't complicated, so you should have no problem mastering them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Control OS Settings
 
@@ -189,10 +192,11 @@ Related: [How to Control System Settings with Siri in macOS Sierra](https://soun
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583f33c5481f6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  You can also open up various application settings so again, you don't have to use the keyboard or mouse. Now, features that you'd normally have to click to access are now just a few spoken words away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Find Photos and Create Slideshows
 
@@ -206,9 +210,6 @@ Related: [How to Control System Settings with Siri in macOS Sierra](https://soun
 
  Let's say you want to create a quick slideshow from your recent vacation to Europe or from last summer or the past month. Easy, just tell Siri to "Create a slideshow of my photos from last summer." Photos will open, gather together the necessary pictures, and start your slideshow.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Discover Random Facts and Figures
 
  This category is so vast, that it's impossible to list everything you can possibly ask, but here are some examples:
@@ -237,8 +238,6 @@ Related: [How to Control System Settings with Siri in macOS Sierra](https://soun
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +245,24 @@ Related: [How to Control System Settings with Siri in macOS Sierra](https://soun
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-race-through-the-olympics-top-sections-2022/"><u>[New] In 2024, Race Through the Olympics Top Sections, 2022</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-tips-for-producing-ai-powered-live-game-streaming-content-for-2024/"><u>[Updated] Tips for Producing AI-Powered Live Game Streaming Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-surround-audio-experience-in-windows-11/"><u>Creating a Surround Audio Experience in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cal-channels-for-asmr-lovers/"><u>Critical Channels for ASMR Lovers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/vate-1000-fanbase-followers-quickly-for-2024/"><u>Cultivate 1,000 Fanbase Followers Quickly for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-steps-to-stop-and-fix-iomap64-bsod-on-windows-pcs/"><u>Effective Steps to Stop and Fix IOMap64 BSoD on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ending-windows-high-contrast-functionality/"><u>Ending Windows' High Contrast Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fostering-flourishing-meditations-dual-influence-on-thought-and-sentiment/"><u>Fostering Flourishing: Meditation’s Dual Influence on Thought and Sentiment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-rectify-failed-load-in-discord-for-windows/"><u>Guidelines to Rectify Failed Load in Discord for Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-system-with-aggregatorhostexe-insights/"><u>Navigating Through Windows System with AggregatorHost.exe Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-system-load-fixing-wmi-resource-excesses/"><u>Reducing System Load: Fixing WMI Resource Excesses</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-themed-gaming-cutting-edge-play-style/"><u>Retro-Themed Gaming, Cutting-Edge Play Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-common-errors-with-anydesk-on-windows/"><u>Tackling Common Errors with AnyDesk on Windows</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-motorola-moto-g24-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Motorola Moto G24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-failing-windows-11-activation-keys/"><u>Troubleshooting Failing Windows 11 Activation Keys</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-the-power-of-spotifys-advertising-potential-for-2024/"><u>Unlock the Power of Spotify’s Advertising Potential for 2024</u></a></li>
+</ul></div>
 

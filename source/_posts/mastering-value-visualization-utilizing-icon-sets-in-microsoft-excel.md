@@ -1,7 +1,7 @@
 ---
 title: "Mastering Value Visualization: Utilizing Icon Sets in Microsoft Excel"
-date: 2024-08-28T01:09:07.898Z
-updated: 2024-08-29T01:09:07.898Z
+date: 2024-11-30T22:54:29.233Z
+updated: 2024-12-06T23:18:19.422Z
 tags:
   - excel
 categories:
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 
 ![On the Home tab, click Conditional Formatting, Icon Sets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingIconSets-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you hover your cursor over the various Icon Sets, you can see them previewed in your spreadsheet. This is a nifty way to see which set of icons works best for you.
 
 ![Hover your cursor to preview Icon Sets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingPreviewIconSets-Excel.png) 
@@ -41,9 +45,9 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 ![Star Icon Set Example](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/SimpleStarIconSets-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Create a Custom Conditional Formatting Icon Set
 
  As previously mentioned, these Icon Set options from the pop-out menu have preset values attached. So, if you need to adjust the ranges to match the data in your sheet, you can create a custom conditional formatting rule. And it's easier than you might think!
@@ -53,53 +57,36 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![On the Home tab, click Conditional Formatting, New Rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingNewRuleIconSets-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the New Formatting Rule window opens, select "Format All Cells Based on Their Values" at the top.
 
 ![Pick Format All Cells Based on Their Values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatBasedValuesIconSets-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  At the bottom of the window, click the Format Style drop-down list and pick "Icon Sets." You'll then customize the details for the rule.
 
 ![Select Icon Sets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatBasedValuesChooseIconSets-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  Choose the Icon Style in the next drop-down list. Again, you can pick from three, four, or five categories. If you prefer the icons in the opposite arrangement, click "Reverse Icon Order."
 
 ![Pick an Icon Set](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatBasedValuesSelectIconSet-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A handy feature of the Icon Sets custom rule is that you aren't stuck with the exact set of icons that you select. Below that Icon Style drop-down box, you'll see boxes for the icons in the group. This allows you to customize the exact icons for your rule. So if you, for example, want to use a star, flag, and arrow instead of three stars, go for it!
 
 ![Pick custom icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/CustomIconSet-Excel.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The final part to setting up your rule is entering the values for the range. Choose "Greater Than" (>) or "Greater Than or Equal to" (>=) in the first drop-down box. Enter your value in the next box and choose whether it's a number, percent, formula, or percentile. This gives you great flexibility to set up your rule.
 
 ![Add the values and type of values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatBasedValuesIconSetValues-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, click "OK" to apply your rule.
 
@@ -130,8 +117,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +124,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-gopro-hero5-black-vs-hero5-standard-for-2024/"><u>[New] GoPro Hero5 Black vs Hero5 Standard for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-engaging-viewers-on-youtube-gaming-livestreams/"><u>[Updated] In 2024, Engaging Viewers on YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-windows-high-contrast-feature/"><u>Disabling Windows' High Contrast Feature</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enrich-perspectives-through-polyglotisms-triumph/"><u>Enrich Perspectives Through Polyglotism's Triumph</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hololens-unveiled-microsofts-leap-to-3d-reality/"><u>HoloLens Unveiled – Microsoft's Leap to 3D Reality</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-download-music-from-facebook-videos-and-save-as-mp3s-step-by-step-instructions/"><u>How To Download Music From Facebook Videos and Save as MP3s: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-cwindowssystem32configsystemprofiledesktop-error-message/"><u>How to Resolve 'C: Windows System32 Config SystemProfile Desktop' Error Message?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-lava-storm-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Lava Storm 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-over-lags-swift-precision-on-star-wars-bf2-windows-pc/"><u>Jump Over Lags: Swift Precision on Star Wars BF2 Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-w11-battery-health-automatic-rest-mode/"><u>Keeping W11 Battery Health: Automatic Rest Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gpo-tweaks-for-updated-windows-compliance/"><u>Mastering GPO Tweaks for Updated Windows Compliance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-pc-search-employ-everythingapp/"><u>Maximize PC Search, Employ EverythingApp</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-quest-3-release-and-lying-down-mode-understanding-the-extended-timeline-insights-from-zdnet/"><u>Meta Quest 3 Release and 'Lying Down Mode': Understanding the Extended Timeline – Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-unseen-wi-fi-networks-on-win11/"><u>Steps to Rectify Unseen Wi-Fi Networks on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-minimizing-spend-on-windows-11-keys/"><u>Strategies for Minimizing Spend on Windows 11 Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tangles-resolved-how-to-reactivate-sleeping-pcs/"><u>Tech Tangles Resolved: How to Reactivate Sleeping PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pros-guide-to-effortless-directx-installation/"><u>The Pro's Guide to Effortless DirectX Installation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209675527-9781452176741-witch-please/"><u>Witch, Please | Free Book</u></a></li>
+</ul></div>
 

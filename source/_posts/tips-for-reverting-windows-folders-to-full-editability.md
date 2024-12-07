@@ -1,7 +1,7 @@
 ---
 title: Tips for Reverting Windows Folders to Full Editability
-date: 2024-08-28T01:09:26.004Z
-updated: 2024-08-29T01:09:26.004Z
+date: 2024-12-03T17:05:38.758Z
+updated: 2024-12-07T01:05:03.488Z
 tags:
   - windows10
   - windows11
@@ -42,9 +42,17 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 4. Click **Apply** and hit **OK**.  
 ![Unchecking the Box for Read-Only Option in the General Tab of Properties Window of the File on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Unchecking-the-Box-for-Read-Only-Option-in-the-General-Tab-of-Properties-Window-of-the-File-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If removing the attribute this way does not solve the problem, or if the problem involves multiple files, keep applying the remaining fixes.
 
  If you have encountered the issue on a work computer, you may not be able to apply a few fixes mentioned below. Thus, if you encounter an error saying you don't have permission to make any changes, it's best to let your IT admin handle it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Ensure an Administrator Hasn't Imposed Any Restrictions
 
@@ -56,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 4. Check the **Permissions for Users** section after selecting your account.  
 ![Checking the Permissions Window in the Security Tab in the File’s Properties on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-2-Checking-the-Permissions-Window-in-the-Security-Tab-in-the-File’s-Properties-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  You can't make changes to the files if you only have read-only permissions. If you believe the access was restricted by mistake, ask the administrator to grant you access.
 
  If you're an administrator, here's how you can change the access permissions of other users:
@@ -69,21 +74,16 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 4. Click the **Edit** button.  
 ![Clicking on Edit Button under Security Tab in Properties Window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-3-Clicking-on-Edit-Button-under-Security-Tab-in-Properties-Window-on-Windows.jpg)
 5. Choose the user you want to grant access to.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 6. In the **Permissions for Users** window, check the box next to **Full control** under **Allow** column.  
 ![Checking the Box Next to Full Control under Allow Column in the Permissions for Users Window in Security Tab on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-4-Checking-the-Box-Next-to-Full-Control-under-Allow-Column-in-the-Permissions-for-Users-Window-in-Security-Tab-on-Windows.jpg)
 7. After clicking **Apply**, hit **OK**.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have multiple personal accounts on your computer, you can change permissions for each account using the administrator account similarly.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Ransomware Protection in the Windows Security Settings
 
  To combat ransomware threats and safeguard users' data, Microsoft has introduced a ransomware protection feature. By using this feature, users can prevent third-party apps from changing their files and folders without their permission.
@@ -97,14 +97,12 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 4. Turn off the toggle under **Controlled folder access**.  
 ![Disabling Ransomware Protection by Turning Off the Toggle under Controlled Folder Access in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Disabling-Ransomware-Protection-by-Turning-Off-the-Toggle-under-Controlled-Folder-Access-in-Windows-Security-App-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If disabling this feature doesn't resolve the problem, you may need to reset the entire Windows Defender Firewall settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reset the Windows Defender Firewall Settings
 
  Have you recently made changes to your Windows Defender Firewall settings and encountered this problem? If so, there's a good chance you've done something wrong. Therefore, resetting them may help you resolve the issue. Follow the below steps to reset Windows Defender Firewall settings:
@@ -115,11 +113,12 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 4. In the left sidebar, click **Restore defaults**.  
 ![Opening Restore Defaults Option in Windows Defender Firewall Tab in System and Security Settings in Control Panel App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-7-Opening-Restore-Defaults-Option-in-Windows-Defender-Firewall-Tab-in-System-and-Security-Settings-in-Control-Panel-App-on-Windows.jpg)
 5. Click **Restore defaults** button.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 6. When the confirmation pop-up appears, select **Yes**.  
 ![Clicking on the Yes Button after Clicking on the Restore Defaults Button on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-8-Clicking-on-the-Yes-Button-after-Clicking-on-the-Restore-Defaults-Button-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus and Other Security Software
 
@@ -130,8 +129,9 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
  Whether disabling the built-in or third-party security suites fixes the issue or not, you should enable them again to keep your device protected from viruses.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Forcefully Remove the Read-Only Attribute
 
  If none of the fixes have resolved the issue of folders reverting to read-only mode, you should remove the read-only attribute forcibly using Command Prompt. Here's how:
@@ -142,9 +142,6 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 3. Hit **Enter**.  
 ![Removing the Read-Only Attribute by Running the Command in Windows Command Prompt App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-9-Removing-the-Read-Only-Attribute-by-Running-the-Command-in-Windows-Command-Prompt-App-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Run the SFC and CHKDSK Scans
 
  Corrupted system files and bad hard drive sectors can also alter the folder's permission access. Run the SFC and Chkdsk scans to ensure that's not the case. SFC can help you search for and fix corrupted system files, whereas Chkdsk can find bad sectors on your hard drive that could be causing the issue.
@@ -156,8 +153,9 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
  If the issue under discussion occurred after installing a Windows update, you should uninstall it and revert to the previous version of Windows. Check out our article on [manually uninstalling Windows 10 and 11 updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) if you're unfamiliar with the process.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Relocate the Folders to Another Drive
 
  While it may initially seem strange, relocating the folders whose permissions get restricted to another drive also resolved the issue for some users. Therefore, move your folders from one drive to another, remove the read-only attribute, and see if they revert to read-only again. If relocating the folder to a different drive does not resolve the issue, go to the next fix.
@@ -170,13 +168,15 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 
  If you're unfamiliar with the process, check out our article that explains [how to perform a system restore in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/#how-to-use-restore-point-to-restore-your-windows-11-system). For Windows 10, the process is nearly the same.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Keep Your Files and Folders Editable
 
  Hopefully, applying the fixes mentioned in the article will help you prevent your folder from reverting to read-only mode. Moreover, to stop files from opening in read-only mode in a specific app, such as OneNote, you'll have to change the app settings.
 
  In this article, we'll explain why your folders revert to read-only mode and what you can do to prevent it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -184,3 +184,27 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-10-strategies-for-youtube-to-mpeg-conversion/"><u>[New] In 2024, Top 10 Strategies for YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-your-perfect-gamers-paradise-a-complete-guide-with-tips-from-zdnet/"><u>Building Your Perfect Gamer's Paradise: A Complete Guide with Tips From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-win-1011-active-directory-printer-errors-swiftly/"><u>Clearing Up Win 10/11 Active Directory Printer Errors Swiftly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-and-fix-navigating-through-winerror-chaos/"><u>Decode and Fix: Navigating Through WinError Chaos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-leveraging-windows-11s-auto-hdr/"><u>Essential Tips for Leveraging Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-11-perks-for-everyday-users/"><u>Essential Windows 11 Perks for Everyday Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-suppressing-win-11s-on-screen-hub-mode/"><u>Guide to Suppressing Win 11'S On-Screen Hub Mode</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-12-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone 12 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>In 2024, From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 13</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/m-moock-1000a-peak-18000mah-car-jump-starter-review/"><u>M MOOCK 1000A Peak 18000mAh Car Jump Starter Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-games-windows-amd-settings-for-excellence/"><u>Master Your Games: Windows AMD Settings for Excellence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-portaudio-misfires-in-audacity-on-win-1111/"><u>Remedying PortAudio Misfires in Audacity on Win 11/11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-google-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Google? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/synchronizing-qbittorrent-settings-between-multiple-windows-systems/"><u>Synchronizing qBittorrent Settings Between Multiple Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-reboot-mastery-three-paths-to-a-fresh-start/"><u>System Reboot Mastery: Three Paths to a Fresh Start</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-top-4-competitors-beating-the-classic-google-chromecast-a-comprehensive-guide/"><u>The Top 4 Competitors Beating the Classic Google Chromecast: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-potential-with-simple-hotkey-pairings/"><u>Unlock Windows Potential with Simple Hotkey Pairings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/wraith-vision-freezing-lesson/"><u>Wraith Vision Freezing Lesson</u></a></li>
+</ul></div>
+

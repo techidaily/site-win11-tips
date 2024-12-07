@@ -1,7 +1,7 @@
 ---
 title: What Is the Implication of a Crossed-Out Icon in Explorer?
-date: 2024-08-23T07:08:55.248Z
-updated: 2024-08-24T07:08:55.248Z
+date: 2024-12-05T00:30:09.140Z
+updated: 2024-12-06T16:31:19.131Z
 tags:
   - windows10
   - windows11
@@ -48,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
  After logging in, reboot your device. Hopefully, a fresh sync will resolve the issue with the folder icons. But how do you proceed if you're already logged in to OneDrive?
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Relink Your OneDrive Account
 
  If your account is already signed in on OneDrive, but you are encountering this problem, there could be an issue with syncing. Therefore, unlink the already linked account and then relink it. Follow the below steps to do that:
@@ -59,9 +60,11 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 3. Select**Settings** from the menu.  
 ![Go to Settings From OneDrive Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-go-to-settings-from-onedrive-menu.jpg)
 4. Go to the**Account** tab in the**OneDrive Settings** window.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Then click on**Unlink this PC** .  
 ![Unlink the PC From OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-unlink-the-pc-from-onedrive.jpg)
 6. In the confirmation window, click**Unlink account** .
@@ -69,12 +72,16 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 8. Right-click to bring up the context menu, then click Refresh.  
 ![windows context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully, unlinking the OneDrive account will fix the issue. If it does, sign in to OneDrive again by following the instructions in the first fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change OneDrive Settings
 
  If you see cross-hatched red circles beside files or folders when using a metered connection or battery-saving mode, you've probably configured OneDrive not to sync files in these scenarios. So, you should change these settings if that's the case. To do that, follow these steps:
@@ -85,17 +92,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Select**Settings** from the context menu.  
 ![Open OneDrive Settings From the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-open-onedrive-settings-from-the-context-menu.jpg)
 4. Go to the**Sync and backup** tab in the**OneDrive Settings** window.
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. In the**Preferences** settings, turn off toggles next to**Pause syncing when this device is in battery saver mode** and **Pause syncing when this device is on a metered connection** .  
 ![Disable Certain Options in the Preferences Settings of Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-disable-certain-options-in-the-preferences-settings-of-microsoft-onedrive.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you disable these two options, OneDrive syncing won't stop when your device is connected via a metered connection or set to power-saving mode.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Ensure OneDrive Has Enough Space Free
 
  The problem under discussion can also occur if there isn't sufficient space in OneDrive for syncing additional data. Hence, if you have not been successful in resolving the issue with the above fixes, you should check the available space in your OneDrive account.
@@ -108,12 +118,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you have enough free storage space in OneDrive, which means low storage space isn't the issue, you can move on to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Restart the Windows Explorer Process
 
  Restarting the Windows Explorer process resolves most visual issues on a Windows PC. Therefore, if you have not already restarted it, you should do so now. If you're unfamiliar with the process, check out our guide on[how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall OneDrive
 
@@ -127,9 +138,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Then click on**three horizontal dots** next to**Microsoft OneDrive** and click**Uninstall** .  
 ![Uninstall Microsoft OneDrive in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/12-uninstall-microsoft-onedrive-in-windows-settings-app.jpg)
 6. After that, go to the[OneDrive download page](https://www.microsoft.com/en-ww/microsoft-365/onedrive/download) and re-download OneDrive.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 7. Then, run the setup file and wait for it to finish installing.
 8. Reboot your device once the installation is complete.
 9. After that, sign in again to begin syncing.
@@ -138,14 +146,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Seeing red circles on Windows folders gives the impression that your computer has a severe problem. Hopefully, now you understand why these annoying cross signs appear on your folders. In addition, the fixes discussed in the article will help you resolve this annoying problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +159,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-transform-streams-into-premium-4k-videos-easily/"><u>[New] In 2024, Transform Streams Into Premium 4K Videos Easily</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-ace-your-marketing-game-top-5-youtube-techniques-unveiled/"><u>[Updated] Ace Your Marketing Game Top 5 YouTube Techniques Unveiled</u></a></li>
+<li><a href="https://facebook.techidaily.com/essentials-of-facebook-job-advertising-guide/"><u>Essentials of Facebook Job Advertising Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-windows-display-eradicating-overscan/"><u>Fine-Tuning Windows Display: Eradicating Overscan</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-c67-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme C67 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-windows-11-from-restarting-repeatedly-easy-fixes/"><u>How To Stop Windows 11 From Restarting Repeatedly (Easy Fixes)</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-15-pro-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 15 Pro Max Location by Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/narrative-exploration-unleashed-a-torment-tides-of-numenera-game-analysis/"><u>Narrative Exploration Unleashed: A Torment: Tides of Numenera Game Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-windows-11-taskbar-size-and-alignment/"><u>Perfecting Windows 11 Taskbar Size and Alignment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/price-tracker-for-cloud-space-services-a-detailed-review-for-2024/"><u>Price Tracker for Cloud Space Services A Detailed Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pros-picks-the-leading-drawers-on-windows-11/"><u>Pro's Picks: The Leading Drawers on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refresh-windows-memory-3-essential-steps/"><u>Refresh Windows Memory - 3 Essential Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-sync-for-dual-desktops-mastering-file-coordination-via-aoemi/"><u>Streamlined Sync for Dual Desktops: Mastering File Coordination via AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-alleviate-windows-overload-due-to-unrealcefsubprocess/"><u>Techniques to Alleviate Windows' Overload Due to UnrealCEFSubprocess</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-deadly-mystery-of-windows-c0000022-failure/"><u>Unraveling the Deadly Mystery of Windows' C0000022 Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-component-services-tool-essentials/"><u>Unraveling Windows Component Services Tool Essentials</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-video-editing-essentials-import-edit-and-export-in-adobe-premiere-2023/"><u>Updated Video Editing Essentials Import, Edit, and Export in Adobe Premiere 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-systems-speed-with-essential-wintoys-tools/"><u>Upgrade Your System's Speed with Essential WinToys Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/vimeoifytweets-audiovideo-tweet-tool/"><u>VimeoifyTweets Audio/Video Tweet Tool</u></a></li>
+</ul></div>
 

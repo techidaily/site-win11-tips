@@ -1,7 +1,7 @@
 ---
 title: "Integrating Phone Calls Into Your Workflow: Intel Unison & Windows 11 Guide"
-date: 2024-08-23T07:08:27.181Z
-updated: 2024-08-24T07:08:27.181Z
+date: 2024-12-03T23:15:01.820Z
+updated: 2024-12-06T23:19:27.185Z
 tags:
   - windows10
   - windows11
@@ -26,13 +26,18 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  The reason behind this issue is that you haven’t paired your Windows 11 laptop with your phone’s Bluetooth. When you open the calls interface in the desktop app, it displays a blank screen with a message to pair with the mobile phone via Bluetooth and give access to phone contacts. So, you need to enable Bluetooth connectivity on your laptop and then pair it with the phone which has the Intel Unison app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make Calls From Your Phone Using the Intel Unison App on Windows 11
 
  In the first step, we will pair the Windows 11 system with the phone’s Bluetooth. Then, we will open the desktop app interface and try to call someone.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Pair Your Windows 11 Laptop and Phone
 
  To pair your phone with the Windows 11 laptop, repeat the following steps:
@@ -41,31 +46,22 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 2. Click the**Add devices** button and pick the**Bluetooth** option from the list.  
 ![Add a New Bluetooth Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-a-new-bluetooth-device.jpg)
 3. Locate the phone in the list of available devices and click on it. Then click on the**Connect** button.
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. You will receive a pairing prompt on your phone. Match the connection PIN and click on the**Pair** button.
 5. Launch the Intel Unison app on your system. Navigate to the left-hand side menu and click on the**Calls** option.
 6. In the Calls section, click on the**Show me how** button. Then click on the**Send request to phone** button.  
 ![Send Connection Request in Unison App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/send-connection-request-in-unison-app.jpg)
 7. Approve the pairing request on your phone. Return to the desktop app and click on the**Pair** button.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Lastly, click on the**Done** button
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Making Calls via the Intel Unison App
 
  Your phone and computer are now paired with Bluetooth. Here’s how to make your first call using Intel Unison:
@@ -73,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 1. Navigate to the Calls section in the Unison app. Click on a contact from the list of available contacts. Or you can use the search bar to find a specific contact.  
 ![Selecting a contact in Intel Unison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-a-contact-in-intel-unison.jpg)
 2. Go to the right-hand side section and**Click on the call** button to dial a number. If the selected contact has multiple phone numbers, click on the call icon next to a specific number you want to dial.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Calling a contact in Intel Unison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/calling-a-contact-in-intel-unison.jpg)
 
  The current app interface is a bit clunky, so clicking on the Show button doesn’t expand the call options. However, there is a separate tiny section that you can expand to mute calls, use a keypad, or end calls.
@@ -87,20 +80,18 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
  Also, if you have a desktop, you will need to pick up a[Bluetooth adapter for Windows](https://www.makeuseof.com/tag/bluetooth-adapter-for-pc/) to connect and pair it with your phone. Only then you can use the calling feature in the app.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Calls Without Lifting Your Phone
 
  Intel Unison makes it easy to access your phone contents and make calls and send text messages. It is absolutely free and works with iPhones too. So, you don’t have to use any third-party alternatives unless they offer better features and security.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +100,19 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevate-your-tiktok-content-with-the-ultimate-toolkit/"><u>[New] 2024 Approved Elevate Your TikTok Content with the Ultimate Toolkit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-convenient-techniques-for-documenting-virtual-gatherings/"><u>2024 Approved Convenient Techniques for Documenting Virtual Gatherings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clarifying-system-repair-tools-chkdsk-vs-sfc-and-dissect-processes/"><u>Clarifying System Repair Tools: Chkdsk Vs. Sfc & Dissect Processes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-pro-5-ways-to-get-into-a-locked-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14 Pro? 5 Ways to get into a Locked iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-transform-your-live-broadcasting-skills-using-dslr-on-personal-computers/"><u>In 2024, Transform Your Live Broadcasting Skills Using DSLR on Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-mail-app-failure-decode-windows-11s-0x800713f/"><u>Overcoming Mail App Failure: Decode Windows 11’S 0X800713F</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-address-long-waiting-periods-launching-the-force-unleashed-battlefront-ii-on-pc/"><u>Quick Fixes to Address Long Waiting Periods Launching The Force Unleashed: Battlefront II on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-guide-to-developing-your-own-windows-voice-translation-app/"><u>Simplified Guide to Developing Your Own Windows Voice Translation App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-unsyncing-google-drive-on-your-pc-instantly/"><u>Troubleshoot Unsyncing Google Drive on Your PC Instantly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-game-series-parallels-not-gta-v-edition-for-2024/"><u>Ultimate Game Series Parallels - Not GTA V Edition for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-magic-6-lite-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Magic 6 Lite? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

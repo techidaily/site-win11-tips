@@ -1,7 +1,7 @@
 ---
 title: How to Amend Text Error MsResource, W11 Edition
-date: 2024-11-24T16:31:19.256Z
-updated: 2024-11-27T17:11:55.024Z
+date: 2024-12-05T01:03:23.823Z
+updated: 2024-12-07T00:08:26.713Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. How to Fix the "ms-resource:Appname/Text" Error in the Start Menu
 
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 4. Right-click on each process and **End Task**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. In Task Manager, click **Run new task**. On Windows 10 and older versions, click **File** and select **Run new task**.  
@@ -86,24 +90,16 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 
 ![view application folder windows 11 run shell apps folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/view-application-folder-windows-11-run-shell-apps-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can view the application directory to view the installed apps. Press **Win + R** to open Run, type **shell:appsfolder**, and click **OK**. It will open the **Applications** folder. Go through the apps to see if you can locate an app named **ms-resource:Appname/Text** or similar to the entry in the Start Menu.
 
  Once you have the app name, open the Microsoft Store. Search for the app and check if an update exists. Click **Update** to download and install the update. Once installed, restart your computer and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What if the "Ms-resource:Appname/Text" Error Appears When Launching an App?
 
  At times, you may encounter this error when opening a built-in Microsoft Store app. In this instance, you can run the Microsoft Store apps troubleshooter to fix the issue. Here are a few additional troubleshooting steps to fix this error when launching an app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run the Microsoft Store Apps Troubleshooter
@@ -119,9 +115,17 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 
  If you don’t see a Windows Store App troubleshooter option, you are likely running a newer version of the OS without this option. In this instance, try to repair the Microsoft Store app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair the Microsoft Store App
 
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the Windows Store Apps troubleshooter is missing or didn’t help, try to repair the Microsoft Store App. You can use the built-in repair option to find and fix common issues with the official app store.
 
@@ -142,14 +146,14 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 
 ![wsreset.exe command in the Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsreset-exe-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Press **Win + R** to open the **Run** dialog.
 2. Type **wsreset.exe** and click **OK**.
 
  Still not resolved? Try to [perform a Microsoft Store reset](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). Doing so will delete all app data, and you may need to sign in to your Microsoft account again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Other Troubleshooting Steps You Can Try
 
@@ -160,10 +164,6 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 3. **Perform a reset** – If an in-place upgrade doesn’t help, consider [performing a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). You can perform a complete reset while choosing to keep your files, but all your apps will be removed.
 4. **Clean install** – [Performing a Windows clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) will erase everything on your computer and reinstall Windows 11 from scratch. Make sure to back up important data before attempting a clean install.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixing the "ms-resource:Appname/Text" Error in Windows 11
 
  Often this entry in the start menu is a ghost entry from an unsuccessful or leftover installation of a Microsoft app. To remove the entry or restore the app, you can re-register the Microsoft app, remove the affected app package or run the Windows Store Apps Troubleshooter.
@@ -172,21 +172,6 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 
  This entry in the Start Menu is a trace for a built-in app that has been removed in the successive upgrade. Depending on where you are seeing the error, follow the steps in the article below to resolve this error on your computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-mastering-zd-soft-screen-recorder-a-comprehensive-handbook/"><u>[New] In 2024, Mastering ZD Soft Screen Recorder A Comprehensive Handbook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-scoop-up-10-memes-that-balance-humor-with-heartfelt-emotions-for-2024/"><u>[New] Scoop Up 10 Memes That Balance Humor with Heartfelt Emotions for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-scrutinizing-free2x-tech-for-optimal-webcam-use/"><u>2024 Approved Scrutinizing Free2X Tech for Optimal Webcam Use</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unseen-snappers-guide-the-art-of-stealthy-picture-recording/"><u>2024 Approved Unseen Snapper's Guide The Art of Stealthy Picture Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/a-comprehensive-introduction-to-streamlabs-obs-for-2024/"><u>A Comprehensive Introduction to Streamlabs OBS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-to-restore-windows-alpha-key-50-characters/"><u>Essential Steps to Restore Windows Alpha Key (50 Characters)</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/exploring-xvideos-security-risks-safe-browsing-tips-and-protection-strategies/"><u>Exploring XVideos Security Risks: Safe Browsing Tips & Protection Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gta-5-freezing-problems-discover-effective-fixes-and-get-back-to-high-octane-action/"><u>GTA 5 Freezing Problems? Discover Effective Fixes and Get Back to High-Octane Action!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 iOS? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-apptext-issue-on-windows-11-resource/"><u>How to Resolve AppText Issue on Windows 11 Resource</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-viewing-experience-shift-to-tiled-desktops/"><u>Optimize Viewing Experience: Shift to Tiled Desktops</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -194,3 +179,27 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-camera-elevation-best-tripods-for-smartphone-shots/"><u>[New] Camera Elevation Best Tripods for Smartphone Shots</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-can-you-stream-fb-videos-on-your-living-room-screen-this-year/"><u>[New] Can You Stream FB Videos On Your Living Room Screen This Year?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-eye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>[New] In 2024, Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unleashing-potential-best-macos-recording-apps-analysis/"><u>[Updated] 2024 Approved Unleashing Potential Best macOS Recording Apps Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigate-easy-customization-for-youtube-channel-urls/"><u>[Updated] Navigate Easy Customization for YouTube Channel URLs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-method-turn-off-pin-during-windows-11-display-cast/"><u>Easy Method: Turn Off PIN During Windows 11 Display Cast</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/playtime-to-peak-time-top-gaming-women-in-the-digital-space-for-2024/"><u>From Playtime to Peak Time Top Gaming Women in the Digital Space for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-utilize-srt-playback-across-operating-systems/"><u>In 2024, Utilize SRT Playback Across Operating Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-12r-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 12R Phone Network-Ready</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-removal-add-a-permanently-deletable-trash-bin-to-your-windows-11/"><u>Mastering File Removal: Add a Permanently Deletable Trash Bin to Your Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-component-services-an-overview/"><u>Navigating Windows Component Services: An Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-responsive-hibernate-in-windows/"><u>Resolving Non-Responsive Hibernate in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reverse-malfunctioning-notifications-in-windows-os/"><u>Strategies to Reverse Malfunctioning Notifications in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-external-display-delays-in-windows-systems/"><u>Tackling External Display Delays in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-hd-adventure-mastery-on-windows-through-scummvm/"><u>The Ultimate Guide to HD Adventure Mastery on Windows Through ScummVM</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-vivo-by-fonelab-android-recover-music/"><u>Undelete lost music from Vivo</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-transform-your-gopro-footage-mac-video-editing-essentials/"><u>Updated 2024 Approved Transform Your GoPro Footage Mac Video Editing Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-gaming-pcs-reimagined-with-atlasos/"><u>Vintage Gaming PCs, Reimagined with AtlasOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-firewall-a-complete-reboot-guide/"><u>Windows Firewall: A Complete Reboot Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Turn On/Off the Power: Modify Win11 Registry Tools"
-date: 2024-08-23T07:08:46.571Z
-updated: 2024-08-24T07:08:46.571Z
+date: 2024-11-30T23:46:11.369Z
+updated: 2024-12-07T01:07:25.242Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5b80927e68923eec1d1361008f6bde3827f135dcc
 
  Fortunately, it’s possible to disable (or enable) Registry Editor access on your Windows 11 PC. Let's see how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Disable or Enable Registry Editor Access via the Group Policy Editor
 
  The most straightforward way to block access to the Registry Editor on Windows is via the Group Policy Editor. However, it’s important to note that this tool is only available on Windows Pro, Education, and Enterprise editions. If you happen to be using Windows Home, refer to our guide on [how to access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before proceeding.
@@ -32,7 +36,15 @@ thumbnail: https://thmb.techidaily.com/5b80927e68923eec1d1361008f6bde3827f135dcc
 6. Click **Apply** followed by **OK**.  
 ![Block Registry Editor Access via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-group-policy-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Following this, users will see the “Registry editing has been disabled by your administrator” message when they attempt to access the Registry Editor. If you want to re-enable Registry Editor later, repeat the above steps and set the **Prevent access to registry editing tools** policy to **Not configured** or **Disabled**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Disable or Enable Registry Editor Access via the Registry Editor
 
@@ -46,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/5b80927e68923eec1d1361008f6bde3827f135dcc
 6. Right-click on the **System** key and select **New > DWORD (32-bit) Value**. Name it **DisableRegistryTools**.
 7. Double-click the newly created DWORD, type **1** in the Value data field, and hit **OK**.  
 ![Block Registry Editor Access via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you complete the above steps, the Registry Editor will be disabled on your PC.
 
@@ -69,15 +85,14 @@ thumbnail: https://thmb.techidaily.com/5b80927e68923eec1d1361008f6bde3827f135dcc
  Once you run the above command, the Registry Editor will become accessible again.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Allowing or Disallowing Registry Editor Access on Windows
 
  Blocking access to the Registry Editor is an effective way to protect your system from registry mishaps. Nonetheless, if you opt to re-enable access to the Registry Editor on your PC, make sure to exercise caution to avoid messing up the Windows Registry.
 
  Fortunately, it’s possible to disable (or enable) Registry Editor access on your Windows 11 PC. Let's see how.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -85,3 +100,22 @@ thumbnail: https://thmb.techidaily.com/5b80927e68923eec1d1361008f6bde3827f135dcc
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-barebones-calm-music-selection-for-2024/"><u>[New] Barebones Calm Music Selection for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experiences-with-the-syma-x8c-drone/"><u>[New] Experiences with the Syma X8C Drone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comet-bookkeeper-system-fixes/"><u>Comet Bookkeeper System Fixes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/complete-ipad-showdown-find-your-perfect-tablet/"><u>Complete iPad Showdown: Find Your Perfect Tablet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-stellar-video-beginnings-with-free-tools-for-2024/"><u>Crafting Stellar Video Beginnings with Free Tools for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-prime-retailers-for-cell-phones-and-accessories/"><u>Discovering Prime Retailers for Cell Phones and Accessories</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013010964-efficient-loading-tactics-for-faster-and-easier-loot-in-dayz-pvp/"><u>Efficient Loading Tactics for Faster & Easier Loot in DayZ PvP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hasten-stopping-windows-11-notifications/"><u>Hasten Stopping Windows 11 Notifications</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-passion-into-a-fulfilling-design-career/"><u>In 2024, Transforming Passion Into a Fulfilling Design Career</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-microsoft-support-for-problems/"><u>Master the Art of Microsoft Support for Problems!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-files-date-manipulation-essentials/"><u>Mastery Over Windows Files: Date Manipulation Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/resetting-windows-to-unlock-steam-games-error/"><u>Resetting Windows to Unlock Steam Games Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-event-viewer-hurdles/"><u>Tackling Windows Event Viewer Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-torrents-made-easy-top-five-recommendations/"><u>Windows Torrents Made Easy: Top Five Recommendations</u></a></li>
+</ul></div>
+

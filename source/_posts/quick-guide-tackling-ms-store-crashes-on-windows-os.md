@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Tackling MS Store Crashes on Windows OS"
-date: 2024-11-20T16:57:19.559Z
-updated: 2024-11-27T16:10:13.676Z
+date: 2024-12-03T23:59:48.735Z
+updated: 2024-12-07T02:14:36.861Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,18 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 4. Select the**Run** option for launching Windows Store Apps.  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-button.jpg)
 5. Click to apply any potential fix suggested within the troubleshooter.  
-![Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-store-apps-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-store-apps-troubleshooter.jpg)
+
  The steps for opening the same troubleshooter in Windows 10 aren’t exactly the because of the Settings app’s different layout. You’ll need to click**Update & Security** \>**Troubleshoot** \>**Additional Troubleshooters** in Windows 10’s Settings app. Click Windows Store Apps to press a**Run the troubleshooter** button that opens that troubleshooting tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check the Date & Time Settings on Your PC
 
@@ -55,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 ![The Sync now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/time-zone-drop-down-menu.jpg)
 4. Press the**Sync now** button to synchronize with the Windows time server.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Start or Restart the Windows Update Service
 
  MS Store users have confirmed they’ve fixed the “server stumbled” error by starting or restarting the Windows Update service. The Windows Update service is linked with Microsoft Store. So, make sure that the update service is enabled and running as follows:
@@ -68,6 +69,11 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 3. Double-click**Windows Update** to view the various settings for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-service.jpg)
 4. Select**Automatic** if any other option is set on the**Startup** type drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then click the service’s**Start** option if Windows Update is stopped.
 6. Press**Apply** to set the service settings.  
 ![The Windows Update Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-properties-window.jpg)
@@ -76,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
  Restart Windows Update if you find that the service is already running with an**Automatic** startup set. You can do that by clicking Windows Update with your mouse’s right button and selecting**Restart** . Or select**Stop** and then**Start** within its properties window.
 
 ![The Restart option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reset the Microsoft Store Cache
 
@@ -98,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-a-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Set Up a Connection to Google's DNS Servers
@@ -110,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 ![DNS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable Any Active Third-Party Security Software
@@ -120,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
  However, don’t rule out the possibility that an antivirus component of an installed third-party security app could also be causing the “server stumbled” error. You can usually disable an antivirus shield by right-clicking the security software’s system tray icon and selecting a turnoff option.
 
  Should this troubleshooting method work, you don’t necessarily need to leave your security software disabled or uninstall it. Instead, add MS Store to the firewall’s allowed app list within your antivirus software. In addition, add that app to the antivirus component’s whitelist.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Enable TLS
 
@@ -138,7 +136,7 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 6. Click**OK** to exit Internet Properties.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Reregister the Microsoft Store
@@ -148,6 +146,10 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
  Our article about[reregistering Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) includes step-by-step instructions for executing that command.
 
 ![The reregister command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reregister-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Download and Install Apps From the Microsoft Store Again
 
@@ -168,24 +170,22 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-digital-dive-essential-recording-tactics-for-shows/"><u>[New] In 2024, Digital Dive Essential Recording Tactics for Shows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-best-software-to-start-your-youtube-videos-off-strongly/"><u>[New] The Best Software to Start Your YouTube Videos Off Strongly</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/cheapest-and-most-reliable-cloud-options/"><u>Cheapest & Most Reliable Cloud Options</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-samsung-960-evo-drive-firmware-for-windows-systems-here/"><u>Get the Latest Samsung 960 EVO Drive Firmware for Windows Systems Here!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-modify-email-on-proton-vpn-browser-add-on-and-identifying-genuine-chatgpt-for-windows-users/"><u>Guide: Modify Email on Proton VPN Browser Add-On & Identifying Genuine ChatGPT for Windows Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/instant-guide-restoring-the-old-school-windows-photo-viewer-on-win-11/"><u>Instant Guide Restoring the Old-School Windows Photo Viewer on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-error-resolution-end-too-many-requests-on-windows-platforms/"><u>Mastering Error Resolution: End Too Many Requests on Windows Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-mp4-enhancement-the-ultimate-srt-integration-for-2024/"><u>Mastering MP4 Enhancement The Ultimate SRT Integration for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-linkedin-and-facebook-for-job-growth/"><u>Navigating LinkedIn & Facebook for Job Growth</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-shutdown-time-for-running-tasks/"><u>Optimizing Windows 11 Shutdown Time for Running Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-operation-failed-error-on-win-1011/"><u>Overcoming 'Operation Failed' Error on Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-media-player-glitches-in-win11/"><u>Overcoming Media Player Glitches in Win11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/prime-day-exclusive-save-460-on-microsoft-surface-pro-cuz-hot-deals-from-zdnet/"><u>Prime Day Exclusive: Save $460 on Microsoft Surface Pro Cuz - Hot Deals From ZDNet!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-unauthorized-status-on-windows-apps/"><u>Removing Unauthorized Status on Windows Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/repairing-a-defective-discord-window-on-windows-system/"><u>Repairing a Defective Discord Window on Windows System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-another-app-uses-device-audio-glitch-on-pc/"><u>Resolving 'Another App Uses Device' Audio Glitch on PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95946815-9781925515961-the-book-of-eternity/"><u>The Book of Eternity | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-shift-in-computing-power-embracing-16gb-for-windows-pcs/"><u>The Shift in Computing Power: Embracing 16GB for Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-responsive-windows-11-context-menus/"><u>Troubleshooting Non-Responsive Windows 11 Context Menus</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-loop-maker-assembly/"><u>[Updated] In 2024, Loop Maker Assembly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-top-3-free-video-players-face-off-vlc-vs-mpc-showdown/"><u>[Updated] In 2024, Top 3 FREE Video Players Face Off VLC Vs. MPC Showdown</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-omnicharge-omni-20-a-multifaceted-portable-charger-with-qi-wireless-technology/"><u>Comprehensive Review of the Omnicharge Omni 20 - A Multifaceted Portable Charger with Qi Wireless Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-back-on-windows-high-contrast-glare/"><u>Cut Back on Windows' High Contrast Glare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-fixing-winerror-0x80071a90/"><u>Detailed Guide to Fixing WinError 0X80071a90</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-telnet-effectively-on-windows-1011-devices/"><u>How to Use Telnet Effectively on Windows 10/11 Devices</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/identifying-common-reasons-behind-gpu-temperature-rise-insights-from-yl-computing/"><u>Identifying Common Reasons Behind GPU Temperature Rise - Insights From YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stability-problems-fixes-for-oxygen-not-included-game-crashes/"><u>Resolving Stability Problems: Fixes for 'Oxygen Not Included' Game Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-original-windows-search-settings/"><u>Restoring Original Windows Search Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-graphics-error-fix-for-windows-device-hang/"><u>Solving Graphics Error: Fix for Windows Device Hang</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-your-pc-games-final-showdown-crashes-a-complete-guide/"><u>Solving Your PC Game's 'Final Showdown' Crashes - A Complete Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-systemsettingsexe-errors-in-win11/"><u>Steps to Resolve SystemSettings.exe Errors in Win11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/subtle-sounds-clear-vision-audio-cleanup-methods-reviewed/"><u>Subtle Sounds, Clear Vision Audio Cleanup Methods Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-and-reactivate-stalled-wsreset-in-windows/"><u>Troubleshoot and Reactivate Stalled WSReset in Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/understanding-and-proficiently-implementing-cc-rights-for-2024/"><u>Understanding and Proficiently Implementing CC Rights for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-bluescreenview-usage-guide/"><u>Unveiling BlueScreenView: Usage Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-itel-p55-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Itel P55? | Dr.fone</u></a></li>
 </ul></div>
 

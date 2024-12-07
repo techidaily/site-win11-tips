@@ -1,7 +1,7 @@
 ---
 title: Solving Win10/11's Audacity Audio Glitches
-date: 2024-11-24T17:26:50.876Z
-updated: 2024-11-27T18:12:32.802Z
+date: 2024-12-03T17:22:23.068Z
+updated: 2024-12-06T16:36:09.378Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Desktop Apps to Access Microphone
 
  You can’t record with Audacity if microphone access for that app is disabled. So, the first thing you should check is the microphone access settings in Windows. Check the microphone is enabled for Audacity like this:
@@ -39,11 +43,7 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 6. Click Audacity’s toggle switch on if it’s off to enable mic access for that app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Sound Devices Are Enabled
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 7. Then right-click the playback and recording devices you need to utilize with Audacity and select**Set as default devices** and**Set as Default Communication Device** .  
 ![The Set as Default Device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/set-as-default-device.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Check Audacity’s Device Settings Match up With Your Default Devices
 
  The device settings in Audacity need to match up with those you’ve set on the Sound window. So, check those settings match up like this:
@@ -75,19 +71,19 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 4. Next, select the**Devices** tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Devices tab in Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/devices-tab.jpg)
 5. Click the**Playback Device** drop-down menu to select your default playback device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Then select your default recording device on the**Recording Device** drop-down menu.
 7. Also, select**Windows WASAPI** on the**Host** drop-down menu if that option is set differently.
 8. Select**OK** on the Preferences Devices window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Audacity’s Sample Rate
 
@@ -101,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 ![The Sample Rate drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/default-sample-rate.jpg)
 6. Set the**Default Sample Rate** option there to match the sampling rate of your recording device.
 7. Alternatively, you can change the sampling rate on the**Default format** drop-down menu for the recording device to match the one set in Audacity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Software Playthrough
 
@@ -121,14 +121,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 3. ![The Restart service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-restart-service-option.jpg)
 4. Right-click the**Windows Audio Endpoint Builder** service and select**Restart** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. If you find the Windows Audio Endpoint Builder service isn’t running, right-click it and select the**Start** context menu option instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Update Your PC’s Audio Device Driver
@@ -145,6 +141,11 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 4. Right-click High Definition Audio device to select an**Uninstall** context menu option.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-driver-option.jpg)
 5. Select the**Delete** **the driver for this software box** on the Uninstall Device prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Uninstall Device** to confirm the action.  
 ![The Delete the driver software for this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-the-driver-option.jpg)
 7. Restarting Windows should then automatically reinstall a sound driver on your PC. If not, click**Action** \>**Scan for hardware changes** in Device Manager to reinstall the missing driver.
@@ -170,16 +171,18 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-and-perfecting-your-individual-style-for-2024/"><u>[New] Discovering & Perfecting Your Individual Style for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-virtual-reality-top-emulators-for-playing-ps3-games-on-pc/"><u>2024 Approved Virtual Reality Top Emulators for Playing PS3 Games on PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-find-x7-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo Find X7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-running-high-privilege-powershell-on-w11-pcs/"><u>Mastering the Art of Running High-Privilege PowerShell on W11 PCs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/moziscreen-recording-solutions/"><u>MoziScreen Recording Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-non-appearing-logins-in-win1011-systems/"><u>Remedy for Non-Appearing Logins in Win10/11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-overcoming-dxgierrordeviceremoved/"><u>Solutions for Overcoming DXGI_ERROR_DEVICE_REMOVED</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-overcome-connect-pairing-errors-in-windows-11-os/"><u>Tips to Overcome 'Connect' Pairing Errors in Windows 11 OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/us-caribbean/"><u>U.S. Caribbean</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-to-splendor-the-complete-guide-to-altering-themes-in-win11/"><u>Upgrade to Splendor: The Complete Guide to Altering Themes in Win11</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/vollstandige-anleitung-fur-die-sicherung-und-das-zurucksetzen-deines-iphone-5-auflage-einfuhrung-in-die-klimaforschung-die-zukunft-des-eises-implikationen-d269/"><u>Vollständige Anleitung Für Die Sicherung Und Das Zurücksetzen Deines iPhone 5. Auflage - Einführung in Die Klimaforschung'', ''Die Zukunft Des Eises – Implikationen Der Globalen Erwärmung'' Und ''Biodiversität Im Wandel: Anpassungen an Den Klimawandel''.</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-immersion-and-interaction-the-high-definition-shift-of-hp-envy-27/"><u>[New] 2024 Approved Immersion and Interaction The High-Definition Shift of HP Envy 27</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-funny-frenzy-top-10-tweets-for-2024/"><u>[New] Funny Frenzy Top 10 Tweets for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/movie-tricks-for-perfecting-your-video-introduction-craft-for-2024/"><u>[New] IMovie Tricks for Perfecting Your Video Introduction Craft for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge-for-2024/"><u>[Updated] Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-deep-into-windows-11s-ui-advanced-filters-customized-themes-unveiled/"><u>Dive Deep Into Windows 11'S UI: Advanced Filters, Customized Themes Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hasten-stopping-windows-11-notifications/"><u>Hasten Stopping Windows 11 Notifications</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/invisible-recording-of-skype-chats-for-mac-and-windows-users/"><u>Invisible Recording of Skype Chats for Mac and Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-microsoft-support-for-problems/"><u>Master the Art of Microsoft Support for Problems!</u></a></li>
+<li><a href="https://win11.techidaily.com/power-play-four-strategies-for-removing-user-entries-from-win11/"><u>Power Play: Four Strategies for Removing User Entries From Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/resurrecting-headsets-on-xbox-one-with-simple-tricks/"><u>Resurrecting Headsets on Xbox One with Simple Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-event-viewer-hurdles/"><u>Tackling Windows Event Viewer Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-definitive-guide-to-keeping-surface-devices-current-and-optimal/"><u>The Definitive Guide to Keeping Surface Devices Current and Optimal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-using-wintoys-a-compreayers-guide-for-windows-applications/"><u>Understanding and Using WinToys: A Compreayer's Guide for Windows Applications</u></a></li>
 </ul></div>
 

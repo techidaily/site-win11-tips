@@ -1,7 +1,7 @@
 ---
 title: Restoring Original Windows Search Settings
-date: 2024-11-23T17:50:49.486Z
-updated: 2024-11-27T17:00:41.061Z
+date: 2024-12-01T21:58:58.469Z
+updated: 2024-12-06T17:21:44.020Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Should You Reset Windows Search Settings?
 
  Windows Search tracks files and folders on your hard drive, so you can find them more quickly. However, over time search settings and preferences can become corrupted, leading to incorrect search results or slow performance. To get the most effective results from Windows Search, you should periodically reset your search settings.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
  Let's now explore how to reset Windows Search settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Tweak the Registry Editor
@@ -54,6 +50,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Search
 5. Now move to the right pane and search for the key named **SetupCompletedSuccessfully**.  
 ![Reset Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-search.jpg)
 6. Select this key, right-click on it, and choose **Modify**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Set the value to **0** and click **OK** to save the changes.
 
  If the SetupCompletedSuccessfully key is missing, you will have to manually create it. To do this, right-click on the Windows Search key and select **New > DWORD (32-bit) Value**. Name this newly created key as **SetupCompletedSuccessfully** and set its value to **0**.
@@ -61,7 +62,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Search
  After performing the steps above, close the Registry Editor and restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Windows PowerShell
@@ -75,7 +76,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Search
 ![Restrict or Unrestrict the Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restrict-or-unrestrict-the-command.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the output is **Restricted**, execute the following command to allow PowerShell scripts:
@@ -86,15 +87,15 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 
 ![Reset Windows Search Via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-search-via-powershell.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After resetting the Windows Search settings, you can restore the execution policy to its original settings. To do that, open PowerShell as an administrator again and execute the following command:
 
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
  Once the execution policy is set back to its original value, restart your computer. The Windows Search settings should now be restored to their default state.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easy Ways to Reset Windows Search
 
@@ -115,19 +116,24 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-to-unlock-full-potential-with-iphone-hdr/"><u>[New] 2024 Approved How to Unlock Full Potential with iPhone HDR</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-broken-usb-ports-on-a-computer-running-windows-11/"><u>Diagnose and Fix Broken USB Ports on a Computer Running Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-printer-services-for-successful-printing/"><u>Enabling Printer Services for Successful Printing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enriching-the-playnite-experience-through-integration-of-emulators/"><u>Enriching the Playnite Experience Through Integration of Emulators</u></a></li>
-<li><a href="https://win-community.techidaily.com/error-the-content-youre-seeking-cant-be-located/"><u>Error: The Content You're Seeking Can't Be Located</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-without-functional-windows-firewall/"><u>Essential Fixes Without Functional Window’s Firewall</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/first-impressions-engaging-podcast-intros/"><u>First Impressions Engaging Podcast Intros</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-90-lite-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor 90 Lite Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-display-your-internet-speed-on-the-windows-taskbar/"><u>How to Display Your Internet Speed on the Windows Taskbar</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-hot-40i-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix Hot 40i FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>In 2024, In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-network-misfire-in-microsoft-os/"><u>Mastering Network Misfire in Microsoft OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-usb-resource-deficit-error/"><u>Overcoming USB Resource Deficit Error</u></a></li>
-<li><a href="https://win-tips.techidaily.com/preserve-excellent-video-clarity-uploading-hd-footage-from-ios-device-directly-to-personal-laptop/"><u>Preserve Excellent Video Clarity: Uploading HD Footage From iOS Device Directly to Personal Laptop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-core-definitions-of-cyber-storytelling/"><u>[New] Core Definitions of Cyber Storytelling</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-demystifying-trillers-unique-approach-to-video-content/"><u>[New] Demystifying Triller's Unique Approach to Video Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-effective-engagement-incorporating-youtube-videos-into-slides/"><u>[Updated] Effective Engagement Incorporating YouTube Videos Into Slides</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-peeling-the-onion-understanding-instagram-story-audiences/"><u>[Updated] Peeling the Onion Understanding Instagram Story Audiences</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfect-your-storytelling-with-these-6-reel-apps-for-2024/"><u>[Updated] Perfect Your Storytelling with These 6 Reel Apps for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ng-edge-techniques-in-live-streamed-gaming-for-2024/"><u>Cutting-Edge Techniques in Live-Streamed Gaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-activate-defender-application-guard-on-windows-11-edge/"><u>How to Activate Defender Application Guard on Windows 11 Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-steam-game-icons-missing-on-windows/"><u>How to Fix Your Steam Game Icons Missing on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-motorola-moto-g23-to-mac-drfone-by-drfone-android/"><u>How to Mirror Motorola Moto G23 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-smart-7-hd-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Smart 7 HD Without PUK Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-simple-remedies-for-black-screen-panic/"><u>Master Simple Remedies for Black Screen Panic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-fn-key-alterations-for-windows-1011/"><u>Navigating FN Key Alterations for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-amd-graphics-masterful-configuration-tips-for-windows-games/"><u>Perfecting AMD Graphics: Masterful Configuration Tips for Windows Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-in-cpu-control-minmax-processor-insights/"><u>Precision in CPU Control: Min/Max Processor Insights</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-windows-11-kernel-error-fixes-and-prevention-tips/"><u>Resolved: Windows 11 Kernel Error Fixes and Prevention Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-restarting-the-explorer-on-windows-11os/"><u>Swift Solutions: Restarting the Explorer on Windows 11OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-significance-of-runtime-brokers-for-operating-systems/"><u>The Significance of Runtime Brokers for Operating Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-unseen-viewers-route-navigating-instagram-stories-with-anonymous-viewing/"><u>The Unseen Viewer's Route Navigating Instagram Stories with Anonymous Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharging-visual-performance-a-comprehensive-vram-guide/"><u>Turbocharging Visual Performance - A Comprehensive VRAM Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Windows' Hurdles: Restoring Access to Notepad"
-date: 2024-08-28T01:12:32.106Z
-updated: 2024-08-29T01:12:32.106Z
+date: 2024-12-03T19:43:15.818Z
+updated: 2024-12-06T19:11:34.363Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 
  Several factors, ranging from a temporary app glitch to corrupt user account files, can prevent Notepad from opening on Windows. Fortunately, there are some quick fixes you can use to regain access to the Notepad app on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Alternative Methods to Open Notepad
 
  Before you try any advanced solutions, see if you can open Notepad using the Run tool. Press**Win + R** to open the Run dialog box. Type**notepad** in the Open field and press**Enter** .
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
  If that doesn’t work, try opening Notepad through a command-line tool. Open the search menu to launch**Command Prompt** or**PowerShell** . In the console, type**notepad** and then press**Enter** .
 
 ![Open Notepad via Command-Line Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-notepad-via-command-line-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
@@ -45,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 
 Try opening a few text files and see if they open in Notepad.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Repair or Reset the Notepad App
 
  The built-in repair tool on Windows is quite efficient when it comes to fixing minor app-related issues. Microsoft recommends using this tool when an app fails to open or does not work as expected on your Windows computer.
@@ -62,12 +67,9 @@ To repair the Notepad app on Windows:
 ![Repair or Reset the Notepad App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-notepad-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You should see a checkmark next to the Repair button once the process is complete. Then, try to[open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
 
  If repairing the Notepad app does not make any difference, you can try resetting it. Here are the steps for the same.
@@ -88,9 +90,6 @@ No advertising on the website.
 4. Click the**Uninstall** button.  
 ![Uninstall Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-notepad-app-on-windows.jpg)
 5. Wait for Windows to uninstall Notepad from your computer.
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Next, click the**View features** button at the top.
 7. Type**Notepad** in the search box.
 8. Tick the**Notepad (system)** checkbox and click**Next** .
@@ -98,6 +97,10 @@ No advertising on the website.
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
 
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run the SFC and DISM Scans
 
@@ -118,13 +121,11 @@ To run the SFC scan on Windows:
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After the scan is complete, restart your PC and see if you can access Notepad.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Perform a Clean Boot
 
  At times, third-party apps and background services can conflict with Windows processes and cause problems like the one discussed here. One way to verify this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services.
@@ -143,9 +144,6 @@ To create a new user account on Windows:
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
@@ -154,14 +152,11 @@ To create a new user account on Windows:
 
  Hopefully, the solutions provided above have helped, and you’re able to use Notepad again. However, if none of the above solutions work, you can perform a system restore to undo any recent changes that may have caused the problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +165,20 @@ To create a new user account on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfect-your-audio-iphone-voice-memo-processing-for-2024/"><u>[New] Perfect Your Audio IPhone Voice Memo Processing for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-installing-snapchat-for-mac-users/"><u>[Updated] Installing Snapchat for Mac Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-obstacle-the-easy-way-to-correct-error-0x887a0006/"><u>Bypassing Obstacle: The Easy Way to Correct Error 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-replace-the-joysticks-in-your-nintendo-switch-joy-con/"><u>How to Replace the Joysticks in Your Nintendo Switch Joy-Con</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-multiple-same-user-error-in-windows/"><u>How to Resolve Multiple Same-User Error in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-14-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone 14 for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-through-time-discovering-7-classic-windows-traits-in-11/"><u>Journey Through Time: Discovering 7 Classic Windows Traits in 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/launching-your-career-as-a-prompt-engineer-essential-insights-and-techniques/"><u>Launching Your Career as a Prompt Engineer: Essential Insights and Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/optimizing-your-virtual-gaming-experience-with-kinemaster-and-its-competitors/"><u>Optimizing Your Virtual Gaming Experience with KineMaster & Its Competitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reboot-and-brighten-top-5-tricks-for-fixed-backlit-keys-in-win/"><u>Reboot and Brighten: Top 5 Tricks for Fixed Backlit Keys in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-way-to-visualize-and-tame-your-disk-space/"><u>The Ultimate Way to Visualize and Tame Your Disk Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-desktop-potential-custom-snap-designs-using-powertoys/"><u>Unlock Desktop Potential: Custom Snap Designs Using PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winos-troubleshooting-how-to-rectify-task-runner-failure-error-0x8007000f/"><u>WinOS Troubleshooting: How To Rectify Task Runner Failure (Error 0X8007000f)</u></a></li>
+</ul></div>
 

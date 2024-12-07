@@ -1,7 +1,7 @@
 ---
 title: Mastering Goal Seek Functionality in Microsoft Excel
-date: 2024-08-28T01:07:52.895Z
-updated: 2024-08-29T01:07:52.895Z
+date: 2024-12-01T00:13:07.760Z
+updated: 2024-12-07T02:12:12.862Z
 tags:
   - excel
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Goal Seek can help you with these types of calculations as well as others.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Goal Seek in Excel?
 
  Goal Seek is part of the What-If Analysis group built into Excel. It works with values you insert and a [formula you enter](https://youtube-docs.techidaily.com/n-2024-automate-playlist-retrieval-from-youtube-directly/) to calculate those values. This means that a formula is necessary to use Goal Seek.
@@ -30,9 +34,6 @@ Related: [5 iPhone Apps to Keep Track of Your Investments](https://android-pokem
 
  The tool is especially useful for the situations mentioned above such as savings, [investments](https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/), and loans, but can be used in other scenarios as well. Once you obtain the results from the Goal Seek tool, you can simply view them or pop them into your sheet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Goal Seek Examples
 
  If you're ready to give this nifty feature a try, let's look at some example uses.
@@ -55,10 +56,6 @@ Related: [5 iPhone Apps to Keep Track of Your Investments](https://android-pokem
 
 ![Goal Seek in the What-If Analysis menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/DataGoalSeek-ExcelGoalSeek.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  In the small Goal Seek box, insert the following:
 
 **Set Cell**: Enter the cell reference containing the formula you want to change. Remember, changing the formula shows us the input we need to reach our goal.
@@ -69,9 +66,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Goal Seek for sales figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/SalesSeek-ExcelGoalSeek.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you finish, click "OK." The Goal Seek Status box shows a solution was found and you'll see a preview in your spreadsheet.
 
 ![Goal Seek results for sales figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/SalesSeekResults-ExcelGoalSeek.png) 
@@ -79,8 +73,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  As you can see, we now know that we must sell 800 units of our product to reach our $20,000 goal. Click "OK" to apply the change to your sheet or "Cancel" to simply close the Goal Seek Status window.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Goal Seek for Loans
 
  Another good way to use Goal Seek in Excel is for help with loans. You may have the loan amount, term in months, and payment you can afford, but want to know what interest rate you should seek. Because the Goal Seek tool works off of formulas, you can leave the interest rate cell blank and allow Goal Seek to fill it.
@@ -95,9 +90,6 @@ Related: [How to Calculate a Loan Payment, Interest, or Term in Excel](https://a
 
 ![Loan figures in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/LoanFigures-ExcelGoalSeek.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Select Data > What-If Analysis > Goal Seek and insert the following:
 
 **Set Cell**: Enter the cell reference containing the formula you want to change. For us, this is B4.
@@ -110,14 +102,19 @@ Related: [How to Calculate a Loan Payment, Interest, or Term in Excel](https://a
 
 ![Goal Seek for loan figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/LoanSeek-ExcelGoalSeek.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "OK" to see the results. It looks like we'll try for a 4.77% annual interest rate for our loan.
 
 ![Goal Seek results for loan figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/LoanResults-ExcelGoalSeek.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  Select "OK" to apply the change to your sheet or "Cancel" to close the box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Goal Seek for Savings
 
@@ -131,6 +128,10 @@ Related: [How to Calculate a Loan Payment, Interest, or Term in Excel](https://a
 
 ![Savings figures in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/SavingsFigures-ExcelGoalSeek.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head back to Data > What-If Analysis > Goal Seek and insert the following:
 
 **Set Cell**: Enter the cell reference containing the formula which is B4 in our example.
@@ -141,12 +142,13 @@ Related: [How to Calculate a Loan Payment, Interest, or Term in Excel](https://a
 
 ![Goal Seek for savings figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/SavingsSeek-ExcelGoalSeek.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Click "OK" to view your results. We see that we need to save just over $413 per month for the next year to reach our $5,000 goal.
 
 ![Goal Seek results for savings figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/SavingsResults-ExcelGoalSeek.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Excel uses a negative number for the payment when using the FV function.
 
@@ -160,8 +162,6 @@ Related: [How to Calculate a Loan Payment, Interest, or Term in Excel](https://a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +169,22 @@ Related: [How to Calculate a Loan Payment, Interest, or Term in Excel](https://a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comparing-streamlabs-with-obs-for-professional-broadcasts/"><u>[New] 2024 Approved Comparing Streamlabs with OBS for Professional Broadcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ai-powered-digital-creation-simplified-unstablefusion-across-windows-macos-and-linux/"><u>AI-Powered Digital Creation Simplified: UnstableFusion Across Windows, macOS & Linux</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-processors-to-peripherals-your-trusted-source-for-computer-hardware-toms-hardware/"><u>From Processors to Peripherals: Your Trusted Source for Computer Hardware - Tom's Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-this-app-is-preventing-windows-from-shutting-down-restarting-or-signing-out-error-on-windows/"><u>How to Fix “This App Is Preventing Windows From Shutting Down, Restarting, or Signing Out” Error on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-guide-to-choosing-video-aspect-ratios/"><u>In 2024, The Essential Guide to Choosing Video Aspect Ratios</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-reno-10-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo Reno 10 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>In 2024, Unlocking Video Potential The Crème De La Crème Browser Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pause-in-play-reactivating-computers-sound-system/"><u>Pause in Play? Reactivating Computer's Sound System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-old-computers-switching-away-from-windows/"><u>Refreshing Old Computers: Switching Away From Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-microsoft-words-audio-readback-function/"><u>Reinstating Microsoft Word's Audio Readback Function</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-6-best-multi-monitor-brightness-control-software-for-windows/"><u>The 6 Best Multi-Monitor Brightness Control Software for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-definitive-walkthrough-on-obtaining-the-newest-zebra-zp450-printer-drivers-and-updates/"><u>The Definitive Walkthrough on Obtaining the Newest Zebra ZP450 Printer Drivers & Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-how-ai-transforms-windows-innovations/"><u>Unlocking Potential: How AI Transforms Windows Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-methods-enhancing-windows-disk-capacity-without-spending/"><u>Winning Methods: Enhancing Windows Disk Capacity without Spending</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winvpn-error-connection-lost-explained-and-fixed/"><u>WinVPN Error: Connection Lost Explained and Fixed</u></a></li>
+</ul></div>
 

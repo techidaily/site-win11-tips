@@ -1,7 +1,7 @@
 ---
 title: Perfect Your Data Presentation with Effective Spell Check Functions in Excel
-date: 2024-08-28T01:08:46.253Z
-updated: 2024-08-29T01:08:46.253Z
+date: 2024-12-02T01:11:31.920Z
+updated: 2024-12-06T21:02:15.813Z
 tags:
   - excel
 categories:
@@ -32,6 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016
 
 ![01_clicking_review_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/01_clicking_review_tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Spelling" in the "Proofing" section. You can also press "F7" with any tab on the ribbon active to start the spell check.
 
 ![02_clicking_spelling](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/02_clicking_spelling.png) 
@@ -50,6 +54,10 @@ Related: [How to Assign Keyboard Shortcuts to Symbols in Excel 2013](https://voi
 
 ![04_spell_check_complete](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/04_spell_check_complete.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Notice that the word "Refridgerator" on the "Invoice" worksheet was not found in the spell check of this worksheet. That's because it's the result of a [formula](https://extra-tips.techidaily.com/integrate-sound-and-sight-web-studio/) in that cell that grabbed the word from a cell on the "Product Database" worksheet based on the "Item Code" entered on the "Invoice" worksheet. To correct "Refridgerator", we need to run a spell check on the "Product Database" worksheet, which we will do in the next section.
 
  Remember when we said you should select the first cell of a worksheet ("A1") before starting a spell check? If you forgot, and started the spell check from any other cell than "A1", you will be asked at this point whether you want to continue checking the spelling at the beginning of the worksheet before the spell check completes. Click "Yes" to check the remainder of the worksheet that has not been checked yet and then you will see the "Spell check complete" dialog box pictured above.
@@ -57,9 +65,9 @@ Related: [How to Assign Keyboard Shortcuts to Symbols in Excel 2013](https://voi
 ![04a_continue_checking_from_beginning](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/04a_continue_checking_from_beginning.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Spell Check All Worksheets in a Workbook at Once
 
  By default, Excel spell checks your current worksheet. But what if you have a lot of worksheets in your workbook and you want to check them all? No worries. You can easily do that in one go.
@@ -70,16 +78,10 @@ The ultimate burning program for all your needs!</a>
 
 ![05_selecting_select_all_sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/05_selecting_select_all_sheets.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Notice in the above image that the currently selected worksheet tab displays in white and the inactive tab displays in gray. When all worksheet tabs are selected, they all display with a white background, as shown below.
 
 ![06_sheets_selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/06_sheets_selected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Now when you start the spell check, it will check all the worksheets in the workbook. In our case, when the spell check gets to the second worksheet, or the "Product Database" worksheet, it finds a spelling error. To correct the error, we select the correct word in the "Suggestions" list box and click "Change". As we mentioned earlier in this article, if we think we misspelled the same word the same way in other cells in our workbook, we can click "Change All" to correct them all at once with the same corrected word.
 
  Remember, you can also type the correct word in the "Not in Dictionary" edit box and click "Change" to correct the error.
@@ -87,22 +89,21 @@ The ultimate burning program for all your needs!</a>
 ![07_clicking_change](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/07_clicking_change.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the spell check is complete, and the "Spell check complete" dialog box displays, you may notice that the last corrected error doesn't seem to have been corrected in the cell on the worksheet.
 
 ![08_spell_check_complete_both_sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/08_spell_check_complete_both_sheets.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Don't worry. When you click "OK" to close the dialog box, the corrected word displays in the cell.
 
 ![09_formula_result_changed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/09_formula_result_changed.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Related: [How to Limit Spell Checking to the Main Dictionary Only in Word](https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-realme-gt-5-phones-by-drfone-android/) 
 
  You can [use custom dictionaries](https://extra-support.techidaily.com/new-pixel-perfection-in-image-integration/) to add words you use often to the dictionary, that are not already in the default built-in dictionary, as well as delete words you added using the "Add to Dictionary" button on the "Spelling" dialog box. You can even create additional custom dictionaries. The [spell check can also be limited to use of the main dictionary only](https://facebook-videos.techidaily.com/2024-approved-extract-facebook-videos-for-mobile-and-desktop-easy/), even if there are custom dictionaries available.
@@ -113,8 +114,6 @@ Related: [How to Limit Spell Checking to the Main Dictionary Only in Word](https
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +121,21 @@ Related: [How to Limit Spell Checking to the Main Dictionary Only in Word](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elite-5-video-snapshot-recorders/"><u>[New] In 2024, Elite 5 Video Snapshot Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-live-transmission-via-obs-to-instagram/"><u>[New] In 2024, Live Transmission via OBS to Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premier-uav-choices-for-optimal-gopro-hd-imaging-for-2024/"><u>[New] Premier UAV Choices for Optimal GoPro HD Imaging for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-use-story-remix-to-edit-a-video-in-windows-10-photos/"><u>2024 Approved How to Use Story Remix to Edit a Video in Windows 10 Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-steams-refusal-decode-vac-denial/"><u>Counteracting Steam's Refusal: Decode VAC Denial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-how-to-take-perfect-screenshots-with-your-acer-notebook/"><u>Expert Advice on How to Take Perfect Screenshots with Your Acer Notebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inexpensive-quality-camera-solutions/"><u>Inexpensive Quality Camera Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-innovative-move-shift-to-whatsapp-for-2fa-codes/"><u>Instagram's Innovative Move: Shift to WhatsApp for 2FA Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-through-time-discovering-7-classic-windows-traits-in-11/"><u>Journey Through Time: Discovering 7 Classic Windows Traits in 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reign-over-your-routine-top-6-task-organizers-for-win-11-os/"><u>Reign Over Your Routine - Top 6 Task Organizers For Win 11 OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-moto-g-with-stylus-unmatched-performance-and-satisfactory-energy-reserves-for-effortless-note-taking/"><u>The Moto G with Stylus – Unmatched Performance & Satisfactory Energy Reserves for Effortless Note-Taking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-way-to-visualize-and-tame-your-disk-space/"><u>The Ultimate Way to Visualize and Tame Your Disk Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-desktop-potential-custom-snap-designs-using-powertoys/"><u>Unlock Desktop Potential: Custom Snap Designs Using PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winos-troubleshooting-how-to-rectify-task-runner-failure-error-0x8007000f/"><u>WinOS Troubleshooting: How To Rectify Task Runner Failure (Error 0X8007000f)</u></a></li>
+</ul></div>
 

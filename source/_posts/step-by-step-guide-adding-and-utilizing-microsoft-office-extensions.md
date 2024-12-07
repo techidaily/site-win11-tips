@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding & Utilizing Microsoft Office Extensions"
-date: 2024-08-28T01:08:50.664Z
-updated: 2024-08-29T01:08:50.664Z
+date: 2024-12-05T21:04:32.131Z
+updated: 2024-12-06T21:58:55.239Z
 tags:
   - excel
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  Add-ins are available for Microsoft Word, Excel, PowerPoint, Outlook, Project, and SharePoint. They allow you to do everything from citing text from Wikipedia or accessing a foreign language dictionary to using AI in your academic document or distributing meeting minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ##  How to Get Office Add-ins
 
  You can get add-ins in one of two ways. In a Microsoft Office application (we're using Word 365 as an example), you can click the "File" tab on the ribbon, and click "Add-ins."
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
 ![Word document showing the 'Add-ins' icon in the 'Home' tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/add-ins-icon-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The other way is to click the "File" tab on the ribbon and choose "Get Add-ins," which takes you to the same place.
 
 ![Word document showing the 'Get Add-ins' button via the 'File' tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/get-add-ins.png) 
@@ -51,17 +45,15 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![Microsoft Word's add-ins window, with 'Store' and 'My Add-ins' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/add-ins-window-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 
 
  Once you've found an add-in you like, click "Add."
 
 !['Office Add-ins' window open with the 'Add' button next to one of the options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/choose-add-in.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You will then see a privacy notice. If you're happy with what it says, click "Continue."
 
 ![Add-in privacy notice for Wikipedia, and 'Continue' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/privacy-notice.png) 
@@ -71,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![Word document open with the add-in pane on the right.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/add-in-pane.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Open and Close Add-ins in Office
 
  To load another add-in—or reload an add-in you already closed—go to Home > Add-ins, and click the add-in you want to open. The screenshot below shows what the add-in pane looks like with a second add-in installed to Office. You can even have multiple add-in panels open at once, if you have room for them on your screen.
@@ -88,27 +81,31 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![Word document showing a floating add-in window, highlighting the 'X' button for closing the window, and the bar at the top of the window used to reposition it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-and-drag.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Delete Office Add-ins
 
  If you no longer want an add-in to be associated with your account, click the "Add-ins" icon, and click "More Add-ins."
 
 ![Word document showing the 'Add-ins' icon in the 'Home' tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/add-ins-icon-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Office Ad-ins window, click "My Add-ins," and click the three dots next to whichever add-in you want to delete. Finally, click "Remove."
 
 !['Office Add-ins' window, highlighting the 'My Add-ins' tab and the three dots to click to remove the add-in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/remove-add-ins.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This will remove the add-in from your account, affecting all Office applications you use.
 
 ---
@@ -121,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +125,20 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-access-exclusive-video-artwork-free-flawless-and-fast/"><u>[New] 2024 Approved Access Exclusive Video Artwork – Free, Flawless, and Fast</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-focusflexzoom-7-detailed-resizing-at-a-glance/"><u>[New] FocusFlexZoom 7 Detailed Resizing at a Glance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-leveraging-hashtags-for-a-huge-impact-on-your-youtube-views/"><u>[Updated] Leveraging #Hashtags for a Huge Impact on Your YouTube Views</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-remarkable-effects-of-asmr-on-you/"><u>[Updated] The Remarkable Effects of ASMR on You</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-creative-vanguard-top-6-redefining-digital-arts/"><u>2024 Approved The Creative Vanguard Top 6 Redefining Digital Arts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/brief-scene-structure-summary-for-2024/"><u>Brief Scene Structure Summary for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-group-policies-on-single-user-profiles-in-windows-11-and-11/"><u>Customizing Group Policies on Single User Profiles in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-disk-operations-in-windows/"><u>Fixing Steam Disk Operations in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-microsoft-store-steps-to-fixes-in-windows-11/"><u>Reclaim Your Microsoft Store: Steps to Fixes in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/super-user-tools-in-windows-interface-features/"><u>Super User Tools in Windows' Interface Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-windows-chronosphere-time-unification-tactics/"><u>Sync Windows Chronosphere: Time Unification Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-gets-a-lifeline-with-annual-patches-beyond-initial-release/"><u>Windows 11 Gets a Lifeline With Annual Patches Beyond Initial Release</u></a></li>
+</ul></div>
 

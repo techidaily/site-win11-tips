@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cell Replication: A Comprehensive Tutorial on Cloning Formulas in Excel"
-date: 2024-08-28T01:07:49.327Z
-updated: 2024-08-29T01:07:49.327Z
+date: 2024-12-01T18:46:18.861Z
+updated: 2024-12-06T16:17:49.272Z
 tags:
   - excel
 categories:
@@ -36,7 +36,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf05800aca156d25ea3fa017f.jpg
 ---
 
-
     
  (dollar) sign before the column letter and the row number.
 
@@ -50,18 +49,6 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 
  You can use this cell reference in either of the following formula copy methods.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Method 1: Use Copy and Paste to Copy an Excel Formula
 
  One way to copy an Excel formula is to use your computer's [traditional copy and paste method](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/), which involves pressing Ctrl+C for copying and Ctrl+V for pasting. ([On Mac](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/), you'd press Command+C for copying and Command+V for pasting.)
@@ -73,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 ![Copy the Excel formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/1-copy-excel-formula.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You've successfully copied the selected formula.
 
  Now, click the cell where you want to use this formula in your spreadsheet. Then press Ctrl+V (Windows) or Command+V (Mac).
@@ -82,13 +70,11 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 ![Paste the Excel formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/2-paste-excel-formula.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Excel has pasted your formula in your selected cell, and you're all set.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ##  Method 2: Use the Fill Handle to Copy an Excel Formula
 
  To copy formulas in sequential order, [using the Fill Handle](https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/) is much more efficient than the above method.
@@ -100,19 +86,24 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 ![Select the cell containing a formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/3-select-formula-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From the selected cell's bottom-right corner, drag downwards. Drag it across all the cells where you want your formula copied.
 
 ![Drag the formula cell downwards.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/4-drag-down-formula-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you leave dragging, Excel fills the selected cells (hence the name---Fill Handle) with your formula.
 
 ![Fill cells with the formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/5-fill-excel-formula.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And you're all set.
 
@@ -128,8 +119,6 @@ Related: [How to Copy Conditional Formatting in Microsoft Excel](https://android
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +126,26 @@ Related: [How to Copy Conditional Formatting in Microsoft Excel](https://android
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rafting-engaging-content-add-youtube-to-slides-for-2024/"><u>[New] Crafting Engaging Content Add YouTube to Slides for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-quick-subtitleclosed-caption-integration-on-youtube-for-2024/"><u>[New] Mastering Quick Subtitle/Closed Caption Integration on YouTube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-secure-transfer-of-twitter-video-files-to-android/"><u>[New] Secure Transfer of Twitter Video Files to Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-investigating-the-effectiveness-of-vsdcs-screen-capture-tech/"><u>[Updated] Investigating the Effectiveness of VSDC's Screen Capture Tech</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-revolutionize-your-twitter-experience-with-essential-apps/"><u>[Updated] Revolutionize Your Twitter Experience with Essential Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-journey-to-stylish-vlogging-a-beginners-guide-mac-edition/"><u>[Updated] Your Journey to Stylish Vlogging A Beginner's Guide, Mac Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-mouse-trail-and-size-on-new-windows-os/"><u>Customizing Mouse Trail & Size on New Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directdraw-breakdown-fixes-for-win11-and-beyond/"><u>DirectDraw Breakdown: Fixes for Win11 and Beyond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edges-background-behavior-on-modern-windows-11/"><u>Edge's Background Behavior on Modern Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-video-ram-in-windows-11-pro/"><u>Enhancing Video RAM in Windows 11 Pro</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/fitbit-sense-your-comprehensive-health-companion-against-apples-wearable/"><u>Fitbit Sense: Your Comprehensive Health Companion Against Apple's Wearable</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-touchpad-feel-with-simple-windows-settings-tweaks/"><u>Improve Touchpad Feel with Simple Windows Settings Tweaks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-enhancing-youtube-content-with-text-overlays/"><u>In 2024, Enhancing YouTube Content with Text Overlays</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-obs-hurdles-successful-tips-for-uninterrupted-screen-captures/"><u>Overcoming OBS Hurdles - Successful Tips for Uninterrupted Screen Captures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-ntoskrnlexes-heavy-cpu-footprint/"><u>Reducing Ntoskrnl.exe's Heavy CPU Footprint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-the-foundation-for-win-11-security-upgrades/"><u>Setting the Foundation for Win 11 Security Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-11-home-settings/"><u>The Ultimate Guide to Windows 11 Home Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-login-problems-with-chatgpt-easily-and-effectively/"><u>Troubleshooting Login Problems with ChatGPT Easily and Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-guide-switching-gpu-disabled-state/"><u>Windows Guide: Switching GPU Disabled State</u></a></li>
+</ul></div>
 

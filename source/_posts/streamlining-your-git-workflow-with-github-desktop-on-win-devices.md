@@ -1,7 +1,7 @@
 ---
 title: Streamlining Your Git Workflow with GitHub Desktop on Win Devices
-date: 2024-11-25T17:19:52.388Z
-updated: 2024-11-27T17:41:26.214Z
+date: 2024-12-02T22:14:12.333Z
+updated: 2024-12-06T22:23:49.059Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is GitHub Desktop?
 
  GitHub Desktop is an intuitive desktop application that allows users to work with Git without the hassle of the command line. GitHub Desktop is an open-source tool (meaning it’s free to use) that relies on the efforts of the developer community to simplify workflow for developers and improve team collaboration.
@@ -39,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 
 ![Computer on a table showing code in a text editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/computer-with-code.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve set up GitHub Desktop with a repository, you can also create issues and pull requests. You can even review pull requests your team makes directly within GitHub Desktop.
 
  All in all, GitHub Desktop helps you adapt the best practices for git through an easy-to-use interface allowing you to take version control of your projects to the next level.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install GitHub Desktop on Windows
 
@@ -81,15 +77,16 @@ To add an existing GitHub account to GitHub Desktop:
 1. Launch GitHub Desktop and click on the**Current repository** button from the left pane.  
 ![clone repo using Github Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clone-repo-1.jpg)
 2. Click on the**Add** dropdown and then select**Clone repository** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. To clone a repo associated with your signed-in account, select**GitHub.com** or**GitHub Enterprise** based on your account type.
 4. Scroll to find the repo you want to clone and update the saved location if needed.
 5. Once you’re ready, select**Clone** to begin cloning the project.
 
 The project should then be accessible within the saved directory.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Create a Branch in GitHub Desktop
 
@@ -102,18 +99,10 @@ To create a branch in GitHub desktop:
 ![create branch github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-branch-1.jpg)
 3. Next, select the**Current branch** dropdown and click on**New branch** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Enter a name for the branch and select**Create branch** to confirm your selection.
 5. To move your current working changes to the new branch, select the**Bring my changes to** button.
 
  Similarly, if you want to switch to a different branch, select the**Current branch** dropdown and select the branch name you want to change to.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Commit Using GitHub Desktop on Windows
 
@@ -124,14 +113,27 @@ To create a branch in GitHub desktop:
 3. Make the necessary changes in your code and save the files.  
 ![commit code using Github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/commit-code.jpg)
 4. Go back to GitHub Desktop, and you should see the changes you’ve made in the left pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Review your changes, and once you’re ready, enter a message with your commit in the text box of the left pane.
 6. Select the**Commit to** button to confirm your changes and commit code into your branch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Push Code Using GitHub Desktop on Windows
 
  Once you’ve committed code into your branch, the next step is to push your changes onto GitHub. You can then create a pull request and merge your changes into the main or master branch.
 
  To push code to GitHub to create a new pull request, choose the required project repository and branch in GitHub Desktop. Then select the**Publish branch** button or press the shortcut key**Ctrl + P** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use GitHub Desktop to Simplify Your Workflow on Windows
 
@@ -152,24 +154,22 @@ To create a branch in GitHub desktop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-expert-tips-for-crafting-professional-slug-line-notations-for-2024/"><u>[Updated] Expert Tips for Crafting Professional Slug Line Notations for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-imovie-blueprint-the-pathway-to-crafting-impressive-square-videos-for-2024/"><u>[Updated] IMovie Blueprint The Pathway to Crafting Impressive Square Videos for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-a-step-by-step-approach-for-thumbnail-creation-professionals/"><u>2024 Approved A Step-By-Step Approach for Thumbnail Creation Professionals</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-xiaomi-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Xiaomi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-path-to-clutter-free-windows-disks/"><u>Clear Path to Clutter-Free Windows Disks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ight-rules-for-screenshotting-and-archiving-youtube-videos-for-2024/"><u>Copyright Rules for Screenshotting and Archiving YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/dynamic-imagery-achieving-balanced-colors-in-gopro-footage/"><u>Dynamic Imagery Achieving Balanced Colors in GoPro Footage</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722983156436-fast-track-solutions-skyrocket-your-dayz-frames-per-second-with-no-hassle/"><u>Fast Track Solutions: Skyrocket Your DayZ Frames Per Second with No Hassle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-the-search-box-in-windows-11-task-manager/"><u>How to Enable the Search Box in Windows 11 Task Manager</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-framelight-free-elevate-mobile-photography-today/"><u>In 2024, Framelight Free Elevate Mobile Photography Today</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-visualvault-review-highlighting-the-best-recording-tools/"><u>In 2024, VisualVault Review Highlighting the Best Recording Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-and-fix-windows-hello-fingerprint-error-guide/"><u>Navigate and Fix: Windows Hello Fingerprint Error Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-stuck-power-settings-on-windows-11/"><u>Overcoming Stuck Power Settings on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-optimal-function-modernizing-old-windows-tech/"><u>Restoring Optimal Function: Modernizing Old Windows Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-hosting-of-linux-vms-via-hyper-v-windows-platform/"><u>Seamless Hosting of Linux VMs via Hyper-V Windows Platform</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-seamless-clipchamp-on-latest-windows-11/"><u>Strategies for Seamless ClipChamp on Latest Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/team-share-dilemma-heres-the-solution/"><u>Team Share Dilemma? Here's the Solution!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unwanted-visual-effects-disable-geforce-overlays/"><u>Unwanted Visual Effects? Disable GeForce Overlays</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-why-av1-matters-enabling-it-for-youtube-videos/"><u>[New] Why AV1 Matters Enabling It for YouTube Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-complete-iphone-7-screen-capture-manual/"><u>[Updated] In 2024, The Complete iPhone 7 Screen Capture Manual</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-glow-dynamics-enhancing-visual-storytelling-through-lighting/"><u>2024 Approved Glow Dynamics Enhancing Visual Storytelling Through Lighting</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/cookiebot-enhanced-sites-experience-advanced-personalization-and-analytics/"><u>Cookiebot-Enhanced Sites: Experience Advanced Personalization and Analytics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-file-selection-utilizing-windows-11s-checkboxes/"><u>Efficient File Selection: Utilizing Windows 11'S Checkboxes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-interaction-with-windows-copilot-and-vivetool/"><u>Enhancing User Interaction with Windows Copilot and ViveTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-win-gurus-6-premier-gpu-stress-testers/"><u>Identifying Win Gurus: 6 Premier GPU Stress Testers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-italy-must-know-expressions-for-guests/"><u>Navigating Italy: Must-Know Expressions for Guests</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-updates-with-error-0x800f0845/"><u>Navigating Through Updates with Error 0X800f0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-workflow-assign-winos-command-shortcuts/"><u>Optimize Workflow: Assign WinOS Command Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-audacitys-error-9999-on-windows-oses/"><u>Resolving Audacity's Error 9999 on Windows OSes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/roll-out-and-learn-with-the-amazing-dash-from-wonder-workshop/"><u>Roll Out and Learn with the Amazing Dash From Wonder Workshop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sonic-artistry-and-video-prowess-in-sonys-xperia-xz-for-2024/"><u>Sonic Artistry and Video Prowess in Sony's Xperia XZ for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-truth-about-esc-key-malfunctions-and-how-to-fix-them/"><u>The Truth About Esc Key Malfunctions and How to Fix Them</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-gear-for-action-cams-a-shoppers-companion/"><u>Ultimate Gear for Action Cams A Shopper's Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-new-ways-to-run-your-favorite-windows-software/"><u>Unlock New Ways to Run Your Favorite Windows Software</u></a></li>
 </ul></div>
 

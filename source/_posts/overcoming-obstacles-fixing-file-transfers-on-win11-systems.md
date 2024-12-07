@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obstacles: Fixing File Transfers on WIN11 Systems"
-date: 2024-11-23T16:22:29.514Z
-updated: 2024-11-27T17:15:51.492Z
+date: 2024-12-06T01:58:09.622Z
+updated: 2024-12-06T23:03:30.859Z
 tags:
   - windows10
   - windows11
@@ -34,12 +34,16 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Command-Line Tools
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the Current Location in the Website Data Settings
 
  This downloading issue can occur because the current location in Internet Properties isn’t set to a local C: drive. You can check and change that current location within Internet Properties as follows:
@@ -68,15 +68,11 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Then click **Yes** on the logoff prompt.
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
@@ -114,14 +114,10 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
 
@@ -145,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download Files Again on Your Windows PC
 
  Those potential resolutions will address most of the possible causes for your Windows browsers not downloading files when there’s nothing wrong with your internet connection. Go through all those troubleshooting methods to find one that fixes files not downloading on your PC.
@@ -153,24 +153,6 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-detailed-review-and-tips-picsart-users/"><u>[New] 2024 Approved Detailed Review & Tips PicsArt Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-record-skype-video-and-audio-calls-on-windows-and-mac-10-ways/"><u>[New] 2024 Approved How to Record Skype Video & Audio Calls on Windows & Mac [10 Ways]</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-fullview-pacts-the-art-of-media-company-selection/"><u>[New] FullView Pacts The Art of Media Company Selection</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-6-ways-to-record-mov-files-on-windows-10-for-2024/"><u>[Updated] 6 Ways to Record .mov Files on Windows 10 for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-pivotal-point-in-view-count-for-online-earning/"><u>2024 Approved The Pivotal Point in View Count for Online Earning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-strategies-to-overcome-windows-11s-dll-faults/"><u>Essential Strategies to Overcome Windows 11'S DLL Faults</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-failed-write-operations-in-windows/"><u>Handling Failed Write Operations in Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nokia-g310-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nokia G310 Data? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reimagining-the-taskbar-essential-changes-for-windows-11-enhancement/"><u>Reimagining the Taskbar: Essential Changes for Windows 11 Enhancement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-error-code-unknown-hardware-on-windows-oses/"><u>Resolving 'Error Code: Unknown Hardware' On Windows OSes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-finest-fit-exploring-cost-efficient-pet-camera-options/"><u>The Finest Fit: Exploring Cost-Efficient Pet Camera Options</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-honor-magic-v2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Honor Magic V2 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-xp-how-to-resolve-exe-opener-woes/"><u>Windows XP: How to Resolve EXE Opener Woes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -178,3 +160,21 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-capture-the-moment-iphone-time-lapse-tutorial/"><u>[Updated] 2024 Approved Capture the Moment IPhone Time-Lapse Tutorial</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-deep-dive-into-the-fundamentals-of-youtube-shorts/"><u>2024 Approved A Deep Dive Into The Fundamentals of YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unmatched-video-downloads-top-8/"><u>2024 Approved Unmatched Video Downloads Top 8</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/achieving-perfection-insightful-hitman-3-assessment/"><u>Achieving Perfection: Insightful Hitman 3 Assessment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-unstable-pointer-in-windows-environments/"><u>Combatting Unstable Pointer in Windows Environments</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-intel-rst-driver-problems-in-windows-10-environments/"><u>Resolving Intel RST Driver Problems in Windows 10 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-minimum-spec-requirements-conflicts-with-intel-graphics-errors/"><u>Resolving Minimum Spec Requirements Conflicts with Intel Graphics Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/savvy-shoppers-secret-buy-now-for-612-life-win10/"><u>Savvy Shoppers' Secret: Buy Now for $6.12 Life Win10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-the-sole-use-of-auto-gpt/"><u>Scrutinizing the Sole Use of Auto-GPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-significance-and-risks-of-deleting-pagefilesys/"><u>The Significance and Risks of Deleting Pagefile.sys</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tomorrows-examination-innovative-approaches-for-2024/"><u>Tomorrow’s Examination Innovative Approaches for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unallocated-drive-letters-in-windows-explained-and-how-to-fix-it/"><u>Unallocated Drive Letters in Windows Explained & How to Fix It</u></a></li>
+</ul></div>
+

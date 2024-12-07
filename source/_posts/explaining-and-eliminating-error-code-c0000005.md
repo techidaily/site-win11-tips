@@ -1,7 +1,7 @@
 ---
 title: "Explaining and Eliminating Error Code: C0000005"
-date: 2024-11-21T17:54:03.841Z
-updated: 2024-11-27T16:48:41.365Z
+date: 2024-11-29T18:42:34.814Z
+updated: 2024-12-06T19:54:30.428Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Deactivate Data Execution Prevention (DEP)
@@ -46,7 +46,7 @@ bcdedit.exe /set {current} nx AlwaysOff
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
@@ -54,7 +54,7 @@ bcdedit.exe /set {current} nx AlwaysOff
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
@@ -78,10 +78,14 @@ Similarly, to check the app's version, follow the steps below:
 
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
@@ -96,10 +100,6 @@ Let's go over all of them one by one.
 4. [Repair your app:](https://www.makeuseof.com/windows-repair-apps-programs/) It's possible that the app's files you're trying to run have become damaged and, as a result, your PC throws the 0xc0000005 error code. A quick app repair is a good possible solution in this scenario.
 5. [Run a malware scan:](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) A malware scan can break or create malfunctions for otherwise normal processes on your PC; run and see if that's the case in this error as well.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000005 on a Windows PC
 
@@ -122,19 +122,20 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-enhance-audio-visual-experience-windows-media-player-subtitles/"><u>[Updated] Enhance Audio-Visual Experience Windows Media Player Subtitles</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-laughter-labyrinas-ideas-that-resonate-with-crowds-for-2024/"><u>[Updated] Laughter Labyrinas Ideas That Resonate with Crowds for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastery-over-music-flow-the-art-of-audio-blending/"><u>[Updated] Mastery Over Music Flow The Art of Audio Blending</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-for-swift-control-panel-entry-on-windows/"><u>Expert Tips for Swift Control Panel Entry on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-audio-device-segregation-in-windows/"><u>Exploring Audio Device Segregation in Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme Narzo 60 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-animate-your-phone-videos-best-text-animation-apps/"><u>In 2024, Animate Your Phone Videos Best Text Animation Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-bypassing-hurdles-seamless-pc-file-integration-tips-and-tricks/"><u>In 2024, Bypassing Hurdles Seamless PC File Integration Tips and Tricks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/mastering-the-art-of-moving-twitter-videos-into-whatsapp/"><u>Mastering the Art of Moving Twitter Videos Into WhatsApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-mend-a-devices-daytime-display-issue/"><u>Methods to Mend A Device's Daytime Display Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-signal-heres-how-to-install-and-use-win11/"><u>No Signal? Here's How to Install and Use Win11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-for-deleting-dns-information-on-mac-computers/"><u>The Ultimate How-To for Deleting DNS Information on Mac Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unclutter-your-disk-guide-to-windows-11s-auto-deletion-techniques/"><u>Unclutter Your Disk: Guide to Windows 11'S Auto-Deletion Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-switching-to-claude-3-offers-better-value-than-sticking-with-chatgpt-top-benefits/"><u>Why Switching to Claude 3 Offers Better Value Than Sticking with ChatGPT: Top Benefits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capture-vision-add-movie-maker-to-your-win11-media-suite/"><u>[New] Capture Vision Add Movie Maker to Your Win11 Media Suite</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-from-fresh-to-famous-a-roadmap-to-boosting-like-counts-in-tiktoks/"><u>[Updated] 2024 Approved From Fresh to Famous A Roadmap to Boosting Like Counts in TikToks</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-v30-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo V30 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-personalized-screensavers-for-win11/"><u>Creating Personalized Screensavers for Win11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digiarty-winxdvd-windows-dvd/"><u>Digiarty WinXDVD Windows DVDソフトウェア - お問い合わせガイドライン</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-digital-space-transforming-desktops-with-spotlight-photos/"><u>Elevate Your Digital Space: Transforming Desktops With Spotlight Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-for-efficiently-employing-system-restore-in-windows-operations/"><u>Expert Advice for Efficiently Employing System Restore in Windows Operations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-free-with-gpt-4-and-copilot/"><u>Harness the Power of Free with GPT-4 & Copilot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disguise-or-reveal-the-clock-widget/"><u>How to Disguise or Reveal the Clock Widget</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s24plus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S24+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-faster-than-ever-revolutionary-methods-to-speed-up-fb-videos/"><u>In 2024, Faster Than Ever Revolutionary Methods to Speed Up FB Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/most-advanced-8-minimalist-emulators-play-android/"><u>Most Advanced 8 Minimalist Emulators: Play Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-access-control-a-walkthrough-for-standard-windows-users/"><u>Streamlining Access Control: A Walkthrough for Standard Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unresponsive-windows-escape-button-heres-how-to-resolve-it/"><u>Unresponsive Windows Escape Button? Here's How to Resolve It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unseen-task-view-button-in-win-11-interface/"><u>Unseen Task View Button in Win 11 Interface</u></a></li>
 </ul></div>
 

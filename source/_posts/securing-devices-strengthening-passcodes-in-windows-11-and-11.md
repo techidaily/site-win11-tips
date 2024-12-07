@@ -1,7 +1,7 @@
 ---
 title: Securing Devices, Strengthening Passcodes in Windows 11 and 11
-date: 2024-11-24T18:02:00.033Z
-updated: 2024-11-27T17:06:17.584Z
+date: 2024-12-04T17:07:59.208Z
+updated: 2024-12-06T16:10:22.744Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Extend the PIN Length by Editing the Registry
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options3.jpg)
 5. Type **PassportForWork** in the new key’s text box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Next, right-click on the **PassportForWork** key to select the **New** and **Key** options on Registry Editor’s context menu.
 2. Enter **PINComplexity** inside the key’s text box to set that name.
 3. Right-click the **PINComplexity** key to select **New** \> **DWORD (32-bit) Value**.
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 5. Double-click the new **MinimumPINLength** DWORD you’ve created.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Select the **Decimal** option.
@@ -61,17 +65,13 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click on the **Decimal** radio button.
 7. Enter a number higher than the one set for the **MinimumPINLength** DWORD and select **OK**.  
 ![The Edit DWORD window for the MaximumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window-for-maximum-pin-length.jpg)
 8. Finally, exit the Registry Editor window and restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you’ll see an “organization requires that you change your PIN message” when you try to sign in with the PIN usually entered. Click **OK** to view some options for setting a new PIN. Then input a longer identification number with the minimum number of characters required inside the **New** and **Confirm** PIN boxes.
 
@@ -90,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Extend Your Windows PIN to Make It More Secure
 
  Extending the minimum PIN length for logging in to Windows with one of the methods above is a good security measure. The longer your Windows Hello PIN is, the more secure your PC will be. However, an overly long PIN will be harder to remember. So, don’t make your PIN too long!
@@ -111,25 +111,6 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-detailed-guide-to-advanced-usage-in-macs-preview-app/"><u>[New] 2024 Approved Detailed Guide to Advanced Usage in Mac's Preview App</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-younow-review-and-alternative/"><u>[Updated] Younow Review and Alternative</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-8-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 8 Plus Without iTunes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-a-deep-dive-into-user-privacy-implications/"><u>ChatGPT: A Deep Dive Into User Privacy Implications</u></a></li>
-<li><a href="https://extra-information.techidaily.com/choosing-your-videos-ultimate-shape/"><u>Choosing Your Video's Ultimate Shape</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-backup-configuration-error-on-windows-systems/"><u>Correcting “Backup Configuration Error” On Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-reactivating-file-explorer/"><u>Essential Tips: Reactivating File Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-initiate-clipboard-integration-within-microsofts-app-guard-on-windows-11/"><u>How to Initiate Clipboard Integration Within Microsoft's App Guard on Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-6-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 6</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-pixelated-panoramas-instaslideshow/"><u>In 2024, Pixelated Panoramas InstaSlideShow</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-failed-driver-installations-on-windows-11/"><u>Remedying Failed Driver Installations on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-power-management-on-pcs/"><u>The Ultimate Guide to Power Management on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-playbook-for-kali-on-windows-systems/"><u>The Ultimate Playbook for Kali on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-troubleshoot-anydesk-not-responding-in-windows-11/"><u>Tips to Troubleshoot AnyDesk Not Responding in WIndows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-rated-ssd-options-for-macbook-pro-boost-your-performance-with-zero-lag-storage/"><u>Top Rated SSD Options for MacBook Pro: Boost Your Performance with Zero-Lag Storage</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -137,3 +118,25 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-mastering-digital-image-cropping-techniques/"><u>[New] 2024 Approved Mastering Digital Image Cropping Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-pro-tips-for-kinemaster-dominance-plus-best-digital-platforms-on-the-web/"><u>[Updated] Pro Tips for KineMaster Dominance + Best Digital Platforms on the Web</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-engaging-audiences-on-multiple-digital-landscapes/"><u>2024 Approved Engaging Audiences on Multiple Digital Landscapes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-evaluating-hostgator-virtual-private-servers-and-shared-hosting/"><u>Comprehensive Guide: Evaluating HostGator Virtual Private Servers & Shared Hosting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-windows-voice-recording-tools/"><u>Detailed Guide to Windows' Voice Recording Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/duckstations-insider-secrets-for-ps1-games-in-win/"><u>Duckstation's Insider Secrets for PS1 Games in WIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-google-chrome-black-screen-issue-on-windows/"><u>How to Fix the Google Chrome Black Screen Issue on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-recovery-techniques-for-a-stalled-defender-shield/"><u>Immediate Recovery Techniques for a Stalled Defender Shield</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a1-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A1 5G Device</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/izing-engagement-youtube-links-as-a-catalyst/"><u>Maximizing Engagement YouTube Links as a Catalyst</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-nuances-of-package-management-in-windows-11/"><u>Navigating the Nuances of Package Management in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-high-privilege-terminal/"><u>Navigating to High Privilege Terminal</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-freezing-controllers-easy-fixes-inside/"><u>No More Freezing Controllers - Easy Fixes Inside!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-system-starts-bare-essentials-win11/"><u>Streamline System Starts: Bare Essentials Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-usb-setup-for-win-11-installations/"><u>The Ultimate Guide to USB Setup for Win 11 Installations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-oppo-reno-11-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo Reno 11 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
+

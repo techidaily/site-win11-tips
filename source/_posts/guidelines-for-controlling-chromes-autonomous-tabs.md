@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Controlling Chrome's Autonomous Tabs
-date: 2024-11-26T16:21:02.722Z
-updated: 2024-11-27T16:06:53.842Z
+date: 2024-12-04T16:37:51.773Z
+updated: 2024-12-06T19:58:41.428Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
 * [Update Chrome to the latest version](https://www.makeuseof.com/how-to-update-google-chrome/).
 * Incorrectly configured keyboard and mouse managers can also cause apps like Chrome to malfunction. Disable or delete such an app if you also use one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Ensure That the "Open New Tabs" Shortcut Keys Aren't Pressed Down
 
  If Chrome opens new tabs immediately upon launch and doesn't stop until you close the browser, the shortcut keys for opening new tabs are probably pressed down on your keyboard. You can confirm that using the onscreen keyboard in Windows.
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
 ![Check if the Shortcut Keys to Open New Tabs in Chrome Aren’t Pressed on the On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-check-if-the-shortcut-keys-to-open-new-tabs-in-chrome-aren-t-pressed-on-the-on-screen-keyboard.jpg)
 
  If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Stop Chrome From Opening Links in New Tabs
 
@@ -58,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
 ![Open See All Search Settings in the Chrome Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-open-see-all-search-settings-in-the-chrome-quick-settings.jpg)
 3. Navigate to the **Where results open** section and uncheck the box beside **Open each selected result in a new browser window**.  
 ![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
 
@@ -77,11 +81,7 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
 ![Select Open the New Tab Option in the On Startup Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-open-the-new-tab-option-in-the-on-startup-tab-of-chrome-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Ensure That the Website You Are on Isn’t Malicious
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
  There are many ways to determine whether a website is untrustworthy, so learn [how to check if a site is safe](https://www.makeuseof.com/how-to-check-if-a-website-is-safe-to-use/) for more information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Ensure Your Browser and Device are Malware-Free
@@ -108,11 +108,11 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
 
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop Chrome From Opening New Tabs on Windows
 
@@ -126,23 +126,6 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
 
  If you'd like to open new links in the same tab or stop the browser from opening new tabs automatically, here are a few fixes you can try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-comedy-mastering-kinemaster/"><u>2024 Approved Crafting Comedy Mastering KineMaster</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-10-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 10 [Solved]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-marketplace-error-0x80131500/"><u>Correcting Windows Marketplace Error 0X80131500</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cutting-edge-mini-mp3-players-of-the-year-2024/"><u>Cutting-Edge Mini MP3 Players of the Year 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/essential-hashtags-propel-your-posts-to-the-top/"><u>Essential #Hashtags Propel Your Posts to the Top</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tial-gear-checklist-for-youtube-success/"><u>Essential Gear Checklist for YouTube Success</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-14-pro-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722897685109-how-to-resolve-msodll-file-not-detected-issues-on-your-pc/"><u>How to Resolve 'mso.dll' File Not Detected Issues on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-to-restricted-permissions-setup-for-windows-10-users/"><u>Navigate to Restricted Permissions Setup for Windows 10 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-active-errors-with-ccleaner-on-windows-1011/"><u>Resolving Active Errors with CCleaner on Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-a-non-responsive-corsair-virtuoso-microphone/"><u>Step-by-Step Guide: Fixing a Non-Responsive Corsair Virtuoso Microphone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-switch-activatingdeactivating-bing-ai-windowly-search/"><u>Swift Switch: Activating/Deactivating Bing AI Windowly Search</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-video-to-live-wallpaper-converters-a-step-by-step-guide/"><u>Updated 2024 Approved Top Video to Live Wallpaper Converters A Step-by-Step Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -150,3 +133,18 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-securely-download-vimeo-videos-a-comprehensive-softwares-approach/"><u>[Updated] 2024 Approved Securely Download Vimeo Videos A Comprehensive Softwares Approach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-free-after-effects-title-templates/"><u>[Updated] Best Free After Effects Title Templates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dont-panic-how-to-get-back-deleted-chats-from-any-mobile-phone/"><u>Don't Panic! How to Get Back Deleted Chats From Any Mobile Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-method-turn-off-pin-during-windows-11-display-cast/"><u>Easy Method: Turn Off PIN During Windows 11 Display Cast</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-error-image-id-0x80780119-in-windows/"><u>Resolving the Error: Image ID 0X80780119 in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-microsoft-business-solutions-for-ipadiphone-expert-reviewed-zdnet/"><u>Top 10 Microsoft Business Solutions for iPad/iPhone - Expert Reviewed | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-gaming-pcs-reimagined-with-atlasos/"><u>Vintage Gaming PCs, Reimagined with AtlasOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-firewall-a-complete-reboot-guide/"><u>Windows Firewall: A Complete Reboot Guide</u></a></li>
+</ul></div>
+

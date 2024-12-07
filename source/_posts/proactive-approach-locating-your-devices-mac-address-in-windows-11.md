@@ -1,7 +1,7 @@
 ---
 title: "Proactive Approach: Locating Your Device's MAC Address in Windows 11"
-date: 2024-08-28T01:09:16.726Z
-updated: 2024-08-29T01:09:16.726Z
+date: 2024-11-29T19:02:18.913Z
+updated: 2024-12-06T22:59:32.153Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ![wifi mac address win11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wifi-mac-address.jpg)
 4. At the bottom of the page, look for the**Physical address (MAC)** to find your alphanumeric MAC address string.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Find Your Windows 11 MAC Address via the Command Prompt
 
  If you’re an old-school techie, you might prefer using[the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) as much as possible. Fortunately, you can quickly determine the MAC address of your Windows 11 device with just a single command as follows:
@@ -43,11 +47,16 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ![mac address from cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mac-address-cmd.jpg)
 3. In the Windows IP Configuration, under the**Ethernet adapter** section, you can see your MAC address next to the**Physical Address** field.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows IP Configuration will show the network configuration details of Wifi, Ethernet, and any virtual machines you’ve set up. You can use the**Description** field to ensure you’re using the MAC address of the correct connection type.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Find the MAC Address of All Windows 11 Network Adapters
 
  Your Windows 11 system can have multiple MAC addresses for different connections. Wifi connections will have a separate MAC address from an Ethernet connection. Similarly, any VM or[VPN](https://www.makeuseof.com/tag/what-is-a-vpn-how-tunneling-works/) will use different network adapter IP configurations.
@@ -59,13 +68,11 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 3. Under**More settings** , select the tab titled**Hardware and connection properties** .  
 ![ipconfig of network adapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/all-ipconfig.jpg)
 4. You can find the required network adapter from the list of displayed IP configurations through the**Description** field. The MAC address will be the alphanumeric string next to the**Physical address (MAC)** field.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Determine the Network Adapter MAC Address Using Windows 11 Control Panel
 
  As mentioned previously, it’s possible to have multiple network adapters configured on your Windows PC. If you’d like to view all of the configured network adapters and find their specific MAC address, you can do so using the old-school Windows Control Panel:
@@ -73,37 +80,23 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 1. Navigate to **Start > Control Panel > Network and Internet > Network and Sharing Center** .  
 ![change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-adapter-settings.jpg)
 2. From the left menu, select**Change adapter settings** to view the list of configured network adapters.
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 3. Double-click on a network adapter and click on**Details** .  
 ![all network adapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/all-network-adapters.jpg)
 4. You will now find the IP configuration details for the selected network adapter. You can find the MAC address next to the**Physical Address** field.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can I Change the MAC Address on Windows 11?
 
  While it is possible to change the default MAC address of your Windows PC, device manufacturers strongly recommend against it as it can cause unexpected issues. Nevertheless, if you still want to change the MAC address of your device, make sure you’re aware of the possible implications before you get started.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +105,19 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-complete-thumbnail-playbook-from-creation-to-analysis/"><u>[New] 2024 Approved The Complete Thumbnail Playbook From Creation to Analysis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elite-8-streaming-software-selections-for-2024/"><u>[New] Elite 8 Streaming Software Selections for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-essential-tips-supercharge-your-instagram-highlights-for-2024/"><u>[New] Essential Tips Supercharge Your Instagram Highlights for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-az-capture-in-depth-app-analysis-and-reviews/"><u>[Updated] AZ Capture In-Depth App Analysis & Reviews</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-power-of-photos-a-comprehensive-polarr-guide/"><u>[Updated] Unveiling the Power of Photos A Comprehensive Polarr Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-20-proplus-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-fresh-start-trio-of-windows-reboot-tactics/"><u>Crafting a Fresh Start: Trio of Windows Reboot Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-disk-space-efficiency-with-auto-delete-on-windows-11/"><u>Enhance Disk Space Efficiency with Auto Delete on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mac-owners-checklist-the-first-10-must-do-tasks-for-optimal-performance/"><u>New Mac Owners' Checklist: The First 10 Must-Do Tasks for Optimal Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stabilizing-snapshots-preventing-blurry-results-for-2024/"><u>Stabilizing Snapshots Preventing Blurry Results for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-directx-setup-failures/"><u>Troubleshooting DirectX Setup Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgraded-notification-methods-full-charge-alerts/"><u>Upgraded Notification Methods: FULL CHARGE Alerts</u></a></li>
+</ul></div>
 

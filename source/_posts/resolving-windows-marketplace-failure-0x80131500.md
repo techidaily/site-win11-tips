@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows Marketplace Failure #0X80131500
-date: 2024-08-28T01:11:49.927Z
-updated: 2024-08-29T01:11:49.927Z
+date: 2024-12-02T17:44:55.292Z
+updated: 2024-12-06T19:34:02.772Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,11 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 4. Scroll down and click on the **Terminate** button.  
 ![Terminate and Reopen Microsoft Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/terminate-and-reopen-microsoft-store-app.jpg)
 5. Press the **Win + R**, which is one of the many [ways to launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Then type **ms-windows-store:** into the text box and press **Enter**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Microsoft Store app will launch. Check if it displays the error code now.
 
 ## 2\. Restart Your System
@@ -49,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
  Wait for the system to restart and then connect it to a working internet connection. Then, launch the Microsoft Store.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change the Device Region
 
  Incorrect device region settings can prevent the Microsoft Store app from loading content. Server maintenance could be another reason why the app is not fetching details from the server. Here’s how to change the region on Windows.
@@ -62,13 +64,11 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 4. Click on the **Country or region** option and pick your region from the drop-down list.  
 ![Change the Device Region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-the-device-region.jpg)
 5. Now close the Settings app and relaunch the Microsoft Store. Check if the error persists.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Sync System Date and Time
 
  Incorrect system date and time can also trigger the error. To Sync the time and date on your system, repeat the following steps:
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 3. Scroll down and click on the **Sync now** button. It will sync the time and date with the Microsoft servers.  
 ![Sync System Date and Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sync-system-date-and-time.jpg)
 4. Exit the settings app and launch the Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Repair or Reset the Microsoft Store App
 
@@ -92,13 +96,15 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 5. If the error code pops up, switch to the Settings app. Now, click on the **Reset** button.  
 ![Repair or Reset the Microsoft Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-microsoft-store-app.jpg)
 6. Close the settings app and restart your system. Launch the Microsoft Store app and check if the error code pops up.
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update Windows
 
  An outdated version of Windows can pose problems when you try to run the app. Windows updates fix any existing problems with the app. Here’s how to update Windows on your system:
@@ -112,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 6. Windows will download and install the updates. You must restart your system to finish applying the new updates.
 7. Relaunch the Microsoft Store and check if you see the error code again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 7\. Sign Out and In Again
 
  Repeat the following steps to sign out and back into the Microsoft Store.
@@ -126,9 +129,9 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 5. Click on the Microsoft account you use on your Windows PC and click on **Continue**.  
 ![Sign Out and Again Sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-out-and-again-sign-in.jpg)
 6. Enter the system **PIN** to confirm the login.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Check the BITS and Windows Update Service
@@ -140,24 +143,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Go to the **Startup type:** section and click on it to open the drop-down list. Select the **Automatic** option.  
 ![Configure BITS service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configure-bits-service.jpg)
 4. Click on the **Apply** button.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Now, click on the **Start** button and then click on the **OK** button.
 6. Next, locate the **Windows Update** service and double-click on it to open its properties.
 7. Find the **Startup type:** section and click on it to expand the drop-down list. Click on the **Automatic** option.  
 ![Configure Windows Update service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configure-windows-update-service.jpg)
 8. Click on the **Apply** button.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 9. Lastly, click on the **Start** button and then click on the **OK** button.
 10. **Close** the Services utility.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 9\. Tweak the Internet Options
 
  Some misconfigured internet settings can cause the Microsoft Store app to not load items and encounter the issue. Repeat the following steps to configure the internet settings:
@@ -172,6 +165,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 7. **Restart** your PC to apply the changes.
 8. Log in to your PC and launch the Microsoft Store app. Check if the error code appears again or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Uninstall and Reinstall the Microsoft Store
 
  You cannot uninstall the Microsoft Store using either the Control Panel or the Settings app. As such, you'll need to use PowerShell, which can uninstall and reinstall the app on your system. Here’s how to do it:
@@ -183,6 +180,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 `Get-AppxPackage -allusers *WindowsStore* | Remove-AppxPackage Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`
 
 ![Uninstall and Reinstall Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-and-reinstall-microsoft-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Run an SFC and DISM Scan
 
@@ -204,11 +205,31 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  They cannot access the store and see the “**This page could not be loaded. Please try again later.**” message along with the error code listed below. If you face the same issue, don’t worry. We will list out the possible reasons for this Microsoft error code along with potential fixes.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069277615-new-in-2024-infinite-jest-joyride-top-kids-game-lineup/"><u>[New] In 2024, Infinite Jest Joyride - Top Kids' Game Lineup!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-smoothing-out-the-rough-edges-in-photo-booth-videos/"><u>[New] Smoothing Out The Rough Edges In Photo Booth Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-live-streaming-showdown-streamlabs-vs-obs-face-off/"><u>[Updated] Live Streaming Showdown Streamlabs Vs. OBS Face-Off</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-best-audio-changing-software-for-virtual-artists-success/"><u>2024 Approved Best Audio-Changing Software for Virtual Artists' Success</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brilliant-barrage-essential-gadgets-for-clips-for-2024/"><u>Brilliant Barrage Essential Gadgets for Clips for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-erroneous-value-not-found-messages-on-winos/"><u>Dealing with Erroneous Value Not Found Messages on WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-utorrent-speed-overcoming-connectivity-issues-in-windows/"><u>Enhancing uTorrent Speed: Overcoming Connectivity Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expedited-routes-for-finding-gaming-gpu-make-in-window-11/"><u>Expedited Routes for Finding Gaming GPU Make in Window 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-stuck-windows-hibernate-mode/"><u>How to Revive Stuck Windows Hibernate Mode</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-motorola-razr-40-ultra-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Razr 40 Ultra ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionary-iphone-techniques-for-photo-collage-connoisseurs/"><u>In 2024, Revolutionary iPhone Techniques for Photo Collage Connoisseurs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-thumbnail-heights-for-images/"><u>Personalizing Thumbnail Heights for Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solve-your-youtube-display-issues-eliminate-black-screens-completely/"><u>Solve Your YouTube Display Issues - Eliminate Black Screens Completely!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-projector-unresponsive-error/"><u>Steps to Correct Projector Unresponsive Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-deactivate-license-will-soon-end-warning-on-win10w11/"><u>Steps to Deactivate License Will Soon End” Warning on Win10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winkey-woes-resolving-blank-display-on-backlit-pads/"><u>WinKey Woes: Resolving Blank Display on Backlit Pads</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Converting Gmail to Outlook Mail on Windows
-date: 2024-11-20T17:22:05.807Z
-updated: 2024-11-27T17:01:59.912Z
+date: 2024-11-29T20:29:39.379Z
+updated: 2024-12-06T20:56:56.615Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get the Outlook for Windows Preview App
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Gmail Account to Outlook
 
  Now that you're using the preview version of Outlook, you can now make use of its Gmail integration. Once enabled, users can access their Google calendar and contacts right through the Outlook for Windows app, so you can say goodbye to using a browser to access your email and calendar.
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 2. Alternatively, if you’ve set up Microsoft 365 Insider, launch the**Outlook** app and enable the**Try the new Outlook** toggle button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Wait for the app to relaunch and quickly walk through the quick start guide.
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Enter your Gmail account and press**Continue.**  
@@ -69,17 +73,13 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
 4. Once you’ve signed in, press**Open Outlook** when prompted to add your Gmail account to Outlook for Windows preview.  
 ![outlook prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-prompt.jpg)
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The New Outlook App Is Getting Better
 
@@ -100,14 +100,24 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlock-potential-a-101-step-guide-to-crafting-exceptional-bios-on-facebook/"><u>[New] 2024 Approved Unlock Potential A 101-Step Guide to Crafting Exceptional Bios on Facebook</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/blending-iphone-videos-a-simple-guide-for-2024/"><u>Blending iPhone Videos A Simple Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-your-current-os-windows-10/"><u>Compelling Case for Continuing with Your Current OS - Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-unhackable-dialog-button-for-hardware-disconnect-in-win11/"><u>Crafting Unhackable Dialog Button for Hardware Disconnect in Win11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discover-the-7-most-popular-video-apps-for-iphones-and-android-live-streaming-for-2024/"><u>Discover The 7 Most Popular Video Apps for iPhones & Android Live Streaming for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/effortless-ios-screen-recording-techniques-for-2024/"><u>Effortless iOS Screen Recording Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-advanced-file-backup-features/"><u>Enabling Advanced File Backup Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-security-of-user-authentication-on-w11/"><u>Mastering the Security of User Authentication on W11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-netgear-wifi-card-drivers-a-step-by-nstep-guide/"><u>Update Your NETGEAR WiFi Card Drivers: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-youtube-frames-top-5-cost-free-techniques/"><u>[New] 2024 Approved Mastering YouTube Frames Top 5 Cost-Free Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-iphones-simple-methods-for-effective-screening/"><u>[New] IPhone's Simple Methods for Effective Screening</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-breakthrough-vloggers-reviewed-the-best-15-youtube-channels-for-product-reviews-for-2024/"><u>[Updated] Breakthrough Vloggers Reviewed The Best 15 YouTube Channels for Product Reviews for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-rotate-youtube-videos-by-any-angle/"><u>[Updated] How to Rotate YouTube Videos by Any Angle</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-winning-the-game-of-tv-recording-on-a-budget-pc/"><u>[Updated] In 2024, Winning the Game of TV Recording on a Budget PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pinnacle-of-image-capture-highlighting-the-best-10-4k-phone-cameras-for-2024/"><u>[Updated] Pinnacle of Image Capture Highlighting the Best 10 4K Phone Cameras for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/direct-screen-capture-chromium-version-for-2024/"><u>Direct Screen Capture Chromium Version for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-clear-saved-wi-fi-from-win-11/"><u>Efficiently Clear Saved Wi-Fi From Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-overcoming-windows-11-tpm-blocks/"><u>Expert Guide: Overcoming Windows 11 TPM Blocks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-capabilities-of-microsofts-phone-link-app/"><u>Exploring the Capabilities of Microsoft's 'Phone Link' App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-f34-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy F34 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/innovative-tactics-for-cutting-edge-macro-video-creation/"><u>Innovative Tactics for Cutting-Edge Macro Video Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-temperature-safety-mechanisms/"><u>Navigating Windows' Temperature Safety Mechanisms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/next-phase-of-personal-computing-windows-after-11/"><u>Next Phase of Personal Computing: Windows After 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rediscovering-the-missing-tab-button-on-your-laptop/"><u>Rediscovering the Missing Tab Button on Your Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-update-problem-error-code-0x800f0845/"><u>Solving Windows Update Problem - Error Code: 0X800f0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-a-non-responsive-windows-taskbar/"><u>Troubleshooting a Non-Responsive Windows Taskbar</u></a></li>
+<li><a href="https://article-tips.techidaily.com/tying-iphone-videos-in-seamless-bundles-for-2024/"><u>Tying IPhone Videos in Seamless Bundles for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-image-cache-hidden-paths/"><u>Windows Image Cache: Hidden Paths?</u></a></li>
 </ul></div>
 

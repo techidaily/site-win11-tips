@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Blinking Screens in WIN10/11
-date: 2024-11-21T17:31:07.118Z
-updated: 2024-11-27T18:06:03.914Z
+date: 2024-12-05T23:34:25.754Z
+updated: 2024-12-06T17:32:13.046Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Perform This Screen Flickering Test First
 
  First, you need to establish what might be causing the flickering screen. To do this,[open Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) by pressing**Ctrl + Shift + Esc** simultaneously.
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
  If it's the former, follow the instructions below in order. If it's the latter, skip to step five. That said, if the advice there doesn't work, check the advice in the other sections too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Monitor and Cables
 
  If you have a flashing screen, the first thing to rule out is the hardware. Check all the cable connections from the monitor to the computer—take them out and plug them back in to ensure the cables are secure.
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
  If you can, try a different monitor. If this resolves the problem, you know it's your monitor that's the issue. At that point, contact the manufacturer for support or to raise a warranty claim.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set the Correct Refresh Rate
@@ -73,7 +73,7 @@ To adjust your refresh rate:
  The screen flashing could be caused by your display driver. You might have an old driver or a faulty new one. Let's make sure you are running the right version for your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Remove the Driver
@@ -81,6 +81,10 @@ To adjust your refresh rate:
  First,[boot Windows in safe mode](https://www.makeuseof.com/windows-11-boot-safe-mode/ "How to Boot Into Windows 10 Safe Mode") :
 
 ![windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-recovery.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open Settings.
 2. Select**Update & Security >** **Recovery** (Windows 10) or**System > Recovery** (Windows 11).
@@ -92,16 +96,16 @@ Next, use Device Manager to uninstall the display driver:
 
 ![uninstall display device drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/uninstall-display-device-drivers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Press**Windows key + X** and click**Device Manager** .
 2. **Double-click** on**Display adapters** to expand the category.
 3. **Right-click** your graphics card, click**Uninstall device** , check**Delete the driver software for this device** and then click**OK** .
 4. Restart your system again.
 
  Alternatively, you can use third-party software[Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) , which will completely wipe any traces of the driver from your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Install a New Driver
 
@@ -114,10 +118,6 @@ Next, use Device Manager to uninstall the display driver:
  Alternatively, you can go to your graphics card manufacturer's website (likely[AMD](https://www.amd.com/en/support) ,[NVIDIA](https://www.nvidia.com/Download/Find.aspx) , or[Intel](https://downloadcenter.intel.com/product/80939/Graphics) ) and manually download the driver from there.
 
  Download the driver, install it, and see if the screen flashing problem has ceased.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Roll Back to an Older Driver
 
@@ -134,6 +134,10 @@ Next, use Device Manager to uninstall the display driver:
 [Power off your PC](https://www.makeuseof.com/windows-11-how-to-shut-down/) , unplug everything, open the case, and remove your graphics card from the motherboard. Then carefully reseat it, ensuring the card firmly clips into the motherboard. Of course, don't do this if you're not comfortable working inside a computer because you might make things worse.
 
  If this doesn't fix it,[your graphics card might be faulty or dying](https://www.makeuseof.com/signs-graphics-card-is-dying/) . Contact the manufacturer for support or to claim on the warranty.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Problematic Applications
 
@@ -155,10 +159,6 @@ If this doesn't work, uninstall the program. To do so:
  How do you stop your laptop or computer screen from flickering? Well, many Windows 10 and Windows 11 problems can often be solved by[creating a new user profile](https://www.makeuseof.com/windows-11-create-local-user-account/) . Screen flickering is one of them.
 
 ![windows 11 family and other users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-family-and-other-users.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To create a new account:
 
@@ -187,15 +187,17 @@ To create a new account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/erfect-timing-for-on-screen-dialogue-in-your-youtube-productions-for-2024/"><u>[New] Perfect Timing for On-Screen Dialogue in Your YouTube Productions for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-mac-visuals-plus-acoustics-scribing-tool/"><u>[Updated] Ultimate Mac Visuals + Acoustics Scribing Tool</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-x50i-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diy-windows-text-conversion-using-ahk-and-whisper-libraries-effectively/"><u>DIY Windows Text Conversion: Using AHK & Whisper Libraries Effectively</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c51-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C51 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-vloggers-retreat-excellence-unleashed/"><u>In 2024, The Vloggers' Retreat Excellence Unleashed</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-gionee-f3-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Gionee F3 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-lsassexe-failure-in-windows/"><u>Strategies for Resolving lsass.exe Failure in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-systems-startup-a-windows-11-clean-boot-tutorial/"><u>Streamlining Your System's Startup: A Windows 11 Clean Boot Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/title-streamlining-desktop-icon-proximity-in-windows-1110/"><u>Title: Streamlining Desktop Icon Proximity in Windows 11/10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-fifa-scoreboard-tactics-in-infographics/"><u>[New] 2024 Approved Top FIFA Scoreboard Tactics in Infographics</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discovering-the-basics-of-discords-spoiler-tags/"><u>[New] Discovering the Basics of Discord's Spoiler Tags</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-quick-and-effortless-gif-to-professional-video-transformation-tools/"><u>[New] In 2024, Quick and Effortless GIF to Professional Video Transformation Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-your-blank-desktop-icon-recovery-tips/"><u>Cure Your Blank Desktop: Icon Recovery Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-fixing-package-could-not-be-opened-errors-on-ws11ws10/"><u>Essential Strategies for Fixing 'Package Could Not Be Opened' Errors on WS11/WS10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-failure-of-powershell-detection-in-windows/"><u>Fixes for Failure of PowerShell Detection in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfect-process-for-embedding-youtube-playlists-on-websites-efficiently-for-2024/"><u>Perfect Process for Embedding YouTube Playlists on Websites Efficiently for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-ppt-files-6-accelerated-fixes-in-windows-11/"><u>Secure Your PPT Files: 6 Accelerated Fixes in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-malfunctioning-computer-speaker-units/"><u>Ultimate Fixes for Malfunctioning Computer Speaker Units</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unearthing-the-potential-of-htc-vive-for-immersive-gaming/"><u>Unearthing the Potential of HTC Vive for Immersive Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-efficiency-embedding-keyboard-shortcuts-into-windows-menu-bar/"><u>Upgrading Efficiency: Embedding Keyboard Shortcuts Into Windows Menu Bar</u></a></li>
 </ul></div>
 

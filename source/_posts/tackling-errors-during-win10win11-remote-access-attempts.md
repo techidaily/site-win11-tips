@@ -1,7 +1,7 @@
 ---
 title: Tackling Errors During Win10/Win11 Remote Access Attempts
-date: 2024-11-22T16:12:01.445Z
-updated: 2024-11-27T16:54:31.209Z
+date: 2024-12-04T01:12:04.849Z
+updated: 2024-12-06T19:07:08.311Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Select the "Allow Remote Connections" Setting
 
  First, check the basic settings required for remote connections are enabled. The**Allow the remote connection** setting needs to be enabled on the host computer (the remote one you’re trying to connect to). This is how you can select the**Allow remote connection** setting in Windows 10 and 11:
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
  If you don’t see the**Allow connections only from computers** option, that probably means the Windows platform isn’t a Pro or Enterprise edition. You can only enable remote connections on host computers with Windows Pro and Enterprise. However, you can still connect to host PCs with Windows Home client PCs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Disable Network Layer Authentication
 
  There’s an **Allow connections only from computers running Remote Desktop with Network Level Authentication** setting just below the**Allow Remote connection** radio button. Selecting that option implements tighter Network Layer Authentication security for remote connections. However, some users confirm that disabling NLA by unticking that checkbox can fix the “internal error has occurred” error. So, deselect that option if you’ve got it selected.
@@ -57,14 +57,24 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 3. Double-click**Remote Desktop Services** to access some configuration settings for that service.  
 ![The Remote Desktop Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/services-window.jpg)
 4. If disabled, select**Automatic** on the**Startup** drop-down menu for Remote Desktop Services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Start** (inside the properties window) to run Remote Desktop Services.  
 ![The Remote Desktop Services Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-services-service.jpg)
 6. Select**Apply** to set the new service options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then you can exit the window by clicking**OK** or**X** .
 8. If Remote Desktop Services is already running, you can try restarting it instead. Right-click**Remote Desktop Services** to view its context menu and select**Restart** from there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Select the "Reconnect if the Connection Is Dropped" Setting
@@ -88,10 +98,19 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 3. Right-click the internet connection to select its**Properties** context menu option.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/properties-option-1.jpg)
 4. Select**Internet Protocol Version 4** and click**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then click**Obtain DNS server automatically** radio button.  
 ![The Obtain DNS server radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/obtain-dns-server-option.jpg)
 6. Also, click**Obtain an IP address automatically** if that option isn’t selected.
 7. Select**OK** to confirm the new DNS and IP address settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Enable the "Require Use of Specific Security Layer" Group Policy Setting
 
@@ -104,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 5. Double-click the **Require use of specific security layer for remote (RDP) connections** policy.  
 ![The Security policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-policies.jpg)
 6. Select the**Enabled** radio button for that policy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Choose**RDP** in the**Security Layer** drop-down menu.  
 ![The Security Layer RDP option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rdp-option.jpg)
@@ -127,14 +142,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 4. Click**Apply** to set the new**Turn off UDP** on Client policy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select**OK** in the**Turn off UDP on Client** window and exit Group Policy Editor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Disconnect a Domain Account
 
@@ -148,10 +159,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 5. Press your Start menu’s**Restart** button.
 6. Then try connecting to the remote computer with RDC again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Turn Off Any Active VPNs
 
  VPNs that route connections to different servers can also cause the “internal error has occurred” issue to arise. If you’re utilizing a VPN, at least try temporarily disabling it. This is how you can turn off a VPN in Settings:
@@ -162,14 +169,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 3. Select your VPN’s**Disconnect** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Domain account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/access-work-or-school-accounts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Re-establish Remote PC Access on Windows
 
@@ -190,22 +193,22 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-effortless-enchantment-make-your-mark-with-striking-templates-for-tiktok/"><u>[New] Effortless Enchantment Make Your Mark with Striking Templates for TikTok</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-sports-and-screen-capture-the-best-ways-to-document-the-action/"><u>[Updated] In 2024, Sports and Screen Capture The Best Ways to Document the Action</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone XS Max</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-path-for-your-print-job-overcome-usage-hurdles/"><u>Clear Path for Your Print Job: Overcome Usage Hurdles</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-motorola-razr-40-ultra-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Motorola Razr 40 Ultra Phone that is Locked?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-zoom-launch-your-guide-to-online-chats/"><u>In 2024, Zoom Launch Your Guide to Online Chats</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-linksys-ea8300-smart-router-seamless-multi-device-connectivity/"><u>In-Depth Analysis of Linksys EA8300 Smart Router: Seamless Multi-Device Connectivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-multi-file-unzipping-on-windows/"><u>Mastering Multi-File Unzipping on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-your-way-to-responsive-menu-bar-navigation/"><u>Mending Your Way to Responsive Menu Bar Navigation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ply-your-channels-subscribers-quickly/"><u>Multiply Your Channel's Subscribers Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personal-touch-for-your-wt-terminal-display/"><u>Personal Touch for Your WT Terminal Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-windows-logins-not-allowed-issue-top-8-ways/"><u>Rectifying Windows Logins Not Allowed Issue (Top 8 Ways)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-data-transfer-issues-with-faulty-usb-sticks-windows/"><u>Remedying Data Transfer Issues with Faulty USB Sticks (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-defective-windows-disk-organizer-errors/"><u>Resolving Defective Windows Disk Organizer Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-sailing-effortless-app-management-in-windows-11/"><u>Smooth Sailing: Effortless App Management in Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/snappy-zoom-calls-for-improved-engagement-for-2024/"><u>Snappy Zoom Calls for Improved Engagement for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/thriving-in-a-multi-task-world-on-windows-11/"><u>Thriving in a Multi-Task World on Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-viral-ventures-from-likes-to-lore-in-the-facebook-landscape/"><u>[New] 2024 Approved Viral Ventures From Likes to Lore in the Facebook Landscape</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-gadgets-that-shine-in-travel-videography/"><u>[Updated] 2024 Approved Gadgets That Shine in Travel Videography</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unlock-the-potential-of-iphone-cinematography-top-8-strategies/"><u>[Updated] 2024 Approved Unlock the Potential of iPhone Cinematography Top 8 Strategies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-blurring-the-boundary-a-comprehensive-look-at-story-bokeh/"><u>[Updated] Blurring the Boundary A Comprehensive Look at Story Bokeh</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-steering-to-your-own-musical-selections-on-youtube/"><u>[Updated] Steering to Your Own Musical Selections on Youtube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-narzo-60-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme Narzo 60 5G</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-a-great-convertible-and-inexpensive-asus-chromebook-with-our-detailed-review/"><u>Experience a Great, Convertible & Inexpensive Asus Chromebook with Our Detailed Review!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-epson-v600-driver-software-here/"><u>Get the Latest Epson V600 Driver Software Here!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-this-app-is-preventing-windows-from-shutting-down-restarting-or-signing-out-error-on-windows/"><u>How to Fix “This App Is Preventing Windows From Shutting Down, Restarting, or Signing Out” Error on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-dark-side-of-fallout-4-a-step-by-estep-fix-for-screen-problems/"><u>Mastering The Dark Side of Fallout 4: A Step-by-eStep Fix for Screen Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pause-in-play-reactivating-computers-sound-system/"><u>Pause in Play? Reactivating Computer's Sound System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-old-computers-switching-away-from-windows/"><u>Refreshing Old Computers: Switching Away From Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-6-best-multi-monitor-brightness-control-software-for-windows/"><u>The 6 Best Multi-Monitor Brightness Control Software for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-11-calendar-features/"><u>The Ultimate Guide to Windows 11 Calendar Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-how-ai-transforms-windows-innovations/"><u>Unlocking Potential: How AI Transforms Windows Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-methods-enhancing-windows-disk-capacity-without-spending/"><u>Winning Methods: Enhancing Windows Disk Capacity without Spending</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winvpn-error-connection-lost-explained-and-fixed/"><u>WinVPN Error: Connection Lost Explained and Fixed</u></a></li>
 </ul></div>
 

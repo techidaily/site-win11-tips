@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting & Personalizing Your Own Treemap Visualization with Excel"
-date: 2024-08-28T01:09:10.320Z
-updated: 2024-08-29T01:09:10.320Z
+date: 2024-12-04T02:08:35.452Z
+updated: 2024-12-06T22:32:02.607Z
 tags:
   - excel
 categories:
@@ -29,20 +29,16 @@ Related: [How to Create an Organizational Chart in PowerPoint](https://facebook-
 
 ![Treemap chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/EastWestStates-ExcelTreemap.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The benefits of a treemap include an easy way to spot patterns, similarities, and anomalies, and a structured method of showing pieces of a whole. The compactness of a treemap also makes it an unobtrusive visual in your spreadsheet.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Create a Treemap in Excel
 
  The best way to organize the data for your treemap is to start with the main category or parent in the first column. Then, add the subcategories, subsequent items, and number data in the columns to the right.
@@ -55,9 +51,6 @@ Related: [How to Create an Organizational Chart in PowerPoint](https://facebook-
 
 ![On the Insert tab, click Hierarchy, Treemap](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/InsertHierarchyTreemap-ExcelTreemap.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The chart will immediately display in your spreadsheet. And you can see how the rectangles are grouped within their categories along with how the sizes are determined.
 
  In the screenshot below, you can see the largest product sold, Accessories > Cap, and the smallest, Shoes > Sandals.
@@ -67,35 +60,35 @@ Related: [How to Create an Organizational Chart in PowerPoint](https://facebook-
  Next, you can make some changes to the appearance, move or resize the chart, and give it a title.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Customize a Treemap in Excel
 
  The best place to start customizing your treemap is by giving it a title. By default, the name is Chart Title. Simply click that text box and enter a new name.
 
 ![Enter a chart title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartTitle-ExcelTreemap.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Next, you can select a style, color scheme, or different layout for the treemap. Select the chart and go to the Chart Design tab that displays. Use the variety of tools in the ribbon to customize your treemap.
 
 ![Chart Design tab in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartDesignTab-ExcelTreemap.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For fill and line styles and colors, effects like shadow and 3-D, or exact size and proportions, you can use the Format Chart Area sidebar. Either right-click the chart and pick "Format Chart Area" or double-click the chart to open the sidebar.
 
 ![Format Chart Area sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/FormatChartArea-ExcelTreemap.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On Windows, you'll see two handy buttons on the right of your chart when you select it. With these, you can add, remove, and reposition Chart Elements. And you can pick a style or color scheme with the Chart Styles button.
 
 ![Chart Elements, position Legend](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartElementsLegend-ExcelTreemap.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To move your chart to a new spot on your sheet, simply select it, then drag and drop it where you want it. To resize the chart, you can drag inward or outward from a corner or edge.
 
 ![Drag to resize the chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ResizeChart-ExcelTreemap.png) 
@@ -108,8 +101,6 @@ Related: [How to Create an Organizational Chart in PowerPoint](https://facebook-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +108,26 @@ Related: [How to Create an Organizational Chart in PowerPoint](https://facebook-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-the-central-node-of-youtube-video-management/"><u>[New] 2024 Approved Finding the Central Node of YouTube Video Management</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-practical-steps-to-remove-the-cluttered-background-in-figma/"><u>[New] In 2024, Practical Steps to Remove the Cluttered Background in Figma</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-spotifys-top-10-chart-toppers-for-2024/"><u>[New] Spotify’s Top 10 Chart-Toppers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-leading-speech-gatherers-in-educational-environments/"><u>2024 Approved Leading Speech Gatherers in Educational Environments</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726223690339-asfmp4-movavi/"><u>網路無限制地自由轉換ASF到MP4 - 使用Movavi 轉換工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evolving-winadmin-roles-with-innovative-uac-strategies/"><u>Evolving WinAdmin Roles with Innovative UAC Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-efficient-voice-recording-on-windows-11/"><u>Expert Tips for Efficient Voice Recording on Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/template-to-trendsetter-gamer-channel-banners-guide/"><u>From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-solutions-for-stalled-task-scheduling/"><u>Immediate Solutions for Stalled Task Scheduling</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-6-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 6 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-zero-5g-2023-turbo-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Zero 5G 2023 Turbo to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-showhide-file-explorer-folders-windows-11/"><u>Master the Art of Show/Hide File Explorer Folders (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-dodge-windows-login-requests/"><u>Quick Fixes to Dodge Windows Login Requests</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-tecno-camon-20-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Tecno Camon 20 has been deleted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-problematic-video-driving-issues/"><u>Solving Problematic Video Driving Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-task-management-with-widgets-on-win-11/"><u>Streamlining Task Management with Widgets on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triple-column-widget-setup-in-windows-11-guide/"><u>Triple Column Widget Setup in Windows 11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-obscured-system-tray-on-win11/"><u>Unveiling the Obscured: System Tray on Win11</u></a></li>
+</ul></div>
 

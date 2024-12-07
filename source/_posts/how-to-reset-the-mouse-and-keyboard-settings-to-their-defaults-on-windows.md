@@ -1,7 +1,7 @@
 ---
 title: How to Reset the Mouse and Keyboard Settings to Their Defaults on Windows
-date: 2024-11-20T17:15:34.795Z
-updated: 2024-11-27T16:36:52.825Z
+date: 2024-12-01T23:58:11.670Z
+updated: 2024-12-06T16:22:24.291Z
 tags:
   - windows10
   - windows11
@@ -25,22 +25,18 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset the Mouse Settings to Their Defaults
 
 ![Person using a computer mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/person-using-a-computer-mouse.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Let’s start by checking out how you can reset the mouse settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using the Run Command Dialog Box
@@ -58,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 ![Pressing the Use Default button on the Mouse Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pressing-the-use-default-button-on-the-mouse-properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using the Control Panel
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
 ![Selecting mouse from the Control Panel menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/selecting-mouse-from-the-control-panel-menu-items.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, navigate to the **Pointers** tab and then press the **Use Default** button. Finally, press **Apply** and then press **OK**.
 
 ### Using the System Settings
@@ -86,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 3. Click **Mouse** on the left side and then select **Additional mouse options** on the right.
 
 ![Selecting Additional mouse options on the Mouse settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/selecting-additional-mouse-options-on-the-mouse-settings-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Navigate to the **Pointers** section and then press the **Use default** button. Press **Apply**, press **OK**, and then close the system settings.
 
@@ -128,6 +124,10 @@ Computer\HKEY_CURRENT_USER\Control Panel\Mouse
 
  Finally, close the Registry Editor and then restart your device to save these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reset the Keyboard Settings to Their Defaults
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
@@ -149,16 +149,24 @@ Computer\HKEY_CURRENT_USER\Control Panel\Mouse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-ranking-the-very-best-10-free-online-artists-on-youtube/"><u>[New] Ranking the Very Best 10 Free Online Artists on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-best-practices-for-b-roll-utilization/"><u>2024 Approved Best Practices for B-Roll Utilization</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cookiebot-enhanced-experience-the-ultimate-marketing-automation-tool/"><u>Cookiebot-Enhanced Experience: The Ultimate Marketing Automation Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correction-of-errors-in-windows-file-history-settings/"><u>Correction of Errors in Windows File History Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-taskbar-spacing-on-windows-11/"><u>Customizing Taskbar Spacing on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-recovering-troubleshooter-function-in-windows-11/"><u>Navigating the Maze: Recovering Troubleshooter Function in Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/review-of-the-immersive-4k-experience-lg-digital-cinema-31mu97-b/"><u>Review of the Immersive 4K Experience - LG Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-revive-your-inactive-windows-11-wi-fi-hotspot/"><u>Steps to Revive Your Inactive Windows 11 Wi-Fi Hotspot</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-sticky-note-access/"><u>Unlocking the Secrets of Sticky Note Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-photo-sorting-software-for-pc-users/"><u>Winning Photo Sorting Software for PC Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/xbox-gamepad-drivers-not-working-solutions-for-users-of-windows-10-8-and-7/"><u>Xbox Gamepad Drivers Not Working? Solutions for Users of Windows 10, 8 & 7!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-youtuber-quizzes-to-know-what-type-of-youtuber-you-are/"><u>[New] 6 YouTuber Quizzes to Know What Type of YouTuber You Are</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-full-spectrum-analysis-unpacking-xstudio-video-workshop-essentials/"><u>[New] Full Spectrum Analysis Unpacking XStudio Video Workshop Essentials</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-live-streamed-gaming-sessions-for-2024/"><u>[New] Mastering Live-Streamed Gaming Sessions for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unlocking-seo-potential-top-strategies-to-dominate-online-search-results-as-a-novice-for-2024/"><u>[New] Unlocking SEO Potential Top Strategies to Dominate Online Search Results as a Novice for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-proper-placement-of-external-webpages-in-insta-content/"><u>[Updated] In 2024, Proper Placement of External Webpages in Insta Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-top-25-mobile-editors-for-dji-filmmaking/"><u>[Updated] The Top 25 Mobile Editors for DJi Filmmaking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-constant-calculator-visibility-on-pcs/"><u>Ensuring Constant Calculator Visibility on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-make-admin-access-more-discreet-in-windows-11/"><u>How to Make Admin Access More Discreet in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-and-expert-advice-dealing-with-the-elusive-winhttpdll-problem/"><u>Quick Fixes and Expert Advice: Dealing With the Elusive Winhttp.dll Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-greyed-out-bin-status-on-win11-pc/"><u>Rectifying Greyed Out Bin Status on Win11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-dormant-media-playback-in-windows-11/"><u>Reigniting Dormant Media Playback in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-output-leverage-flow-launcher-in-your-workday/"><u>Skyrocket Output: Leverage Flow Launcher in Your Workday</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-encyclopedia-of-hand-centered-interaction-systems-for-2024/"><u>The Encyclopedia of Hand-Centered Interaction Systems for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-fixes-for-ksuserdll-not-found-issues-in-windows/"><u>Troubleshooting and Fixes for 'ksuser.dll Not Found' Issues in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-collection-top-soccer-matches-and-spectacular-goals-of-the-2ebyu/"><u>Ultimate Collection: Top Soccer Matches and Spectacular Goals of the 2Ebyu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-robloxs-error-403-obstacle-on-windows/"><u>Unlocking Roblox's Error 403 Obstacle on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-the-hidden-reactivating-grayed-out-memory-in-win11/"><u>Unveil the Hidden: Reactivating Grayed-Out Memory in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-screensaver-unchangeability-best-practices/"><u>Windows Screensaver Unchangeability: Best Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/xbox-game-install-woes-quick-fix-guide/"><u>Xbox Game Install Woes: Quick Fix Guide</u></a></li>
 </ul></div>
 

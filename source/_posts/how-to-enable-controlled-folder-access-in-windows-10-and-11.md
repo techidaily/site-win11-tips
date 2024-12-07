@@ -1,7 +1,7 @@
 ---
 title: How to Enable Controlled Folder Access in Windows 10 & 11
-date: 2024-08-28T01:11:17.526Z
-updated: 2024-08-29T01:11:17.526Z
+date: 2024-12-02T18:03:19.519Z
+updated: 2024-12-07T02:09:00.655Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 
 ![The Add a protected folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-a-protected-folder-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn on Controlled Folder Access With PowerShell
 
  Windows PowerShell gives you an alternative method to enable and disable controlled folder access by executing commands. You can turn on controlled folder access with PowerShell as follows:
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 5. You can disable controlled folder access by executing this command:  
 `Set-MpPreference -EnableControlledFolderAccess Disabled`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Controlled Folder Access With Group Policy Editor
 
  If you have Windows 11 Pro or Enterprise edition, you can enable controlled folder access with Group Policy Editor. Group Policy Editor also includes some extra configuration settings for controlled folder access, which is a bonus. This is how to turn on controlled folder access via GPE.
@@ -59,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 3. Click**Computer Configuration** \>**Administrative Templates** inside Group Policy Editor’s left pane.  
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/computer-configuration-in-group-policy-editor.jpg)
 4. Double-click**Windows Components** to expand it.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click the arrows for expanding**Microsoft Defender Antivirus** and**Microsoft Defender Exploit Guard** .
 
 1. Select**Controlled Folder Access** to view policy settings for that feature.
@@ -71,14 +76,17 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 4. Click**Block** on the drop-down menu to select the strictest CFA mode. However, you can also select alternative**Audit Mode** ,**Block disk notification only** , and**Audit disk notification only** options for enabling controlled folder access.  
 ![The Configure the guard my folders feature drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/configure-controlled-folder-access.jpg)
 5. Select**Apply** in the Configure Controlled folder access window.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Click the Configure Controlled folder access window’s**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn on Controlled Folder Access From the Windows Context Menu
 
  Alternatively, you can create a context menu shortcut for enabling/disabling controlled folder access. Then you’ll be able to access a Turn on Control folder access setting directly from the desktop area of Windows. You can add such a CFA option to the right-click menu by setting up and running a registry script like this:
@@ -131,18 +139,24 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 3. Paste that script into Notepad by clicking in that app’s window and pressing**Ctrl** +**V** .  
 ![The controlled folder access registry script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access-registry-script.jpg)
 4. Next, press**Ctrl** +**Shift** +**S** to view Notepad’s "Save as" window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Set the**Save as type** option to**All files** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/all-files-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Type**Turn on Control folder access.reg** inside the file name box.
 2. Select to save the script to the desktop location.
 3. Click**Save** to add the**Turn on Control folder access** registry file to the desktop.
 4. Close the Notepad editor, and double-click the**Turn on Control folder access.reg** file on the desktop.  
 ![The registry script confirmation dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-script-confirmation-dialog.jpg)
 5. Select**Yes** to confirm you trust the script.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can enable controlled folder access from the Windows context menu.
 
@@ -156,9 +170,6 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 3. Right-click the Controlled Folder Access key to select**Delete** .  
 ![The Delete key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-option-for-registry-key.jpg)
 4. Click**Yes** to erase that key.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Controlled Folder Access Exceptions
 
@@ -173,11 +184,13 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 4. Click**Browse all** **apps** on the menu that appears.  
 ![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
 5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
-6. Click**Open** to add the selected game or software.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click**Open** to add the selected game or software.
+
 ## Enable Controlled Folder Access for Greater Ransomware Protection
 
  Turning on controlled folder access in Windows 10 and 11 with the above methods will give files on your PC an extra layer of protection from malware. It makes little difference how you enable that feature, but you can select more configuration options by using Group Policy Editor. Adding controlled folder access context menu settings also gives you a more direct way to toggle that feature on/off as required.
@@ -188,8 +201,6 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +208,23 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-visual-storytelling-of-pc-playtime-top-6-screenshot-secrets/"><u>[New] In 2024, Visual Storytelling of PC Playtime - Top 6 Screenshot Secrets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ioss-top-5-ps2-simulators/"><u>[New] IOS's Top 5 PS2 Simulators</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-techniques-in-macro-video-production-a-compreranary-guide/"><u>[Updated] Essential Techniques in Macro Video Production - A Compreranary Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cutting-avi-files-without-hassle-a-quick-and-easy-tutorial/"><u>Cutting AVI Files Without Hassle A Quick and Easy Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/downloading-and-installing-windows-11-arm-an-iso-based-tutorial/"><u>Downloading & Installing Windows 11 ARM: An ISO-Based Tutorial</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a38-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manipulate-and-tailor-your-fax-cover-pages-in-w11/"><u>How to Manipulate and Tailor Your Fax Cover Pages in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-quickly-turn-off-notifications-in-windows-11/"><u>How to Quickly Turn Off Notifications in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/human-touch-in-writing-eclipsing-mechanical-wordsmiths/"><u>Human Touch in Writing: Eclipsing Mechanical Wordsmiths</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-recover-my-eyes-only-pictures-on-snapchat/"><u>In 2024, How To Recover My Eyes Only Pictures On Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-access-control-methods-for-windows-admins/"><u>Revolutionizing Access Control Methods for Windows Admins</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-frame-rate-conversion-transforming-120-fps-videos-into-smooth-24-fps-without-slow-motion-effects/"><u>Seamless Frame Rate Conversion: Transforming 120 FPS Videos Into Smooth 24 FPS Without Slow Motion Effects</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-smart-plug-devices/"><u>Top Rated Smart Plug Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trick-installing-outlook-preview-in-windows-1011/"><u>Trick: Installing Outlook Preview in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-storage-management-relocate-your-onedrive/"><u>Win 11 Storage Management: Relocate Your OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategy-against-default-saving-failures/"><u>Winning Strategy Against Default Saving Failures</u></a></li>
+</ul></div>
 

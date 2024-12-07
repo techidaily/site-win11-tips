@@ -1,7 +1,7 @@
 ---
 title: "Start-Up Synergy: Launching Sticky Notes with Windows Logon"
-date: 2024-08-28T01:11:21.345Z
-updated: 2024-08-29T01:11:21.345Z
+date: 2024-12-01T21:57:44.023Z
+updated: 2024-12-07T01:18:36.143Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
  Are you tired of opening Sticky Notes every time you turn on your computer? What if it could open automatically each time Windows starts?
 
  Well, there's good news for you: Sticky Notes can launch at startup in Windows. This article illustrates how to set up and use Sticky Notes at startup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Keep Sticky Notes Open at Shutdown
 
@@ -39,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
  After performing these steps, close File Explorer and restart your computer. Sticky Notes should now open at startup.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use the Task Scheduler
 
  Task Scheduler is another way to open Sticky Notes at startup. This Windows feature schedules and automates tasks at specific times or conditions.
@@ -52,33 +53,35 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 2. Click **Create Basic Task** from the **Actions** panel on the right. This opens a wizard that guides you through the setup.  
 ![Create Basic Task in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-basic-task-in-task-scheduler.jpg)
 3. In the first step, give your task a name and click **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Startup Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-sticky-notes.jpg)
 4. Now select **When I log on** as the trigger and click **Next** at the bottom.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Create Basic Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-basic-task-wizard.jpg)
 5. Choose **Start a program** in the Action window and click **Next**.  
 ![Start a program in Action tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-a-program-in-action-tab.jpg)
 6. In the **Program/script** field, type the path below:  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 C:\Windows\System32\cmd.exe
 7. In the Add arguments (optional) field, copy and paste the following command:  
 /c start shell:appsfolder\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App  
 ![Start a Program in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-a-program-in-task-scheduler.jpg)
 8. Click **Next** and review all the settings.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9. Now click **Finish** to save your work.  
 ![Finish Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/finish-task-wizard.jpg)
 
  The Task Scheduler will now run Sticky Notes each time you log in. This way, Sticky Notes launches automatically at startup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -94,9 +97,11 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PenWorkspac
 5. Double-click the **LaunchOnNextUserSession** key on the right.  
 ![Tweak Registry Editor to Open Sticky Notes at Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tweak-registry-editor-to-open-sticky-notes-at-startup.jpg)
 6. Change the Value data from 0 to **1** in the Edit DWORD (32-bit) Value window and click **OK**.  
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you can't find the **LaunchOnNextUserSession** key, right-click on the **Notes** folder and select **New > DWORD (32-bit) Value**. Name the newly created key “LaunchOnNextUserSession” and assign it the Value data of **1**.
 7. Close the Registry Editor and restart your computer to save the changes. Sticky Notes should now open at startup.
 
@@ -106,11 +111,27 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PenWorkspac
 
  Well, there's good news for you: Sticky Notes can launch at startup in Windows. This article illustrates how to set up and use Sticky Notes at startup.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-media-masters-5-top-mac-videography-apps/"><u>[Updated] Next-Gen Media Masters 5 Top Mac Videography Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-the-future-of-drones-today-and-tomorrow/"><u>2024 Approved Pioneering the Future of Drones Today & Tomorrow</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-ideal-podcasting-tools-for-your-apple-tablet-and-phone-experience/"><u>Discover the Ideal Podcasting Tools for Your Apple Tablet & Phone Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-revert-settings-after-system-restart/"><u>Easy Steps to Revert Settings After System Restart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-typing-unleashing-the-potential-of-powertoys/"><u>Faster Typing: Unleashing the Potential of PowerToys</u></a></li>
+<li><a href="https://win-answers.techidaily.com/google-chrome-stuck-on-startup-expert-tips-for-a-swift-resolution/"><u>Google Chrome Stuck on Startup? Expert Tips for a Swift Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-hidden-windows-bar-when-window-is-full-screen/"><u>Overcoming Hidden Windows Bar when Window Is Full Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-unrecognized-razers-by-synapse-in-latest-windows-os/"><u>Remedy Unrecognized Razers by Synapse in Latest Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-autostart-of-discord-from-windows-operating-system/"><u>Removing Autostart of Discord From Windows Operating System</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/streamline-your-mac-audio-experience-with-audacity-for-2024/"><u>Streamline Your Mac Audio Experience with Audacity for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-quintessential-list-of-top-tier-gaming-cams-for-live-viewers/"><u>The Quintessential List of Top-Tier Gaming Cams for Live Viewers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-update-classification/"><u>Understanding Windows Update Classification</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-how-to-remove-audio-from-video-online/"><u>Updated In 2024, How to Remove Audio From Video Online?</u></a></li>
+</ul></div>
+

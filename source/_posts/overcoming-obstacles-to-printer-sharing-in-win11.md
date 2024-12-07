@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obstacles to Printer Sharing in Win11
-date: 2024-08-28T01:11:47.590Z
-updated: 2024-08-29T01:11:47.590Z
+date: 2024-12-01T22:18:03.940Z
+updated: 2024-12-06T18:46:43.120Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 
  This error message suggests the printer can’t print because it’s already in use by another computer. However, the error also arises for home users who aren’t sharing their printers with other computers on organization networks. This is how you can fix the “Another computer is using the printer” error on Windows 10 & 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Printer
 
  Restarting the printer is a simple possible fix that’s worth a try. The printer could be stuck with a preceding request, which applying this solution might resolve. So, power off your printer for a few minutes and then turn it back on to see if that makes a difference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Deselect the "Allow Windows to Manage My Default Printer" Option
 
@@ -34,13 +42,15 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 4. Turn off the **Allow Windows to manage my default printer** setting by clicking that option’s toggle switch.  
 ![The Allow Windows to manage my default printer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-windows-to-manage-default-print-driver.jpg)
 5. Then select your printer in Setting to click its **Set as default** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Set as default button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-as-default.jpg)
 
  You might see an alternative WS printer listed in Settings (most typically for Canon models). The WS stands for web services, and that printer shouldn’t be your default one. Make sure your standard printer is set as default.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Utilize the Print Troubleshooter
 
  Windows has a Printer troubleshooter that’s there to detect and resolve all manner of printing issues. So, that troubleshooter could feasibly offer a solution for the “Another computer is using the printer” error. This [how to run any troubleshooter post](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) explains how you can access that troubleshooter in the Windows 11/10 Settings app.
@@ -63,10 +73,11 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 2. Right-click the **Print spooler** service and select **Stop**.  
 ![The Stop option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-stop-option.jpg)
 3. Press the **Windows** \+ **E** keyboard keys to activate the file manager tool.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Go to this folder path:  
 `C:\Windows\System32\spool\PRINTERS`
 5. Select everything in the Printers folder by pressing **Ctrl** \+ **A**.  
@@ -75,8 +86,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 7. Return to the Services app, right-click **Print** **spooler**, and select **Start**.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Disconnect Previous Users
 
  If you share your PC with other users, the “Another computer is using the printer” error could be due to a previous user who hasn’t been completely logged off. You can remedy that by disconnecting previous users with Task Manager like this:
@@ -86,13 +98,7 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Right-click a previous user shown on the **Users** tab and select **Disconnect**.  
 ![The Disconnect option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-users-tab.jpg)
 4. Repeat the previous step to disconnect all users other than yourself shown within Task Manager.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Update the Printer’s Driver
 
  Antiquated printer drivers can cause lots of printing issues. So, you may need to update your printer’s driver to resolve the “Another computer is using the printer” error if other potential solutions aren’t effective.
@@ -102,15 +108,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The printer driver downloads section on the HP website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/printer-driver-downloads-section.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Print, Print, and Print Again on Windows
 
  Getting the “Another computer is using the printer” error fixed is essential for the many users who can’t afford to lose printing functionality. Fortunately, lots of users have resolved that printing issue with the potential Windows 11/10 fixes covered here. So, applying them will probably get that issue sorted on your Windows PC, and then you can print to your heart’s content again.
 
  This error message suggests the printer can’t print because it’s already in use by another computer. However, the error also arises for home users who aren’t sharing their printers with other computers on organization networks. This is how you can fix the “Another computer is using the printer” error on Windows 10 & 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,3 +123,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-youtube-content-editing-in-adobe-premiere/"><u>[Updated] 2024 Approved Elevate Your YouTube Content Editing in Adobe Premiere</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-insider-tips-skyrocketing-your-canva-experience/"><u>[Updated] In 2024, Insider Tips Skyrocketing Your Canva Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-videos-to-viral-guide-for-computer-and-phone-upload-of-youtube-shorts/"><u>[Updated] Videos to Viral Guide for Computer & Phone Upload of YouTube Shorts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-windows-display-eradicating-overscan/"><u>Fine-Tuning Windows Display: Eradicating Overscan</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-spark-10c-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Spark 10C to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-comparative-costs-yt-vs-other-platforms/"><u>In 2024, Comparative Costs YT vs Other Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-secure-mov-file-storage-in-windows-11/"><u>In 2024, Secure MOV File Storage in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intelligent-hardware-monitoring-via-interactive-widgets/"><u>Intelligent Hardware Monitoring via Interactive Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refresh-windows-memory-3-essential-steps/"><u>Refresh Windows Memory - 3 Essential Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-deadly-mystery-of-windows-c0000022-failure/"><u>Unraveling the Deadly Mystery of Windows' C0000022 Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-systems-speed-with-essential-wintoys-tools/"><u>Upgrade Your System's Speed with Essential WinToys Tools</u></a></li>
+</ul></div>
+

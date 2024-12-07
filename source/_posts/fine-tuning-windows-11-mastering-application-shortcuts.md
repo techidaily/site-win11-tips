@@ -1,7 +1,7 @@
 ---
 title: "Fine-Tuning Windows 11: Mastering Application Shortcuts"
-date: 2024-11-22T18:01:08.051Z
-updated: 2024-11-27T17:15:29.404Z
+date: 2024-12-04T18:51:44.368Z
+updated: 2024-12-06T17:04:42.574Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/23dc4857279699198e48a622a7713386fd30f7f47
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the Default Apps in Windows 11
 
 [Changing the default apps in Windows 10](https://www.makeuseof.com/tag/change-default-settings-windows-10/) is quite simple. You can access the**Default Apps** section of the Settings app and replace the current default app with your preferred option.
@@ -44,15 +48,11 @@ Here is how you can do that:
 ![Choose another app to open the targeted file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-open-with-choose-another-app.jpg)
 3. Now, in the following dialog, choose the app you want to set as the default option. If you cannot find the targeted app in the list, choose**Look for another app on this PC** and then select the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click on**Always use this app to open files** and click**OK** . This should set the selected app as the default preference.  
 ![Set a default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-the-default-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use the Settings App
@@ -84,7 +84,7 @@ To proceed, follow these steps:
 3. Now, choose the desired app and click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
@@ -98,6 +98,10 @@ To proceed, follow these steps:
 
  In this case,[ensure that your user account has administrative rights](https://www.makeuseof.com/check-windows-account-admin-rights/) and that the app you are trying to set as default is compatible with the system. Here are some more steps you can follow to resolve the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Update Windows 11
 
  If you're running an outdated version of Windows, you may be experiencing problems due to incompatibility issues. Windows 11 needs to be updated to the latest version in this case.
@@ -109,10 +113,6 @@ Here is how you can do that:
 3. Now, click on the**Check for updates** button on the right side.
 4. Install all the pending updates one by one by clicking on the**Download & install** button and then restart your PC.  
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once this is done, follow one of the steps above to change the default app.
 
@@ -133,7 +133,7 @@ Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage
 6. Once the command is executed, check if you can change the default app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall the App
@@ -147,18 +147,19 @@ Here is how you can proceed:
 3. In the following window, navigate to**Uninstall a program** .  
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
 4. Locate the targeted app and right-click on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Choose**Uninstall** and follow the on-screen instructions to proceed.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the uninstallation is completed, restart the computer and reinstall the app. Hopefully, this time, you will be able to set it as the default option without any problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make Your Preferred Apps Default
 
@@ -181,20 +182,17 @@ Here is how you can proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-pump-up-your-income-smart-tips-to-profit-from-social-media-videos/"><u>[New] 2024 Approved Pump Up Your Income Smart Tips to Profit From Social Media Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-extracting-fb-video-files-from-pcmac/"><u>[Updated] 2024 Approved Extracting FB Video Files From PC/Mac</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigating-the-art-of-youtube-thumbnails/"><u>[Updated] In 2024, Navigating the Art of YouTube Thumbnails</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728499619563-aomei-backupper/"><u>優雅的方式：如何無成本地備份電腦檔案上雲 - AOMEI Backupper指南</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/sound-transforming-apps-for-youtube-vloggers/"><u>Best Sound Transforming Apps for YouTube Vloggers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-wi-fi-installation-of-intel-network-interface-on-windows-7/"><u>Conquering Wi-Fi: Installation of Intel Network Interface on Windows 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fly-with-us-a-guide-to-joining-win-11-insiders/"><u>Fly with Us: A Guide to Joining Win 11 Insiders</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-demystifying-t-series-income-streams-via-youtube-platforms/"><u>In 2024, Demystifying T-Series Income Streams via YouTube Platforms</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/leveraging-creator-funding-in-youtube-shorts/"><u>Leveraging Creator Funding in YouTube Shorts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-solution-to-defenders-error-0x80004004/"><u>Mastering the Solution to Defender’s Error 0X80004004</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-sound-select-apps-that-push-volumes-above-100-in-windows/"><u>Maximize Sound: Select Apps That Push Volumes Above 100% in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-obstacles-of-error-0x80040610-in-microsoft-office/"><u>Overcoming the Obstacles of Error 0X80040610 in Microsoft Office</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-windows-11-writing-file-permission-errors/"><u>Solutions for Windows 11 Writing File Permission Errors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-iphone-13-review-for-tech-enthusiasts/"><u>The Ultimate iPhone 13 Review for Tech Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-unopenable-folder-errors-in-office-outlook/"><u>Troubleshooting Unopenable Folder Errors in Office Outlook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-broadcast-battle-royale-deciding-between-vmix-and-wirecast/"><u>[New] Broadcast Battle Royale Deciding Between VMix and Wirecast</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-easy-relaxation-no-license-sounds/"><u>[New] Easy Relaxation No-License Sounds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-designing-an-editorial-epilogue-for-2024/"><u>[Updated] Designing an Editorial Epilogue for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-m6-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco M6 Pro 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bring-tiktok-to-life-easy-ways-to-view-shorts-on-a-larger-screen/"><u>Bring TikTok to Life - Easy Ways to View Shorts on a Larger Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-vital-components-failures-on-windows-10and11/"><u>Eliminating Vital Components Failures on Windows 10&11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revamp-your-channels-smart-tips-for-yt-profiles/"><u>In 2024, Revamp Your Channels Smart Tips for YT Profiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightning-fast-compilation-in-android-studio-made-for-windows/"><u>Lightning-Fast Compilation in Android Studio, Made for Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/premium-settings-for-virtual-broadcasts-for-2024/"><u>Premium Settings for Virtual Broadcasts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-setup-of-microsofts-defender-application-guard-in-win-11-edge/"><u>Stepwise Setup of Microsoft's Defender Application Guard in Win 11 Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-automatic-shutdown-for-idle-systems/"><u>The Ultimate Guide to Automatic Shutdown for Idle Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-runtime-brokers-influence-on-pc-performance/"><u>Unveiling Runtime Broker's Influence on PC Performance</u></a></li>
 </ul></div>
 

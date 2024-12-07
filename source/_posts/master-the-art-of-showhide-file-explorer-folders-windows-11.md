@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Show/Hide File Explorer Folders (Windows 11)
-date: 2024-11-24T16:27:12.100Z
-updated: 2024-11-27T17:22:23.848Z
+date: 2024-11-30T23:39:45.122Z
+updated: 2024-12-06T21:33:21.047Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Before you proceed, we highly recommend reading our guide on [what the Windows Registry is and how to edit it](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) to familiarize yourself with what we will be doing next. Also important is knowing [how to back up the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). Considering this is the database that Windows stores the data it needs to operate properly, you will need this backup in case you make an error.
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
  For showing and hiding folders in This PC to work, make sure you’re running the latest version of Windows 11\. You'll know you have it if File Explorer has tabs.
 
  With the Registry Editor open, let's get to it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Show or Hide the 3D Objects Folder in This PC
 
@@ -56,14 +60,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 ![3d-objects-this-pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-objects-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove the folder again, just go back to the Registry Editor, right-click the **{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}** key, and select **Delete**. After you refresh File Explorer, the folder will be gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Show or Hide the Documents, Music, Videos, Pictures, and/or Downloads Folders in This PC
 
@@ -75,15 +75,15 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 ![delete-hideifenabled-value-regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-hideifenabled-value-regedit.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, refresh File Explorer with **F5** and the **Documents** folder will appear in This PC.
 
  To hide it, right-click the key on the left panel and select **New > DWORD (32-bit) Value** and name it **HideIfEnabled**. Double-click the newly-created value in the right panel, set **Value data** to **22ab9b9**, and then click **OK**.
 
 ![set-hideifenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-hideifenabled.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now when you refresh This PC in File Explorer, you will see that the **Documents** folder is gone.
 
@@ -106,7 +106,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{088e3905-0323-4b02-9826-5d99428e115f}
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Choose the Folders You Want to Appear on This PC in Windows 11
@@ -130,20 +130,19 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>[New] Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ignite-your-design-prowess-top-14-text-animation-snapshots-for-2024/"><u>[Updated] Ignite Your Design Prowess Top 14 Text Animation Snapshots for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-steps-to-decline-autoplayed-and-suggested-podcasts-on-spotify/"><u>[Updated] In 2024, Steps to Decline Autoplayed and Suggested Podcasts on Spotify</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-top-5-gaming-monitors-tailored-for-playstation-and-xbox/"><u>2024 Approved Top 5 Gaming Monitors Tailored for PlayStation & Xbox</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-usability-and-style-for-windows-1011-in-8-ways/"><u>Elevate Usability and Style for Windows 10/11 in 8 Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-windows-mail-and-calendar-with-chosen-pics/"><u>Elevate Window's Mail & Calendar With Chosen Pics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-taskbar-aesthetics-with-portable-applications/"><u>Enhance Taskbar Aesthetics with Portable Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/grouping-off-optimize-windows-11-ui-layout/"><u>Grouping Off: Optimize Windows 11 UI Layout</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/hddssdwindows-112/"><u>HDDをSSDにスムーズ変換！Windows 11用シンプルなデータ移動テクニック2種</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-improve-your-visual-experience-more-vram/"><u>How to Improve Your Visual Experience: More VRAM</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-12-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 12 SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quick-quill-the-best-caption-apps-for-your-photos-iosandroid-for-2024/"><u>Quick Quill The Best Caption Apps for Your Photos (iOS/Android) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revealing-concealed-wired-connections-windows-guide/"><u>Revealing Concealed Wired Connections: Windows Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-file-explorer-stop-the-endless-freeze-cycle/"><u>Win11's File Explorer: Stop the Endless Freeze Cycle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-over-slow-network-issues-in-battlenet-gaming/"><u>Winning Over Slow Network Issues in Battle.net Gaming</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos/"><u>[New] The New Dawn of Creativity Spotlight on Six Visionary NFTOs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-easing-into-frame-focus/"><u>[Updated] Easing Into Frame Focus</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>[Updated] How to Create Impactful Valorant Thumbnails A Compreayer's Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/aomeis-pxe-boot-tool-simplified-steps-for-booting-windows/"><u>Aomei's PXE Boot Tool: Simplified Steps for Booting Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-enhancing-workplace-productivity/"><u>ChatGPT's Role in Enhancing Workplace Productivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-techniques-for-reducing-windows-extender-cpu/"><u>Effective Techniques for Reducing Windows Extender CPU</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-system-file-checker-in-windows-os/"><u>Executing System File Checker in Windows OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lightrooms-1-lut-picks-essential-conversion-tools-for-2024/"><u>Lightroom's #1 LUT Picks – Essential Conversion Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-microsoft-to-do-unsync-issues-quickly/"><u>Navigating Microsoft To Do Unsync Issues Quickly</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-get-your-game-on-top-10-websites-to-download-games/"><u>New 2024 Approved Get Your Game On Top 10 Websites to Download Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-rtx-3060-ti-driver-update-free-boost-your-windows-1110-gaming/"><u>NVIDIA RTX 3060 Ti Driver Update [Free] - Boost Your Windows 11/10 Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-win1011s-audacity-audio-glitches/"><u>Solving Win10/11's Audacity Audio Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-zero-cost-win-media-players/"><u>The Ultimate Guide to Zero-Cost Win Media Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-unlocking-the-dialer/"><u>Win 11: Unlocking the Dialer</u></a></li>
 </ul></div>
 

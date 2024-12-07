@@ -1,7 +1,7 @@
 ---
 title: Top 11 Amazing Tricks and Tasks Achievable Using Siri on Your Mac
-date: 2024-08-28T01:07:05.987Z
-updated: 2024-08-29T01:07:05.987Z
+date: 2024-12-04T01:50:50.043Z
+updated: 2024-12-06T19:45:30.841Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016
 ---
 
 ## Top 11 Amazing Tricks and Tasks Achievable Using Siri on Your Mac
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,6 +38,10 @@ Related: [15 Things You Can Do with Siri on the Apple Watch](https://tech-reviva
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583f6a2c204b5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [26 Actually Useful Things You Can Do with Siri](https://extra-resources.techidaily.com/brightening-indoor-realms-naturally-and-smartly-for-2024/) 
 
  Here are some of the most useful things you can do with Siri on macOS. We won't go over every conceivable thing Siri can do, but these are some of the best. Since you can [use Siri on iPhone](https://extra-resources.techidaily.com/brightening-indoor-realms-naturally-and-smartly-for-2024/), Apple TV, and Watch, there is a good deal of overlap between all the platforms, but what follows are some of Siri's more useful tricks.
@@ -56,10 +64,11 @@ Related: [How to Use macOS' Spotlight Like a Champ](https://fox-that.techidaily.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583f35b638ac3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Sure, [you could run System Report](https://win-dash.techidaily.com/access-high-quality-gigabyte-sound-card-drivers-without-spending-a-penny/) and search for the needed information, but this is much faster, and more fun.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Perform Web and Image Searches
 
@@ -76,16 +85,13 @@ Related: [You Can Drag and Drop Siri Image Results into Other Applications on Yo
 ![Screen Shot 2016-11-30 at 11.26.35 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/Screen-Shot-2016-11-30-at-11.26.35-AM.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If nothing from these results really strikes your fancy, you can click "See more images in Safari".
 
  You can also ask Siri to find you movie showtimes, show you the latest headline, see the weather in Timbuktu, or search for chocolate chip cookie recipes. Really the only limit is what you ask it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ##  Open Websites
 
  You can ask Siri to open websites. Just say, "open howtogeek.com" (what else would you open?) and that's it.
@@ -93,13 +99,11 @@ Related: [You Can Drag and Drop Siri Image Results into Other Applications on Yo
 ![Untitled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/Untitled-2.gif) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This is particularly useful if you just don't feel like opening Safari and entering in the URL, because we all have those staggering moments of laziness when we just don't want to type.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Play Music or Find Shows in iTunes
 
  Want to hear your favorite song by Led Zeppelin or the Rolling Stones? Just ask Siri to "Play some Led Zeppelin" or "Play Misty Mountain Hop."
@@ -128,6 +132,10 @@ Related: [You Can Drag and Drop Siri Image Results into Other Applications on Yo
 
  Alternatively, you can give Siri more direct questions and commands, like "Search Twitter for How-to Geek" or "Find tweets with the hashtag GeekLife" or simply ask it what's going on in your town or area.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Open and Search for Applications
 
  This one is as easy as it sounds. If you want to open an application, just tell Siri to do it. For example, "Open Slack" or "Open iTunes".
@@ -135,6 +143,10 @@ Related: [You Can Drag and Drop Siri Image Results into Other Applications on Yo
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583f365304ab6.png) 
 
  If you don't have an application installed, Siri will helpfully offer to search the App Store for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Read and Compose Emails
 
@@ -144,16 +156,14 @@ Related: [You Can Drag and Drop Siri Image Results into Other Applications on Yo
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583e39e337f28.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This is a pretty cool trick allowing you to continue working on something else without interrupting your flow.
 
  And, if you need to dash off a quick message to your boss, you can tell Siri, "Mail Whitson about that really long Siri article" or ask it if you have "Any new email from Lowell today?"
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Make Reminders, Appointments, and Notes
 
  Apple devices come with a triple productivity threat in the form of Reminders, Appointments, and Notes.
@@ -162,13 +172,6 @@ Related: [You Can Drag and Drop Siri Image Results into Other Applications on Yo
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583e3bbd414bb.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Better still, Reminders will propagate to your other devices like iPhone and iPad, so no matter where you are or where you go, they'll always be with you.
 
  The same things goes for setting appointments. Just tell Siri something like "Create an event on Wednesday for 'Lunch at noon with Mom'" and it will add it to your Calendar.
@@ -190,15 +193,11 @@ Related: [How to Control System Settings with Siri in macOS Sierra](https://soun
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583f33c5481f6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also open up various application settings so again, you don't have to use the keyboard or mouse. Now, features that you'd normally have to click to access are now just a few spoken words away.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Find Photos and Create Slideshows
 
  Siri also comes with some pretty powerful photo chops. In fact, it can do all sorts of things for you.
@@ -229,9 +228,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/img_583f712fcd6e5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Apple clearly wants to make Siri a useful and functional digital assistant, not only on your iPhone, iPad, Watch and TV, but on their flagship operating system as well.
 
  Of course, this is perfectly logical, and it makes us wonder what took them so long. Granted, folks may not start talking to their computers overnight, but it's nice to know they can if they want to.
@@ -242,8 +238,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,4 +245,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-captivating-your-curbsides-glow-inside-your-house/"><u>[New] Captivating Your Curbside's Glow Inside Your House</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-next-level-3d-watching-ultimate-guide-to-blu-ray-players/"><u>[New] Next-Level 3D Watching Ultimate Guide to Blu-Ray Players</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-elite-10-secrets-for-tiktok-sensations-for-2024/"><u>[New] The Elite 10 Secrets for TikTok Sensations for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-deleting-discord-servers/"><u>[Updated] 2024 Approved Mastering the Art of Deleting Discord Servers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/air-and-pro-on-m1-compare-contrast-and-choose-wisely-for-2024/"><u>Air & Pro on M1 Compare, Contrast, and Choose Wisely for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-the-confusion-remedy-for-mmc-errors/"><u>Clearing Up the Confusion: Remedy for MMC Errors</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-tips-to-dodge-typical-social-media-buying-pitfalls/"><u>Essential Tips to Dodge Typical Social Media Buying Pitfalls</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-artificial-intelligence-understanding-ai-governance-and-oversight/"><u>Exploring the World of Artificial Intelligence: Understanding AI Governance and Oversight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hasten-stopping-windows-11-notifications/"><u>Hasten Stopping Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-missing-time-remaining-indicator-in-windows-11-os/"><u>How to Correct the Missing Time Remaining Indicator in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-microsoft-support-for-problems/"><u>Master the Art of Microsoft Support for Problems!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-files-date-manipulation-essentials/"><u>Mastery Over Windows Files: Date Manipulation Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-event-viewer-hurdles/"><u>Tackling Windows Event Viewer Hurdles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-rated-apps-to-elevate-instagram-imagery-for-2024/"><u>Top-Rated Apps to Elevate Instagram Imagery for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-continuous-crashing-of-everspace-2-on-pcs/"><u>Troubleshooting Steps for Continuous Crashing of Everspace 2 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unstick-your-arrows-with-ease-and-precision/"><u>Unstick Your Arrows with Ease and Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-torrents-made-easy-top-five-recommendations/"><u>Windows Torrents Made Easy: Top Five Recommendations</u></a></li>
+</ul></div>
 

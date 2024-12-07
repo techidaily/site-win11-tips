@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Browser: Overcoming High CPU Use on Google Chrome"
-date: 2024-11-20T17:38:28.262Z
-updated: 2024-11-27T16:01:25.064Z
+date: 2024-12-01T19:39:35.670Z
+updated: 2024-12-07T02:09:48.638Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 solutions that have helped many other users fix their Chrome high CPU usage problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,15 +48,7 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-Clear-cache1.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select the types of information you want to remove. Make sure **Cookies and other site data** ,**Cache images and files** are selected.![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-Clear-cache-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Clear data** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
@@ -62,7 +58,7 @@ Check if the problem is resolved. If not, try Solution 2, below.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable unnecessary extensions
@@ -75,10 +71,6 @@ Check if the problem is resolved. If not, try Solution 2, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-extension.jpg)
 3. Restart Chrome and test if the issue is fixed. If not, move on to Solution 3, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 3: Reset Chrome settings to default
@@ -88,18 +80,19 @@ Check if the problem is resolved. If not, try Solution 2, below.
 1. At the top right in Chrome, click the**three dots** \>**Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/chrome-setting-reset.jpg)
 2. Select **Reset settings** on the left, and then click **Restore settings to their original defaults** on the right.  
-![](https://www.drivereasy.com/wp-content/uploads/2023/12/chrome-reset2.jpg)
-3. Click **Reset settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2023/12/chrome-reset2.jpg)
+3. Click **Reset settings** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/chrome-reset3.jpg)
 4. Relaunch Chrome and test. If the problem still exists, try Solution 4, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -119,6 +112,10 @@ Check if the problem is resolved. If not, try Solution 2, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Uninstall Chrome, delete its installation folder and reinstall Chrome
 
  If none of the above worked for you, reinstalling Chrome is also worth a try.
@@ -126,6 +123,11 @@ Check if the problem is resolved. If not, try Solution 2, below.
 1. You can go to the Control Panel to uninstall Chrome.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-uninstall.jpg)
 2. Delete this folder to completely remove Chrome from your computer:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Users\**<username>** \AppData\Local\Google\Chrome\`
 3. Download the latest version of Chrome from[its official website](https://www.google.com/chrome/) .
 
@@ -151,20 +153,18 @@ Check if the problem is resolved. If not, try Solution 2, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-six-best-film-alternates-ranked-7-picks/"><u>[New] In 2024, Six Best Film Alternates Ranked #7 Picks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-essential-tiktok-to-twitter-sharing/"><u>[New] In 2024, The Essential TikTok to Twitter Sharing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-image-magic-top-10-frame-enhancement-tools-online/"><u>[Updated] Image Magic Top 10 Frame-Enhancement Tools Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-perfect-pixels-a-guide-to-using-photoshops-eraser/"><u>[Updated] In 2024, Perfect Pixels A Guide to Using Photoshop's Eraser</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-iphone-photo-management-guide-for-albums-and-cloud-storage/"><u>[Updated] IPhone Photo Management Guide for Albums & Cloud Storage</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-sites-where-your-presents-stand-out-in-a-sea-of-boxes/"><u>[Updated] Prime Sites Where Your Presents Stand Out in a Sea of Boxes</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-remedies-defaulting-windows-configs-on-reboot/"><u>Essential Remedies: Defaulting Windows Configs on Reboot</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-ms-store-hiccups-in-windows-10-and-11-systems/"><u>Mending MS Store Hiccups in Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/poor-line-care/"><u>Poor Line Care</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-non-operational-window-start-button/"><u>Resolving Non-Operational Window Start Button</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-get-the-ultimate-power-hub-with-16-port-thunderbolt-dock-at-50-off-on-amazon-exclusive-report-by-zdnet/"><u>Score Big Savings: Get the Ultimate Power Hub with 16-Port Thunderbolt Dock at 50% Off on Amazon - Exclusive Report by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-route-to-customized-windows-organization-via-powertoys/"><u>The Ultimate Route to Customized Windows Organization via PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-6-advantages-win11-vs-macos/"><u>Top 6 Advantages: Win11 vs MacOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-ax201-wi-fi-6-driver-in-windows/"><u>Troubleshooting AX201 Wi-Fi 6 Driver in Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-refining-audio-in-obs-high-quality-mode/"><u>[New] 2024 Approved Refining Audio in OBS High-Quality Mode</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unlocking-speedy-streams-the-noobs-snapchat-guide-for-2024/"><u>[New] Unlocking Speedy Streams The Noob’s Snapchat Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unleash-your-inner-vfx-guru-with-diy-techniques/"><u>[Updated] 2024 Approved Unleash Your Inner VFX Guru with DIY Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-effortless-transition-from-spotify-to-youtube-find-the-best-apps/"><u>2024 Approved Effortless Transition From Spotify to YouTube Find the Best Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-stuck-game-resolution-settings/"><u>Guide to Fixing Stuck Game Resolution Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xs-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XS to Mac? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macdvd-winx-dvd-ripper/"><u>Macで安全にDVDをコピー保存: WinX DVD Ripper 使い方ガイド【公式版】</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-s24plus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy S24+ Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-storage-disks-identification-in-windows/"><u>Mastering Storage Disks Identification in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/program-cant-start-running/"><u>Program Can't Start Running</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-fix-memory-error-messages/"><u>Quick Steps to Fix Memory Error Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-unheard-audio-during-windows-screencasts/"><u>Solutions for Unheard Audio During Windows Screencasts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-2023-guide-to-text-motion-graphics-and-tracking-tools/"><u>Updated In 2024, The 2023 Guide to Text Motion Graphics and Tracking Tools</u></a></li>
 </ul></div>
 

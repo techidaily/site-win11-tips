@@ -1,7 +1,7 @@
 ---
 title: "The Essence of CPU Control: Min/Max Display Technique"
-date: 2024-11-24T16:01:10.905Z
-updated: 2024-11-27T17:08:07.728Z
+date: 2024-12-04T21:07:36.880Z
+updated: 2024-12-06T18:56:10.567Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Show or Hide the Minimum or Maximum Processor State Using Command Prompt
 
  To use Command Prompt to show or hide these power states, press**Win + R** to open Windows Run. Then, enter**cmd** in the text box and hit the**Enter** key on your keyboard. You can also use one of the many[ways to open the Command Prompt on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 ![Cmd in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To show the minimum processor state, enter the below command:
@@ -58,7 +54,7 @@ To hide the maximum processor state, enter the below command:
  After you have typed in the command you want in the CMD window, hit the**Enter** key on your keyboard to run it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the Minimum or Maximum Processor State Using the Registry Editor
@@ -70,7 +66,7 @@ To hide the maximum processor state, enter the below command:
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the UAC prompt, click**Yes** to continue.
@@ -87,6 +83,10 @@ To hide the maximum processor state, enter the below command:
 
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For the maximum processor state, enter the below file path in the Registry Editor's address bar to get to its key:
 
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\893dee8e-2bef-41e0-89c6-b55d0929964c`
@@ -94,7 +94,7 @@ To hide the maximum processor state, enter the below command:
  Double-click the**Attributes** entry to modify it, and then change**Value data** to**1** to hide the maximum processor state or**2** to show it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add or Remove the Minimum and Maximum Processor States From Power Options
@@ -116,17 +116,19 @@ To hide the maximum processor state, enter the below command:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-iphone-ready-syncing-photos-and-videos-from-pc/"><u>[Updated] 2024 Approved IPhone-Ready Syncing Photos & Videos From PC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-method-for-pushing-twitter-videos-through-whatsapp-channels/"><u>2024 Approved Method for Pushing Twitter Videos Through WhatsApp Channels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beyond-3d-a-comparative-guide-to-metaverse-and-omniverse-realities-for-2024/"><u>Beyond 3D A Comparative Guide to Metaverse and Omniverse Realities for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ructing-coherent-youtube-video-sequences-for-2024/"><u>Constructing Coherent YouTube Video Sequences for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-secrets-of-dism-for-system-rebuilds/"><u>Decoding the Secrets of DISM for System Rebuilds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-productivity-get-to-know-these-20-indispensable-cmd-commands/"><u>Enhance Productivity: Get to Know These 20 Indispensable CMD Commands</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-diagnosing-and-resolving-windows-boot-up-failures/"><u>Expert Guide: Diagnosing and Resolving Windows Boot-Up Failures</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-network-sets-higher-barrier-against-fake-news-truths/"><u>Social Network Sets Higher Barrier Against Fake News Truths</u></a></li>
-<li><a href="https://video-capture.techidaily.com/troubleshooting-steps-resolving-issues-with-non-functional-nvidia-shadowplay/"><u>Troubleshooting Steps: Resolving Issues with Non-Functional NVIDIA ShadowPlay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-customization-in-windows-11-navigating-app-shortcuts/"><u>Unlocking Customization in Windows 11: Navigating App Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-discrepan-marketplace-impact-on-local-and-microsoft-account-accessibility-in-windows/"><u>Unveiling Discrepan Marketplace Impact on Local & Microsoft Account Accessibility in Windows</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/pcandroidiphone/"><u>クリップした後も続く！ PC/Android/iPhone で動画の最中から切り取る究極ガイド</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-optimizing-ppt-presentations-across-devices-for-google-meet/"><u>[New] 2024 Approved Optimizing PPT Presentations Across Devices for Google Meet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-iphone-plus-android-tutorial-screen-recording-google-meets-for-2024/"><u>[New] IPhone + Android Tutorial Screen Recording Google Meets for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts/"><u>[New] Premier iOS Gaming Experience Leading Emulators for PSP Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevate-with-excellence-the-ultimate-guide-to-motivational-films/"><u>[Updated] In 2024, Elevate with Excellence The Ultimate Guide to Motivational Films</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-growth-odyssey-of-ajey-nagar-on-youtube/"><u>[Updated] The Growth Odyssey of Ajey Nagar on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-superior-text-conversion-tools-for-mac-enthusiasts/"><u>10 Superior Text Conversion Tools for Mac Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-for-quickerslower-video-in-instagram-stories/"><u>2024 Approved Tips for Quicker/Slower Video in Instagram Stories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-overcome-win11s-error-0x80246007/"><u>Expert Tips to Overcome Win11’s Error 0X80246007</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-signs-that-youve-been-muted-by-someone/"><u>In 2024, Signs That You've Been Muted by Someone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-sense-of-microsofts-bluetooth-linked-app/"><u>Making Sense of Microsoft's Bluetooth-Linked App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-microsoft-shop-hurdles-code-0x80073cf3/"><u>Navigating Through Microsoft Shop Hurdles Code: 0X80073CF3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-essentials-of-hugging-face-understanding-its-core-features-and-benefits/"><u>The Essentials of Hugging Face - Understanding Its Core Features and Benefits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-script-execution-policy-in-powershell-efficiently/"><u>Utilizing Script Execution Policy in PowerShell Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zero-tolerance-for-windows-1011-recycle-bin-corruption/"><u>Zero Tolerance for Windows 10/11 Recycle Bin Corruption</u></a></li>
 </ul></div>
 

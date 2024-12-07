@@ -1,7 +1,7 @@
 ---
 title: Mastering Microsoft Excel's MATCH Formula for Efficiently Finding Cell Values and Their Rows
-date: 2024-08-28T01:08:21.165Z
-updated: 2024-08-29T01:08:21.165Z
+date: 2024-12-04T16:33:53.655Z
+updated: 2024-12-06T21:40:09.901Z
 tags:
   - excel
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  When you need to find a value's exact position in your spreadsheet, you can use the MATCH function in Excel. This saves you from manually searching for the location that you may need [for reference](https://extra-information.techidaily.com/in-2024-chic-coverage-for-your-portable-screen/) or another formula.
 
  The MATCH function is often used with [the INDEX function](https://youtube-help.techidaily.com/in-2024-the-full-course-on-becoming-a-yt-creator-expert/) as an advanced lookup. But here, we'll walk through how to use MATCH on its own to find a value's spot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is the MATCH Function in Excel?
 
@@ -60,8 +64,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  The MATCH function is not case sensitive, allows the wildcards asterisk (\*) and question mark (?), and returns #N/A as the [error](https://instagram-videos.techidaily.com/updated-cut-and-paste-success-enhancing-videos-for-instagram-shares/) if no match is found.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use MATCH in Excel
 
  When you're ready to put the MATCH function to work, take a look at these examples to help you walk through [building the formula](https://extra-resources.techidaily.com/2024-approved-crafting-visuals-in-ae-selecting-excellent-plugin-choices/).
@@ -72,9 +77,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![MATCH used to look up a value's position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Match10-ExcelMATCHFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  For another example, we'll include the match type 1 at the end of our formula. Remember, match type 1 requires the array be in ascending order.
 
 =MATCH(10,B2:B5,1)
@@ -83,9 +85,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![MATCH with match type 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MatchType1-ExcelMATCHFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  Here's an example using match type 0 for an exact match. As you can see, we receive the #N/A error because there is no exact match to our value.
 
 =MATCH(10,B2:B5,0)
@@ -93,8 +92,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![MATCH with match type 0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MatchType0-ExcelMATCHFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Let's use the final match type -1 in this formula.
 
 =MATCH(10,B2:B5,-1)
@@ -104,8 +104,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![MATCH with match type -1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MatchType-1-ExcelMATCHFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For an example using text, here we can find Caps in the cell range A2 through A5\. The result is 1 which is the first position in our array.
 
 =MATCH("Caps",A2:A5)
@@ -113,8 +114,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![MATCH for finding text in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MatchText-ExcelMATCHFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you know the basics of using the MATCH function in Excel, you might also be interested in learning about using [XLOOKUP in Excel](https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/) or using [VLOOKUP for a range of values](https://win-able.techidaily.com/1723001670706-troubleshooting-genshin-impact-fix-stability-issues-and-stop-pc-crashes/).
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -129,8 +131,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +138,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/he-cutting-room-floor-experts-share-tips-on-video-editing/"><u>[New] The Cutting Room Floor Experts Share Tips on Video Editing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-30-innovative-ideas-to-supercharge-your-fb-promotions/"><u>[Updated] 2024 Approved 30 Innovative Ideas to Supercharge Your FB Promotions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-local-drive-management-for-safe-file-preservation-in-win11-max-156-chars/"><u>Effective Local Drive Management for Safe File Preservation in Win11 (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enriching-windows-explorer-with-update-check-options/"><u>Enriching Windows Explorer with Update Check Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-error-x0001-on-nvidia-ge-in-windows-os/"><u>Eradicating Error X0001 on Nvidia GE in Windows OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-next-gen-driving-ai-as-mercedes-benz-launches-vehicles-equipped-with-voice-controlled-chatgpt-technology/"><u>Experience Next-Gen Driving AI as Mercedes-Benz Launches Vehicles Equipped with Voice-Controlled ChatGPT Technology</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-c12-plus-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-explainer-video-is-important-for-business-do-you-know-what-is-the-best-explainer-video-software-to-make-it-in-this-article-we-will-introduce-you-6-best-/"><u>New Explainer Video Is Important for Business. Do You Know What Is the Best Explainer Video Software to Make It? In This Article, We Will Introduce You 6 Best Explainer Video Software. Check It Out</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quickly-rip-thor-the-dark-world-movie-from-dvd-without-compromising-on-quality/"><u>Quickly Rip Thor: The Dark World Movie From DVD without Compromising on Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-integration-of-windows-pink-key-and-ms-account/"><u>Seamless Integration of Windows PINK KEY & MS ACCOUNT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-loss-of-audio-output-in-your-laptop-expert-tips-for-quick-repair/"><u>Solving Loss of Audio Output in Your Laptop – Expert Tips for Quick Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-visual-vision-into-paper-victory-9-strategies-for-powerpoint-and-windows/"><u>Transforming Visual Vision Into Paper Victory: 9 Strategies for PowerPoint & Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triple-threat-fixes-to-swiftly-end-windows-blackout/"><u>Triple-Threat Fixes to Swiftly End Windows Blackout</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triumph-over-installation-troubles-how-to-successfully-upgrade-with-windows-10-despite-error-code-80240020/"><u>Triumph Over Installation Troubles: How to Successfully Upgrade with Windows 10, Despite Error Code 80240020</u></a></li>
+</ul></div>
 

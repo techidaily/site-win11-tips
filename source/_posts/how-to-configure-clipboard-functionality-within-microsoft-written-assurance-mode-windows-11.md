@@ -1,7 +1,7 @@
 ---
 title: How to Configure Clipboard Functionality Within Microsoft' Written Assurance Mode, Windows 11
-date: 2024-11-21T18:06:53.542Z
-updated: 2024-11-27T16:15:19.521Z
+date: 2024-12-03T18:01:31.783Z
+updated: 2024-12-06T18:18:20.717Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Enable Copy and Paste via Windows Settings
@@ -42,19 +42,23 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 6. Search for the**Copy and paste** option, then click the toggle to enable it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
 7. The UAC prompt will appear on the screen. Click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
 
  If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Enable Copy and Paste Using Registry Editor
 
@@ -74,17 +78,13 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 ![Creating a new DWORD (32-bit) Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-dword-enableclipboard-key.jpg)
 3. Put**EnableClipboard** as the name for the new DWORD key, then press Enter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click twice on the newly created DWORD key to open a pop-up window.
 5. Be sure the**Hexadecimal** base is selected, and set the Value data to**1** .  
 ![Enable Copy and Paste with Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-with-application-guard-for-edge.jpg)
 6. Finally, click**OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, close any running applications and restart your computer
@@ -112,22 +112,16 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-ultimate-psd-style-boosting/"><u>[New] 2024 Approved Ultimate PSD Style Boosting</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-youtube-equipment-for-starting-your-channel-what-do-you-really-need/"><u>[New] In 2024, Essential YouTube Equipment For Starting Your Channel - What Do You Really Need?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-your-journey-through-telegrams-web-functionality/"><u>[New] In 2024, Your Journey Through Telegram's Web Functionality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-revenue-predictor-tools/"><u>[Updated] 2024 Approved Free YouTube Revenue Predictor Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-value-of-a-million-viewing-spree-on-youtube/"><u>[Updated] In 2024, The Value of a Million-Viewing Spree on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-magix-acid-pro-review-a-look-at-similar-programs/"><u>[Updated] Magix ACID Pro Review A Look at Similar Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-resolving-outlooks-error-0x80040610-on-windows/"><u>Detailed Guide to Resolving Outlook's Error 0X80040610 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-apk-setup-for-win-11-power-users/"><u>Effortless APK Setup for Win 11 Power Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-win-11-gaming-with-these-top-7-essentials/"><u>Elevate Win 11 Gaming with These Top 7 Essentials</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-communication-mastery-for-impactful-interviews/"><u>In 2024, Communication Mastery For Impactful Interviews</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-console-capturer-pro-report/"><u>In 2024, Console Capturer Pro Report</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/malwarebytes-restoring-link-between-services-on-windows-11-pcs/"><u>Malwarebytes: Restoring Link Between Services on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-control-fixing-freezing-netflix-app-windows/"><u>Regaining Control: Fixing Freezing Netflix App Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-pcs-keys-with-these-fixes/"><u>Revitalize Your PC's Keys with These Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/three-techniques-to-delete-windows-11-store/"><u>Three Techniques to Delete Windows 11 Store</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforme-vos-fichiers-aiff-au-format-mp3-avec-le-convertisseur-de-movavi/"><u>Transforme Vos Fichiers AIFF Au Format MP3 Avec Le Convertisseur De Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trio-of-tiles-windows-11-widgets-configuration-for-peak-performance/"><u>Trio of Tiles: Windows 11 Widgets Configuration for Peak Performance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/peedy-sketching-techniques-for-fortnite-tiles-for-2024/"><u>[New] Speedy Sketching Techniques for Fortnite Tiles for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-8-facebook-link-exporters-download-and-manage-effortlessly-for-2024/"><u>[New] Top 8 Facebook Link Exporters Download & Manage Effortlessly for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-leveraging-videos-to-skyrocket-your-fb-audience/"><u>[Updated] In 2024, Leveraging Videos to Skyrocket Your FB Audience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-gaming-snaps-top-5-windows-11-tactics/"><u>[Updated] Mastering Gaming Snaps Top 5 Windows 11 Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-and-preventing-video-driving-issues-in-win1110/"><u>Correcting and Preventing Video Driving Issues in Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-essential-errors-fixing-issues-in-win10win11/"><u>Eradicating 'Essential' Errors: Fixing Issues in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-full-capabilities-of-windows-snip-and-sketch-tool/"><u>Explore the Full Capabilities of Windows' Snip & Sketch Tool</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/nextlevelcameraseekingpost-mycam/"><u>NextLevelCameraSeekingPost-MyCam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shake-up-your-computing-experience-win-11s-non-native-tools/"><u>Shake Up Your Computing Experience: Win 11'S Non-Native Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-the-0x8007251d-windows-error/"><u>Understanding and Resolving the 0X8007251d Windows Error</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-linksys-ac1900-is-the-ultimate-wi-fi-solution-for-users-of-all-levels/"><u>Why the Linksys AC1900 Is the Ultimate Wi-Fi Solution for Users of All Levels</u></a></li>
 </ul></div>
 

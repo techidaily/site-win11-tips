@@ -1,7 +1,7 @@
 ---
 title: Remedying PortAudio Misfires in Audacity on Win 11/11
-date: 2024-11-26T17:41:04.303Z
-updated: 2024-11-27T17:12:05.592Z
+date: 2024-12-04T00:30:21.876Z
+updated: 2024-12-06T16:19:33.733Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,17 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 2. Click Playing Audio to launch that troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The troubleshooting list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-troubleshooting-list.jpg)
 3. Select the troubleshooter’s**Next** option to continue.
 4. Then select one of the sound output device options to troubleshoot and click**Next** .
 5. Apply the resolutions suggested within the Playing Audio troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable the Windows Audio and Endpoint Builder Services
 
@@ -59,13 +63,18 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 3. If the service is disabled, select an**Automatic** startup option on the drop-down menu.  
 ![The Automatic service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/automatic-service.jpg)
 4. Then select the properties window’s**Start** option to run the service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Apply** and**OK** to save the options and exit the Audio Properties window.
 6. Repeat steps four to eight for the Windows Audio Endpoint Builder service.
 
  If you find the above services to be enabled and running, restarting them could also feasibly fix the issue. To do that, click Stop in their properties windows and select**Yes** to confirm. Then click their**Start** options to restart them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Manually Enable all Playback and Recording Devices
@@ -94,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 ![The Rescan Audio Devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rescan-audio-devices-option.jpg)
 4. Wait for the rescan to finish, and then restart**Audacity** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Reinstall Audio Device Drivers
 
  The Internal PortAudio can also occur because of a sound device driver issue. In this case, reinstalling the drivers for all audio devices can fix this issue for some users. Trying reinstalling your PC’s audio device drivers as follows:
@@ -109,20 +114,20 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 4. Right-click your speaker’s audio device and select**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device.jpg)
 5. Select**Uninstall** on the small window that opens.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-button.jpg)
 6. Repeat the last two steps for all sound devices in the**Audio inputs and outputs** category.
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
 8. Restart your PC for automatic driver reinstallation. If some drivers aren’t reinstalled after the restart, select the**Action** \>**Scan for hardware** changes options in Device Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update the Realtek Audio Codec Driver
 
@@ -134,17 +139,9 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features.jpg)
 4. Then bring up the[Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**Download** button for the latest compatible Realtek driver for your PC.
 6. Open the folder containing the downloaded Realtek driver package.
 7. Double-click the Realtek package to install the latest driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Audacity
 
@@ -153,6 +150,10 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
  To reinstall the software, open the[Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** link there to save the setup wizard. Then navigate to the directory your browser downloads to and double-click the**audacity-win-.3.2.5 x64.exe** file to reinstall Audacity.
 
 ![The download Audacity option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-audacity-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
 
@@ -175,15 +176,22 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715859906811-new-apocalypse-arena-top-8-zombie-games-showdown-ranked/"><u>[New] Apocalypse Arena Top 8 Zombie Games Showdown Ranked!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-comprehensive-guide-to-taking-part-in-twitresponses/"><u>[New] In 2024, Comprehensive Guide to Taking Part in TwitResponses</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-to-blurring-images-with-your-iphone/"><u>[Updated] The Essential Guide to Blurring Images with Your iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquer-windows-11-and-10s-s-mode-a-quick-guide/"><u>Conquer Windows 11 & 10'S 'S Mode': A Quick Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-9-baffling-elements-of-w11-design/"><u>Dissecting 9 Baffling Elements of W11 Design</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhance-gameplay-by-improving-fps-and-reducing-tremors-in-the-ascent/"><u>Enhance Gameplay by Improving FPS and Reducing Tremors in 'The Ascent'</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-google-pixel-fold-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Google Pixel Fold Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-gesture-commands-for-a-smoother-web-experience-edge-edition/"><u>How to Use Gesture Commands for a Smoother Web Experience, Edge Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-the-broken-window-context-menu-hierarchy/"><u>Mending the Broken Window Context Menu Hierarchy</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-techniques-for-precise-iptv-screen-imaging-for-2024/"><u>Ultimate Techniques for Precise IPTV Screen Imaging for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-achieve-flawless-video-for-instagram-perfection-for-2024/"><u>[New] Achieve Flawless Video for Instagram Perfection for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlock-your-facebook-cache-securely-download-messages-and-vids/"><u>2024 Approved Unlock Your Facebook Cache Securely Download Messages & Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-clockdate-visibility-in-windows-11-bar/"><u>Controlling Clock/Date Visibility in Windows 11 Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-lost-render-device-errors-for-overwatch-2/"><u>Correcting Lost Render Device Errors for Overwatch 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-best-moments-for-running-ping-commands/"><u>Decoding the Best Moments for Running Ping Commands</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-geforce-rtx-2070-drivers-for-windows-operating-systems-win11-win8-and-win7/"><u>Get Updated Geforce RTX 2070 Drivers for Windows Operating Systems: Win11, Win8, and Win7</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-xs-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone XS and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-operation-failed-0x0000011b-error-on-windows-11-and-11/"><u>How to Fix the Operation Failed 0X0000011B Error on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-device-linking-performance-with-reduced-ram-consumption/"><u>Improving Device Linking Performance with Reduced RAM Consumption</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-7-essential-gif-creation-techniques/"><u>In 2024, 7 Essential GIF Creation Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-pacifica-drive-launch-obstacles-top-strategies-and-fixes/"><u>Overcome Pacifica Drive Launch Obstacles – Top Strategies and Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-update-error-code-0xca00a009/"><u>Resolving Windows Update Error: Code 0xCA00A009</u></a></li>
+<li><a href="https://windows11.techidaily.com/resuscitate-stalled-excel-performance-in-windows-environment/"><u>Resuscitate Stalled Excel Performance in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrims-extender-errors-on-your-system/"><u>Skyrim's Extender Errors on Your System</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-discounts-on-roku-streaming-players-during-prime-shopping-event/"><u>Top Discounts on Roku Streaming Players During Prime Shopping Event</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-ai-experience-with-9-pluses-perks/"><u>Transform Your AI Experience with 9 Pluses Perks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-over-xbox-woes-on-your-windows-machine/"><u>Win Over Xbox Woes on Your Windows Machine</u></a></li>
 </ul></div>
 

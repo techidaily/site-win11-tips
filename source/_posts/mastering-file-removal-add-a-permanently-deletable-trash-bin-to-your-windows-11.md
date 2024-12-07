@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Removal: Add a Permanently Deletable Trash Bin to Your Windows 11"
-date: 2024-11-22T16:12:01.716Z
-updated: 2024-11-27T17:20:25.667Z
+date: 2024-12-02T19:25:38.542Z
+updated: 2024-12-06T20:30:27.890Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Standard Deletion vs. Permanent Erasure: What's Wrong With the Default Recycle Bin?
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
@@ -66,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
  To permanently delete something with the shredder app, bring up Explorer, left-click a file, and then drag it onto the Free File Wiper bin desktop icon. A warning prompt will appear that says you won’t be able to recover the file after wiping it. Select**Yes** if you’re sure about permanently erasing the file.
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
@@ -94,13 +90,13 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
@@ -111,10 +107,14 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -137,18 +137,20 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-diving-deep-into-valheims-vital-vegetation/"><u>[New] 2024 Approved Diving Deep Into Valheim's Vital Vegetation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-anymp4-screen-recorder-download-and-review/"><u>[New] In 2024, AnyMP4 Screen Recorder Download and Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-creating-your-own-path-on-youtube-a-course-guide/"><u>[New] In 2024, Creating Your Own Path on YouTube A Course Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-vsco-image-enhancement/"><u>[Updated] Step-by-Step VSCO Image Enhancement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-windows-cab-file-installation-steps/"><u>Comprehensive Guide to Windows Cab File Installation Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delve-deep-into-git-workflows-with-github-desktop-for-win-11-users/"><u>Delve Deep Into Git Workflows with GitHub Desktop for Win 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-experience-10-crucial-ms-store-downloads/"><u>Elevate Your Experience: 10 Crucial MS Store Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-online-security-with-trustable-sites-in-windows-11/"><u>Enhance Online Security with Trustable Sites in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-survey-spectrum-of-video-and-film-equipment/"><u>In 2024, Survey Spectrum of Video and Film Equipment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/launch-date-approaching-apple-preps-macbook-air-ipad-pro-and-ipad-air-release-in-march/"><u>Launch Date Approaching: Apple Preps MacBook Air, iPad Pro & iPad Air Release in March</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-zoom-quick-remedy-for-error-1132/"><u>Mastering Window's Zoom: Quick Remedy for Error 1132</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimum-vmm-setups-to-elevate-your-windows-11-experience/"><u>Optimum VMM Setups to Elevate Your Windows 11 Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-blunders-in-harnessing-chatgpt-for-writing/"><u>Top 4 Blunders in Harnessing ChatGPT for Writing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unveiling-the-most-compelling-ios-apps-for-psp-gaming/"><u>[New] Unveiling the Most Compelling iOS Apps for PSP Gaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-15-sensational-tiktok-cooking-challenges-for-your-plate-for-2024/"><u>[Updated] 15 Sensational TikTok Cooking Challenges for Your Plate for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-insights-for-integrating-hashtags-into-game-focused-yt-content-for-2024/"><u>[Updated] Essential Insights for Integrating Hashtags Into Game-Focused YT Content for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/apple-vs-amazon-smart-speakers-in-depth-comparison-between-homepod-mini-and-echo-dot/"><u>Apple Vs. Amazon Smart Speakers: In-Depth Comparison Between HomePod Mini and Echo Dot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fantasy-fused-with-fact-leading-ai-trajectories/"><u>Fantasy Fused with Fact: Leading AI Trajectories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-clipboard-functionality-within-microsoft-written-assurance-mode-windows-11/"><u>How to Configure Clipboard Functionality Within Microsoft' Written Assurance Mode, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-no-available-display-options-on-pc/"><u>How to Correct No Available Display Options on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-the-inconvenience-of-an-endless-updating/"><u>How to Resolve the Inconvenience of an Endless Updating</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnect-your-printer-to-regain-printing-power/"><u>Reconnect Your Printer to Regain Printing Power</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-repairing-msvcr80dll-file-is-missing-or-lost-issues/"><u>Solving the Mystery: Repairing 'Msvcr80.dll' File Is Missing or Lost Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-maximizing-microsofts-family-safety/"><u>Tips & Tricks for Maximizing Microsoft's Family Safety</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-zero-cost-gpu-accelerated-video-transcoding-software/"><u>Top-Rated Zero Cost GPU Accelerated Video Transcoding Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solve-your-gta-v-crashing-issues-now/"><u>Troubleshooting Tips - Solve Your GTA V Crashing Issues Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-status-audit-top-3-strategies/"><u>Windows 11 Status Audit: Top 3 Strategies</u></a></li>
 </ul></div>
 

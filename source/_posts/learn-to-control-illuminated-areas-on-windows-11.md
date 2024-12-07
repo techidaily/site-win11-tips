@@ -1,7 +1,7 @@
 ---
 title: Learn to Control Illuminated Areas on Windows 11
-date: 2024-11-22T16:21:47.398Z
-updated: 2024-11-27T16:41:42.333Z
+date: 2024-12-03T23:16:13.904Z
+updated: 2024-12-06T21:35:41.143Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Turn Search Highlights On and Off in the Settings App
 
  Press **Win + I** to open the Settings app. Then, select **Privacy & security** on the left side menu, and then click on **Search permissions** in the right panel.
@@ -32,14 +36,22 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ![the privacy and security page on Windows with Search permissions showing in the right panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-search-permissions.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll down to the **More settings** section, and then click the toggle under **Show search highlights** to turn the feature on or off.
 
 ![the Seach permissions page on Windows 11 with the More settings section showing and the toggle for Show search highlights set to on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-search-permissions-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should no longer see search lights now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn Search Highlights On and Off in the Local Group Policy Editor
 
@@ -49,19 +61,15 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 ![the Local Group Policy Editor on Windows with the Allow search highlights policy highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lgpe-windows-allow-search-highlights-policy.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To show search highlights, make sure the **Not Configured** or **Enabled** radio button is checked, and then click **OK**.
 
 ![the Allow search highlights policy being edited on Windows and it is set to Not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-search-highlights-not-configured-windows.jpg)
 
- To disable search highlights, check the **Disabled** radio button, and then click **OK**.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To disable search highlights, check the **Disabled** radio button, and then click **OK**.
 
 ## 3\. Turn Search Highlights On and Off in the Registry Editor
 
@@ -81,40 +89,13 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 ![the IsDynamicSearchBoxEnabled value in the Registry Editor and Value data has been set to 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/editing-isdynamicsearchboxenabled-value-windows-registry.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To turn search highlights off, enter **0** in the **Value data** text box, and then click **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Control Your Search Highlights on Windows 11
 
  Windows 11 being customizable is what makes interacting with the OS enjoyable. The power is in your hands whether you want to see search highlights or not in Windows Search. And now you know three ways to enable or disable them.
 
  So, keep on reading to find out three ways to turn search highlights on and off.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-cultivate-creativity-inspiration-driven-video-titles/"><u>[New] In 2024, Cultivate Creativity Inspiration-Driven Video Titles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-media-showdown-podcasts-vs-youtube-in-the-modern-world/"><u>2024 Approved Media Showdown Podcasts Vs. YouTube in the Modern World</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-x50-gt-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor X50 GT via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bluescreen-in-windows-dxgkrnlsys-issue-fixed/"><u>BlueScreen in Windows - dxgkrnl.sys Issue Fixed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-solving-the-application-couldnt-start-error/"><u>Deciphering and Solving The Application Couldn't Start Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-1011-error-0x80073d26-in-microsoft-store/"><u>Fixing Windows 10/11 Error 0X80073D26 in Microsoft Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-control-pc-screen-intensity-on-windows-11/"><u>How to Control PC Screen Intensity on Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-asus-rog-phone-8-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Asus ROG Phone 8 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-ring-induced-voice-memo-iphone-24/"><u>In 2024, Ring-Induced Voice Memo - iPhone '24</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-reinstalling-nvidia-software/"><u>Resolved: Reinstalling NVIDIA Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/thriving-in-the-youtube-landscape-with-data-driven-approach-for-2024/"><u>Thriving in the YouTube Landscape with Data-Driven Approach for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-addressing-disconnected-steam-content-on-home-systems/"><u>Tips for Addressing Disconnected Steam Content on Home Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-from-quick-access-to-file-explorer-via-onedrive/"><u>Transitioning From Quick Access to File Explorer via OneDrive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-resolving-package-registration-errors-in-images/"><u>Troubleshooting Windows 11: Resolving Package Registration Errors in Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-guide-to-masterful-mememaking-on-9gag/"><u>Your Guide to Masterful Mememaking on 9GAG</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +104,24 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-inside-obs-alternatives-for-professional-streamers/"><u>[New] In 2024, Inside OBS Alternatives for Professional Streamers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-finest-selection-of-5-sd-cards-for-hero-gopros/"><u>[New] In 2024, The Finest Selection of 5 SD Cards for Hero GoPros</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-capture-brilliance-essential-lighting-hacks-for-iphone-for-2024/"><u>[Updated] Capture Brilliance Essential Lighting Hacks for IPhone for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ending-dark-mode-glitches-on-playback/"><u>2024 Approved Ending Dark Mode Glitches on Playback</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-monitors-heres-how-to-swiftly-update-your-display-drivers/"><u>ASUS Monitors? Here’s How to Swiftly Update Your Display Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-updates-and-downloads-for-your-surface-book/"><u>Effortless Driver Updates & Downloads for Your Surface Book!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-task-management-in-windows-11/"><u>Enhancing Task Management in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/flawless-setup-how-to-obtain-and-install-the-hp-laserjet-pro-m402n-driver-for-windows-operating-systems/"><u>Flawless Setup: How to Obtain and Install the HP LaserJet Pro M402n Driver for Windows Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-text-accessibility-incorporating-wordpad-triggers-in-windows-11/"><u>Improving Text Accessibility: Incorporating WordPad Triggers in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-microsoft-store-logins-with-easy-fixes/"><u>Master Microsoft Store Logins with Easy Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-storage-differentiation-distinguishing-hddssd-in-windows/"><u>Mastering Storage Differentiation: Distinguishing HDD/SSD in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/optimize-sound-quality-expert-tips-to-repair-your-obs-mic-troubles-this-year/"><u>Optimize Sound Quality: Expert Tips to Repair Your OBS Mic Troubles This Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-revive-a-non-responsive-control-panel/"><u>Strategies to Revive a Non-Responsive Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synergy-of-data-windows-1011-file-management/"><u>Synergy of Data: Windows 10/11 File Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-windows-11-screensaver-preferences/"><u>Tailoring Your Windows 11 Screensaver Preferences</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/voiceover-your-videos-with-ease-top-6-pc-software-for-2024/"><u>Voiceover Your Videos with Ease Top 6 PC Software for 2024</u></a></li>
+</ul></div>
+
