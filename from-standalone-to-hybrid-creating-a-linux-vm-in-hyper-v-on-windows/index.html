@@ -33,8 +33,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-3.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ubuntu-virtual-machine-running-using-hyper-v.jpg">
-<meta property="article:published_time" content="2024-11-26T09:09:22.289Z">
-<meta property="article:modified_time" content="2024-11-27T08:45:32.070Z">
+<meta property="article:published_time" content="2024-12-02T10:50:46.200Z">
+<meta property="article:modified_time" content="2024-12-06T17:56:36.959Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -661,15 +661,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">10</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">14</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18596</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19593</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -720,15 +720,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-11-26 17:09:22</span>
-        <span class="mobile">2024-11-26 17:09:22</span>
+        <span class="desktop">2024-12-02 18:50:46</span>
+        <span class="mobile">2024-12-02 18:50:46</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-11-27 16:45:32</span>
-            <span class="mobile">2024-11-27 16:45:32</span>
+            <span class="desktop">2024-12-07 01:56:36</span>
+            <span class="mobile">2024-12-07 01:56:36</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -798,13 +798,13 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="The-Prerequisites-for-Running-a-Linux-Virtual-Machine-Inside-Hyper-V"><a href="#The-Prerequisites-for-Running-a-Linux-Virtual-Machine-Inside-Hyper-V" class="headerlink" title="The Prerequisites for Running a Linux Virtual Machine Inside Hyper-V"></a>The Prerequisites for Running a Linux Virtual Machine Inside Hyper-V</h2><p> Firstly, you will need a Windows virtual machine that is completely functional inside VMware. We would suggest Windows 10 or 11 virtual machines for this project. Moreover, you must pick either Windows Pro or Enterprise edition because Hyper-V isn’t available for Windows Home edition.</p>
 <p> Make sure to dedicate an adequate amount of hardware resources to the virtual machine. The reason behind this is that you will try to run a virtual machine inside a virtual machine. So, the Windows virtual machine can dedicate only a portion of its resources to running a Linux virtual machine using Hyper-V. We tested this using a Windows 11 system with 16GB of RAM and an eight-core AMD processor.</p>
 <p> Also, update the VMware Workstation Player to the latest version before you begin the installation method.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="How-to-Create-a-Linux-Virtual-Machine-Inside-Windows-Virtual-Machine-Using-Hyper-V"><a href="#How-to-Create-a-Linux-Virtual-Machine-Inside-Windows-Virtual-Machine-Using-Hyper-V" class="headerlink" title="How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V"></a>How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V</h2><p> We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.</p>
 <h3 id="1-Enable-Virtualization-for-Windows-Virtual-Machine-in-VMware"><a href="#1-Enable-Virtualization-for-Windows-Virtual-Machine-in-VMware" class="headerlink" title="1. Enable Virtualization for Windows Virtual Machine in VMware"></a>1. Enable Virtualization for Windows Virtual Machine in VMware</h3><p>To enable Virtualization, do as follows:</p>
 <ol>
@@ -820,12 +820,12 @@
 <li>Click on the<strong>OK</strong> button to apply changes.</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="2-Install-Hyper-V-on-the-Windows-Virtual-Machine"><a href="#2-Install-Hyper-V-on-the-Windows-Virtual-Machine" class="headerlink" title="2. Install Hyper-V on the Windows Virtual Machine"></a>2. Install Hyper-V on the Windows Virtual Machine</h3><p> To install Hyper-V on the VMware Windows virtual machine, repeat the following steps.</p>
@@ -844,6 +844,10 @@
 <li><strong>Restart</strong> your system to apply changes when the installation completes.</li>
 </ol>
 <p> Hyper-V is now active on your Windows virtual machine. Next, you need to create a Linux virtual machine it.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="3-Create-a-Linux-Virtual-Machine-Using-Hyper-V"><a href="#3-Create-a-Linux-Virtual-Machine-Using-Hyper-V" class="headerlink" title="3. Create a Linux Virtual Machine Using Hyper-V"></a>3. Create a Linux Virtual Machine Using Hyper-V</h3><p> The last piece of the puzzle is to create a Linux virtual machine inside the Windows virtual machine using Hyper-V. You can pick any Linux distribution that you want. We will go with Ubuntu for this experiment. You have to download the Ubuntu ISO file inside the virtual machine from the<a class="link"   target="_blank" rel="noopener" href="https://ubuntu.com/download/desktop" >Ubuntu website <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before starting with the steps.</p>
 <p>To create an Ubuntu virtual machine, do as follows:</p>
 <ol>
@@ -878,7 +882,7 @@
 <li>Click on the<strong>Next</strong> button and review the virtual machine configuration. Then, click on the<strong>Finish</strong> button to create the virtual machine.</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Now that the virtual machine is ready, it’s time to get Ubuntu up and running:</p>
@@ -897,10 +901,6 @@
                 ></li>
 </ol>
 <p> The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="A-Few-Things-to-Remember"><a href="#A-Few-Things-to-Remember" class="headerlink" title="A Few Things to Remember"></a>A Few Things to Remember</h2><p> Creating a virtual machine inside a virtual machine is possible. But you have to remember that the underlying configuration of the host system must be such that it can run a virtual machine inside a virtual machine without any issue. If you attempt this experiment on a low-end system with 4GB RAM and a dual-core processor, it will choke the system.</p>
 <p> So, you need to use a system that can devote ample hardware resources to the Windows virtual machine. Only, then you would be able to use Hyper-V and create a Linux virtual machine and allocate run it without any issues. After you try our Ubuntu using Hyper-V, you can power off the virtual machine. Or you can take the extra step and delete the virtual machine from Hyper-V Manager. It will free up a lot of space inside the Windows virtual machine.</p>
 <p> Also, uninstall the Hyper-V feature if you don’t need it any further in your Windows virtual machine. Check out our guide on<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-disable-hyper-v/" >how to disable or remove Hyper-V in Windows 11 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more information.</p>
@@ -918,20 +918,22 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/new-interactive-link-integration-for-instagram-users-for-2024/"><u>[New] Interactive Link Integration for Instagram Users for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-ensuring-your-content-is-safe-for-tiktok-uploading/"><u>[Updated] 2024 Approved Ensuring Your Content Is Safe for TikTok Uploading</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-editing-video.techidaily.com/2024-approved-11-tips-to-make-product-ad-videos/"><u>2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-knowledge.techidaily.com/2024-approved-dynamic-enhancements-for-your-tiktok-projects/"><u>2024 Approved Dynamic Enhancements for Your TikTok Projects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-error-1053-when-windows-services-stall/"><u>Fixing Error 1053: When Windows Services Stall</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-software-shortcuts-to-windows-11s-desktop-context-menu/"><u>How to Add Software Shortcuts to Windows 11’S Desktop Context Menu</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-nvidia-settings-are-unavailable-window/"><u>Overcoming Error: Nvidia Settings Are Unavailable Window</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-motorola-edgeplus-2023-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/power-up-android-studio-accelerated-development-on-win32/"><u>Power-Up Android Studio: Accelerated Development on Win32</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-fixing-local-lsa-unavailability-alerts/"><u>Tips for Fixing Local LSA Unavailability Alerts</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/transforma-tus-videos-en-linea-de-alta-calidad-desde-mpgmpeg4-al-formato-universal-mkv-gratis-gracias-a-la-herramienta-de-conversion-intuitiva-y-rapida-de-m13/"><u>Transforma Tus Vídeos en Línea De Alta Calidad Desde MPG/MPEG4 Al Formato Universal MKV Gratis Gracias a La Herramienta De Conversión Intuitiva Y Rápida De MovieAVI</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-that.techidaily.com/ultimate-guide-how-to-solve-iphone-not-ringtoning-problem-with-these-simple-tricks/"><u>Ultimate Guide: How to Solve 'iPhone Not Ringtoning' Problem with These Simple Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-artistic-potential-through-windows-generate-delete/"><u>Unleashing Artistic Potential Through Windows' Generate Delete</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-content-perfecting-videos-on-instagram/"><u>[New] 2024 Approved Elevate Your Content Perfecting Videos on Instagram</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-cloud.techidaily.com/updated-visual-filmmaking-resources-environmentally-conscious-for-2024/"><u>[Updated] Visual Filmmaking Resources - Environmentally Conscious for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-tips.techidaily.com/disliking-the-new-find-my-iphone-on-apple-watch-via-watchos-evolution-whats-your-take-the-digital-analyst-at-zdnet/"><u>Disliking the New Find My iPhone on Apple Watch via WatchOS Evolution – What's Your Take? | The Digital Analyst at ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-steam-sound-clarity/"><u>Enhancing Windows Steam Sound Clarity</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/hands-on-approach-to-ios-audio-capture/"><u>Hands-On Approach to iOS Audio Capture</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-x9b-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor X9b Devices</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://technical-tips.techidaily.com/how-to-correctly-address-and-repair-mfc42ddll-missing-issues/"><u>How to Correctly Address and Repair mfc42d.dll Missing Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-0xc0000142-in-windows-1110/"><u>How to Fix Error 0Xc0000142 in Windows 11/10</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-se-2022-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-mystery-disappearing-power-button-on-win11/"><u>Master the Mystery: Disappearing Power Button on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-rescue-made-simple-top-ten-strategies/"><u>System Rescue Made Simple: Top Ten Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-future-at-an-irresistible-price-best-windows-11-deal-612lifetime-key-lovers-delight/"><u>Unlock the Future at an Irresistible Price – Best Windows 11 Deal, $6.12/Lifetime, Key Lovers' Delight!</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sound-tweaking.techidaily.com/updated-in-2024-silentizer-xtreme-revolutionize-how-you-listen-and-edit-media/"><u>Updated In 2024, Silentizer Xtreme Revolutionize How You Listen and Edit Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-enforcing-group-policy-on-single-user-profiles/"><u>Win 10/11: Enforcing Group Policy on Single-User Profiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-diagnostics-launch-guide-for-beginners/"><u>Windows Diagnostics Launch Guide for Beginners</u></a></li>
 </ul></div>
 
 
@@ -944,11 +946,11 @@
         <li><strong>Title:</strong> From Standalone to Hybrid: Creating a Linux VM in Hyper-V on Windows</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-11-26 17:09:22</li>
+                :</strong> 2024-12-02 18:50:46</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-11-27 16:45:32
+                    :</strong> 2024-12-07 01:56:36
             </li>
         
         <li>
@@ -992,13 +994,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/enabling-apples-messaging-protocol-in-windows-10/"
+                        href="/quick-cure-alls-fixing-common-wwe-2k23-crashes-on-windows-11/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Enabling Apple&#39;s Messaging Protocol in Windows 10</span>
+                                <span class="post-nav-title-item">Quick Cure-Alls: Fixing Common WWE 2K23 Crashes on Windows 11</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1008,10 +1010,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/correcting-camera-app-0xa00f425d-issue-on-windows/"
+                        href="/unravel-the-mysteries-of-your-windows-10-activity-archive/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Correcting Camera App 0xA00F425D Issue on Windows</span>
+                                <span class="post-nav-title-item">Unravel the Mysteries of Your Windows 10 Activity Archive</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
