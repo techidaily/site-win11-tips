@@ -33,8 +33,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-regedit-1.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-1.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-2-1.jpg">
-<meta property="article:published_time" content="2024-11-29T08:21:15.965Z">
-<meta property="article:modified_time" content="2024-12-06T15:40:17.425Z">
+<meta property="article:published_time" content="2024-12-08T09:48:25.834Z">
+<meta property="article:modified_time" content="2024-12-12T13:05:10.405Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -669,7 +669,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19593</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">20576</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -720,15 +720,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-11-29 16:21:15</span>
-        <span class="mobile">2024-11-29 16:21:15</span>
+        <span class="desktop">2024-12-08 17:48:25</span>
+        <span class="mobile">2024-12-08 17:48:25</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-06 23:40:17</span>
-            <span class="mobile">2024-12-06 23:40:17</span>
+            <span class="desktop">2024-12-12 21:05:10</span>
+            <span class="mobile">2024-12-12 21:05:10</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -825,17 +825,20 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-1.jpg"
                       alt="Check SID Using the WMIC"
                 ></li>
-<li>If you want to get the details of a specific user account on your PC, the syntax of the command is:<br>wmic useraccount where name&#x3D;”USER” get sid</li>
-<li>Replace the <strong>USER</strong> part of the command with an actual username. In our case, the command becomes:<br>wmic useraccount where name&#x3D;”a” get sid<br><img  
+<li>If you want to get the details of a specific user account on your PC, the syntax of the command is:</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<p>wmic useraccount where name&#x3D;”USER” get sid<br>6. Replace the <strong>USER</strong> part of the command with an actual username. In our case, the command becomes:<br>wmic useraccount where name&#x3D;”a” get sid<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-2-1.jpg"
                       alt="Check SID Using the WMIC"
-                ></li>
-<li>Close the Command Prompt window.</li>
-</ol>
+                ><br>7. Close the Command Prompt window.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="3-Using-a-PowerShell-Cmdlet"><a href="#3-Using-a-PowerShell-Cmdlet" class="headerlink" title="3. Using a PowerShell Cmdlet"></a>3. Using a PowerShell Cmdlet</h2><p> PowerShell offers the Get-WmiObject cmdlet using which you can view the SID of all the user accounts on a Windows PC. Like the WMIC method, you can view the SIDs of all users with a single command.</p>
@@ -849,40 +852,40 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-powershell-1.jpg"
                       alt="Check SID Using the Powershell"
                 ></li>
-<li>The above command will display all the user accounts and their respective SIDs. To export the results in a text file, execute the following command:<br>Get-WmiObject win32_useraccount | Select name,sid &gt; C:\SID.txt</li>
-<li>The command will save the file in the <strong>C</strong> drive. Visit the location using File Explorer and open the file in a text editor app.</li>
-<li>Close the PowerShell window.</li>
+<li>The above command will display all the user accounts and their respective SIDs. To export the results in a text file, execute the following command:</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<p>Get-WmiObject win32_useraccount | Select name,sid &gt; C:\SID.txt<br>5. The command will save the file in the <strong>C</strong> drive. Visit the location using File Explorer and open the file in a text editor app.<br>6. Close the PowerShell window.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="4-Using-the-Registry-Editor"><a href="#4-Using-the-Registry-Editor" class="headerlink" title="4. Using the Registry Editor"></a>4. Using the Registry Editor</h2><p> If the Command Prompt or <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/" >PowerShell isn’t working on your PC <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, you can use the Registry Editor to view all the SIDs on your PC. This method isn’t as convenient as viewing the complete SID list in the terminal or in a text file. You will have to do some manual digging to find the SIDs and their user name.</p>
 <p> Here’s how to do it:</p>
 <ol>
-<li>Press <strong>Win + R</strong> to launch the Run dialog box. Type <strong>regedit</strong> in the text box and press the <strong>Ctrl + Shift + Enter</strong> keys simultaneously.</li>
-<li>The User Account Control window will pop up. Click on the <strong>Yes</strong> button.</li>
-<li>Go to the address bar at the top, paste the following path, and press the <strong>Enter</strong> key:<br>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList</li>
-<li>Click on any <strong>SID</strong> subkey to select it and go to the right pane.</li>
-<li>Now, find the <strong>ProfileImagePath</strong> value and double-click on it to open the <strong>Edit</strong> window. You will see the user name of the SID in the <strong>Value Data</strong> field.<br><img  
+<li><p>Press <strong>Win + R</strong> to launch the Run dialog box. Type <strong>regedit</strong> in the text box and press the <strong>Ctrl + Shift + Enter</strong> keys simultaneously.</p>
+</li>
+<li><p>The User Account Control window will pop up. Click on the <strong>Yes</strong> button.</p>
+</li>
+<li><p>Go to the address bar at the top, paste the following path, and press the <strong>Enter</strong> key:<br>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList</p>
+</li>
+<li><p>Click on any <strong>SID</strong> subkey to select it and go to the right pane.</p>
+</li>
+<li><p>Now, find the <strong>ProfileImagePath</strong> value and double-click on it to open the <strong>Edit</strong> window. You will see the user name of the SID in the <strong>Value Data</strong> field.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-regedit-1.jpg"
                       alt="Check SID Using Regedit"
-                ></li>
-<li>Similarly, you can check the other SID keys and open their <strong>ProfileImagePath</strong> value to find their corresponding user name.</li>
+                ></p>
+</li>
+<li><p>Similarly, you can check the other SID keys and open their <strong>ProfileImagePath</strong> value to find their corresponding user name.</p>
+</li>
+<li><p>Close the Registry Editor app afterward.</p>
+</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="7">
-<li>Close the Registry Editor app afterward.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="5-Using-a-Batch-File"><a href="#5-Using-a-Batch-File" class="headerlink" title="5. Using a Batch File"></a>5. Using a Batch File</h2><p> If you find the Terminal route cumbersome, you can create a batch file to display the SID of all the users at once. Repeat the following steps to create a batch file:</p>
 <ol>
 <li>Press <strong>Win + D</strong> to switch to the Desktop.</li>
@@ -898,7 +901,7 @@
 <li>Navigate to the folder location where you saved the batch file. Double-click on it to run it.</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ol start="7">
@@ -912,34 +915,28 @@
 <h2 id="Check-SIDs-in-a-Jiffy"><a href="#Check-SIDs-in-a-Jiffy" class="headerlink" title="Check SIDs in a Jiffy"></a>Check SIDs in a Jiffy</h2><p> These were the methods to check the SID of a user or all the users on your Windows PC. Use the first method if you only want to see the currently logged-in user’s SID.</p>
 <p> The rest of the methods will display the SID of one or all the users on your PC. Lastly, create a batch file to display the SIDs of all users whenever you need it.</p>
 <p> The most common means to find a SID on Windows is using the “whoami”command. But there are several other ways to view the SID of one or all users on your Windows PC. Let’s discuss them in detail.</p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-blue.techidaily.com/new-2024-approved-the-future-of-high-resolution-viewing-an-overview-of-asuss-proart-pa-329q-monitor/"><u>[New] 2024 Approved The Future of High-Resolution Viewing An Overview of Asus's ProArt PA 329Q Monitor</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-media-content-via-youtube-studio-editing-skills/"><u>[Updated] 2024 Approved Elevate Your Media Content via YouTube Studio Editing Skills</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/updated-expert-picks-7-premium-mac-videos/"><u>[Updated] Expert Picks 7 Premium Mac Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/updated-in-2024-comprehensively-understanding-iphones-recording-feature/"><u>[Updated] In 2024, Comprehensively Understanding iPhone's Recording Feature</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-helps.techidaily.com/updated-in-2024-top-10-techniques-for-youtube-to-mpeg-conversion/"><u>[Updated] In 2024, Top 10 Techniques for YouTube-to-MPEG Conversion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-ways-to-enable-telnet-in-windows-10-and-11/"><u>3 Ways to Enable Telnet in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-ways-to-fix-a-grayed-out-screen-saver-settings-on-windows/"><u>4 Ways to Fix a Grayed Out Screen Saver Settings on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-hyper-v-enablement-in-win11/"><u>A Comprehensive Guide to Hyper-V Enablement in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-restoring-lost-functionality-to-your-windows-tablet-pens/"><u>A Guide: Restoring Lost Functionality to Your Windows Tablet Pens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advance-your-pc-to-the-pinnacle-of-video-conversion-via-tdarr-innovations/"><u>Advance Your PC to the Pinnacle of Video Conversion via Tdarr Innovations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/balancing-wireless-and-cable-networks-on-windows-systems/"><u>Balancing Wireless & Cable Networks on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-pc-speed-with-win11-startup-tweaks/"><u>Boosting PC Speed with Win11 Startup Tweaks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-productivity-top-7-tips-for-mastering-windows-11/"><u>Boosting Productivity: Top 7 Tips for Mastering Windows 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-cloud.techidaily.com/in-2024-7-types-of-color-grading-for-you-to-try/"><u>In 2024, 7 Types of Color Grading for You to Try</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-meizu-21-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Meizu 21</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://buynow-info.techidaily.com/navigating-through-style-and-tech-with-the-skagen-falster-review-a-comprehensive-insight-into-a-sophisticated-wearable-device/"><u>Navigating Through Style and Tech with the Skagen Falster ^ Review: A Comprehensive Insight Into a Sophisticated Wearable Device</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://data-wizards.techidaily.com/videofix-pro-revive-mp4-and-mov-files/"><u>VideoFix Pro: Revive MP4 & MOV Files</u></a></li>
-</ul></div>
-
 <p><ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    </p>
+      data-full-width-responsive="true"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a target="_blank" rel="noopener" href="https://article-knowledge.techidaily.com/new-in-2024-find-the-perfect-phone-shot-blur/"><u>[New] In 2024, Find the Perfect Phone Shot Blur</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/updated-best-text-plugins-for-after-effects/"><u>[Updated] Best Text Plugins For After Effects</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-harness-youtubes-creative-commons-in-video-making/"><u>[Updated] In 2024, How to Harness YouTube's Creative Commons in Video Making</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://article-posts.techidaily.com/2024-approved-streaming-mastery-zoom-plus-fb-live-tactics/"><u>2024 Approved Streaming Mastery ZOOM + FB Live Tactics</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-blue.techidaily.com/dramatize-depth-and-direct-focus-using-leading-lines-in-iphone-photography-for-2024/"><u>Dramatize Depth and Direct Focus Using Leading Lines in iPhone Photography for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/festive-streaming-picks-the-latest-and-greatest-christmas-movies-on-netflix/"><u>Festive Streaming Picks: The Latest and Greatest Christmas Movies on Netflix</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/high-definition-top-win-11-cameras-and-recorder-list-for-2024/"><u>High Definition Top Win 11 Cameras and Recorder List for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovate-and-express-drawing-desktops-with-windows/"><u>Innovate & Express: Drawing Desktops with Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-renaissance.techidaily.com/innovative-camera-control-just-got-easier-discover-the-latest-iphone-16s-unique-shutter-buttons-tech-insights/"><u>Innovative Camera Control Just Got Easier: Discover the Latest iPhone 16'S Unique Shutter Buttons | Tech Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-non-functional-wsreset-a-comprehensive-guide/"><u>Reclaiming Non-Functional WSReset: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rouse-the-rest-inputs-to-reactivate-windows-os-after-sleep/"><u>Rouse the Rest: Inputs to Reactivate Windows OS After Sleep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-your-photos-building-captivating-slideshows-and-fixing-errors-on-win11/"><u>Transforming Your Photos: Building Captivating Slideshows & Fixing Errors on Win11</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -950,11 +947,11 @@
         <li><strong>Title:</strong> In-Depth Analysis: How to Garner Windows 11&#39;S SID Data</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-11-29 16:21:15</li>
+                :</strong> 2024-12-08 17:48:25</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-06 23:40:17
+                    :</strong> 2024-12-12 21:05:10
             </li>
         
         <li>
@@ -998,13 +995,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/solving-file-save-location-mistakes-in-win-1011/"
+                        href="/mastery-in-tackling-windows-steam-restrictions/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Solving File Save Location Mistakes in Win 10/11</span>
+                                <span class="post-nav-title-item">Mastery in Tackling Windows&#39; Steam Restrictions</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1014,10 +1011,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/removing-repetitive-microsoft-edge-symbols/"
+                        href="/tactics-to-combat-a-disabled-backspace-key-in-windows/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Removing Repetitive Microsoft Edge Symbols</span>
+                                <span class="post-nav-title-item">Tactics to Combat a Disabled Backspace Key in Windows</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

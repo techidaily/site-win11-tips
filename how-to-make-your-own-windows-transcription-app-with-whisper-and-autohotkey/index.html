@@ -45,8 +45,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-runwait-whisperexecutable-and-flag-1.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-troubleshooting-copy-command-to-clipboard-1.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/checking-out-the-command-in-cmd-1.jpg">
-<meta property="article:published_time" content="2024-12-05T10:01:36.638Z">
-<meta property="article:modified_time" content="2024-12-06T12:45:06.564Z">
+<meta property="article:published_time" content="2024-12-08T10:22:54.064Z">
+<meta property="article:modified_time" content="2024-12-12T12:56:08.530Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -681,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19593</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">20576</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -732,15 +732,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-05 18:01:36</span>
-        <span class="mobile">2024-12-05 18:01:36</span>
+        <span class="desktop">2024-12-08 18:22:54</span>
+        <span class="mobile">2024-12-08 18:22:54</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-06 20:45:06</span>
-            <span class="mobile">2024-12-06 20:45:06</span>
+            <span class="desktop">2024-12-12 20:56:08</span>
+            <span class="mobile">2024-12-12 20:56:08</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -843,15 +843,20 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/shift-right-click-open-with-editor-1.jpg"
                       alt="Shift Right Click Open With Editor"
                 ></li>
-<li>Despite being “an empty script”, your AHK file will already be pre-populated with some “stuff”. Those are useful AutoHotkey variables and flags that define how it should work on your desktop. Ignore them, leave them as they are, and do all your future typing underneath them.<br><img  
+<li>Despite being “an empty script”, your AHK file will already be pre-populated with some “stuff”. Those are useful AutoHotkey variables and flags that define how it should work on your desktop. Ignore them, leave them as they are, and do all your future typing underneath them.</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/blank-autohotkey-script-in-vs-code-1.jpg"
                       alt="Blank Autohotkey Script In Vs Code"
-                ></li>
-</ol>
+                ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Getting-to-Know-Whisper’s-Flags"><a href="#Getting-to-Know-Whisper’s-Flags" class="headerlink" title="Getting to Know Whisper’s Flags"></a>Getting to Know Whisper’s Flags</h2><p> Since we’re making a GUI for a command line app, it’s handy to have a reference to its major variables and flags that we’ll be using in our project. You can check them out by reading Whisper’s documentation, visiting <a class="link"   target="_blank" rel="noopener" href="https://github.com/openai/whisper" >its official Github page <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, and running it in your terminal.</p>
@@ -864,10 +869,6 @@
 <p> We’ll list the ones we’ll use in this project for convenience. We suggest you add them to your script as comments (in separate lines, each beginning with a “;” character followed by a space).</p>
 <p><code>; Whisper Flags:; --initial_prompt PROMPT_TEXT; --output_format txt; -o OUTPUT_FOLDER; --model MODEL_TO_USE; --task TRANSCRIBE/TRANSLATE; --language EN/EL</code></p>
 <h2 id="Creating-the-GUI-With-AutoHotkey"><a href="#Creating-the-GUI-With-AutoHotkey" class="headerlink" title="Creating the GUI With AutoHotkey"></a>Creating the GUI With AutoHotkey</h2><p> We suggest you split your script into sections using comments like we did to keep it organized. We’ll start by defining some variables, continue to the actual GUI, and end by defining its functions.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h3 id="Establishing-the-Hidden-Variables"><a href="#Establishing-the-Hidden-Variables" class="headerlink" title="Establishing the Hidden Variables"></a>Establishing the Hidden Variables</h3><p> We begin with a section where we’ll define variables we may want to change in the future, but not so often that we’d like to expose them through the GUI, over-complicating it. You can type “Variable_Name &#x3D; Content or value of the variable” with one variable and value pair per line.</p>
 <p> For this project, we’ve defined a <strong>OutputFormat</strong> variable that we set to the “<strong>txt</strong>“ value and a <strong>WhisperExecutable</strong> variable stating <strong>Whisper’s executable file name</strong>. This way, if we want to use the same solution in the future to create SRT subtitle files instead of TXT documents or upgrade Whisper&#x2F;switch to an alternative app, we can adjust the values of those variables on that single spot instead of throughout the script.</p>
 <p><code>OutputFormat = txtWhisperExecutable = whisper</code></p>
@@ -877,6 +878,14 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-script-variables-1.jpg"
                       alt="Defining Script Variables"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="Setting-Up-the-User-Options"><a href="#Setting-Up-the-User-Options" class="headerlink" title="Setting Up the User Options"></a>Setting Up the User Options</h3><p> When using Whisper on the command line, three of its flags allow you to define:</p>
 <ul>
 <li>If you’re doing <strong>translation</strong> or <strong>transcription</strong></li>
@@ -894,6 +903,10 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-gui-drop-down-lists-1.jpg"
                       alt="Defining Gui Drop Down Lists"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="How-to-Guide-Whisper"><a href="#How-to-Guide-Whisper" class="headerlink" title="How to Guide Whisper"></a>How to Guide Whisper</h3><p> Since Whisper is AI-based, there’s no way to have absolute control over how Whisper transcribes audio. It’s free to choose what it considers optimal.</p>
 <p> However, like other AI solutions, Whisper can accept user prompts. By crafting a prompt, you can “guide” how it transcribes your audio.</p>
 <p> Did the solution we’re making fail to Transcribe something correctly? You can try “explaining” to Whisper “what the voice file is about”, including the syntax of words, acronyms, and phrases in your prompt as you want them to appear in the transcription. For that, we’ll add an AutoHotkey Text Edit field.</p>
@@ -909,7 +922,7 @@
                       alt="Defining Prompt Text Edit Field"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="Setting-Up-the-Action-Buttons"><a href="#Setting-Up-the-Action-Buttons" class="headerlink" title="Setting Up the Action Buttons"></a>Setting Up the Action Buttons</h3><p> For choosing files, folders, and running Whisper after we’ve set everything up, it’s better to use buttons. You can add buttons to an AHK-made interface using the following:</p>
@@ -947,7 +960,7 @@
                       alt="Button Functions Highlighted"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> The three functions we want are:</p>
@@ -956,10 +969,6 @@
 <li>Select the output folder where the transcribed file will be stored.</li>
 <li>Craft a command that will “assemble” all variables into a usable Whisper command, akin to what we’d type ourselves in a terminal, and then run it.</li>
 </ul>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h3 id="Input-File-Selection"><a href="#Input-File-Selection" class="headerlink" title="Input File Selection"></a>Input File Selection</h3><p> The first function, which we’ve already named “<strong>SelectFile</strong>“ when we added its button to the GUI, is:</p>
 <p><code>SelectFile:FileSelectFile, SelectedFileReturn</code></p>
 <p><img  
@@ -968,10 +977,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-troubleshooting-message-box-to-select-file-1.jpg"
                       alt="Adding Troubleshooting Message Box To Select File"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p><strong>FileSelectFile</strong> is an AutoHotkey function that displays a typical file requester, allowing the user to select a file. <strong>SelectedFile</strong> is the variable in our script that will “hold” the path to the file the user selected.</p>
 <p> However, as you’ll see in our screenshots, we’ve also added the following line right above the function-ending “return”:</p>
 <p><code>MsgBox, %SelectedFile%</code></p>
@@ -985,7 +990,7 @@
                       alt="Select Folder Function"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="The-Final-Function"><a href="#The-Final-Function" class="headerlink" title="The Final Function"></a>The Final Function</h3><p> The final function will be the most complicated. Mapped to the OK button, this will “gather” all variable values from the GUI, morph them into a usable command, and then run it.</p>
@@ -1005,10 +1010,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-gui-submit-1.jpg"
                       alt="Button Submit Gui Submit"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> The following line creates a new variable called “<strong>WhisperFlags</strong>“. It then adds to it all of the GUI’s variables as flags for the Whisper command.</p>
 <p><code>WhisperFlags = --initial_prompt &quot;%PromptText%&quot; --task %TaskType% --model %SelectedModel% --language %SelectedLanguage% --output_format %OutputFormat% -o &quot;%SelectedFolder%&quot; &quot;%SelectedFile%&quot;</code></p>
 <p><img  
@@ -1041,13 +1042,9 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/checking-out-the-command-in-cmd-1.jpg"
                       alt="Checking Out The Command In Cmd"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> For example, while working on the script, I initially forgot to have the prompt enclosed within quotation marks. Thus, the command failed, since Whisper tried to parse the prompt as flags.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Testing-and-Final-Tweaks"><a href="#Testing-and-Final-Tweaks" class="headerlink" title="Testing and Final Tweaks"></a>Testing and Final Tweaks</h2><p> That was it—we’ve just created a transcription app using AutoHotkey’s GUI-making capabilities and a ready-to-use AI transcription solution.</p>
@@ -1060,34 +1057,37 @@
 <li>Click on <strong>OK</strong> to unleash Whisper, as configured by your GUI, on your selected audio file, and save its transcription as a text file in the folder you selected.</li>
 </ul>
 <p> If everything worked, go back to your script and either delete or Comment out (by adding a “;” at their beginning) all the troubleshooting functionality (message boxes and copy-to-Clipboard lines).</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Taking-Whisper-Further-With-AutoHotkey"><a href="#Taking-Whisper-Further-With-AutoHotkey" class="headerlink" title="Taking Whisper Further With AutoHotkey"></a>Taking Whisper Further With AutoHotkey</h2><p> By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.</p>
 <p> With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let’s do that and see how you can create your own transcription app by combining AutoHotkey’s GUI-making superpowers with OpenAI’s Whisper as the “brain” behind the buttons.</p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/new-skincare-secrets-for-success/"><u>[New] Skincare Secrets for Success</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/new-the-essence-of-style-in-ae-title-design/"><u>[New] The Essence of Style in AE Title Design</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/updated-2024-approved-bringing-heartwarmth-to-the-winter-5-snug-cinematographic-tips/"><u>[Updated] 2024 Approved Bringing Heartwarmth to the Winter 5 Snug Cinematographic Tips</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-helps.techidaily.com/updated-becoming-a-professional-editor-mastering-final-cut-pro-for-2024/"><u>[Updated] Becoming a Professional Editor Mastering Final Cut Pro for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/updated-in-2024-can-image-smoothing-simplify-photo-editing/"><u>[Updated] In 2024, Can Image Smoothing Simplify Photo Editing?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vimeo-videos.techidaily.com/2024-approved-rhythmic-revelations-adding-audio-to-your-vimeo-videos/"><u>2024 Approved Rhythmic Revelations Adding Audio to Your Vimeo Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-volume-on-bluetooth-headphonesspeakers-a-win11-guide/"><u>Boosting Volume on Bluetooth Headphones/Speakers: A Win11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-command-prompt-to-windows-11s-task-manager/"><u>Bring Command Prompt to Windows 11'S Task Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-your-games-home-integrating-android-into-windows-11s-ecosystem/"><u>Bring Your Games Home: Integrating Android Into Windows 11'S Ecosystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-permission-denied-window-message/"><u>Bypassing Permission Denied Window Message</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-windows-read-only-settings-for-file-access/"><u>Bypassing Windows Read-Only Settings for File Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ceasing-cortana-on-windows-11/"><u>Ceasing Cortana on Windows 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://buynow-tips.techidaily.com/ensure-your-pets-never-miss-a-meal-with-the-advanced-arf-auto-feeder-system/"><u>Ensure Your Pets Never Miss a Meal with the Advanced Arf Auto-Feeder System</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techtrends.techidaily.com/exploring-how-electric-cars-surpass-gas-powered-ones-in-performance-and-efficiency/"><u>Exploring How Electric Cars Surpass Gas-Powered Ones in Performance and Efficiency</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sound-issues.techidaily.com/resolved-audio-issue-sound-from-speakers-not-headphones/"><u>Resolved! Audio Issue - Sound From Speakers, Not Headphones</u></a></li>
-</ul></div>
-
 <p><ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    </p>
+      data-full-width-responsive="true"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a target="_blank" rel="noopener" href="https://article-files.techidaily.com/new-2024-approved-edit-like-a-pro-with-top-android-apps/"><u>[New] 2024 Approved Edit Like a Pro with Top Android Apps</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-sure.techidaily.com/ed-in-2024-from-free-to-paid-the-transition-to-youtubes-elite-service/"><u>[Updated] In 2024, From Free to Paid The Transition to YouTube's Elite Service</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/1715860122111-updated-stepwise-guide-to-establishing-a-seamless-skype-discussion-among-multiple-users-in-different-systems/"><u>[Updated] Stepwise Guide to Establishing a Seamless Skype Discussion Among Multiple Users in Different Systems.</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/updated-transforming-google-meet-screens-on-devices-for-2024/"><u>[Updated] Transforming Google Meet Screens on Devices for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-recovery.techidaily.com/ev-owners-guide-to-extra-benefits-priority-parking-and-quick-pass-on-high-occupancy-vehicle-lanes/"><u>EV Owner's Guide to Extra Benefits: Priority Parking & Quick-Pass on High Occupancy Vehicle Lanes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harmonizing-wireless-and-cable-networks-in-windows-os/"><u>Harmonizing Wireless and Cable Networks in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-factory-reset-windows-11-without-the-admin-password/"><u>How to Factory Reset Windows 11 Without the Admin Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-seamlessly-integrate-java-development-kit-in-windows-11-os/"><u>How to Seamlessly Integrate Java Development Kit in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-guide-to-eliminate-windows-dwarf-fortress-anomalies/"><u>Mastery Guide to Eliminate Windows-Dwarf Fortress Anomalies</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-tricks.techidaily.com/step-by-step-guide-to-blocking-ads-and-protecting-privacy-across-all-your-devices/"><u>Step-by-Step Guide to Blocking Ads and Protecting Privacy Across All Your Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-method-for-effective-mkv-to-mp4-conversion-in-windows/"><u>Stepwise Method for Effective MKV-to-MP4 Conversion in Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-marvelous.techidaily.com/top-rated-cloud-storage-solutions-find-your-perfect-match-insights-from-yl-computing/"><u>Top Rated Cloud Storage Solutions: Find Your Perfect Match - Insights From YL Computing</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/transforming-industries-with-virtual-reality-applications/"><u>Transforming Industries with Virtual Reality Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncomplicated-installation-process-for-intel-ethernet-and-wi-fi-adapters/"><u>Uncomplicated Installation Process for Intel Ethernet & Wi-Fi Adapters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-odbc-explorer-explained/"><u>Windows ODBC Explorer Explained</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -1098,11 +1098,11 @@
         <li><strong>Title:</strong> How to Make Your Own Windows Transcription App With Whisper and AutoHotkey</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-12-05 18:01:36</li>
+                :</strong> 2024-12-08 18:22:54</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-06 20:45:06
+                    :</strong> 2024-12-12 20:56:08
             </li>
         
         <li>
@@ -1146,13 +1146,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/fixing-windows-phone-storage-issues-in-camera-app/"
+                        href="/reawaken-chrome-on-win11-essential-troubleshooting-steps/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Fixing Windows Phone Storage Issues in Camera App</span>
+                                <span class="post-nav-title-item">Reawaken Chrome on Win11 – Essential Troubleshooting Steps</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1162,10 +1162,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/fortify-windows-11-notebook-using-ai-whiz/"
+                        href="/navigating-through-no-sync-problems-in-microsofts-to-do-app/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Fortify Windows 11 Notebook Using AI Whiz</span>
+                                <span class="post-nav-title-item">Navigating Through No Sync Problems in Microsoft&#39;s To-Do App</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
